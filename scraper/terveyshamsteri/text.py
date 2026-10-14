@@ -182,10 +182,13 @@ def _label_lines(text: str) -> list[str]:
     i = 0
     while i < len(lines):
         line = lines[i].strip()
-        nxt = lines[i + 1].strip() if i + 1 < len(lines) else ""
+        j = i + 1
+        if j < len(lines) and not lines[j].strip():
+            j += 1  # paragraphs are separated by a blank line
+        nxt = lines[j].strip() if j < len(lines) else ""
         if re.fullmatch(r"[A-ZÅÄÖ][\wåäö-]+n", line) and nxt and heading_kind(f"{line} {nxt}"):
             out.append(f"{line} {nxt}")
-            i += 2
+            i = j + 1
             continue
         m = re.match(r"([A-ZÅÄÖ][\wåäö -]{2,38}?)\s*:\s+(\S.*)$", line)
         if m and heading_kind(m.group(1)) and heading_kind(m.group(1)) not in ("preparer", "presenter"):

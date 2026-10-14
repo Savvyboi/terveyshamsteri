@@ -211,7 +211,7 @@ def test_dynasty_newer_layout():
 
 def test_split_sections_label_variants():
     from terveyshamsteri.text import split_sections
-    text = ("Selostus\nTaustaa.\n\nToimialajohtajan\npäätösesitys\nValiokunta merkitsee tiedoksi.\n\n"
+    text = ("Selostus\nTaustaa.\n\nToimialajohtajan\n\npäätösesitys\nValiokunta merkitsee tiedoksi.\n\n"
             "Päätös: Hyväksyttiin.")
     secs = split_sections(text)
     assert [(s.heading, s.text) for s in secs] == [

@@ -51,7 +51,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        region: [keski-suomi, pirkanmaa, etela-savo, kanta-hame, keski-pohjanmaa, lansi-uusimaa, pohjanmaa, pohjois-karjala, pohjois-savo, ita-uusimaa, kainuu, keski-uusimaa, pohjois-pohjanmaa, satakunta, vantaa-kerava]
+        region: [keski-suomi, pirkanmaa, kanta-hame]
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
