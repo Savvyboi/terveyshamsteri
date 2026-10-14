@@ -1,19 +1,46 @@
-"""Temporary: find Statistics Finland tables on wellbeing services county finances."""
-import json, re, sys, urllib.request
+"""Temporary: find an open API for wellbeing services county finances (Valtiokonttori)."""
+import re, urllib.request, urllib.parse
 
-API = "https://pxdata.stat.fi/PxWeb/api/v1/fi/StatFin"
-def get(u):
-    with urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "terveyshamsteri-probe"}), timeout=60) as r:
-        return json.load(r)
+def get(u, n=400000):
+    req = urllib.request.Request(u, headers={"User-Agent": "terveyshamsteri-probe", "Accept": "*/*"})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        return r.status, r.headers.get("content-type", ""), r.read(n).decode("utf-8", "replace")
 
-dbs = get(API)
-hits = [d for d in dbs if re.search(r"hyvinvointi|kunt|julkis|sosiaali|terveyd", d["text"], re.I)]
-print("::notice title=DBS::" + "; ".join(f"{d['id']}={d['text']}" for d in hits))
-for d in hits:
+def note(title, msg):
+    print(f"::notice title={title}::" + msg.replace("\n", " ")[:3800])
+
+# 1. Crawl the avoindata portal's scripts for API addresses.
+found = set()
+try:
+    _, _, html = get("https://avoindata.tutkihallintoa.fi/apis")
+    scripts = re.findall(r'src="([^"]+\.js[^"]*)"', html)
+    note("PORTAL", f"scripts={scripts[:10]} html={html[:600]}")
+    for s in scripts[:15]:
+        u = urllib.parse.urljoin("https://avoindata.tutkihallintoa.fi/", s)
+        try:
+            _, _, js = get(u, 5_000_000)
+            found |= set(re.findall(r'https?://[a-z0-9.-]*(?:tutkihallintoa|valtiokonttori|azure-api|azurewebsites|cloudapp)[^"\'\s`)]*', js))
+            found |= {"PATH:" + p for p in re.findall(r'["\'](/(?:apis?|developer|docs)[^"\']{0,80})["\']', js)}
+        except Exception as e:
+            note("SCRIPT", f"{u} {e!r}")
+except Exception as e:
+    note("PORTAL", repr(e))
+note("FOUND", " | ".join(sorted(found))[:3800])
+
+# 2. Try likely catalogue and API addresses.
+for u in [
+    "https://avoindata.tutkihallintoa.fi/developer/apis",
+    "https://avoindata.tutkihallintoa.fi/developer/apis?api-version=2022-04-01-preview",
+    "https://api.tutkihallintoa.fi/",
+    "https://api.tutkihallintoa.fi/kuntatalous/v1/",
+    "https://api.tutkihallintoa.fi/hyvinvointialuetalous/v1/",
+    "https://api.tutkihallintoa.fi/hyvinvointialueet/v1/",
+    "https://www.exploreadministration.fi/application-program-interfaces/",
+    "https://www.tutkihallintoa.fi/avoimet-rajapinnat/",
+]:
     try:
-        tabs = get(f"{API}/{d['id']}")
+        st, ct, body = get(u)
+        links = sorted(set(re.findall(r'https?://(?:api|avoindata)\.tutkihallintoa\.fi[^"\'\s<)]*', body)))
+        note(f"GET {st}", f"{u} [{ct}] links={links[:40]} body={re.sub(r'<[^>]+>', ' ', body)[:800]}")
     except Exception as e:
-        print(f"::notice title=DB {d['id']}::error {e}"); continue
-    rel = [t for t in tabs if re.search(r"hyvinvointialue", t["text"], re.I)] or tabs[:6]
-    msg = "; ".join(f"{t['id']}={t['text']}" for t in rel)[:3500]
-    print(f"::notice title=DB {d['id']} ({len(tabs)})::{msg}")
+        note("GET ERR", f"{u} {e!r}")
