@@ -108,6 +108,23 @@ jobs:
                   print(f"::notice title=MEETING {r}::{m['body_name']} {m['date']} {m['stage']} time={m['time']} place={m['place']} "
                         f"participants={m['participants'][:3]}")
           PY
+      - name: Raw markup of a weak item (debugging)
+        if: always()
+        working-directory: scraper
+        run: |
+          python - <<'PY'
+          import json, pathlib, re
+          from terveyshamsteri.http import Fetcher
+          ms = [json.loads(p.read_text()) for p in sorted(pathlib.Path("../probe").rglob("meetings/**/*.json"))]
+          weak = [it for m in ms for it in m["items"] if not it["proposal"] and not it["decision"]]
+          pick = (weak or [it for m in ms for it in m["items"]])[-1:]
+          for it in pick:
+              html = Fetcher().get(it["source_url"]).text
+              i = html.find("<h1")
+              body = re.sub(r'\s+', ' ', re.sub(r'\s(style|class|onload|width)="[^"]*"', '', html[i if i >= 0 else 0:]))
+              for k in range(0, min(len(body), 9000), 3000):
+                  print(f"::notice title=RAW {k}::{it['source_url']} " + body[k:k + 3000])
+          PY
       - uses: actions/upload-artifact@v4
         if: always()
         with:
