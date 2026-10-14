@@ -150,6 +150,10 @@ def test_cloudnc_region(tmp_path, patch_fetcher):
     assert ("Hanna Esimerkki", "Puheenjohtaja") in {(p["name"], p["role"]) for p in m["participants"]}
 
     real = m["items"][1]
+    assert [a["url"] for a in real["attachments"]] == [
+        "https://esim.cloudnc.fi/download/noname/{508c25fa-c1f5-4ffd-acbb-15cfb749ee75}/77295"]
+    assert real["attachments"][0]["title"].startswith("Tavoitteet 2027.pdf")
+    assert "Liitteet" not in [x["heading"] for x in real["sections"]]
     assert real["source_url"] == f"{CNC}/fi-FI/content/46499/14970"
     assert real["diary_number"] == "16442/2026"
     assert real["sections"][0]["heading"] == "Valmistelija"

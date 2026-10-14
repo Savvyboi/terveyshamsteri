@@ -13,7 +13,7 @@ import re
 from urllib.parse import unquote, urljoin, urlsplit
 
 from ..models import Attachment, Body, Item, Meeting, MeetingRef, Participant
-from ..text import body_type, html_text, parse_fi_date, slugify, soup
+from ..text import body_type, heading_kind, html_text, parse_fi_date, slugify, soup
 from .base import Adapter, content_after, fill_item_from_text
 
 log = logging.getLogger(__name__)
@@ -127,15 +127,11 @@ class CloudNCAdapter(Adapter):
         h1 = doc.find("h1")
         text = content_after(h1) if h1 else html_text(doc.body or doc)
         text = self._strip_intro(item, text)
-        if not item.attachments and re.search(r"\n(Liitteet|Bilagor)\n", text) and not getattr(self, "_logged", False):
-            self._logged = True
-            log.warning("attachments listed but no download links on %s; links: %s", item.source_url,
-                        [(a["href"], a.get_text(" ", strip=True)[:40]) for a in doc.find_all("a", href=True)][-25:])
-            onclick = [str(t)[:200] for t in doc.find_all(attrs={"onclick": True})][:5]
-            log.warning("onclick elements: %s", onclick)
         if not text.strip():
             item.redacted = True
         fill_item_from_text(item, text)
+        if item.attachments:  # the 'Liitteet' block only repeats the file names and sizes
+            item.sections = [x for x in item.sections if heading_kind(x.heading) != "attachments"]
 
     @staticmethod
     def _strip_intro(item: Item, text: str) -> str:
