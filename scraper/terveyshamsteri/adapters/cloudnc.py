@@ -126,9 +126,30 @@ class CloudNCAdapter(Adapter):
                     item.attachments.append(Attachment(title=title, url=href))
         h1 = doc.find("h1")
         text = content_after(h1) if h1 else html_text(doc.body or doc)
+        text = self._strip_intro(item, text)
         if not text.strip():
             item.redacted = True
         fill_item_from_text(item, text)
+
+    @staticmethod
+    def _strip_intro(item: Item, text: str) -> str:
+        """Item pages open with the minutes status, '§', the number, the title and a bare
+        diary number ('16442/2026' or 'PIRHA 8590/2024'). Keep the diary number, drop the rest."""
+        lines = text.split("\n")
+        out, i = [], 0
+        while i < len(lines) and i < 12:
+            ln = lines[i].strip()
+            if not ln or ln in (item.number, item.title) or re.fullmatch(r"§\s*\d*[a-z]?", ln) or re.match(
+                    r"^(Pöytäkirja|Esityslista|Protokoll|Föredragningslista)\b.*(tarkastettu|justerat|$)", ln):
+                i += 1
+                continue
+            m = re.fullmatch(r"(?:[A-ZÅÄÖ]{2,}\s*)?\d{1,7}/\d{2}\.\d{2}\.\d{2}/\d{4}|(?:[A-ZÅÄÖ]{2,}\s*)?\d{1,7}/\d{4}", ln)
+            if m and not item.diary_number:
+                item.diary_number = ln
+                i += 1
+                continue
+            break
+        return "\n".join(lines[i:])
 
 
 _GROUP = re.compile(
@@ -164,7 +185,7 @@ def _participants(page_text: str) -> list[Participant]:
         if re.match(r"^(Pöytäkirja|Esityslista|Protokoll|©|Muutoksenhaku)", line):
             break
         for entry in _split_people(line):
-            mm = re.match(r"(.+?)\s*\((.*)\)\s*$", entry)
+            mm = re.match(r"(.+?)\s*\((.*)\)\s*$", entry) or re.match(r"(.+?)\s+[-–]\s+(.+)$", entry)
             name, role = (mm.group(1), mm.group(2)) if mm else (entry, "")
             name = name.strip(" ,")
             if 3 <= len(name) <= 80 and not re.search(r"\d", name):

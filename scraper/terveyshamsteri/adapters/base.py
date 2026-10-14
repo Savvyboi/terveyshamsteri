@@ -10,7 +10,7 @@ from typing import Any
 from bs4 import Tag
 
 from ..http import Fetcher
-from ..models import Body, Item, Meeting, MeetingRef
+from ..models import Body, Item, Meeting, MeetingRef, Section
 from ..text import diary_number, html_text, extract_votes, heading_kind, last_of, scrub, split_sections
 
 
@@ -38,7 +38,7 @@ class Adapter(ABC):
 def fill_item_from_text(item: Item, text: str) -> Item:
     """Populate the structured fields of an item from its plain text."""
     text = scrub(text) or ""
-    sections = split_sections(text)
+    sections = _move_proposal_out_of_presenter(split_sections(text))
     item.sections = sections
     item.diary_number = item.diary_number or diary_number(text)
     item.proposal = last_of(sections, "proposal")
@@ -47,9 +47,9 @@ def fill_item_from_text(item: Item, text: str) -> Item:
     for s in sections:
         kind = heading_kind(s.heading)
         if kind == "preparer" and not item.preparer:
-            item.preparer = first_line(s.text)
+            item.preparer = "; ".join(ln.strip().rstrip(",").strip() for ln in s.text.split("\n") if ln.strip())[:300]
         elif kind == "presenter" and not item.presenter:
-            item.presenter = first_line(s.text)
+            item.presenter = first_line(s.text).rstrip(",").strip()
     # "Valmistelija: Etunimi Sukunimi, talousjohtaja" written inline
     if not item.preparer:
         m = re.search(r"(?:Valmistelija|Lisätiedot|Beredare)t?\s*:?\s*([^\n]{3,120})", text)
@@ -65,8 +65,32 @@ def fill_item_from_text(item: Item, text: str) -> Item:
     return item
 
 
+def _move_proposal_out_of_presenter(sections: list[Section]) -> list[Section]:
+    """CloudNC prints 'Ehdotus' as an empty heading followed by 'Esittelijä: Name, TITLE'
+    and only then the proposal text. Move that text back under the proposal heading."""
+    out = list(sections)
+    for i in range(len(out) - 1):
+        a, b = out[i], out[i + 1]
+        if heading_kind(a.heading) == "proposal" and not a.text and heading_kind(b.heading) == "presenter":
+            parts = re.split(r"\n\s*\n", b.text, maxsplit=1)
+            if len(parts) == 2 and parts[1].strip():
+                out[i] = Section(a.heading, parts[1].strip())
+                out[i + 1] = Section(b.heading, parts[0].strip())
+    return out
+
+
 def first_line(s: str) -> str:
     return next((ln.strip() for ln in s.split("\n") if ln.strip()), "")[:200]
+
+
+def cut_navigation(text: str) -> str:
+    """Dynasty ends item pages with a 'Navigointi' block and a DATAEND marker."""
+    ends = list(re.finditer(r"(?:^|\n)(?:Navigointi|DATAEND)\s*(?:\n|$)", text))
+    if ends:
+        text = text[:ends[0].start()]
+    # Previous/next links without a heading
+    return re.split(r"\n(?:Edellinen|Seuraava|Föregående|Nästa|Takaisin|Tillbaka)"
+                    r"(?: kokousasia| ärende| asia)?\s*(?:\|[^\n]*)?(?:\n|$)", text)[0]
 
 
 def content_after(h1: Tag) -> str:
@@ -77,14 +101,11 @@ def content_after(h1: Tag) -> str:
         container = container.parent
     full = html_text(container)
     head = h1.get_text(" ", strip=True)
-    idx = full.find(head)
-    text = full[idx + len(head):] if idx >= 0 else full
+    # The h1 may contain line breaks or nested tags, so match it whitespace-insensitively.
+    m = re.search(r"\s+".join(map(re.escape, head.split())), full) if head else None
+    text = full[m.end():] if m else full
     text = re.sub(r"\n©\s*$", "", text.strip())
-    # Dynasty ends item pages with a "Navigointi" block and a DATAEND marker.
-    text = re.split(r"\n(?:Navigointi|DATAEND)\s*(?:\n|$)", "\n" + text)[0].lstrip("\n")
-    # Drop the trailing navigation and PDF links block
-    text = re.split(r"\n(?:Edellinen|Seuraava|Föregående|Nästa|Takaisin|Tillbaka)"
-                    r"(?: kokousasia| ärende| asia)?\s*(?:\n|$)", text)[0]
+    text = cut_navigation(text)
     return text.strip()
 
 

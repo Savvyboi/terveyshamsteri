@@ -115,6 +115,7 @@ def test_cloudnc_region(tmp_path, patch_fetcher):
         "/fi-FI/Toimielimet/Lasten_nuorten_perheiden_ja_tyoumlikaumlisten_valiokunta": "cloudnc/aluehallitus.html",
         "/Kokous_5102026": "cloudnc/kokous.html",
         "/fi-FI/content/46498/14970": "cloudnc/item.html",
+        "/fi-FI/content/46499/14970": "cloudnc/item_real.html",
     })
     status = scrape_region(CLOUDNC_REGION, tmp_path)
     assert status["result"] == "ok", status
@@ -137,6 +138,16 @@ def test_cloudnc_region(tmp_path, patch_fetcher):
     assert item["presenter"].startswith("Marja Johtaja")
     assert item["attachments"][0]["title"].startswith("Kuukausiraportti 8_2026.pdf")
     assert "pasi.talous@" not in json.dumps(item, ensure_ascii=False)
+    assert ("Hanna Esimerkki", "Puheenjohtaja") in {(p["name"], p["role"]) for p in m["participants"]}
+
+    real = m["items"][1]
+    assert real["source_url"] == f"{CNC}/fi-FI/content/46499/14970"
+    assert real["diary_number"] == "16442/2026"
+    assert real["sections"][0]["heading"] == "Valmistelija"
+    assert real["preparer"] == "Timo Esimerkki, KONSERNIOHJAUKSEN PÄÄLLIKKÖ"
+    assert real["presenter"] == "Mika Malli, KONSERNIJOHTAJA"
+    assert real["proposal"] == "Jaosto päättää esittää aluehallitukselle tavoitteet."
+    assert real["votes"][0]["counts"] == {"jaa": 6, "ei": 3}
 
 
 @pytest.mark.parametrize("text,expected", [

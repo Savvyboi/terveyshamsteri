@@ -13,7 +13,7 @@ from urllib.parse import parse_qs, urljoin, urlsplit
 
 from ..models import Attachment, Body, Item, Meeting, MeetingRef, Participant
 from ..text import body_type, html_text, parse_fi_date, slugify, soup
-from .base import Adapter, content_after, fill_item_from_text, role_group
+from .base import Adapter, content_after, cut_navigation, fill_item_from_text, role_group
 
 
 def _q(href: str, key: str) -> str | None:
@@ -145,9 +145,26 @@ class DynastyAdapter(Adapter):
         for a in doc.find_all("a", href=True):
             if re.search(r"/kokous/[\w-]+\.pdf$", a["href"], re.IGNORECASE):
                 a.decompose()
-        h1 = doc.find("h1")
-        text = content_after(h1) if h1 else html_text(doc.body or doc)
+        text = _item_text(doc)
         if not text.strip():
             item.redacted = True
         fill_item_from_text(item, text)
 
+
+
+_ITEM_HEADING = re.compile(r"\d{1,2}\.\d{1,2}\.\d{4}\s*/\s*(?:Pykälä|Paragraf|§)\s*\d+[^\n]*")
+
+
+def _item_text(doc) -> str:
+    """Item text between the '... 29.09.2026/Pykälä 50' heading and the navigation block.
+    Falls back to everything after the first h1."""
+    full = html_text(doc.body or doc)
+    m = _ITEM_HEADING.search(full)
+    if m:
+        text = full[m.end():]
+    else:
+        h1 = doc.find("h1")
+        text = content_after(h1) if h1 else full
+    text = cut_navigation(text)
+    text = re.sub(r"\n©\s*$", "", text.strip())
+    return text.strip()
