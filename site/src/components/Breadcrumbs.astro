@@ -1,7 +1,8 @@
 ---
 import T from './T.astro';
+import L from './L.astro';
 import { url } from '../lib/data';
-interface Crumb { href?: string; label?: string; fi?: string; sv?: string }
+interface Crumb { href?: string; label?: string; fi?: string; sv?: string; en?: string }
 interface Props { trail: Crumb[] }
 ---
 <nav class="crumbs" aria-label="Murupolku">
@@ -10,8 +11,8 @@ interface Props { trail: Crumb[] }
     {Astro.props.trail.map((c) => (
       <li>
         {c.href
-          ? <a href={c.href}>{c.label ?? <><span class="fi">{c.fi}</span><span class="sv">{c.sv ?? c.fi}</span></>}</a>
-          : <span aria-current="page">{c.label ?? <><span class="fi">{c.fi}</span><span class="sv">{c.sv ?? c.fi}</span></>}</span>}
+          ? <a href={c.href}>{c.label ?? <L fi={c.fi!} sv={c.sv} en={c.en} />}</a>
+          : <span aria-current="page">{c.label ?? <L fi={c.fi!} sv={c.sv} en={c.en} />}</span>}
       </li>
     ))}
   </ol>

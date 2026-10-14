@@ -2,9 +2,10 @@
 import Layout from '../../layouts/Layout.astro';
 import T from '../../components/T.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
-import MeetingRow from '../../components/MeetingRow.astro';
-import VoteBar from '../../components/VoteBar.astro';
-import { bodiesOf, fmtDate, itemUrl, load, meetingsOf, url, votesOf, type Region } from '../../lib/data';
+import L from '../../components/L.astro';
+import MeetingTable from '../../components/MeetingTable.astro';
+import VoteTable from '../../components/VoteTable.astro';
+import { BODY_TYPES, bodiesOf, fmtDate, load, meetingsOf, url, votesOf, type Region } from '../../lib/data';
 
 export function getStaticPaths() {
   return load().regions.map((r) => ({ params: { region: r.id }, props: { r } }));
@@ -12,20 +13,20 @@ export function getStaticPaths() {
 const { r } = Astro.props as { r: Region };
 const meetings = meetingsOf(r.id);
 const bodies = bodiesOf(r.id);
-const types = ['council', 'board', 'committee', 'section', 'advisory', 'other'] as const;
-const votes = votesOf(r.id).slice(0, 5);
+const allVotes = votesOf(r.id);
 const items = meetings.reduce((a, m) => a + m.items.length, 0);
 const countBy = (b: string) => meetings.filter((m) => m.body_id === b).length;
 const lastOf = (b: string) => meetings.find((m) => m.body_id === b)?.date;
 ---
 <Layout title={r.name.fi}>
-  <Breadcrumbs trail={[{ fi: r.short.fi, sv: r.short.sv }]} />
+  <Breadcrumbs trail={[{ href: url('alueet'), fi: 'Hyvinvointialueet', sv: 'Välfärdsområden', en: 'Counties' }, { fi: r.short.fi!, sv: r.short.sv }]} />
   <div class="page-head">
-    <h1><span class="fi">{r.name.fi}</span><span class="sv">{r.name.sv}</span></h1>
+    <p class="kicker"><T k="kicker" /></p>
+    <h1><L fi={r.name.fi!} sv={r.name.sv} en={r.name.en} /></h1>
     <p class="facts">
       <span><b>{meetings.length}</b> <T k="meetingsCount" /></span>
       <span><b>{items}</b> <T k="itemsCount" /></span>
-      <span><b>{votesOf(r.id).length}</b> <T k="votesCount" /></span>
+      <span><b>{allVotes.length}</b> <T k="votesCount" /></span>
     </p>
     <div class="actions">
       <a class="btn small" href={`${url('haku')}?region=${encodeURIComponent(r.short.fi ?? r.id)}`}><T k="search" /></a>
@@ -43,8 +44,8 @@ const lastOf = (b: string) => meetings.find((m) => m.body_id === b)?.date;
   ) : (
     <div class="columns">
       <div>
-        <h2><T k="bodies" /></h2>
-        {types.map((t) => {
+        <h2 style="margin-top:0"><T k="bodies" /></h2>
+        {BODY_TYPES.map((t) => {
           const bs = bodies.filter((b) => b.type === t);
           return bs.length > 0 && (
             <>
@@ -60,23 +61,16 @@ const lastOf = (b: string) => meetings.find((m) => m.body_id === b)?.date;
             </>
           );
         })}
-        <h2><T k="latestMeetings" /></h2>
-        <ul class="list">{meetings.slice(0, 12).map((m) => <MeetingRow m={m} />)}</ul>
+        {allVotes.length > 0 && (
+          <>
+            <div class="section-head"><h2><T k="latestVotes" /></h2><a href={url(r.id, 'aanestykset')}><T k="allVotes" /> →</a></div>
+            <VoteTable votes={allVotes.slice(0, 5)} />
+          </>
+        )}
+        <div class="section-head"><h2><T k="latestMeetings" /></h2><a href={`${url('kokoukset')}?region=${r.id}`}><T k="showAll" /> →</a></div>
+        <MeetingTable meetings={meetings.slice(0, 12)} />
       </div>
       <aside class="aside">
-        {votes.length > 0 && (
-          <div class="card">
-            <h3 style="margin-top:0"><T k="latestVotes" /></h3>
-            {votes.map(({ m, i, v }) => (
-              <div style="margin-bottom:14px">
-                <a href={itemUrl(m, i)}>{m.items[i].title}</a>
-                <div class="note">{m.body_name} · {fmtDate(m.date)}</div>
-                <VoteBar vote={v} compact />
-              </div>
-            ))}
-            <a href={url(r.id, 'aanestykset')}><T k="allVotes" /> →</a>
-          </div>
-        )}
         <div class="card">
           <h3 style="margin-top:0"><T k="sources" /></h3>
           <dl class="kv">
@@ -84,7 +78,7 @@ const lastOf = (b: string) => meetings.find((m) => m.body_id === b)?.date;
             {r.homepage && <><dt>www</dt><dd><a href={r.homepage}>{new URL(r.homepage).host}</a></dd></>}
             {r.status?.finished_at && <><dt><T k="lastUpdated" /></dt><dd>{new Date(r.status.finished_at).toLocaleDateString('fi-FI')}</dd></>}
           </dl>
-          {r.since && <p class="note">Arkisto alkaen {fmtDate(r.since)} / Arkiv från {fmtDate(r.since)}</p>}
+          {r.since && <p class="note"><L fi={`Arkisto alkaen ${fmtDate(r.since)}`} sv={`Arkiv från ${fmtDate(r.since)}`} en={`Archive from ${fmtDate(r.since)}`} /></p>}
         </div>
       </aside>
     </div>

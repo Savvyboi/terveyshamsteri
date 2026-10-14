@@ -3,14 +3,24 @@ import '../styles/global.css';
 import T from '../components/T.astro';
 import Hamster from '../components/Hamster.astro';
 import { IS_SAMPLE, load, url } from '../lib/data';
-import { S } from '../lib/i18n';
+import { S, strings, type Key } from '../lib/i18n';
 
 interface Props { title?: string; titleSv?: string; description?: string; wide?: boolean }
-const { title, titleSv, description, wide } = Astro.props;
+const { title, description } = Astro.props;
 const fullTitle = title ? `${title} – Terveyshamsteri` : `Terveyshamsteri – ${S.tagline.fi}`;
 const updated = load().status.updated_at;
 const path = Astro.url.pathname;
-const active = (p: string) => (path.startsWith(url(p)) ? 'page' : undefined);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const nav: { href: string; k: Key }[] = [
+  { href: url(), k: 'overview' },
+  { href: url('alueet'), k: 'regions' },
+  { href: url('kokoukset'), k: 'meetings' },
+  { href: url('aanestykset'), k: 'votes' },
+  { href: url('tietoa'), k: 'about' },
+];
+const current = (href: string) => (href === url() ? path === href : path.startsWith(href)) ? 'page' : undefined;
+const ui = strings(['search', 'searchPlaceholder', 'themeLight', 'themeDark', 'themeContrast', 'menu', 'close']);
 ---
 <!doctype html>
 <html lang="fi" data-lang="fi">
@@ -19,19 +29,27 @@ const active = (p: string) => (path.startsWith(url(p)) ? 'page' : undefined);
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{fullTitle}</title>
   <meta name="description" content={description ?? S.heroLead.fi} />
-  <link rel="icon" href={`${import.meta.env.BASE_URL}favicon.svg`} type="image/svg+xml" />
+  <meta name="color-scheme" content="light dark" />
+  <meta name="theme-color" content="#f6f3ec" />
+  <link rel="icon" href={`${base}/favicon.svg`} type="image/svg+xml" />
   <meta property="og:title" content={fullTitle} />
   <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Terveyshamsteri" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,600;6..72,700&display=swap" rel="stylesheet" />
   <script is:inline>
-    // Pick the UI language: ?lang= > saved choice > browser language. Default Finnish.
+    // Language: ?lang= > saved choice > browser language. Theme: saved choice > system setting.
     (function () {
-      var q = new URLSearchParams(location.search).get('lang');
-      var saved = null;
-      try { saved = localStorage.getItem('lang'); } catch (e) {}
-      var lang = q || saved || ((navigator.language || '').slice(0, 2) === 'sv' ? 'sv' : 'fi');
-      if (lang !== 'sv') lang = 'fi';
-      document.documentElement.dataset.lang = lang;
-      document.documentElement.lang = lang;
+      var d = document.documentElement, saved = {};
+      try { saved = { lang: localStorage.getItem('lang'), theme: localStorage.getItem('theme') }; } catch (e) {}
+      var nav = (navigator.language || '').slice(0, 2);
+      var lang = new URLSearchParams(location.search).get('lang') || saved.lang || (nav === 'sv' || nav === 'en' ? nav : 'fi');
+      if (['fi', 'sv', 'en'].indexOf(lang) < 0) lang = 'fi';
+      d.dataset.lang = lang; d.lang = lang;
+      var theme = saved.theme || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark'
+        : matchMedia('(prefers-contrast: more)').matches ? 'contrast' : 'light');
+      d.dataset.theme = theme;
     })();
   </script>
 </head>
@@ -40,74 +58,56 @@ const active = (p: string) => (path.startsWith(url(p)) ? 'page' : undefined);
   <header class="site-header">
     <div class="wrap header-inner">
       <a class="brand" href={url()}>
-        <Hamster size={44} />
-        <span class="brand-text">
-          <span class="brand-name">Terveyshamsteri</span>
-          <span class="brand-tag"><T k="tagline" /></span>
-        </span>
+        <Hamster size={40} />
+        <span class="brand-name">Terveyshamsteri</span>
       </a>
-      <div class="lang-switch" role="group" aria-label="Kieli / Språk">
-        <button type="button" data-set-lang="fi" lang="fi" aria-label="Suomeksi"><span class="long">Suomeksi</span><span class="short">FI</span></button>
-        <button type="button" data-set-lang="sv" lang="sv" aria-label="På svenska"><span class="long">På svenska</span><span class="short">SV</span></button>
+      <nav class="nav" aria-label="Päävalikko">
+        {nav.map((n) => <a href={n.href} aria-current={current(n.href)}><T k={n.k} /></a>)}
+      </nav>
+      <div class="tools">
+        <button type="button" class="tool menu-button" aria-expanded="false" aria-controls="menu-panel"><T k="menu" /></button>
+        <button type="button" class="tool theme-button" data-theme-toggle aria-label="Teema">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/></svg>
+          <span class="theme-label"></span>
+        </button>
+        <select class="tool" data-lang-select aria-label="Kieli / Språk / Language">
+          <option value="fi" lang="fi">Suomi</option>
+          <option value="sv" lang="sv">Svenska</option>
+          <option value="en" lang="en">English</option>
+        </select>
+        <button type="button" class="tool" data-search-open><T k="search" /> <kbd>Ctrl K</kbd></button>
       </div>
     </div>
-    <nav class="main-nav" aria-label="Päävalikko">
-      <div class="wrap">
-        <a href={url()} aria-current={path === url() ? 'page' : undefined}><T k="regions" /></a>
-        <a href={url('haku')} aria-current={active('haku')}><T k="search" /></a>
-        <a href={url('tietoa')} aria-current={active('tietoa')}><T k="about" /></a>
-      </div>
-    </nav>
+    <div class="menu-panel" id="menu-panel">
+      <nav class="wrap" aria-label="Valikko">
+        <ul>{nav.map((n) => <li><a href={n.href} aria-current={current(n.href)}><T k={n.k} /></a></li>)}</ul>
+      </nav>
+    </div>
   </header>
   {IS_SAMPLE && <div class="sample-banner"><div class="wrap"><T k="sampleBanner" /></div></div>}
-  <main id="main" class:list={['wrap', { wide }]}>
+  <main id="main" class="wrap">
     <slot />
   </main>
   <footer class="site-footer">
     <div class="wrap footer-grid">
       <div>
-        <p class="footer-brand"><Hamster size={28} /> Terveyshamsteri</p>
+        <p class="footer-brand"><Hamster size={26} /> Terveyshamsteri</p>
         <p><T k="disclaimer" /></p>
       </div>
       <div>
         <p><T k="updateWeekly" />{updated && <> <T k="lastUpdated" />: <time datetime={updated}>{new Date(updated).toLocaleDateString('fi-FI')}</time>.</>}</p>
-        <p><a href={url('tietoa')}><T k="about" /></a> · <a href="https://github.com/Savvyboi/terveyshamsteri">GitHub</a></p>
+        <p><a href={url('tietoa')}><T k="about" /></a> · <a href={url('haku')}><T k="search" /></a> · <a href="https://github.com/Savvyboi/terveyshamsteri">GitHub</a> · <a href="https://savvyboi.github.io/vahtikissa/">Vahtikissa</a></p>
       </div>
     </div>
   </footer>
-  <script is:inline>
-    document.querySelectorAll('[data-set-lang]').forEach(function (b) {
-      b.addEventListener('click', function () {
-        var lang = b.getAttribute('data-set-lang');
-        document.documentElement.dataset.lang = lang;
-        document.documentElement.lang = lang;
-        try { localStorage.setItem('lang', lang); } catch (e) {}
-        document.dispatchEvent(new CustomEvent('langchange', { detail: lang }));
-      });
-    });
-    // Attributes cannot hold two languages, so swap them in place.
-    function applyAttrs() {
-      var lang = document.documentElement.dataset.lang;
-      document.querySelectorAll('[data-fi-placeholder]').forEach(function (el) {
-        el.setAttribute('placeholder', el.getAttribute('data-' + lang + '-placeholder'));
-      });
-      document.querySelectorAll('[data-set-lang]').forEach(function (b) {
-        b.setAttribute('aria-pressed', String(b.getAttribute('data-set-lang') === lang));
-      });
-    }
-    applyAttrs();
-    document.addEventListener('langchange', applyAttrs);
-    // Copy buttons
-    document.querySelectorAll('[data-copy]').forEach(function (b) {
-      b.addEventListener('click', function () {
-        var el = document.getElementById(b.getAttribute('data-copy'));
-        if (!el || !navigator.clipboard) return;
-        navigator.clipboard.writeText(el.textContent.trim()).then(function () {
-          b.classList.add('done');
-          setTimeout(function () { b.classList.remove('done'); }, 1600);
-        });
-      });
-    });
-  </script>
+  <dialog class="search-dialog" aria-label="Haku">
+    <div class="dialog-head">
+      <p><T k="searchHint" /></p>
+      <button type="button" class="tool" data-search-close><T k="close" /></button>
+    </div>
+    <div class="dialog-body"><div id="search-modal" class="pf"></div></div>
+  </dialog>
+  <script is:inline define:vars={{ base, ui }}>window.TH = { base: base, ui: ui };</script>
+  <script is:inline src={`${base}/site.js`} defer></script>
 </body>
 </html>

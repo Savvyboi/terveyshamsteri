@@ -1,7 +1,7 @@
 ---
-// One UI string in both languages; CSS shows the reader's choice.
+// One UI string in every language; CSS shows the reader's choice.
 import { S, type Key } from '../lib/i18n';
 interface Props { k: Key }
-const s = S[Astro.props.k];
+const s = S[Astro.props.k] as { fi: string; sv: string; en?: string };
 ---
-<span class="fi" lang="fi" data-pagefind-ignore>{s.fi}</span><span class="sv" lang="sv" data-pagefind-ignore>{s.sv}</span>
+<span class="fi" lang="fi" data-pagefind-ignore>{s.fi}</span><span class="sv" lang="sv" data-pagefind-ignore>{s.sv}</span>{s.en && s.en !== s.fi && <span class="en" lang="en" data-pagefind-ignore>{s.en}</span>}

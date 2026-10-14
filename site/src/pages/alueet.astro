@@ -1,0 +1,64 @@
+---
+import Layout from '../layouts/Layout.astro';
+import T from '../components/T.astro';
+import L from '../components/L.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { fmtDate, load, meetingsOf, url, votesOf, type Region } from '../lib/data';
+
+const { regions } = load();
+const live = regions.filter((r) => r.enabled && r.meetings > 0);
+const others = regions.filter((r) => !(r.enabled && r.meetings > 0));
+const statusKey = (r: Region) =>
+  !r.enabled ? 'coming' : r.status?.result === 'blocked' ? 'blocked'
+  : r.status?.result === 'error' || r.status?.result === 'not-implemented' ? 'coming' : 'included';
+const fi = (n: number) => n.toLocaleString('fi-FI');
+const rows = live.map((r) => {
+  const ms = meetingsOf(r.id);
+  return { r, meetings: ms.length, items: ms.reduce((a, m) => a + m.items.length, 0), votes: votesOf(r.id).length,
+    latest: ms.find((m) => m.stage !== 'agenda')?.date };
+});
+---
+<Layout title="Hyvinvointialueet">
+  <Breadcrumbs trail={[{ fi: 'Hyvinvointialueet', sv: 'Välfärdsområden', en: 'Counties' }]} />
+  <div class="page-head">
+    <p class="kicker"><T k="kicker" /></p>
+    <h1><T k="regions" /></h1>
+    <p class="lead"><T k="regionsLead" /></p>
+  </div>
+  <div class="table-wrap">
+    <table class="data stack">
+      <thead><tr>
+        <th><T k="region" /></th><th class="num"><T k="meetings" /></th><th class="num"><T k="items" /></th>
+        <th class="num"><T k="votes" /></th><th><T k="latestMinutes" /></th>
+      </tr></thead>
+      <tbody>
+        {rows.map(({ r, meetings, items, votes, latest }) => (
+          <tr>
+            <td><a class="t" href={url(r.id)}><L fi={r.name.fi!} sv={r.name.sv} en={r.name.en} /></a>
+              <span class="sub">{r.platforms.join(', ')}</span></td>
+            <td class="num">{fi(meetings)}</td>
+            <td class="num">{fi(items)}</td>
+            <td class="num">{fi(votes)}</td>
+            <td class="date">{latest ? fmtDate(latest) : '–'}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  {others.length > 0 && (
+    <>
+      <h2><T k="coming" /></h2>
+      <div class="grid">
+        {others.map((r) => (
+          <div class="card region-card disabled">
+            <span class="name"><L fi={r.short.fi!} sv={r.short.sv} /></span>
+            <span><L fi={r.name.fi!} sv={r.name.sv} en={r.name.en} /></span>
+            <span class="meta"><span class:list={['chip', statusKey(r) === 'blocked' ? 'warn' : 'muted']}><T k={statusKey(r)} /></span>
+              {r.platforms.length > 0 && <> {r.platforms.join(', ')}</>}</span>
+          </div>
+        ))}
+      </div>
+    </>
+  )}
+</Layout>

@@ -1,0 +1,28 @@
+---
+import T from './T.astro';
+import L from './L.astro';
+import { bodyTypeOf, countVotes, fmtDate, meetingUrl, regionById, type Meeting } from '../lib/data';
+interface Props { meetings: Meeting[]; showRegion?: boolean }
+const { meetings, showRegion } = Astro.props;
+---
+<div class="table-wrap">
+  <table class="data stack">
+    <thead><tr><th><T k="date" /></th><th><T k="meeting" /></th>{showRegion && <th><T k="region" /></th>}<th class="num"><T k="items" /></th></tr></thead>
+    <tbody>
+      {meetings.map((m) => {
+        const r = regionById(m.region);
+        const votes = countVotes(m);
+        return (
+          <tr>
+            <td class="date">{fmtDate(m.date)}</td>
+            <td><a class="t" href={meetingUrl(m)}>{m.body_name}</a>
+              <span class="sub">{m.stage === 'agenda' ? <span class="chip agenda"><T k="agenda" /></span> : <span class="chip muted"><T k="minutes" /></span>} <T k={`type_${bodyTypeOf(m.region, m.body_id)}` as any} /></span></td>
+            {showRegion && <td><L fi={r.short.fi!} sv={r.short.sv} /></td>}
+            <td class="num">{m.items.length} <span class="note"><T k="itemsCount" /></span>
+              {votes > 0 && <span class="sub"><span class="chip vote">{votes} <T k={votes === 1 ? 'voteOne' : 'votesCount'} /></span></span>}</td>
+          </tr>
+        );
+      })}
+    </tbody>
+  </table>
+</div>

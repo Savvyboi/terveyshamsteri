@@ -1,8 +1,10 @@
 ---
-// Free-form bilingual text. Falls back to Finnish when there is no Swedish.
-interface Props { fi: string; sv?: string | null }
-const { fi, sv } = Astro.props;
+// Free-form multilingual text. Swedish and English fall back to Finnish.
+interface Props { fi: string; sv?: string | null; en?: string | null }
+const { fi, sv, en } = Astro.props;
+const hasSv = !!sv && sv !== fi;
+const hasEn = !!en && en !== fi;
 ---
-{sv && sv !== fi
-  ? <><span class="fi" lang="fi">{fi}</span><span class="sv" lang="sv">{sv}</span></>
+{hasSv || hasEn
+  ? <><span class:list={['fi', { sv: !hasSv }]} lang="fi">{fi}</span>{hasSv && <span class="sv" lang="sv">{sv}</span>}{hasEn && <span class="en" lang="en">{en}</span>}</>
   : <span>{fi}</span>}

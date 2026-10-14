@@ -3,7 +3,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 
-export type Lang = 'fi' | 'sv';
+export type Lang = 'fi' | 'sv' | 'en';
 export type Bilingual = Partial<Record<Lang, string>>;
 
 export interface Vote { counts: Record<string, number>; context: string; provisional: boolean }
@@ -70,6 +70,11 @@ export function load() {
   }
   meetings.sort((a, b) => b.date.localeCompare(a.date) || a.body_name.localeCompare(b.body_name));
   const status = DATA_DIR ? readJson(path.join(DATA_DIR, 'status.json'), {}) : {};
+  for (const r of regions) {
+    // English has no official short names; the Finnish ones are used as proper nouns.
+    r.short.en ??= r.short.fi;
+    r.name.en ??= `${r.short.fi} wellbeing services county`;
+  }
   cache = { regions, bodies, meetings: meetings.filter(Boolean), status };
   return cache;
 }
@@ -149,4 +154,38 @@ export function votesOf(region: string) {
 export function fmtDate(iso: string, lang: Lang = 'fi'): string {
   const [y, mo, d] = iso.split('-').map(Number);
   return lang === 'sv' ? `${d}.${mo}.${y}` : `${d}.${mo}.${y}`;
+}
+
+/** Body types in display order, from the council down. */
+export const BODY_TYPES = ['council', 'board', 'committee', 'section', 'advisory', 'other'] as const;
+
+export const bodyTypeOf = (region: string, body: string) =>
+  (load().bodies.get(region) || []).find((b) => b.id === body)?.type ?? 'other';
+
+export const countVotes = (m: Meeting) => m.items.reduce((a, it) => a + it.votes.length, 0);
+
+/** Compact rows for the all-meetings table (served as JSON, filtered in the browser). */
+export function meetingRows() {
+  return load().meetings.map((m) => ({
+    date: m.date, region: m.region, body: m.body_name, bodyType: bodyTypeOf(m.region, m.body_id),
+    stage: m.stage === 'agenda' ? 'agenda' : 'minutes', items: m.items.length, votes: countVotes(m),
+    url: meetingUrl(m), source: m.source_url,
+  }));
+}
+
+/** Rows for the all-votes table. */
+export function voteRows() {
+  const out = [];
+  for (const m of load().meetings) {
+    for (const [i, it] of m.items.entries()) {
+      for (const v of it.votes) {
+        out.push({
+          date: m.date, region: m.region, body: m.body_name, bodyType: bodyTypeOf(m.region, m.body_id),
+          number: it.number, title: it.title, jaa: v.counts.jaa ?? null, ei: v.counts.ei ?? null,
+          tyhja: v.counts.tyhja ?? null, poissa: v.counts.poissa ?? null, url: itemUrl(m, i), source: it.source_url,
+        });
+      }
+    }
+  }
+  return out;
 }

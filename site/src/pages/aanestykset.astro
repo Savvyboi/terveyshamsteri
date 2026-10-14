@@ -1,0 +1,17 @@
+---
+import Layout from '../layouts/Layout.astro';
+import T from '../components/T.astro';
+import DataTable from '../components/DataTable.astro';
+import { url } from '../lib/data';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+<Layout title="Äänestykset">
+  <div class="page-head">
+    <p class="kicker"><T k="kicker" /></p>
+    <h1><T k="votes" /></h1>
+    <p class="lead"><T k="votesLead" /></p>
+    <p class="note">⚠ <T k="provisional" /></p>
+  </div>
+  <DataTable kind="votes" src={url('data') + 'votes.json'} sorts={['newest', 'oldest', 'closest']} />
+  <script is:inline src={`${base}/table.js`} defer></script>
+</Layout>

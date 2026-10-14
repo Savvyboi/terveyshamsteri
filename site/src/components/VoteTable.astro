@@ -1,0 +1,27 @@
+---
+import T from './T.astro';
+import L from './L.astro';
+import VoteBar from './VoteBar.astro';
+import { fmtDate, itemUrl, regionById, type Meeting, type Vote } from '../lib/data';
+interface Props { votes: { m: Meeting; i: number; v: Vote }[]; showRegion?: boolean }
+const { votes, showRegion } = Astro.props;
+---
+<div class="table-wrap">
+  <table class="data stack">
+    <thead><tr><th><T k="date" /></th><th><T k="intro" /></th><th><T k="result" /></th></tr></thead>
+    <tbody>
+      {votes.map(({ m, i, v }) => {
+        const r = regionById(m.region);
+        const it = m.items[i];
+        return (
+          <tr>
+            <td class="date">{fmtDate(m.date)}</td>
+            <td><a class="t" href={itemUrl(m, i)}>{it.title}</a>
+              <span class="sub">{showRegion && <><L fi={r.short.fi!} sv={r.short.sv} /> · </>}{m.body_name}{it.number && ` · § ${it.number}`}</span></td>
+            <td class="result"><VoteBar vote={v} compact /></td>
+          </tr>
+        );
+      })}
+    </tbody>
+  </table>
+</div>
