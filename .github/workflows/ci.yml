@@ -143,9 +143,16 @@ jobs:
   finance-probe:
     runs-on: ubuntu-latest
     continue-on-error: true
+    strategy:
+      matrix:
+        part: [0, 1, 2, 3]
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - run: python scraper/probes/finance_discovery.py
+      - run: python scraper/probes/emit.py $(( ${{ matrix.part }} * 40 + 0 )) $(( ${{ matrix.part }} * 40 + 10 ))
+      - run: python scraper/probes/emit.py $(( ${{ matrix.part }} * 40 + 10 )) $(( ${{ matrix.part }} * 40 + 20 ))
+      - run: python scraper/probes/emit.py $(( ${{ matrix.part }} * 40 + 20 )) $(( ${{ matrix.part }} * 40 + 30 ))
+      - run: python scraper/probes/emit.py $(( ${{ matrix.part }} * 40 + 30 )) $(( ${{ matrix.part }} * 40 + 40 ))
