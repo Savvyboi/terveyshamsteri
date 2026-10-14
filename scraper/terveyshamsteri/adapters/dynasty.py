@@ -145,33 +145,39 @@ class DynastyAdapter(Adapter):
         for a in doc.find_all("a", href=True):
             if re.search(r"/kokous/[\w-]+\.pdf$", a["href"], re.IGNORECASE):
                 a.decompose()
-        text = _item_text(doc)
+        text, diary = _item_text(doc)
+        item.diary_number = item.diary_number or diary
         if not text.strip():
             item.redacted = True
         fill_item_from_text(item, text)
 
 
 
-_ITEM_HEADING = re.compile(
-    r"\d{1,2}\.\d{1,2}\.\d{4}\s*/\s*(?:Pykälä|Paragraf|Asianro|Ärendenr|§)\s*\d+[^\n]*")
-_META_LINE = re.compile(r"^(?:READSPEAKER|ENCODING|PAGEMETA|CLIENTMETA)\b.*$", re.MULTILINE)
+_SDT_HEADER = re.compile(r"Dynasty_(?:Title|Board|Date|Paragraph|Publicity|SecrecyBasis|CaseNumber)")
+_TAB = re.compile(r"display:\s*inline-block")
 
 
-def _item_text(doc) -> str:
-    """Item text. Dynasty wraps the readable content in DATABEGIN ... DATAEND markers (for
-    ReadSpeaker), headed by '... 29.09.2026/Pykälä 50' (or 'Asianro 28' on agendas)."""
-    full = html_text(doc.body or doc)
-    if "DATABEGIN" in full:
-        full = full.split("DATABEGIN", 1)[1].split("DATAEND", 1)[0]
-        full = _META_LINE.sub("", full)
-    m = _ITEM_HEADING.search(full)
-    if m:
-        text = full[m.end():]
-    elif "DATABEGIN" in html_text(doc.body or doc):
-        text = full
-    else:
+def _item_text(doc) -> tuple[str, str | None]:
+    """Item text and diary number.
+
+    Dynasty pages hold the navigation and attachment tables and then the item itself as a
+    Word export in div.htmCnt. Its header fields are tagged (-aw-sdt-tag:'Dynasty_Board',
+    'Dynasty_CaseNumber'...), and every section starts with a hanging-indent paragraph:
+    the label ('Valmistelija', 'Päätösehdotus'), a tab span, then the text."""
+    cnt = doc.select_one("div.htmCnt")
+    if cnt is None:
         h1 = doc.find("h1")
-        text = content_after(h1) if h1 else full
-    text = cut_navigation(text)
-    text = re.sub(r"\n©\s*$", "", text.strip())
-    return text.strip()
+        text = content_after(h1) if h1 else html_text(doc.body or doc)
+        return cut_navigation(re.sub(r"\n©\s*$", "", text.strip())).strip(), None
+    case = cnt.find(style=re.compile(r"Dynasty_CaseNumber"))
+    diary = case.get_text(" ", strip=True).replace("\xa0", " ").strip() or None if case else None
+    for el in cnt.find_all(style=_SDT_HEADER):
+        el.decompose()
+    for par in cnt.find_all("p"):
+        tab = par.find("span", style=_TAB, recursive=False)
+        if tab is None:
+            continue
+        label = "".join(t.get_text() for t in tab.find_previous_siblings()).replace("\xa0", " ").strip()
+        if label and len(label) < 60:
+            tab.replace_with("\n")
+    return html_text(cnt).strip(), diary

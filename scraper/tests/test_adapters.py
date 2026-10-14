@@ -91,6 +91,15 @@ def test_dynasty_region(tmp_path, patch_fetcher):
     assert agenda_like["decision"] is None
     assert agenda_like["proposal"] == "Aloite lähetetään aluehallitukselle valmisteltavaksi."
     assert "DATAEND" not in json.dumps(agenda_like) and "Navigointi" not in json.dumps(agenda_like)
+    # Real layout: navigation/attachment tables, then a Word export in div.htmCnt
+    assert agenda_like["diary_number"] == "878/00.01.01.01/2026"
+    assert agenda_like["preparer"] == "hallintojohtaja Hanna Hallinto"
+    assert [s["heading"] for s in agenda_like["sections"]] == [
+        "Valmistelija", "Selostus asiasta", "Päätösehdotus", "Päätös"]
+    assert agenda_like["sections"][1]["text"].endswith("Vastaus tuodaan valtuustolle.")
+    assert [(a["title"], a["url"]) for a in agenda_like["attachments"]] == [
+        ("Valtuustoaloite palveluverkosta", f"{DYN}/kokous/2026365-5-130001.PDF")]
+    assert "064 7666" not in json.dumps(agenda_like) and "Muutoksenhakuohje" not in json.dumps(agenda_like)
 
 
 def test_dynasty_incremental_rerun_is_stable(tmp_path, patch_fetcher):

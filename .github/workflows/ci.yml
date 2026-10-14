@@ -78,9 +78,10 @@ jobs:
                   print("URL", it["source_url"], "len", len(html))
                   for k in ("DATABEGIN", "DATAEND", "Liitteet", "Bilagor", "Päätös"):
                       print(k, [mm.start() for mm in re.finditer(k, html)][:10])
-                  body = re.sub(r"\s+", " ", html.split("<body", 1)[-1])
-                  for i in range(0, min(len(body), 24000), 3000):
-                      print(body[i:i + 3000])
+                  for mm in list(re.finditer("Liitteet|Bilagor", html))[:2]:
+                      chunk = re.sub(r"\s+", " ", html[max(0, mm.start() - 1500):mm.start() + 4000])
+                      for i in range(0, len(chunk), 2500):
+                          print(chunk[i:i + 2500])
           PY
       - name: Summarise
         if: always()

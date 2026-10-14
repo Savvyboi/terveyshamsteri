@@ -7,7 +7,7 @@ import re
 import unicodedata
 from datetime import date
 
-from bs4 import BeautifulSoup, NavigableString, Tag
+from bs4 import BeautifulSoup, Comment, NavigableString, Tag
 
 from .models import Section, Vote
 
@@ -93,6 +93,7 @@ def scrub(text: str | None) -> str | None:
     text = _HETU.sub("[poistettu]", text)
     text = _EMAIL.sub("", text)
     text = _PHONE.sub("", text)
+    text = re.sub(r"[, \t]*\b(?:puh|p|tel)\.?[ \t]*(?=,|\n|$)", "", text)  # label left behind
     text = re.sub(r"[ \t]+,", ",", text)
     text = re.sub(r"[ \t]{2,}", " ", text)
     return text.strip()
@@ -109,6 +110,8 @@ def html_text(node: Tag | NavigableString) -> str:
     out: list[str] = []
 
     def walk(n):
+        if isinstance(n, Comment):
+            return
         if isinstance(n, NavigableString):
             out.append(str(n))
             return
@@ -140,14 +143,18 @@ def soup(html: str) -> BeautifulSoup:
 
 # Headings used in Finnish and Swedish minutes. Matched against whole lines.
 SECTION_HEADINGS = {
-    "proposal": [r"päätösehdotus", r"ehdotus", r"esitys", r"förslag", r"beslutsförslag"],
+    "proposal": [r"päätösehdotus", r"ehdotus", r"esitys", r"förslag", r"beslutsförslag",
+                 r"[\wåäö-]+n (?:päätös)?ehdotus", r"esittelijän ehdotus"],
     "decision": [r"päätös", r"beslut"],
     "discussion": [r"kokouskäsittely", r"käsittely", r"behandling", r"behandling under mötet"],
     "preparer": [r"valmistelija(?:t)?", r"beredning", r"beredare", r"lisätiedot"],
     "presenter": [r"esittelijä", r"föredragande"],
     "attachments": [r"liitteet", r"bilagor", r"oheismateriaali", r"oheisaineisto"],
     "appeal": [r"muutoksenhaku", r"muutoksenhakuohje", r"sökande av ändring", r"besvärsanvisning"],
-    "basis": [r"perustelut", r"asian tausta", r"motivering", r"toimivalta"],
+    "basis": [r"perustelut", r"asian tausta", r"motivering", r"toimivalta", r"selostus asiasta",
+              r"ärendebeskrivning", r"redogörelse"],
+    "other": [r"tiedoksi", r"toimenpiteet", r"täytäntöönpano", r"för kännedom",
+              r"verkställighet"],
 }
 
 _HEADING_LINE = re.compile(
