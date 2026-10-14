@@ -1,0 +1,27 @@
+---
+// One named vote broken down by party: a row per party with its jaa/ei/tyhjä/poissa counts.
+import T from './T.astro';
+import PartyTag from './PartyTag.astro';
+import { partySplit, type Meeting, type Vote } from '../lib/data';
+interface Props { m: Meeting; v: Vote }
+const { m, v } = Astro.props;
+const rows = partySplit(m, v);
+const sides = (['jaa', 'ei', 'tyhja', 'poissa'] as const).filter((s) => rows.some((r) => r[s] > 0));
+---
+{rows.length > 0 && (
+  <details class="party-split" open>
+    <summary><T k="byParty" /></summary>
+    <table class="data compact">
+      <thead><tr><th><T k="party" /></th>{sides.map((s) => <th class="num"><T k={s} /></th>)}</tr></thead>
+      <tbody>
+        {rows.map((r) => (
+          <tr class={r.jaa && r.ei ? 'split' : undefined}>
+            <td>{r.party === '?' ? <span class="note"><T k="unmatched" /></span> : <PartyTag party={r.party} full />}</td>
+            {sides.map((s) => <td class={`num side-${s}`}>{r[s] || ''}</td>)}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+    <p class="note" style="margin:6px 0 0"><T k="namedVoteNote" /></p>
+  </details>
+)}

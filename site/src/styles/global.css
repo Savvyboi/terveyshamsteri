@@ -393,3 +393,19 @@ details.section > div { padding: 0 18px 16px; }
 .profile dd .party { font-family: var(--sans); font-size: 1rem; }
 .pct-cell { display: flex; align-items: center; gap: 8px; justify-content: flex-end; }
 .pct-cell .meter { min-width: 60px; width: 60px; }
+
+/* ---------------------------------------------------------------- named votes */
+.party-split { margin-top: 12px; }
+.party-split summary { cursor: pointer; font-weight: 600; font-size: .9rem; }
+table.data.compact { font-size: .88rem; margin-top: 8px; }
+table.data.compact td, table.data.compact th { padding: 7px 10px; }
+table.data td.side-jaa { color: var(--jaa); font-weight: 600; }
+table.data td.side-ei { color: var(--ei); font-weight: 600; }
+table.data tr.split td:first-child { box-shadow: inset 3px 0 0 var(--warn); }
+.side-chip { display: inline-block; min-width: 4.5em; text-align: center; padding: 1px 8px; border: 1.5px solid currentColor; border-radius: 999px; font-size: .8rem; font-weight: 600; }
+.side-chip.jaa { color: var(--jaa); } .side-chip.ei { color: var(--ei); }
+.side-chip.tyhja, .side-chip.poissa { color: var(--muted); }
+.against { color: var(--warn); font-size: .8rem; font-weight: 600; }
+.more-rows { margin-top: 10px; }
+.more-rows summary { cursor: pointer; font-weight: 600; padding: 6px 0; }
+.more-rows .table-wrap { margin-top: 8px; }

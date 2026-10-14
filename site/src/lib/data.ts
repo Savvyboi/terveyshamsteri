@@ -6,7 +6,7 @@ import path from 'node:path';
 export type Lang = 'fi' | 'sv' | 'en';
 export type Bilingual = Partial<Record<Lang, string>>;
 
-export interface Vote { counts: Record<string, number>; context: string; provisional: boolean }
+export interface Vote { counts: Record<string, number>; context: string; provisional: boolean; names?: Record<string, string[]> }
 export interface Section { heading: string; text: string }
 export interface Attachment { title: string; url: string }
 export interface Participant { name: string; role: string; group: 'member' | 'other' | 'absent' }
@@ -294,3 +294,79 @@ export function peopleRows() {
 }
 
 export const regionsWithElections = () => load().regions.filter((r) => electionOf(r.id));
+
+// ------------------------------------------------------------------ named votes
+export type Side = 'jaa' | 'ei' | 'tyhja' | 'poissa';
+export interface Ballot { m: Meeting; i: number; v: Vote; side: Side }
+
+/** The person behind a voter name in a meeting's vote. Minutes write voters as full names in
+ * either order or as surnames only ("Eskola Tapani" when two share a surname), so the name
+ * is matched against the people present at that meeting. */
+export function voterOf(m: Meeting, voter: string): PersonStats | undefined {
+  const toks = nameTokens(voter);
+  if (!toks.length) return undefined;
+  const exact = m.participants.find((p) => nameKey(p.name) === nameKey(voter));
+  if (exact) return personByName(m.region, exact.name);
+  const hits = m.participants.filter((p) => p.group !== 'other' && toks.every((t) => nameTokens(p.name).includes(t)));
+  if (hits.length === 1) return personByName(m.region, hits[0].name);
+  const e = electionOf(m.region)?.people.filter((c) => toks.every((t) => nameTokens(c.name).includes(t))) ?? [];
+  if (e.length === 1) return peopleOf(m.region).find((p) => p.elected?.id === e[0].id);
+  return undefined;
+}
+
+const ballotCache = new Map<string, Map<PersonStats, Ballot[]>>();
+/** Every named ballot in a region, by person. */
+export function ballotsOf(region: string): Map<PersonStats, Ballot[]> {
+  if (ballotCache.has(region)) return ballotCache.get(region)!;
+  const out = new Map<PersonStats, Ballot[]>();
+  for (const m of meetingsOf(region)) {
+    m.items.forEach((it, i) => it.votes.forEach((v) => {
+      for (const [side, names] of Object.entries(v.names ?? {})) {
+        for (const n of names) {
+          const p = voterOf(m, n);
+          if (!p) continue;
+          if (!out.has(p)) out.set(p, []);
+          out.get(p)!.push({ m, i, v, side: side as Side });
+        }
+      }
+    }));
+  }
+  ballotCache.set(region, out);
+  return out;
+}
+
+/** Votes by party for one named vote; voters who could not be matched are counted under '?'. */
+const splitCache = new WeakMap<Vote, ReturnType<typeof splitOf>>();
+export function partySplit(m: Meeting, v: Vote) {
+  if (!splitCache.has(v)) splitCache.set(v, splitOf(m, v));
+  return splitCache.get(v)!;
+}
+function splitOf(m: Meeting, v: Vote) {
+  const rows = new Map<string, Record<Side, number>>();
+  for (const [side, names] of Object.entries(v.names ?? {})) {
+    for (const n of names) {
+      const party = voterOf(m, n)?.elected?.party ?? '?';
+      const r = rows.get(party) ?? { jaa: 0, ei: 0, tyhja: 0, poissa: 0 };
+      r[side as Side]++;
+      rows.set(party, r);
+    }
+  }
+  return [...rows.entries()].map(([party, c]) => ({ party, ...c }))
+    .sort((a, b) => (a.party === '?' ? 1 : b.party === '?' ? -1 : 0) || (b.jaa + b.ei + b.tyhja) - (a.jaa + a.ei + a.tyhja));
+}
+
+/** How often a person voted with the majority of their own party, over named votes. */
+export function partyLine(region: string, p: PersonStats): { agree: number; total: number } | null {
+  if (!p.elected) return null;
+  let agree = 0, total = 0;
+  for (const b of ballotsOf(region).get(p) ?? []) {
+    if (b.side !== 'jaa' && b.side !== 'ei') continue;
+    const row = partySplit(b.m, b.v).find((r) => r.party === p.elected!.party);
+    if (!row || row.jaa + row.ei < 2) continue;
+    const majority = row.jaa > row.ei ? 'jaa' : row.ei > row.jaa ? 'ei' : null;
+    if (!majority) continue;
+    total++;
+    if (b.side === majority) agree++;
+  }
+  return total ? { agree, total } : null;
+}

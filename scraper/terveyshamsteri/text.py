@@ -267,22 +267,117 @@ def _label_key(lbl: str) -> str | None:
     return None
 
 
-def extract_votes(text: str | None) -> list[Vote]:
-    """Find roll-call results in minutes prose. Requires at least JAA and EI counts in the
-    same paragraph, so stray words like 'ei' do not produce votes."""
-    if not text or not _VOTE_CUE.search(text):
+_ZW = re.compile(r"[\u200b\u200c\u200d\u2060\ufeff]")
+
+# One line of a roll-call result: "JAA 13 ääntä (Name, Name)", "EI (Liedes) 5 ääntä: Name, Name",
+# "Tyhjää 1", "JA-röster 30 (…)". Each count is on its own line in many minutes.
+_LINE = re.compile(
+    r"^[ \t]*[”\"'“]?(?P<lbl>JAA|EI|TYHJÄÄ?|TYHJIÄ|POISSA|JA|NEJ|BLANKA|BLANKT|BLANK|FRÅNVARANDE)[”\"'“]?"
+    r"(?P<suffix>-?ään\w*|-?röst\w*)?\b"
+    r"(?:[ \t]*\([^)\n]{0,80}\))?[ \t]*[:=–-]?[ \t]*(?P<n>\d{1,3})\b[ \t]*(?P<unit>kpl\.?|ään\w*|röst\w*|st\.?)?\.?"
+    r"[ \t]*(?:\((?P<names>[^)\n]*)\)|:[ \t]*(?P<names2>[^\n]+))?",
+    re.IGNORECASE | re.MULTILINE,
+)
+# "… voitti äänin 7 (Baumgartner, …) – 6 (Edgren, …)" or "”Jaa” voitti äänin 54-5".
+_WON = re.compile(
+    r"(?P<who>[^.,;\n]{1,80}?)\s+(?:voitti|vann)\s+(?:äänin|rösterna|med rösterna)\s+"
+    r"(?P<a>\d{1,3})\s*(?:\((?P<an>[^)\n]*)\))?\s*[–—-]\s*(?P<b>\d{1,3})\s*(?:\((?P<bn>[^)\n]*)\))?",
+    re.IGNORECASE,
+)
+_SIDE = re.compile(r"(?P<who>[^.,;\n]{1,120}?)\s+(?:kannattavat|kannattaneet|som understöder|som stöder)\s+(?:äänestivät|äänestävät|röstade|röstar)\s+[”\"'“]?(?P<lbl>jaa|ei|ja|nej)\b",
+                   re.IGNORECASE)
+
+
+def _names(raw: str | None) -> list[str]:
+    if not raw:
         return []
+    parts = re.split(r",|;|\s+(?:ja|och)\s+", raw)
+    return [p.strip(" .") for p in parts if p.strip(" .") and not p.strip(" .").isdigit()]
+
+
+def _line_votes(text: str, covered: set[str]) -> list[Vote]:
+    """Votes written one count per line, possibly with the voters' names. Adds the lines it
+    used to `covered`, so the paragraph fallback does not count the same vote again."""
+    lines = text.split("\n")
     votes: list[Vote] = []
+    block: dict[str, int] = {}
+    names: dict[str, list[str]] = {}
+    first = last = -10
+
+    def flush():
+        if "jaa" in block and "ei" in block:
+            covered.update(l.strip() for l in lines[first:last + 1] if l.strip())
+            ctx = "\n".join(l for l in lines[max(0, first - 2):last + 1] if l.strip())
+            votes.append(Vote(counts=dict(block), context=ctx[:600], names={k: v for k, v in names.items() if v}))
+        block.clear()
+        names.clear()
+
+    for i, line in enumerate(lines):
+        m = _LINE.match(line)
+        if not m:
+            continue
+        lbl = m.group("lbl")
+        key = _label_key(lbl)
+        # Yes/no words in lower case are too common in prose; they count only with a unit.
+        if key in ("jaa", "ei") and not lbl.isupper() and not (m.group("suffix") or m.group("unit")):
+            continue
+        if not key:
+            continue
+        if i - last > 3 or key in block:
+            flush()
+            first = i
+        block[key] = int(m.group("n"))
+        names[key] = _names(m.group("names") or m.group("names2"))
+        last = i
+    flush()
+    return votes
+
+
+def _won_votes(text: str, covered: set[str]) -> list[Vote]:
+    """'X voitti äänin 7 – 6': the winner's side is worked out from the voting proposal."""
+    votes = []
+    for para in text.split("\n"):
+        for m in _WON.finditer(para):
+            who = m.group("who").lower()
+            side = None
+            lbl = re.search(r"[”\"'“](jaa|ei|ja|nej)[”\"'“]", who)
+            if lbl:
+                side = _label_key(lbl.group(1))
+            else:
+                stem = re.findall(r"\w{4,}", who)
+                for s in _SIDE.finditer(para):
+                    if stem and any(w[:5] in s.group("who").lower() for w in stem[-2:]):
+                        side = _label_key(s.group("lbl"))
+                        break
+            if side not in ("jaa", "ei"):
+                continue
+            other = "ei" if side == "jaa" else "jaa"
+            counts = {side: int(m.group("a")), other: int(m.group("b"))}
+            names = {side: _names(m.group("an")), other: _names(m.group("bn"))}
+            votes.append(Vote(counts={k: counts[k] for k in ("jaa", "ei")}, context=para.strip()[:600],
+                              names={k: v for k, v in names.items() if v}))
+            covered.add(para.strip())
+    return votes
+
+
+def extract_votes(text: str | None) -> list[Vote]:
+    """Find roll-call results in minutes prose. A vote needs at least a JAA and an EI count
+    close together, so stray words like 'ei' do not produce votes."""
+    if not text:
+        return []
+    text = _ZW.sub("", text)
+    if not _VOTE_CUE.search(text):
+        return []
+    covered: set[str] = set()
+    votes = _line_votes(text, covered) + _won_votes(text, covered)
     for para in re.split(r"\n\s*\n|\n(?=\S)", text):
-        if not _VOTE_CUE.search(para):
+        if not _VOTE_CUE.search(para) or any(l.strip() in covered for l in para.split("\n")):
             continue
         counts: dict[str, int] = {}
         for rx, num_first in ((_PAIR_NUM_FIRST, True), (_PAIR_LABEL_FIRST, False)):
             for m in rx.finditer(para):
                 num, lbl = (m.group(1), m.group(2)) if num_first else (m.group(2), m.group(1))
                 key = _label_key(lbl)
-                # Lower-case yes/no words are too common in prose ("ei", "ja"); they count
-                # only in upper case or as "jaa-ääntä"/"ja-röster".
                 if key in ("jaa", "ei") and lbl.islower() and \
                         not re.search(r"ään|röst", m.group(0), re.IGNORECASE):
                     continue

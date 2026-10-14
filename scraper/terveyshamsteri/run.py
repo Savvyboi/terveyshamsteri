@@ -180,3 +180,34 @@ def _meeting_id(m: Meeting, seen: dict[str, Any]) -> str:
         n += 1
     return f"{base}-{n}"
 
+
+
+def reextract_votes(data_dir: Path) -> dict[str, int]:
+    """Re-run vote extraction on stored meetings, so improvements to the extractor reach
+    meetings fetched before them without fetching anything again."""
+    from dataclasses import asdict
+
+    from .text import extract_votes
+
+    stats = {"meetings": 0, "changed": 0, "votes": 0}
+    for path in sorted(data_dir.glob("*/meetings/**/*.json")):
+        m = _read(path, None)
+        if not m:
+            continue
+        stats["meetings"] += 1
+        changed = False
+        for it in m.get("items", []):
+            votes = extract_votes("\n\n".join(filter(None, [it.get("discussion"), it.get("decision")])))
+            if not votes and it.get("discussion") is None:
+                votes = extract_votes("\n".join(s["text"] for s in it.get("sections", [])))
+            new = [asdict(v) for v in votes]
+            stats["votes"] += len(new)
+            if new != it.get("votes"):
+                it["votes"] = new
+                changed = True
+        if changed:
+            body = {k: v for k, v in m.items() if k != "provenance"}
+            m.setdefault("provenance", {})["content_hash"] = _hash(body)
+            _write(path, m)
+            stats["changed"] += 1
+    return stats

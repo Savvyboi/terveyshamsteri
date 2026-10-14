@@ -141,6 +141,9 @@ jobs:
             rm -rf "data/$region"
             cp -r "$dir" "data/$region"
           done
+      - name: Re-extract votes
+        working-directory: scraper
+        run: python -m terveyshamsteri reextract --data ../data
       - name: Write index
         working-directory: scraper
         run: python -m terveyshamsteri index --data ../data

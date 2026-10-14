@@ -199,6 +199,28 @@ export const S = {
   source_statfin: { fi: 'Lähde: Tilastokeskus, aluevaalit 2025', sv: 'Källa: Statistikcentralen, välfärdsområdesvalet 2025', en: 'Source: Statistics Finland, 2025 regional elections' },
   candidate: { fi: 'Ehdokas', sv: 'Kandidat', en: 'Candidate' },
   personsCount: { fi: 'henkilöä', sv: 'personer', en: 'people' },
+  byParty: { fi: 'Puolueittain', sv: 'Per parti', en: 'By party' },
+  unmatched: { fi: 'Ei tunnistettu', sv: 'Ej identifierad', en: 'Not matched' },
+  namedVoteNote: {
+    fi: 'Nimet poimittu pöytäkirjasta ja yhdistetty vaalitulokseen automaattisesti. Tarkista alkuperäisestä pöytäkirjasta.',
+    sv: 'Namnen har hämtats ur protokollet och kopplats till valresultatet automatiskt. Kontrollera i originalprotokollet.',
+    en: 'Names are taken from the minutes and matched to the election results automatically. Check the original minutes.',
+  },
+  votingRecord: { fi: 'Äänestykset', sv: 'Omröstningar', en: 'Votes' },
+  votingRecordLead: {
+    fi: 'Äänestykset, joissa pöytäkirja kertoo, miten henkilö äänesti.',
+    sv: 'Omröstningar där protokollet visar hur personen röstade.',
+    en: 'Votes where the minutes record how this person voted.',
+  },
+  partyLine: { fi: 'Ryhmälinja', sv: 'Grupplinje', en: 'Party line' },
+  partyLineNote: {
+    fi: 'Kuinka usein äänesti oman puolueensa enemmistön kanssa nimetyissä äänestyksissä.',
+    sv: 'Hur ofta personen röstade som majoriteten av sitt parti i omröstningar med namn.',
+    en: 'How often this person voted with the majority of their party in named votes.',
+  },
+  withParty: { fi: 'puolueen kanssa', sv: 'med partiet', en: 'with party' },
+  againstParty: { fi: 'puoluetta vastaan', sv: 'mot partiet', en: 'against party' },
+  noNamedVotes: { fi: 'Ei nimettyjä äänestyksiä vielä.', sv: 'Inga omröstningar med namn ännu.', en: 'No named votes yet.' },
 } satisfies Record<string, Str>;
 
 export type Key = keyof typeof S;

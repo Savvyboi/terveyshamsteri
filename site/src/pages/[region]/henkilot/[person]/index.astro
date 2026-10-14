@@ -3,8 +3,9 @@ import Layout from '../../../../layouts/Layout.astro';
 import T from '../../../../components/T.astro';
 import L from '../../../../components/L.astro';
 import PartyTag from '../../../../components/PartyTag.astro';
+import BallotRow from '../../../../components/BallotRow.astro';
 import Breadcrumbs from '../../../../components/Breadcrumbs.astro';
-import { bodyById, electionOf, fmtDate, load, meetingUrl, peopleOf, url, type PersonStats, type Region } from '../../../../lib/data';
+import { ballotsOf, bodyById, electionOf, fmtDate, load, meetingUrl, partyLine, partySplit, peopleOf, url, type PersonStats, type Region } from '../../../../lib/data';
 
 export function getStaticPaths() {
   return load().regions.flatMap((r) => peopleOf(r.id).map((p) => ({ params: { region: r.id, person: p.slug }, props: { r, p } })));
@@ -15,6 +16,17 @@ const c = p.elected;
 const e = electionOf(r.id);
 const rank = c && e ? e.people.filter((x) => x.party === c.party && x.status === c.status && (x.votes ?? 0) > (c.votes ?? 0)).length + 1 : null;
 const councilTotal = p.council.present + p.council.absent;
+const ballots = [...(ballotsOf(r.id).get(p) ?? [])].sort((a, b) => b.m.date.localeCompare(a.m.date));
+const line = partyLine(r.id, p);
+const party = c?.party;
+// Whether this ballot went against the majority of the person's own party.
+const SHOW = 15;
+const against = (b: typeof ballots[number]) => {
+  if (!party || (b.side !== 'jaa' && b.side !== 'ei')) return false;
+  const row = partySplit(b.m, b.v).find((x) => x.party === party);
+  if (!row || row.jaa + row.ei < 2 || row.jaa === row.ei) return false;
+  return b.side !== (row.jaa > row.ei ? 'jaa' : 'ei');
+};
 ---
 <Layout title={`${p.name} – ${r.short.fi}`}>
   <Breadcrumbs trail={[
@@ -36,12 +48,34 @@ const councilTotal = p.council.present + p.council.absent;
         {rank && <p class="note" style="margin:2px 0 0">#{rank} {c.party}{c.incumbent && <> · <T k="incumbent" /></>}</p>}</div>
       <div><dt><T k="councilAttendance" /></dt><dd>{councilTotal ? `${rate(p.council)} %` : '–'}</dd>
         {councilTotal > 0 && <p class="note" style="margin:2px 0 0">{p.council.present}/{councilTotal}</p>}</div>
+      {line && <div><dt title="Ryhmälinja"><T k="partyLine" /></dt><dd>{Math.round(100 * line.agree / line.total)} %</dd>
+        <p class="note" style="margin:2px 0 0">{line.agree}/{line.total} <T k="withParty" /></p></div>}
     </dl>
+  )}
+
+  {ballots.length > 0 && (
+    <section>
+      <h2><T k="votingRecord" /> ({ballots.length})</h2>
+      <p class="note"><T k="votingRecordLead" />{line && <> <T k="partyLineNote" /></>}</p>
+      <div class="table-wrap">
+        <table class="data stack">
+          <tbody>
+            {ballots.slice(0, SHOW).map((b) => <BallotRow b={b} against={against(b)} />)}
+          </tbody>
+        </table>
+      </div>
+      {ballots.length > SHOW && (
+        <details class="more-rows">
+          <summary><T k="showMore" /> ({ballots.length - SHOW})</summary>
+          <div class="table-wrap"><table class="data stack"><tbody>{ballots.slice(SHOW).map((b) => <BallotRow b={b} against={against(b)} />)}</tbody></table></div>
+        </details>
+      )}
+    </section>
   )}
 
   <div class="columns">
     <div>
-      <h2 style="margin-top:0"><T k="meetings" /> ({p.meetings.length})</h2>
+      <h2><T k="meetings" /> ({p.meetings.length})</h2>
       {p.meetings.length === 0 ? <p class="note"><T k="noMinutesYet" /></p> : (
         <ul class="list">
           {p.meetings.map(({ m, group, role }) => (
