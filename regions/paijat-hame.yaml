@@ -7,7 +7,7 @@ short:
   fi: Päijät-Häme
   sv: Päijänne-Tavastland
 homepage: https://paijatha.fi
-enabled: true
+enabled: false
 since: 2025-06-01   # start of the current council term
 language: fi
 source_status: confirmed   # confirmed | inferred | unknown

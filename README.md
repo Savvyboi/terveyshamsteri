@@ -43,7 +43,7 @@ within a time budget; anything left over continues the next week.
 |---|---|---|
 | Keski-Suomi | Dynasty | pilot, enabled |
 | Pirkanmaa | CloudNC | pilot, enabled |
-| Päijät-Häme | Tweb | pilot, **blocked**: the Tweb host's robots.txt disallows crawlers |
+| Päijät-Häme | Tweb | paused: the Tweb host's robots.txt disallows crawlers |
 | 18 others | Dynasty / CloudNC / Tweb / own site | configured, `enabled: false` |
 
 Dynasty and CloudNC regions should work by flipping `enabled: true` once their hosts are
