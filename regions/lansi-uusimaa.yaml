@@ -15,4 +15,4 @@ epochs:
   - platform: dynasty
     base_url: https://luhva-d10julk.oncloudos.com
 notes:
-  fi: Kaksikielinen alue.
+  fi: "Kaksikielinen alue."

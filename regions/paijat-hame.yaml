@@ -15,4 +15,4 @@ epochs:
   - platform: tweb
     base_url: https://phhyky-julkaisu.tweb.fi
 notes:
-  fi: Pilottialue (Tweb). Palvelun robots.txt estää automaattisen haun; tarvitaan alueen lupa tai tiedostovienti.
+  fi: "Pilottialue (Tweb). Palvelun robots.txt estää automaattisen haun; tarvitaan alueen lupa tai tiedostovienti."

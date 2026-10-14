@@ -15,4 +15,4 @@ epochs:
   - platform: dynasty
     base_url: https://dynastyjulkaisu.pohjoiskarjala.net
 notes:
-  fi: Siun sote.
+  fi: "Siun sote."

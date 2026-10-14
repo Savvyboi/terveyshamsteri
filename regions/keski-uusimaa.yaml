@@ -15,4 +15,4 @@ epochs:
   - platform: cloudnc
     base_url: https://keuh.cloudnc.fi
 notes:
-  fi: Keusote.
+  fi: "Keusote."

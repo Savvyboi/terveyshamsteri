@@ -15,4 +15,4 @@ epochs:
   - platform: pdfsite
     base_url: https://www.hyvaep.fi
 notes:
-  fi: Pöytäkirjat PDF-tiedostoina alueen omilla sivuilla; vaatii oman PDF-sovittimen.
+  fi: "Pöytäkirjat PDF-tiedostoina alueen omilla sivuilla; vaatii oman PDF-sovittimen."

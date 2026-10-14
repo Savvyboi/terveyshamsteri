@@ -15,4 +15,4 @@ epochs:
   - platform: dynasty
     base_url: https://hyvaks-d10julk.oncloudos.com
 notes:
-  fi: Pilottialue (Dynasty).
+  fi: "Pilottialue (Dynasty)."

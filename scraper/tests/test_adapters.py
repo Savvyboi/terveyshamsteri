@@ -152,3 +152,14 @@ def test_helpers():
     assert slugify("Yksilöasiainjaosto") == "yksiloasiainjaosto"
     assert parse_fi_date("Kokous 5.10.2026 Pöytäkirja") == "2026-10-05"
     assert scrub("soita 040 123 4567 tai maili@x.fi") == "soita tai"
+
+
+def test_region_configs_load():
+    from terveyshamsteri.adapters import ADAPTERS
+    from terveyshamsteri.config import load_regions
+    regions = load_regions(Path(__file__).resolve().parents[2] / "regions")
+    assert len(regions) == 21
+    for r in regions.values():
+        assert r["name"]["fi"] and r["name"]["sv"]
+        for e in r.get("epochs", []):
+            assert e["platform"] in ADAPTERS or e["platform"] == "pdfsite"

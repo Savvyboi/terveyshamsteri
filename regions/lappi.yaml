@@ -19,4 +19,4 @@ epochs:
     base_url: https://lapha-julkaisu.tweb.fi
     valid_to: 2025-12-31
 notes:
-  fi: Ennen vuotta 2026 osoitteessa lapha-julkaisu.tweb.fi. Tweb estää robotit (robots.txt).
+  fi: "Ennen vuotta 2026 osoitteessa lapha-julkaisu.tweb.fi. Tweb estää robotit (robots.txt)."

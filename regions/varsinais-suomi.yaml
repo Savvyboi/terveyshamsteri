@@ -15,4 +15,4 @@ epochs:
   - platform: tweb
     base_url: https://varha-julkaisu.triplancloud.fi
 notes:
-  fi: Triplan cloud, todennäköisesti Tweb.
+  fi: "Triplan cloud, todennäköisesti Tweb."

@@ -15,4 +15,4 @@ epochs:
   - platform: cloudnc
     base_url: https://vakehyva.cloudnc.fi
 notes:
-  fi: Kaksikielinen alue.
+  fi: "Kaksikielinen alue."

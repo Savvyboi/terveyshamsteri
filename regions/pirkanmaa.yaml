@@ -15,4 +15,4 @@ epochs:
   - platform: cloudnc
     base_url: https://pirha.cloudnc.fi
 notes:
-  fi: Pilottialue (CloudNC).
+  fi: "Pilottialue (CloudNC)."

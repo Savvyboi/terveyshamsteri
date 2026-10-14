@@ -13,4 +13,4 @@ language: fi
 source_status: unknown   # confirmed | inferred | unknown
 epochs: []
 notes:
-  fi: Pöytäkirjojen julkaisujärjestelmä selvittämättä.
+  fi: "Pöytäkirjojen julkaisujärjestelmä selvittämättä."
