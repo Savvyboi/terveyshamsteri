@@ -61,6 +61,27 @@ jobs:
       - name: Scrape 3 meetings
         working-directory: scraper
         run: python -m terveyshamsteri scrape ${{ matrix.region }} --data ../probe --max-meetings 3
+      - name: Raw item markup (parser debugging)
+        if: always()
+        working-directory: scraper
+        run: |
+          python - <<'PY'
+          import json, pathlib, re
+          from terveyshamsteri.http import Fetcher
+          files = sorted(pathlib.Path("../probe").rglob("meetings/**/*.json"))
+          f = Fetcher()
+          for p in files[:1]:
+              m = json.loads(p.read_text())
+              items = sorted(m["items"], key=lambda it: -len(it["title"]))
+              for it in items[:1]:
+                  html = f.get(it["source_url"]).text
+                  print("URL", it["source_url"], "len", len(html))
+                  for k in ("DATABEGIN", "DATAEND", "Liitteet", "Bilagor", "Päätös"):
+                      print(k, [mm.start() for mm in re.finditer(k, html)][:10])
+                  body = re.sub(r"\s+", " ", html.split("<body", 1)[-1])
+                  for i in range(0, min(len(body), 24000), 3000):
+                      print(body[i:i + 3000])
+          PY
       - name: Summarise
         if: always()
         run: |
