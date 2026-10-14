@@ -16,7 +16,7 @@ for p in ["/config.json", "/config.design.json"]:
         t = get(base + p); note("CFG " + p, t[:1500]); cfg.update(json.loads(t))
     except Exception as e:
         note("CFG ERR", f"{p} {e!r}")
-mgmt = cfg.get("managementApiUrl") or cfg.get("backendUrl") or ""
+mgmt = cfg.get("dataApiUrl") or ""
 apis = None
 for u in [f"{mgmt}/apis?api-version=2022-04-01-preview", f"{mgmt}/apis?api-version=2021-08-01",
           f"{mgmt}/developer/apis?api-version=2022-04-01-preview", f"{base}/developer/apis?api-version=2022-04-01-preview",
