@@ -51,7 +51,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        region: [keski-suomi, pirkanmaa]
+        region: [keski-suomi, pirkanmaa, etela-savo, kanta-hame, keski-pohjanmaa, lansi-uusimaa, pohjanmaa, pohjois-karjala, pohjois-savo, ita-uusimaa, kainuu, keski-uusimaa, pohjois-pohjanmaa, satakunta, vantaa-kerava]
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -83,6 +83,25 @@ jobs:
                   print(f"   longest item § {longest['number']} {longest['title']!r}:")
                   for s in longest["sections"]:
                       print(f"     [{s['heading']}] {s['text'][:700]!r}")
+          PY
+      - name: Verdict
+        if: always()
+        run: |
+          python - <<'PY'
+          import json, pathlib
+          r = "${{ matrix.region }}"
+          st = json.loads((pathlib.Path("probe") / r / "status.json").read_text()) if (pathlib.Path("probe") / r / "status.json").exists() else {}
+          bodies = json.loads((pathlib.Path("probe") / r / "bodies.json").read_text()) if (pathlib.Path("probe") / r / "bodies.json").exists() else []
+          ms = [json.loads(p.read_text()) for p in pathlib.Path("probe").rglob("meetings/**/*.json")]
+          items = [it for m in ms for it in m["items"]]
+          c = lambda k: sum(1 for it in items if it.get(k))
+          print(f"VERDICT {r} result={st.get('result')} errors={st.get('errors')} bodies={len(bodies)} meetings={len(ms)} "
+                f"stages={[m['stage'] for m in ms]} items={len(items)} proposal={c('proposal')} decision={c('decision')} "
+                f"diary={c('diary_number')} preparer={c('preparer')} att={c('attachments')} "
+                f"participants={[len(m['participants']) for m in ms]} lang={[m['language'] for m in ms]}")
+          if items:
+              it = max(items, key=lambda it: sum(len(s["text"]) for s in it["sections"]))
+              print(f"VERDICT-SAMPLE {r} {it['title'][:60]!r} heads={[s['heading'] for s in it['sections']][:10]}")
           PY
       - uses: actions/upload-artifact@v4
         if: always()
