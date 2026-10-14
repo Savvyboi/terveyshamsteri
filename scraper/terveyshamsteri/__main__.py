@@ -3,6 +3,7 @@
   python -m terveyshamsteri regions                 # JSON list of enabled region ids (CI matrix)
   python -m terveyshamsteri scrape pirkanmaa --data ../data [--max-meetings 5]
   python -m terveyshamsteri index --data ../data     # write regions.json + status.json
+  python -m terveyshamsteri elections --data ../data [--region kainuu] [--refresh]
 """
 
 from __future__ import annotations
@@ -14,6 +15,7 @@ import sys
 from pathlib import Path
 
 from .config import load_regions
+from .elections import fetch_elections
 from .index import build_index
 from .run import scrape_region
 
@@ -37,6 +39,11 @@ def main(argv: list[str] | None = None) -> int:
     ix = sub.add_parser("index", help="write regions.json and status.json")
     ix.add_argument("--data", type=Path, required=True)
 
+    el = sub.add_parser("elections", help="fetch 2025 regional election results")
+    el.add_argument("--data", type=Path, required=True)
+    el.add_argument("--region", action="append", help="only these regions (repeatable)")
+    el.add_argument("--refresh", action="store_true", help="refetch counties already on disk")
+
     args = ap.parse_args(argv)
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
     regions = load_regions(args.regions_dir)
@@ -50,6 +57,10 @@ def main(argv: list[str] | None = None) -> int:
                                refresh=args.refresh, delay=args.delay)
         print(json.dumps(status, ensure_ascii=False, indent=1))
         return 0 if status["result"] in ("ok", "partial", "blocked", "not-implemented") else 1
+    if args.cmd == "elections":
+        results = fetch_elections(args.data, regions=args.region, refresh=args.refresh)
+        print(json.dumps(results, ensure_ascii=False, indent=1))
+        return 0 if any(not v.startswith("error") for v in results.values()) else 1
     if args.cmd == "index":
         build_index(regions, args.data)
         return 0
