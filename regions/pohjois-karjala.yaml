@@ -7,12 +7,12 @@ short:
   fi: Pohjois-Karjala
   sv: Norra Karelen
 homepage: https://www.siunsote.fi
-enabled: false
+enabled: true
 since: 2025-06-01   # start of the current council term
 language: fi
 source_status: confirmed   # confirmed | inferred | unknown
 epochs:
   - platform: dynasty
-    base_url: https://dynastyjulkaisu.pohjoiskarjala.net
+    base_url: https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk
 notes:
   fi: "Siun sote."

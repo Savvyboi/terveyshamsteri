@@ -7,10 +7,10 @@ short:
   fi: Etelä-Savo
   sv: Södra Savolax
 homepage: https://etelasavonha.fi
-enabled: false
+enabled: true
 since: 2025-06-01   # start of the current council term
 language: fi
-source_status: inferred   # confirmed | inferred | unknown
+source_status: confirmed   # confirmed | inferred | unknown
 epochs:
   - platform: dynasty
     base_url: https://etela-savonhva.oncloudos.com

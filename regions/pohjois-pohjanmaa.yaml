@@ -7,7 +7,7 @@ short:
   fi: Pohjois-Pohjanmaa
   sv: Norra Österbotten
 homepage: https://pohde.fi
-enabled: false
+enabled: true
 since: 2025-06-01   # start of the current council term
 language: fi
 source_status: confirmed   # confirmed | inferred | unknown

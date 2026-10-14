@@ -7,10 +7,10 @@ short:
   fi: Satakunta
   sv: Satakunta
 homepage: https://www.satakunnanhyvinvointialue.fi
-enabled: false
+enabled: true
 since: 2025-06-01   # start of the current council term
 language: fi
-source_status: inferred   # confirmed | inferred | unknown
+source_status: confirmed   # confirmed | inferred | unknown
 epochs:
   - platform: cloudnc
     base_url: https://sata.cloudnc.fi

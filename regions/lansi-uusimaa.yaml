@@ -7,10 +7,10 @@ short:
   fi: Länsi-Uusimaa
   sv: Västra Nyland
 homepage: https://www.luvn.fi
-enabled: false
+enabled: true
 since: 2025-06-01   # start of the current council term
 language: fi
-source_status: inferred   # confirmed | inferred | unknown
+source_status: confirmed   # confirmed | inferred | unknown
 epochs:
   - platform: dynasty
     base_url: https://luhva-d10julk.oncloudos.com

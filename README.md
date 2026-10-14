@@ -41,10 +41,10 @@ within a time budget; anything left over continues the next week.
 
 | Region | Platform | Status |
 |---|---|---|
-| Keski-Suomi | Dynasty | pilot, enabled |
-| Pirkanmaa | CloudNC | pilot, enabled |
-| Päijät-Häme | Tweb | paused: the Tweb host's robots.txt disallows crawlers |
-| 18 others | Dynasty / CloudNC / Tweb / own site | configured, `enabled: false` |
+| Keski-Suomi, Kanta-Häme, Etelä-Savo, Pohjois-Savo, Pohjois-Karjala, Keski-Pohjanmaa, Pohjanmaa, Länsi-Uusimaa | Dynasty | enabled |
+| Pirkanmaa, Itä-Uusimaa, Keski-Uusimaa, Vantaa–Kerava, Kainuu, Pohjois-Pohjanmaa, Satakunta | CloudNC | enabled |
+| Päijät-Häme, Lappi, Varsinais-Suomi | Tweb | not supported: the Päijät-Häme and Lappi hosts disallow crawlers in robots.txt |
+| Etelä-Pohjanmaa, Etelä-Karjala, Kymenlaakso | own site / unknown | not yet supported |
 
 Dynasty and CloudNC regions should work by flipping `enabled: true` once their hosts are
 confirmed (see `source_status` in each YAML). Tweb needs the region's permission or a bulk

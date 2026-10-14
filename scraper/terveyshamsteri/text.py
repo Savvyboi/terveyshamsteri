@@ -80,7 +80,7 @@ def excluded(name: str, extra: list[str] | None = None) -> bool:
 
 # ---------------------------------------------------------------- privacy
 
-_EMAIL = re.compile(r"[\w.+-]+@[\w-]+(?:\.[\w-]+)+")
+_EMAIL = re.compile(r"[\w.+-]+(?:@|\s?\((?:at|ät|a)\)\s?)[\w-]+(?:\.[\w-]+)+")
 _PHONE = re.compile(r"(?<!\d)(?:\+358\s?|0)\d{1,3}[\s-]?\d{3,4}[\s-]?\d{3,4}(?!\d)")
 _HETU = re.compile(r"\b\d{6}[-+AaBCDEFYXWVU]\d{3}[0-9A-Ya-y]\b")
 
@@ -95,6 +95,8 @@ def scrub(text: str | None) -> str | None:
     text = _PHONE.sub("", text)
     text = re.sub(r"[, \t]*\b(?:puh|p|tel)\.?[ \t]*(?=,|\n|$)", "", text)  # label left behind
     text = re.sub(r"[ \t]+,", ",", text)
+    text = re.sub(r",(?:[ \t]*,)+", ",", text)
+    text = re.sub(r",[ \t]*(?=\n|$)", "", text)
     text = re.sub(r"[ \t]{2,}", " ", text)
     return text.strip()
 
@@ -144,14 +146,15 @@ def soup(html: str) -> BeautifulSoup:
 # Headings used in Finnish and Swedish minutes. Matched against whole lines.
 SECTION_HEADINGS = {
     "proposal": [r"päätösehdotus", r"ehdotus", r"esitys", r"förslag", r"beslutsförslag",
-                 r"[\wåäö-]+n (?:päätös)?ehdotus", r"esittelijän ehdotus"],
+                 r"[\wåäö-]+n (?:päätös)?ehdotus", r"esittelijän ehdotus", r"päätösesitys",
+                 r"[\wåäö-]+n päätösesitys"],
     "decision": [r"päätös", r"beslut"],
     "discussion": [r"kokouskäsittely", r"käsittely", r"behandling", r"behandling under mötet"],
     "preparer": [r"valmistelija(?:t)?", r"beredning", r"beredare", r"lisätiedot"],
     "presenter": [r"esittelijä", r"föredragande"],
     "attachments": [r"liitteet", r"bilagor", r"oheismateriaali", r"oheisaineisto"],
     "appeal": [r"muutoksenhaku", r"muutoksenhakuohje", r"sökande av ändring", r"besvärsanvisning"],
-    "basis": [r"perustelut", r"asian tausta", r"motivering", r"toimivalta", r"selostus asiasta",
+    "basis": [r"perustelut", r"asian tausta", r"motivering", r"toimivalta", r"selostus asiasta", r"selostus",
               r"ärendebeskrivning", r"redogörelse"],
     "other": [r"tiedoksi", r"toimenpiteet", r"täytäntöönpano", r"för kännedom",
               r"verkställighet"],
@@ -171,12 +174,37 @@ def heading_kind(line: str) -> str | None:
     return None
 
 
+def _label_lines(text: str) -> list[str]:
+    """Lines with labels normalised: 'Päätösehdotus: Aluehallitus ...' becomes two lines, and a
+    label wrapped over two lines ('Toimialajohtajan' / 'päätösesitys') becomes one."""
+    lines = text.split("\n")
+    out: list[str] = []
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
+        j = i + 1
+        if j < len(lines) and not lines[j].strip():
+            j += 1  # paragraphs are separated by a blank line
+        nxt = lines[j].strip() if j < len(lines) else ""
+        if re.fullmatch(r"[A-ZÅÄÖ][\wåäö-]+n", line) and nxt and heading_kind(f"{line} {nxt}"):
+            out.append(f"{line} {nxt}")
+            i = j + 1
+            continue
+        m = re.match(r"([A-ZÅÄÖ][\wåäö -]{2,38}?)\s*:\s+(\S.*)$", line)
+        if m and heading_kind(m.group(1)) and heading_kind(m.group(1)) not in ("preparer", "presenter"):
+            out.extend([m.group(1), m.group(2)])
+        else:
+            out.append(lines[i])
+        i += 1
+    return out
+
+
 def split_sections(text: str) -> list[Section]:
     """Split item text on lines that are just a known heading ('Päätös', 'Kokouskäsittely'...).
     Text before the first heading goes into a section with an empty heading."""
     sections: list[Section] = []
     heading, buf = "", []
-    for line in text.split("\n"):
+    for line in _label_lines(text):
         stripped = line.strip()
         if stripped and len(stripped) < 40 and _HEADING_LINE.match(stripped):
             if heading or "".join(buf).strip():

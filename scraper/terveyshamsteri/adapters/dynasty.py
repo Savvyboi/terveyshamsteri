@@ -164,7 +164,8 @@ def _item_text(doc) -> tuple[str, str | None]:
     Word export in div.htmCnt. Its header fields are tagged (-aw-sdt-tag:'Dynasty_Board',
     'Dynasty_CaseNumber'...), and every section starts with a hanging-indent paragraph:
     the label ('Valmistelija', 'Päätösehdotus'), a tab span, then the text."""
-    cnt = doc.select_one("div.htmCnt")
+    # Older Dynasty 10.5 builds use div.htmCnt, newer ones div.data-part-block-htm.
+    cnt = doc.select_one("div.htmCnt") or doc.select_one("div.data-part-block-htm")
     if cnt is None:
         h1 = doc.find("h1")
         text = content_after(h1) if h1 else html_text(doc.body or doc)
@@ -172,6 +173,8 @@ def _item_text(doc) -> tuple[str, str | None]:
     case = cnt.find(style=re.compile(r"Dynasty_CaseNumber"))
     diary = case.get_text(" ", strip=True).replace("\xa0", " ").strip() or None if case else None
     for el in cnt.find_all(style=_SDT_HEADER):
+        el.decompose()
+    for el in cnt.find_all(["svg", "img"]):
         el.decompose()
     for par in cnt.find_all("p"):
         tab = par.find("span", style=_TAB, recursive=False)

@@ -7,7 +7,7 @@ short:
   fi: Keski-Pohjanmaa
   sv: Mellersta Österbotten
 homepage: https://soite.fi
-enabled: false
+enabled: true
 since: 2025-06-01   # start of the current council term
 language: fi
 source_status: confirmed   # confirmed | inferred | unknown
