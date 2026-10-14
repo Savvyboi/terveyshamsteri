@@ -13,6 +13,6 @@ language: fi
 source_status: confirmed   # confirmed | inferred | unknown
 epochs:
   - platform: dynasty
-    base_url: https://dynastyjulkaisu.pohjoiskarjala.net
+    base_url: https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk
 notes:
   fi: "Siun sote."
