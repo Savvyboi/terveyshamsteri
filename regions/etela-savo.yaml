@@ -1,0 +1,16 @@
+# Etelä-Savo: decision publishing source (inferred).
+id: etela-savo
+name:
+  fi: Etelä-Savon hyvinvointialue
+  sv: Södra Savolax välfärdsområde
+short:
+  fi: Etelä-Savo
+  sv: Södra Savolax
+homepage: https://etelasavonha.fi
+enabled: false
+since: 2025-06-01   # start of the current council term
+language: fi
+source_status: inferred   # confirmed | inferred | unknown
+epochs:
+  - platform: dynasty
+    base_url: https://etela-savonhva.oncloudos.com

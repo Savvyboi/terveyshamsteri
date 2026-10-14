@@ -1,0 +1,49 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import T from '../../../../components/T.astro';
+import Breadcrumbs from '../../../../components/Breadcrumbs.astro';
+import { bodyById, fmtDate, load, meetingUrl, peopleOf, url, type PersonStats, type Region } from '../../../../lib/data';
+
+export function getStaticPaths() {
+  return load().regions.flatMap((r) => peopleOf(r.id).map((p) => ({ params: { region: r.id, person: p.slug }, props: { r, p } })));
+}
+const { r, p } = Astro.props as { r: Region; p: PersonStats };
+const rate = (x: { present: number; absent: number }) => Math.round((x.present / Math.max(1, x.present + x.absent)) * 100);
+---
+<Layout title={`${p.name} – ${r.short.fi}`}>
+  <Breadcrumbs trail={[{ href: url(r.id), fi: r.short.fi, sv: r.short.sv }, { href: url(r.id, 'henkilot'), fi: 'Henkilöt', sv: 'Personer' }, { label: p.name }]} />
+  <div class="page-head">
+    <h1>{p.name}</h1>
+    <p class="facts"><span><T k="roles" />: <b>{[...p.roles].join(', ') || '–'}</b></span></p>
+  </div>
+  <div class="columns">
+    <div>
+      <h2><T k="meetings" /></h2>
+      <ul class="list">
+        {p.meetings.map(({ m, group, role }) => (
+          <li><a class="row" href={meetingUrl(m)}>
+            <span class="date">{fmtDate(m.date)}</span>
+            <span class="title">{m.body_name}{role && <span class="sub">{role}</span>}</span>
+            <span class="side">{group === 'absent' ? <span class="chip warn"><T k="absent" /></span> : <span class="chip"><T k="present" /></span>}</span>
+          </a></li>
+        ))}
+      </ul>
+    </div>
+    <aside class="aside">
+      <div class="card">
+        <h3 style="margin-top:0"><T k="attendance" /></h3>
+        <ul class="list" style="box-shadow:none">
+          {[...p.bodies.entries()].map(([b, s]) => (
+            <li class="row" style="flex-direction:column;gap:4px;padding:10px 0">
+              <a href={url(r.id, b)}>{bodyById(r.id, b).name}</a>
+              <span style="display:flex;align-items:center;gap:8px;width:100%">
+                <span class="meter" style="flex:1"><span style={`width:${rate(s)}%`}></span></span>
+                <span class="note">{s.present}/{s.present + s.absent}</span>
+              </span>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </aside>
+  </div>
+</Layout>

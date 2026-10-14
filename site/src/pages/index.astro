@@ -1,0 +1,74 @@
+---
+import Layout from '../layouts/Layout.astro';
+import T from '../components/T.astro';
+import MeetingRow from '../components/MeetingRow.astro';
+import { load, url } from '../lib/data';
+
+const { regions, meetings } = load();
+const enabled = regions.filter((r) => r.enabled && r.meetings > 0);
+const others = regions.filter((r) => !(r.enabled && r.meetings > 0));
+const items = meetings.reduce((a, m) => a + m.items.length, 0);
+const votes = meetings.reduce((a, m) => a + m.items.reduce((b, it) => b + it.votes.length, 0), 0);
+const latest = meetings.filter((m) => m.stage !== 'agenda').slice(0, 10);
+const upcoming = meetings.filter((m) => m.stage === 'agenda').slice(0, 5).reverse();
+const statusKey = (r: (typeof regions)[number]) =>
+  !r.enabled ? 'coming' : r.status?.result === 'blocked' ? 'blocked'
+  : r.status?.result === 'error' || r.status?.result === 'not-implemented' ? 'coming' : 'included';
+---
+<Layout>
+  <section class="hero">
+    <div class="hero-inner">
+      <h1><T k="heroTitle" /></h1>
+      <p><T k="heroLead" /></p>
+      <form class="searchbox" action={url('haku')} method="get" role="search">
+        <label for="q" class="sr-only" hidden><T k="search" /></label>
+        <input id="q" name="q" type="search" autocomplete="off"
+          placeholder="Hae päätöksistä, esim. terveysasema"
+          data-fi-placeholder="Hae päätöksistä, esim. terveysasema"
+          data-sv-placeholder="Sök bland beslut, t.ex. hälsostation" />
+        <button class="btn" type="submit"><T k="search" /></button>
+      </form>
+    </div>
+  </section>
+
+  <div class="stats">
+    <div class="stat"><strong>{enabled.length}</strong><span><T k="regionsCount" /></span></div>
+    <div class="stat"><strong>{meetings.length.toLocaleString('fi-FI')}</strong><span><T k="meetingsCount" /></span></div>
+    <div class="stat"><strong>{items.toLocaleString('fi-FI')}</strong><span><T k="itemsCount" /></span></div>
+    <div class="stat"><strong>{votes.toLocaleString('fi-FI')}</strong><span><T k="votesCount" /></span></div>
+  </div>
+
+  <h2><T k="regions" /></h2>
+  <div class="grid">
+    {enabled.map((r) => (
+      <a class="card region-card" href={url(r.id)}>
+        <span class="name"><span class="fi">{r.short.fi}</span><span class="sv">{r.short.sv}</span></span>
+        <span><span class="fi">{r.name.fi}</span><span class="sv">{r.name.sv}</span></span>
+        <span class="meta"><span class="chip"><T k={statusKey(r)} /></span> {r.meetings} <T k="meetingsCount" /></span>
+      </a>
+    ))}
+    {others.map((r) => (
+      <div class="card region-card disabled">
+        <span class="name"><span class="fi">{r.short.fi}</span><span class="sv">{r.short.sv}</span></span>
+        <span class="meta"><span class:list={['chip', statusKey(r) === 'blocked' ? 'warn' : 'muted']}><T k={statusKey(r)} /></span></span>
+      </div>
+    ))}
+  </div>
+
+  {upcoming.length > 0 && (
+    <>
+      <h2><T k="agenda" /></h2>
+      <ul class="list">{upcoming.map((m) => <MeetingRow m={m} showRegion />)}</ul>
+    </>
+  )}
+
+  <h2><T k="latestMeetings" /></h2>
+  <ul class="list">{latest.map((m) => <MeetingRow m={m} showRegion />)}</ul>
+
+  <h2><T k="howTitle" /></h2>
+  <ol class="how">
+    <li><T k="how1" /></li>
+    <li><T k="how2" /></li>
+    <li><T k="how3" /></li>
+  </ol>
+</Layout>

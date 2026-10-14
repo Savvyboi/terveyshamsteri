@@ -1,0 +1,16 @@
+# Kainuu: decision publishing source (inferred).
+id: kainuu
+name:
+  fi: Kainuun hyvinvointialue
+  sv: Kajanalands välfärdsområde
+short:
+  fi: Kainuu
+  sv: Kajanaland
+homepage: https://hyvinvointialue.kainuu.fi
+enabled: false
+since: 2025-06-01   # start of the current council term
+language: fi
+source_status: inferred   # confirmed | inferred | unknown
+epochs:
+  - platform: cloudnc
+    base_url: https://kainuunhyvinvointialue.cloudnc.fi

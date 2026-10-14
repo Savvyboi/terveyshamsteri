@@ -1,0 +1,18 @@
+# Etelä-Pohjanmaa: decision publishing source (confirmed).
+id: etela-pohjanmaa
+name:
+  fi: Etelä-Pohjanmaan hyvinvointialue
+  sv: Södra Österbottens välfärdsområde
+short:
+  fi: Etelä-Pohjanmaa
+  sv: Södra Österbotten
+homepage: https://www.hyvaep.fi
+enabled: false
+since: 2025-06-01   # start of the current council term
+language: fi
+source_status: confirmed   # confirmed | inferred | unknown
+epochs:
+  - platform: pdfsite
+    base_url: https://www.hyvaep.fi
+notes:
+  fi: Pöytäkirjat PDF-tiedostoina alueen omilla sivuilla; vaatii oman PDF-sovittimen.

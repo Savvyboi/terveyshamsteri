@@ -1,0 +1,9 @@
+[project]
+name = "terveyshamsteri"
+version = "0.1.0"
+description = "Scraper for Finnish wellbeing services county decisions"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

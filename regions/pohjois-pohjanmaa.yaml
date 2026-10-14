@@ -1,0 +1,23 @@
+# Pohjois-Pohjanmaa: decision publishing source (confirmed).
+id: pohjois-pohjanmaa
+name:
+  fi: Pohjois-Pohjanmaan hyvinvointialue
+  sv: Norra Österbottens välfärdsområde
+short:
+  fi: Pohjois-Pohjanmaa
+  sv: Norra Österbotten
+homepage: https://pohde.fi
+enabled: false
+since: 2025-06-01   # start of the current council term
+language: fi
+source_status: confirmed   # confirmed | inferred | unknown
+epochs:
+  - platform: cloudnc
+    base_url: https://pohde.cloudnc.fi
+    valid_from: 2025-06-01
+  - platform: tweb
+    base_url: https://tweb.ppshp.fi
+    valid_to: 2025-05-31
+    enabled: false
+notes:
+  fi: 31.5.2025 asti Tweb-palvelussa tweb.ppshp.fi.

@@ -1,0 +1,16 @@
+# Satakunta: decision publishing source (inferred).
+id: satakunta
+name:
+  fi: Satakunnan hyvinvointialue
+  sv: Satakunta välfärdsområde
+short:
+  fi: Satakunta
+  sv: Satakunta
+homepage: https://www.satakunnanhyvinvointialue.fi
+enabled: false
+since: 2025-06-01   # start of the current council term
+language: fi
+source_status: inferred   # confirmed | inferred | unknown
+epochs:
+  - platform: cloudnc
+    base_url: https://sata.cloudnc.fi

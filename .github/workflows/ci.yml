@@ -1,0 +1,87 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+      - run: pip install -r scraper/requirements.txt pytest
+      - run: python -m pytest -q
+        working-directory: scraper
+
+  site:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r scraper/requirements.txt
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - run: npm ci
+        working-directory: site
+      - name: Build with sample data
+        working-directory: site
+        run: |
+          npm run sample
+          DATA_DIR=./sample-data npm run build
+
+  # Scrapes a few real meetings from each pilot region so parser changes are checked
+  # against the live sources. Informational: a source outage should not block a PR.
+  probe:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    strategy:
+      fail-fast: false
+      matrix:
+        region: [keski-suomi, pirkanmaa, paijat-hame]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r scraper/requirements.txt
+      - name: Scrape 3 meetings
+        working-directory: scraper
+        run: python -m terveyshamsteri scrape ${{ matrix.region }} --data ../probe --max-meetings 3
+      - name: Summarise
+        if: always()
+        run: |
+          python - <<'PY'
+          import json, pathlib
+          for p in sorted(pathlib.Path("probe").rglob("meetings/**/*.json"))[:3]:
+              m = json.loads(p.read_text())
+              print(f"== {p}: {m['body_name']} {m['date']} stage={m['stage']} time={m['time']} place={m['place']}")
+              print(f"   pdf={m['pdf_url']} items={len(m['items'])} participants={len(m['participants'])}")
+              for pp in m["participants"][:4]:
+                  print("   participant:", pp)
+              for it in m["items"][:3]:
+                  print(f"   § {it['number']} {it['title']!r} dno={it['diary_number']} att={len(it['attachments'])} votes={len(it['votes'])}")
+                  print(f"     sections={[s['heading'] for s in it['sections']]}")
+                  print(f"     preparer={it['preparer']!r} presenter={it['presenter']!r}")
+                  print(f"     proposal={(it['proposal'] or '')[:200]!r}")
+                  print(f"     decision={(it['decision'] or '')[:200]!r}")
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: probe-${{ matrix.region }}
+          path: probe
+          if-no-files-found: ignore

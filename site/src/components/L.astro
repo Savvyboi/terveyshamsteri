@@ -1,0 +1,8 @@
+---
+// Free-form bilingual text. Falls back to Finnish when there is no Swedish.
+interface Props { fi: string; sv?: string | null }
+const { fi, sv } = Astro.props;
+---
+{sv && sv !== fi
+  ? <><span class="fi" lang="fi">{fi}</span><span class="sv" lang="sv">{sv}</span></>
+  : <span>{fi}</span>}

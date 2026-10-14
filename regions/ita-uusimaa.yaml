@@ -1,0 +1,18 @@
+# Itä-Uusimaa: decision publishing source (inferred).
+id: ita-uusimaa
+name:
+  fi: Itä-Uudenmaan hyvinvointialue
+  sv: Östra Nylands välfärdsområde
+short:
+  fi: Itä-Uusimaa
+  sv: Östra Nyland
+homepage: https://itauusimaa.fi
+enabled: false
+since: 2025-06-01   # start of the current council term
+language: fi
+source_status: inferred   # confirmed | inferred | unknown
+epochs:
+  - platform: cloudnc
+    base_url: https://itauusimaa.cloudnc.fi
+notes:
+  fi: Kaksikielinen alue.

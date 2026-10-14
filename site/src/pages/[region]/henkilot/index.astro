@@ -1,0 +1,53 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import T from '../../../components/T.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import { load, peopleOf, url, type Region } from '../../../lib/data';
+
+export function getStaticPaths() {
+  return load().regions.map((r) => ({ params: { region: r.id }, props: { r } }));
+}
+const { r } = Astro.props as { r: Region };
+const people = peopleOf(r.id);
+const elected = people.filter((p) => p.member);
+const officials = people.filter((p) => !p.member);
+const rate = (p: { present: number; absent: number }) => Math.round((p.present / Math.max(1, p.present + p.absent)) * 100);
+---
+<Layout title={`Henkilöt – ${r.short.fi}`}>
+  <Breadcrumbs trail={[{ href: url(r.id), fi: r.short.fi, sv: r.short.sv }, { fi: 'Henkilöt', sv: 'Personer' }]} />
+  <h1><T k="people" /></h1>
+  <p class="note">
+    <span class="fi">Luettelo perustuu pöytäkirjojen osallistujatietoihin. Nimet ovat siinä muodossa kuin ne lähteessä on kirjoitettu.</span>
+    <span class="sv">Förteckningen bygger på protokollens deltagaruppgifter. Namnen skrivs som i källan.</span>
+  </p>
+  <div class="filters"><input type="search" id="pfilter" placeholder="Suodata nimellä" data-fi-placeholder="Suodata nimellä" data-sv-placeholder="Filtrera på namn" /></div>
+  <h2><T k="elected" /> ({elected.length})</h2>
+  <ul class="list" data-filterable>
+    {elected.map((p) => (
+      <li data-name={p.name.toLowerCase()}><a class="row" href={url(r.id, 'henkilot', p.slug)}>
+        <span class="title">{p.name}<span class="sub">{[...p.roles].slice(0, 3).join(', ')}</span></span>
+        <span class="side" style="display:flex;align-items:center;gap:8px">
+          <span class="meter" title={`${rate(p)} %`}><span style={`width:${rate(p)}%`}></span></span>
+          {p.present}/{p.present + p.absent}
+        </span>
+      </a></li>
+    ))}
+  </ul>
+  <h2><T k="officials" /> ({officials.length})</h2>
+  <ul class="list" data-filterable>
+    {officials.map((p) => (
+      <li data-name={p.name.toLowerCase()}><a class="row" href={url(r.id, 'henkilot', p.slug)}>
+        <span class="title">{p.name}<span class="sub">{[...p.roles].slice(0, 2).join(', ')}</span></span>
+        <span class="side">{p.present} <T k="meetingsCount" /></span>
+      </a></li>
+    ))}
+  </ul>
+  <script is:inline>
+    document.getElementById('pfilter').addEventListener('input', function (e) {
+      var q = e.target.value.toLowerCase().trim();
+      document.querySelectorAll('[data-filterable] > li').forEach(function (li) {
+        li.hidden = q && li.getAttribute('data-name').indexOf(q) === -1;
+      });
+    });
+  </script>
+</Layout>

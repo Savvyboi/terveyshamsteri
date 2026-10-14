@@ -1,0 +1,18 @@
+# Keski-Uusimaa: decision publishing source (inferred).
+id: keski-uusimaa
+name:
+  fi: Keski-Uudenmaan hyvinvointialue
+  sv: Mellersta Nylands välfärdsområde
+short:
+  fi: Keski-Uusimaa
+  sv: Mellersta Nyland
+homepage: https://www.keusote.fi
+enabled: false
+since: 2025-06-01   # start of the current council term
+language: fi
+source_status: inferred   # confirmed | inferred | unknown
+epochs:
+  - platform: cloudnc
+    base_url: https://keuh.cloudnc.fi
+notes:
+  fi: Keusote.

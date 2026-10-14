@@ -1,0 +1,16 @@
+# Etelä-Karjala: decision publishing source (unknown).
+id: etela-karjala
+name:
+  fi: Etelä-Karjalan hyvinvointialue
+  sv: Södra Karelens välfärdsområde
+short:
+  fi: Etelä-Karjala
+  sv: Södra Karelen
+homepage: https://ekhva.fi
+enabled: false
+since: 2025-06-01   # start of the current council term
+language: fi
+source_status: unknown   # confirmed | inferred | unknown
+epochs: []
+notes:
+  fi: Pöytäkirjojen julkaisujärjestelmä selvittämättä.

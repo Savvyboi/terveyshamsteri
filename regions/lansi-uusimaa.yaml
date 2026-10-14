@@ -1,0 +1,18 @@
+# Länsi-Uusimaa: decision publishing source (inferred).
+id: lansi-uusimaa
+name:
+  fi: Länsi-Uudenmaan hyvinvointialue
+  sv: Västra Nylands välfärdsområde
+short:
+  fi: Länsi-Uusimaa
+  sv: Västra Nyland
+homepage: https://www.luvn.fi
+enabled: false
+since: 2025-06-01   # start of the current council term
+language: fi
+source_status: inferred   # confirmed | inferred | unknown
+epochs:
+  - platform: dynasty
+    base_url: https://luhva-d10julk.oncloudos.com
+notes:
+  fi: Kaksikielinen alue.

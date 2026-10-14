@@ -1,0 +1,16 @@
+# Pohjois-Savo: decision publishing source (inferred).
+id: pohjois-savo
+name:
+  fi: Pohjois-Savon hyvinvointialue
+  sv: Norra Savolax välfärdsområde
+short:
+  fi: Pohjois-Savo
+  sv: Norra Savolax
+homepage: https://pshyvinvointialue.fi
+enabled: false
+since: 2025-06-01   # start of the current council term
+language: fi
+source_status: inferred   # confirmed | inferred | unknown
+epochs:
+  - platform: dynasty
+    base_url: https://pshva.oncloudos.com

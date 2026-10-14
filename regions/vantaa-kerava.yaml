@@ -1,0 +1,18 @@
+# Vantaa ja Kerava: decision publishing source (inferred).
+id: vantaa-kerava
+name:
+  fi: Vantaan ja Keravan hyvinvointialue
+  sv: Vanda och Kervo välfärdsområde
+short:
+  fi: Vantaa ja Kerava
+  sv: Vanda och Kervo
+homepage: https://vakehyva.fi
+enabled: false
+since: 2025-06-01   # start of the current council term
+language: fi
+source_status: inferred   # confirmed | inferred | unknown
+epochs:
+  - platform: cloudnc
+    base_url: https://vakehyva.cloudnc.fi
+notes:
+  fi: Kaksikielinen alue.

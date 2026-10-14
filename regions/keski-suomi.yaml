@@ -1,0 +1,18 @@
+# Keski-Suomi: decision publishing source (confirmed).
+id: keski-suomi
+name:
+  fi: Keski-Suomen hyvinvointialue
+  sv: Mellersta Finlands välfärdsområde
+short:
+  fi: Keski-Suomi
+  sv: Mellersta Finland
+homepage: https://www.hyvaks.fi
+enabled: true
+since: 2025-06-01   # start of the current council term
+language: fi
+source_status: confirmed   # confirmed | inferred | unknown
+epochs:
+  - platform: dynasty
+    base_url: https://hyvaks-d10julk.oncloudos.com
+notes:
+  fi: Pilottialue (Dynasty).

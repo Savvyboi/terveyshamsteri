@@ -1,0 +1,63 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import T from '../components/T.astro';
+import { load, url } from '../lib/data';
+const regions = load().regions;
+const issues = 'https://github.com/Savvyboi/terveyshamsteri/issues';
+---
+<Layout title="Tietoa palvelusta">
+  <Breadcrumbs trail={[{ fi: 'Tietoa palvelusta', sv: 'Om tjänsten' }]} />
+  <h1><T k="about" /></h1>
+  <div class="columns">
+    <div>
+      <div class="fi" lang="fi">
+        <p>Terveyshamsteri kerää Suomen hyvinvointialueiden julkiset esityslistat ja pöytäkirjat yhteen paikkaan, jotta kuntalaiset, tutkijat ja toimittajat voivat seurata, mitä alueilla päätetään, miten luottamushenkilöt toimivat ja mihin rahaa käytetään.</p>
+        <h2>Mistä tiedot tulevat</h2>
+        <p>Tiedot haetaan kerran viikossa alueiden omista päätöksenteon julkaisujärjestelmistä (Dynasty, CloudNC ja Tweb). Jokaisella sivulla on linkki alkuperäiseen asiakirjaan ja tieto siitä, milloin se haettiin. Virallinen tieto on aina alkuperäisessä pöytäkirjassa.</p>
+        <p>Äänestystulokset poimitaan pöytäkirjojen tekstistä koneellisesti. Ne on merkitty tarkistamattomiksi, kunnes ne on verrattu lähteeseen.</p>
+        <h2>Mitä emme julkaise</h2>
+        <ul>
+          <li>Yksilöasioiden ja henkilöstöasioiden jaostojen asiakirjoja emme hae lainkaan.</li>
+          <li>Poistamme teksteistä sähköpostiosoitteet, puhelinnumerot ja henkilötunnukset.</li>
+          <li>Kun alue poistaa henkilötietoja pöytäkirjasta muutoksenhakuajan jälkeen (hyvinvointialuelaki 145 §), poistamme ne myös täältä seuraavassa viikkopäivityksessä.</li>
+          <li>Emme tallenna liitteitä emmekä PDF-tiedostoja, vaan linkitämme niihin.</li>
+        </ul>
+        <h2>Korjaus- ja poistopyynnöt</h2>
+        <p>Jos sivulla on virhe tai tietoja, joiden ei pitäisi olla esillä, kerro siitä <a href={issues}>GitHubissa</a>. Käsittelemme poistopyynnöt viikon kuluessa.</p>
+        <h2>Avoin lähdekoodi</h2>
+        <p>Koko palvelu on avointa lähdekoodia. Kerätty aineisto on ladattavissa JSON-muodossa repositorion <code>data</code>-haarasta.</p>
+      </div>
+      <div class="sv" lang="sv">
+        <p>Terveyshamsteri samlar de finländska välfärdsområdenas offentliga föredragningslistor och protokoll på ett ställe, så att invånare, forskare och journalister kan följa vad som beslutas, hur de förtroendevalda agerar och hur pengarna används.</p>
+        <h2>Varifrån kommer uppgifterna</h2>
+        <p>Uppgifterna hämtas en gång i veckan från områdenas egna publiceringssystem för beslutsfattande (Dynasty, CloudNC och Tweb). Varje sida länkar till originaldokumentet och anger när det hämtades. Den officiella uppgiften finns alltid i originalprotokollet.</p>
+        <p>Omröstningsresultat läses ut maskinellt ur protokollens text. De är märkta som ogranskade tills de har jämförts med källan.</p>
+        <h2>Vad vi inte publicerar</h2>
+        <ul>
+          <li>Vi hämtar inte handlingar från sektioner för individärenden eller personalärenden.</li>
+          <li>Vi tar bort e-postadresser, telefonnummer och personbeteckningar ur texterna.</li>
+          <li>När ett område tar bort personuppgifter ur ett protokoll efter besvärstiden (lagen om välfärdsområden 145 §) tar vi bort dem här vid nästa veckouppdatering.</li>
+          <li>Vi sparar inte bilagor eller PDF-filer utan länkar till dem.</li>
+        </ul>
+        <h2>Begäran om rättelse eller borttagning</h2>
+        <p>Om en sida innehåller fel eller uppgifter som inte borde visas, meddela oss på <a href={issues}>GitHub</a>. Vi behandlar begäran om borttagning inom en vecka.</p>
+        <h2>Öppen källkod</h2>
+        <p>Hela tjänsten är öppen källkod. Det insamlade materialet kan laddas ner i JSON-format från grenen <code>data</code> i repositoriet.</p>
+      </div>
+    </div>
+    <aside class="aside">
+      <div class="card">
+        <h3 style="margin-top:0"><T k="regions" /></h3>
+        <ul class="list" style="box-shadow:none">
+          {regions.map((r) => (
+            <li class="row" style="padding:6px 0;justify-content:space-between">
+              {r.meetings > 0 ? <a href={url(r.id)}>{r.short.fi}</a> : <span>{r.short.fi}</span>}
+              <span class="note">{r.platforms.join(', ') || '?'}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </aside>
+  </div>
+</Layout>
