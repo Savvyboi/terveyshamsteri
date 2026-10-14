@@ -207,3 +207,13 @@ def test_dynasty_newer_layout():
     assert item.proposal == "Puheenjohtaja päättää kokouksen."
     assert item.preparer == "hallintosihteeri Maija Malli"
     assert "Navigointi" not in text and "Laadun raportti" not in text and "Confidential" not in text
+
+
+def test_split_sections_label_variants():
+    from terveyshamsteri.text import split_sections
+    text = ("Selostus\nTaustaa.\n\nToimialajohtajan\npäätösesitys\nValiokunta merkitsee tiedoksi.\n\n"
+            "Päätös: Hyväksyttiin.")
+    secs = split_sections(text)
+    assert [(s.heading, s.text) for s in secs] == [
+        ("Selostus", "Taustaa."), ("Toimialajohtajan päätösesitys", "Valiokunta merkitsee tiedoksi."),
+        ("Päätös", "Hyväksyttiin.")]

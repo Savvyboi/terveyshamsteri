@@ -146,14 +146,15 @@ def soup(html: str) -> BeautifulSoup:
 # Headings used in Finnish and Swedish minutes. Matched against whole lines.
 SECTION_HEADINGS = {
     "proposal": [r"päätösehdotus", r"ehdotus", r"esitys", r"förslag", r"beslutsförslag",
-                 r"[\wåäö-]+n (?:päätös)?ehdotus", r"esittelijän ehdotus"],
+                 r"[\wåäö-]+n (?:päätös)?ehdotus", r"esittelijän ehdotus", r"päätösesitys",
+                 r"[\wåäö-]+n päätösesitys"],
     "decision": [r"päätös", r"beslut"],
     "discussion": [r"kokouskäsittely", r"käsittely", r"behandling", r"behandling under mötet"],
     "preparer": [r"valmistelija(?:t)?", r"beredning", r"beredare", r"lisätiedot"],
     "presenter": [r"esittelijä", r"föredragande"],
     "attachments": [r"liitteet", r"bilagor", r"oheismateriaali", r"oheisaineisto"],
     "appeal": [r"muutoksenhaku", r"muutoksenhakuohje", r"sökande av ändring", r"besvärsanvisning"],
-    "basis": [r"perustelut", r"asian tausta", r"motivering", r"toimivalta", r"selostus asiasta",
+    "basis": [r"perustelut", r"asian tausta", r"motivering", r"toimivalta", r"selostus asiasta", r"selostus",
               r"ärendebeskrivning", r"redogörelse"],
     "other": [r"tiedoksi", r"toimenpiteet", r"täytäntöönpano", r"för kännedom",
               r"verkställighet"],
@@ -173,12 +174,34 @@ def heading_kind(line: str) -> str | None:
     return None
 
 
+def _label_lines(text: str) -> list[str]:
+    """Lines with labels normalised: 'Päätösehdotus: Aluehallitus ...' becomes two lines, and a
+    label wrapped over two lines ('Toimialajohtajan' / 'päätösesitys') becomes one."""
+    lines = text.split("\n")
+    out: list[str] = []
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
+        nxt = lines[i + 1].strip() if i + 1 < len(lines) else ""
+        if re.fullmatch(r"[A-ZÅÄÖ][\wåäö-]+n", line) and nxt and heading_kind(f"{line} {nxt}"):
+            out.append(f"{line} {nxt}")
+            i += 2
+            continue
+        m = re.match(r"([A-ZÅÄÖ][\wåäö -]{2,38}?)\s*:\s+(\S.*)$", line)
+        if m and heading_kind(m.group(1)) and heading_kind(m.group(1)) not in ("preparer", "presenter"):
+            out.extend([m.group(1), m.group(2)])
+        else:
+            out.append(lines[i])
+        i += 1
+    return out
+
+
 def split_sections(text: str) -> list[Section]:
     """Split item text on lines that are just a known heading ('Päätös', 'Kokouskäsittely'...).
     Text before the first heading goes into a section with an empty heading."""
     sections: list[Section] = []
     heading, buf = "", []
-    for line in text.split("\n"):
+    for line in _label_lines(text):
         stripped = line.strip()
         if stripped and len(stripped) < 40 and _HEADING_LINE.match(stripped):
             if heading or "".join(buf).strip():
