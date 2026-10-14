@@ -139,3 +139,13 @@ jobs:
               print(f"::notice title=ELECTIONS {p.stem}::seats={d['seats']} votes={d['votes_total']} "
                     f"parties={[(x['party'], x['seats']) for x in d['parties']]} people={len(d['people'])} first={d['people'][:2]}")
           PY
+
+  finance-probe:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scraper/probes/finance_discovery.py
