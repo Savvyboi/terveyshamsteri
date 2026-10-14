@@ -193,3 +193,17 @@ def test_region_configs_load():
         assert r["name"]["fi"] and r["name"]["sv"]
         for e in r.get("epochs", []):
             assert e["platform"] in ADAPTERS or e["platform"] == "pdfsite"
+
+
+def test_dynasty_newer_layout():
+    """Dynasty 10.5.0.2601+ puts the item in div.data-part-block-htm with plain paragraph labels."""
+    from terveyshamsteri.adapters.base import fill_item_from_text
+    from terveyshamsteri.adapters.dynasty import _item_text
+    from terveyshamsteri.models import Item
+    from terveyshamsteri.text import soup
+    html = (Path(__file__).parent / "fixtures/dynasty/item_new_layout.html").read_text(encoding="utf-8")
+    text, _ = _item_text(soup(html))
+    item = fill_item_from_text(Item(number="64", title="Kokouksen päättäminen", source_url="u"), text)
+    assert item.proposal == "Puheenjohtaja päättää kokouksen."
+    assert item.preparer == "hallintosihteeri Maija Malli"
+    assert "Navigointi" not in text and "Laadun raportti" not in text and "Confidential" not in text

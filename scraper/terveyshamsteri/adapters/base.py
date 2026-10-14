@@ -52,11 +52,11 @@ def fill_item_from_text(item: Item, text: str) -> Item:
             item.presenter = first_line(s.text).rstrip(",").strip()
     # "Valmistelija: Etunimi Sukunimi, talousjohtaja" written inline
     if not item.preparer:
-        m = re.search(r"(?:Valmistelija|Lisätiedot|Beredare)t?\s*:?\s*([^\n]{3,120})", text)
+        m = re.search(r"\b(?:Valmistelija|Lisätiedot|Beredare)t?(?:\s*:\s*|\s+(?=[A-ZÅÄÖ]))([^\n]{3,120})", text)
         if m:
             item.preparer = m.group(1).strip()
     if not item.presenter:
-        m = re.search(r"(?:Esittelijä|Föredragande)\s*:?\s*([^\n]{3,120})", text)
+        m = re.search(r"\b(?:Esittelijä|Föredragande)(?:\s*:\s*|\s+(?=[A-ZÅÄÖ]))([^\n]{3,120})", text)
         if m:
             item.presenter = m.group(1).strip()
     item.votes = extract_votes("\n\n".join(filter(None, [item.discussion, item.decision])))

@@ -108,22 +108,44 @@ jobs:
                   print(f"::notice title=MEETING {r}::{m['body_name']} {m['date']} {m['stage']} time={m['time']} place={m['place']} "
                         f"participants={m['participants'][:3]}")
           PY
-      - name: Raw markup of a weak item (debugging)
+      - name: Paragraph structure of a sample item (debugging)
         if: always()
         working-directory: scraper
         run: |
           python - <<'PY'
           import json, pathlib, re
           from terveyshamsteri.http import Fetcher
+          from terveyshamsteri.text import soup
           ms = [json.loads(p.read_text()) for p in sorted(pathlib.Path("../probe").rglob("meetings/**/*.json"))]
-          weak = [it for m in ms for it in m["items"] if not it["proposal"] and not it["decision"]]
-          pick = (weak or [it for m in ms for it in m["items"]])[-1:]
-          for it in pick:
-              html = Fetcher().get(it["source_url"]).text
-              i = html.find("<h1")
-              body = re.sub(r'\s+', ' ', re.sub(r'\s(style|class|onload|width)="[^"]*"', '', html[i if i >= 0 else 0:]))
-              for k in range(0, min(len(body), 9000), 3000):
-                  print(f"::notice title=RAW {k}::{it['source_url']} " + body[k:k + 3000])
+          items = [it for m in ms for it in m["items"]]
+          if not items or "oncloudos" not in items[0]["source_url"] and "dynasty" not in items[0]["source_url"]:
+              raise SystemExit
+          it = max(items, key=lambda it: len(it["title"]))
+          doc = soup(Fetcher().get(it["source_url"]).text)
+          cnt = doc.select_one("div.htmCnt") or doc.select_one("div.data-part-block-htm")
+          if cnt is None:
+              raise SystemExit
+          for t in cnt.find_all(["svg", "img"]):
+              t.decompose()
+          out = []
+          for par in cnt.find_all("p"):
+              bits = []
+              for sp in par.children:
+                  txt = sp.get_text().replace("\xa0", " ").strip() if hasattr(sp, "get_text") else str(sp).strip()
+                  st = sp.get("style", "") if hasattr(sp, "get") else ""
+                  tag = re.search(r"Dynasty_\w+", st)
+                  if "inline-block" in st:
+                      bits.append("<TAB>")
+                  elif tag:
+                      bits.append(f"[{tag.group(0)}:{txt[:30]}]")
+                  elif txt:
+                      bits.append(txt[:80])
+              ind = "H" if "text-indent:-" in par.get("style", "") else ""
+              if bits:
+                  out.append(ind + "|".join(bits))
+          text = " ¶ ".join(out)
+          for k in range(0, min(len(text), 9000), 3000):
+              print(f"::notice title=PARAS {k}::{it['source_url']} " + text[k:k + 3000])
           PY
       - uses: actions/upload-artifact@v4
         if: always()

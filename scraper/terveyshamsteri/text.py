@@ -80,7 +80,7 @@ def excluded(name: str, extra: list[str] | None = None) -> bool:
 
 # ---------------------------------------------------------------- privacy
 
-_EMAIL = re.compile(r"[\w.+-]+@[\w-]+(?:\.[\w-]+)+")
+_EMAIL = re.compile(r"[\w.+-]+(?:@|\s?\((?:at|ät|a)\)\s?)[\w-]+(?:\.[\w-]+)+")
 _PHONE = re.compile(r"(?<!\d)(?:\+358\s?|0)\d{1,3}[\s-]?\d{3,4}[\s-]?\d{3,4}(?!\d)")
 _HETU = re.compile(r"\b\d{6}[-+AaBCDEFYXWVU]\d{3}[0-9A-Ya-y]\b")
 
@@ -95,6 +95,8 @@ def scrub(text: str | None) -> str | None:
     text = _PHONE.sub("", text)
     text = re.sub(r"[, \t]*\b(?:puh|p|tel)\.?[ \t]*(?=,|\n|$)", "", text)  # label left behind
     text = re.sub(r"[ \t]+,", ",", text)
+    text = re.sub(r",(?:[ \t]*,)+", ",", text)
+    text = re.sub(r",[ \t]*(?=\n|$)", "", text)
     text = re.sub(r"[ \t]{2,}", " ", text)
     return text.strip()
 
