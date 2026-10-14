@@ -140,6 +140,11 @@ class DynastyAdapter(Adapter):
                 title = a.get_text(" ", strip=True) or fid
                 if not any(x.url == href for x in item.attachments):
                     item.attachments.append(Attachment(title=title, url=href))
+        # The PDF links (appeal instructions, item PDF, attachments) are listed separately;
+        # drop them so their link texts do not read as section headings.
+        for a in doc.find_all("a", href=True):
+            if re.search(r"/kokous/[\w-]+\.pdf$", a["href"], re.IGNORECASE):
+                a.decompose()
         h1 = doc.find("h1")
         text = content_after(h1) if h1 else html_text(doc.body or doc)
         if not text.strip():

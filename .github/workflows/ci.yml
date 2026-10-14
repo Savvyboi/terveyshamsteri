@@ -78,6 +78,11 @@ jobs:
                   print(f"     preparer={it['preparer']!r} presenter={it['presenter']!r}")
                   print(f"     proposal={(it['proposal'] or '')[:200]!r}")
                   print(f"     decision={(it['decision'] or '')[:200]!r}")
+              longest = max(m["items"], key=lambda it: sum(len(s["text"]) for s in it["sections"]), default=None)
+              if longest:
+                  print(f"   longest item § {longest['number']} {longest['title']!r}:")
+                  for s in longest["sections"]:
+                      print(f"     [{s['heading']}] {s['text'][:300]!r}")
           PY
       - uses: actions/upload-artifact@v4
         if: always()

@@ -8,12 +8,15 @@
 
 from __future__ import annotations
 
+import logging
 import re
 from urllib.parse import unquote, urljoin, urlsplit
 
 from ..models import Attachment, Body, Item, Meeting, MeetingRef, Participant
 from ..text import body_type, html_text, parse_fi_date, slugify, soup
 from .base import Adapter, content_after, fill_item_from_text
+
+log = logging.getLogger(__name__)
 
 
 def _stage(text: str) -> str:
@@ -30,11 +33,12 @@ class CloudNCAdapter(Adapter):
     def locale(self) -> str:
         return self.epoch.get("locale", "sv-FI" if self.language == "sv" else "fi-FI")
 
-    def _abs(self, href: str) -> str:
-        return urljoin(self.base + "/", href)
+    def _abs(self, href: str, page: str | None = None) -> str:
+        # Links on CloudNC pages are often relative to the current page.
+        return urljoin(page or self.base + "/", href)
 
-    def _path(self, href: str) -> list[str]:
-        return [unquote(p) for p in urlsplit(self._abs(href)).path.strip("/").split("/")]
+    def _path(self, href: str, page: str | None = None) -> list[str]:
+        return [unquote(p) for p in urlsplit(self._abs(href, page)).path.strip("/").split("/")]
 
     @property
     def bodies_segment(self) -> str:
@@ -42,15 +46,19 @@ class CloudNCAdapter(Adapter):
 
     # ------------------------------------------------------------ bodies
     def list_bodies(self) -> list[Body]:
-        doc = soup(self.fetcher.get(f"{self.base}/{self.locale}/{self.bodies_segment}").text)
+        page = f"{self.base}/{self.locale}/{self.bodies_segment}"
+        doc = soup(self.fetcher.get(page).text)
         bodies: dict[str, Body] = {}
         for a in doc.find_all("a", href=True):
-            p = self._path(a["href"])
-            if len(p) == 3 and p[0].lower() == self.locale.lower() and p[1] == self.bodies_segment:
+            p = self._path(a["href"], page)
+            if len(p) == 3 and p[0].lower() == self.locale.lower() and p[1].lower() == self.bodies_segment.lower():
                 name = a.get_text(" ", strip=True)
                 if name:
                     bodies.setdefault(p[2], Body(id=slugify(name), name=name,
-                                                 url=self._abs(a["href"]), type=body_type(name)))
+                                                 url=self._abs(a["href"], page), type=body_type(name)))
+        if not bodies:
+            log.warning("no bodies found on %s; first links: %s", page,
+                        [a["href"] for a in doc.find_all("a", href=True)][:40])
         return list(bodies.values())
 
     # ------------------------------------------------------------ meetings
@@ -60,10 +68,11 @@ class CloudNCAdapter(Adapter):
         refs: list[MeetingRef] = []
         seen: set[str] = set()
         for a in doc.find_all("a", href=True):
-            p = self._path(a["href"])
-            if len(p) != 4 or p[:3] != body_path[:3] or not re.match(r"(Kokous|Möte)_", p[3]):
+            p = self._path(a["href"], body.url)
+            if len(p) != 4 or [x.lower() for x in p[:3]] != [x.lower() for x in body_path[:3]] \
+                    or not re.match(r"(Kokous|Möte)_", p[3]):
                 continue
-            url = self._abs(a["href"])
+            url = self._abs(a["href"], body.url)
             text = a.get_text(" ", strip=True)
             date = parse_fi_date(text)
             if not date or url in seen:
@@ -90,12 +99,12 @@ class CloudNCAdapter(Adapter):
             meeting.place = m.group(1).strip()
 
         for a in doc.find_all("a", href=True):
-            href = self._abs(a["href"])
-            p = self._path(a["href"])
+            href = self._abs(a["href"], ref.url)
+            p = self._path(a["href"], ref.url)
             if "/download/" in href and meeting.pdf_url is None and not meeting.items:
                 # The first download link before any item is the minutes/agenda document.
                 meeting.pdf_url = href
-            elif len(p) == 4 and p[0].lower() == self.locale.lower() and p[1] == "content":
+            elif len(p) == 4 and p[0].lower() == self.locale.lower() and p[1].lower() == "content":
                 text = a.get_text(" ", strip=True)
                 mm = re.match(r"§\s*(\d+[a-z]?)\s*(.*)", text)
                 number, title = (mm.group(1), mm.group(2)) if mm else ("", text)
@@ -110,7 +119,7 @@ class CloudNCAdapter(Adapter):
     def _fetch_item(self, item: Item) -> None:
         doc = soup(self.fetcher.get(item.source_url).text)
         for a in doc.find_all("a", href=True):
-            href = self._abs(a["href"])
+            href = self._abs(a["href"], item.source_url)
             if "/download/" in href:
                 title = a.get_text(" ", strip=True) or "Liite"
                 if not any(x.url == href for x in item.attachments):

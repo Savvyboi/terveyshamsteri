@@ -80,6 +80,8 @@ def content_after(h1: Tag) -> str:
     idx = full.find(head)
     text = full[idx + len(head):] if idx >= 0 else full
     text = re.sub(r"\n©\s*$", "", text.strip())
+    # Dynasty ends item pages with a "Navigointi" block and a DATAEND marker.
+    text = re.split(r"\n(?:Navigointi|DATAEND)\s*(?:\n|$)", "\n" + text)[0].lstrip("\n")
     # Drop the trailing navigation and PDF links block
     text = re.split(r"\n(?:Edellinen|Seuraava|Föregående|Nästa|Takaisin|Tillbaka)"
                     r"(?: kokousasia| ärende| asia)?\s*(?:\n|$)", text)[0]

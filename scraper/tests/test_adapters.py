@@ -85,6 +85,12 @@ def test_dynasty_region(tmp_path, patch_fetcher):
     assert "teija.talous@" not in full and "040 123 4567" not in full and "010190-123A" not in full
     assert "Teija Talous" in item["preparer"]
     assert "Seuraava" not in full
+    assert [s["heading"] for s in item["sections"]][:2] == ["", "Liitteet"]
+
+    agenda_like = m["items"][1]          # proposal only, empty decision, navigation block
+    assert agenda_like["decision"] is None
+    assert agenda_like["proposal"] == "Aloite lähetetään aluehallitukselle valmisteltavaksi."
+    assert "DATAEND" not in json.dumps(agenda_like) and "Navigointi" not in json.dumps(agenda_like)
 
 
 def test_dynasty_incremental_rerun_is_stable(tmp_path, patch_fetcher):
