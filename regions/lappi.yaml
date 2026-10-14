@@ -1,0 +1,22 @@
+# Lappi: decision publishing source (confirmed).
+id: lappi
+name:
+  fi: Lapin hyvinvointialue
+  sv: Lapplands välfärdsområde
+short:
+  fi: Lappi
+  sv: Lappland
+homepage: https://lapha.fi
+enabled: false
+since: 2025-06-01   # start of the current council term
+language: fi
+source_status: confirmed   # confirmed | inferred | unknown
+epochs:
+  - platform: tweb
+    base_url: https://lapinhva-julkaisu.triplancloud.fi
+    valid_from: 2026-01-01
+  - platform: tweb
+    base_url: https://lapha-julkaisu.tweb.fi
+    valid_to: 2025-12-31
+notes:
+  fi: "Ennen vuotta 2026 osoitteessa lapha-julkaisu.tweb.fi. Tweb estää robotit (robots.txt)."

@@ -1,0 +1,22 @@
+---
+import T from './T.astro';
+import { fmtDate, meetingUrl, regionById, type Meeting } from '../lib/data';
+interface Props { m: Meeting; showRegion?: boolean; showBody?: boolean }
+const { m, showRegion, showBody = true } = Astro.props;
+const votes = m.items.reduce((a, it) => a + it.votes.length, 0);
+const region = showRegion ? regionById(m.region) : null;
+---
+<li>
+  <a class="row" href={meetingUrl(m)}>
+    <span class="date">{fmtDate(m.date)}</span>
+    <span class="title">
+      {showBody ? m.body_name : <><T k="meeting" /> {fmtDate(m.date)}</>}
+      {region && <span class="sub"><span class="fi">{region.short.fi}</span><span class="sv">{region.short.sv}</span></span>}
+    </span>
+    <span class="side">
+      {m.stage === 'agenda' ? <span class="chip agenda"><T k="agenda" /></span> : <span class="chip muted"><T k="minutes" /></span>}
+      {' '}{m.items.length} <T k="itemsCount" />
+      {votes > 0 && <> · <span class="chip vote">{votes} <T k="votesCount" /></span></>}
+    </span>
+  </a>
+</li>

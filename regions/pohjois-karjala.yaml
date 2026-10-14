@@ -1,0 +1,18 @@
+# Pohjois-Karjala: decision publishing source (confirmed).
+id: pohjois-karjala
+name:
+  fi: Pohjois-Karjalan hyvinvointialue
+  sv: Norra Karelens välfärdsområde
+short:
+  fi: Pohjois-Karjala
+  sv: Norra Karelen
+homepage: https://www.siunsote.fi
+enabled: false
+since: 2025-06-01   # start of the current council term
+language: fi
+source_status: confirmed   # confirmed | inferred | unknown
+epochs:
+  - platform: dynasty
+    base_url: https://dynastyjulkaisu.pohjoiskarjala.net
+notes:
+  fi: "Siun sote."

@@ -1,0 +1,16 @@
+# Kymenlaakso: decision publishing source (unknown).
+id: kymenlaakso
+name:
+  fi: Kymenlaakson hyvinvointialue
+  sv: Kymmenedalens välfärdsområde
+short:
+  fi: Kymenlaakso
+  sv: Kymmenedalen
+homepage: https://kymenhva.fi
+enabled: false
+since: 2025-06-01   # start of the current council term
+language: fi
+source_status: unknown   # confirmed | inferred | unknown
+epochs: []
+notes:
+  fi: "Pöytäkirjojen julkaisujärjestelmä selvittämättä."

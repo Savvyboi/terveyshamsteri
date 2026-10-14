@@ -1,0 +1,16 @@
+# Kanta-Häme: decision publishing source (inferred).
+id: kanta-hame
+name:
+  fi: Kanta-Hämeen hyvinvointialue
+  sv: Egentliga Tavastlands välfärdsområde
+short:
+  fi: Kanta-Häme
+  sv: Egentliga Tavastland
+homepage: https://omahame.fi
+enabled: false
+since: 2025-06-01   # start of the current council term
+language: fi
+source_status: inferred   # confirmed | inferred | unknown
+epochs:
+  - platform: dynasty
+    base_url: https://kantahameenhva.oncloudos.com

@@ -1,0 +1,22 @@
+---
+import T from './T.astro';
+import type { Vote } from '../lib/data';
+interface Props { vote: Vote; compact?: boolean }
+const { vote, compact } = Astro.props;
+const order = ['jaa', 'ei', 'tyhja', 'poissa'] as const;
+const parts = order.filter((k) => vote.counts[k] !== undefined).map((k) => ({ k, n: vote.counts[k] }));
+const total = parts.reduce((a, p) => a + p.n, 0) || 1;
+---
+<div class:list={['votebar', { compact }]}>
+  <div class="votebar-track" role="img"
+    aria-label={parts.map((p) => `${p.k.toUpperCase()} ${p.n}`).join(', ')}>
+    {parts.filter((p) => p.n > 0).map((p) => (
+      <span class={`seg seg-${p.k}`} style={`flex-grow:${p.n}`} title={`${p.k.toUpperCase()} ${p.n}`}></span>
+    ))}
+  </div>
+  <ul class="votebar-legend">
+    {parts.map((p) => (
+      <li><i class={`dot seg-${p.k}`}></i><T k={p.k} /> <strong>{p.n}</strong>{!compact && <span class="pct"> ({Math.round((p.n / total) * 100)} %)</span>}</li>
+    ))}
+  </ul>
+</div>

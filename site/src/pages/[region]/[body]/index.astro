@@ -1,0 +1,31 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import T from '../../../components/T.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import MeetingRow from '../../../components/MeetingRow.astro';
+import { bodiesOf, load, meetingsOf, url, type Body, type Region } from '../../../lib/data';
+
+export function getStaticPaths() {
+  return load().regions.flatMap((r) => bodiesOf(r.id).map((b) => ({ params: { region: r.id, body: b.id }, props: { r, b } })));
+}
+const { r, b } = Astro.props as { r: Region; b: Body };
+const meetings = meetingsOf(r.id, b.id);
+const years = [...new Set(meetings.map((m) => m.date.slice(0, 4)))];
+---
+<Layout title={`${b.name} – ${r.short.fi}`}>
+  <Breadcrumbs trail={[{ href: url(r.id), fi: r.short.fi, sv: r.short.sv }, { label: b.name }]} />
+  <div class="page-head">
+    <p class="kicker"><T k={`type_${b.type}` as any} /></p>
+    <h1>{b.name}</h1>
+    <div class="actions">
+      <a class="btn small" href={`${url('haku')}?body=${encodeURIComponent(b.name)}`}><T k="search" /></a>
+      {b.url && <a class="btn small secondary" href={b.url}><T k="openSource" /> ↗</a>}
+    </div>
+  </div>
+  {years.map((y) => (
+    <>
+      <h2>{y}</h2>
+      <ul class="list">{meetings.filter((m) => m.date.startsWith(y)).map((m) => <MeetingRow m={m} showBody={false} />)}</ul>
+    </>
+  ))}
+</Layout>

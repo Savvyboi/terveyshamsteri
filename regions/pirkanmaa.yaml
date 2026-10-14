@@ -1,0 +1,18 @@
+# Pirkanmaa: decision publishing source (confirmed).
+id: pirkanmaa
+name:
+  fi: Pirkanmaan hyvinvointialue
+  sv: Birkalands välfärdsområde
+short:
+  fi: Pirkanmaa
+  sv: Birkaland
+homepage: https://www.pirha.fi
+enabled: true
+since: 2025-06-01   # start of the current council term
+language: fi
+source_status: confirmed   # confirmed | inferred | unknown
+epochs:
+  - platform: cloudnc
+    base_url: https://pirha.cloudnc.fi
+notes:
+  fi: "Pilottialue (CloudNC)."

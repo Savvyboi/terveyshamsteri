@@ -1,0 +1,68 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import T from '../../../../components/T.astro';
+import Breadcrumbs from '../../../../components/Breadcrumbs.astro';
+import { fmtDate, itemUrl, load, meetingSlug, regionById, slugify, url, type Meeting } from '../../../../lib/data';
+
+export function getStaticPaths() {
+  return load().meetings.map((m) => ({ params: { region: m.region, body: m.body_id, meeting: meetingSlug(m) }, props: { m } }));
+}
+const { m } = Astro.props as { m: Meeting };
+const r = regionById(m.region);
+const members = m.participants.filter((p) => p.group === 'member');
+const absent = m.participants.filter((p) => p.group === 'absent');
+const others = m.participants.filter((p) => p.group === 'other');
+const person = (name: string) => url(m.region, 'henkilot', slugify(name));
+---
+<Layout title={`${m.body_name} ${fmtDate(m.date)} – ${r.short.fi}`}>
+  <Breadcrumbs trail={[{ href: url(r.id), fi: r.short.fi, sv: r.short.sv }, { href: url(r.id, m.body_id), label: m.body_name }, { label: fmtDate(m.date) }]} />
+  <div class="page-head">
+    <p class="kicker">{m.stage === 'agenda' ? <T k="agenda" /> : <T k="minutes" />}</p>
+    <h1>{m.body_name} {fmtDate(m.date)}</h1>
+    <p class="facts">
+      {m.time && <span><T k="time" />: <b>{m.time}</b></span>}
+      {m.place && <span><T k="place" />: <b>{m.place}</b></span>}
+      <span><b>{m.items.length}</b> <T k="itemsCount" /></span>
+    </p>
+    <div class="actions">
+      <a class="btn small" href={m.source_url}><T k="openSource" /> ↗</a>
+      {m.pdf_url && <a class="btn small secondary" href={m.pdf_url}>{m.stage === 'agenda' ? <T k="agenda" /> : <T k="minutes" />} (PDF) ↗</a>}
+    </div>
+  </div>
+  <div class="columns">
+    <div>
+      <h2><T k="items" /></h2>
+      <ul class="list">
+        {m.items.map((it, i) => (
+          <li><a class="row" href={itemUrl(m, i)}>
+            <span class="num">{it.number && `§ ${it.number}`}</span>
+            <span class="title">{it.title}
+              {it.decision && <span class="sub">{it.decision.split('\n')[0].slice(0, 160)}{it.decision.length > 160 ? '…' : ''}</span>}
+            </span>
+            {it.votes.length > 0 && <span class="side"><span class="chip vote"><T k="vote" /></span></span>}
+          </a></li>
+        ))}
+      </ul>
+    </div>
+    <aside class="aside">
+      {m.participants.length > 0 && (
+        <div class="card">
+          <h3 style="margin-top:0"><T k="participants" /></h3>
+          {members.length > 0 && <><h4><T k="present" /> ({members.length})</h4>
+            <ul class="people">{members.map((p) => <li><a href={person(p.name)}>{p.name}</a>{p.role && <span class="role"> · {p.role}</span>}</li>)}</ul></>}
+          {absent.length > 0 && <><h4><T k="absent" /> ({absent.length})</h4>
+            <ul class="people">{absent.map((p) => <li><a href={person(p.name)}>{p.name}</a></li>)}</ul></>}
+          {others.length > 0 && <details><summary><T k="others" /> ({others.length})</summary>
+            <ul class="people">{others.map((p) => <li>{p.name}{p.role && <span class="role"> · {p.role}</span>}</li>)}</ul></details>}
+        </div>
+      )}
+      <div class="card">
+        <h3 style="margin-top:0"><T k="source" /></h3>
+        <dl class="kv">
+          <dt><T k="fetched" /></dt><dd>{new Date(m.provenance.fetched_at).toLocaleDateString('fi-FI')}</dd>
+          <dt>URL</dt><dd><a href={m.source_url}>{new URL(m.source_url).host}</a></dd>
+        </dl>
+      </div>
+    </aside>
+  </div>
+</Layout>

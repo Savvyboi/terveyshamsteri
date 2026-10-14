@@ -1,0 +1,54 @@
+---
+import Layout from '../layouts/Layout.astro';
+import T from '../components/T.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+<Layout title="Haku">
+  <Breadcrumbs trail={[{ fi: 'Haku', sv: 'Sök' }]} />
+  <h1><T k="searchTitle" /></h1>
+  <p><T k="searchLead" /></p>
+  <link href={`${base}/pagefind/pagefind-ui.css`} rel="stylesheet" />
+  <div id="search"></div>
+  <noscript>Haku vaatii JavaScriptin. / Sökningen kräver JavaScript.</noscript>
+  <script is:inline src={`${base}/pagefind/pagefind-ui.js`}></script>
+  <script is:inline define:vars={{ base }}>
+    var sv = {
+      placeholder: 'Sök bland beslut', clear_search: 'Rensa', load_more: 'Visa fler resultat',
+      search_label: 'Sök på webbplatsen', filters_label: 'Filter', zero_results: 'Inga resultat för [SEARCH_TERM]',
+      many_results: '[COUNT] resultat för [SEARCH_TERM]', one_result: '[COUNT] resultat för [SEARCH_TERM]',
+      alt_search: 'Inga resultat för [SEARCH_TERM]. Visar resultat för [DIFFERENT_TERM] i stället',
+      search_suggestion: 'Inga resultat för [SEARCH_TERM]. Pröva någon av följande sökningar:',
+      searching: 'Söker efter [SEARCH_TERM]...',
+    };
+    var fi = {
+      placeholder: 'Hae päätöksistä', clear_search: 'Tyhjennä', load_more: 'Näytä lisää tuloksia',
+      search_label: 'Hae sivustolta', filters_label: 'Rajaa', zero_results: 'Ei tuloksia haulle [SEARCH_TERM]',
+      many_results: '[COUNT] tulosta haulle [SEARCH_TERM]', one_result: '[COUNT] tulos haulle [SEARCH_TERM]',
+      alt_search: 'Ei tuloksia haulle [SEARCH_TERM]. Näytetään tulokset haulle [DIFFERENT_TERM]',
+      search_suggestion: 'Ei tuloksia haulle [SEARCH_TERM]. Kokeile jotakin näistä:',
+      searching: 'Haetaan [SEARCH_TERM]...',
+    };
+    function start() {
+      var el = document.getElementById('search');
+      el.innerHTML = '';
+      var ui = new PagefindUI({
+        element: '#search', showSubResults: true, showImages: false, resetStyles: false,
+        translations: document.documentElement.dataset.lang === 'sv' ? sv : fi,
+        processResult: function (r) {
+          if (r.meta && r.meta.date && r.meta.body) r.meta.title = r.meta.title + ' (' + r.meta.body + ', ' + r.meta.date + ')';
+          if (r.meta) { delete r.meta.body; delete r.meta.date; }
+          return r;
+        },
+      });
+      var params = new URLSearchParams(location.search);
+      if (params.get('q')) ui.triggerSearch(params.get('q'));
+      var f = {};
+      if (params.get('region')) f.Alue = [params.get('region')];
+      if (params.get('body')) f.Toimielin = [params.get('body')];
+      if (Object.keys(f).length) ui.triggerFilters(f);
+    }
+    if (window.PagefindUI) start(); else window.addEventListener('DOMContentLoaded', start);
+    document.addEventListener('langchange', start);
+  </script>
+</Layout>

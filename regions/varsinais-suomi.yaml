@@ -1,0 +1,18 @@
+# Varsinais-Suomi: decision publishing source (confirmed).
+id: varsinais-suomi
+name:
+  fi: Varsinais-Suomen hyvinvointialue
+  sv: Egentliga Finlands välfärdsområde
+short:
+  fi: Varsinais-Suomi
+  sv: Egentliga Finland
+homepage: https://www.varha.fi
+enabled: false
+since: 2025-06-01   # start of the current council term
+language: fi
+source_status: confirmed   # confirmed | inferred | unknown
+epochs:
+  - platform: tweb
+    base_url: https://varha-julkaisu.triplancloud.fi
+notes:
+  fi: "Triplan cloud, todennäköisesti Tweb."

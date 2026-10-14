@@ -1,0 +1,18 @@
+# Päijät-Häme: decision publishing source (confirmed).
+id: paijat-hame
+name:
+  fi: Päijät-Hämeen hyvinvointialue
+  sv: Päijänne-Tavastlands välfärdsområde
+short:
+  fi: Päijät-Häme
+  sv: Päijänne-Tavastland
+homepage: https://paijatha.fi
+enabled: true
+since: 2025-06-01   # start of the current council term
+language: fi
+source_status: confirmed   # confirmed | inferred | unknown
+epochs:
+  - platform: tweb
+    base_url: https://phhyky-julkaisu.tweb.fi
+notes:
+  fi: "Pilottialue (Tweb). Palvelun robots.txt estää automaattisen haun; tarvitaan alueen lupa tai tiedostovienti."

@@ -1,0 +1,22 @@
+# Pohjanmaa: decision publishing source (confirmed).
+id: pohjanmaa
+name:
+  fi: Pohjanmaan hyvinvointialue
+  sv: Österbottens välfärdsområde
+short:
+  fi: Pohjanmaa
+  sv: Österbotten
+homepage: https://pohjanmaanhyvinvointi.fi
+enabled: false
+since: 2025-06-01   # start of the current council term
+language: fi
+source_status: confirmed   # confirmed | inferred | unknown
+epochs:
+  - platform: dynasty
+    base_url: https://ovph-d10julk.oncloudos.com
+  - platform: dynasty
+    base_url: https://ovph-d10julk-swe.oncloudos.com   # TODO confirm host
+    language: sv
+    enabled: false
+notes:
+  fi: "Kaksikielinen: ruotsinkielinen Dynasty-palvelu erikseen (-swe)."

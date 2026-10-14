@@ -1,0 +1,7 @@
+---
+// One UI string in both languages; CSS shows the reader's choice.
+import { S, type Key } from '../lib/i18n';
+interface Props { k: Key }
+const s = S[Astro.props.k];
+---
+<span class="fi" lang="fi" data-pagefind-ignore>{s.fi}</span><span class="sv" lang="sv" data-pagefind-ignore>{s.sv}</span>

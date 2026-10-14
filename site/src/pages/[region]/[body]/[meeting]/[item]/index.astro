@@ -1,0 +1,117 @@
+---
+import Layout from '../../../../../layouts/Layout.astro';
+import T from '../../../../../components/T.astro';
+import Breadcrumbs from '../../../../../components/Breadcrumbs.astro';
+import VoteBar from '../../../../../components/VoteBar.astro';
+import { fmtDate, itemSlug, itemUrl, load, meetingSlug, meetingUrl, regionById, url, type Meeting } from '../../../../../lib/data';
+
+export function getStaticPaths() {
+  return load().meetings.flatMap((m) => m.items.map((_, i) => ({
+    params: { region: m.region, body: m.body_id, meeting: meetingSlug(m), item: itemSlug(m, i) }, props: { m, i } })));
+}
+const { m, i } = Astro.props as { m: Meeting; i: number };
+const it = m.items[i];
+const r = regionById(m.region);
+const prev = i > 0 ? i - 1 : null;
+const next = i < m.items.length - 1 ? i + 1 : null;
+const hidden = new Set(['muutoksenhaku', 'muutoksenhakuohje', 'sökande av ändring', 'besvärsanvisning']);
+const sections = it.sections.filter((s) => !hidden.has(s.heading.toLowerCase()) && s.text);
+const canonical = new URL(itemUrl(m, i), Astro.site).href;
+const citation = `${r.name.fi}, ${m.body_name} ${fmtDate(m.date)}${it.number ? ` § ${it.number}` : ''}: ${it.title}. ${it.source_url} (haettu ${new Date(m.provenance.fetched_at).toLocaleDateString('fi-FI')}; ${canonical})`;
+const citeId = `cite-${i}`;
+---
+<Layout title={`${it.number ? `§ ${it.number} ` : ''}${it.title}`} description={(it.decision ?? it.proposal ?? '').slice(0, 200)}>
+  <Breadcrumbs trail={[
+    { href: url(r.id), fi: r.short.fi, sv: r.short.sv },
+    { href: url(r.id, m.body_id), label: m.body_name },
+    { href: meetingUrl(m), label: fmtDate(m.date) },
+    { label: it.number ? `§ ${it.number}` : it.title },
+  ]} />
+  <article data-pagefind-body
+    data-pagefind-sort={`date:${m.date}`}
+    data-pagefind-meta={`body:${m.body_name.replace(/[,:]/g, ' ')}, date:${fmtDate(m.date)}`}>
+    <span hidden data-pagefind-filter={`Alue:${r.short.fi}`}></span>
+    <span hidden data-pagefind-filter={`Toimielin:${m.body_name}`}></span>
+    <span hidden data-pagefind-filter={`Vuosi:${m.date.slice(0, 4)}`}></span>
+    {it.votes.length > 0 && <span hidden data-pagefind-filter="Äänestys:kyllä"></span>}
+    <div class="page-head">
+      <p class="kicker">{m.body_name}</p>
+      <h1 data-pagefind-meta="title">{it.number && `§ ${it.number} `}{it.title}</h1>
+      <p class="facts">
+        <span>{fmtDate(m.date)}</span>
+        <span><span class="fi">{r.short.fi}</span><span class="sv" data-pagefind-ignore>{r.short.sv}</span></span>
+        {m.stage === 'agenda' ? <span class="chip agenda"><T k="agenda" /></span> : <span class="chip muted"><T k="minutes" /></span>}
+        {it.votes.length > 0 && <span class="chip vote"><T k="vote" /></span>}
+      </p>
+    </div>
+
+    <div class="columns">
+      <div>
+        {it.decision ? (
+          <section class="decision-box">
+            <h2><T k="whatDecided" /></h2>
+            <div class="text">{it.decision}</div>
+          </section>
+        ) : it.proposal ? (
+          <section class="decision-box pending">
+            <h2><T k="proposal" /></h2>
+            <p class="note" data-pagefind-ignore><T k="noDecisionYet" /></p>
+            <div class="text">{it.proposal}</div>
+          </section>
+        ) : null}
+
+        {it.votes.map((v, k) => (
+          <section class="vote-card">
+            <h3><T k="vote" />{it.votes.length > 1 && ` ${k + 1}`}</h3>
+            <VoteBar vote={v} />
+            <p class="vote-context">{v.context}</p>
+            {v.provisional && <p class="note">⚠ <T k="provisional" /></p>}
+          </section>
+        ))}
+
+        <h2><T k="fullText" /></h2>
+        <p class="note" data-pagefind-ignore><T k="contentLangNote" /></p>
+        {sections.map((s, k) => (
+          <details class="section" open={k < 3 || sections.length <= 4}>
+            <summary>{s.heading || <T k="intro" />}</summary>
+            <div class="text">{s.text}</div>
+          </details>
+        ))}
+        {it.redacted && <p class="note">—</p>}
+
+        <nav class="pager" data-pagefind-ignore>
+          {prev !== null ? <a href={itemUrl(m, prev)}>← <T k="prev" /><br /><small>{m.items[prev].title}</small></a> : <span></span>}
+          {next !== null ? <a href={itemUrl(m, next)} style="text-align:right"><T k="next" /> →<br /><small>{m.items[next].title}</small></a> : <span></span>}
+        </nav>
+      </div>
+
+      <aside class="aside" data-pagefind-ignore>
+        <div class="card">
+          <h3 style="margin-top:0"><T k="source" /></h3>
+          <div class="actions" style="margin-bottom:12px">
+            <a class="btn small" href={it.source_url}><T k="openSource" /> ↗</a>
+            {it.pdf_url && <a class="btn small secondary" href={it.pdf_url}>PDF ↗</a>}
+          </div>
+          <dl class="kv">
+            {it.diary_number && <><dt><T k="diary" /></dt><dd>{it.diary_number}</dd></>}
+            {it.preparer && <><dt><T k="preparer" /></dt><dd>{it.preparer}</dd></>}
+            {it.presenter && <><dt><T k="presenter" /></dt><dd>{it.presenter}</dd></>}
+            <dt><T k="meeting" /></dt><dd><a href={meetingUrl(m)}>{m.body_name} {fmtDate(m.date)}</a></dd>
+            <dt><T k="fetched" /></dt><dd>{new Date(m.provenance.fetched_at).toLocaleDateString('fi-FI')}</dd>
+          </dl>
+        </div>
+        {it.attachments.length > 0 && (
+          <div class="card">
+            <h3 style="margin-top:0"><T k="attachments" /></h3>
+            <ul style="padding-left:1.1em;margin:0">{it.attachments.map((a) => <li><a href={a.url}>{a.title}</a></li>)}</ul>
+          </div>
+        )}
+        <div class="card">
+          <h3 style="margin-top:0"><T k="cite" /></h3>
+          <p class="cite" id={citeId}>{citation}</p>
+          <button class="btn small secondary copy-btn" type="button" data-copy={citeId}><T k="copy" /></button>
+        </div>
+      </aside>
+    </div>
+  </article>
+</Layout>
