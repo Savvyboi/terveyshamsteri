@@ -13,7 +13,9 @@ def note(title, msg):
 import sys, traceback
 def hook(t, v, tb): note("CRASH", "".join(traceback.format_exception(t, v, tb))[-3000:])
 sys.excepthook = hook
-rows = json.loads(get(f"{R}/aineistot"))
+d0 = json.loads(get(f"{R}/aineistot"))
+note("TOP", str({k: (type(v).__name__, len(v) if hasattr(v, "__len__") else v) for k, v in d0.items()}))
+rows = next(v for v in d0.values() if isinstance(v, list))
 note("ROWS", f"{len(rows)} keys={sorted(rows[0])}")
 h = [r for r in rows if (r.get("raportointikokonaisuus") or "").upper().startswith("H")]
 c = Counter((r["raportointikokonaisuus"], r["raportointikausi"][:4]) for r in h)
