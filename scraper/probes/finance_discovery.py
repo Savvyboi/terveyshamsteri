@@ -1,46 +1,44 @@
-"""Temporary: find an open API for wellbeing services county finances (Valtiokonttori)."""
-import re, urllib.request, urllib.parse
+"""Temporary: list the APIs in Valtiokonttori's Azure API Management developer portal."""
+import json, re, urllib.request
 
-def get(u, n=400000):
-    req = urllib.request.Request(u, headers={"User-Agent": "terveyshamsteri-probe", "Accept": "*/*"})
+def get(u, n=2_000_000):
+    req = urllib.request.Request(u, headers={"User-Agent": "terveyshamsteri-probe", "Accept": "application/json"})
     with urllib.request.urlopen(req, timeout=60) as r:
-        return r.status, r.headers.get("content-type", ""), r.read(n).decode("utf-8", "replace")
+        return r.read(n).decode("utf-8", "replace")
 
 def note(title, msg):
     print(f"::notice title={title}::" + msg.replace("\n", " ")[:3800])
 
-# 1. Crawl the avoindata portal's scripts for API addresses.
-found = set()
-try:
-    _, _, html = get("https://avoindata.tutkihallintoa.fi/apis")
-    scripts = re.findall(r'src="([^"]+\.js[^"]*)"', html)
-    note("PORTAL", f"scripts={scripts[:10]} html={html[:600]}")
-    for s in scripts[:15]:
-        u = urllib.parse.urljoin("https://avoindata.tutkihallintoa.fi/", s)
-        try:
-            _, _, js = get(u, 5_000_000)
-            found |= set(re.findall(r'https?://[a-z0-9.-]*(?:tutkihallintoa|valtiokonttori|azure-api|azurewebsites|cloudapp)[^"\'\s`)]*', js))
-            found |= {"PATH:" + p for p in re.findall(r'["\'](/(?:apis?|developer|docs)[^"\']{0,80})["\']', js)}
-        except Exception as e:
-            note("SCRIPT", f"{u} {e!r}")
-except Exception as e:
-    note("PORTAL", repr(e))
-note("FOUND", " | ".join(sorted(found))[:3800])
-
-# 2. Try likely catalogue and API addresses.
-for u in [
-    "https://avoindata.tutkihallintoa.fi/developer/apis",
-    "https://avoindata.tutkihallintoa.fi/developer/apis?api-version=2022-04-01-preview",
-    "https://api.tutkihallintoa.fi/",
-    "https://api.tutkihallintoa.fi/kuntatalous/v1/",
-    "https://api.tutkihallintoa.fi/hyvinvointialuetalous/v1/",
-    "https://api.tutkihallintoa.fi/hyvinvointialueet/v1/",
-    "https://www.exploreadministration.fi/application-program-interfaces/",
-    "https://www.tutkihallintoa.fi/avoimet-rajapinnat/",
-]:
+base = "https://avoindata.tutkihallintoa.fi"
+cfg = {}
+for p in ["/config.json", "/config.design.json"]:
     try:
-        st, ct, body = get(u)
-        links = sorted(set(re.findall(r'https?://(?:api|avoindata)\.tutkihallintoa\.fi[^"\'\s<)]*', body)))
-        note(f"GET {st}", f"{u} [{ct}] links={links[:40]} body={re.sub(r'<[^>]+>', ' ', body)[:800]}")
+        t = get(base + p); note("CFG " + p, t[:1500]); cfg.update(json.loads(t))
     except Exception as e:
-        note("GET ERR", f"{u} {e!r}")
+        note("CFG ERR", f"{p} {e!r}")
+mgmt = cfg.get("managementApiUrl") or cfg.get("backendUrl") or ""
+apis = None
+for u in [f"{mgmt}/apis?api-version=2022-04-01-preview", f"{mgmt}/apis?api-version=2021-08-01",
+          f"{mgmt}/developer/apis?api-version=2022-04-01-preview", f"{base}/developer/apis?api-version=2022-04-01-preview",
+          f"{mgmt}/subscriptions/sid/resourceGroups/rg/providers/Microsoft.ApiManagement/service/sid/apis?api-version=2022-04-01-preview"]:
+    try:
+        t = get(u); d = json.loads(t)
+        apis = d.get("value", d)
+        note("APIS OK", u); break
+    except Exception as e:
+        note("APIS ERR", f"{u} {e!r}")
+if apis:
+    rows = []
+    for a in apis:
+        pr = a.get("properties", a)
+        rows.append(f"{a.get('name')}|{pr.get('displayName')}|path={pr.get('path')}|{(pr.get('description') or '')[:80]}")
+    for i in range(0, len(rows), 25):
+        note(f"API LIST {i}", " ;; ".join(rows[i:i + 25]))
+    for a in apis:
+        pr = a.get("properties", a)
+        if re.search(r"hyvinvointi|kunta|wellbeing|municipal", json.dumps(pr), re.I):
+            try:
+                ops = json.loads(get(f"{mgmt}/apis/{a['name']}/operations?api-version=2022-04-01-preview"))
+                note(f"OPS {a['name']}", " ;; ".join(f"{o.get('properties',o).get('method')} {o.get('properties',o).get('urlTemplate')}" for o in ops.get("value", []))[:3800])
+            except Exception as e:
+                note(f"OPS ERR {a['name']}", repr(e))
