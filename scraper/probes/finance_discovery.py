@@ -1,24 +1,26 @@
-"""Temporary: look for the published finance data behind Tutkihallintoa / Tutkikuntia."""
+"""Temporary: list the State Treasury REST endpoints and try the wellbeing-area ones."""
 import json, re, urllib.request
+from collections import Counter
 
-def get(u, n=3_000_000):
+R = "https://prodkuntarest.westeurope.cloudapp.azure.com"
+def get(u, n=60_000_000):
     req = urllib.request.Request(u, headers={"User-Agent": "terveyshamsteri-probe", "Accept": "*/*"})
-    with urllib.request.urlopen(req, timeout=90) as r:
-        return r.status, r.read(n).decode("utf-8", "replace")
-
+    with urllib.request.urlopen(req, timeout=180) as r:
+        return r.read(n).decode("utf-8", "replace")
 def note(title, msg):
     print(f"::notice title={title}::" + msg.replace("\n", " ")[:3900])
 
-B = "https://tkdpprodjrpstacc02.blob.core.windows.net"
-for u in [f"{B}/kuntataloudentaksonomia?restype=container&comp=list", f"{B}/?comp=list",
-          f"{B}/kuntataloudentaksonomia/HHTPP.json", f"{B}/kuntataloudentaksonomia/HTOLT.json",
-          "https://prodkuntarest.westeurope.cloudapp.azure.com/",
-          "https://www.tutkikuntia.fi/", "https://www.tutkikuntia.fi/avoimet-rajapinnat/",
-          "https://www.tutkihallintoa.fi/ohjeet/"]:
+home = get(R + "/")
+eps = sorted(set(re.findall(r"/rest/(?:&lt;versio&gt;|v1)/(?:&lt;formaatti&gt;|json)/([a-z0-9-]+)", home)))
+note("ENDPOINTS", " ".join(eps))
+text = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", home))
+note("HOME TEXT", text[:3900])
+note("HOME TEXT 2", text[3900:7800])
+for ep in [e for e in eps if e.endswith("aineistot")] + ["hhtpp-aineistot", "htas-aineistot", "hhtr-aineistot", "hhkr-aineistot", "hhknr-aineistot", "htpe-aineistot", "hhtpa-aineistot"]:
     try:
-        st, t = get(u)
-        links = sorted(set(re.findall(r'https?://[^"\'\s<>)]*(?:rest|api|blob|xlsx|csv|json)[^"\'\s<>)]*', t)))[:60]
-        text = re.sub(r"\s+", " ", re.sub(r"<script.*?</script>|<style.*?</style>|<[^>]+>", " ", t, flags=re.S))
-        note(f"GET {st} {u[:60]}", f"len={len(t)} links={links} text={text[:2500]}")
+        d = json.loads(get(f"{R}/rest/v1/json/{ep}"))
+        rows = d if isinstance(d, list) else next((v for v in d.values() if isinstance(v, list)), [])
+        c = Counter((r.get("raportointikokonaisuus"), r.get("raportointikausi")) for r in rows)
+        note(f"{ep} ({len(rows)})", f"{sorted(c.items())[-40:]} first={json.dumps(rows[:2], ensure_ascii=False)[:900]}")
     except Exception as e:
-        note("ERR", f"{u} {e!r}")
+        note(f"{ep} ERR", repr(e))
