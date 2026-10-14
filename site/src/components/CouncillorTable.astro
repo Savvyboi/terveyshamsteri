@@ -1,0 +1,35 @@
+---
+import T from './T.astro';
+import PartyTag from './PartyTag.astro';
+import { personUrl, type PersonStats } from '../lib/data';
+interface Props { region: string; people: PersonStats[] }
+const { region, people } = Astro.props;
+const pct = (x: { present: number; absent: number }) =>
+  x.present + x.absent ? Math.round((100 * x.present) / (x.present + x.absent)) : null;
+const fi = (n: number | null) => (n == null ? '–' : n.toLocaleString('fi-FI'));
+---
+<div class="table-wrap">
+  <table class="data stack">
+    <thead><tr>
+      <th><T k="councillors" /></th><th class="num"><T k="electionVotes" /></th>
+      <th class="num"><T k="councilAttendance" /></th><th class="num"><T k="otherRoles" /></th>
+    </tr></thead>
+    <tbody>
+      {people.map((p) => {
+        const c = pct(p.council);
+        const others = [...p.bodies.keys()].length - (p.council.present + p.council.absent > 0 ? 1 : 0);
+        return (
+          <tr>
+            <td><a class="t" href={personUrl(region, p)}>{p.name}</a>
+              <span class="sub"><PartyTag party={p.elected!.party} full />{p.elected!.incumbent && <> · <T k="incumbent" /></>}</span></td>
+            <td class="num">{fi(p.elected!.votes)}</td>
+            <td class="num">{c == null ? <span class="note">–</span> : (
+              <span class="pct-cell"><span class="meter"><span style={`width:${c}%`}></span></span>{c} %
+                <span class="note">({p.council.present}/{p.council.present + p.council.absent})</span></span>)}</td>
+            <td class="num">{others > 0 ? others : '–'}</td>
+          </tr>
+        );
+      })}
+    </tbody>
+  </table>
+</div>

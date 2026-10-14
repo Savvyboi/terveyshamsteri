@@ -12,6 +12,7 @@ import sys
 from datetime import date, timedelta
 from pathlib import Path
 
+from .elections import PARTIES, summarize
 from .text import slugify
 
 PEOPLE = ["Aaltonen Aino", "Bergström Erik", "Heikkinen Juha", "Kallio Sanna", "Laine Mikko",
@@ -119,6 +120,19 @@ def main(out: Path) -> None:
     (out / "regions.json").write_text(json.dumps(regions, ensure_ascii=False, indent=1), encoding="utf-8")
     (out / "status.json").write_text(json.dumps({"updated_at": "2026-10-12T01:00:00+00:00",
                                                  "regions": {rid: "ok"}}), encoding="utf-8")
+
+    # Election results: the first ten people were elected, the rest are deputies.
+    parties = ["KOK", "SDP", "PS", "KESK", "VIHR"]
+    candidates = [{"id": str(i), "name": name, "party": parties[i % len(parties)], "votes": 2000 - 120 * i,
+                   "share": None, "status": "elected" if i < 10 else "deputy", "incumbent": i % 3 == 0}
+                  for i, name in enumerate(PEOPLE)]
+    candidates += [{"id": f"x{i}", "name": f"Ehdokas{i} Eino", "party": parties[i % len(parties)], "votes": 50 + i,
+                    "share": None, "status": "not-elected", "incumbent": False} for i in range(20)]
+    edir = out / "elections" / "2025"
+    edir.mkdir(parents=True, exist_ok=True)
+    (edir / f"{rid}.json").write_text(json.dumps(summarize(rid, "sample", candidates), ensure_ascii=False, indent=1),
+                                      encoding="utf-8")
+    (out / "elections" / "parties.json").write_text(json.dumps(PARTIES, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
 if __name__ == "__main__":

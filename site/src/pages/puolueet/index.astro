@@ -1,0 +1,59 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import T from '../../components/T.astro';
+import L from '../../components/L.astro';
+import PartyTag from '../../components/PartyTag.astro';
+import SeatBar from '../../components/SeatBar.astro';
+import { electionOf, partiesNationwide, partySlug, regionsWithElections, url } from '../../lib/data';
+
+const parties = partiesNationwide();
+const regions = regionsWithElections();
+const seats = parties.reduce((a, p) => a + p.seats, 0);
+const fi = (n: number) => n.toLocaleString('fi-FI');
+const seatsIn = (region: string, party: string) => electionOf(region)!.parties.find((p) => p.party === party)?.seats ?? 0;
+---
+<Layout title="Puolueet">
+  <div class="page-head">
+    <p class="kicker"><T k="kicker" /></p>
+    <h1><T k="parties" /></h1>
+    <p class="lead"><T k="partiesLead" /></p>
+  </div>
+  {parties.length === 0 ? <p><T k="noElection" /></p> : (
+    <>
+      <h2 style="margin-top:0"><T k="seats" /> ({fi(seats)})</h2>
+      <SeatBar parties={parties} />
+      <div class="table-wrap" style="margin-top:24px">
+        <table class="data stack">
+          <thead><tr><th><T k="party" /></th><th class="num"><T k="seats" /></th><th class="num"><T k="electionVotes" /></th><th class="num"><T k="share" /></th><th class="num"><T k="regions" /></th></tr></thead>
+          <tbody>
+            {parties.map((p) => (
+              <tr>
+                <td><a class="t" href={url('puolueet', partySlug(p.party))}><PartyTag party={p.party} full /></a></td>
+                <td class="num"><strong>{p.seats}</strong></td>
+                <td class="num">{fi(p.votes)}</td>
+                <td class="num">{p.share?.toLocaleString('fi-FI')} %</td>
+                <td class="num">{p.regions}/{regions.length}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+
+      <h2><T k="seats" /> · <T k="regions" /></h2>
+      <div class="table-wrap">
+        <table class="data">
+          <thead><tr><th><T k="region" /></th>{parties.map((p) => <th class="num"><abbr title={p.party}>{p.party}</abbr></th>)}</tr></thead>
+          <tbody>
+            {regions.map((r) => (
+              <tr>
+                <td><a class="t" href={url(r.id, 'valtuutetut')}><L fi={r.short.fi!} sv={r.short.sv} /></a></td>
+                {parties.map((p) => { const n = seatsIn(r.id, p.party); return <td class="num">{n || <span class="note">·</span>}</td>; })}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="note"><T k="source_statfin" /></p>
+    </>
+  )}
+</Layout>
