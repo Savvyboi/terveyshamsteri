@@ -82,7 +82,7 @@ jobs:
               if longest:
                   print(f"   longest item § {longest['number']} {longest['title']!r}:")
                   for s in longest["sections"]:
-                      print(f"     [{s['heading']}] {s['text'][:300]!r}")
+                      print(f"     [{s['heading']}] {s['text'][:700]!r}")
           PY
       - uses: actions/upload-artifact@v4
         if: always()

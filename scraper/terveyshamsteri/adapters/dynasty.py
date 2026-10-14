@@ -152,16 +152,23 @@ class DynastyAdapter(Adapter):
 
 
 
-_ITEM_HEADING = re.compile(r"\d{1,2}\.\d{1,2}\.\d{4}\s*/\s*(?:Pykälä|Paragraf|§)\s*\d+[^\n]*")
+_ITEM_HEADING = re.compile(
+    r"\d{1,2}\.\d{1,2}\.\d{4}\s*/\s*(?:Pykälä|Paragraf|Asianro|Ärendenr|§)\s*\d+[^\n]*")
+_META_LINE = re.compile(r"^(?:READSPEAKER|ENCODING|PAGEMETA|CLIENTMETA)\b.*$", re.MULTILINE)
 
 
 def _item_text(doc) -> str:
-    """Item text between the '... 29.09.2026/Pykälä 50' heading and the navigation block.
-    Falls back to everything after the first h1."""
+    """Item text. Dynasty wraps the readable content in DATABEGIN ... DATAEND markers (for
+    ReadSpeaker), headed by '... 29.09.2026/Pykälä 50' (or 'Asianro 28' on agendas)."""
     full = html_text(doc.body or doc)
+    if "DATABEGIN" in full:
+        full = full.split("DATABEGIN", 1)[1].split("DATAEND", 1)[0]
+        full = _META_LINE.sub("", full)
     m = _ITEM_HEADING.search(full)
     if m:
         text = full[m.end():]
+    elif "DATABEGIN" in html_text(doc.body or doc):
+        text = full
     else:
         h1 = doc.find("h1")
         text = content_after(h1) if h1 else full
