@@ -1,0 +1,21 @@
+---
+import Layout from '../layouts/Layout.astro';
+import T from '../components/T.astro';
+import DataTable from '../components/DataTable.astro';
+import { partiesNationwide, regionsWithElections, url } from '../lib/data';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const regions = regionsWithElections().map((r) => r.id);
+const parties = partiesNationwide().map((p) => p.party);
+---
+<Layout title="Valtuutetut">
+  <div class="page-head">
+    <p class="kicker"><T k="kicker" /></p>
+    <h1><T k="councillors" /></h1>
+    <p class="lead"><T k="councillorsLead" /></p>
+  </div>
+  {regions.length === 0 ? <p><T k="noElection" /></p> : (
+    <DataTable kind="people" src={url('data') + 'people.json'} sorts={['mostVotes', 'bestAttendance', 'alphabetical']}
+      people regionIds={regions} parties={parties} />
+  )}
+  <script is:inline src={`${base}/table.js`} defer></script>
+</Layout>

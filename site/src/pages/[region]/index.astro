@@ -5,7 +5,9 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import L from '../../components/L.astro';
 import MeetingTable from '../../components/MeetingTable.astro';
 import VoteTable from '../../components/VoteTable.astro';
-import { BODY_TYPES, bodiesOf, fmtDate, load, meetingsOf, url, votesOf, type Region } from '../../lib/data';
+import SeatBar from '../../components/SeatBar.astro';
+import FinanceCard from '../../components/FinanceCard.astro';
+import { BODY_TYPES, bodiesOf, electionOf, fmtDate, load, meetingsOf, url, votesOf, type Region } from '../../lib/data';
 
 export function getStaticPaths() {
   return load().regions.map((r) => ({ params: { region: r.id }, props: { r } }));
@@ -14,6 +16,7 @@ const { r } = Astro.props as { r: Region };
 const meetings = meetingsOf(r.id);
 const bodies = bodiesOf(r.id);
 const allVotes = votesOf(r.id);
+const election = electionOf(r.id);
 const items = meetings.reduce((a, m) => a + m.items.length, 0);
 const countBy = (b: string) => meetings.filter((m) => m.body_id === b).length;
 const lastOf = (b: string) => meetings.find((m) => m.body_id === b)?.date;
@@ -30,17 +33,28 @@ const lastOf = (b: string) => meetings.find((m) => m.body_id === b)?.date;
     </p>
     <div class="actions">
       <a class="btn small" href={`${url('haku')}?region=${encodeURIComponent(r.short.fi ?? r.id)}`}><T k="search" /></a>
+      <a class="btn small secondary" href={url(r.id, 'valtuutetut')}><T k="councillors" /></a>
       <a class="btn small secondary" href={url(r.id, 'henkilot')}><T k="people" /></a>
       <a class="btn small secondary" href={url(r.id, 'aanestykset')}><T k="votes" /></a>
     </div>
   </div>
 
   {meetings.length === 0 ? (
+    <>
     <div class="card">
       <p><T k="noData" /></p>
       {r.notes?.fi && <p class="note">{r.notes.fi}</p>}
       {r.status?.errors?.length ? <p class="note">{r.status.errors[0]}</p> : null}
     </div>
+    {election && (
+      <div class="card" style="margin-top:16px">
+        <h3 style="margin-top:0"><T k="councillors" /> ({election.seats})</h3>
+        <SeatBar parties={election.parties} />
+        <p style="margin:12px 0 0"><a href={url(r.id, 'valtuutetut')}><T k="showAll" /> →</a></p>
+      </div>
+    )}
+    <div style="margin-top:16px"><FinanceCard region={r.id} /></div>
+    </>
   ) : (
     <div class="columns">
       <div>
@@ -71,6 +85,14 @@ const lastOf = (b: string) => meetings.find((m) => m.body_id === b)?.date;
         <MeetingTable meetings={meetings.slice(0, 12)} />
       </div>
       <aside class="aside">
+        {election && (
+          <div class="card">
+            <h3 style="margin-top:0"><T k="councillors" /> ({election.seats})</h3>
+            <SeatBar parties={election.parties} />
+            <p style="margin:12px 0 0"><a href={url(r.id, 'valtuutetut')}><T k="showAll" /> →</a></p>
+          </div>
+        )}
+        <FinanceCard region={r.id} />
         <div class="card">
           <h3 style="margin-top:0"><T k="sources" /></h3>
           <dl class="kv">

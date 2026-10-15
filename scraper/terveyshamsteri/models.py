@@ -27,6 +27,7 @@ class Vote:
     counts: dict[str, int]          # {"jaa": 42, "ei": 16, "tyhja": 1, "poissa": 0}
     context: str                    # the sentence(s) the counts came from
     provisional: bool = True
+    names: dict[str, list[str]] = field(default_factory=dict)  # voters by side, as written
 
 
 @dataclass

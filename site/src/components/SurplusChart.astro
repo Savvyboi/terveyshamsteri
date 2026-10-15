@@ -1,0 +1,32 @@
+---
+// Surplus or deficit per year as columns around a zero line: results, then this year's
+// forecast, then the plan years. Bars for figures that are not results are hatched.
+import T from './T.astro';
+import { type FinColumn } from '../lib/data';
+import { smeur } from '../lib/fmt';
+import type { Key } from '../lib/i18n';
+interface Props { cols: FinColumn[] }
+const all = Astro.props.cols;
+const bars = all.filter((c) => c.kind === 'actual' || c.kind === 'plan' || (c.kind === 'forecast'))
+  .filter((c) => c.lines.surplus != null);
+const max = Math.max(1, ...bars.map((c) => Math.abs(c.lines.surplus!)));
+const H = 90; // half height in px
+---
+{bars.length > 0 && (
+  <figure class="surplus-chart" role="img" aria-label={bars.map((c) => `${c.year}: ${smeur(c.lines.surplus)}`).join(', ')}>
+    {bars.map((c) => {
+      const v = c.lines.surplus!;
+      const h = Math.max(2, Math.round((Math.abs(v) / max) * H));
+      return (
+        <div class={`sc-col ${c.kind}`}>
+          <span class="sc-val">{smeur(v)}</span>
+          <div class="sc-track">
+            <span class={`sc-bar ${v < 0 ? 'neg' : 'pos'}`} style={v < 0 ? `top:50%;height:${h}px` : `bottom:50%;height:${h}px`}></span>
+          </div>
+          <span class="sc-year">{c.year}</span>
+          <span class="sc-kind"><T k={`col_${c.kind}` as Key} /></span>
+        </div>
+      );
+    })}
+  </figure>
+)}

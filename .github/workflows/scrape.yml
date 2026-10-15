@@ -82,9 +82,67 @@ jobs:
           if-no-files-found: ignore
           retention-days: 7
 
+  # Regional election results from Statistics Finland. Final once published, so counties
+  # already in the data branch are kept and only missing ones are fetched.
+  elections:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check out previous data
+        run: |
+          if git ls-remote --exit-code --heads origin data >/dev/null; then
+            git fetch --depth 1 origin data
+            git worktree add data FETCH_HEAD
+          else
+            mkdir data
+          fi
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r scraper/requirements.txt
+      - name: Fetch election results
+        working-directory: scraper
+        run: python -m terveyshamsteri elections --data ../data ${{ inputs.refresh && '--refresh' || '' }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: region-elections
+          path: data/elections
+          if-no-files-found: ignore
+          retention-days: 7
+
+  # County finances from the State Treasury and population from Statistics Finland. Reports
+  # whose approval time has not changed are kept from the data branch.
+  finances:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check out previous data
+        run: |
+          if git ls-remote --exit-code --heads origin data >/dev/null; then
+            git fetch --depth 1 origin data
+            git worktree add data FETCH_HEAD
+          else
+            mkdir data
+          fi
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r scraper/requirements.txt
+      - name: Fetch finances
+        working-directory: scraper
+        run: python -m terveyshamsteri finances --data ../data
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: region-finances
+          path: data/finances
+          if-no-files-found: ignore
+          retention-days: 7
+
   publish:
-    needs: scrape
-    if: always() && needs.scrape.result != 'cancelled'
+    needs: [scrape, elections, finances]
+    if: always() && needs.scrape.result != 'cancelled' && needs.elections.result != 'cancelled' && needs.finances.result != 'cancelled'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -112,6 +170,9 @@ jobs:
             rm -rf "data/$region"
             cp -r "$dir" "data/$region"
           done
+      - name: Re-extract votes
+        working-directory: scraper
+        run: python -m terveyshamsteri reextract --data ../data
       - name: Write index
         working-directory: scraper
         run: python -m terveyshamsteri index --data ../data

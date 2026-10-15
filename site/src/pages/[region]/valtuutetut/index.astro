@@ -1,0 +1,44 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import T from '../../../components/T.astro';
+import L from '../../../components/L.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import CouncillorTable from '../../../components/CouncillorTable.astro';
+import SeatBar from '../../../components/SeatBar.astro';
+import { councillorsOf, electionOf, load, url, type Region } from '../../../lib/data';
+
+export function getStaticPaths() {
+  return load().regions.map((r) => ({ params: { region: r.id }, props: { r } }));
+}
+const { r } = Astro.props as { r: Region };
+const e = electionOf(r.id);
+const people = councillorsOf(r.id);
+const seatOrder = new Map((e?.parties ?? []).map((p, i) => [p.party, i]));
+const byParty = (a: (typeof people)[number], b: (typeof people)[number]) =>
+  (seatOrder.get(a.elected!.party) ?? 99) - (seatOrder.get(b.elected!.party) ?? 99) || a.name.localeCompare(b.name, 'fi');
+const councillors = people.filter((p) => p.elected!.status === 'elected').sort(byParty);
+const deputies = people.filter((p) => p.elected!.status === 'deputy').sort(byParty);
+---
+<Layout title={`Valtuutetut – ${r.short.fi}`}>
+  <Breadcrumbs trail={[{ href: url('alueet'), fi: 'Hyvinvointialueet', sv: 'Välfärdsområden', en: 'Counties' }, { href: url(r.id), fi: r.short.fi!, sv: r.short.sv }, { fi: 'Valtuutetut', sv: 'Ledamöter', en: 'Councillors' }]} />
+  <div class="page-head">
+    <p class="kicker"><L fi={r.name.fi!} sv={r.name.sv} en={r.name.en} /></p>
+    <h1><T k="councillors" /></h1>
+    <p class="lead"><T k="councillorsLead" /></p>
+    {e && <p class="note"><a href={e.source}><T k="source_statfin" /> ↗</a></p>}
+  </div>
+  {!e ? <p><T k="noElection" /></p> : (
+    <>
+      <h2 style="margin-top:0"><T k="seats" /> ({e.seats})</h2>
+      <SeatBar parties={e.parties} />
+      <h2><T k="councillors" /> ({councillors.length})</h2>
+      <CouncillorTable region={r.id} people={councillors} />
+      {deputies.length > 0 && (
+        <details class="panel" style="margin-top:24px">
+          <summary><T k="st_deputy" /> ({deputies.length})</summary>
+          <div class="panel-body"><CouncillorTable region={r.id} people={deputies} /></div>
+        </details>
+      )}
+    </>
+  )}
+</Layout>

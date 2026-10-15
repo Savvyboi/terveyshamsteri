@@ -1,0 +1,53 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import T from '../../components/T.astro';
+import L from '../../components/L.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import PartyTag from '../../components/PartyTag.astro';
+import { councillorsOf, electionOf, partiesNationwide, partyMeta, partySlug, personUrl, regionsWithElections, url } from '../../lib/data';
+
+export function getStaticPaths() {
+  return partiesNationwide().map((p) => ({ params: { party: partySlug(p.party) }, props: { p } }));
+}
+const { p } = Astro.props as { p: ReturnType<typeof partiesNationwide>[number] };
+const meta = partyMeta(p.party);
+const fi = (n: number) => n.toLocaleString('fi-FI');
+const regions = regionsWithElections().map((r) => {
+  const e = electionOf(r.id)!;
+  const res = e.parties.find((x) => x.party === p.party);
+  const people = councillorsOf(r.id).filter((c) => c.elected!.party === p.party && c.elected!.status === 'elected')
+    .sort((a, b) => (b.elected!.votes ?? 0) - (a.elected!.votes ?? 0));
+  return { r, res, of: e.seats, people };
+}).filter((x) => x.res);
+const pct = (x: { present: number; absent: number }) => (x.present + x.absent ? Math.round((100 * x.present) / (x.present + x.absent)) : null);
+---
+<Layout title={meta.fi}>
+  <Breadcrumbs trail={[{ href: url('puolueet'), fi: 'Puolueet', sv: 'Partier', en: 'Parties' }, { label: p.party }]} />
+  <div class="page-head">
+    <p class="kicker"><T k="party" /></p>
+    <h1><i class="party-dot" style={`background:${meta.color};width:.5em;height:.5em;vertical-align:middle;margin-right:.2em`}></i><L fi={meta.fi} sv={meta.sv} en={meta.en} /></h1>
+  </div>
+  <dl class="profile">
+    <div><dt><T k="seats" /></dt><dd>{p.seats}</dd></div>
+    <div><dt><T k="electionVotes" /></dt><dd>{fi(p.votes)}</dd></div>
+    <div><dt><T k="share" /></dt><dd>{p.share?.toLocaleString('fi-FI')} %</dd></div>
+    <div><dt><T k="regions" /></dt><dd>{p.regions}</dd></div>
+  </dl>
+  {regions.map(({ r, res, of, people }) => (
+    <section>
+      <div class="section-head">
+        <h2><a href={url(r.id, 'valtuutetut')} style="color:inherit;text-decoration:none"><L fi={r.short.fi!} sv={r.short.sv} /></a></h2>
+        <span class="note">{res!.seats}/{of} <T k="seatsCount" /> · {res!.share?.toLocaleString('fi-FI')} %</span>
+      </div>
+      {people.length > 0 && (
+        <ul class="people" style="columns:3">
+          {people.map((c) => {
+            const a = pct(c.council);
+            return <li><a href={personUrl(r.id, c)}>{c.name}</a> <span class="role">{c.elected!.votes?.toLocaleString('fi-FI')}{a != null && ` · ${a} %`}</span></li>;
+          })}
+        </ul>
+      )}
+    </section>
+  ))}
+  <p class="note" style="margin-top:32px"><T k="source_statfin" /></p>
+</Layout>

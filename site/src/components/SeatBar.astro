@@ -1,0 +1,21 @@
+---
+// Seats per party as one bar, largest party first, like a parliament chart flattened.
+import PartyTag from './PartyTag.astro';
+import { partyMeta } from '../lib/data';
+interface Props { parties: { party: string; seats: number }[]; legend?: boolean }
+const { parties, legend = true } = Astro.props;
+const withSeats = parties.filter((p) => p.seats > 0).sort((a, b) => b.seats - a.seats);
+const total = withSeats.reduce((a, p) => a + p.seats, 0);
+---
+<div class="seatbar" role="img" aria-label={withSeats.map((p) => `${p.party} ${p.seats}`).join(', ')}>
+  {withSeats.map((p) => (
+    <span style={`flex-grow:${p.seats};background:${partyMeta(p.party).color}`} title={`${partyMeta(p.party).fi}: ${p.seats}`}>
+      {p.seats / total > 0.06 ? p.seats : ''}
+    </span>
+  ))}
+</div>
+{legend && (
+  <ul class="seat-legend">
+    {withSeats.map((p) => <li><PartyTag party={p.party} /> <strong>{p.seats}</strong></li>)}
+  </ul>
+)}

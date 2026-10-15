@@ -1,0 +1,68 @@
+---
+import Layout from '../layouts/Layout.astro';
+import T from '../components/T.astro';
+import L from '../components/L.astro';
+import PartyTag from '../components/PartyTag.astro';
+import SeatBar from '../components/SeatBar.astro';
+import { electionOf, partiesNationwide, personByName, personUrl, regionsWithElections, url } from '../lib/data';
+
+const regions = regionsWithElections().map((r) => ({ r, e: electionOf(r.id)! }));
+const parties = partiesNationwide();
+const fi = (n: number) => n.toLocaleString('fi-FI');
+const seats = regions.reduce((a, x) => a + x.e.seats, 0);
+const votes = regions.reduce((a, x) => a + x.e.votes_total, 0);
+const top = regions.flatMap(({ r, e }) => e.people.map((c) => ({ r, c }))).sort((a, b) => (b.c.votes ?? 0) - (a.c.votes ?? 0)).slice(0, 10);
+const link = (region: string, name: string) => {
+  const p = personByName(region, name);
+  return p ? personUrl(region, p) : url(region, 'valtuutetut');
+};
+---
+<Layout title="Aluevaalit 2025">
+  <div class="page-head">
+    <p class="kicker"><T k="kicker" /></p>
+    <h1><T k="election" /></h1>
+    <p class="lead"><T k="electionLead" /></p>
+  </div>
+  {regions.length === 0 ? <p><T k="noElection" /></p> : (
+    <>
+      <div class="stats" style="margin-top:0">
+        <div class="stat"><strong>{regions.length}</strong><span><T k="regions" /></span></div>
+        <div class="stat"><strong>{fi(seats)}</strong><span><T k="seatsCount" /></span></div>
+        <div class="stat"><strong>{fi(votes)}</strong><span><T k="electionVotes" /></span></div>
+        <a class="stat" href={url('puolueet')}><strong>{parties.length}</strong><span><T k="parties" /></span></a>
+      </div>
+      <SeatBar parties={parties} />
+
+      <h2><T k="topVoteGetters" /></h2>
+      <div class="table-wrap">
+        <table class="data stack">
+          <thead><tr><th><T k="candidate" /></th><th><T k="region" /></th><th class="num"><T k="electionVotes" /></th></tr></thead>
+          <tbody>
+            {top.map(({ r, c }) => (
+              <tr>
+                <td><a class="t" href={link(r.id, c.name)}>{c.name}</a><span class="sub"><PartyTag party={c.party} full /></span></td>
+                <td><L fi={r.short.fi!} sv={r.short.sv} /></td>
+                <td class="num">{fi(c.votes ?? 0)}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+
+      <h2><T k="regions" /></h2>
+      <div class="grid" style="grid-template-columns:repeat(auto-fill,minmax(340px,1fr))">
+        {regions.map(({ r, e }) => (
+          <section class="card">
+            <h3 style="margin:0"><a href={url(r.id, 'valtuutetut')} style="color:inherit"><L fi={r.short.fi!} sv={r.short.sv} /></a></h3>
+            <p class="note" style="margin:2px 0 0">{e.seats} <T k="seatsCount" /> · {fi(e.votes_total)} <T k="electionVotes" /></p>
+            <SeatBar parties={e.parties} legend={false} />
+            <ul class="seat-legend">
+              {e.parties.filter((p) => p.seats > 0).map((p) => <li><PartyTag party={p.party} /> {p.seats} <span class="note">({p.share?.toLocaleString('fi-FI')} %)</span></li>)}
+            </ul>
+          </section>
+        ))}
+      </div>
+      <p class="note" style="margin-top:24px"><T k="source_statfin" /></p>
+    </>
+  )}
+</Layout>
