@@ -140,46 +140,25 @@ jobs:
                     f"parties={[(x['party'], x['seats']) for x in d['parties']]} people={len(d['people'])} first={d['people'][:2]}")
           PY
 
-  # Temporary: reads robots.txt of the Varsinais-Suomi and Kymenlaakso Tweb hosts.
+  # Temporary: checks how the Kymenlaakso Tweb host can be reached from a runner.
   tweb-robots-probe:
     runs-on: ubuntu-latest
     continue-on-error: true
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - run: pip install -r scraper/requirements.txt
-      - working-directory: scraper
-        run: |
-          python - <<'PY'
-          from terveyshamsteri.http import Fetcher, USER_AGENT
-          f = Fetcher()
-          urls = [
-              "https://varha-julkaisu.triplancloud.fi/ktwebscr/pk_tek_tweb.htm",
-              "https://varha-julkaisu.triplancloud.fi/ktwebbin/dbisa.dll/ktwebscr/pk_tek_tweb.htm",
-              "https://julkaisut.kymenhva.fi:8443/ktwebscr/epj_tek_tweb.htm",
-              "https://julkaisut.kymenhva.fi:8443/ktwebscr/pk_tek_tweb.htm",
-              "https://julkaisut.kymenhva.fi:8443/ktwebbin/dbisa.dll/ktwebscr/pk_tek_tweb.htm",
-              "https://julkaisut.kymsote.fi:8443/ktwebbin/dbisa.dll/ktwebscr/epj_tek_tweb.htm",
-          ]
-          seen = set()
-          for u in urls:
-              origin = "/".join(u.split("/")[:3])
-              if origin not in seen:
-                  seen.add(origin)
-                  try:
-                      r = f.session.get(origin + "/robots.txt", timeout=30)
-                      body = r.text.replace("\n", " | ")[:900]
-                      print(f"::notice title=ROBOTS {origin}::status={r.status_code} {body!r}")
-                  except Exception as e:
-                      print(f"::notice title=ROBOTS {origin}::error {e!r}")
-              try:
-                  ok = f.allowed(u)
-              except Exception as e:
-                  ok = repr(e)
-              print(f"::notice title=ALLOWED::{ok} {u}")
-          PY
+      - run: |
+          for h in julkaisut.kymenhva.fi julkaisut.kymsote.fi kymenhva.fi; do
+            echo "::notice title=DNS $h::$(getent hosts $h | tr '\n' ' ')"
+          done
+          ua="terveyshamsteri/0.1 (civic archive of wellbeing services county decisions; +https://github.com/Savvyboi/terveyshamsteri)"
+          for u in https://julkaisut.kymenhva.fi:8443/robots.txt https://julkaisut.kymenhva.fi/robots.txt http://julkaisut.kymenhva.fi/robots.txt \
+                   http://julkaisut.kymenhva.fi:8080/robots.txt https://julkaisut.kymenhva.fi/ktwebscr/epj_tek_tweb.htm https://kymenhva.fi/robots.txt; do
+            out=$(curl -sS -m 20 -A "$ua" -o /tmp/b -w "%{http_code} %{remote_ip}:%{remote_port}" "$u" 2>&1 | tail -c 300)
+            body=$(head -c 400 /tmp/b 2>/dev/null | tr '\r\n' '  '); rm -f /tmp/b
+            echo "::notice title=GET $u::$out | $body"
+          done
+          for p in 443 8443 80; do
+            timeout 10 bash -c "</dev/tcp/julkaisut.kymenhva.fi/$p" && echo "::notice title=TCP $p::open" || echo "::notice title=TCP $p::closed or filtered"
+          done
 
   finance-probe:
     runs-on: ubuntu-latest
