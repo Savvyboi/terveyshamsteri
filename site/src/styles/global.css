@@ -397,6 +397,15 @@ details.section > div { padding: 0 18px 16px; }
 .party-dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; flex: none; }
 .seatbar { display: flex; height: 26px; border-radius: 3px; overflow: hidden; gap: 2px; margin: 10px 0 6px; }
 .seatbar > span { display: grid; place-items: center; color: #fff; font-size: .72rem; font-weight: 700; min-width: 0; overflow: hidden; }
+/* Seats by county: a table with a fixed county column on wide screens, a card per county on phones. */
+.seat-matrix table.data th, .seat-matrix table.data td { padding: 10px 10px; }
+.seat-matrix table.data tr > :first-child { position: sticky; left: 0; background: var(--surface); z-index: 1; }
+.seat-matrix table.data thead tr > :first-child { background: var(--surface-2); }
+.seat-cards { display: none; list-style: none; padding: 0; margin: 0; background: var(--surface); border: var(--border-w) solid var(--line); border-radius: var(--radius); }
+.seat-cards > li { padding: 12px 14px; border-bottom: 1px solid var(--line); }
+.seat-cards > li:last-child { border-bottom: 0; }
+.seat-cards .seatbar { height: 18px; margin: 8px 0 6px; font-size: .75rem; }
+@media (max-width: 860px) { .seat-matrix { display: none; } .seat-cards { display: block; } }
 .seat-legend { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: .88rem; }
 .profile { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); border: var(--border-w) solid var(--line); background: var(--surface); margin: 0 0 24px; }
 .profile > div { padding: 16px 18px; border-right: var(--border-w) solid var(--line); }
