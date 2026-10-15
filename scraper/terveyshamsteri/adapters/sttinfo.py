@@ -4,7 +4,7 @@ A fallback for regions whose own publishing system blocks crawlers. Varha's Tweb
 all robots, but Varha also sends the unverified minutes of its board to STT Info on the day
 of the meeting, as a release with the minutes PDF attached:
 
-  /public-website-api/releases?publisherId=..&page=n   the publisher's releases, 20 a page
+  /sitemap.xml -> /sitemap-months/{n}.xml  every release of a month, publisherId in each URL
   /tiedote/{id}/{slug}?publisherId=..       release: title names the body and the date
   /files/{publisher}/{release}/{file}/fi    the attached minutes PDF
 
@@ -14,6 +14,7 @@ says they carry minutes ('pöytäkirja') are used: agenda releases only summaris
 
 from __future__ import annotations
 
+import html
 import io
 import logging
 import re
@@ -27,7 +28,6 @@ from .base import Adapter, fill_item_from_text
 log = logging.getLogger(__name__)
 
 SITE = "https://www.sttinfo.fi"
-MAX_PAGES = 100
 
 # "Varhan aluehallituksen 12.10.2026 kokouksen tarkastamaton pöytäkirja"
 _MINUTES_TITLE = re.compile(
@@ -68,6 +68,7 @@ class SttInfoAdapter(Adapter):
     def __init__(self, *a, **kw):
         super().__init__(*a, **kw)
         self._refs: list[tuple[Body, str, str, str]] | None = None
+        self._pages: dict[str, str] = {}
 
     @property
     def newsroom(self) -> str:
@@ -75,20 +76,29 @@ class SttInfoAdapter(Adapter):
 
     # ------------------------------------------------------------ listing
     def _releases(self) -> list[tuple[str, str]]:
-        """(Finnish title, absolute url) of the publisher's releases back to the region's start
-        date, newest first. The newsroom page loads them from this JSON endpoint, 20 a page."""
-        since = self.region.get("since", "2025-06-01")
-        out: list[tuple[str, str]] = []
-        for page in range(MAX_PAGES):
-            url = f"{SITE}/public-website-api/releases?publisherId={self.epoch['publisher_id']}&page={page}"
-            releases = self.fetcher.get(url).json().get("releases") or []
-            for r in releases:
-                fi = (r.get("versions") or {}).get("fi")
-                if fi and fi.get("title") and fi.get("url"):
-                    # Some titles arrive decomposed ("o" + combining diaeresis).
-                    out.append((unicodedata.normalize("NFC", fi["title"]), urljoin(SITE, fi["url"])))
-            if not releases or min(r.get("date", "") for r in releases)[:10] < since:
-                break
+        """(Finnish title, absolute url) of the publisher's releases that look like minutes, back
+        to the region's start date. The newsroom's own JSON listing leaves the minutes releases
+        out, so they are found in STT Info's monthly sitemaps (which carry the publisher id in
+        each URL) and the title is read from the release page."""
+        since = str(self.region.get("since", "2025-06-01"))
+        index = self.fetcher.get(f"{SITE}/sitemap.xml").text
+        months = re.findall(r"<loc>([^<]*/sitemap-months/\d+\.xml)</loc>\s*<lastmod>([^<]+)</lastmod>", index)
+        urls: list[str] = []
+        pid = re.escape(str(self.epoch["publisher_id"]))
+        for loc, lastmod in months:
+            if lastmod[:10] < since:  # a monthly sitemap is stamped with the end of its month
+                continue
+            for u in re.findall(r"<loc>([^<]+)</loc>", self.fetcher.get(loc).text):
+                u = html.unescape(u)
+                if re.search(rf"[?&]publisherId={pid}&lang=fi$", u) and "poytakirja" in u and u not in urls:
+                    urls.append(u)
+        out = []
+        for u in urls:
+            page = self.fetcher.get(u).text
+            self._pages[u] = page
+            h1 = soup(page).find("h1")
+            if h1:
+                out.append((unicodedata.normalize("NFC", h1.get_text(" ", strip=True)), u))
         return out
 
     def _minutes_refs(self) -> list[tuple[Body, str, str, str]]:
@@ -98,7 +108,7 @@ class SttInfoAdapter(Adapter):
             releases = self._releases()
             for title, url in releases:
                 parsed = parse_release_title(title)
-                if not parsed and re.search(r"kirja|aluehallitu", title, re.IGNORECASE):
+                if not parsed:
                     log.warning("minutes release title not understood: %s", ascii(title))
                 if not parsed or url in seen:
                     continue
@@ -121,7 +131,7 @@ class SttInfoAdapter(Adapter):
 
     # ------------------------------------------------------------ meeting
     def fetch_meeting(self, ref: MeetingRef) -> Meeting:
-        doc = soup(self.fetcher.get(ref.url).text)
+        doc = soup(self._pages.pop(ref.url, None) or self.fetcher.get(ref.url).text)
         pdf_url = None
         for a in doc.find_all("a", href=True):
             if re.match(r"^(?:https://www\.sttinfo\.fi)?/files/", a["href"]) and \

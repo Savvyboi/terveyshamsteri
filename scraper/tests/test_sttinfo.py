@@ -63,14 +63,11 @@ class FakeResponse:
         self.text = text
         self.content = text.encode()
 
-    def json(self):
-        return json.loads(self.text)
-
 
 class FakeFetcher:
     routes = {
-        "publisherId=69820130&page=0": "releases0.json",
-        "publisherId=69820130&page=1": "releases1.json",
+        "/sitemap.xml": "sitemap.xml",
+        "/sitemap-months/0.xml": "sitemap-month0.xml",
         "/tiedote/72406089/varhan-aluehallituksen-12102026-kokouksen-tarkastamaton-poytakirja?publisherId=69820130&lang=fi":
             "release72406089.html",
         "/files/69820130/72406089/522021/fi": "aluehallitus_2026-10-12.txt",
@@ -98,7 +95,9 @@ def test_sttinfo_region(tmp_path, monkeypatch):
         "newsroom_url": "https://www.sttinfo.fi/uutishuone/69820130/varsinais-suomen-hyvinvointialue-varha"}]}
     status = scrape_region(region, tmp_path)
     assert status["result"] == "ok", status
-    assert status["fetched"] == 1  # the May 2025 release is before the start date
+    # Only the Finnish minutes release of this publisher; the month before the start date
+    # is never fetched (it has no route here).
+    assert status["fetched"] == 1
     bodies = json.loads((tmp_path / "varsinais-suomi" / "bodies.json").read_text())
     assert [b["id"] for b in bodies] == ["aluehallitus"]
     m = json.loads((tmp_path / "varsinais-suomi" / "meetings" / "aluehallitus" / "2026-10-12.json").read_text())
