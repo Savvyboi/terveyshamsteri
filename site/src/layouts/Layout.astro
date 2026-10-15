@@ -5,8 +5,8 @@ import Hamster from '../components/Hamster.astro';
 import { IS_SAMPLE, load, url } from '../lib/data';
 import { S, type Key } from '../lib/i18n';
 
-interface Props { title?: string; titleSv?: string; description?: string; wide?: boolean }
-const { title, description } = Astro.props;
+interface Props { title?: string; titleSv?: string; description?: string; wide?: boolean; feed?: string }
+const { title, description, feed } = Astro.props;
 const fullTitle = title ? `${title} – Terveyshamsteri` : `Terveyshamsteri – ${S.tagline.fi}`;
 const updated = load().status.updated_at;
 const path = Astro.url.pathname;
@@ -35,6 +35,7 @@ const current = (href: string) => (href === url() ? path === href : path.startsW
   <meta name="color-scheme" content="light dark" />
   <meta name="theme-color" content="#f6f3ec" />
   <link rel="icon" href={`${base}/favicon.svg`} type="image/svg+xml" />
+  {feed && <link rel="alternate" type="application/rss+xml" title={fullTitle} href={feed} />}
   <meta property="og:title" content={fullTitle} />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Terveyshamsteri" />

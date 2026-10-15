@@ -17,7 +17,7 @@ const upcoming = meetings.filter((m) => m.stage === 'agenda').slice(0, 6).revers
 const fi = (n: number) => n.toLocaleString('fi-FI');
 const updated = status.updated_at ? fmtDate(status.updated_at.slice(0, 10)) : null;
 ---
-<Layout>
+<Layout feed={`${url()}rss.xml`}>
   <section class="hero">
     <div>
       <p class="kicker"><T k="kicker" /></p>

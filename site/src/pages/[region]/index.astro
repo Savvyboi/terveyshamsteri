@@ -21,7 +21,7 @@ const items = meetings.reduce((a, m) => a + m.items.length, 0);
 const countBy = (b: string) => meetings.filter((m) => m.body_id === b).length;
 const lastOf = (b: string) => meetings.find((m) => m.body_id === b)?.date;
 ---
-<Layout title={r.name.fi}>
+<Layout title={r.name.fi} feed={meetings.length ? `${url(r.id)}rss.xml` : undefined}>
   <Breadcrumbs trail={[{ href: url('alueet'), fi: 'Hyvinvointialueet', sv: 'Välfärdsområden', en: 'Counties' }, { fi: r.short.fi!, sv: r.short.sv }]} />
   <div class="page-head">
     <p class="kicker"><T k="kicker" /></p>
@@ -36,6 +36,7 @@ const lastOf = (b: string) => meetings.find((m) => m.body_id === b)?.date;
       <a class="btn small secondary" href={url(r.id, 'valtuutetut')}><T k="councillors" /></a>
       <a class="btn small secondary" href={url(r.id, 'henkilot')}><T k="people" /></a>
       <a class="btn small secondary" href={url(r.id, 'aanestykset')}><T k="votes" /></a>
+      {meetings.length > 0 && <a class="btn small secondary" href={`${url(r.id)}rss.xml`}><T k="rss" /></a>}
     </div>
   </div>
 

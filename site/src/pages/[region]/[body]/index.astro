@@ -12,13 +12,14 @@ const { r, b } = Astro.props as { r: Region; b: Body };
 const meetings = meetingsOf(r.id, b.id);
 const years = [...new Set(meetings.map((m) => m.date.slice(0, 4)))];
 ---
-<Layout title={`${b.name} – ${r.short.fi}`}>
+<Layout title={`${b.name} – ${r.short.fi}`} feed={`${url(r.id, b.id)}rss.xml`}>
   <Breadcrumbs trail={[{ href: url(r.id), fi: r.short.fi, sv: r.short.sv }, { label: b.name }]} />
   <div class="page-head">
     <p class="kicker"><T k={`type_${b.type}` as any} /></p>
     <h1>{b.name}</h1>
     <div class="actions">
       <a class="btn small" href={`${url('haku')}?body=${encodeURIComponent(b.name)}`}><T k="search" /></a>
+      <a class="btn small secondary" href={`${url(r.id, b.id)}rss.xml`}><T k="rss" /></a>
       {b.url && <a class="btn small secondary" href={b.url}><T k="openSource" /> ↗</a>}
     </div>
   </div>
