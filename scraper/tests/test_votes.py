@@ -175,3 +175,17 @@ def test_voter_lists_are_not_sides():
     [v] = extract_votes("Äänestyksessä annettiin 3 JAA-ääntä ja 2 EI-ääntä.\n\nJAA-ääniä antoivat Vornanen Ahti-Pekka, "
                         "Rossi Markku ja Pitkänen Juha\nEI-ääniä antoivat Kontiainen Hilkka ja Hedman Pia")
     assert v.question == {}
+
+
+def test_proposal_in_the_same_paragraph_as_the_result():
+    [v] = extract_votes("Puheenjohtaja esitti, että ne jotka kannattavat aluehallituksen pohjaesitystä, äänestävät JAA, ja "
+                        "Jussi Hermajan muutosesitystä kannattavat äänestävät EI. Äänestystapa hyväksyttiin. Seuranneessa "
+                        "äänestyksessä annettiin yhteensä 58 ääntä, joista JAA-ääniä 49 ja EI-ääniä 9.")
+    assert v.question == {"jaa": "Aluehallituksen pohjaesitystä", "ei": "Jussi Hermajan muutosesitystä"}
+
+
+def test_motion_continues_after_a_colon():
+    [v] = extract_votes("Valtuutettu Tapani Eskola ehdotti, että strategian s. 3 lisätään uusi arvo:\n"
+                        "”VAIKUTTAVUUS - Parannamme ihmisten hyvinvointia.”\n\n"
+                        "Äänestyksessä annettiin 39 JAA-ääntä ja 17 EI-ääntä.")
+    assert v.motion.endswith("uusi arvo: ”VAIKUTTAVUUS - Parannamme ihmisten hyvinvointia.”")

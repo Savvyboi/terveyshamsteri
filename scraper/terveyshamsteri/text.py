@@ -536,6 +536,7 @@ def _clean_side(what: str) -> str | None:
     what = re.sub(r"^kannatta\w*,?\s+(?:että\s+)?|^(?:de\s+)?som\s+(?:under)?stöd\w*\s+", "", what, flags=re.IGNORECASE)
     what = re.sub(r",?\s+(?:" + _Q_VERB + r"|röst\w*|kannalla\s+olevat)$", "", what, flags=re.IGNORECASE)
     what = re.sub(r",?\s+(?:s\.|sivu|sivulla|sid\.)\s*\d+$", "", what)  # page references
+    what = re.sub(r"\s+(?:i|vid)\s+omröstningen$|\s+äänestyksessä$", "", what, flags=re.IGNORECASE)
     what = what.strip(" \t.,;:–-”\"“'()")
     if what.count("(") > what.count(")"):
         what += ")"
@@ -574,10 +575,15 @@ def _question(before: str, result: str) -> dict[str, str]:
 
 
 def _motion(before: str) -> str | None:
-    found = [m.group("m").strip() for m in _MOTION.finditer(before) if not _NOT_MOTION.search(m.group("m"))]
+    found = [m for m in _MOTION.finditer(before) if not _NOT_MOTION.search(m.group("m"))]
     if not found:
         return None
-    m = re.sub(r"\s+", " ", found[-1])
+    m = found[-1].group("m").strip()
+    if m.endswith(":"):  # "… että strategian s. 3 lisätään uusi arvo:" and the text on the next line
+        rest = re.match(r"\s*([^\n]+)", before[found[-1].end():])
+        if rest and not _NOT_MOTION.search(rest.group(1)):
+            m += " " + rest.group(1).strip()
+    m = re.sub(r"\s+", " ", m)
     return m if len(m) <= 600 else m[:597].rsplit(" ", 1)[0] + " …"
 
 
@@ -587,7 +593,10 @@ def _attach_questions(text: str, votes: list[Vote], at: dict[int, int]) -> None:
     for v in votes:
         if id(v) in at:
             p = at[id(v)]
-            v.question = _question(text[:p], text[p:p + len(v.context) + 200])
+            # A one-paragraph vote states its proposal and result together: "… ne, jotka kannattavat
+            # pohjaesitystä, äänestävät JAA … annettiin 49 JAA-ääntä".
+            before = text[:p] + "\n" + v.context
+            v.question = _question(before, text[p:p + len(v.context) + 200])
             v.motion = _motion(text[:p])
 
 
