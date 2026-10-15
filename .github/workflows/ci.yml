@@ -51,7 +51,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        region: [keski-suomi, pirkanmaa, kanta-hame]
+        region: [keski-suomi, pirkanmaa, kanta-hame, varsinais-suomi]
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

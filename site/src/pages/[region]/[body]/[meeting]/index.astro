@@ -17,7 +17,7 @@ const person = (name: string) => { const p = personByName(m.region, name); retur
 <Layout title={`${m.body_name} ${fmtDate(m.date)} – ${r.short.fi}`}>
   <Breadcrumbs trail={[{ href: url(r.id), fi: r.short.fi, sv: r.short.sv }, { href: url(r.id, m.body_id), label: m.body_name }, { label: fmtDate(m.date) }]} />
   <div class="page-head">
-    <p class="kicker">{m.stage === 'agenda' ? <T k="agenda" /> : <T k="minutes" />}</p>
+    <p class="kicker">{m.stage === 'agenda' ? <T k="agenda" /> : <T k={m.stage === 'minutes-unverified' ? 'minutesUnverified' : 'minutes'} />}</p>
     <h1>{m.body_name} {fmtDate(m.date)}</h1>
     <p class="facts">
       {m.time && <span><T k="time" />: <b>{m.time}</b></span>}
@@ -26,7 +26,7 @@ const person = (name: string) => { const p = personByName(m.region, name); retur
     </p>
     <div class="actions">
       <a class="btn small" href={m.source_url}><T k="openSource" /> ↗</a>
-      {m.pdf_url && <a class="btn small secondary" href={m.pdf_url}>{m.stage === 'agenda' ? <T k="agenda" /> : <T k="minutes" />} (PDF) ↗</a>}
+      {m.pdf_url && <a class="btn small secondary" href={m.pdf_url}>{m.stage === 'agenda' ? <T k="agenda" /> : <T k={m.stage === 'minutes-unverified' ? 'minutesUnverified' : 'minutes'} />} (PDF) ↗</a>}
     </div>
   </div>
   <div class="columns">

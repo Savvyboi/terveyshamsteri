@@ -41,7 +41,7 @@ const citeId = `cite-${i}`;
       <p class="facts">
         <span>{fmtDate(m.date)}</span>
         <span><span class="fi">{r.short.fi}</span><span class="sv" data-pagefind-ignore>{r.short.sv}</span></span>
-        {m.stage === 'agenda' ? <span class="chip agenda"><T k="agenda" /></span> : <span class="chip muted"><T k="minutes" /></span>}
+        {m.stage === 'agenda' ? <span class="chip agenda"><T k="agenda" /></span> : <span class="chip muted"><T k={m.stage === 'minutes-unverified' ? 'minutesUnverified' : 'minutes'} /></span>}
         {it.votes.length > 0 && <span class="chip vote"><T k="vote" /></span>}
       </p>
     </div>

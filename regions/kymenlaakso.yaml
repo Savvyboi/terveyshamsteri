@@ -1,4 +1,4 @@
-# Kymenlaakso: decision publishing source (unknown).
+# Kymenlaakso: decision publishing source (confirmed).
 id: kymenlaakso
 name:
   fi: Kymenlaakson hyvinvointialue
@@ -10,7 +10,11 @@ homepage: https://kymenhva.fi
 enabled: false
 since: 2025-06-01   # start of the current council term
 language: fi
-source_status: unknown   # confirmed | inferred | unknown
-epochs: []
+source_status: confirmed   # confirmed | inferred | unknown
+epochs:
+  - platform: tweb
+    base_url: https://julkaisut.kymenhva.fi:8443
+    entry_url: https://julkaisut.kymenhva.fi:8443/ktwebscr/epj_tek_tweb.htm
 notes:
-  fi: "Pöytäkirjojen julkaisujärjestelmä selvittämättä."
+  fi: "Pöytäkirjat julkaistaan Tweb-palvelussa, joka ei vastaa GitHubin palvelimilta tuleviin yhteyksiin (tarkistettu 15.10.2026)."
+  sv: "Protokollen publiceras i Tweb, som inte svarar på anslutningar från GitHubs servrar (kontrollerat 15.10.2026)."
