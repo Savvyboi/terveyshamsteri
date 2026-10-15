@@ -149,7 +149,7 @@ class DynastyAdapter(Adapter):
         item.diary_number = item.diary_number or diary
         if not text.strip():
             item.redacted = True
-        fill_item_from_text(item, text)
+        fill_item_from_text(item, text, self.epoch.get("newest_first", False))
 
 
 

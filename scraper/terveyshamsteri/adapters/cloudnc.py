@@ -129,7 +129,7 @@ class CloudNCAdapter(Adapter):
         text = self._strip_intro(item, text)
         if not text.strip():
             item.redacted = True
-        fill_item_from_text(item, text)
+        fill_item_from_text(item, text, self.epoch.get("newest_first", False))
         if item.attachments:  # the 'Liitteet' block only repeats the file names and sizes
             item.sections = [x for x in item.sections if heading_kind(x.heading) != "attachments"]
 
