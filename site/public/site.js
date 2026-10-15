@@ -52,6 +52,14 @@
   var panel = document.getElementById('menu-panel');
   if (menuBtn && panel) {
     menuBtn.addEventListener('click', function () {
+      var list = panel.querySelector('ul');
+      if (list && !list.children.length) {
+        document.querySelectorAll('.nav a').forEach(function (a) {
+          var li = document.createElement('li');
+          li.appendChild(a.cloneNode(true));
+          list.appendChild(li);
+        });
+      }
       var open = panel.classList.toggle('open');
       menuBtn.setAttribute('aria-expanded', String(open));
     });

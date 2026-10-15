@@ -5,7 +5,7 @@
   "scripts": {
     "sample": "cd ../scraper && python3 -m terveyshamsteri.sample ../site/sample-data",
     "dev": "astro dev",
-    "build": "astro build && pagefind --site dist --force-language fi",
+    "build": "astro build && pagefind --site dist --force-language fi --exclude-selectors u-i",
     "preview": "astro preview"
   },
   "dependencies": {
