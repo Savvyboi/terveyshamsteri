@@ -84,14 +84,21 @@ class SttInfoAdapter(Adapter):
         index = self.fetcher.get(f"{SITE}/sitemap.xml").text
         months = re.findall(r"<loc>([^<]*/sitemap-months/\d+\.xml)</loc>\s*<lastmod>([^<]+)</lastmod>", index)
         urls: list[str] = []
+        skipped: list[str] = []  # body-related releases without minutes, logged to spot new title patterns
         pid = re.escape(str(self.epoch["publisher_id"]))
         for loc, lastmod in months:
             if lastmod[:10] < since:  # a monthly sitemap is stamped with the end of its month
                 continue
             for u in re.findall(r"<loc>([^<]+)</loc>", self.fetcher.get(loc).text):
                 u = html.unescape(u)
-                if re.search(rf"[?&]publisherId={pid}&lang=fi$", u) and "poytakirja" in u and u not in urls:
+                if not re.search(rf"[?&]publisherId={pid}&lang=fi$", u) or u in urls:
+                    continue
+                if "poytakirja" in u:
                     urls.append(u)
+                elif re.search(r"hallitu|valtuust|lautakun|jaosto|kokou", u):
+                    skipped.append(u.split("/tiedote/")[-1].split("?")[0])
+        if skipped:
+            log.info("%d body releases without 'pöytäkirja' skipped: %s", len(skipped), skipped[:40])
         out = []
         for u in urls:
             page = self.fetcher.get(u).text
