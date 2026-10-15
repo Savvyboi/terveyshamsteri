@@ -5,15 +5,18 @@ import L from '../components/L.astro';
 import Hamster from '../components/Hamster.astro';
 import MeetingTable from '../components/MeetingTable.astro';
 import VoteTable from '../components/VoteTable.astro';
-import { fmtDate, load, url } from '../lib/data';
+import { bothViews, counted as isCounted, fmtDate, load, url, votesOf } from '../lib/data';
 
 const { regions, meetings, bodies, status } = load();
 const enabled = regions.filter((r) => r.enabled && r.meetings > 0);
-const items = meetings.reduce((a, m) => a + m.items.length, 0);
-const allVotes = meetings.flatMap((m) => m.items.flatMap((it, i) => it.votes.map((v) => ({ m, i, v }))));
+// Counts leave out the Swedish copies of meetings published in both languages.
+const counted = meetings.filter(isCounted);
+const items = counted.reduce((a, m) => a + m.items.length, 0);
+const allVotes = votesOf(undefined, true);
+const voteCount = allVotes.filter(({ m }) => isCounted(m)).length;
 const bodyCount = [...bodies.values()].reduce((a, bs) => a + bs.length, 0);
 const minutes = meetings.filter((m) => m.stage !== 'agenda');
-const upcoming = meetings.filter((m) => m.stage === 'agenda').slice(0, 6).reverse();
+const upcoming = bothViews(meetings.filter((m) => m.stage === 'agenda'), 6, (m) => m.twin).reverse();
 const fi = (n: number) => n.toLocaleString('fi-FI');
 const updated = status.updated_at ? fmtDate(status.updated_at.slice(0, 10)) : null;
 ---
@@ -50,16 +53,16 @@ const updated = status.updated_at ? fmtDate(status.updated_at.slice(0, 10)) : nu
 
   <div class="stats">
     <a class="stat" href={url('alueet')}><strong>{enabled.length}/21</strong><span><T k="regionsCount" /></span></a>
-    <a class="stat" href={url('kokoukset')}><strong>{fi(meetings.length)}</strong><span><T k="meetingsCount" /></span></a>
+    <a class="stat" href={url('kokoukset')}><strong>{fi(counted.length)}</strong><span><T k="meetingsCount" /></span></a>
     <div class="stat"><strong>{fi(items)}</strong><span><T k="itemsCount" /></span></div>
-    <a class="stat" href={url('aanestykset')}><strong>{fi(allVotes.length)}</strong><span><T k="votesCount" /></span></a>
+    <a class="stat" href={url('aanestykset')}><strong>{fi(voteCount)}</strong><span><T k="votesCount" /></span></a>
     <div class="stat"><strong>{fi(bodyCount)}</strong><span><T k="bodiesCount" /></span></div>
   </div>
 
   {allVotes.length > 0 && (
     <>
       <div class="section-head"><h2><T k="latestVotes" /></h2><a href={url('aanestykset')}><T k="allVotes" /> →</a></div>
-      <VoteTable votes={allVotes.slice(0, 8)} showRegion />
+      <VoteTable votes={bothViews(allVotes, 8, ({ m }) => m.twin)} showRegion />
     </>
   )}
 
@@ -71,7 +74,7 @@ const updated = status.updated_at ? fmtDate(status.updated_at.slice(0, 10)) : nu
   )}
 
   <div class="section-head"><h2><T k="latestMeetings" /></h2><a href={url('kokoukset')}><T k="showAll" /> →</a></div>
-  <MeetingTable meetings={minutes.slice(0, 10)} showRegion />
+  <MeetingTable meetings={bothViews(minutes, 10, (m) => m.twin)} showRegion />
 
   <div class="section-head"><h2><T k="regions" /></h2><a href={url('alueet')}><T k="showAll" /> →</a></div>
   <div class="grid">

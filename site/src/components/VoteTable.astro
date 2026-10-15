@@ -14,7 +14,7 @@ const { votes, showRegion } = Astro.props;
         const r = regionById(m.region);
         const it = m.items[i];
         return (
-          <tr>
+          <tr data-twin={m.twin}>
             <td class="date">{fmtDate(m.date)}</td>
             <td><a class="t" href={itemUrl(m, i)}>{it.title}</a>
               <span class="sub">{showRegion && <><L fi={r.short.fi!} sv={r.short.sv} /> · </>}{m.body_name}{it.number && ` · § ${it.number}`}</span></td>

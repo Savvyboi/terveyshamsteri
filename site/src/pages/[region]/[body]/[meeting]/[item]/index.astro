@@ -4,7 +4,8 @@ import T from '../../../../../components/T.astro';
 import Breadcrumbs from '../../../../../components/Breadcrumbs.astro';
 import VoteBar from '../../../../../components/VoteBar.astro';
 import PartySplit from '../../../../../components/PartySplit.astro';
-import { fmtDate, itemSlug, itemUrl, load, meetingSlug, meetingUrl, regionById, url, type Meeting } from '../../../../../lib/data';
+import VoterList from '../../../../../components/VoterList.astro';
+import { counted, fmtDate, itemSlug, itemUrl, load, meetingSlug, meetingUrl, regionById, url, type Meeting } from '../../../../../lib/data';
 
 export function getStaticPaths() {
   return load().meetings.flatMap((m) => m.items.map((_, i) => ({
@@ -28,7 +29,7 @@ const citeId = `cite-${i}`;
     { href: meetingUrl(m), label: fmtDate(m.date) },
     { label: it.number ? `§ ${it.number}` : it.title },
   ]} />
-  <article data-pagefind-body
+  <article {...(counted(m) ? { 'data-pagefind-body': true } : {})}
     data-pagefind-sort={`date:${m.date}`}
     data-pagefind-meta={`body:${m.body_name.replace(/[,:]/g, ' ')}, date:${fmtDate(m.date)}`}>
     <span hidden data-pagefind-filter={`Alue:${r.short.fi}`}></span>
@@ -66,6 +67,7 @@ const citeId = `cite-${i}`;
             <h3><T k="vote" />{it.votes.length > 1 && ` ${k + 1}`}</h3>
             <VoteBar vote={v} />
             <p class="vote-context">{v.context}</p>
+            <VoterList m={m} v={v} />
             {v.names && Object.keys(v.names).length > 0 && <PartySplit m={m} v={v} />}
             {v.provisional && <p class="note">⚠ <T k="provisional" /></p>}
           </section>

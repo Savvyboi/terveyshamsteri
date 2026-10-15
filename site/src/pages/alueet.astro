@@ -34,8 +34,7 @@ const rows = live.map((r) => {
       <tbody>
         {rows.map(({ r, meetings, items, votes, latest }) => (
           <tr>
-            <td><a class="t" href={url(r.id)}><L fi={r.name.fi!} sv={r.name.sv} en={r.name.en} /></a>
-              <span class="sub">{r.platforms.join(', ')}</span></td>
+            <td><a class="t" href={url(r.id)}><L fi={r.name.fi!} sv={r.name.sv} en={r.name.en} /></a></td>
             <td class="num">{fi(meetings)}</td>
             <td class="num">{fi(items)}</td>
             <td class="num">{fi(votes)}</td>
@@ -54,8 +53,7 @@ const rows = live.map((r) => {
           <div class="card region-card disabled">
             <span class="name"><L fi={r.short.fi!} sv={r.short.sv} /></span>
             <span><L fi={r.name.fi!} sv={r.name.sv} en={r.name.en} /></span>
-            <span class="meta"><span class:list={['chip', statusKey(r) === 'blocked' ? 'warn' : 'muted']}><T k={statusKey(r)} /></span>
-              {r.platforms.length > 0 && <> {r.platforms.join(', ')}</>}</span>
+            <span class="meta"><span class:list={['chip', statusKey(r) === 'blocked' ? 'warn' : 'muted']}><T k={statusKey(r)} /></span></span>
           </div>
         ))}
       </div>

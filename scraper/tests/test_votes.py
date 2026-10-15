@@ -103,3 +103,47 @@ def test_bare_label_winner():
 
 def test_number_words_in_prose_are_not_votes():
     assert extract_votes("Äänestyksessä yksi ei osallistunut. Kaksi jäsentä oli poissa.") == []
+
+
+def test_voters_listed_after_the_counts():
+    text = ("Suoritetussa äänestyksessä asian käsittelyn jatkaminen sai 3 JAA-ääntä ja puheenjohtaja Laihon esitys 2 EI-ääntä.\n\n"
+            "JAA-äänen antoivat 1. varapuheenjohtaja Värmälä sekä jäsenet Juvonen ja Laakso.\n\n"
+            "EI-äänen antoivat puheenjohtaja Laiho ja jäsen Kokko.\n\nVaravaltuutettu Rauanmaa äänesti tyhjää.")
+    [v] = extract_votes(text)
+    assert v.names == {"jaa": ["Värmälä", "Juvonen", "Laakso"], "ei": ["Laiho", "Kokko"], "tyhja": ["Rauanmaa"]}
+    assert v.counts["tyhja"] == 1
+
+
+def test_voters_in_swedish_and_after_colon():
+    text = ("Vid omröstningen fick förslaget 2 JA-röster och ändringsförslaget 1 NEJ-röster.\n\n"
+            "Första vice ordförande Räsänen och ledamoten Juvonen röstade JA.\n\nNEJ röstade ordförande Laiho.")
+    [v] = extract_votes(text)
+    assert v.names == {"jaa": ["Räsänen", "Juvonen"], "ei": ["Laiho"]}
+    text = "Äänestyksessä annettiin ääniä:\nJAA-ääniä: 2\nEI-ääniä: 1\nJAA-ääniä antoivat: Markku Rossi ja Pekka Taipale\nEI-ääniä antoivat: Irja Sokka"
+    [v] = extract_votes(text)
+    assert v.names == {"jaa": ["Markku Rossi", "Pekka Taipale"], "ei": ["Irja Sokka"]}
+
+
+def test_voters_in_brackets_after_each_count():
+    [v] = extract_votes("Äänestyksessä annettiin 3 JAA-ääntä (Bitter, Lehkonen, Rautio) ja 2 EI-ääntä (Alijärvi, Filatov).")
+    assert v.names == {"jaa": ["Bitter", "Lehkonen", "Rautio"], "ei": ["Alijärvi", "Filatov"]}
+    [v] = extract_votes("JAA äänesti 2 aluehallituksen jäsentä (Marja Ahava, Juha Suoniemi) ja EI äänesti 1 jäsen (Antero Eerola).")
+    assert v.names == {"jaa": ["Marja Ahava", "Juha Suoniemi"], "ei": ["Antero Eerola"]}
+
+
+def test_voter_list_on_the_line_after_the_count():
+    text = ("Äänestyksen tulos: 2 JAA-ääntä ja 1 EI-ääntä.\n\nÄänestystulokset\n\nKyllä 2 kpl 67%\n\nLeena Kostiainen, Ilkka Porttikivi\n\n"
+            "Ei 1 kpl 33%\n\nMilka Hanhela")
+    [v] = extract_votes(text)
+    assert v.names == {"jaa": ["Leena Kostiainen", "Ilkka Porttikivi"], "ei": ["Milka Hanhela"]}
+
+
+def test_voters_go_to_the_vote_they_follow():
+    block = "Äänestyksessä annettiin ääniä seuraavasti:\nJAA-ääniä: {}\nEI-ääniä: 1\nJAA-ääniä antoivat: {}\nEI-ääniä antoivat: Irja Sokka\n\n"
+    a, b = extract_votes(block.format(1, "Pekka Taipale") + block.format(2, "Markku Rossi ja Vesa Lötjönen"))
+    assert a.names["jaa"] == ["Pekka Taipale"] and b.names["jaa"] == ["Markku Rossi", "Vesa Lötjönen"]
+
+
+def test_voter_list_with_wrong_count_is_ignored():
+    [v] = extract_votes("Suoritetussa äänestyksessä ehdotus sai 3 JAA-ääntä ja 2 EI-ääntä.\n\nJAA-äänen antoivat Juvonen ja Laakso.")
+    assert v.names == {}
