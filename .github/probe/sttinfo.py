@@ -1,47 +1,45 @@
-"""Temporary: dump STT Info structure for the Varha adapter."""
-import io, re, sys
+"""Temporary: find how STT Info pages a publisher's releases."""
+import re, sys
 from bs4 import BeautifulSoup
-from pypdf import PdfReader
 sys.path.insert(0, "scraper")
 from terveyshamsteri.http import Fetcher
 
 f = Fetcher(delay=1.5)
 L = "https://www.sttinfo.fi/uutishuone/69820130/varsinais-suomen-hyvinvointialue-varha/r"
+
+def titles(html):
+    s = BeautifulSoup(html, "lxml")
+    return [a["href"].split("/")[2] for a in s.find_all("a", href=True) if a["href"].startswith("/tiedote/")][:3]
+
+for u in [L, L + "?page=2", L + "?p=2", L + "/2", L + "?sivu=2", L + "?pageNumber=2",
+          "https://www.sttinfo.fi/rss/releases/latest?publisherId=69820130&page=2",
+          "https://www.sttinfo.fi/rss/releases/latest?publisherId=69820130&limit=100"]:
+    try:
+        r = f.get(u)
+        extra = ""
+        if "rss" in u:
+            extra = f"items={r.text.count('<item>')} first={re.findall(r'<link>([^<]+)</link>', r.text)[1:3]}"
+        print("TRY", u, r.status_code, titles(r.text), extra)
+    except Exception as e:
+        print("TRY", u, repr(e))
+
 r = f.get(L)
-s = BeautifulSoup(r.text, "lxml")
-print("=== LISTING", r.status_code, len(r.text))
-for a in s.find_all("a", href=True):
-    h = a["href"]
-    if "tiedote" in h or "page" in h.lower() or "sivu" in h.lower() or re.search(r"[?&]p=|/r/|offset", h):
-        print("A", repr(h), "|", a.get_text(" ", strip=True)[:140])
-for el in s.select("[data-page],[data-url],[data-href]")[:20]:
-    print("DATA", el.name, dict(el.attrs))
-for sc in s.find_all("script", src=True)[:20]:
-    print("SCRIPT", sc["src"])
-i = r.text.find("Viimeinen")
-print("AROUND-LAST", r.text[max(0, i - 1500):i + 300])
-for u in ["https://www.sttinfo.fi/tiedote/72406089/varhan-aluehallituksen-12102026-kokouksen-tarkastamaton-poytakirja?publisherId=69820130&lang=fi",
-          "https://www.sttinfo.fi/tiedote/72362771/varhan-3092026-aluevaltuuston-esityslista?publisherId=69820130&lang=fi"]:
-    r = f.get(u)
-    s = BeautifulSoup(r.text, "lxml")
-    print("=== RELEASE", u, r.status_code)
-    main = s.find("main") or s.body
-    print("TEXT", main.get_text("\n", strip=True)[:2500])
-    pdfs = []
-    for a in s.find_all("a", href=True):
-        h = a["href"]
-        if "/files/" in h or h.lower().endswith(".pdf") or "attachment" in h:
-            print("ATT", repr(h), "|", a.get_text(" ", strip=True)[:140])
-            pdfs.append(h)
-    for h in pdfs[:1]:
-        h = h if h.startswith("http") else "https://www.sttinfo.fi" + h
-        p = f.get(h)
-        print("PDF", h, p.status_code, p.headers.get("content-type"), len(p.content), p.headers.get("content-disposition"))
-        rd = PdfReader(io.BytesIO(p.content))
-        txt = "\n".join((pg.extract_text() or "") for pg in rd.pages)
-        print("PAGES", len(rd.pages), "CHARS", len(txt))
-        lines = txt.split("\n")
-        print("----- HEAD"); print("\n".join(lines[:260]))
-        mid = len(lines) // 2
-        print("----- MID"); print("\n".join(lines[mid:mid + 160]))
-        print("----- TAIL"); print("\n".join(lines[-80:]))
+m = re.search(r"window\.__[A-Z_]+__\s*=", r.text)
+print("STATE", m.group(0) if m else None)
+for m in re.finditer(r"<script[^>]*>(.{0,300})", r.text):
+    if "publisher" in m.group(1).lower() or "__" in m.group(1):
+        print("INLINE", m.group(1)[:300])
+js = f.get("https://www.sttinfo.fi/public/b/app.a3f0c88074bff42a455b.js").text
+print("JS", len(js))
+for pat in [r'"/api[^"]{0,120}"', r'`/api[^`]{0,160}`', r'"[^"]{0,60}releases[^"]{0,80}"', r'[a-zA-Z/]*search[a-zA-Z/?=&]{0,80}']:
+    seen = set()
+    for m in re.finditer(pat, js):
+        v = m.group(0)
+        if v not in seen and len(seen) < 40:
+            seen.add(v); print("JSPAT", v)
+for m in re.finditer(r"pageNumber|pageSize|offset", js):
+    print("CTX", js[max(0, m.start()-200):m.end()+200].replace("\n", " "))
+    break
+
+sm = f.get("https://www.sttinfo.fi/sitemap.xml").text
+print("SITEMAP", len(sm), sm[:1500])
