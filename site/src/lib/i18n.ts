@@ -89,6 +89,7 @@ export const S = {
   attachments: { fi: 'Liitteet', sv: 'Bilagor', en: 'Attachments' },
   source: { fi: 'Lähde', sv: 'Källa', en: 'Source' },
   sources: { fi: 'Lähteet', sv: 'Källor', en: 'Sources' },
+  rss: { fi: 'RSS-syöte', sv: 'RSS-flöde', en: 'RSS feed' },
   openSource: { fi: 'Avaa alkuperäinen', sv: 'Öppna originalet', en: 'Open original' },
   openPdf: { fi: 'PDF', sv: 'PDF', en: 'PDF' },
   cite: { fi: 'Viittaa tähän', sv: 'Hänvisa hit', en: 'Cite this' },

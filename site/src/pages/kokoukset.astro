@@ -5,11 +5,12 @@ import DataTable from '../components/DataTable.astro';
 import { url } from '../lib/data';
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
-<Layout title="Kokoukset">
+<Layout title="Kokoukset" feed={`${url()}rss.xml`}>
   <div class="page-head">
     <p class="kicker"><T k="kicker" /></p>
     <h1><T k="meetings" /></h1>
     <p class="lead"><T k="meetingsLead" /></p>
+    <div class="actions"><a class="btn small secondary" href={`${url()}rss.xml`}><T k="rss" /></a></div>
   </div>
   <DataTable kind="meetings" src={url('data') + 'meetings.json'} sorts={['newest', 'oldest', 'mostItems']} stageFilter />
   <script is:inline src={`${base}/table.js`} defer></script>
