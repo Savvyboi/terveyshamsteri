@@ -6,6 +6,7 @@ import L from '../../components/L.astro';
 import MeetingTable from '../../components/MeetingTable.astro';
 import VoteTable from '../../components/VoteTable.astro';
 import SeatBar from '../../components/SeatBar.astro';
+import FinanceCard from '../../components/FinanceCard.astro';
 import { BODY_TYPES, bodiesOf, electionOf, fmtDate, load, meetingsOf, url, votesOf, type Region } from '../../lib/data';
 
 export function getStaticPaths() {
@@ -52,6 +53,7 @@ const lastOf = (b: string) => meetings.find((m) => m.body_id === b)?.date;
         <p style="margin:12px 0 0"><a href={url(r.id, 'valtuutetut')}><T k="showAll" /> →</a></p>
       </div>
     )}
+    <div style="margin-top:16px"><FinanceCard region={r.id} /></div>
     </>
   ) : (
     <div class="columns">
@@ -90,6 +92,7 @@ const lastOf = (b: string) => meetings.find((m) => m.body_id === b)?.date;
             <p style="margin:12px 0 0"><a href={url(r.id, 'valtuutetut')}><T k="showAll" /> →</a></p>
           </div>
         )}
+        <FinanceCard region={r.id} />
         <div class="card">
           <h3 style="margin-top:0"><T k="sources" /></h3>
           <dl class="kv">

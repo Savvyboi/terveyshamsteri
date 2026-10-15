@@ -370,3 +370,103 @@ export function partyLine(region: string, p: PersonStats): { agree: number; tota
   }
   return total ? { agree, total } : null;
 }
+
+// ------------------------------------------------------------------ finances
+export type FinKey = 'income' | 'sales' | 'fees' | 'grants_in' | 'other_income' | 'expenses' | 'staff' | 'purchases'
+  | 'materials' | 'grants_out' | 'other_expenses' | 'operating_margin' | 'state_funding' | 'financial'
+  | 'annual_margin' | 'depreciation' | 'result' | 'surplus' | 'investments' | 'loans' | 'person_years'
+  | 'balance_total' | 'equity' | 'liabilities' | 'past_surplus' | 'cumulative_surplus' | 'cash';
+export type FinLines = Partial<Record<FinKey, number>>;
+export interface FinDoc { key: string; report: 'HTAS' | 'HTPE' | 'HHKNR'; period: string; stage: string; approved: string;
+  url: string; columns: Record<string, FinLines> }
+export interface Finances { region: string; ytunnus: string; source: string; api: string; fetched_at: string;
+  years: string[]; documents: FinDoc[] }
+/** One column of a county's finance table: what the figures are and where they come from. */
+export interface FinColumn { year: number; kind: 'actual' | 'ytd' | 'forecast' | 'budget' | 'plan'; period?: string;
+  lines: FinLines; doc: FinDoc }
+
+const finCache = new Map<string, Finances | null>();
+export function financesOf(region: string): Finances | null {
+  if (!finCache.has(region)) {
+    finCache.set(region, DATA_DIR ? readJson<Finances | null>(path.join(DATA_DIR, 'finances', `${region}.json`), null) : null);
+  }
+  return finCache.get(region)!;
+}
+
+let popCache: { source?: string; regions?: Record<string, Record<string, { population: number; over64_share: number }>> } | null = null;
+/** Residents on 31 December of `year`, or the latest year we have before it. */
+export function populationOf(region: string, year?: number): { year: number; population: number; over64_share: number } | null {
+  popCache ??= DATA_DIR ? readJson(path.join(DATA_DIR, 'finances', 'population.json'), {}) : {};
+  const byYear = popCache.regions?.[region];
+  if (!byYear) return null;
+  const years = Object.keys(byYear).map(Number).filter((y) => !year || y <= year).sort((a, b) => b - a);
+  return years.length ? { year: years[0], ...byYear[String(years[0])] } : null;
+}
+export const populationSource = () => (populationOf('kainuu'), popCache?.source ?? '');
+
+/** The columns of a county's finance table in time order: results, the year so far, the
+ * forecast and budget for the current year, then the plan years. */
+export function financeColumns(region: string): FinColumn[] {
+  const f = financesOf(region);
+  if (!f) return [];
+  const docs = new Map(f.documents.map((d) => [d.key, d]));
+  const out: FinColumn[] = [];
+  const actualYears = f.documents.filter((d) => d.report === 'HHKNR' && d.period.endsWith('C12')).map((d) => +d.period.slice(0, 4));
+  const lastActual = Math.max(0, ...actualYears);
+  for (const y of actualYears.sort()) out.push({ year: y, kind: 'actual', lines: docs.get(`HHKNR/${y}C12`)!.columns[''] ?? {}, doc: docs.get(`HHKNR/${y}C12`)! });
+  const ytd = f.documents.filter((d) => d.report === 'HHKNR' && !d.period.endsWith('C12') && +d.period.slice(0, 4) > lastActual)
+    .sort((a, b) => a.period.localeCompare(b.period)).at(-1);
+  const cur = lastActual + 1;
+  if (ytd) out.push({ year: cur, kind: 'ytd', period: ytd.period, lines: ytd.columns[''] ?? {}, doc: ytd });
+  const fc = docs.get(`HTPE/${cur}`);
+  if (fc?.columns['']) out.push({ year: cur, kind: 'forecast', lines: fc.columns[''], doc: fc });
+  const budgets = f.documents.filter((d) => d.report === 'HTAS').sort((a, b) => a.period.localeCompare(b.period));
+  const b = docs.get(`HTAS/${cur}`);
+  if (b?.columns['0']) out.push({ year: cur, kind: 'budget', lines: b.columns['0'], doc: b });
+  const latest = budgets.at(-1);
+  if (latest) {
+    for (const off of ['1', '2']) {
+      const y = +latest.period + +off;
+      if (y > cur && latest.columns[off]) out.push({ year: y, kind: 'plan', lines: latest.columns[off], doc: latest });
+    }
+  }
+  return out;
+}
+
+export interface FinSummary {
+  region: Region; year: number; population: number | null; over64: number | null; actual: FinLines;
+  forecast: FinLines | null; budget: FinLines | null; ytd: FinColumn | null;
+  perCapita: (k: FinKey, lines?: FinLines | null) => number | null;
+}
+/** Headline figures for one county: the latest full year, and this year's forecast. */
+export function financeSummary(region: string): FinSummary | null {
+  const cols = financeColumns(region);
+  const actual = cols.filter((c) => c.kind === 'actual').at(-1);
+  if (!actual) return null;
+  const pop = populationOf(region, actual.year);
+  const forecast = cols.find((c) => c.kind === 'forecast')?.lines ?? null;
+  return {
+    region: regionById(region), year: actual.year, population: pop?.population ?? null, over64: pop?.over64_share ?? null,
+    actual: actual.lines, forecast, budget: cols.find((c) => c.kind === 'budget')?.lines ?? null,
+    ytd: cols.find((c) => c.kind === 'ytd') ?? null,
+    perCapita: (k, lines = actual.lines) => (pop && lines?.[k] != null ? lines[k]! / pop.population : null),
+  };
+}
+export const regionsWithFinances = () => load().regions.filter((r) => financesOf(r.id));
+
+/** Rows for the nationwide finance table and its CSV/JSON export. */
+export function financeRows() {
+  return regionsWithFinances().map((r) => {
+    const s = financeSummary(r.id)!;
+    const a = s.actual;
+    return {
+      region: r.id, name: r.short.fi, year: s.year, population: s.population,
+      expenses: a.expenses ?? null, state_funding: a.state_funding ?? null, surplus: a.surplus ?? null,
+      cumulative_surplus: a.cumulative_surplus ?? null, loans: a.loans ?? null,
+      expenses_per_resident: s.perCapita('expenses'), surplus_per_resident: s.perCapita('surplus'),
+      cumulative_per_resident: s.perCapita('cumulative_surplus'), loans_per_resident: s.perCapita('loans'),
+      forecast_surplus: s.forecast?.surplus ?? null, budget_surplus: s.budget?.surplus ?? null,
+      url: url(r.id, 'talous'),
+    };
+  });
+}

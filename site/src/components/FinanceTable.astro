@@ -1,0 +1,40 @@
+---
+// A county's income statement and key figures, one column per year and kind of figure.
+import T from './T.astro';
+import { type FinColumn, type FinKey } from '../lib/data';
+import { meur, num, tone } from '../lib/fmt';
+import type { Key } from '../lib/i18n';
+interface Props { cols: FinColumn[] }
+const { cols } = Astro.props;
+const ROWS: { k: FinKey; sub?: boolean; strong?: boolean; plain?: boolean }[] = [
+  { k: 'income' }, { k: 'fees', sub: true }, { k: 'sales', sub: true }, { k: 'grants_in', sub: true }, { k: 'other_income', sub: true },
+  { k: 'expenses' }, { k: 'staff', sub: true }, { k: 'purchases', sub: true }, { k: 'materials', sub: true },
+  { k: 'grants_out', sub: true }, { k: 'other_expenses', sub: true },
+  { k: 'operating_margin', strong: true }, { k: 'state_funding' }, { k: 'financial' },
+  { k: 'annual_margin', strong: true }, { k: 'depreciation' }, { k: 'surplus', strong: true },
+  { k: 'cumulative_surplus', strong: true }, { k: 'investments' }, { k: 'loans' }, { k: 'person_years', plain: true },
+];
+const rows = ROWS.filter((r) => cols.some((c) => c.lines[r.k] != null));
+const ytdLabel = (p?: string) => (p ? `1–${+p.slice(5)}/${p.slice(0, 4)}` : '');
+---
+<div class="table-wrap scroll fin-wrap">
+  <table class="data fin-table">
+    <thead>
+      <tr>
+        <th>M€</th>
+        {cols.map((c) => <th class={`num col-${c.kind}`}>{c.kind === 'ytd' ? ytdLabel(c.period) : c.year}<span class="sub"><T k={`col_${c.kind}` as Key} /></span></th>)}
+      </tr>
+    </thead>
+    <tbody>
+      {rows.map((r) => (
+        <tr class:list={[{ 'fin-sub': r.sub, 'fin-strong': r.strong }]}>
+          <th scope="row"><T k={`fin_${r.k}` as Key} /></th>
+          {cols.map((c) => {
+            const v = c.lines[r.k];
+            return <td class:list={['num', `col-${c.kind}`, r.strong && tone(v)]}>{v == null ? '–' : r.plain ? num(v) : meur(v).replace(' M€', '')}</td>;
+          })}
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</div>

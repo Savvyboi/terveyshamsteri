@@ -262,7 +262,7 @@ HVA = {region: f"HVA{i:02d}" for i, region in enumerate(YTUNNUS, start=1)}
 
 
 def fetch_population(data_dir: Path, fetcher: Fetcher | None = None, since: int = 2022) -> dict[str, Any]:
-    """Write data/population.json: residents on 31 Dec and the share aged 65+, per county and year."""
+    """Write data/finances/population.json: residents on 31 Dec and the share aged 65+, per county and year."""
     fetcher = fetcher or Fetcher(delay=1.0, timeout=60)
     meta = fetcher.get(POPULATION_API).json()
     area = next(v["code"] for v in meta["variables"] if "HVA01" in v["values"])
@@ -299,5 +299,6 @@ def fetch_population(data_dir: Path, fetcher: Fetcher | None = None, since: int 
                 "over64_share": value(**{area: code, "contentscode": "vaesto_yli64_p", time["code"]: y})}
             for y in years
         }
-    (data_dir / "population.json").write_text(json.dumps(out, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    (data_dir / "finances").mkdir(parents=True, exist_ok=True)
+    (data_dir / "finances" / "population.json").write_text(json.dumps(out, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     return out

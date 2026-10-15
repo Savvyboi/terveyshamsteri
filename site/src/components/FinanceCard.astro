@@ -1,0 +1,20 @@
+---
+// A county's headline finances for its overview page.
+import T from './T.astro';
+import { financeSummary, url } from '../lib/data';
+import { seur, smeur, tone } from '../lib/fmt';
+interface Props { region: string }
+const s = financeSummary(Astro.props.region);
+---
+{s && (
+  <div class="card">
+    <h3 style="margin-top:0"><T k="finances" /></h3>
+    <dl class="kv">
+      <dt><T k="fin_surplus" /> {s.year}</dt><dd class={tone(s.actual.surplus)}>{smeur(s.actual.surplus)}</dd>
+      <dt><T k="fin_cumulative_surplus" /></dt><dd class={tone(s.actual.cumulative_surplus)}>{smeur(s.actual.cumulative_surplus)}
+        <span class="note"> ({seur(s.perCapita('cumulative_surplus'))} <T k="perRes" />)</span></dd>
+      {s.forecast?.surplus != null && <><dt><T k="col_forecast" /> {s.year + 1}</dt><dd class={tone(s.forecast.surplus)}>{smeur(s.forecast.surplus)}</dd></>}
+    </dl>
+    <p style="margin:12px 0 0"><a href={url(Astro.props.region, 'talous')}><T k="showAll" /> →</a></p>
+  </div>
+)}
