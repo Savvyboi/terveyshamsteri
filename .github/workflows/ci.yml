@@ -114,3 +114,28 @@ jobs:
           name: probe-${{ matrix.region }}
           path: probe
           if-no-files-found: ignore
+
+  # Fetches one county's election table so changes to the Statistics Finland importer are
+  # checked against the live API. Informational, like the probes above.
+  elections-probe:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r scraper/requirements.txt
+      - name: Fetch Kainuu and Pohjanmaa
+        working-directory: scraper
+        run: python -m terveyshamsteri elections --data ../probe --region kainuu --region pohjanmaa
+      - name: Verdict
+        if: always()
+        run: |
+          python - <<'PY'
+          import json, pathlib
+          for p in sorted(pathlib.Path("probe/elections/2025").glob("*.json")):
+              d = json.loads(p.read_text())
+              print(f"::notice title=ELECTIONS {p.stem}::seats={d['seats']} votes={d['votes_total']} "
+                    f"parties={[(x['party'], x['seats']) for x in d['parties']]} people={len(d['people'])} first={d['people'][:2]}")
+          PY

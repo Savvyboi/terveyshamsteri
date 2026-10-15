@@ -3,21 +3,28 @@
 // The filter panels follow Vahtikissa's: one for search and filters, one for sorting.
 import T from './T.astro';
 import L from './L.astro';
-import { BODY_TYPES, load } from '../lib/data';
+import PartyTag from './PartyTag.astro';
+import { BODY_TYPES, load, partyMeta } from '../lib/data';
 import { strings, type Key } from '../lib/i18n';
 
 interface Props {
-  kind: 'meetings' | 'votes';
+  kind: 'meetings' | 'votes' | 'people';
   src: string;
   sorts: Key[];
   stageFilter?: boolean;
+  /** People tables filter by party and councillor status instead of body type and date. */
+  people?: boolean;
+  /** Regions to offer; defaults to those with minutes. */
+  regionIds?: string[];
+  parties?: string[];
 }
-const { kind, src, sorts, stageFilter } = Astro.props;
-const regions = load().regions.filter((r) => r.meetings > 0);
+const { kind, src, sorts, stageFilter, people, regionIds, parties = [] } = Astro.props;
+const regions = load().regions.filter((r) => (regionIds ? regionIds.includes(r.id) : r.meetings > 0));
 const regionNames = Object.fromEntries(regions.map((r) => [r.id, r.short]));
+const partyNames = Object.fromEntries(parties.map((p) => [p, partyMeta(p)]));
 const ui = strings([
   'date', 'region', 'body', 'meeting', 'items', 'result', 'intro', 'agenda', 'minutes', 'votes',
-  'jaa', 'ei', 'tyhja', 'poissa', 'showMore', 'noResults', 'shown', 'outOf', 'loading', 'itemsCount', 'votesCount', 'voteOne',
+  'jaa', 'ei', 'tyhja', 'poissa', 'showMore', 'councillors', 'electionVotes', 'councilAttendance', 'st_elected', 'st_deputy', 'incumbent', 'noResults', 'shown', 'outOf', 'loading', 'itemsCount', 'votesCount', 'voteOne',
   ...BODY_TYPES.map((t) => `type_${t}` as Key),
 ]);
 const paw = 'M12 13.2c-2.6 0-5.5 2.8-5.5 5.2 0 1.4 1 2.1 2.3 2.1 1.4 0 2.1-.8 3.2-.8s1.8.8 3.2.8c1.3 0 2.3-.7 2.3-2.1 0-2.4-2.9-5.2-5.5-5.2Zm-6.3-1.9c1.3-.4 1.8-2 1.2-3.6S4.8 5.9 3.5 6.3s-1.8 2-1.2 3.6 2.1 1.8 3.4 1.4Zm12.6 0c1.3.4 2.8-.3 3.4-1.4.6-1.6.1-3.2-1.2-3.6s-2.8.6-3.4 2.2c-.6 1.6-.1 3.3 1.2 2.8ZM9.2 8.6c1.5 0 2.6-1.5 2.6-3.3S10.7 2 9.2 2 6.6 3.5 6.6 5.3s1.1 3.3 2.6 3.3Zm5.6 0c1.5 0 2.6-1.5 2.6-3.3S16.3 2 14.8 2s-2.6 1.5-2.6 3.3 1.1 3.3 2.6 3.3Z';
@@ -38,12 +45,30 @@ const paw = 'M12 13.2c-2.6 0-5.5 2.8-5.5 5.2 0 1.4 1 2.1 2.3 2.1 1.4 0 2.1-.8 3.
           {regions.map((r) => <label><input type="checkbox" name="region" value={r.id} checked /> <L fi={r.short.fi!} sv={r.short.sv} /></label>)}
         </div>
       </fieldset>
-      <fieldset class="field">
-        <legend><T k="bodies" /></legend>
-        <div class="checks">
-          {BODY_TYPES.map((t) => <label><input type="checkbox" name="type" value={t} checked /> <T k={`type_${t}`} /></label>)}
-        </div>
-      </fieldset>
+      {people ? (
+        <>
+          <fieldset class="field">
+            <legend><T k="party" /> · <button type="button" class="linkish" data-all="party"><T k="all" /></button> / <button type="button" class="linkish" data-none="party"><T k="none" /></button></legend>
+            <div class="checks">
+              {parties.map((p) => <label><input type="checkbox" name="party" value={p} checked /> <PartyTag party={p} /></label>)}
+            </div>
+          </fieldset>
+          <fieldset class="field">
+            <legend><T k="status" /></legend>
+            <div class="checks">
+              <label><input type="checkbox" name="status" value="elected" checked /> <T k="st_elected" /></label>
+              <label><input type="checkbox" name="status" value="deputy" /> <T k="st_deputy" /></label>
+            </div>
+          </fieldset>
+        </>
+      ) : (
+        <fieldset class="field">
+          <legend><T k="bodies" /></legend>
+          <div class="checks">
+            {BODY_TYPES.map((t) => <label><input type="checkbox" name="type" value={t} checked /> <T k={`type_${t}`} /></label>)}
+          </div>
+        </fieldset>
+      )}
       {stageFilter && (
         <fieldset class="field">
           <legend><T k="stage" /></legend>
@@ -53,10 +78,12 @@ const paw = 'M12 13.2c-2.6 0-5.5 2.8-5.5 5.2 0 1.4 1 2.1 2.3 2.1 1.4 0 2.1-.8 3.
           </div>
         </fieldset>
       )}
-      <div class="field-row">
-        <label class="field"><span><T k="from" /></span><input type="date" name="from" /></label>
-        <label class="field"><span><T k="to" /></span><input type="date" name="to" /></label>
-      </div>
+      {!people && (
+        <div class="field-row">
+          <label class="field"><span><T k="from" /></span><input type="date" name="from" /></label>
+          <label class="field"><span><T k="to" /></span><input type="date" name="to" /></label>
+        </div>
+      )}
       <div><button type="button" class="linkish" data-reset><T k="reset" /></button></div>
     </div>
   </details>
@@ -78,5 +105,5 @@ const paw = 'M12 13.2c-2.6 0-5.5 2.8-5.5 5.2 0 1.4 1 2.1 2.3 2.1 1.4 0 2.1-.8 3.
   <div class="table-wrap"><table class="data stack"><thead></thead><tbody></tbody></table></div>
   <div class="more" hidden><button type="button" class="btn secondary" data-more><T k="showMore" /></button></div>
   <noscript><p class="note"><T k="needsJs" /></p></noscript>
-  <script type="application/json" class="dt-config" set:html={JSON.stringify({ regions: regionNames, ui })} />
+  <script type="application/json" class="dt-config" set:html={JSON.stringify({ regions: regionNames, parties: partyNames, ui })} />
 </div>

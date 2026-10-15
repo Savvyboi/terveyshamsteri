@@ -1,0 +1,16 @@
+---
+// One row of a person's voting record: the item, the vote's result and how they voted.
+import T from './T.astro';
+import { fmtDate, itemUrl, type Ballot } from '../lib/data';
+interface Props { b: Ballot; against: boolean }
+const { b, against } = Astro.props;
+const it = b.m.items[b.i];
+const c = b.v.counts as Record<string, number | undefined>;
+---
+<tr>
+  <td class="date">{fmtDate(b.m.date)}</td>
+  <td><a class="t" href={itemUrl(b.m, b.i)}>{it.number && `§ ${it.number} `}{it.title}</a>
+    <span class="sub">{b.m.body_name}{c.jaa != null && c.ei != null && <> · <T k="jaa" /> {c.jaa} – <T k="ei" /> {c.ei}</>}</span></td>
+  <td class="num"><span class={`side-chip ${b.side}`}><T k={b.side} /></span>
+    {against && <span class="sub against"><T k="againstParty" /></span>}</td>
+</tr>

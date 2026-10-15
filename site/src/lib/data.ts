@@ -6,7 +6,7 @@ import path from 'node:path';
 export type Lang = 'fi' | 'sv' | 'en';
 export type Bilingual = Partial<Record<Lang, string>>;
 
-export interface Vote { counts: Record<string, number>; context: string; provisional: boolean }
+export interface Vote { counts: Record<string, number>; context: string; provisional: boolean; names?: Record<string, string[]> }
 export interface Section { heading: string; text: string }
 export interface Attachment { title: string; url: string }
 export interface Participant { name: string; role: string; group: 'member' | 'other' | 'absent' }
@@ -110,11 +110,59 @@ export function url(...parts: string[]): string {
 export const meetingUrl = (m: Meeting) => url(m.region, m.body_id, meetingSlug(m));
 export const itemUrl = (m: Meeting, i: number) => url(m.region, m.body_id, meetingSlug(m), itemSlug(m, i));
 
+// ------------------------------------------------------------------ elections
+export interface Candidate {
+  id: string; name: string; official_name: string; party: string; votes: number | null; share: number | null;
+  status: 'elected' | 'deputy'; incumbent: boolean;
+}
+export interface PartyResult { party: string; votes: number; candidates: number; seats: number; share: number | null }
+export interface Election {
+  region: string; year: number; source: string; fetched_at: string; votes_total: number; seats: number;
+  parties: PartyResult[]; people: Candidate[];
+}
+export interface PartyMeta { fi: string; sv: string; en: string; color: string }
+
+const electionCache = new Map<string, Election | null>();
+export function electionOf(region: string): Election | null {
+  if (!electionCache.has(region)) {
+    electionCache.set(region, DATA_DIR ? readJson<Election | null>(path.join(DATA_DIR, 'elections', '2025', `${region}.json`), null) : null);
+  }
+  return electionCache.get(region)!;
+}
+let partyCache: Record<string, PartyMeta> | null = null;
+export function partyMeta(code: string): PartyMeta {
+  partyCache ??= DATA_DIR ? readJson(path.join(DATA_DIR, 'elections', 'parties.json'), {}) : {};
+  return partyCache![code] ?? { fi: code, sv: code, en: code, color: '#7a8494' };
+}
+/** Parties that won at least one seat anywhere, largest first. */
+export function partiesNationwide() {
+  const totals = new Map<string, { party: string; seats: number; votes: number; regions: number }>();
+  let votes = 0;
+  for (const r of load().regions) {
+    const e = electionOf(r.id);
+    if (!e) continue;
+    votes += e.votes_total;
+    for (const p of e.parties) {
+      const t = totals.get(p.party) ?? { party: p.party, seats: 0, votes: 0, regions: 0 };
+      t.seats += p.seats; t.votes += p.votes; t.regions += p.seats > 0 ? 1 : 0;
+      totals.set(p.party, t);
+    }
+  }
+  return [...totals.values()].filter((t) => t.seats > 0)
+    .map((t) => ({ ...t, share: votes ? Math.round((1000 * t.votes) / votes) / 10 : null }))
+    .sort((a, b) => b.seats - a.seats || b.votes - a.votes);
+}
+export const partySlug = (code: string) => code.toLowerCase();
+
 // ------------------------------------------------------------------ people
 export interface PersonStats {
   slug: string; name: string; roles: Set<string>; present: number; absent: number;
   bodies: Map<string, { present: number; absent: number }>; meetings: { m: Meeting; group: string; role: string }[];
   member: boolean;
+  /** Set when the person is a councillor or deputy elected in 2025. */
+  elected?: Candidate;
+  /** Attendance at full council meetings. */
+  council: { present: number; absent: number };
 }
 
 export function slugify(s: string): string {
@@ -122,27 +170,74 @@ export function slugify(s: string): string {
     .replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 }
 
+/** Minutes write names "Surname Firstname" or "Firstname Surname"; compare them as sets of words. */
+const nameTokens = (s: string) => s.toLowerCase().normalize('NFC').split(/\s+/).filter(Boolean);
+const nameKey = (s: string) => nameTokens(s).sort().join(' ');
+
+const peopleCache = new Map<string, PersonStats[]>();
+const nameIndex = new Map<string, Map<string, PersonStats>>();
 export function peopleOf(region: string): PersonStats[] {
+  if (peopleCache.has(region)) return peopleCache.get(region)!;
+  const election = electionOf(region);
+  const byKey = new Map<string, Candidate>();
+  for (const c of election?.people ?? []) byKey.set(nameKey(c.name), c);
+  // Fallback for middle names: a councillor whose words are all in the minutes name, if unique.
+  const fuzzy = (name: string): Candidate | undefined => {
+    const toks = new Set(nameTokens(name));
+    const hits = (election?.people ?? []).filter((c) => nameTokens(c.name).every((t) => toks.has(t)));
+    return hits.length === 1 ? hits[0] : undefined;
+  };
+
   const people = new Map<string, PersonStats>();
+  const names = new Map<string, PersonStats>();
+  const blank = (name: string, elected?: Candidate): PersonStats => ({
+    slug: slugify(elected ? elected.name : name), name: elected ? elected.name : name, roles: new Set(),
+    present: 0, absent: 0, bodies: new Map(), meetings: [], member: !!elected, elected,
+    council: { present: 0, absent: 0 },
+  });
   for (const m of meetingsOf(region)) {
     if (m.stage === 'agenda') continue;
+    const isCouncil = bodyTypeOf(region, m.body_id) === 'council';
     for (const p of m.participants) {
-      const slug = slugify(p.name);
-      if (!slug) continue;
-      let s = people.get(slug);
-      if (!s) {
-        s = { slug, name: p.name, roles: new Set(), present: 0, absent: 0, bodies: new Map(), meetings: [], member: false };
-        people.set(slug, s);
-      }
+      if (!slugify(p.name)) continue;
+      const elected = byKey.get(nameKey(p.name)) ?? (p.group !== 'other' ? fuzzy(p.name) : undefined);
+      const key = elected ? `c:${elected.id}` : nameKey(p.name);
+      let s = people.get(key);
+      if (!s) { s = blank(p.name, elected); people.set(key, s); }
+      names.set(p.name, s);
       const b = s.bodies.get(m.body_id) || { present: 0, absent: 0 };
       if (p.group === 'absent') { s.absent++; b.absent++; } else { s.present++; b.present++; }
+      if (isCouncil && p.group !== 'other') { if (p.group === 'absent') s.council.absent++; else s.council.present++; }
       if (p.group !== 'other') s.member = true;
       if (p.role) s.roles.add(p.role);
       s.bodies.set(m.body_id, b);
       s.meetings.push({ m, group: p.group, role: p.role });
     }
   }
-  return [...people.values()].sort((a, b) => a.name.localeCompare(b.name, 'fi'));
+  // Councillors who have not appeared in any minutes we hold still get a page.
+  for (const c of election?.people ?? []) {
+    if (!people.has(`c:${c.id}`)) people.set(`c:${c.id}`, blank(c.name, c));
+  }
+  // Slugs must be unique within a region.
+  const seen = new Map<string, number>();
+  const out = [...people.values()].sort((a, b) => a.name.localeCompare(b.name, 'fi'));
+  for (const p of out) {
+    const n = (seen.get(p.slug) ?? 0) + 1;
+    seen.set(p.slug, n);
+    if (n > 1) p.slug = `${p.slug}-${n}`;
+  }
+  peopleCache.set(region, out);
+  nameIndex.set(region, names);
+  return out;
+}
+
+export const councillorsOf = (region: string) => peopleOf(region).filter((p) => p.elected);
+export const personUrl = (region: string, p: PersonStats) => url(region, 'henkilot', p.slug);
+
+/** The person a name in a meeting's participant list belongs to. */
+export function personByName(region: string, name: string): PersonStats | undefined {
+  peopleOf(region);
+  return nameIndex.get(region)!.get(name);
 }
 
 export function votesOf(region: string) {
@@ -188,4 +283,90 @@ export function voteRows() {
     }
   }
   return out;
+}
+
+/** Rows for the nationwide councillors table. */
+export function peopleRows() {
+  return load().regions.flatMap((r) => councillorsOf(r.id).map((p) => ({
+    name: p.name, region: r.id, party: p.elected!.party, status: p.elected!.status, incumbent: p.elected!.incumbent,
+    votes: p.elected!.votes, present: p.council.present, absent: p.council.absent, url: personUrl(r.id, p),
+  })));
+}
+
+export const regionsWithElections = () => load().regions.filter((r) => electionOf(r.id));
+
+// ------------------------------------------------------------------ named votes
+export type Side = 'jaa' | 'ei' | 'tyhja' | 'poissa';
+export interface Ballot { m: Meeting; i: number; v: Vote; side: Side }
+
+/** The person behind a voter name in a meeting's vote. Minutes write voters as full names in
+ * either order or as surnames only ("Eskola Tapani" when two share a surname), so the name
+ * is matched against the people present at that meeting. */
+export function voterOf(m: Meeting, voter: string): PersonStats | undefined {
+  const toks = nameTokens(voter);
+  if (!toks.length) return undefined;
+  const exact = m.participants.find((p) => nameKey(p.name) === nameKey(voter));
+  if (exact) return personByName(m.region, exact.name);
+  const hits = m.participants.filter((p) => p.group !== 'other' && toks.every((t) => nameTokens(p.name).includes(t)));
+  if (hits.length === 1) return personByName(m.region, hits[0].name);
+  const e = electionOf(m.region)?.people.filter((c) => toks.every((t) => nameTokens(c.name).includes(t))) ?? [];
+  if (e.length === 1) return peopleOf(m.region).find((p) => p.elected?.id === e[0].id);
+  return undefined;
+}
+
+const ballotCache = new Map<string, Map<PersonStats, Ballot[]>>();
+/** Every named ballot in a region, by person. */
+export function ballotsOf(region: string): Map<PersonStats, Ballot[]> {
+  if (ballotCache.has(region)) return ballotCache.get(region)!;
+  const out = new Map<PersonStats, Ballot[]>();
+  for (const m of meetingsOf(region)) {
+    m.items.forEach((it, i) => it.votes.forEach((v) => {
+      for (const [side, names] of Object.entries(v.names ?? {})) {
+        for (const n of names) {
+          const p = voterOf(m, n);
+          if (!p) continue;
+          if (!out.has(p)) out.set(p, []);
+          out.get(p)!.push({ m, i, v, side: side as Side });
+        }
+      }
+    }));
+  }
+  ballotCache.set(region, out);
+  return out;
+}
+
+/** Votes by party for one named vote; voters who could not be matched are counted under '?'. */
+const splitCache = new WeakMap<Vote, ReturnType<typeof splitOf>>();
+export function partySplit(m: Meeting, v: Vote) {
+  if (!splitCache.has(v)) splitCache.set(v, splitOf(m, v));
+  return splitCache.get(v)!;
+}
+function splitOf(m: Meeting, v: Vote) {
+  const rows = new Map<string, Record<Side, number>>();
+  for (const [side, names] of Object.entries(v.names ?? {})) {
+    for (const n of names) {
+      const party = voterOf(m, n)?.elected?.party ?? '?';
+      const r = rows.get(party) ?? { jaa: 0, ei: 0, tyhja: 0, poissa: 0 };
+      r[side as Side]++;
+      rows.set(party, r);
+    }
+  }
+  return [...rows.entries()].map(([party, c]) => ({ party, ...c }))
+    .sort((a, b) => (a.party === '?' ? 1 : b.party === '?' ? -1 : 0) || (b.jaa + b.ei + b.tyhja) - (a.jaa + a.ei + a.tyhja));
+}
+
+/** How often a person voted with the majority of their own party, over named votes. */
+export function partyLine(region: string, p: PersonStats): { agree: number; total: number } | null {
+  if (!p.elected) return null;
+  let agree = 0, total = 0;
+  for (const b of ballotsOf(region).get(p) ?? []) {
+    if (b.side !== 'jaa' && b.side !== 'ei') continue;
+    const row = partySplit(b.m, b.v).find((r) => r.party === p.elected!.party);
+    if (!row || row.jaa + row.ei < 2) continue;
+    const majority = row.jaa > row.ei ? 'jaa' : row.ei > row.jaa ? 'ei' : null;
+    if (!majority) continue;
+    total++;
+    if (b.side === majority) agree++;
+  }
+  return total ? { agree, total } : null;
 }

@@ -2,7 +2,7 @@
 import Layout from '../../../../layouts/Layout.astro';
 import T from '../../../../components/T.astro';
 import Breadcrumbs from '../../../../components/Breadcrumbs.astro';
-import { fmtDate, itemUrl, load, meetingSlug, regionById, slugify, url, type Meeting } from '../../../../lib/data';
+import { fmtDate, itemUrl, load, meetingSlug, personByName, personUrl, regionById, url, type Meeting } from '../../../../lib/data';
 
 export function getStaticPaths() {
   return load().meetings.map((m) => ({ params: { region: m.region, body: m.body_id, meeting: meetingSlug(m) }, props: { m } }));
@@ -12,7 +12,7 @@ const r = regionById(m.region);
 const members = m.participants.filter((p) => p.group === 'member');
 const absent = m.participants.filter((p) => p.group === 'absent');
 const others = m.participants.filter((p) => p.group === 'other');
-const person = (name: string) => url(m.region, 'henkilot', slugify(name));
+const person = (name: string) => { const p = personByName(m.region, name); return p ? personUrl(m.region, p) : undefined; };
 ---
 <Layout title={`${m.body_name} ${fmtDate(m.date)} – ${r.short.fi}`}>
   <Breadcrumbs trail={[{ href: url(r.id), fi: r.short.fi, sv: r.short.sv }, { href: url(r.id, m.body_id), label: m.body_name }, { label: fmtDate(m.date) }]} />

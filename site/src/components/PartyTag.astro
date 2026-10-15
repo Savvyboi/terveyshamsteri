@@ -1,0 +1,10 @@
+---
+// A party's colour dot and abbreviation, with its full name for screen readers and hover.
+import { partyMeta } from '../lib/data';
+interface Props { party: string; full?: boolean }
+const { party, full } = Astro.props;
+const p = partyMeta(party);
+---
+<span class="party" title={p.fi}><i class="party-dot" style={`background:${p.color}`}></i>{full
+  ? <><span class="fi" lang="fi">{p.fi}</span><span class="sv" lang="sv">{p.sv}</span>{p.en !== p.fi && <span class="en" lang="en">{p.en}</span>}</>
+  : <abbr title={p.fi}>{party}</abbr>}</span>

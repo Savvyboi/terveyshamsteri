@@ -1,0 +1,23 @@
+{
+ "version": "2.0", "class": "dataset", "label": "Ehdokkaiden äänimäärä ja valintatieto aluevaaleissa, Kainuun hyvinvointialue, 2025",
+ "id": ["timeperiod_y", "vaaliehdokas_26_20250101", "contentscode"],
+ "size": [1, 4, 5],
+ "dimension": {
+  "timeperiod_y": {"category": {"index": {"2025": 0}, "label": {"2025": "2025"}}},
+  "vaaliehdokas_26_20250101": {"category": {
+   "index": {"20999012176": 0, "20999012177": 1, "20999012300": 2, "20999012301": 3},
+   "label": {"20999012176": "Aaltonen Heikki / KOK / Kainuun hyvinvointialue",
+             "20999012177": "Aho Timo / KOK / Kainuun hyvinvointialue",
+             "20999012300": "Kemppainen Anna-Liisa / KESK / Kainuun hyvinvointialue",
+             "20999012301": "von Hertzen Eva / VIHR / Kainuun hyvinvointialue"}}},
+  "contentscode": {"category": {
+   "index": {"alvaa-aanet_yht": 0, "alvaa-aanet_enn": 1, "alvaa-osuus_aanista": 2, "alvaa_valinta": 3, "alvaa_aluevalt": 4},
+   "label": {"alvaa-aanet_yht": "Äänimäärä yhteensä (lkm.)"}}}
+ },
+ "value": [
+  512, 300, 1.2, 1, 1,
+  40, 20, 0.1, 3, 3,
+  1203, 800, 2.9, 1, 3,
+  95, 50, 0.2, 2, 3
+ ]
+}

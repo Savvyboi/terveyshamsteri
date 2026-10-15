@@ -2,6 +2,7 @@
 // view can be shared; exports download exactly the rows that pass the filters.
 (function () {
   var PAGE = 50;
+  var FILTERS = ['region', 'type', 'stage', 'party', 'status'];
 
   function el(tag, attrs, kids) {
     var e = document.createElement(tag);
@@ -36,23 +37,22 @@
     // ------------------------------------------------------------ URL state
     function readUrl() {
       var p = new URLSearchParams(location.search);
-      if (p.get('q')) form.q.value = p.get('q');
-      if (p.get('from')) form.from.value = p.get('from');
-      if (p.get('to')) form.to.value = p.get('to');
-      ['region', 'type', 'stage'].forEach(function (name) {
+      ['q', 'from', 'to'].forEach(function (k) { if (form[k] && p.get(k)) form[k].value = p.get(k); });
+      FILTERS.forEach(function (name) {
         if (!p.has(name)) return;
-        var want = p.get(name).split(',');
+        var want = p.get(name) === '-' ? [] : p.get(name).split(',');
         root.querySelectorAll('[name=' + name + ']').forEach(function (c) { c.checked = want.indexOf(c.value) >= 0; });
       });
       if (p.get('sort')) root.querySelectorAll('[name=sort]').forEach(function (c) { c.checked = c.value === p.get('sort'); });
     }
     function writeUrl() {
       var p = new URLSearchParams(location.search);
-      ['q', 'from', 'to'].forEach(function (k) { if (form[k].value) p.set(k, form[k].value); else p.delete(k); });
-      ['region', 'type', 'stage'].forEach(function (name) {
+      ['q', 'from', 'to'].forEach(function (k) { if (form[k] && form[k].value) p.set(k, form[k].value); else p.delete(k); });
+      FILTERS.forEach(function (name) {
         var all = root.querySelectorAll('[name=' + name + ']');
         var on = checked(name);
-        if (!all.length || on.length === all.length) p.delete(name); else p.set(name, on.join(','));
+        var dflt = Array.prototype.filter.call(all, function (c) { return c.defaultChecked; }).map(function (c) { return c.value; });
+        if (!all.length || on.join(',') === dflt.join(',')) p.delete(name); else p.set(name, on.join(',') || '-');
       });
       if (sortKey() !== root.querySelector('[name=sort]').value) p.set('sort', sortKey()); else p.delete('sort');
       var qs = p.toString();
@@ -62,23 +62,27 @@
     // ------------------------------------------------------------- filtering
     function apply() {
       var q = form.q.value.trim().toLowerCase();
-      var regions = checked('region'), types = checked('type');
-      var stages = root.querySelector('[name=stage]') ? checked('stage') : null;
-      var from = form.from.value, to = form.to.value;
+      var sets = {};
+      FILTERS.forEach(function (name) { if (root.querySelector('[name=' + name + ']')) sets[name] = checked(name); });
+      var field = { region: 'region', type: 'bodyType', stage: 'stage', party: 'party', status: 'status' };
+      var from = form.from ? form.from.value : '', to = form.to ? form.to.value : '';
       filtered = rows.filter(function (r) {
-        if (regions.indexOf(r.region) < 0 || types.indexOf(r.bodyType) < 0) return false;
-        if (stages && stages.indexOf(r.stage) < 0) return false;
+        for (var name in sets) if (sets[name].indexOf(r[field[name]]) < 0) return false;
         if (from && r.date < from) return false;
         if (to && r.date > to) return false;
-        if (q && (r.title || '').toLowerCase().indexOf(q) < 0 && r.body.toLowerCase().indexOf(q) < 0) return false;
+        if (q && [r.title, r.body, r.name].every(function (v) { return !v || v.toLowerCase().indexOf(q) < 0; })) return false;
         return true;
       });
       var s = sortKey();
+      var att = function (r) { return r.present + r.absent ? r.present / (r.present + r.absent) : -1; };
       var margin = function (r) { return r.jaa == null || r.ei == null ? 1e9 : Math.abs(r.jaa - r.ei); };
       filtered.sort(function (a, b) {
         if (s === 'oldest') return a.date.localeCompare(b.date);
         if (s === 'mostItems') return b.items - a.items || b.date.localeCompare(a.date);
         if (s === 'closest') return margin(a) - margin(b) || b.date.localeCompare(a.date);
+        if (s === 'mostVotes') return (b.votes || 0) - (a.votes || 0);
+        if (s === 'bestAttendance') return att(b) - att(a) || (b.votes || 0) - (a.votes || 0);
+        if (s === 'alphabetical') return a.name.localeCompare(b.name, 'fi');
         return b.date.localeCompare(a.date);
       });
       shown = PAGE;
@@ -90,6 +94,7 @@
     var HEAD = {
       meetings: [['date'], ['meeting'], ['region'], ['items', 'num']],
       votes: [['date'], ['intro'], ['result']],
+      people: [['councillors'], ['region'], ['electionVotes', 'num'], ['councilAttendance', 'num']],
     };
     function header() {
       thead.innerHTML = '';
@@ -106,6 +111,22 @@
       return el('div', { class: 'votebar compact' }, [track, legend]);
     }
     function row(r) {
+      if (kind === 'people') {
+        var pm = cfg.parties[r.party] || { color: '#7a8494', fi: r.party };
+        var total = r.present + r.absent;
+        var pct = total ? Math.round(100 * r.present / total) : null;
+        return el('tr', {}, [
+          el('td', {}, [el('a', { class: 't', href: r.url, text: r.name }),
+            el('span', { class: 'sub' }, [
+              el('span', { class: 'party', title: pm[lang()] || pm.fi }, [el('i', { class: 'party-dot', style: 'background:' + pm.color }), el('abbr', { text: r.party })]),
+              ' · ' + t('st_' + r.status) + (r.incumbent ? ' · ' + t('incumbent') : '')])]),
+          el('td', { text: regionName(r.region) }),
+          el('td', { class: 'num', text: r.votes == null ? '–' : r.votes.toLocaleString('fi-FI') }),
+          el('td', { class: 'num' }, pct == null ? ['–'] : [
+            el('span', { class: 'pct-cell' }, [el('span', { class: 'meter' }, [el('span', { style: 'width:' + pct + '%' })]), pct + ' %']),
+            el('span', { class: 'note', text: r.present + '/' + total })]),
+        ]);
+      }
       var date = el('td', { class: 'date', text: fmtDate(r.date) });
       if (kind === 'meetings') {
         var stage = el('span', { class: r.stage === 'agenda' ? 'chip agenda' : 'chip muted', text: t(r.stage) });
@@ -168,8 +189,8 @@
       });
     });
     root.querySelector('[data-reset]').addEventListener('click', function () {
-      form.q.value = form.from.value = form.to.value = '';
-      root.querySelectorAll('input[type=checkbox]').forEach(function (c) { c.checked = true; });
+      ['q', 'from', 'to'].forEach(function (k) { if (form[k]) form[k].value = ''; });
+      root.querySelectorAll('input[type=checkbox]').forEach(function (c) { c.checked = c.defaultChecked; });
       apply();
     });
     root.querySelector('[data-more]').addEventListener('click', function () { shown += PAGE * 2; render(); });

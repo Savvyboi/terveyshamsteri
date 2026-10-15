@@ -2,6 +2,7 @@
 import Layout from '../../../layouts/Layout.astro';
 import T from '../../../components/T.astro';
 import L from '../../../components/L.astro';
+import PartyTag from '../../../components/PartyTag.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import { load, peopleOf, url, type Region } from '../../../lib/data';
 
@@ -30,7 +31,7 @@ const rate = (p: { present: number; absent: number }) => Math.round((p.present /
   <ul class="list" data-filterable>
     {elected.map((p) => (
       <li data-name={p.name.toLowerCase()}><a class="row" href={url(r.id, 'henkilot', p.slug)}>
-        <span class="title">{p.name}<span class="sub">{[...p.roles].slice(0, 3).join(', ')}</span></span>
+        <span class="title">{p.name}<span class="sub">{p.elected && <><PartyTag party={p.elected.party} /> · </>}{[...p.roles].slice(0, 3).join(', ')}</span></span>
         <span class="side" style="display:flex;align-items:center;gap:8px">
           <span class="meter" title={`${rate(p)} %`}><span style={`width:${rate(p)}%`}></span></span>
           {p.present}/{p.present + p.absent}
