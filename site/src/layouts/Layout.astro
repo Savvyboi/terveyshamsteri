@@ -3,7 +3,7 @@ import '../styles/global.css';
 import T from '../components/T.astro';
 import Hamster from '../components/Hamster.astro';
 import { IS_SAMPLE, load, url } from '../lib/data';
-import { S, strings, type Key } from '../lib/i18n';
+import { S, type Key } from '../lib/i18n';
 
 interface Props { title?: string; titleSv?: string; description?: string; wide?: boolean }
 const { title, description } = Astro.props;
@@ -24,7 +24,6 @@ const nav: { href: string; k: Key }[] = [
   { href: url('tietoa'), k: 'about' },
 ];
 const current = (href: string) => (href === url() ? path === href : path.startsWith(href)) ? 'page' : undefined;
-const ui = strings(['search', 'searchPlaceholder', 'themeLight', 'themeDark', 'themeContrast', 'menu', 'close']);
 ---
 <!doctype html>
 <html lang="fi" data-lang="fi">
@@ -42,20 +41,7 @@ const ui = strings(['search', 'searchPlaceholder', 'themeLight', 'themeDark', 't
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,600;6..72,700&display=swap" rel="stylesheet" />
-  <script is:inline>
-    // Language: ?lang= > saved choice > browser language. Theme: saved choice > system setting.
-    (function () {
-      var d = document.documentElement, saved = {};
-      try { saved = { lang: localStorage.getItem('lang'), theme: localStorage.getItem('theme') }; } catch (e) {}
-      var nav = (navigator.language || '').slice(0, 2);
-      var lang = new URLSearchParams(location.search).get('lang') || saved.lang || (nav === 'sv' || nav === 'en' ? nav : 'fi');
-      if (['fi', 'sv', 'en'].indexOf(lang) < 0) lang = 'fi';
-      d.dataset.lang = lang; d.lang = lang;
-      var theme = saved.theme || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark'
-        : matchMedia('(prefers-contrast: more)').matches ? 'contrast' : 'light');
-      d.dataset.theme = theme;
-    })();
-  </script>
+  <script is:inline src={`${base}/boot.js`}></script>
 </head>
 <body>
   <a class="skip" href="#main"><T k="skip" /></a>
@@ -82,9 +68,10 @@ const ui = strings(['search', 'searchPlaceholder', 'themeLight', 'themeDark', 't
         <button type="button" class="tool" data-search-open><T k="search" /> <kbd>Ctrl K</kbd></button>
       </div>
     </div>
+    {/* site.js copies the links from .nav when the menu first opens */}
     <div class="menu-panel" id="menu-panel">
       <nav class="wrap" aria-label="Valikko">
-        <ul>{nav.map((n) => <li><a href={n.href} aria-current={current(n.href)}><T k={n.k} /></a></li>)}</ul>
+        <ul></ul>
       </nav>
     </div>
   </header>
@@ -111,7 +98,6 @@ const ui = strings(['search', 'searchPlaceholder', 'themeLight', 'themeDark', 't
     </div>
     <div class="dialog-body"><div id="search-modal" class="pf"></div></div>
   </dialog>
-  <script is:inline define:vars={{ base, ui }}>window.TH = { base: base, ui: ui };</script>
   <script is:inline src={`${base}/site.js`} defer></script>
 </body>
 </html>

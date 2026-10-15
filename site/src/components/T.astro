@@ -1,7 +1,8 @@
 ---
-// One UI string in every language; CSS shows the reader's choice.
+// One UI string in every language; CSS shows the reader's choice. The <u-i> wrapper keeps
+// these labels out of the search index (pagefind --exclude-selectors u-i).
 import { S, type Key } from '../lib/i18n';
 interface Props { k: Key }
 const s = S[Astro.props.k] as { fi: string; sv: string; en?: string };
 ---
-<span class="fi" lang="fi" data-pagefind-ignore>{s.fi}</span><span class="sv" lang="sv" data-pagefind-ignore>{s.sv}</span>{s.en && s.en !== s.fi && <span class="en" lang="en" data-pagefind-ignore>{s.en}</span>}
+<u-i><span class="fi" lang="fi">{s.fi}</span><span class="sv" lang="sv">{s.sv}</span>{s.en && s.en !== s.fi && <span class="en" lang="en">{s.en}</span>}</u-i>
