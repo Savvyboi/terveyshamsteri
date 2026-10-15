@@ -5,6 +5,7 @@
   python -m terveyshamsteri index --data ../data     # write regions.json + status.json
   python -m terveyshamsteri reextract --data ../data # re-run vote extraction on stored meetings
   python -m terveyshamsteri elections --data ../data [--region kainuu] [--refresh]
+  python -m terveyshamsteri finances --data ../data [--region kainuu]
 """
 
 from __future__ import annotations
@@ -17,6 +18,7 @@ from pathlib import Path
 
 from .config import load_regions
 from .elections import fetch_elections
+from .finances import fetch_finances, fetch_population
 from .index import build_index
 from .run import reextract_votes, scrape_region
 
@@ -48,6 +50,10 @@ def main(argv: list[str] | None = None) -> int:
     el.add_argument("--region", action="append", help="only these regions (repeatable)")
     el.add_argument("--refresh", action="store_true", help="refetch counties already on disk")
 
+    fi = sub.add_parser("finances", help="fetch county finances from the State Treasury")
+    fi.add_argument("--data", type=Path, required=True)
+    fi.add_argument("--region", action="append", help="only these regions (repeatable)")
+
     args = ap.parse_args(argv)
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
     regions = load_regions(args.regions_dir)
@@ -66,6 +72,16 @@ def main(argv: list[str] | None = None) -> int:
         return 0
     if args.cmd == "elections":
         results = fetch_elections(args.data, regions=args.region, refresh=args.refresh)
+        print(json.dumps(results, ensure_ascii=False, indent=1))
+        return 0 if any(not v.startswith("error") for v in results.values()) else 1
+    if args.cmd == "finances":
+        results = fetch_finances(args.data, regions=args.region)
+        try:
+            pop = fetch_population(args.data)
+            results["population"] = f"ok ({len(pop['regions'])} counties)"
+        except Exception as e:  # noqa: BLE001 - population is optional context
+            logging.exception("population failed")
+            results["population"] = f"error: {e!r}"
         print(json.dumps(results, ensure_ascii=False, indent=1))
         return 0 if any(not v.startswith("error") for v in results.values()) else 1
     if args.cmd == "index":

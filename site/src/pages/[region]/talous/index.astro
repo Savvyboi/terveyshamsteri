@@ -1,0 +1,65 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import T from '../../../components/T.astro';
+import L from '../../../components/L.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import FinanceTable from '../../../components/FinanceTable.astro';
+import SurplusChart from '../../../components/SurplusChart.astro';
+import { financeColumns, financeSummary, financesOf, load, populationSource, url, type Region } from '../../../lib/data';
+import { eur, meur, num, seur, smeur, tone } from '../../../lib/fmt';
+import type { Key } from '../../../lib/i18n';
+
+export function getStaticPaths() {
+  return load().regions.map((r) => ({ params: { region: r.id }, props: { r } }));
+}
+const { r } = Astro.props as { r: Region };
+const f = financesOf(r.id);
+const cols = financeColumns(r.id);
+const s = financeSummary(r.id);
+const a = s?.actual ?? {};
+const docName: Record<string, Key> = { HHKNR: 'col_actual', HTAS: 'col_budget', HTPE: 'col_forecast' };
+---
+<Layout title={`Talous – ${r.short.fi}`}>
+  <Breadcrumbs trail={[{ href: url('alueet'), fi: 'Hyvinvointialueet', sv: 'Välfärdsområden', en: 'Counties' }, { href: url(r.id), fi: r.short.fi!, sv: r.short.sv }, { fi: 'Talous', sv: 'Ekonomi', en: 'Finances' }]} />
+  <div class="page-head">
+    <p class="kicker"><L fi={r.name.fi!} sv={r.name.sv} en={r.name.en} /></p>
+    <h1><T k="finances" /></h1>
+    <p class="lead"><T k="regionFinancesLead" /></p>
+    {f && <p class="note"><a href={f.source}><T k="source_treasury" /> ↗</a> · <a href={url('talous')}><T k="allCounties" /> →</a></p>}
+  </div>
+  {!f || !s ? <p><T k="noFinances" /></p> : (
+    <>
+      <dl class="profile">
+        <div><dt><T k="fin_surplus" /> {s.year}</dt><dd class={tone(a.surplus)}>{smeur(a.surplus)}</dd>
+          <p class="note" style="margin:2px 0 0">{seur(s.perCapita('surplus'))} <T k="perRes" /></p></div>
+        <div><dt><T k="fin_cumulative_surplus" /></dt><dd class={tone(a.cumulative_surplus)}>{smeur(a.cumulative_surplus)}</dd>
+          <p class="note" style="margin:2px 0 0">{seur(s.perCapita('cumulative_surplus'))} <T k="perRes" /> · 31.12.{s.year}</p></div>
+        {s.forecast?.surplus != null && <div><dt><T k="col_forecast" /> {s.year + 1}</dt><dd class={tone(s.forecast.surplus)}>{smeur(s.forecast.surplus)}</dd>
+          {s.budget?.surplus != null && <p class="note" style="margin:2px 0 0"><T k="col_budget" />: {smeur(s.budget.surplus)}</p>}</div>}
+        <div><dt><T k="fin_expenses" /> {s.year}</dt><dd>{meur(a.expenses)}</dd>
+          <p class="note" style="margin:2px 0 0">{eur(s.perCapita('expenses'))} <T k="perRes" /></p></div>
+        <div><dt><T k="fin_loans" /></dt><dd>{meur(a.loans)}</dd>
+          {s.population && <p class="note" style="margin:2px 0 0">{num(s.population)} <T k="residentsLc" /> · <T k="over64" /> {s.over64?.toLocaleString('fi-FI')} %</p>}</div>
+      </dl>
+
+      <h2><T k="surplusByYear" /></h2>
+      <SurplusChart cols={cols} />
+
+      <h2><T k="financeLines" /></h2>
+      <FinanceTable cols={cols} />
+      <p class="note" style="max-width:52rem"><T k="finNote" /></p>
+
+      <details class="panel" style="margin-top:20px">
+        <summary><T k="reportsUsed" /> ({f.documents.length})</summary>
+        <div class="panel-body">
+          <ul style="margin:0;padding-left:1.1em">
+            {f.documents.map((d) => (
+              <li><a href={d.url}>{d.report} {d.period}</a> · <T k={docName[d.report]} /> · {d.stage} {d.approved?.slice(0, 10)}</li>
+            ))}
+          </ul>
+          <p class="note"><a href={f.source}><T k="source_treasury" /> ↗</a> · <a href={populationSource()}><T k="source_population" /> ↗</a></p>
+        </div>
+      </details>
+    </>
+  )}
+</Layout>
