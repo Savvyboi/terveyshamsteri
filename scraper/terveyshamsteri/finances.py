@@ -86,6 +86,10 @@ LINES = {
     "oma pääoma": "equity",
     "vieras pääoma": "liabilities",
     "edellisten tilikausien ylijäämä (alijäämä)": "past_surplus",
+    "pitkäaikainen (korollinen vieras pääoma)": "loans_long",
+    "lyhytaikainen (korollinen vieras pääoma)": "loans_short",
+    "rahat ja pankkisaamiset": "cash",
+    "investointimenot": "investments",
 }
 # Top-level lines whose sub-lines share a name with another top-level line ("Avustukset").
 TOP_ONLY = {"income", "expenses", "operating_margin", "state_funding", "financial", "annual_margin",
@@ -167,7 +171,11 @@ def derive(lines: dict[str, float]) -> dict[str, float]:
         d["annual_margin"] = d["operating_margin"] + d.get("state_funding", 0) + d.get("financial", 0)
     if "result" not in d and "annual_margin" in d and "depreciation" in d:
         d["result"] = d["annual_margin"] - d["depreciation"]
-    # Account balances store costs as positive numbers and the margin with its sign.
+    if "loans" not in d and ("loans_long" in d or "loans_short" in d):
+        d["loans"] = d.pop("loans_long", 0) + d.pop("loans_short", 0)
+    # The balance sheet's accumulated surplus or deficit, including the current period.
+    if "past_surplus" in d and "surplus" in d:
+        d["cumulative_surplus"] = d["past_surplus"] + d["surplus"]
     return {k: round(v) for k, v in d.items()}
 
 
@@ -231,7 +239,8 @@ def fetch_finances(data_dir: Path, regions: list[str] | None = None, fetcher: Fe
                 docs.append({
                     "key": key, "report": report, "period": period, "stage": row.get("hyvaksymisvaihe"),
                     "approved": row.get("hyvaksymispvm"), "url": row["tunnusluvut"],
-                    "columns": {("" if c is None else str(c)): derive(v) for c, v in lines.items()},
+                    "columns": {("" if c is None else str(c)): derive(v) for c, v in lines.items()
+                                if any(v.values())},
                 })
             doc = {
                 "region": region, "ytunnus": ytunnus, "source": SOURCE, "api": REST,
