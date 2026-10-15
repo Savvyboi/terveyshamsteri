@@ -253,3 +253,51 @@ def fetch_finances(data_dir: Path, regions: list[str] | None = None, fetcher: Fe
             log.exception("finances for %s failed", region)
             results[region] = f"error: {e!r}"
     return results
+
+
+# Statistics Finland's codes for the counties, in the same order as YTUNNUS.
+POPULATION_API = "https://pxdata.stat.fi/PxWeb/api/v1/fi/StatFin/vaerak/11ra.px"
+POPULATION_SOURCE = "https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__vaerak/statfin_vaerak_pxt_11ra.px/"
+HVA = {region: f"HVA{i:02d}" for i, region in enumerate(YTUNNUS, start=1)}
+
+
+def fetch_population(data_dir: Path, fetcher: Fetcher | None = None, since: int = 2022) -> dict[str, Any]:
+    """Write data/population.json: residents on 31 Dec and the share aged 65+, per county and year."""
+    fetcher = fetcher or Fetcher(delay=1.0, timeout=60)
+    meta = fetcher.get(POPULATION_API).json()
+    area = next(v["code"] for v in meta["variables"] if "HVA01" in v["values"])
+    time = next(v for v in meta["variables"] if v["code"].startswith("timeperiod") or v["text"] == "Vuosi")
+    years = [y for y in time["values"] if int(y) >= since]
+    query = {"query": [
+        {"code": area, "selection": {"filter": "item", "values": list(HVA.values())}},
+        {"code": "contentscode", "selection": {"filter": "item", "values": ["vaerak-vaesto", "vaesto_yli64_p"]}},
+        {"code": time["code"], "selection": {"filter": "item", "values": years}},
+    ], "response": {"format": "json-stat2"}}
+    if not fetcher.allowed(POPULATION_API):
+        raise PermissionError(POPULATION_API)
+    fetcher._wait("pxdata.stat.fi")
+    r = fetcher.session.post(POPULATION_API, json=query, timeout=fetcher.timeout)
+    r.raise_for_status()
+    doc = r.json()
+    ids, sizes, dims, values = doc["id"], doc["size"], doc["dimension"], doc["value"]
+    idx = {d: dims[d]["category"]["index"] for d in ids}
+    idx = {d: (i if isinstance(i, dict) else {c: n for n, c in enumerate(i)}) for d, i in idx.items()}
+    strides = [1] * len(sizes)
+    for i in range(len(sizes) - 2, -1, -1):
+        strides[i] = strides[i + 1] * sizes[i + 1]
+
+    def value(**pos: str) -> Any:
+        return values[sum(idx[d][pos[d]] * strides[k] for k, d in enumerate(ids))]
+
+    code_to_region = {c: r for r, c in HVA.items()}
+    out: dict[str, Any] = {"source": POPULATION_SOURCE,
+                           "fetched_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
+                           "regions": {}}
+    for code, region in code_to_region.items():
+        out["regions"][region] = {
+            y: {"population": value(**{area: code, "contentscode": "vaerak-vaesto", time["code"]: y}),
+                "over64_share": value(**{area: code, "contentscode": "vaesto_yli64_p", time["code"]: y})}
+            for y in years
+        }
+    (data_dir / "population.json").write_text(json.dumps(out, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    return out

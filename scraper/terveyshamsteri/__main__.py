@@ -18,7 +18,7 @@ from pathlib import Path
 
 from .config import load_regions
 from .elections import fetch_elections
-from .finances import fetch_finances
+from .finances import fetch_finances, fetch_population
 from .index import build_index
 from .run import reextract_votes, scrape_region
 
@@ -76,6 +76,12 @@ def main(argv: list[str] | None = None) -> int:
         return 0 if any(not v.startswith("error") for v in results.values()) else 1
     if args.cmd == "finances":
         results = fetch_finances(args.data, regions=args.region)
+        try:
+            pop = fetch_population(args.data)
+            results["population"] = f"ok ({len(pop['regions'])} counties)"
+        except Exception as e:  # noqa: BLE001 - population is optional context
+            logging.exception("population failed")
+            results["population"] = f"error: {e!r}"
         print(json.dumps(results, ensure_ascii=False, indent=1))
         return 0 if any(not v.startswith("error") for v in results.values()) else 1
     if args.cmd == "index":
