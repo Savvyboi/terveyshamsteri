@@ -179,10 +179,15 @@ _APPEAL = re.compile(r"^\s*(?:Muutoksenhakuohjee?t?|MUUTOKSENHAKUOHJEE?T?|Oikais
 
 
 def _strip_headers(lines: list[str]) -> list[str]:
-    """Remove the running page headers."""
+    """Remove the running page headers and the separators between handlings of an item."""
     out: list[str] = []
     i = 0
     while i < len(lines):
+        # '______ / Aluehallitus 8.9.2025' separates an earlier body's handling from this one's.
+        if re.fullmatch(r"\s*_{10,}\s*", lines[i]) and i + 1 < len(lines) and \
+                re.fullmatch(r"\s*\S.*\s\d{1,2}\.\d{1,2}\.\d{4}\s*", lines[i + 1]):
+            i += 2
+            continue
         if _HEADER_TOP.match(lines[i]):
             j = i + 1
             # The header is at most four more lines: classification, body/date/number, page.

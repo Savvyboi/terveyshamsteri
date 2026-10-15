@@ -104,3 +104,10 @@ def test_sttinfo_region(tmp_path, monkeypatch):
     assert m["stage"] == "minutes-unverified"
     assert m["pdf_url"] == "https://www.sttinfo.fi/files/69820130/72406089/522021/fi"
     assert len(m["items"]) == 6
+
+
+def test_handling_separator_removed():
+    from terveyshamsteri.adapters.sttinfo import _strip_headers
+    lines = ["Päätös", "", "Päätösehdotus hyväksyttiin.", "_________________________________",
+             "Aluehallitus 8.9.2025", "", "Toimivalta"]
+    assert _strip_headers(lines) == ["Päätös", "", "Päätösehdotus hyväksyttiin.", "", "Toimivalta"]
