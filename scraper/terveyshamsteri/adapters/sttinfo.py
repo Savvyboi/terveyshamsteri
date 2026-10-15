@@ -93,14 +93,18 @@ class SttInfoAdapter(Adapter):
         if self._refs is None:
             self._refs = []
             seen = set()
-            for title, url in self._releases():
+            releases = self._releases()
+            for title, url in releases:
                 parsed = parse_release_title(title)
+                if not parsed and re.search(r"pöytäkirja", title, re.IGNORECASE):
+                    log.warning("minutes release title not understood: %r", title)
                 if not parsed or url in seen:
                     continue
                 seen.add(url)
                 name, date, stage = parsed
                 body = Body(id=slugify(name), name=name, url=self.newsroom, type=body_type(name))
                 self._refs.append((body, date, url, stage))
+            log.info("%d releases, %d with minutes", len(releases), len(self._refs))
         return self._refs
 
     def list_bodies(self) -> list[Body]:
