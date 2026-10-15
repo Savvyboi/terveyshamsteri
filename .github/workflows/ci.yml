@@ -151,7 +151,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python scraper/probes/finance_discovery.py
+      - run: pip install -q -r scraper/requirements.txt && python scraper/probes/finance_discovery.py
       - run: python scraper/probes/emit.py $(( ${{ matrix.part }} * 40 + 0 )) $(( ${{ matrix.part }} * 40 + 10 ))
       - run: python scraper/probes/emit.py $(( ${{ matrix.part }} * 40 + 10 )) $(( ${{ matrix.part }} * 40 + 20 ))
       - run: python scraper/probes/emit.py $(( ${{ matrix.part }} * 40 + 20 )) $(( ${{ matrix.part }} * 40 + 30 ))

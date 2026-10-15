@@ -1,23 +1,29 @@
-"""Temporary: reporter names from the non-numeric fields of their reports."""
-import json, traceback, urllib.request
-R = "https://prodkuntarest.westeurope.cloudapp.azure.com/rest/v1/json"
+"""Temporary: run the finance importer for two counties and show what it found and missed."""
+import json, subprocess, sys, traceback
+sys.path.insert(0, "scraper")
 out = open("probe-out.txt", "w", encoding="utf-8")
-def get(u):
-    req = urllib.request.Request(u, headers={"User-Agent": "terveyshamsteri-probe"})
-    with urllib.request.urlopen(req, timeout=240) as r:
-        return json.loads(r.read().decode("utf-8-sig"))
-def items(d): return d if isinstance(d, list) else next(v for v in d.values() if isinstance(v, list))
 try:
-    listing = get(f"{R}/aineistot")["aineistot"]
-    ids = sorted({r["ytunnus"] for r in listing if r["raportointikokonaisuus"] == "HHKNR"})
-    for y in ids:
-        r = next(r for r in listing if r["ytunnus"] == y and r["raportointikokonaisuus"] == "HHKNR" and r["raportointikausi"] == "2025C12")
-        texts = []
-        for d in items(get(r["tunnusluvut"])):
-            a = d.get("arvo") or ""
-            try: float(a)
-            except ValueError: texts.append(f"{d['tunnusluku']}={a[:80]}")
-        print(y, texts[:12], file=out)
+    r = subprocess.run([sys.executable, "-m", "terveyshamsteri", "finances", "--data", "../probe",
+                        "--region", "etela-karjala", "--region", "kainuu"], cwd="scraper", capture_output=True, text=True)
+    print("RC", r.returncode, r.stdout[-1500:], r.stderr[-2500:], file=out)
+    from terveyshamsteri.finances import REST, TAXONOMY, norm, LINES, _items
+    from terveyshamsteri.http import Fetcher
+    for reg in ["etela-karjala"]:
+        d = json.load(open(f"probe/finances/{reg}.json"))
+        for doc in d["documents"]:
+            print(doc["key"], doc["stage"], json.dumps(doc["columns"], ensure_ascii=False), file=out)
+    # names in the quarterly report we do not map (external totals, top levels)
+    f = Fetcher(delay=0.5, timeout=180)
+    tax = {str(e["solutunniste"]): e for e in f.get(TAXONOMY.format(report="HHKNR")).json()}
+    vals = _items(f.get(f"{REST}/dokumentti/lopullinen/HHKNR/3221313-1/2025C12").json())
+    seen = {}
+    for v in vals:
+        t = tax.get(v["tunnusluku"], {})
+        if norm(t.get("sektori")) == "ulkoiset" and (t.get("taso") or 9) <= 4:
+            seen[(t.get("osakokonaisuus"), t.get("taso"), norm(t.get("tunnusluku")))] = float(v["arvo"])
+    print("\\nHHKNR Ulkoiset lines:", file=out)
+    for k, v in sorted(seen.items(), key=lambda kv: (str(kv[0][0]), kv[0][1] or 0)):
+        print(("  " if k[2] in LINES else "? ") + f"{k[0]} {k[1]} {k[2]} = {v:.0f}", file=out)
 except Exception:
     print("CRASH", traceback.format_exc(), file=out)
 out.close()
