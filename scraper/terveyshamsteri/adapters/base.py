@@ -11,7 +11,7 @@ from bs4 import Tag
 
 from ..http import Fetcher
 from ..models import Body, Item, Meeting, MeetingRef, Section
-from ..text import diary_number, html_text, extract_votes, heading_kind, last_of, scrub, split_sections
+from ..text import diary_number, html_text, extract_votes, heading_kind, current_of, scrub, split_sections
 
 
 class Adapter(ABC):
@@ -35,15 +35,16 @@ class Adapter(ABC):
         """Fetch a meeting page and all of its agenda items."""
 
 
-def fill_item_from_text(item: Item, text: str) -> Item:
-    """Populate the structured fields of an item from its plain text."""
+def fill_item_from_text(item: Item, text: str, newest_first: bool = False) -> Item:
+    """Populate the structured fields of an item from its plain text. `newest_first` is set
+    for sites that print the current handling before the earlier ones."""
     text = scrub(text) or ""
     sections = _move_proposal_out_of_presenter(split_sections(text))
     item.sections = sections
     item.diary_number = item.diary_number or diary_number(text)
-    item.proposal = last_of(sections, "proposal")
-    item.decision = last_of(sections, "decision")
-    item.discussion = last_of(sections, "discussion")
+    item.proposal = current_of(sections, "proposal", newest_first)
+    item.decision = current_of(sections, "decision", newest_first)
+    item.discussion = current_of(sections, "discussion", newest_first)
     for s in sections:
         kind = heading_kind(s.heading)
         if kind == "preparer" and not item.preparer:
@@ -59,10 +60,27 @@ def fill_item_from_text(item: Item, text: str) -> Item:
         m = re.search(r"\b(?:Esittelijä|Föredragande)(?:\s*:\s*|\s+(?=[A-ZÅÄÖ]))([^\n]{3,120})", text)
         if m:
             item.presenter = m.group(1).strip()
-    item.votes = extract_votes("\n\n".join(filter(None, [item.discussion, item.decision])))
-    if not item.votes and item.discussion is None:
-        item.votes = extract_votes(text)
+    item.votes = votes_for(sections, item.discussion, item.decision, newest_first)
     return item
+
+
+def votes_for(sections: list[Section], discussion: str | None, decision: str | None,
+              newest_first: bool = False) -> list:
+    """Votes of the current handling. Without a discussion section the vote can be anywhere
+    in the handling, so all of its text is read, but not the earlier bodies' handlings."""
+    votes = extract_votes("\n\n".join(filter(None, [discussion, decision])))
+    if not votes and discussion is None:
+        votes = extract_votes("\n".join(s.text for s in current_handling(sections, newest_first)))
+    return votes
+
+
+def current_handling(sections: list[Section], newest_first: bool = False) -> list[Section]:
+    """The sections of the meeting being read when an item repeats earlier bodies' handlings:
+    those after the previous decision, or before the second one on newest-first sites."""
+    decisions = [i for i, s in enumerate(sections) if heading_kind(s.heading) == "decision"]
+    if len(decisions) < 2:
+        return sections
+    return sections[:decisions[1]] if newest_first else sections[decisions[-2] + 1:]
 
 
 def _move_proposal_out_of_presenter(sections: list[Section]) -> list[Section]:

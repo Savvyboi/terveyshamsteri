@@ -49,3 +49,57 @@ def test_same_result_twice_is_two_votes():
 def test_prose_is_not_a_vote():
     assert extract_votes("Ei ole tarvetta äänestää. Ja 12 jäsentä oli paikalla.") == []
     assert extract_votes("Pöytäkirjantarkastajat toimivat myös ääntenlaskijoina mahdollisten äänestysten sattuessa.") == []
+
+
+def test_comma_and_parenthesis_before_count():
+    text = ("Puheenjohtajan äänestysesitys: Pohjaehdotus JAA, Kuoson muutosesitys EI.\n"
+            "JAA, 4 ääntä\nEI (Kuoson muutosesitys, ei valita ketään), 17 ääntä\nTYHJÄ, 8")
+    [v] = extract_votes(text)
+    assert v.counts == {"jaa": 4, "ei": 17, "tyhja": 8}
+
+
+def test_count_after_oli():
+    [v] = extract_votes("Äänestyksessä annettiin yhteensä 12 ääntä, joista JAA ääniä oli 8 ja EI ääniä 4.")
+    assert v.counts == {"jaa": 8, "ei": 4}
+
+
+def test_swedish_personer_and_ledamoter():
+    [v] = extract_votes("I omröstningen röstade 47 personer JA och 10 personer NEJ. 4 personer röstade blankt.")
+    assert v.counts == {"jaa": 47, "ei": 10, "tyhja": 4}
+    [v] = extract_votes("I omröstningen röstade 9 ledamöter JA (Ahlskog, Björkgren) och 2 personer NEJ (Huuki, Urpilainen).")
+    assert v.counts == {"jaa": 9, "ei": 2}
+
+
+def test_title_case_lines():
+    [v] = extract_votes("Äänestyksessä annettiin 10 ääntä.\nJaa: 8\nEi: 2")
+    assert v.counts == {"jaa": 8, "ei": 2}
+
+
+def test_dash_means_zero():
+    [v] = extract_votes("Äänestyksessä annettiin ääniä seuraavasti:\nJAA-ääniä: -\nEI-ääniä: 11")
+    assert v.counts == {"jaa": 0, "ei": 11}
+
+
+def test_space_around_hyphen():
+    [v] = extract_votes("Suoritetussa äänestyksessä annettiin:\nJAA- ääniä 54\nEI -ääniä 15.")
+    assert v.counts == {"jaa": 54, "ei": 15}
+
+
+def test_number_words():
+    [v] = extract_votes("Äänestyksessä annettiin seitsemän (7) Jaa-ääntä ja neljä (4) Ei-ääntä.")
+    assert v.counts == {"jaa": 7, "ei": 4}
+    [v] = extract_votes("Äänestyksessä annettiin kuusi jaa-ääntä ja viisi ei-ääntä.")
+    assert v.counts == {"jaa": 6, "ei": 5}
+    [v] = extract_votes("Äänestys:\nJaa: kahdeksan ääntä\nEi: kolme ääntä")
+    assert v.counts == {"jaa": 8, "ei": 3}
+
+
+def test_bare_label_winner():
+    text = ("Äänestyksessä ponsiesityksen jättämistä vastaan äänestivät ”JAA” ja sitä kannattaneet äänestivät ”EI”. "
+            "JAA voitti ää/nin 9 (Simola, Oksanen) -4 (Engård, Hällfors).")
+    [v] = extract_votes(text)
+    assert v.counts == {"jaa": 9, "ei": 4}
+
+
+def test_number_words_in_prose_are_not_votes():
+    assert extract_votes("Äänestyksessä yksi ei osallistunut. Kaksi jäsentä oli poissa.") == []

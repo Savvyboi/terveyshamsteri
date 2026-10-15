@@ -220,3 +220,52 @@ def test_split_sections_label_variants():
     assert [(s.heading, s.text) for s in secs] == [
         ("Selostus", "Taustaa."), ("Toimialajohtajan päätösesitys", "Valiokunta merkitsee tiedoksi."),
         ("Päätös", "Hyväksyttiin.")]
+
+
+_TWO_HANDLINGS = ("Päätösehdotus\nAluehallitus päättää hyväksyä.\n\nKäsittely\nÄänestyksessä JAA 9 ääntä, EI 4 ääntä.\n\n"
+                  "Päätös\nAluehallitus hyväksyi päätösehdotuksen äänin 9-4.\n\n"
+                  "Päätösehdotus\nLautakunta päättää esittää.\n\nPäätös\nLautakunta hyväksyi yksimielisesti.")
+
+
+def test_newest_first_handlings():
+    """Some sites print the current handling first, the earlier bodies' handlings after it."""
+    from terveyshamsteri.adapters.base import fill_item_from_text
+    from terveyshamsteri.models import Item
+    item = fill_item_from_text(Item(number="1", title="t", source_url="u"), _TWO_HANDLINGS, newest_first=True)
+    assert item.decision.startswith("Aluehallitus hyväksyi")
+    assert [v.counts for v in item.votes] == [{"jaa": 9, "ei": 4}]
+    item = fill_item_from_text(Item(number="1", title="t", source_url="u"), _TWO_HANDLINGS)
+    assert item.decision == "Lautakunta hyväksyi yksimielisesti."
+
+
+def test_earlier_handlings_votes_are_not_read():
+    """Without a discussion section the current handling is read, but not the earlier ones."""
+    from terveyshamsteri.adapters.base import fill_item_from_text
+    from terveyshamsteri.models import Item
+    text = ("Ehdotus\nLautakunta esittää.\n\nPäätös\nÄänestyksessä annettiin 11 ääntä.\nJaa: 8 ääntä\nEi: 3 ääntä\n\n"
+            "Ehdotus\nAluehallitus esittää.\n\nPäätös\nHyväksyttiin yksimielisesti.")
+    item = fill_item_from_text(Item(number="1", title="t", source_url="u"), text)
+    assert item.votes == []
+    text = ("Ehdotus\nLautakunta esittää.\n\nPäätös\nHyväksyttiin.\n\n"
+            "Ehdotus\nAluevaltuusto hyväksyy.\n\nAsian kokouskäsittely:\nÄänestyksessä JAA 50 ääntä, EI 12 ääntä.\n\n"
+            "Päätös\nHyväksyttiin äänestyksen jälkeen.")
+    item = fill_item_from_text(Item(number="1", title="t", source_url="u"), text)
+    assert [v.counts for v in item.votes] == [{"jaa": 50, "ei": 12}]
+
+
+def test_reextract_uses_region_order(tmp_path):
+    import json
+    from dataclasses import asdict
+    from terveyshamsteri.adapters.base import fill_item_from_text
+    from terveyshamsteri.models import Item
+    from terveyshamsteri.run import reextract_votes
+    item = asdict(fill_item_from_text(Item(number="1", title="t", source_url="u"), _TWO_HANDLINGS))
+    meeting = {"region": "r", "date": "2026-01-01", "items": [item], "provenance": {"platform": "dynasty"}}
+    path = tmp_path / "r/meetings/b/2026-01-01.json"
+    path.parent.mkdir(parents=True)
+    path.write_text(json.dumps(meeting))
+    regions = {"r": {"epochs": [{"platform": "dynasty", "base_url": "x", "newest_first": True}]}}
+    assert reextract_votes(tmp_path, regions)["changed"] == 1
+    it = json.loads(path.read_text())["items"][0]
+    assert it["decision"].startswith("Aluehallitus") and it["votes"][0]["counts"] == {"jaa": 9, "ei": 4}
+    assert reextract_votes(tmp_path, regions)["changed"] == 0

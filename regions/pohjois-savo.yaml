@@ -14,3 +14,4 @@ source_status: confirmed   # confirmed | inferred | unknown
 epochs:
   - platform: dynasty
     base_url: https://pshva.oncloudos.com
+    newest_first: true   # the current handling is printed before the earlier ones

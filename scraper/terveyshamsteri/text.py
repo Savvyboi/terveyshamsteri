@@ -217,10 +217,11 @@ def split_sections(text: str) -> list[Section]:
     return sections
 
 
-def last_of(sections: list[Section], kind: str) -> str | None:
-    """The last section of a kind. Minutes repeat proposal/decision for every body that
-    handled the case, so the last one belongs to the meeting being read."""
-    for s in reversed(sections):
+def current_of(sections: list[Section], kind: str, newest_first: bool = False) -> str | None:
+    """The section of a kind that belongs to the meeting being read. Minutes repeat
+    proposal/decision for every body that handled the case, usually oldest first, so the
+    last one is current. Some sites list the handlings newest first instead."""
+    for s in (sections if newest_first else reversed(sections)):
         if heading_kind(s.heading) == kind and s.text:
             return s.text
     return None
@@ -248,12 +249,15 @@ _LABELS = {
     "poissa": r"poissa|frånvarande",
 }
 # "42 JAA-ääntä", "16 ei-ääntä", "1 tyhjä", "JAA 42", "JAA-ääniä 42 kpl", "JA 30"
+# "47 personer JA", "4 personer röstade blankt"
 _PAIR_NUM_FIRST = re.compile(
-    r"(\d{1,3})\s*(?:kpl\s*)?(" + "|".join(_LABELS.values()) + r")(?:-?\s*ään\w*|-?\s*röst\w*)?\b",
+    r"(\d{1,3})\s*(?:kpl\s*|(?:personer|ledamöter)\s+(?:röstade\s+)?)?(" + "|".join(_LABELS.values()) + r")"
+    r"(?:\s*-?\s*ään\w*|\s*-?\s*röst\w*)?\b",
     re.IGNORECASE,
 )
+# "JAA 42", "JAA ääniä oli 8"
 _PAIR_LABEL_FIRST = re.compile(
-    r"\b(" + "|".join(_LABELS.values()) + r")(?:-?\s*ään\w*|-?\s*röst\w*)?\s*[:=]?\s*(\d{1,3})\b",
+    r"\b(" + "|".join(_LABELS.values()) + r")(?:\s*-?\s*ään\w*|\s*-?\s*röst\w*)?\s*(?:oli\s*)?[:=]?\s*(\d{1,3})\b",
     re.IGNORECASE,
 )
 _VOTE_CUE = re.compile(r"äänest|omröst|röstning|JAA|NEJ", re.IGNORECASE)
@@ -269,18 +273,39 @@ def _label_key(lbl: str) -> str | None:
 
 _ZW = re.compile(r"[\u200b\u200c\u200d\u2060\ufeff]")
 
+_NUMBER_WORDS = {
+    "nolla": 0, "yksi": 1, "yhden": 1, "kaksi": 2, "kolme": 3, "neljä": 4, "viisi": 5, "kuusi": 6,
+    "seitsemän": 7, "kahdeksan": 8, "yhdeksän": 9, "kymmenen": 10, "yksitoista": 11, "kaksitoista": 12,
+    "kolmetoista": 13, "neljätoista": 14, "viisitoista": 15, "kuusitoista": 16, "seitsemäntoista": 17,
+    "kahdeksantoista": 18, "yhdeksäntoista": 19, "kaksikymmentä": 20,
+}
+_NW = "|".join(sorted(_NUMBER_WORDS, key=len, reverse=True))
+# "Seitsemän (7) Jaa-ääntä" -> "7 Jaa-ääntä"
+_WORD_AND_DIGITS = re.compile(r"\b(?:" + _NW + r")\s*\((\d{1,3})\)", re.IGNORECASE)
+# "kuusi jaa-ääntä", "Jaa: kahdeksan ääntä"
+_WORD_BEFORE = re.compile(r"\b(" + _NW + r")(?=\s+(?:jaa|ei|tyhj|ään))", re.IGNORECASE)
+_WORD_AFTER = re.compile(r"(\b(?:jaa|ei|tyhjää?)(?:\s*-?\s*ään\w*)?\s*[:,]?\s*)(" + _NW + r")\b", re.IGNORECASE)
+
+
+def _digits(text: str) -> str:
+    """Write vote counts given in words as digits."""
+    text = _WORD_AND_DIGITS.sub(r"\1", text)
+    text = _WORD_BEFORE.sub(lambda m: str(_NUMBER_WORDS[m.group(1).lower()]), text)
+    return _WORD_AFTER.sub(lambda m: m.group(1) + str(_NUMBER_WORDS[m.group(2).lower()]), text)
+
 # One line of a roll-call result: "JAA 13 ääntä (Name, Name)", "EI (Liedes) 5 ääntä: Name, Name",
 # "Tyhjää 1", "JA-röster 30 (…)". Each count is on its own line in many minutes.
 _LINE = re.compile(
     r"^[ \t]*[”\"'“]?(?P<lbl>JAA|EI|TYHJÄÄ?|TYHJIÄ|POISSA|JA|NEJ|BLANKA|BLANKT|BLANK|FRÅNVARANDE)[”\"'“]?"
-    r"(?P<suffix>-?ään\w*|-?röst\w*)?\b"
-    r"(?:[ \t]*\([^)\n]{0,80}\))?[ \t]*[:=–-]?[ \t]*(?P<n>\d{1,3})\b[ \t]*(?P<unit>kpl\.?|ään\w*|röst\w*|st\.?)?\.?"
+    r"(?P<suffix>[ \t]*-[ \t]*(?:ään|röst)\w*|(?:ään|röst)\w*|[ \t]+(?:ään|röst)\w*)?\b(?:[ \t]+oli)?"
+    r"(?:[ \t]*\([^)\n]{0,80}\))?[ \t]*[:=,–-]?[ \t]*(?P<n>\d{1,3}\b|[-–](?=[ \t]*$))"
+    r"[ \t]*(?P<unit>kpl\.?|ään\w*|röst\w*|st\.?)?\.?"
     r"[ \t]*(?:\((?P<names>[^)\n]*)\)|:[ \t]*(?P<names2>[^\n]+))?",
     re.IGNORECASE | re.MULTILINE,
 )
 # "… voitti äänin 7 (Baumgartner, …) – 6 (Edgren, …)" or "”Jaa” voitti äänin 54-5".
 _WON = re.compile(
-    r"(?P<who>[^.,;\n]{1,80}?)\s+(?:voitti|vann)\s+(?:äänin|rösterna|med rösterna)\s+"
+    r"(?P<who>[^.,;\n]{1,80}?)\s+(?:voitti|vann)\s+(?:ää/?nin|rösterna|med rösterna)\s+"
     r"(?P<a>\d{1,3})\s*(?:\((?P<an>[^)\n]*)\))?\s*[–—-]\s*(?P<b>\d{1,3})\s*(?:\((?P<bn>[^)\n]*)\))?",
     re.IGNORECASE,
 )
@@ -319,14 +344,15 @@ def _line_votes(text: str, covered: set[str]) -> list[Vote]:
         lbl = m.group("lbl")
         key = _label_key(lbl)
         # Yes/no words in lower case are too common in prose; they count only with a unit.
-        if key in ("jaa", "ei") and not lbl.isupper() and not (m.group("suffix") or m.group("unit")):
+        # "Jaa: 8" at the start of a line is a count too.
+        if key in ("jaa", "ei") and not (lbl.isupper() or lbl.istitle()) and not (m.group("suffix") or m.group("unit")):
             continue
         if not key:
             continue
         if i - last > 3 or key in block:
             flush()
             first = i
-        block[key] = int(m.group("n"))
+        block[key] = 0 if m.group("n") in "-–" else int(m.group("n"))
         names[key] = _names(m.group("names") or m.group("names2"))
         last = i
     flush()
@@ -340,9 +366,9 @@ def _won_votes(text: str, covered: set[str]) -> list[Vote]:
         for m in _WON.finditer(para):
             who = m.group("who").lower()
             side = None
-            lbl = re.search(r"[”\"'“](jaa|ei|ja|nej)[”\"'“]", who)
+            lbl = re.search(r"[”\"'“](jaa|ei|ja|nej)[”\"'“]|^(jaa|ei|ja|nej)$", who.strip())
             if lbl:
-                side = _label_key(lbl.group(1))
+                side = _label_key(lbl.group(1) or lbl.group(2))
             else:
                 stem = re.findall(r"\w{4,}", who)
                 for s in _SIDE.finditer(para):
@@ -368,6 +394,7 @@ def extract_votes(text: str | None) -> list[Vote]:
     text = _ZW.sub("", text)
     if not _VOTE_CUE.search(text):
         return []
+    text = _digits(text)
     covered: set[str] = set()
     votes = _line_votes(text, covered) + _won_votes(text, covered)
     for para in re.split(r"\n\s*\n|\n(?=\S)", text):

@@ -182,12 +182,15 @@ def _meeting_id(m: Meeting, seen: dict[str, Any]) -> str:
 
 
 
-def reextract_votes(data_dir: Path) -> dict[str, int]:
-    """Re-run vote extraction on stored meetings, so improvements to the extractor reach
-    meetings fetched before them without fetching anything again."""
+def reextract_votes(data_dir: Path, regions: dict[str, dict[str, Any]] | None = None) -> dict[str, int]:
+    """Re-derive the current proposal, decision and discussion from stored sections and re-run
+    vote extraction, so parser improvements reach meetings fetched before them without
+    fetching anything again."""
     from dataclasses import asdict
 
-    from .text import extract_votes
+    from .adapters.base import votes_for
+    from .models import Section
+    from .text import current_of
 
     stats = {"meetings": 0, "changed": 0, "votes": 0}
     for path in sorted(data_dir.glob("*/meetings/**/*.json")):
@@ -195,19 +198,30 @@ def reextract_votes(data_dir: Path) -> dict[str, int]:
         if not m:
             continue
         stats["meetings"] += 1
+        newest_first = _newest_first((regions or {}).get(m.get("region", "")), m)
         changed = False
         for it in m.get("items", []):
-            votes = extract_votes("\n\n".join(filter(None, [it.get("discussion"), it.get("decision")])))
-            if not votes and it.get("discussion") is None:
-                votes = extract_votes("\n".join(s["text"] for s in it.get("sections", [])))
-            new = [asdict(v) for v in votes]
-            stats["votes"] += len(new)
-            if new != it.get("votes"):
-                it["votes"] = new
-                changed = True
+            sections = [Section(s["heading"], s["text"]) for s in it.get("sections", [])]
+            new = {k: current_of(sections, k, newest_first) for k in ("proposal", "decision", "discussion")}
+            new["votes"] = [asdict(v) for v in votes_for(sections, new["discussion"], new["decision"], newest_first)]
+            stats["votes"] += len(new["votes"])
+            for k, v in new.items():
+                if it.get(k) != v:
+                    it[k] = v
+                    changed = True
         if changed:
             body = {k: v for k, v in m.items() if k != "provenance"}
             m.setdefault("provenance", {})["content_hash"] = _hash(body)
             _write(path, m)
             stats["changed"] += 1
     return stats
+
+
+def _newest_first(region: dict[str, Any] | None, meeting: dict[str, Any]) -> bool:
+    """Whether the epoch a meeting came from prints the current handling first."""
+    platform = meeting.get("provenance", {}).get("platform")
+    for e in _active_epochs(region or {}):
+        if e.get("platform") == platform and \
+                e.get("valid_from", "0000-01-01") <= meeting.get("date", "") <= e.get("valid_to", "9999-12-31"):
+            return bool(e.get("newest_first"))
+    return False

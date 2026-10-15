@@ -3,7 +3,7 @@
   python -m terveyshamsteri regions                 # JSON list of enabled region ids (CI matrix)
   python -m terveyshamsteri scrape pirkanmaa --data ../data [--max-meetings 5]
   python -m terveyshamsteri index --data ../data     # write regions.json + status.json
-  python -m terveyshamsteri reextract --data ../data # re-run vote extraction on stored meetings
+  python -m terveyshamsteri reextract --data ../data # re-derive decisions and votes of stored meetings
   python -m terveyshamsteri elections --data ../data [--region kainuu] [--refresh]
   python -m terveyshamsteri finances --data ../data [--region kainuu]
 """
@@ -42,7 +42,7 @@ def main(argv: list[str] | None = None) -> int:
     ix = sub.add_parser("index", help="write regions.json and status.json")
     ix.add_argument("--data", type=Path, required=True)
 
-    rx = sub.add_parser("reextract", help="re-run vote extraction on stored meetings")
+    rx = sub.add_parser("reextract", help="re-derive decisions and votes of stored meetings")
     rx.add_argument("--data", type=Path, required=True)
 
     el = sub.add_parser("elections", help="fetch 2025 regional election results")
@@ -68,7 +68,7 @@ def main(argv: list[str] | None = None) -> int:
         print(json.dumps(status, ensure_ascii=False, indent=1))
         return 0 if status["result"] in ("ok", "partial", "blocked", "not-implemented") else 1
     if args.cmd == "reextract":
-        print(json.dumps(reextract_votes(args.data)))
+        print(json.dumps(reextract_votes(args.data, regions)))
         return 0
     if args.cmd == "elections":
         results = fetch_elections(args.data, regions=args.region, refresh=args.refresh)
