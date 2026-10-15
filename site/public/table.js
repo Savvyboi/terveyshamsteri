@@ -20,9 +20,10 @@
   function setup(root) {
     var cfg = JSON.parse(root.querySelector('.dt-config').textContent);
     var kind = root.dataset.kind;
-    var rows = [], filtered = [], shown = PAGE;
-    var tbody = root.querySelector('tbody'), thead = root.querySelector('thead');
-    var count = root.querySelector('.count'), more = root.querySelector('.more');
+    var rows = [], filtered = [];
+    var groupsEl = root.querySelector('.groups');
+    var count = root.querySelector('.count');
+    var open = {}, shownIn = {};
     var form = {
       q: root.querySelector('[name=q]'), from: root.querySelector('[name=from]'), to: root.querySelector('[name=to]'),
     };
@@ -66,7 +67,10 @@
       FILTERS.forEach(function (name) { if (root.querySelector('[name=' + name + ']')) sets[name] = checked(name); });
       var field = { region: 'region', type: 'bodyType', stage: 'stage', party: 'party', status: 'status' };
       var from = form.from ? form.from.value : '', to = form.to ? form.to.value : '';
+      // Meetings published in both languages: show the copy in the reader's language.
+      var copy = lang() === 'sv' ? 'sv' : 'fi';
       filtered = rows.filter(function (r) {
+        if (r.twin === 'dup' || (r.twin && r.twin !== copy)) return false;
         for (var name in sets) if (sets[name].indexOf(r[field[name]]) < 0) return false;
         if (from && r.date < from) return false;
         if (to && r.date > to) return false;
@@ -85,20 +89,27 @@
         if (s === 'alphabetical') return a.name.localeCompare(b.name, 'fi');
         return b.date.localeCompare(a.date);
       });
-      shown = PAGE;
+      shownIn = {};
       writeUrl();
       render();
     }
 
     // ------------------------------------------------------------- rendering
+    // Rows are grouped by county, so the tables have no county column.
     var HEAD = {
-      meetings: [['date'], ['meeting'], ['region'], ['items', 'num']],
+      meetings: [['date'], ['meeting'], ['items', 'num']],
       votes: [['date'], ['intro'], ['result']],
-      people: [['councillors'], ['region'], ['electionVotes', 'num'], ['councilAttendance', 'num']],
+      people: [['councillors'], ['electionVotes', 'num'], ['councilAttendance', 'num']],
     };
     function header() {
-      thead.innerHTML = '';
-      thead.appendChild(el('tr', {}, HEAD[kind].map(function (h) { return el('th', { class: h[1] || '', text: t(h[0]) }); })));
+      return el('thead', {}, [el('tr', {}, HEAD[kind].map(function (h) { return el('th', { class: h[1] || '', text: t(h[0]) }); }))]);
+    }
+    // Phones show table rows as cards, so number cells carry their column name.
+    function label(tr) {
+      Array.prototype.forEach.call(tr.children, function (td, i) {
+        if (kind === 'people' && i > 0 && HEAD[kind][i]) td.setAttribute('data-label', t(HEAD[kind][i][0]));
+      });
+      return tr;
     }
     function voteBar(r) {
       var parts = ['jaa', 'ei', 'tyhja', 'poissa'].filter(function (k) { return r[k] != null; });
@@ -120,7 +131,6 @@
             el('span', { class: 'sub' }, [
               el('span', { class: 'party', title: pm[lang()] || pm.fi }, [el('i', { class: 'party-dot', style: 'background:' + pm.color }), el('abbr', { text: r.party })]),
               ' · ' + t('st_' + r.status) + (r.incumbent ? ' · ' + t('incumbent') : '')])]),
-          el('td', { text: regionName(r.region) }),
           el('td', { class: 'num', text: r.votes == null ? '–' : r.votes.toLocaleString('fi-FI') }),
           el('td', { class: 'num' }, pct == null ? ['–'] : [
             el('span', { class: 'pct-cell' }, [el('span', { class: 'meter' }, [el('span', { style: 'width:' + pct + '%' })]), pct + ' %']),
@@ -133,7 +143,6 @@
         return el('tr', {}, [
           date,
           el('td', {}, [el('a', { class: 't', href: r.url, text: r.body }), el('span', { class: 'sub' }, [stage, ' ', t('type_' + r.bodyType)])]),
-          el('td', { text: regionName(r.region) }),
           el('td', { class: 'num' }, [String(r.items) + ' ', el('span', { class: 'note', text: t('itemsCount') }),
             r.votes ? el('span', { class: 'sub' }, [el('span', { class: 'chip vote', text: r.votes + ' ' + t(r.votes === 1 ? 'voteOne' : 'votesCount') })]) : null]),
         ]);
@@ -141,20 +150,45 @@
       return el('tr', {}, [
         date,
         el('td', {}, [el('a', { class: 't', href: r.url, text: r.title }),
-          el('span', { class: 'sub', text: [regionName(r.region), r.body, r.number ? '§ ' + r.number : ''].filter(Boolean).join(' · ') })]),
+          el('span', { class: 'sub', text: [r.body, r.number ? '§ ' + r.number : ''].filter(Boolean).join(' · ') })]),
         el('td', { class: 'result' }, [voteBar(r)]),
       ]);
     }
+    // One collapsible group per county. A group's rows are built when it is opened.
+    function fillGroup(det, id, list) {
+      var body = det.querySelector('.group-body');
+      body.innerHTML = '';
+      var n = shownIn[id] || PAGE;
+      var tbody = el('tbody', {}, list.slice(0, n).map(function (r) { return label(row(r)); }));
+      body.appendChild(el('div', { class: 'table-wrap' }, [el('table', { class: 'data stack' }, [header(), tbody])]));
+      if (list.length > n) {
+        var btn = el('button', { type: 'button', class: 'btn secondary small', text: t('showMore') + ' (' + (list.length - n) + ')' });
+        btn.addEventListener('click', function () { shownIn[id] = n + PAGE * 2; fillGroup(det, id, list); });
+        body.appendChild(el('div', { class: 'more' }, [btn]));
+      }
+    }
     function render() {
-      header();
-      tbody.innerHTML = '';
-      var frag = document.createDocumentFragment();
-      filtered.slice(0, shown).forEach(function (r) { frag.appendChild(row(r)); });
-      if (!filtered.length) frag.appendChild(el('tr', {}, [el('td', { colspan: '4', text: t('noResults') })]));
-      tbody.appendChild(frag);
-      count.textContent = filtered.length.toLocaleString('fi-FI') + ' / ' + rows.length.toLocaleString('fi-FI') +
-        (filtered.length > shown ? ' · ' + shown + ' ' + t('shown') : '');
-      more.hidden = filtered.length <= shown;
+      var groups = {};
+      filtered.forEach(function (r) { (groups[r.region] = groups[r.region] || []).push(r); });
+      var ids = Object.keys(groups).sort(function (a, b) { return regionName(a).localeCompare(regionName(b), lang()); });
+      groupsEl.innerHTML = '';
+      if (!ids.length) groupsEl.appendChild(el('p', { class: 'note', text: t('noResults') }));
+      ids.forEach(function (id) {
+        var list = groups[id];
+        var det = el('details', { class: 'group' }, [
+          el('summary', {}, [el('span', { class: 'name', text: regionName(id) }), el('span', { class: 'n', text: list.length.toLocaleString('fi-FI') })]),
+          el('div', { class: 'group-body' })]);
+        det.addEventListener('toggle', function () {
+          open[id] = det.open;
+          if (det.open && !det.querySelector('table')) fillGroup(det, id, list);
+        });
+        if (open[id] || ids.length === 1) det.open = true;
+        if (det.open) fillGroup(det, id, list);
+        groupsEl.appendChild(det);
+      });
+      count.textContent = filtered.length.toLocaleString('fi-FI') + ' / ' + rows.filter(function (r) {
+        return !r.twin || r.twin === (lang() === 'sv' ? 'sv' : 'fi');
+      }).length.toLocaleString('fi-FI');
     }
 
     // --------------------------------------------------------------- export
@@ -193,11 +227,10 @@
       root.querySelectorAll('input[type=checkbox]').forEach(function (c) { c.checked = c.defaultChecked; });
       apply();
     });
-    root.querySelector('[data-more]').addEventListener('click', function () { shown += PAGE * 2; render(); });
     root.querySelectorAll('[data-export]').forEach(function (b) {
       b.addEventListener('click', function () { exportRows(b.dataset.export); });
     });
-    document.addEventListener('langchange', render);
+    document.addEventListener('langchange', apply);
     fetch(root.dataset.src).then(function (r) { return r.json(); }).then(function (data) { rows = data; apply(); })
       .catch(function () { count.textContent = '⚠ ' + root.dataset.src; });
   }

@@ -22,6 +22,9 @@ export interface Meeting {
   language: string; items: Item[]; participants: Participant[];
   provenance: { source_url: string; fetched_at: string; content_hash: string; parser_version: string;
     platform: string; first_seen: string };
+  /** Set on bilingual counties' meetings published in both languages: which copy this is.
+   * 'dup' is an agenda whose other-language copy already has minutes; it is not shown. */
+  twin?: 'fi' | 'sv' | 'dup';
 }
 export interface Body { id: string; name: string; type: string; url: string; language: string }
 export interface RegionStatus {
@@ -76,17 +79,60 @@ export function load() {
     r.name.en ??= `${r.short.fi} wellbeing services county`;
   }
   cache = { regions, bodies, meetings: meetings.filter(Boolean), status };
+  markTwins(cache.meetings, bodies);
   return cache;
 }
 
+// Bilingual counties publish some bodies twice, once in Finnish and once in Swedish
+// ("Aluehallitus" and "Välfärdsområdesstyrelsen"). Each language shows its own copy only;
+// when one copy already has minutes and the other is still an agenda, the minutes are shown.
+const SWEDISH_BODY = /fullmäktige|styrelse|nämnd|sektion|rådet|\bråd\b|utskott|välfärdsområde|direktion|delegation|kommitté/i;
+export const isSwedishBody = (name: string) => SWEDISH_BODY.test(name);
+
+function markTwins(meetings: Meeting[], bodies: Map<string, Body[]>) {
+  const type = (m: Meeting) => (bodies.get(m.region) || []).find((b) => b.id === m.body_id)?.type ?? 'other';
+  const key = (m: Meeting) => [m.region, m.date, m.items.length, type(m)].join('|');
+  const finnish = new Map<string, Meeting[]>();
+  for (const m of meetings) if (!isSwedishBody(m.body_name)) finnish.set(key(m), [...(finnish.get(key(m)) ?? []), m]);
+  for (const m of meetings) {
+    if (!isSwedishBody(m.body_name)) continue;
+    const fi = (finnish.get(key(m)) ?? []).filter((x) => !x.twin);
+    if (fi.length !== 1) continue;
+    const agenda = (x: Meeting) => x.stage === 'agenda';
+    if (agenda(m) === agenda(fi[0])) { m.twin = 'sv'; fi[0].twin = 'fi'; }
+    else (agenda(m) ? m : fi[0]).twin = 'dup';
+  }
+}
+
+/** The rows a list shows in each language: the first `n` of the Finnish view and the first
+ * `n` of the Swedish view, in their original order. Rows tagged with a twin language are
+ * hidden in the other language by CSS. */
+export function bothViews<T>(rows: T[], n: number, twin: (r: T) => Meeting['twin']): T[] {
+  const fi = new Set(rows.filter((r) => twin(r) !== 'sv' && twin(r) !== 'dup').slice(0, n));
+  const sv = new Set(rows.filter((r) => twin(r) !== 'fi' && twin(r) !== 'dup').slice(0, n));
+  return rows.filter((r) => fi.has(r) || sv.has(r));
+}
+/** Whether a meeting is counted: Swedish copies and superseded agendas are not. */
+export const counted = (m: Meeting) => m.twin !== 'sv' && m.twin !== 'dup';
+
 export const regionById = (id: string) => load().regions.find((r) => r.id === id)!;
-export const meetingsOf = (region: string, body?: string) =>
-  load().meetings.filter((m) => m.region === region && (!body || m.body_id === body));
+/** A region's meetings, or one body's. Without a body, Swedish copies of Finnish meetings are
+ * left out so nothing is counted twice; pass `twins` to list both copies. */
+export const meetingsOf = (region: string, body?: string, twins = false) =>
+  load().meetings.filter((m) => m.region === region && (body ? m.body_id === body : twins || counted(m)));
 export const bodiesOf = (region: string) => {
   // Only bodies that have at least one meeting in our archive.
-  const withMeetings = new Set(meetingsOf(region).map((m) => m.body_id));
+  const withMeetings = new Set(meetingsOf(region, undefined, true).map((m) => m.body_id));
   return (load().bodies.get(region) || []).filter((b) => withMeetings.has(b.id));
 };
+/** 'sv' for a body whose every meeting is a Swedish copy, 'fi' for one whose every meeting has one. */
+export function bodyTwin(region: string, body: string): 'fi' | 'sv' | undefined {
+  const ms = meetingsOf(region, body);
+  for (const lang of ['fi', 'sv'] as const) {
+    if (ms.length && ms.every((m) => m.twin === lang || m.twin === 'dup') && ms.some((m) => m.twin === lang)) return lang;
+  }
+  return undefined;
+}
 export const bodyById = (region: string, body: string) =>
   (load().bodies.get(region) || []).find((b) => b.id === body) ||
   { id: body, name: meetingsOf(region, body)[0]?.body_name ?? body, type: 'other', url: '', language: 'fi' };
@@ -240,9 +286,10 @@ export function personByName(region: string, name: string): PersonStats | undefi
   return nameIndex.get(region)!.get(name);
 }
 
-export function votesOf(region: string) {
+export function votesOf(region?: string, twins = false) {
   const out: { m: Meeting; i: number; v: Vote }[] = [];
-  for (const m of meetingsOf(region)) m.items.forEach((it, i) => it.votes.forEach((v) => out.push({ m, i, v })));
+  const ms = region ? meetingsOf(region, undefined, twins) : load().meetings.filter((m) => twins || counted(m));
+  for (const m of ms) m.items.forEach((it, i) => it.votes.forEach((v) => out.push({ m, i, v })));
   return out;
 }
 
@@ -264,7 +311,7 @@ export function meetingRows() {
   return load().meetings.map((m) => ({
     date: m.date, region: m.region, body: m.body_name, bodyType: bodyTypeOf(m.region, m.body_id),
     stage: m.stage === 'agenda' ? 'agenda' : 'minutes', items: m.items.length, votes: countVotes(m),
-    url: meetingUrl(m), source: m.source_url,
+    url: meetingUrl(m), source: m.source_url, twin: m.twin ?? null,
   }));
 }
 
@@ -278,6 +325,7 @@ export function voteRows() {
           date: m.date, region: m.region, body: m.body_name, bodyType: bodyTypeOf(m.region, m.body_id),
           number: it.number, title: it.title, jaa: v.counts.jaa ?? null, ei: v.counts.ei ?? null,
           tyhja: v.counts.tyhja ?? null, poissa: v.counts.poissa ?? null, url: itemUrl(m, i), source: it.source_url,
+          twin: m.twin ?? null,
         });
       }
     }

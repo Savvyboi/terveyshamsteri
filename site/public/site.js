@@ -136,6 +136,25 @@
     else if (e.key === '/' && !/^(INPUT|TEXTAREA|SELECT)$/.test((e.target || {}).tagName || '')) { e.preventDefault(); openSearch(); }
   });
 
+  // ------------------------------------------------------------ table labels
+  // Phones show table rows as cards; number and date cells then carry their column name.
+  function labelTables() {
+    var l = lang();
+    document.querySelectorAll('table.data.stack').forEach(function (table) {
+      var heads = table.querySelectorAll('thead th');
+      if (!heads.length) return;
+      table.querySelectorAll('tbody tr').forEach(function (tr) {
+        Array.prototype.forEach.call(tr.children, function (td, i) {
+          if (i === 0 || !heads[i] || !td.matches('.num, .date') || td.hasAttribute('data-nolabel')) return;
+          var h = heads[i].querySelector('.' + l) || heads[i].querySelector('.fi') || heads[i];
+          td.setAttribute('data-label', h.textContent.trim());
+        });
+      });
+    });
+  }
+  labelTables();
+  document.addEventListener('langchange', labelTables);
+
   // ------------------------------------------------------------ copy buttons
   document.querySelectorAll('[data-copy]').forEach(function (b) {
     b.addEventListener('click', function () {

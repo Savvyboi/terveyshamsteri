@@ -7,7 +7,7 @@ import MeetingTable from '../../components/MeetingTable.astro';
 import VoteTable from '../../components/VoteTable.astro';
 import SeatBar from '../../components/SeatBar.astro';
 import FinanceCard from '../../components/FinanceCard.astro';
-import { BODY_TYPES, bodiesOf, electionOf, fmtDate, load, meetingsOf, url, votesOf, type Region } from '../../lib/data';
+import { BODY_TYPES, bodiesOf, bodyTwin, bothViews, electionOf, fmtDate, load, meetingsOf, url, votesOf, type Region } from '../../lib/data';
 
 export function getStaticPaths() {
   return load().regions.map((r) => ({ params: { region: r.id }, props: { r } }));
@@ -16,10 +16,12 @@ const { r } = Astro.props as { r: Region };
 const meetings = meetingsOf(r.id);
 const bodies = bodiesOf(r.id);
 const allVotes = votesOf(r.id);
+const shownVotes = bothViews(votesOf(r.id, true), 5, ({ m }) => m.twin);
+const shownMeetings = bothViews(meetingsOf(r.id, undefined, true), 12, (m) => m.twin);
 const election = electionOf(r.id);
 const items = meetings.reduce((a, m) => a + m.items.length, 0);
-const countBy = (b: string) => meetings.filter((m) => m.body_id === b).length;
-const lastOf = (b: string) => meetings.find((m) => m.body_id === b)?.date;
+const countBy = (b: string) => meetingsOf(r.id, b).length;
+const lastOf = (b: string) => meetingsOf(r.id, b)[0]?.date;
 ---
 <Layout title={r.name.fi} feed={meetings.length ? `${url(r.id)}rss.xml` : undefined}>
   <Breadcrumbs trail={[{ href: url('alueet'), fi: 'Hyvinvointialueet', sv: 'Välfärdsområden', en: 'Counties' }, { fi: r.short.fi!, sv: r.short.sv }]} />
@@ -67,7 +69,7 @@ const lastOf = (b: string) => meetings.find((m) => m.body_id === b)?.date;
               <h3><T k={`type_${t}`} /></h3>
               <ul class="list">
                 {bs.map((b) => (
-                  <li><a class="row" href={url(r.id, b.id)}>
+                  <li data-twin={bodyTwin(r.id, b.id)}><a class="row" href={url(r.id, b.id)}>
                     <span class="title">{b.name}</span>
                     <span class="side">{countBy(b.id)} <T k="meetingsCount" /> · {fmtDate(lastOf(b.id)!)}</span>
                   </a></li>
@@ -79,11 +81,11 @@ const lastOf = (b: string) => meetings.find((m) => m.body_id === b)?.date;
         {allVotes.length > 0 && (
           <>
             <div class="section-head"><h2><T k="latestVotes" /></h2><a href={url(r.id, 'aanestykset')}><T k="allVotes" /> →</a></div>
-            <VoteTable votes={allVotes.slice(0, 5)} />
+            <VoteTable votes={shownVotes} />
           </>
         )}
         <div class="section-head"><h2><T k="latestMeetings" /></h2><a href={`${url('kokoukset')}?region=${r.id}`}><T k="showAll" /> →</a></div>
-        <MeetingTable meetings={meetings.slice(0, 12)} />
+        <MeetingTable meetings={shownMeetings} />
       </div>
       <aside class="aside">
         {election && (

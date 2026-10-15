@@ -13,12 +13,12 @@ const { meetings, showRegion } = Astro.props;
         const r = regionById(m.region);
         const votes = countVotes(m);
         return (
-          <tr>
+          <tr data-twin={m.twin}>
             <td class="date">{fmtDate(m.date)}</td>
             <td><a class="t" href={meetingUrl(m)}>{m.body_name}</a>
               <span class="sub">{m.stage === 'agenda' ? <span class="chip agenda"><T k="agenda" /></span> : <span class="chip muted"><T k={m.stage === 'minutes-unverified' ? 'minutesUnverified' : 'minutes'} /></span>} <T k={`type_${bodyTypeOf(m.region, m.body_id)}` as any} /></span></td>
             {showRegion && <td><L fi={r.short.fi!} sv={r.short.sv} /></td>}
-            <td class="num">{m.items.length} <span class="note"><T k="itemsCount" /></span>
+            <td class="num" data-nolabel>{m.items.length} <span class="note"><T k="itemsCount" /></span>
               {votes > 0 && <span class="sub"><span class="chip vote">{votes} <T k={votes === 1 ? 'voteOne' : 'votesCount'} /></span></span>}</td>
           </tr>
         );

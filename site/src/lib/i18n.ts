@@ -148,7 +148,7 @@ export const S = {
   from: { fi: 'Alkaen', sv: 'Från', en: 'From' },
   to: { fi: 'Päättyen', sv: 'Till', en: 'To' },
   all: { fi: 'Kaikki', sv: 'Alla', en: 'All' },
-  none: { fi: 'Ei mitään', sv: 'Inga', en: 'None' },
+  none: { fi: 'Tyhjennä', sv: 'Rensa', en: 'Clear' },
   reset: { fi: 'Tyhjennä rajaukset', sv: 'Rensa avgränsningar', en: 'Clear filters' },
   download: { fi: 'Lataa data', sv: 'Ladda ner data', en: 'Download data' },
   newest: { fi: 'Uusin ensin', sv: 'Nyaste först', en: 'Newest first' },
@@ -202,6 +202,12 @@ export const S = {
   candidate: { fi: 'Ehdokas', sv: 'Kandidat', en: 'Candidate' },
   personsCount: { fi: 'henkilöä', sv: 'personer', en: 'people' },
   byParty: { fi: 'Puolueittain', sv: 'Per parti', en: 'By party' },
+  howVoted: { fi: 'Miten kukin äänesti', sv: 'Hur var och en röstade', en: 'How each member voted' },
+  noVoterNames: {
+    fi: 'Pöytäkirjan tekstissä ei ole äänestäjien nimiä. Ne löytyvät yleensä alkuperäisen pöytäkirjan äänestysluettelosta.',
+    sv: 'Protokollets text anger inte hur var och en röstade. Det framgår oftast av omröstningslistan i originalprotokollet.',
+    en: 'The minutes text does not name the voters. They are usually in the voting list attached to the original minutes.',
+  },
   unmatched: { fi: 'Ei tunnistettu', sv: 'Ej identifierad', en: 'Not matched' },
   namedVoteNote: {
     fi: 'Nimet poimittu pöytäkirjasta ja yhdistetty vaalitulokseen automaattisesti. Tarkista alkuperäisestä pöytäkirjasta.',

@@ -4,13 +4,14 @@ import T from '../../../components/T.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import L from '../../../components/L.astro';
 import VoteBar from '../../../components/VoteBar.astro';
+import VoterList from '../../../components/VoterList.astro';
 import { fmtDate, itemUrl, load, url, votesOf, type Region } from '../../../lib/data';
 
 export function getStaticPaths() {
   return load().regions.map((r) => ({ params: { region: r.id }, props: { r } }));
 }
 const { r } = Astro.props as { r: Region };
-const votes = votesOf(r.id);
+const votes = votesOf(r.id, true);
 ---
 <Layout title={`Äänestykset – ${r.short.fi}`}>
   <Breadcrumbs trail={[{ href: url(r.id), fi: r.short.fi, sv: r.short.sv }, { fi: 'Äänestykset', sv: 'Omröstningar' }]} />
@@ -21,11 +22,12 @@ const votes = votesOf(r.id);
   </div>
   {votes.length === 0 && <p>—</p>}
   {votes.map(({ m, i, v }) => (
-    <section class="vote-card">
+    <section class="vote-card" data-twin={m.twin}>
       <p class="note" style="margin:0">{m.body_name} · {fmtDate(m.date)}{m.items[i].number && ` · § ${m.items[i].number}`}</p>
       <h3><a href={itemUrl(m, i)}>{m.items[i].title}</a></h3>
       <VoteBar vote={v} />
       <p class="vote-context">{v.context}</p>
+      <VoterList m={m} v={v} />
     </section>
   ))}
 </Layout>

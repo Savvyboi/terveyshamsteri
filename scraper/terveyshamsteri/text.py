@@ -320,10 +320,13 @@ def _names(raw: str | None) -> list[str]:
     return [p.strip(" .") for p in parts if p.strip(" .") and not p.strip(" .").isdigit()]
 
 
-def _line_votes(text: str, covered: set[str]) -> list[Vote]:
+def _line_votes(text: str, covered: set[str], at: dict[int, int]) -> list[Vote]:
     """Votes written one count per line, possibly with the voters' names. Adds the lines it
     used to `covered`, so the paragraph fallback does not count the same vote again."""
     lines = text.split("\n")
+    offsets = [0]
+    for line in lines:
+        offsets.append(offsets[-1] + len(line) + 1)
     votes: list[Vote] = []
     block: dict[str, int] = {}
     names: dict[str, list[str]] = {}
@@ -334,6 +337,7 @@ def _line_votes(text: str, covered: set[str]) -> list[Vote]:
             covered.update(l.strip() for l in lines[first:last + 1] if l.strip())
             ctx = "\n".join(l for l in lines[max(0, first - 2):last + 1] if l.strip())
             votes.append(Vote(counts=dict(block), context=ctx[:600], names={k: v for k, v in names.items() if v}))
+            at[id(votes[-1])] = offsets[first]
         block.clear()
         names.clear()
 
@@ -359,10 +363,12 @@ def _line_votes(text: str, covered: set[str]) -> list[Vote]:
     return votes
 
 
-def _won_votes(text: str, covered: set[str]) -> list[Vote]:
+def _won_votes(text: str, covered: set[str], at: dict[int, int]) -> list[Vote]:
     """'X voitti äänin 7 – 6': the winner's side is worked out from the voting proposal."""
     votes = []
+    offset = 0
     for para in text.split("\n"):
+        offset += len(para) + 1
         for m in _WON.finditer(para):
             who = m.group("who").lower()
             side = None
@@ -382,8 +388,91 @@ def _won_votes(text: str, covered: set[str]) -> list[Vote]:
             names = {side: _names(m.group("an")), other: _names(m.group("bn"))}
             votes.append(Vote(counts={k: counts[k] for k in ("jaa", "ei")}, context=para.strip()[:600],
                               names={k: v for k, v in names.items() if v}))
+            at[id(votes[-1])] = offset - len(para) - 1 + m.start()
             covered.add(para.strip())
     return votes
+
+
+# "JAA-äänen antoivat puheenjohtaja Laiho sekä jäsenet Juvonen ja Laakso.", "NEJ röstade ledamöterna …",
+# "EI-ääniä antoivat: Kari Haring, Juha Pitkänen"
+_VOTERS = re.compile(
+    r"^[ \t]*[”\"]?(?P<lbl>JAA|EI|TYHJÄÄ?|Tyhjää|JA|NEJ|BLANKT?)[”\"]?(?:[ \t]*-?[ \t]*(?:äänen|ääniä|ääni|röst\w*))?"
+    r"[ \t]+(?:antoivat|antoi|äänestivät|äänesti|röstade|gav)[ \t]*:?[ \t]*(?![ \t]|\d{1,3}[ \t])(?P<names>[^\n]+)",
+    re.MULTILINE,
+)
+# "JAA äänesti 15 aluehallituksen jäsentä (Marja Ahava, Juha Suoniemi, …)"
+_VOTERS_COUNTED = re.compile(
+    r"\b(?P<lbl>JAA|EI|TYHJÄÄ?|JA|NEJ)[ \t]+(?:äänesti|röstade)[ \t]+\d{1,3}\b[^()\n]{0,60}\((?P<names>[^)\n]+)\)")
+# "Varavaltuutettu Rauanmaa äänesti tyhjää.", "Ledamöterna Grönroos och Kajava röstade blankt.",
+# "Första vice ordförande Räsänen, ledamöterna Juvonen och Kivekäs röstade JA."
+_VOTERS_LAST = re.compile(
+    r"^[ \t]*(?P<names>[A-ZÅÄÖ][^\n]{2,600}?)[ \t]+(?:äänesti(?:vät)?|röstade)[ \t]+(?P<lbl>tyhjää|blankt|JAA|EI|JA|NEJ)\.?[ \t]*$",
+    re.MULTILINE,
+)
+# "Äänestysluettelo: JAA: Soile Eriksson, Heli Hakala, …"
+_VOTERS_COLON = re.compile(
+    r"^[ \t]*(?P<lbl>JAA|EI|TYHJÄÄ?|JA|NEJ|BLANK)[ \t]*:[ \t]*(?P<names>[A-ZÅÄÖ][^\n]+)", re.MULTILINE)
+# "3 JAA-ääntä (Bitter, Lehkonen, Rautio)", "7 JAA, (Pia Baumgartner, …)", "4 JA-röster (Ahlskog, …"
+_VOTERS_AFTER_COUNT = re.compile(
+    r"\b\d{1,3}[ \t]+(?P<lbl>JAA|EI|TYHJÄÄ?|TYHJIÄ|JA|NEJ|BLANKA|jaa|ei|tyhjää?|tyhjiä)"
+    r"(?:[ \t]*-?[ \t]*(?:ään\w*|röst\w*))?[ \t]*,?[ \t]*\((?P<names>[^()\n]+?)(?:\)|(?=\.\s))")
+# Pirkanmaa and Keski-Uusimaa: "Kyllä 48 kpl 61%" with the names on the next line.
+_KYLLA_LIST = re.compile(
+    r"^[ \t]*(?P<lbl>Kyllä|Ei|Tyhjä|Poissa)[ \t]+\d{1,3}[ \t]*kpl[^\n]*\n\s*(?P<names>[A-ZÅÄÖ][^\n]+)", re.MULTILINE)
+_ROLES = re.compile(
+    r"\b(?:\d\.\s*|(?:första|andra|tredje)\s+)?(?:vara)?(?:puheenjohtaja|valtuutet(?:tu|ut)|jäsen(?:et)?)\b|"
+    r"\b(?:\d\.\s*|(?:första|andra|tredje)\s+)?(?:vice\s+)?ordförande(?:n)?\b|"
+    r"\b(?:ledamot(?:en)?|ledamöter(?:na)?|ersättar(?:e|en|na))\b",
+    re.IGNORECASE,
+)
+
+
+def _voter_names(raw: str) -> list[str]:
+    raw = re.sub(r"\.\s*$", "", raw.strip())
+    if re.search(r"\.\s+[A-ZÅÄÖ]", raw):  # the list ends at the first full stop
+        raw = re.split(r"(?<!\d)\.\s+(?=[A-ZÅÄÖ])", raw)[0]
+    out = []
+    for part in re.split(r",|\s+(?:ja|och|sekä|samt)\s+", _ROLES.sub(" ", raw)):
+        part = re.sub(r"\s+", " ", part).strip(" .:-–")
+        if part and re.match(r"[A-ZÅÄÖ]", part) and not part.isdigit() and len(part) < 60:
+            out.append(part)
+    return out
+
+
+def _paragraphs(text: str):
+    """(offset, paragraph) pairs; a paragraph ends at a blank line or before an unindented line."""
+    pos = 0
+    for m in re.finditer(r"\n\s*\n|\n(?=\S)", text):
+        yield pos, text[pos:m.start()]
+        pos = m.end()
+    yield pos, text[pos:]
+
+
+def _voter_lists(text: str) -> list[tuple[int, str | None, list[str]]]:
+    """(offset, side, names) for every list of voters in the text."""
+    found = []
+    for rx in (_VOTERS, _VOTERS_COUNTED, _VOTERS_COLON, _VOTERS_AFTER_COUNT):
+        found += [(m.start(), _label_key(m.group("lbl")), _voter_names(m.group("names"))) for m in rx.finditer(text)]
+    for m in _VOTERS_LAST.finditer(text):
+        side = {"tyhjää": "tyhja", "blankt": "tyhja"}.get(m.group("lbl").lower()) or _label_key(m.group("lbl"))
+        found.append((m.start(), side, _voter_names(m.group("names"))))
+    for m in _KYLLA_LIST.finditer(text):
+        side = {"kyllä": "jaa", "ei": "ei", "tyhjä": "tyhja", "poissa": "poissa"}[m.group("lbl").lower()]
+        found.append((m.start(), side, _voter_names(m.group("names"))))
+    return sorted(found, key=lambda x: x[0])
+
+
+def _attach_voters(text: str, votes: list[Vote], at: dict[int, int]) -> None:
+    """Add voter names written apart from the counts ("JAA-äänen antoivat …") to the vote they
+    follow, when the number of names matches that side's count."""
+    pos = sorted((at[id(v)], i) for i, v in enumerate(votes) if id(v) in at)
+    for offset, side, names in _voter_lists(text):
+        owner = next((votes[i] for p, i in reversed(pos) if p <= offset), None)
+        if owner is None or not side or not names or side in owner.names:
+            continue
+        if len(names) == owner.counts.get(side, len(names)):
+            owner.names[side] = names
+            owner.counts.setdefault(side, len(names))
 
 
 def extract_votes(text: str | None) -> list[Vote]:
@@ -396,8 +485,9 @@ def extract_votes(text: str | None) -> list[Vote]:
         return []
     text = _digits(text)
     covered: set[str] = set()
-    votes = _line_votes(text, covered) + _won_votes(text, covered)
-    for para in re.split(r"\n\s*\n|\n(?=\S)", text):
+    at: dict[int, int] = {}
+    votes = _line_votes(text, covered, at) + _won_votes(text, covered, at)
+    for start, para in _paragraphs(text):
         if not _VOTE_CUE.search(para) or any(l.strip() in covered for l in para.split("\n")):
             continue
         counts: dict[str, int] = {}
@@ -412,4 +502,6 @@ def extract_votes(text: str | None) -> list[Vote]:
                     counts[key] = int(num)
         if "jaa" in counts and "ei" in counts:
             votes.append(Vote(counts=counts, context=para.strip()[:600]))
+            at[id(votes[-1])] = start
+    _attach_voters(text, votes, at)
     return votes
