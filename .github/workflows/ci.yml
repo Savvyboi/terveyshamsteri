@@ -140,26 +140,6 @@ jobs:
                     f"parties={[(x['party'], x['seats']) for x in d['parties']]} people={len(d['people'])} first={d['people'][:2]}")
           PY
 
-  # Temporary: checks how the Kymenlaakso Tweb host can be reached from a runner.
-  tweb-robots-probe:
-    runs-on: ubuntu-latest
-    continue-on-error: true
-    steps:
-      - run: |
-          for h in julkaisut.kymenhva.fi julkaisut.kymsote.fi kymenhva.fi; do
-            echo "::notice title=DNS $h::$(getent hosts $h | tr '\n' ' ')"
-          done
-          ua="terveyshamsteri/0.1 (civic archive of wellbeing services county decisions; +https://github.com/Savvyboi/terveyshamsteri)"
-          for u in https://julkaisut.kymenhva.fi:8443/robots.txt https://julkaisut.kymenhva.fi/robots.txt http://julkaisut.kymenhva.fi/robots.txt \
-                   http://julkaisut.kymenhva.fi:8080/robots.txt https://julkaisut.kymenhva.fi/ktwebscr/epj_tek_tweb.htm https://kymenhva.fi/robots.txt; do
-            out=$(curl -sS -m 20 -A "$ua" -o /tmp/b -w "%{http_code} %{remote_ip}:%{remote_port}" "$u" 2>&1 | tail -c 300)
-            body=$(head -c 400 /tmp/b 2>/dev/null | tr '\r\n' '  '); rm -f /tmp/b
-            echo "::notice title=GET $u::$out | $body"
-          done
-          for p in 443 8443 80; do
-            timeout 10 bash -c "</dev/tcp/julkaisut.kymenhva.fi/$p" && echo "::notice title=TCP $p::open" || echo "::notice title=TCP $p::closed or filtered"
-          done
-
   finance-probe:
     runs-on: ubuntu-latest
     continue-on-error: true

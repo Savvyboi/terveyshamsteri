@@ -14,5 +14,7 @@ source_status: confirmed   # confirmed | inferred | unknown
 epochs:
   - platform: tweb
     base_url: https://varha-julkaisu.triplancloud.fi
+    entry_url: https://varha-julkaisu.triplancloud.fi/ktwebscr/pk_tek_tweb.htm
 notes:
-  fi: "Triplan cloud, todennäköisesti Tweb."
+  fi: "Pöytäkirjat julkaistaan Tweb-palvelussa, jonka robots.txt estää kaikki robotit (tarkistettu 15.10.2026)."
+  sv: "Protokollen publiceras i Tweb, vars robots.txt förbjuder alla robotar (kontrollerat 15.10.2026)."
