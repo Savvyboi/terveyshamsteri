@@ -202,6 +202,15 @@ export const S = {
   candidate: { fi: 'Ehdokas', sv: 'Kandidat', en: 'Candidate' },
   personsCount: { fi: 'henkilöä', sv: 'personer', en: 'people' },
   byParty: { fi: 'Puolueittain', sv: 'Per parti', en: 'By party' },
+  voteQuestion: { fi: 'Mistä äänestettiin', sv: 'Vad omröstningen gällde', en: 'What was voted on' },
+  voteMotion: { fi: 'Tehty ehdotus', sv: 'Framställt förslag', en: 'Proposal made' },
+  won: { fi: 'voitti', sv: 'vann', en: 'won' },
+  minutesText: { fi: 'Pöytäkirjan teksti', sv: 'Protokollets text', en: 'Text in the minutes' },
+  noVoteQuestion: {
+    fi: 'Pöytäkirjasta ei saatu koneellisesti poimittua, mitä jaa ja ei tarkoittivat. Katso pöytäkirjan teksti alta tai alkuperäisestä pöytäkirjasta.',
+    sv: 'Det gick inte att maskinellt utläsa vad ja och nej stod för. Se protokollets text nedan eller originalprotokollet.',
+    en: 'What yes and no stood for could not be read automatically. See the minutes text below or the original minutes.',
+  },
   howVoted: { fi: 'Miten kukin äänesti', sv: 'Hur var och en röstade', en: 'How each member voted' },
   noVoterNames: {
     fi: 'Pöytäkirjan tekstissä ei ole äänestäjien nimiä. Ne löytyvät yleensä alkuperäisen pöytäkirjan äänestysluettelosta.',

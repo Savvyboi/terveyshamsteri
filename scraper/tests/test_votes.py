@@ -147,3 +147,31 @@ def test_voters_go_to_the_vote_they_follow():
 def test_voter_list_with_wrong_count_is_ignored():
     [v] = extract_votes("Suoritetussa äänestyksessä ehdotus sai 3 JAA-ääntä ja 2 EI-ääntä.\n\nJAA-äänen antoivat Juvonen ja Laakso.")
     assert v.names == {}
+
+
+def test_what_each_side_stood_for():
+    text = ("Puheenjohtaja totesi, että suoritetaan äänestys:\n\nJAA esittelijän ehdotus\n\nEI Niina Immosen ehdotus\n\n"
+            "JAA 10 ääntä\n\nEI 3 ääntä")
+    [v] = extract_votes("Keskustelun kuluessa aluehallituksen jäsen Niina Immonen ehdotti Eija Salmen kannattamana, "
+                        "että oikaisuvaatimukset hyväksytään.\n\n" + text)
+    assert v.question == {"jaa": "Esittelijän ehdotus", "ei": "Niina Immosen ehdotus"}
+    assert v.motion.endswith("että oikaisuvaatimukset hyväksytään.")
+    [v] = extract_votes("ÄÄNESTYS 1, Jaa = pohjaehdotus, Ei = SDP-valtuustoryhmän muutosehdotus s. 3\n"
+                        "Jaa 39 ääntä: Matti Jäppilä, Arto Kujala\nEi 17 ääntä: Nea Hjelt")
+    assert v.question == {"jaa": "Pohjaehdotus", "ei": "SDP-valtuustoryhmän muutosehdotus"}
+    [v] = extract_votes("Puheenjohtajan äänestysesitys: Ponnen lisääminen JAA, ponnen hylkääminen EI. Hyväksyttiin.\n\n"
+                        "Äänestyksessä annettiin 14 JAA-ääntä, 63 EI-ääntä ja 0 TYHJÄÄ-ääntä.")
+    assert v.question == {"jaa": "Ponnen lisääminen", "ei": "Ponnen hylkääminen"}
+    [v] = extract_votes("Puheenjohtaja totesi, että ne, jotka kannattavat pohjaesitystä, vastaavat sanalla JAA ja ne, jotka "
+                        "kannattavat Routilan tekemää esitystä, vastaavat sanalla EI.\n\n"
+                        "Suoritetussa äänestyksessä annettiin 43 JAA-ääntä ja 22 EI-ääntä.")
+    assert v.question == {"jaa": "Pohjaesitystä", "ei": "Routilan tekemää esitystä"}
+    [v] = extract_votes("De som understödde fortsatt behandling av ärendet skulle rösta ”JA”. De som understödde förslaget "
+                        "om återremiss skulle rösta ”NEJ”.\n\nVid omröstningen fick fortsatt behandling 11 JA-röster och 4 NEJ-röster.")
+    assert v.question == {"jaa": "Fortsatt behandling av ärendet", "ei": "Förslaget om återremiss"}
+
+
+def test_voter_lists_are_not_sides():
+    [v] = extract_votes("Äänestyksessä annettiin 3 JAA-ääntä ja 2 EI-ääntä.\n\nJAA-ääniä antoivat Vornanen Ahti-Pekka, "
+                        "Rossi Markku ja Pitkänen Juha\nEI-ääniä antoivat Kontiainen Hilkka ja Hedman Pia")
+    assert v.question == {}

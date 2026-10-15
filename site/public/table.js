@@ -74,7 +74,7 @@
         for (var name in sets) if (sets[name].indexOf(r[field[name]]) < 0) return false;
         if (from && r.date < from) return false;
         if (to && r.date > to) return false;
-        if (q && [r.title, r.body, r.name].every(function (v) { return !v || v.toLowerCase().indexOf(q) < 0; })) return false;
+        if (q && [r.title, r.body, r.name, r.jaaMeans, r.eiMeans].every(function (v) { return !v || v.toLowerCase().indexOf(q) < 0; })) return false;
         return true;
       });
       var s = sortKey();
@@ -150,6 +150,7 @@
       return el('tr', {}, [
         date,
         el('td', {}, [el('a', { class: 't', href: r.url, text: r.title }),
+          r.jaaMeans && r.eiMeans ? el('span', { class: 'sub', text: t('jaa') + ': ' + r.jaaMeans + ' · ' + t('ei') + ': ' + r.eiMeans }) : null,
           el('span', { class: 'sub', text: [r.body, r.number ? '§ ' + r.number : ''].filter(Boolean).join(' · ') })]),
         el('td', { class: 'result' }, [voteBar(r)]),
       ]);

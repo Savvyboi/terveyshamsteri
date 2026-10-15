@@ -5,7 +5,7 @@ import Breadcrumbs from '../../../../../components/Breadcrumbs.astro';
 import VoteBar from '../../../../../components/VoteBar.astro';
 import PartySplit from '../../../../../components/PartySplit.astro';
 import VoterList from '../../../../../components/VoterList.astro';
-import { counted, fmtDate, itemSlug, itemUrl, load, meetingSlug, meetingUrl, regionById, url, type Meeting } from '../../../../../lib/data';
+import { counted, winner, fmtDate, itemSlug, itemUrl, load, meetingSlug, meetingUrl, regionById, url, type Meeting } from '../../../../../lib/data';
 
 export function getStaticPaths() {
   return load().meetings.flatMap((m) => m.items.map((_, i) => ({
@@ -65,8 +65,27 @@ const citeId = `cite-${i}`;
         {it.votes.map((v, k) => (
           <section class="vote-card">
             <h3><T k="vote" />{it.votes.length > 1 && ` ${k + 1}`}</h3>
+            {v.question?.jaa && v.question?.ei ? (
+              <div class="vote-question">
+                <h4><T k="voteQuestion" /></h4>
+                <dl>
+                  {(['jaa', 'ei'] as const).map((s) => (
+                    <div class:list={[`vq-${s}`, { won: winner(v) === s }]}>
+                      <dt><i class={`dot seg-${s}`}></i><T k={s} /></dt>
+                      <dd>{v.question![s]}{winner(v) === s && <span class="won-chip"> ✓ <T k="won" /></span>}</dd>
+                    </div>
+                  ))}
+                </dl>
+                {v.motion && <p class="vote-motion"><span class="note"><T k="voteMotion" />:</span> {v.motion}</p>}
+              </div>
+            ) : (
+              <p class="note" data-pagefind-ignore><T k="noVoteQuestion" /></p>
+            )}
             <VoteBar vote={v} />
-            <p class="vote-context">{v.context}</p>
+            <details class="vote-context" open={!(v.question?.jaa && v.question?.ei)}>
+              <summary><T k="minutesText" /></summary>
+              <p>{v.context}</p>
+            </details>
             <VoterList m={m} v={v} />
             {v.names && Object.keys(v.names).length > 0 && <PartySplit m={m} v={v} />}
             {v.provisional && <p class="note">⚠ <T k="provisional" /></p>}

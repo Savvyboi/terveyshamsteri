@@ -475,6 +475,122 @@ def _attach_voters(text: str, votes: list[Vote], at: dict[int, int]) -> None:
             owner.counts.setdefault(side, len(names))
 
 
+# What JAA and NEJ stood for. Each pattern names its sides with named groups `jaa` and `ei`,
+# or gives one side per match with `lbl` and `what`.
+_Q_VERB = r"(?:vastaavat[ \t]+sanalla|äänestävät|äänestivät|vastaavat|vastasivat|tuli[ \t]+äänestää|äänestää)"
+_Q_SEP = r"[ \t]*(?:=|:|–|-)[ \t]*"
+_Q_PAIR = [
+    # "Jaa = pohjaehdotus, Ei = SDP-valtuustoryhmän muutosehdotus", "JA = käsittelyä jatketaan - EI/NEJ = palautetaan"
+    re.compile(r"\b(?:JAA|JA)(?:/\w+)?[ \t]*=[ \t]*(?P<jaa>[^=\n]{3,200}?)[ \t]*[,;–-]?[ \t]*\b(?:EI|NEJ)(?:/\w+)?[ \t]*=[ \t]*(?P<ei>[^\n]{3,200})",
+               re.IGNORECASE),
+    # "Puheenjohtajan äänestysesitys: Ponnen lisääminen JAA, ponnen hylkääminen EI.",
+    # "Anne Aholaisen vastaesitys JAA, Tiia Eskelisen vastaesitys EI."
+    re.compile(r"(?:^|:)[ \t]*(?P<jaa>[^\n]{3,200}?)[ \t]+[”\"]?(?:JAA|JA)[”\"]?[ \t]*(?:,|ja|och)[ \t]*"
+               r"(?P<ei>[^\n]{3,200}?)[ \t]+[”\"]?(?:EI|NEJ)\b"),
+    # "siten, että aluehallituksen esitys on JAA ja Tikkisen muutosesitys on EI"
+    re.compile(r"(?P<jaa>[^.:;\n]{3,200}?)[ \t]+on[ \t]+[”\"]?JAA[”\"]?[ \t]*(?:,|ja)[ \t]*(?P<ei>[^.:;\n]{3,200}?)[ \t]+on[ \t]+[”\"]?EI\b"),
+]
+_Q_SIDE = [
+    # "JAA esittelijän ehdotus" / "EI = Joni Meriläinen muutosesitys" on lines of their own
+    re.compile(r"^[ \t]*[”\"]?(?P<lbl>JAA|EI|JA|NEJ)[”\"]?(?:" + _Q_SEP + r"|[ \t]+)(?P<what>(?!\d)[^\n]{3,200})$", re.MULTILINE),
+    # "Jaa: hyvinvointialuejohtajan muutettu päätösehdotus" (title case needs a separator)
+    re.compile(r"^[ \t]*(?P<lbl>Jaa|Ei|Ja|Nej)[ \t]*[=:][ \t]*(?P<what>(?!\d)[^\n]{3,200})$", re.MULTILINE),
+    # "ne, jotka kannattavat aluehallituksen pohjaesitystä, äänestävät JAA"
+    re.compile(r"kannatta(?:vat|neet|ivat)[ \t]+(?P<what>[^.;\n]{3,200}?),?[ \t]+" + _Q_VERB + r"[ \t]+[”\"]?(?P<lbl>jaa|ei)\b",
+               re.IGNORECASE),
+    # "Liisa Kylmäsen muutosesitystä kannattavat äänestävät EI"
+    re.compile(r"(?P<what>[^.;,\n]{3,200}?)[ \t]+kannatta(?:vat|neet|ivat)[ \t]+" + _Q_VERB + r"[ \t]+[”\"]?(?P<lbl>jaa|ei)\b",
+               re.IGNORECASE),
+    # "De som understödde fortsatt behandling av ärendet skulle rösta ”JA”."
+    re.compile(r"som[ \t]+(?:under)?stöd(?:er|de)[ \t]+(?P<what>[^.;\n]{3,200}?),?[ \t]+(?:skulle[ \t]+)?röst(?:ar|a|ade)[ \t]+[”\"]?(?P<lbl>ja|nej)\b",
+               re.IGNORECASE),
+]
+# In the result: "päätösehdotus sai 6 JAA-ääntä", "fick fortsatt behandling av ärendet 11 JA-röster"
+_Q_RESULT = [
+    re.compile(r"(?P<what>[^.,;:\n]{3,150}?)[ \t]+sai[ \t]+\d{1,3}[ \t]+(?P<lbl>JAA|EI)\b"),
+    re.compile(r"fick[ \t]+(?P<what>[^.,;:\n]{3,150}?)[ \t]+\d{1,3}[ \t]+(?P<lbl>JA|NEJ)\b"),
+]
+# "Valtuutettu Arto Lampinen esitti, että asia palautetaan valmisteluun.",
+# "Valtuutettu Petra Schulze Steinen ponsiesitys: …"
+_MOTION = re.compile(
+    r"^[ \t]*(?!(?:JAA|EI|Jaa|Ei|JA|NEJ)\b)(?P<m>(?!Puheenjohtaja|Ordförande)[^\n]{0,200}?\b(?:ehdotti|esitti|föreslog)\b[^\n]{0,200}?\b(?:että|att)\b[^\n]+"
+    r"|(?!Puheenjohtaja|Ordförande)[^\n:]{0,120}?\b\w*(?:esitys|ehdotus|förslag):[ \t]*\S[^\n]+)", re.MULTILINE)
+_NOT_MOTION = re.compile(r"puheenjohtaja\w*\s+(?:esitti|ehdotti)|ordföranden\s+föreslog|äänest|omröst", re.IGNORECASE)
+_NAME_LIST = re.compile(r"^(?:[A-ZÅÄÖ][\w'-]+(?:[ \t]+[A-ZÅÄÖ][\w'-]+)+[ \t]*(?:,|ja|och|$)[ \t]*){2,}$")
+
+
+_NOT_SIDE = re.compile(r"^(?:ään|röst|antoi)|\b(?:antoivat|antoi|äänestivät|äänesti|röstade|de som)\b|\d\s*(?:ään|röst|kpl)",
+                       re.IGNORECASE)
+
+
+def _clean_side(what: str) -> str | None:
+    """A side of a voting proposal as a short phrase: "ne, jotka kannattavat pohjaesitystä,
+    vastaavat sanalla" -> "Pohjaesitystä"."""
+    what = re.sub(r"^.*?\b(?:ääntä|röster|röst)\s+(?:ja|och)\s+", "", what.strip(" \t”\"“'"), flags=re.IGNORECASE)
+    what = re.sub(r".*\b(?:siten,?\s+että|niin,?\s+että)\s+", "", what, flags=re.IGNORECASE)
+    what = re.sub(r"^[^:]*(?:äänest|omröst)[^:]*:\s*", "", what, flags=re.IGNORECASE)
+    what = re.sub(r"^(?:suoritetussa|toimitetussa)\s+äänestyksessä,?\s+|^vid\s+omröstningen\s+", "", what, flags=re.IGNORECASE)
+    what = re.sub(r"^(?:ja|sekä|että|jossa|joissa|där|och)\s+", "", what, flags=re.IGNORECASE)
+    what = re.sub(r"^(?:ne,?\s+jotka\s+|niiden,?\s+jotka\s+)", "", what, flags=re.IGNORECASE)
+    what = re.sub(r"^eivät\s+kannata\s+", "ei kannata ", what, flags=re.IGNORECASE)
+    what = re.sub(r"^kannatta\w*,?\s+(?:että\s+)?|^(?:de\s+)?som\s+(?:under)?stöd\w*\s+", "", what, flags=re.IGNORECASE)
+    what = re.sub(r",?\s+(?:" + _Q_VERB + r"|röst\w*|kannalla\s+olevat)$", "", what, flags=re.IGNORECASE)
+    what = re.sub(r",?\s+(?:s\.|sivu|sivulla|sid\.)\s*\d+$", "", what)  # page references
+    what = what.strip(" \t.,;:–-”\"“'()")
+    if what.count("(") > what.count(")"):
+        what += ")"
+    if _NOT_SIDE.search(what) or len(what) < 3 or len(what) > 200 or re.match(r"\d", what) or \
+            re.search(r"\d$", what) or _NAME_LIST.match(what):
+        return None
+    return what[0].upper() + what[1:]
+
+
+def _question(before: str, result: str) -> dict[str, str]:
+    """What JAA and EI stood for, from the text leading up to a vote (the last statement wins)
+    or, failing that, from the result sentence."""
+    found: list[tuple[int, dict[str, str]]] = []
+    for rx in _Q_PAIR:
+        for m in rx.finditer(before):
+            sides = {k: _clean_side(m.group(k)) for k in ("jaa", "ei")}
+            if all(sides.values()):
+                found.append((m.start(), sides))  # type: ignore[arg-type]
+    side: dict[str, tuple[int, str]] = {}
+    for rx in _Q_SIDE:
+        for m in rx.finditer(before):
+            key, what = _label_key(m.group("lbl")), _clean_side(m.group("what"))
+            if key in ("jaa", "ei") and what and m.start() >= side.get(key, (-1, ""))[0]:
+                side[key] = (m.start(), what)
+    if len(side) == 2:
+        found.append((min(p for p, _ in side.values()), {k: w for k, (_, w) in side.items()}))
+    if found:
+        return max(found, key=lambda f: f[0])[1]
+    out: dict[str, str] = {}
+    for rx in _Q_RESULT:
+        for m in rx.finditer(result):
+            key, what = _label_key(m.group("lbl")), _clean_side(m.group("what"))
+            if key in ("jaa", "ei") and what and key not in out:
+                out[key] = what
+    return out if len(out) == 2 else {}
+
+
+def _motion(before: str) -> str | None:
+    found = [m.group("m").strip() for m in _MOTION.finditer(before) if not _NOT_MOTION.search(m.group("m"))]
+    if not found:
+        return None
+    m = re.sub(r"\s+", " ", found[-1])
+    return m if len(m) <= 600 else m[:597].rsplit(" ", 1)[0] + " …"
+
+
+def _attach_questions(text: str, votes: list[Vote], at: dict[int, int]) -> None:
+    """Fill in what each vote was about from the last voting proposal before it. Several votes
+    in a row may share one ("Kussakin äänestyksessä … JAA … EI")."""
+    for v in votes:
+        if id(v) in at:
+            p = at[id(v)]
+            v.question = _question(text[:p], text[p:p + len(v.context) + 200])
+            v.motion = _motion(text[:p])
+
+
 def extract_votes(text: str | None) -> list[Vote]:
     """Find roll-call results in minutes prose. A vote needs at least a JAA and an EI count
     close together, so stray words like 'ei' do not produce votes."""
@@ -504,4 +620,5 @@ def extract_votes(text: str | None) -> list[Vote]:
             votes.append(Vote(counts=counts, context=para.strip()[:600]))
             at[id(votes[-1])] = start
     _attach_voters(text, votes, at)
+    _attach_questions(text, votes, at)
     return votes

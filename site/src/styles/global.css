@@ -319,7 +319,18 @@ details.section > div { padding: 0 18px 16px; }
 .dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; margin-right: 5px; }
 .vote-card { background: var(--surface); border: var(--border-w) solid var(--line); border-radius: var(--radius); padding: 18px 20px; margin: 14px 0; }
 .vote-card h3 { margin: 0 0 4px; }
-.vote-context { color: var(--muted); font-size: .9rem; white-space: pre-line; }
+.vote-context { color: var(--muted); font-size: .9rem; margin: 10px 0; }
+.vote-context summary { cursor: pointer; font-weight: 600; color: var(--ink); }
+.vote-context p { white-space: pre-line; margin: 6px 0 0; }
+.vote-question { margin: 10px 0 12px; }
+.vote-question h4 { margin: 0 0 6px; font-size: .78rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.vote-question dl { margin: 0; display: grid; gap: 6px; }
+.vote-question dl > div { display: grid; grid-template-columns: 4.2em 1fr; gap: 10px; align-items: baseline; }
+.vote-question dt { font-weight: 700; white-space: nowrap; }
+.vote-question dd { margin: 0; }
+.vote-question .won dd { font-weight: 600; }
+.won-chip { color: var(--jaa); font-size: .82rem; font-weight: 700; white-space: nowrap; }
+.vote-motion { margin: 10px 0 0; padding: 8px 12px; border-left: 3px solid var(--line); font-size: .9rem; }
 .note { font-size: .84rem; color: var(--muted); }
 
 .cite { background: var(--surface-2); border: 1px solid var(--line); border-radius: var(--radius); padding: 12px 14px; font-size: .86rem; word-break: break-word; }

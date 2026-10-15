@@ -6,7 +6,16 @@ import path from 'node:path';
 export type Lang = 'fi' | 'sv' | 'en';
 export type Bilingual = Partial<Record<Lang, string>>;
 
-export interface Vote { counts: Record<string, number>; context: string; provisional: boolean; names?: Record<string, string[]> }
+export interface Vote {
+  counts: Record<string, number>; context: string; provisional: boolean; names?: Record<string, string[]>;
+  /** What each side stood for, e.g. { jaa: 'Pohjaehdotus', ei: 'SDP-valtuustoryhmän muutosehdotus' }. */
+  question?: Record<string, string>; motion?: string | null;
+}
+/** The side that got more votes, or null on a tie (the chair's vote decides, which the counts do not show). */
+export const winner = (v: Vote) => {
+  const { jaa = 0, ei = 0 } = v.counts;
+  return jaa > ei ? 'jaa' : ei > jaa ? 'ei' : null;
+};
 export interface Section { heading: string; text: string }
 export interface Attachment { title: string; url: string }
 export interface Participant { name: string; role: string; group: 'member' | 'other' | 'absent' }
@@ -324,7 +333,8 @@ export function voteRows() {
         out.push({
           date: m.date, region: m.region, body: m.body_name, bodyType: bodyTypeOf(m.region, m.body_id),
           number: it.number, title: it.title, jaa: v.counts.jaa ?? null, ei: v.counts.ei ?? null,
-          tyhja: v.counts.tyhja ?? null, poissa: v.counts.poissa ?? null, url: itemUrl(m, i), source: it.source_url,
+          tyhja: v.counts.tyhja ?? null, poissa: v.counts.poissa ?? null,
+          jaaMeans: v.question?.jaa ?? null, eiMeans: v.question?.ei ?? null, url: itemUrl(m, i), source: it.source_url,
           twin: m.twin ?? null,
         });
       }
