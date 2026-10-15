@@ -2,6 +2,8 @@
 import Layout from '../layouts/Layout.astro';
 import T from '../components/T.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { TOPICS } from '../lib/topics';
+const topicFilter = Object.fromEntries(TOPICS.map((x) => [x.id, x.label.fi]));
 ---
 <Layout title="Haku">
   <Breadcrumbs trail={[{ fi: 'Haku', sv: 'Sök', en: 'Search' }]} />
@@ -12,7 +14,9 @@ import Breadcrumbs from '../components/Breadcrumbs.astro';
   </div>
   <div id="search" class="pf"></div>
   <noscript>Haku vaatii JavaScriptin. / Sökningen kräver JavaScript.</noscript>
+  <script type="application/json" id="topic-filter" set:html={JSON.stringify(topicFilter)} />
   <script is:inline>
+    var TOPIC_FILTER = JSON.parse(document.getElementById('topic-filter').textContent);
     function start() {
       window.THsearch('#search').then(function (ui) {
         var params = new URLSearchParams(location.search);
@@ -20,6 +24,7 @@ import Breadcrumbs from '../components/Breadcrumbs.astro';
         var f = {};
         if (params.get('region')) f.Alue = [params.get('region')];
         if (params.get('body')) f.Toimielin = [params.get('body')];
+        if (TOPIC_FILTER[params.get('topic')]) f.Aihe = [TOPIC_FILTER[params.get('topic')]];
         if (Object.keys(f).length) ui.triggerFilters(f);
       });
     }

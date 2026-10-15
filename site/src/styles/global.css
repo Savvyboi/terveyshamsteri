@@ -220,6 +220,14 @@ a.card:hover { border-color: var(--blue); }
 .chip.muted { background: var(--surface-2); color: var(--muted); border: 1px solid var(--line); }
 .chip.warn { background: var(--warn-soft); color: var(--warn); }
 .chip.agenda { background: var(--warm-soft); color: var(--ink); }
+.topic-grid { list-style: none; padding: 0; margin: 0 0 14px; display: flex; flex-wrap: wrap; gap: 8px; }
+.topic-grid a { display: inline-flex; align-items: center; gap: .5em; padding: 7px 12px; border: var(--border-w) solid var(--line); border-radius: 999px; background: var(--surface); color: var(--ink); text-decoration: none; font-weight: 600; font-size: .9rem; }
+.topic-grid a:hover { border-color: var(--blue); color: var(--blue); }
+.topic-grid .n { color: var(--muted); font-weight: 400; font-variant-numeric: tabular-nums; }
+.topic-chips { display: flex; flex-wrap: wrap; gap: 4px 8px; align-items: center; margin: 8px 0 0; }
+table.data .topic-chips { margin-top: 4px; }
+.topic-chip { display: inline-block; padding: 1px 9px; border-radius: 999px; background: var(--blue-soft); color: var(--blue); font-size: .8rem; font-weight: 600; text-decoration: none; }
+.topic-chip:hover { text-decoration: underline; }
 .chip.vote { background: var(--blue-soft); color: var(--blue); }
 
 /* Lists */

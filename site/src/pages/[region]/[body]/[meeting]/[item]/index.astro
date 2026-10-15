@@ -5,6 +5,8 @@ import Breadcrumbs from '../../../../../components/Breadcrumbs.astro';
 import VoteBar from '../../../../../components/VoteBar.astro';
 import PartySplit from '../../../../../components/PartySplit.astro';
 import VoterList from '../../../../../components/VoterList.astro';
+import L from '../../../../../components/L.astro';
+import { topicById, topicsOf } from '../../../../../lib/topics';
 import { counted, winner, fmtDate, itemSlug, itemUrl, load, meetingSlug, meetingUrl, regionById, url, type Meeting } from '../../../../../lib/data';
 
 export function getStaticPaths() {
@@ -21,6 +23,7 @@ const sections = it.sections.filter((s) => !hidden.has(s.heading.toLowerCase()) 
 const canonical = new URL(itemUrl(m, i), Astro.site).href;
 const citation = `${r.name.fi}, ${m.body_name} ${fmtDate(m.date)}${it.number ? ` § ${it.number}` : ''}: ${it.title}. ${it.source_url} (haettu ${new Date(m.provenance.fetched_at).toLocaleDateString('fi-FI')}; ${canonical})`;
 const citeId = `cite-${i}`;
+const topics = topicsOf(it.title).map((id) => topicById(id)!);
 ---
 <Layout title={`${it.number ? `§ ${it.number} ` : ''}${it.title}`} description={(it.decision ?? it.proposal ?? '').slice(0, 200)}>
   <Breadcrumbs trail={[
@@ -36,6 +39,7 @@ const citeId = `cite-${i}`;
     <span hidden data-pagefind-filter={`Toimielin:${m.body_name}`}></span>
     <span hidden data-pagefind-filter={`Vuosi:${m.date.slice(0, 4)}`}></span>
     {it.votes.length > 0 && <span hidden data-pagefind-filter="Äänestys:kyllä"></span>}
+    {topics.map((x) => <span hidden data-pagefind-filter={`Aihe:${x.label.fi}`}></span>)}
     <div class="page-head">
       <p class="kicker">{m.body_name}</p>
       <h1 data-pagefind-meta="title">{it.number && `§ ${it.number} `}{it.title}</h1>
@@ -45,6 +49,12 @@ const citeId = `cite-${i}`;
         {m.stage === 'agenda' ? <span class="chip agenda"><T k="agenda" /></span> : <span class="chip muted"><T k={m.stage === 'minutes-unverified' ? 'minutesUnverified' : 'minutes'} /></span>}
         {it.votes.length > 0 && <span class="chip vote"><T k="vote" /></span>}
       </p>
+      {topics.length > 0 && (
+        <p class="topic-chips" data-pagefind-ignore>
+          <span class="note"><T k="topics" />:</span>
+          {topics.map((x) => <a class="topic-chip" href={`${url('aiheet')}?topic=${x.id}`}><L fi={x.label.fi!} sv={x.label.sv} en={x.label.en} /></a>)}
+        </p>
+      )}
     </div>
 
     <div class="columns">
