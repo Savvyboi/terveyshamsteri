@@ -2,7 +2,7 @@
 import json, traceback, urllib.request
 out = open("probe-out.txt", "w", encoding="utf-8")
 try:
-    u = "https://pxdata.stat.fi/PxWeb/api/v1/fi/StatFin/vaerak/statfin_vaerak_pxt_11ra.px"
+    u = "https://pxdata.stat.fi/PxWeb/api/v1/fi/StatFin/vaerak/11ra.px"
     meta = json.load(urllib.request.urlopen(u, timeout=60))
     for v in meta["variables"]:
         vals = list(zip(v["values"], v["valueTexts"]))
