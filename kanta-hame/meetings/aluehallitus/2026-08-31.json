@@ -1,0 +1,759 @@
+{
+ "id": "aluehallitus/2026-08-31",
+ "region": "kanta-hame",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2026-08-31",
+ "stage": "minutes",
+ "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026243",
+ "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026243.PDF",
+ "time": "09:01 - 14:09",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "291",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026243-1",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026243-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää todeta kokouksen lailliseksi ja päätösvaltaiseksi.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen. Lisäksi aluehallitus päätti myöntää läsnäolo- ja puheoikeuden asian § 294 osalta henkilöstöjohtaja Johanna Bjerregård Madsenille ja projektipäällikkö Milla Ahtiaiselle; asian § 295 osalta talousjohtaja Sampo Salolle; asian § 296 osalta toimialajohtaja Marika Paasikoski-Junniselle ja ylilääkäri Anu Mähöselle; asioiden § 298 ja § 299 osalta toimialajohtaja Jarmo Lappalaiselle ja tulosaluejohtaja Laura Nikkarilalle.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallituksen kokouskutsusta on säädetty hallintosäännön 139 §:ssä. Hyvinvointialueesta annetun lain 108 §:n 2 momentin mukaan aluehallitus on päätösvaltainen, kun yli puolet jäsenistä on läsnä."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluehallitus päättää todeta kokouksen lailliseksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen. Lisäksi aluehallitus päätti myöntää läsnäolo- ja puheoikeuden asian § 294 osalta henkilöstöjohtaja Johanna Bjerregård Madsenille ja projektipäällikkö Milla Ahtiaiselle; asian § 295 osalta talousjohtaja Sampo Salolle; asian § 296 osalta toimialajohtaja Marika Paasikoski-Junniselle ja ylilääkäri Anu Mähöselle; asioiden § 298 ja § 299 osalta toimialajohtaja Jarmo Lappalaiselle ja tulosaluejohtaja Laura Nikkarilalle."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "292",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026243-2",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026243-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää valita kaksi jäsentä tarkastamaan tämän kokouksen pöytäkirjan.",
+   "decision": "Aluehallitus päätti valita pöytäkirjantarkastajiksi Johanna Häggmanin ja Helena Lehkosen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hallintosäännön 159 §:n mukaan pöytäkirja tarkastetaan toimielimen päättämällä tavalla. Pöytäkirja voidaan allekirjoittaa ja tarkastaa sähköisesti.\n\nAluehallituksen pöytäkirjan tarkastaa kaksi kullakin kerralla tähän tehtävään valittua hallituksen jäsentä, jollei aluehallitus jonkin asian kohdalla toisin päätä. Tällä kertaa tarkastusvuorossa ovat Helena Lehkonen ja Johanna Häggman (varalla Pirjo Alijärvi)."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluehallitus päättää valita kaksi jäsentä tarkastamaan tämän kokouksen pöytäkirjan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti valita pöytäkirjantarkastajiksi Johanna Häggmanin ja Helena Lehkosen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "293",
+   "title": "Kokouksen työjärjetyksen hyväksyminen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026243-3",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026243-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää hyväksyä tämän kokouksen työjärjestyksen.",
+   "decision": "Aluehallitus päätti käsitellä asiat esityslistan mukaisessa järjestyksessä.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluehallitus päättää hyväksyä tämän kokouksen työjärjestyksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti käsitellä asiat esityslistan mukaisessa järjestyksessä."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "294",
+   "title": "Ilmoitusasiat",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026243-4",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026243-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä tiedoksi esitetyt ilmoitusasiat.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.\n\nKylli Kylliäinen poistui kokouksesta tämän asian käsittelyn aikana ennen päätöksentekoa.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "1. Aluehallituksen aamukouluasiat\n\n Palkkausjärjestelmä / henkilöstöjohtaja Johanna Bjerregård Madsen ja projektipäällikkö Milla Ahtiainen"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä tiedoksi esitetyt ilmoitusasiat."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen.\n\nKylli Kylliäinen poistui kokouksesta tämän asian käsittelyn aikana ennen päätöksentekoa."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "295",
+   "title": "Muutoskäyttösuunnitelma II 2026",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026243-5",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026243-5.PDF",
+   "diary_number": "6997/02.02.01/2026",
+   "preparer": "talousjohtaja Sampo Salo",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää hyväksyä muutoskäyttösuunnitelman II 2026.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.\n\nMaija Kranni poistui kokouksesta tämän asian käsittelyn aikana ennen päätöksentekoa.\n\nKarri Vanttaja liittyi kokoukseen tämän asian käsittelyn aikana ennen päätöksentekoa.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "talousjohtaja Sampo Salo"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluevaltuusto on kokouksessaan 16.12.2025 (§ 124) hyväksynyt Kanta-Hämeen hyvinvointialueen talousarvion vuodelle 2026 sekä taloussuunnitelman vuosille 2026–2028. Talousarvio vuodelle 2026 on 95,5 miljoonaa euroa ylijäämäinen. Aluevaltuusto on kokouksessaan 19.5.2026 (§ 26) hyväksynyt vuoden 2026 ensimmäisen muutostalousarvion (ehdottomat talousarviomuutokset liitteen 1 mukaisesti), jossa tehtiin toimialojen sisäisiä määräraha siirtoja sekä siirtoja perustuen aluehallituksen 2.3.2026 (§95) tekemään päätökseen vammaispalveluiden ja ikääntyneiden asiakasohjauksen tulosalueiden lakkauttamisesta ja näiden palvelukokonaisuuksien siirtämisestä toimialojen välillä. Muutoksilla ei ollut olennaista vaikutusta hyvinvointialueen toimintakatteeseen tai tilikauden tulokseen.\n\nTalousarvion muutoskäyttösuunnitelma II 2026 perustuu aluevaltuuston kokouksessa 19.5.2026 (§ 26) hyväksymään ehdollisiin talousarviomuutoksiin (liite 2), jotka tulevat voimaan, mikäli hyvinvointialueelle myönnetään sen hakema lisäaika alijäämien kattamiseksi. Ehdollinen muutostalousarvio astui voimaan heinäkuussa, kun valtiovarainministeriö hyväksyi Kanta-Hämeen hyvinvointialueen hakemuksen alijäämien kattamiskauden jatkamisesta vuoteen 2029 saakka (VN/17434/2026). Muutoskäyttösuunnitelma II 2026 on päivitetty vastaamaan hyväksyttyä ehdollista muutostalousarviota 2026.\n\nHallintosäännön 65 §:n mukaan aluehallitus hyväksyy talousarvioon perustuvan käyttösuunnitelmansa. Muutoskäyttösuunnitelmassa II 2026 kohdennetaan ehdolliset talousarviomuutokset toimialoilta tulosalueille. Muutosten jälkeen hyvinvointialueen ylijäämäksi muodostuu 35 miljoonaa euroa. Toiminnan tavoitteet eivät muutu, lukuun ottamatta ikäihmisten pitkäaikaisen ympärivuorokautisen palveluasumisen peittävyystavoitteen muutosta.\n\nMuutoskäyttösuunnitelma II 2026 on esityslistan liitteenä.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 65 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää hyväksyä muutoskäyttösuunnitelman II 2026."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen.\n\nMaija Kranni poistui kokouksesta tämän asian käsittelyn aikana ennen päätöksentekoa.\n\nKarri Vanttaja liittyi kokoukseen tämän asian käsittelyn aikana ennen päätöksentekoa."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / talousjohtaja Sampo Salo"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Talousarvion muutoskäyttösuunnitelma II 2026",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026243-5-425883.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "296",
+   "title": "Kanta-Hämeen hyvinvointialueen neuvolasuunnitelman päivitys",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026243-6",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026243-6.PDF",
+   "diary_number": "11395/00.01.02.00/2026",
+   "preparer": "tulosaluejohtaja, Perhekeskuspalvelut Riikka Lammintausta-Mäkelä",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää esittää aluevaltuustolle, että se hyväksyy liitteenä olevan Kanta-Hämeen hyvinvointialueen neuvolasuunnitelman 2026 – 2028.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "tulosaluejohtaja, Perhekeskuspalvelut Riikka Lammintausta-Mäkelä"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Terveydenhuoltolain (1326/2010) neuvolatoimintaa koskevan 15 §:n mukaisesti hyvinvointialueen vastuulla olevien neuvolapalvelujen toteuttamiseksi tulee laatia aluevaltuustolle valtuustokausittain alueellinen neuvolasuunnitelma. Suunnitelma liitetään osaksi lastensuojelulain 12 §:n 3 momentin mukaista alueellista lasten ja nuorten hyvinvointisuunnitelmaa ja se tulee tarkistaa tarvittaessa.\n\nEdeltävä, Kanta-Hämeen hyvinvointialueen ensimmäinen neuvolasuunnitelma laadittiin vuosille 2023–2025 ja se hyväksyttiin aluevaltuustossa 5.9.2023 § 66. Kanta-Hämeen hyvinvointialueen ensimmäinen lasten ja nuorten hyvinvointisuunnitelma hyväksyttiin aluevaltuustossa 18.02.2025 § 4. Tuolloin todettiin, että neuvolasuunnitelma tullaan päivittämään myöhemmin.\n\nEnnen varsinaista päätöksentekokäsittelyä pyydettiin vaikuttamistoimielimiltä huomiot ja kannanotot neuvolasuunnitelmaan. Mitään muutosesityksiä suunnitelman sisältöön ei tuotu esille.\n\nIntegraatiovaliokunta käsitteli 23.4.2026 (§ 26) neuvolasuunnitelmaa osana palveluintegraation seurantaan sekä hyvinvoinnin ja terveyden edistämiseen liittyvien ohjelmien ja suunnitelmien valmisteluun, seurantaan ja arviointiin liittyvän tehtävänsä vuoksi. Integraatiovaliokunta merkitsi suunnitelman tiedoksi osana sille annettua seurantatehtävää. Lisäksi integraatiovaliokunta kiinnitti huomiota siihen, että integraation ja yhteisasiakkuuden edistäminen voisi näkyä neuvolasuunnitelmassa vahvemmin, ja että neuvola voi tarjota myös omaa erityisosaamistaan muille toimijoille. Integraation ja yhteisasiakkuuden edistäminen on kuvattu suunnitelmassa erityisesti luvussa 7.4 Monialaiset toimintamallit, luvussa 8 Ryhmätoiminta ja ryhmäneuvola, luvussa 9 Digitaaliset palvelut ja luvussa 11 Yhteistyötahot. Neuvolan erityisosaamisen tarjoaminen muille toimijoille toteutuu näiden monialaisten toimintamallien kautta.\n\nKanta-Hämeen hyvinvointialueen neuvolasuunnitelman laatimiseen on osallistunut perhekeskusylilääkäri, kasvun ja kehityksen tuen lähijohtajia sekä vastuuterveydenhoitajia. Neuvolasuunnitelmatyöryhmän puheenjohtajana on toiminut perhekeskusylilääkäri Anu Mähönen.\n\nNeuvolapalvelut ovat olleet suuressa murroksessa viimeisten vuosikymmenten ajan, sillä yhteiskunnan muututtua myös tarvittava neuvolapalvelu on muuttunut. Palvelutarpeen määrä vaikuttaa lisääntyneen. Tämän päivän neuvoloissa työskentelevät oman erikoisalansa asiantuntijat pyrkien vastaamaan asiakkaitten moninaisiin kysymyksiin huomioiden koko perheen terveys, hyvinvointi ja jaksaminen. Universaaleissa neuvolapalveluissa kohdataan lähes kaikki raskaana olevien perheet, vauvat ja leikki-ikäiset vanhempineen sekä iso osa perhesuunnittelu-neuvontaa hakevista asiakkaista. Neuvolatoimintaa arvostetaan, ja työntekijöiden osaamiseen luotetaan.\n\nTässä neuvolasuunnitelmassa kuvataan Kanta-Hämeen hyvinvointialueen neuvolatoimintaa ja neuvolatoiminnan arvoista nousevia painopistealueita osana perhekeskuksen monialaisia palveluita. Äitiys- ja lastenneuvolan toimintaohjelmat on yhtenäistetty, ja niitä noudatetaan koko alueella hyvinvointialueen strategisten arvojen mukaisesti vaikuttavuuteen, rohkeuteen, yhdenvertaisuuteen ja asiakaslähtöisyyteen panostaen.\n\nKanta-Hämeen hyvinvointialueen neuvolasuunnitelma 2026 – 2028 on liitteenä.\n\n(MP-J)\n\nToimivallan peruste\nTerveydenhuoltolaki (1326/2010) 15 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää esittää aluevaltuustolle, että se hyväksyy liitteenä olevan Kanta-Hämeen hyvinvointialueen neuvolasuunnitelman 2026 – 2028."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösesitys / aluevaltuusto"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 LUONNOS_K_H_neuvolasuunnitelma_2026_2028",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026243-6-425864.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "297",
+   "title": "Vastine tarkastuslautakunnan vuoden 2025 arviointikertomuksesta",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026243-7",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026243-7.PDF",
+   "diary_number": "10947/00.03.00/2026",
+   "preparer": "toimialajohtaja Jussi Savola",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää antaa tarkastuslautakunnan arviointikertomuksesta liitteenä olevan vastineen ja toimittaa sen edelleen aluevaltuustolle tiedoksi.",
+   "decision": "Aluehallitus päätti palauttaa asian uudelleen valmisteltavaksi.",
+   "discussion": "Keskustelun aikana Johanna Häggman teki Eero Puran kannattama muutosesityksen, että asia palautetaan uudelleen valmisteltavaksi.\n\nPuheenjohtaja totesi aluehallituksen kannattavan yksimielisesti Johanna Häggmanin muutosesitystä.",
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "toimialajohtaja Jussi Savola"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Tarkastuslautakunta on kokouksessaan 21.5.2026 § 37 hyväksynyt vuoden 2025 arviointikertomuksen. Aluevaltuusto on käsitellyt asiaa 9.6.2026 § 35 ja päätti merkitä vuoden 2025 arviointikertomuksen tiedoksi ja että aluehallitus antaa aluevaltuustolle hyvinvointialuelain mukaisen vastineen arviointikertomuksessa esitettyihin kysymyksiin syyskuun loppuun mennessä.\n\nArviointikertomuksen toisessa luvussa tarkastuslautakunta esittää neljä kysymystä aluehallitukselle. Kysymykset ovat seuraavat:\n\nKysymys 1\n\nAluevaltuusto asetti talousarviossa koko hyvinvointialuetta koskevaksi sitovaksi avaintulokseksi onnistumiskeskustelujen käymisen. Keskustelujen toteuma oli tilikaudella 74 %, kun tavoite oli 100. Pelastustoimessa toteuma oli 47 %, jossa edelleen ensihoidossa 25 %.\n\nTarkastuslautakunta kysyy, mitkä tekijät estävät käymästä keskustelut tavoitteen mukaisesti? Mitä vaikutuksia onnistumiskeskustelun käymättä jättämisellä on? Miten jatkossa varmistutaan aluevaltuuston tahtotilan toteutumisesta?\n\nKysymys 2\n\nVuoden 2025 tilinpäätöksessä ei ole edellisten vuosien tapaan raportoitu konserniyhteisöille asetettujen talousarviotavoitteiden toteutumista. Esimerkiksi Oma Hämeen Tukipalvelut Oy:lle asetettiin tavoitteet kannattavuudelle, palvelun laadulle, kilpailukykyiselle hinnalle, sidosyksikköasemalle ja markkinoiden yleiselle hintatasolle.\n\nTarkastuslautakunta kysyy, miten nämä tukipalveluyhtiön tavoitteet toteutuivat ja miten niitä on mitattu?\n\nKysymys 3\n\nSosiaalihuollon asiakastietojärjestelmä on ollut useissa kilpailutuksissa ja päätöksissä, mutta yhtenäistä järjestelmää ei ole toistaiseksi saatu käyttöön. Hankintaprosessien keskeytymiset, sopimuksen purku sekä markkinaoikeuden ratkaisu ovat johtaneet tilanteeseen, jossa hyvinvointialue toimii väliaikaisilla ja hajanaisilla järjestelmäratkaisuilla samalla, kun lainsäädäntö edellyttää sosiaalihuollon asiakastietojen siirtämistä Kanta palveluihin viimeistään 1.9.2026.\n\nMillä konkreettisilla toimenpiteillä hyvinvointialue varmistaa, että se pystyy täyttämään sosiaali- ja terveydenhuollon asiakastietojen käsittelystä annetun lain (703/2023) mukaiset velvoitteet määräajassa, erityisesti sosiaalihuollon Kanta-liittymisen, asiakasasiakirjojen määrämuotoisen kirjaamisen, asiakastietojen tietoturvan sekä asiakkaiden tiedonsaantioikeuden toteutumisen?\n\nKysymys 4\n\nADHD-potilaiden määrä on kasvussa. ADHD-potilaiden seurannan painottuminen Kanta Hämeessä kouluterveydenhuollon tehtäväksi poikkeaa valtakunnallisista hoitosuosituksista ja kouluterveydenhuollolle asetetusta perustehtävästä. Vaikka nykyinen toimintamalli olisikin lapsen ja perheen näkökulmasta koettu Oma Hämeessä toimivaksi, se nojaa palvelurakenteeseen, jonka resursointi ja mitoitus eivät välttämättä huomioi sairaanhoitoa.\n\nMiten varmistetaan, että ADHD-potilaiden hoidon vastuunjako on tarkoituksenmukainen ja hoidon seuranta toteutuu laadukkaasti? Miten varmistetaan, että kouluterveydenhuollon resurssit, mitoitus ja lakisääteiset perustehtävät eivät vaarannu ADHD-potilaiden määrän kasvaessa?\n\nSosiaalihuollon asiakastietojärjestelmän uudistaminen on ollut hyvinvointialueella usean vuoden ajan käynnissä oleva strategisesti merkittävä kokonaisuus. Tavoitteena on yhtenäinen ja lainsäädännön vaatimukset täyttävä asiakastietojärjestelmä. Hankkeen eteneminen on viivästynyt, kun hyvinvointialue purki vuonna 2024 Mediconsult Oy:n Saga-järjestelmää koskeneen hankintasopimuksen ja vuonna 2025 yhteistyössä Keski-Suomen hyvinvointialueen kanssa toteutetussa uudessa hankinnassa tehty hankintapäätös kumottiin markkinaoikeudessa. Yhtenäisen järjestelmän käyttöönoton viivästyttyä hyvinvointialue on turvannut sosiaalihuollon lakisääteisten Kanta-velvoitteiden toteutumista kehittämällä ja päivittämällä käytössä olevia asiakastietojärjestelmiä. Kanta-velvoitteiden toteutuminen, tunnistetut poikkeamat sekä niiden korjaamiseksi toteutetut ja suunnitellut toimenpiteet kuvataan tarkemmin liitteenä olevassa vastineessa.\n\nHyvinvointialueesta annetun lain 125 §:n 5 momentin mukaan aluehallitus antaa aluevaltuustolle lausunnon toimenpiteistä, joihin arviointikertomus antaa aihetta.\n\nLautakunnat ovat käsitelleet tarkastuslautakunnan arviointikertomusta. Lautakuntien päätökset ovat liitteenä.\n\nArviointikertomuksen muut havainnot otetaan huomioon toimialojen kehitystyössä.\n\nKonserni- ja tukipalvelujen toimiala on valmistellut vastineen tarkastuslautakunnan esittämiin kysymyksiin. Vastine on liitteenä.\n\n(JS)\n\nToimivallan peruste\nLaki hyvinvointialueesta (611/2021) 125.5 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää antaa tarkastuslautakunnan arviointikertomuksesta liitteenä olevan vastineen ja toimittaa sen edelleen aluevaltuustolle tiedoksi."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Keskustelun aikana Johanna Häggman teki Eero Puran kannattama muutosesityksen, että asia palautetaan uudelleen valmisteltavaksi.\n\nPuheenjohtaja totesi aluehallituksen kannattavan yksimielisesti Johanna Häggmanin muutosesitystä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti palauttaa asian uudelleen valmisteltavaksi."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Aluehallituksen vastine tarkastuslautakunnalle",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026243-7-426267.PDF"
+    },
+    {
+     "title": "Liite 2 Pöytäkirjanote Terveyden ja toimintakyvyn edistämisen lautakunta 25.8.2026 § 58",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026243-7-426404.PDF"
+    },
+    {
+     "title": "Liite 3 Pöytäkirjanote Elämänkaarilautakunta 26.8.2026 § 67",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026243-7-426727.PDF"
+    },
+    {
+     "title": "Liite 4 Pöytäkirjanote Turvallisuuslautakunta 27.8.2026 § 38",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026243-7-426773.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "298",
+   "title": "Vastaus hyvinvointialuealoitteeseen koskien Hauhon ja Lammin suun terveydenhuollon palveluita",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026243-8",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026243-8.PDF",
+   "diary_number": "3937/00.01.03.00/2026",
+   "preparer": "suun terveydenhuollon tulosaluejohtaja Laura Nikkarila, terveydenhuollon toimialajohtaja Jarmo Lappalainen",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää\n\nhyväksyä hyvinvointialuealoitteeseen laaditun vastauksen;\n\ntodeta, ettei aloitteessa tai sen käsittelyn yhteydessä ole tullut esille sellaista uutta selvitystä tai sellaisia muuttuneita olosuhteita, joiden perusteella aluevaltuuston 9.4.2024 § 30 tekemää palveluverkkopäätöstä olisi perusteltua muuttaa Hauhon ja Lammin suun terveydenhuollon palvelujen osalta;\n\nesittää aluevaltuustolle, ettei palveluverkkopäätöstä muuteta aloitteessa esitetyllä tavalla ja että suun terveydenhuollon palvelut järjestetään aluevaltuuston hyväksymien palveluverkon määritysperiaatteiden ja palveluverkkopäätöksen mukaisesti siten, että palvelujen lainmukainen saatavuus ja saavutettavuus turvataan myös Hauhon ja Lammin alueella sekä\n\nesittää aluevaltuustolle, että se toteaa hyvinvointialuealoitteen loppuun käsitellyksi.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.\n\nKylli Kylliäinen palasi kokoukseen tämän asian käsittelyn aikana ennen päätöksentekoa.\n\nRiku Bitter poistui kokouksesta tämän asian käsittelyn aikana ennen päätöksentekoa.\n\nToimialajohtaja Jarmo Lappalainen ja tulosaluejohtaja Laura Nikkarila olivat kokouksessa paikalla asiantuntijoina tämän asian käsittelyn aikana ja he poistuivat ennen päätöksentekoa.",
+   "discussion": "Keskustelun aikana Eija Saksala teki Minna Laxin, Sari Auvisen, Mikko Kauton ja Otto Erikssonin kannattamana seuraavan muutosesityksen:\n\n”Ehdotan, että terveyden ja toimintakyvyn edistämisen lautakunta päättää hyväksyä omalta osaltaan hyvinvointialuealoitteen ja esittää sen hyväksymistä edelleen aluehallitukselle ja aluevaltuustolle.”\n\nKoska oli tehty kannatettu muutosesitys, jota ei voitu yksimielisesti hyväksyä, teki puheenjohtaja seuraavan äänestysesityksen: Ne, jotka kannattavat käsittelyn pohjana olevaa toimialajohtajan esitystä, äänestävät JAA ja ne, jotka kannattavat Eija Saksalan muutosesitystä äänestävät EI. Puheenjohtaja esitti, että äänestys toimitetaan nimenhuutona. Puheenjohtajan esitykset hyväksyttiin.\n\nÄänestyksessä annettiin 6 JAA-ääntä (Kranni, Närkki, Pellinen, Haapanen, Järvinen, Viitanen) ja 7 EI-ääntä (Auvinen, Eriksson, Kautto, Lax, Räsänen, Saksala, Salmi). Puheenjohtaja totesi Eija Saksalan muutosesityksen tulleen hyväksytyksi ja terveyden ja toimintakyvyn edistämisen lautakunnan päätökseksi.",
+   "sections": [
+    {
+     "heading": "",
+     "text": "Terveyden ja toimintakyvyn edistämisen lautakunta 16.06.2026 § 51"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "suun terveydenhuollon tulosaluejohtaja Laura Nikkarila, terveydenhuollon toimialajohtaja Jarmo Lappalainen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hauhon Pitäjä ry:n, Hauhon sosiaali- ja terveysasioiden seurantaryhmä, Sydänlammin kyläyhdistys ry:n ja Lammin sosiaali- ja terveysasioiden seurantaryhmä ovat tehneet 15.3.2026 päivätyn hyvinvointialuealoitteen.\n\nHyvinvointialuealoitteessa esitetään, että aluevaltuusto muuttaa 9.4.2024 tekemäänsä päätöstä säilyttää suun terveydenhuollon palvelut Hauholla ja Lammilla nykyisissä tai vastaavissa kiinteissä tiloissa.\n\nAloitteessa on tuotu esille, että aloitteen tekijöiden mielestä palveluverkkopäätöksen mukaista suun terveydenhuollon vaiheittaista keskittämistä kolmeen palvelukeskukseen vuoteen 2030 mennessä ei tulisi tehdä Lammin ja Hauhon hammashoitoloiden osalta.\n\nHyvinvointialuelain (611/2021) 30 §:n mukaan hyvinvointialueen jäsenellä on oikeus tehdä aloitteita hyvinvointialueen toimintaa koskevissa asioissa. Aloitteen tekijälle on ilmoitettava aloitteen johdosta suoritetut toimenpiteet. Aloitteessa on oltava kunkin aloitteen tekijän osalta perusteet, joista käy ilmi hyvinvointialueen jäsenyys. Aloitetta käsiteltäessä hyvinvointialueen on varattava aloitteen tekijöiden edustajille tilaisuus tulla kuulluiksi.\n\nKanta-Hämeen hyvinvointialueen hallintosäännön 162 §:n mukaan aloitteen käsittelee se hyvinvointialueen viranomainen, jolla on toimivalta tehdä päätöksiä aloitteen tarkoittamassa asiassa.\n\nSuun terveydenhuollon tulosalueen vastaus hyvinvointialuealoitteeseen, käsittelyn etenemisen aikataulu ja informointi kuulemisesta on toimitettu\n\naloitteen tekijöiden yhteyshenkilölle 22.5.2026. Kuulemisvastaus on pyydetty 8.6.2026 klo 12.00 mennessä. Aloitteen tekijöiden yhteyshenkilö on toimittanut kuulemislausunnon määräaikaan mennessä, 7.6.2026.\n\nSuun terveydenhuollon tulosalueen vastauksen ydinsisältö painottuu siihen, että palveluverkkopäätöstä edeltävästi joulukuussa 2023 aluevaltuusto on tehnyt päätöksen niistä määrittelyperiaatteista, jotka ohjaavat palveluverkon rakentamista Kanta-Hämeen hyvinvointialueella. Palveluverkkopäätös pohjautuu näihin määrittelyperiaatteisiin. Tulosalueen vastauksessa todetaan, että nämä määrittelyperiaatteet ovat edelleen olemassa ja vastauksessa on kuvattu niiden vaikutusta osana suun terveydenhuollon palveluita.\n\nKuulemislausunnon ydinsisältö on, että suun terveydenhuollon järjestämisessä tulisi ottaa aikalisä. Pitäjien hammashoitoloiden tarve tulisi arvioida vuoteen 2030 mennessä. Aloitteentekijät esittävät mietittäväksi, onko johtavien viranhaltijoiden esittämä Hauhon ja Lammin hammashoitoloiden alasajo perusteltu ja voidaanko näiden hyvinvointialueen osien palvelutarve toteuttaa liikkuvalla yksiköllä ja Hämeenlinnaan keskitettävillä palveluilla. Näkökulma, jota vaaditaan, on yhdenvertaisuus.\n\nSuun terveydenhuollon tulosalue nostaa vielä esiin sen, että tulosalueen\n\npalveluita ei hyvinvointialueella enää ole järjestetty kuntapohjaisella mallilla, vaan kaikki alueen palvelut ovat jokaisen alueen asukkaan käytössä. Kunnittain ei voida laskea henkilöstömitoituksia, sillä vastaanottoaikoja annetaan yli vanhojen kuntarajojen asiakkaan yksilöllisen hoidontarpeen mukaan.\n\nJohtopäätöksenä edelleen ilmaistaan, että palveluverkkopäätöksessä\n\n(9.4.2024, §30) todetaan, että suun terveydenhuollon palvelut voidaan koota kolmeen palvelukeskukseen vaiheittain vuoteen 2030 mennessä. Palveluverkkopäätöksen pohjana ovat toimineet palveluverkon määrittelyperiaatteet, jotka on päätetty aluevaltuustossa 19.12.2023. Nämä palveluverkon aluevaltuuston määrittelemät periaatteet ovat edelleen voimassa. Niiden perusteella suun terveydenhuollon osalta ei nähdä perusteita sille, miten Hauhon ja Lammin hammashoitolat voitaisiin jättää palvelukeskusten ulkopuolelle. Se ei toteuttaisi poliittisesti päätettyjä palveluverkon määrittelyperiaatteita ja aivan erityisesti niistä kohtaa 6.5 Terveyspalvelut (s.25/28): ”Kalliita laiteinvestointeja ja tukipalveluita vaativat toiminnot kootaan palvelukeskuksiin.”\n\nLiitteenä ovat hyvinvointialuealoite ja suun terveydenhuollon tulosalueen vastaus hyvinvointialuealoitteeseen.\n\nOheismateriaalina ovat suun terveydenhuollon tulosalueen palvelukuvaus, kuulemislausunto 7.6.2026 ja palveluverkon määritysperiaatteet.\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 12.4 § kohta 4 ja 162 §\n\nTerveydenhuollon\n\ntoimialajohtajan"
+    },
+    {
+     "heading": "päätösesitys",
+     "text": "Terveyden ja toimintakyvyn edistämisen lautakunta\n\n1. päättää hyväksyä omalta osaltaan hyvinvointialuealoitteeseen annetun\n\nvastauksen ja esittää sen aluehallitukselle ja edelleen aluevaltuustolle\n\nhyväksyttäväksi\n\n2. toteaa omalta osaltaan hyvinvointialuealoitteen käsittelyn päättyneeksi."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Keskustelun aikana Eija Saksala teki Minna Laxin, Sari Auvisen, Mikko Kauton ja Otto Erikssonin kannattamana seuraavan muutosesityksen:\n\n”Ehdotan, että terveyden ja toimintakyvyn edistämisen lautakunta päättää hyväksyä omalta osaltaan hyvinvointialuealoitteen ja esittää sen hyväksymistä edelleen aluehallitukselle ja aluevaltuustolle.”\n\nKoska oli tehty kannatettu muutosesitys, jota ei voitu yksimielisesti hyväksyä, teki puheenjohtaja seuraavan äänestysesityksen: Ne, jotka kannattavat käsittelyn pohjana olevaa toimialajohtajan esitystä, äänestävät JAA ja ne, jotka kannattavat Eija Saksalan muutosesitystä äänestävät EI. Puheenjohtaja esitti, että äänestys toimitetaan nimenhuutona. Puheenjohtajan esitykset hyväksyttiin.\n\nÄänestyksessä annettiin 6 JAA-ääntä (Kranni, Närkki, Pellinen, Haapanen, Järvinen, Viitanen) ja 7 EI-ääntä (Auvinen, Eriksson, Kautto, Lax, Räsänen, Saksala, Salmi). Puheenjohtaja totesi Eija Saksalan muutosesityksen tulleen hyväksytyksi ja terveyden ja toimintakyvyn edistämisen lautakunnan päätökseksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Terveyden ja toimintakyvyn edistämisen lautakunta päätti Eija Saksalan muutosesityksen mukaisesti hyväksyä omalta osaltaan hyvinvointialuealoitteen, ja esittää sen hyväksymistä edelleen aluehallitukselle ja aluevaltuustolle.\n\nMikko Räsänen saapui tämän asian käsittelyn aikana ennen päätöksentekoa.\n\nSuun terveydenhuollon tulosaluejohtaja Laura Nikkarila oli asiantuntijana läsnä kokouksessa esittelemässä hyvinvointialuealoiteasiaa koskien Hauhon ja Lammin suun terveydenhuollon palveluita, ja hän poistui kokouksesta tämän asian käsittelyn jälkeen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "toimialajohtaja Jussi Savola"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Terveyden ja toimintakyvyn edistämisen lautakunta käsitteli 16.6.2026 § 51 hyvinvointialuealoitteen, jossa esitetään aluevaltuuston 9.4.2024 tekemän palveluverkkopäätöksen muuttamista siten, että suun terveydenhuollon palvelut säilytetään Hauholla ja Lammilla nykyisissä tai vastaavissa kiinteissä tiloissa. Lautakunta päätti äänestyksen jälkeen hyväksyä aloitteen omalta osaltaan ja esittää sen hyväksymistä edelleen aluehallitukselle ja aluevaltuustolle.\n\nHyvinvointialuealoitteen käsittelee hallintosäännön 162 §:n mukaan se hyvinvointialueen viranomainen, jolla on toimivalta tehdä päätöksiä aloitteen tarkoittamassa asiassa. Aloite kohdistuu aluevaltuuston tekemään palveluverkkopäätökseen, minkä vuoksi asia saatetaan aluevaltuuston käsiteltäväksi.\n\nAloitteen tekijöille on hyvinvointialuelain 30 §:n mukaisesti varattu tilaisuus tulla kuulluiksi. Aloitteen tekijöille toimitettiin 22.5.2026 suun terveydenhuollon tulosalueen vastaus sekä tieto asian käsittelyn etenemisestä. Kuulemislausunto saapui 7.6.2026.\n\nAluevaltuuston 9.4.2024 tekemä palveluverkkopäätös perustuu aluevaltuuston 19.12.2023 hyväksymiin palveluverkon määritysperiaatteisiin. Suun terveydenhuollon kannalta keskeisen periaatteen mukaan kalliita laiteinvestointeja ja tukipalveluja vaativat toiminnot kootaan palvelukeskuksiin. Nämä määritysperiaatteet ovat edelleen voimassa.\n\nSuun terveydenhuollon palveluverkon muutoksella tavoitellaan palvelujen järjestämistä suuremmissa toimintayksiköissä siten, että henkilöstöä, tiloja, laitteita ja tukipalveluja voidaan käyttää tarkoituksenmukaisesti. Suurempiin yksiköihin kokoamisen arvioidaan parantavan henkilöstön yhteiskäyttöä ja toiminnan jatkuvuutta sekä mahdollistavan muun muassa monihuonemallien, konsultaatioiden ja laajemman kuvantamisen tehokkaamman hyödyntämisen.\n\nFyysisten palvelupisteiden vähentäminen ei tarkoita sitä, että suun terveydenhuollon palvelujen saatavuudesta Hauhon ja Lammin alueella luovuttaisiin. Palveluja tuotetaan kiinteiden toimipisteiden lisäksi liikkuvina ja siirrettävinä palveluina sekä soveltuvin osin digitaalisina palveluina. Siirrettävässä hammashoitohuoneessa voidaan toteuttaa tavanomaisia hammashoitotoimenpiteitä esimerkiksi koulun läheisyydessä.\n\nAloitteessa esitetyt palvelujen saavutettavuutta, alueellisia olosuhteita ja yhdenvertaisuutta koskevat näkökohdat ovat palvelujen järjestämisessä merkityksellisiä. Yhdenvertaisuus ei kuitenkaan edellytä samanlaista fyysistä palveluverkkoa hyvinvointialueen kaikissa osissa, vaan palvelujen järjestämistapaa voidaan arvioida väestön tarpeiden ja palvelukokonaisuuden perusteella. Hallintolain 6 § edellyttää viranomaiselta tasapuolista ja johdonmukaista harkintaa. Ratkaisujen tulee perustua hyväksyttäviin ja objektiivisiin perusteisiin.\n\nAloitteen hyväksyminen merkitsisi poikkeamista koko hyvinvointialuetta varten hyväksytyistä palveluverkon määritysperiaatteista Hauhon ja Lammin osalta. Aloitteen käsittelyn yhteydessä ei ole tullut esille sellaista uutta selvitystä tai sellaisia muuttuneita olosuhteita, joiden perusteella aluevaltuuston aikaisempaa palveluverkkoratkaisua olisi perusteltua muuttaa näiden kahden palvelupisteen osalta. Poikkeamisen tulisi lisäksi olla perusteltavissa suhteessa muiden alueiden ja palvelupisteiden kohteluun.\n\nPalveluverkon toimeenpano on jo käynnissä vuonna 2024 tehdyn päätöksen mukaisesti. Suun terveydenhuollon palvelukuvauksen mukaan ensimmäiset muutokset toteutetaan vuonna 2026 Hämeenlinnan seudulla, tämän jälkeen Forssan ja myöhemmin Riihimäen seudulla. Palveluverkkopäätöksen muuttaminen yksittäisten palvelupisteiden osalta vaikuttaisi siten myös jo käynnissä olevaan koko palveluverkon toimeenpanoon.\n\nEdellä esitetyillä perusteilla aluevaltuuston 9.4.2024 tekemän palveluverkkopäätöksen muuttamiseen Hauhon ja Lammin suun terveydenhuollon palvelujen osalta ei ole perusteita. Palvelujen saatavuus ja saavutettavuus tulee kuitenkin turvata myös näillä alueilla osana palveluverkkopäätöksen toimeenpanoa.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 162 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\nhyväksyä hyvinvointialuealoitteeseen laaditun vastauksen;\n\ntodeta, ettei aloitteessa tai sen käsittelyn yhteydessä ole tullut esille sellaista uutta selvitystä tai sellaisia muuttuneita olosuhteita, joiden perusteella aluevaltuuston 9.4.2024 § 30 tekemää palveluverkkopäätöstä olisi perusteltua muuttaa Hauhon ja Lammin suun terveydenhuollon palvelujen osalta;\n\nesittää aluevaltuustolle, ettei palveluverkkopäätöstä muuteta aloitteessa esitetyllä tavalla ja että suun terveydenhuollon palvelut järjestetään aluevaltuuston hyväksymien palveluverkon määritysperiaatteiden ja palveluverkkopäätöksen mukaisesti siten, että palvelujen lainmukainen saatavuus ja saavutettavuus turvataan myös Hauhon ja Lammin alueella sekä\n\nesittää aluevaltuustolle, että se toteaa hyvinvointialuealoitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen.\n\nKylli Kylliäinen palasi kokoukseen tämän asian käsittelyn aikana ennen päätöksentekoa.\n\nRiku Bitter poistui kokouksesta tämän asian käsittelyn aikana ennen päätöksentekoa.\n\nToimialajohtaja Jarmo Lappalainen ja tulosaluejohtaja Laura Nikkarila olivat kokouksessa paikalla asiantuntijoina tämän asian käsittelyn aikana ja he poistuivat ennen päätöksentekoa."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösesitys / aluevaltuusto"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Hyvinvointialuealoite",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026243-8-416116.PDF"
+    },
+    {
+     "title": "Liite 2 Suun terveydenhuollon tulosalueen vastaus hyvinvointialuealoitteeseen",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026243-8-416057.PDF"
+    },
+    {
+     "title": "Liite 3 Liite 1 Suun terveydenhuollon tulosalueen palvelukuvaus",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026243-8-416059.PDF"
+    }
+   ],
+   "votes": [
+    {
+     "counts": {
+      "jaa": 6,
+      "ei": 7
+     },
+     "context": "Äänestyksessä annettiin 6 JAA-ääntä (Kranni, Närkki, Pellinen, Haapanen, Järvinen, Viitanen) ja 7 EI-ääntä (Auvinen, Eriksson, Kautto, Lax, Räsänen, Saksala, Salmi). Puheenjohtaja totesi Eija Saksalan muutosesityksen tulleen hyväksytyksi ja terveyden ja toimintakyvyn edistämisen lautakunnan päätökseksi.",
+     "provisional": true,
+     "names": {}
+    }
+   ],
+   "redacted": false
+  },
+  {
+   "number": "299",
+   "title": "Vastaus valtuustoaloitteeseen \"Jokaisessa palvelupisteessä tulee säilyttää pääsy kiireettömään hammashoitoon\"",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026243-9",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026243-9.PDF",
+   "diary_number": "3908/00.01.03.00/2026",
+   "preparer": "hallintojohtaja Katja Tommiska",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää\n\nhyväksyä osaltaan edellä olevan vastauksen valtuustoaloitteeseen ja\n\nesittää aluevaltuustolle, että aluevaltuusto\n\na. hyväksyy vastauksen valtuustoaloitteeseen;\n\nb. päättää, ettei 9.4.2024 tehtyä palveluverkkopäätöstä muuteta valtuustoaloitteessa esitetyllä tavalla ja\n\nc. toteaa valtuustoaloitteen loppuun käsitellyksi.",
+   "decision": "Aluehallitus päätti palauttaa asian uudelleen valmisteltavaksi.\n\nPirjo Alijärvi poistui kokouksesta tämän asian käsittelyn aikana ennen päätöksentekoa.\n\nRiku Bitter palasi kokoukseen tämän asian käsittelyn aikana ennen päätöksentekoa.\n\nLauri Jormanainen poistui kokouksesta tämän asian käsittelyn aikana ennen päätöksentekoa.\n\nToimialajohtaja Jarmo Lappalainen ja tulosaluejohtaja Laura Nikkarila olivat kokouksessa paikalla asiantuntijoina tämän asian käsittelyn aikana ja he poistuivat ennen päätöksentekoa.",
+   "discussion": "Hyvinvointialuejohtajan muutettu päätösesitys:\n\nAluehallitus päättää palauttaa asian uudelleen valmisteltavaksi.\n\nPuheenjohtaja totesi aluehallituksen kannattavan yksimielisesti hyvinvointialuejohtajan muutettua päätösesitystä.",
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluevaltuusto 19.05.2026 § 31"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Valtuuston kokouksessa 19.5.2026 on jätetty valtuustoaloite jokaisessa palvelupisteessä tulee säilyttää pääsy kiireettömään hammashoitoon.\n\nAloitteen on allekirjoittanut Veli-Antti Silpola, Leena Suojala, Kristiina Ruuskanen, Mika Walkamo, Päivi Kankaanmäki, Lotta Saarenmaa, Heini Ristavaara, Johanna Häggman, Merja Taponen, Eija Saksala, Johanna Wiisak, Marianne Mänki, Matti Alanko, Harri Aaltonen, Pasi Honkanen, Mika Lartama, Vuokko Syväntö, Elise Oikari, Sari Auvinen, Tarja Kirkkola-Helenius, Juhani Lehto, Anne Kisonen, Marko Mustiala, Kari Masalin, Timo Viitanen, Salla Fagerström, Kylli Kylliäinen, Mia Heinonen, Terhi Lehtonen, Tuomas Koskinen ja Ehab Abouessa.\n\nValtuustoaloite:\n\n”Me allekirjoittaneet olemme huolissamme hyvinvointialueen suunnitelmista sulkea nykyisten palvelupisteiden hammashoitolat ja siirtää niiden toiminnot osaksi suurempia palvelukeskuksia. Tämä suunnitelma tulee asettamaan erityisesti palvelupisteiden vaikutusalueella asuvat hyvinvointialueen asukkaat eriarvoiseen asemaan ja pitkällä aikavälillä nostamaan asukkaiden, yhteiskunnan ja hyvinvointialueen kuluja.\n\nJulkisilla kulkuneuvoilla kulkeminen palvelukeskuksiin syrjemmiltä seuduilta on vaikeaa ja aikaa vievää. Riippuen ajanvarauksen kellonajasta ja julkisen liikenteen aikatauluista hammashoitokäyntiin saattaisi kulua pahimmassa tapauksessa koko päivä. Vaihtoehto julkiselle liikenteelle on oman auton tai taksin käyttö. Molemmista aiheutuu huomattavia kuluja. Korkeiden kulujen lisäksi taksilla kulkemista vaikeuttaa taksipalvelujen heikko ja epävarma saatavuus erityisesti maaseutualueella. Hyvin monesti olisi turvauduttava omaan ajoneuvoon.\n\nLisääntyvä autoliikenne on erittäin epäekologista. Vaikka Oma Hämeellä ei ole ekologisuuteen liittyvää ohjelmaa tai julkilausuttuja tavoitteita, on yksityisautoilua voimakkaasti lisäävien päätösten teko epäeettistä.\n\nPitkästä etäisyydestä koituu kuluja yhteiskunnalle lisääntyvien työstä poissaolojen takia. Pienyrittäjä voi joutua sulkemaan liikkeensä vähintään puoleksi päiväksi ja isompienkin yritysten toiminta häiriintyy poissaolojen vuoksi. Hukattu aika, lisääntyvät poissaolot työstä ja huomattavat matkakulut tulevat kertymään epätasaisesti hyvinvointialueen asukkaiden kesken. Suun sairaudet polarisoituvat eli hoidon tarve kasaantuu tietyille väestöryhmille ja henkilöille enemmän kuin toisille.\n\nOma Häme on Kanta-Hämeen alueellisessa lasten ja nuorten hyvinvointisuunnitelmassaan vuosille 2025–2028 sitoutunut varmistamaan lasten, nuorten ja perheiden hyvinvoinnin lisääntymistä palveluiden yhdenmukaistamisella ja oikea-aikaisuudella. Kanta-Hämeen alueellisessa ikäihmisten hyvinvointisuunnitelmassa vuosille 2025–2028 todetaan tulevaisuuden tarpeena tehostettu ennaltaehkäisy: ”Tulevaisuudessa on tärkeää panostaa entistä enemmän ennaltaehkäiseviin toimenpiteisiin ja oikea- aikaiseen hoitoon.” Palveluiden siirtäminen kauemmas niiden käyttäjistä ja saavutettavuuden heikentäminen on ristiriidassa erityisesti hoidon oikea-aikaisen toteutumisen kanssa.\n\nJoidenkin hammashoitoloiden täyttöaste on korkea, eli ajanvarauskirjat ovat täynnä. Hoitoprosessit ovat samat kuin hyvinvointialueen muissakin hoitoloissa. Hoitohuoneiden osalta täyttöaste riippuu käytettävissä olevasta rahoituksesta eli siitä, paljonko ammattilaisia hyvinvointialue voi palkata. Rekrytointivaikeuksia ei ole sen enempää kuin kantakaupungissakaan.\n\nSuuriin yksiköihin siirtymistä on perusteltu muun muassa paremmalla työvoiman saatavuudella. Tämä on kyseenalainen väite, eikä perustu näyttöön. Pikemminkin monesti pienehkö terveydenhuollon yksikkö on joustava ja toimiva, ja henkilökunta viihtyy ja pysyy siellä.\n\nPitkästä välimatkasta potilaille koituvia haittoja hyvinvointialue on suunnitellut kompensoitavan liikkuvalla hammashoitoyksiköllä ja erilaisilla toimintamalleilla, joissa potilaalle varattu aika joustaa hoidon tarpeen mukaan ja yhdellä hoitokäynnillä voidaan tehdä enemmän toimenpiteitä (ns. kerralla kuntoon - tai kerralla enemmän -malli). Liikkuva hammashoitoyksikkö on toimiva lisä hyvinvointialueen hammashoitoloille, ja siitä on pilotissa saatu hyviä kokemuksia. Sillä kannattaa toteuttaa esimerkiksi koululaisten ikäkausittaiset suun tutkimukset ja terveystarkastukset. Liikkuva yksikkö ei kuitenkaan korvaa hammashoitolaa.\n\nPitkä hoitokäynti ja useat toimenpiteet vaativat fyysisesti ja henkisesti paljon; kykyä olla paikallaan pitkän aikaa, noudattaa ohjeita ja sietää epämukavuutta. Näitä kykyjä puuttuu haavoittuvimmilta potilasryhmiltä, eli esimerkiksi lapsilta, kehitysvammaisilta, yleissairailta ja vanhuksilta. Tämän vuoksi tällainen malli ei hyödytä niitä, jotka kärsivät pitkästä etäisyydestä eniten.\n\nPidemmät välimatkat ja vaikeampi saavutettavuus hammashoitoon pääsemisessä aiheuttavat sen, että yhä useampi jättää hakeutumatta hoitoon kokonaan, tai hakeutuu sinne vain viimeisessä hädässä. Tämä lisää hammasperäisten vakavien infektioiden ilmaantuvuutta ja hyvinvointialueen kuluja erikoissairaanhoidossa. Hoitamattomat suun krooniset tulehdukset haittaavat useiden yleissairauksien, muun muassa diabeteksen ja sydän- ja verisuonisairauksien hoitotasapainoa. Myös tästä tulee aiheutumaan kulujen kasvuun toisaalla, yleisterveyden vastaanotoilla sekä perus- että erikoissairaanhoidossa.\n\nHyvä suun omahoito, säännöllinen hammashoito ja ajoissa hoitoon hakeutuminen ovat tärkeimpiä keinoja ehkäistä vakavia hammasperäisiä tulehduksia ja muiden sairauksien komplisoitumisesta johtuvia kuluja. Nämä onnistuvat vain, jos suun terveydenhuolto on helposti saavutettavaa kaikille.\n\nEsitämme siis, että jokaisessa palvelupisteessä tulee säilyttää kiinteä hammashoitola ja pääsy kiireettömään hammashoitoon.”\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 §"
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluevaltuusto päättää merkitä tiedoksi kokouksessa jätetyn valtuustoaloitteen ja lähettää sen aluehallitukselle valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nAluehallitus 08.06.2026 § 238"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluevaltuuston kokouksessa 19.5.2026 on jätetty valtuustoaloite valtuustoaloite \"Jokaisessa palvelupisteessä tulee säilyttää pääsy kiireettömään hammashoitoon\".\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä valtuustoaloitteen tiedoksi ja lähettää sen terveydenhuollon toimialalle valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nTerveyden ja toimintakyvyn edistämisen lautakunta 25.08.2026 § 59"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "suun terveydenhuollon tulosaluejohtaja Laura Nikkarila"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluevaltuuston kokouksessa 19.5.2026 on jätetty valtuustoaloite, jossa esitetään, että jokaisessa palvelupisteessä säilytetään kiinteä hammashoitola ja pääsy kiireettömään hammashoitoon. Aloitteen mukaan palvelujen keskittäminen suurempiin palvelukeskuksiin heikentäisi erityisesti kauempana palvelukeskuksista asuvien palvelujen saavutettavuutta ja yhdenvertaisuutta. Aloitteen vaatimus on, että jokaisessa palvelupisteessä säilytetään kiinteä hammashoitola.\n\nAloitteessa tuodaan perustellusti esille palvelujen saavutettavuuteen liittyviä näkökohtia. Pitkät etäisyydet, julkisen liikenteen puutteet sekä eri väestöryhmien erilaiset mahdollisuudet liikkua palveluihin ovat tekijöitä, jotka hyvinvointialueen tulee ottaa huomioon palveluja järjestäessään. Erityistä huomiota on kiinnitettävä niiden henkilöiden asemaan, joille pitkät matkat tai muut palvelujen käyttöön liittyvät esteet voivat tosiasiallisesti vaikeuttaa palvelujen saamista.\n\nAloitteessa esitetyistä saavutettavuutta koskevista näkökohdista ei kuitenkaan seuraa, että jokaisessa nykyisessä palvelupisteessä tulisi säilyttää kiinteä hammashoitola.\n\nSosiaali- ja terveydenhuollon järjestämisestä annetun lain 4 § mukaan hyvinvointialueen on suunniteltava ja toteutettava palvelut asiakkaiden tarpeiden edellyttämällä tavalla. Palvelut on toteutettava yhdenvertaisesti, yhteen sovitettuina palvelukokonaisuuksina sekä väestön tarpeet huomioon ottaen lähellä asiakkaita. Palveluja voidaan kuitenkin koota suurempiin kokonaisuuksiin, jos palvelujen saatavuuden ja laadun turvaaminen edellyttävät erityisosaamista, kalliita investointeja tai jos palvelujen tarkoituksenmukainen, kustannusvaikuttava ja tehokas toteuttaminen sitä edellyttää.\n\nLainsäädäntö ei siten edellytä nykyisen toimipisteverkon tai tietyn palvelun säilyttämistä kiinteänä palveluna kullakin paikkakunnalla. Arvioinnin kohteena on palvelujen muodostama kokonaisuus ja erityisesti palvelujen tosiasiallinen saatavuus ja saavutettavuus.\n\nAluevaltuusto on 19.12.2023 hyväksynyt koko hyvinvointialuetta koskevat palveluverkon määritysperiaatteet ja 9.4.2024 niiden perusteella palveluverkkopäätöksen. Suun terveydenhuollon palvelujen vaiheittainen kokoaminen palvelukeskuksiin perustuu näihin koko hyvinvointialuetta koskeviin periaatteisiin. Yhden keskeisen määritysperiaatteen mukaan kalliita laiteinvestointeja ja tukipalveluja vaativat toiminnot kootaan palvelukeskuksiin.\n\nPalveluverkkoratkaisun perusteet eivät ole yksinomaan taloudellisia. Suun terveydenhuolto edellyttää merkittäviä laiteinvestointeja, välinehuoltoa, logistiikkaa ja muuta tukipalvelurakennetta. Suuremmissa toimintayksiköissä henkilöstöä, tiloja ja laitteistoa voidaan käyttää joustavammin. Suun terveydenhuollon palvelukuvauksen mukaan palvelujen kokoaminen suurempiin yksiköihin tukee henkilöstön yhteiskäyttöä ja toiminnan jatkuvuutta, vähentää henkilöstön toimipisteiden välisiä siirtymisiä sekä parantaa mahdollisuuksia henkilöstön väliseen konsultaatioon, monihuonemallien hyödyntämiseen ja laajemman kuvantamisen järjestämiseen samassa toimipisteessä.\n\nAloitteessa esitetään, ettei suurempiin yksiköihin siirtymisen perusteena käytetty parempi työvoiman saatavuus perustu näyttöön. Palvelujen kokoamisen toiminnalliset perusteet eivät kuitenkaan rajoitu rekrytointiin. Edellä kuvatut henkilöstön yhteiskäyttöön, toiminnan jatkuvuuteen, konsultointimahdollisuuksiin, monihuonemallien hyödyntämiseen sekä tutkimusten ja laitteiden tarkoituksenmukaiseen käyttöön liittyvät tekijät tukevat palveluverkkoratkaisua riippumatta siitä, missä määrin keskittäminen vaikuttaa henkilöstön rekrytoitavuuteen yksittäisessä toimipisteessä.\n\nPalveluverkon muuttamisessa ei ole kyse suun terveydenhuollon palvelujen poistamisesta palvelupisteiden vaikutusalueella asuvilta. Kiinteissä palvelukeskuksissa annettavaa hoitoa täydennetään liikkuvilla ja siirrettävillä palveluilla, digitaalisilla palveluilla sekä toimintamalleilla, joilla pyritään vähentämään asiakkaan tarvitsemien erillisten käyntien määrää. Palvelukuvauksen mukaan perustason palveluja tuotetaan kivijalkahammashoitoloiden lisäksi liikkuvina ja siirrettävinä palveluina sekä soveltuvin osin digitaalisesti. Siirrettävässä hammashoitohuoneessa voidaan toteuttaa tavanomaisia hammashoitotoimenpiteitä esimerkiksi koulun läheisyydessä. Näiden palvelumuotojen tarkoituksena ei ole korvata kaikissa tilanteissa kiinteissä palvelukeskuksissa annettavaa hoitoa, vaan täydentää palvelukokonaisuutta ja tukea palvelujen saavutettavuutta.\n\nAloitteessa viitataan Kanta-Hämeen alueellisiin lasten ja nuorten sekä ikäihmisten hyvinvointisuunnitelmiin vuosille 2025–2028 ja niissä asetettuihin tavoitteisiin palvelujen oikea-aikaisuudesta ja ennaltaehkäisyn tehostamisesta. Nämä tavoitteet eivät sellaisinaan edellytä nykyisen kiinteän palvelupisteverkon säilyttämistä. Oikea-aikaisen hoidon ja ennaltaehkäisyn tavoitteiden toteutumista voidaan edistää palvelukeskusten sekä niitä täydentävien liikkuvien, siirrettävien ja digitaalisten palvelujen muodostamalla kokonaisuudella edellyttäen, että palvelujen tosiasiallinen saatavuus ja saavutettavuus turvataan. Hyvinvointisuunnitelmien tavoitteet tulee ottaa huomioon palveluverkkopäätöksen toimeenpanossa ja palvelujen saatavuuden seurannassa.\n\nAloitteessa vedotaan myös alueelliseen yhdenvertaisuuteen. Perustuslain 6 §:ssä turvattu yhdenvertaisuus ja hallintolain 6 §:ssä säädetty tasapuolisen kohtelun vaatimus eivät tarkoita sitä, että palvelujen tuotantorakenteen tai fyysisen palveluverkon tulisi olla samanlainen hyvinvointialueen kaikissa osissa. Perustuslain 19 § 3 momentin mukainen velvollisuus turvata riittävät sosiaali- ja terveyspalvelut kohdistuu niin ikään palvelujen riittävyyteen ja saatavuuteen, ei tietynlaisen fyysisen palveluverkon säilyttämiseen.\n\nPalveluja voidaan järjestää eri tavoin, jos järjestämistavat perustuvat hyväksyttäviin, objektiivisiin ja palvelujen järjestämisen kannalta merkityksellisiin perusteisiin ja palvelujen yhdenvertainen saatavuus kokonaisuutena turvataan.\n\nHallinnon oikeusperiaatteiden näkökulmasta olennaista on lisäksi päätöksenteon tasapuolisuus ja johdonmukaisuus. Palveluverkon määritysperiaatteet ja niiden perusteella tehty palveluverkkopäätös koskevat koko hyvinvointialuetta. Niistä poikkeamisen yksittäisten palvelupisteiden osalta tulee perustua objektiivisiin ja palvelujen järjestämisen kannalta merkityksellisiin perusteisiin.\n\nTasapuolisen kohtelun vaatimus ei estä erilaista kohtelua silloin, kun alueiden olosuhteissa, väestön palvelutarpeessa tai palvelujen saavutettavuudessa on objektiivisesti arvioiden merkityksellisiä eroja. Aloitteessa esitetyt pidempiin asiointimatkoihin ja liikenneyhteyksiin liittyvät näkökohdat ovat arvioinnissa merkityksellisiä, mutta ne eivät sellaisinaan osoita, että voimassa olevista koko hyvinvointialuetta koskevista palveluverkon periaatteista tulisi poiketa.\n\nHallintolain 6 §:n suhteellisuusperiaatteen näkökulmasta palvelujen saavutettavuuteen liittyviin ongelmiin tulee vastata niiden laajuuteen ja luonteeseen nähden tarkoituksenmukaisin keinoin. Saavutettavuuden turvaaminen ei siten lähtökohtaisesti edellytä koko nykyisen kiinteän palvelupisteverkon säilyttämistä, jos palvelujen lainmukainen ja tosiasiallinen saatavuus voidaan turvata palvelukeskusten sekä niitä täydentävien liikkuvien, siirrettävien ja muiden palvelumuotojen muodostamalla kokonaisuudella.\n\nHallintolain 31 §:n mukaisesti viranomaisen on huolehdittava asian riittävästä ja asianmukaisesta selvittämisestä. Palveluverkkopäätöksen muuttamista arvioitaessa on tämän vuoksi tarkasteltava muutoksen vaikutuksia palveluverkon kokonaisuuteen eikä ainoastaan yksittäisen palvelupisteen näkökulmasta. Arvioinnissa merkityksellisiä ovat muun muassa palvelujen saatavuus ja saavutettavuus koko hyvinvointialueella, väestön palvelutarve, henkilöstön saatavuus, toiminnan laatu ja jatkuvuus, laitteiden ja tukipalvelujen käyttö, investoinnit ja kustannukset sekä vaikutukset muiden palvelupisteiden toimintaan.\n\nAloitteessa esitetyt näkökohdat ja asian käsittelyn yhteydessä käytettävissä oleva selvitys eivät osoita sellaisia perusteita, joiden vuoksi aluevaltuuston hyväksymistä koko hyvinvointialuetta koskevista palveluverkon määritysperiaatteista ja niiden perusteella tehdystä palveluverkkopäätöksestä olisi tässä vaiheessa perusteltua poiketa. Voimassa oleva ratkaisu perustuu edelleen samoihin palvelujen järjestämistä koskeviin yleisiin periaatteisiin, ja palveluverkon toimeenpano on käynnissä aluevaltuuston päätöksen mukaisesti.\n\nAloitteessa nostetaan lisäksi esille lasten, kehitysvammaisten, yleissairaiden, ikääntyneiden ja muiden erityistä tukea tarvitsevien henkilöiden asema sekä se, etteivät kaikki asiakkaat hyödy samalla tavalla pitkistä, useita toimenpiteitä sisältävistä hoitokäynneistä. Näkökohta on aiheellinen. Erityistä tukea tarvitsevien asiakkaiden tarpeet ja tosiasialliset mahdollisuudet käyttää palveluja tulee ottaa huomioon palvelujen suunnittelussa ja palveluverkkopäätöksen toimeenpanossa. Tästä ei kuitenkaan seuraa tarvetta säilyttää kaikkia nykyisiä kiinteitä hammashoitoloita, jos kyseisten asiakkaiden palvelujen tosiasiallinen saatavuus voidaan turvata muilla asianmukaisilla järjestelyillä.\n\nPalveluverkkopäätöksen toimeenpanossa tulee seurata palvelujen tosiasiallista saatavuutta ja saavutettavuutta. Mikäli seurannassa havaitaan, etteivät palvelut jollakin alueella tai jonkin väestöryhmän osalta toteudu lain edellyttämällä tavalla, palvelujen järjestämistapaa tulee arvioida ja ryhtyä tarvittaviin toimenpiteisiin. Palvelujen järjestämistavan mahdollinen uudelleenarviointi ei kuitenkaan sellaisenaan edellytä nykyisen kiinteän palvelupisteverkon säilyttämistä.\n\nEdellä esitetyillä perusteilla valtuustoaloitteessa esitettyä vaatimusta kiinteän hammashoitolan säilyttämisestä jokaisessa palvelupisteessä ei ole perusteltua hyväksyä. Suun terveydenhuollon palveluverkon toimeenpanoa jatketaan aluevaltuuston hyväksymien palveluverkon määritysperiaatteiden ja palveluverkkopäätöksen mukaisesti. Toimeenpanossa huolehditaan palvelujen lainmukaisesta, yhdenvertaisesta ja tosiasiallisesta saatavuudesta ja saavutettavuudesta koko hyvinvointialueella sekä otetaan huomioon erityistä tukea tarvitsevien asiakasryhmien tarpeet.\n\nLiitteenä on suun terveydenhuollon tulosalueen palvelukuvaus.\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 12.4 § kohta 4\n\nTerveydenhuollon\n\ntoimialajohtajan"
+    },
+    {
+     "heading": "päätösesitys",
+     "text": "Terveyden ja toimintakyvyn edistämisen lautakunta\n\n1. päättää hyväksyä osaltaan edellä olevan vastauksen valtuustoaloitteeseen ja esittää sen aluehallitukselle ja edelleen aluevaltuustolle hyväksyttäväksi sekä\n\n2. toteaa osaltaan valtuustoaloitteen käsittelyn päättyneeksi."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Keskustelun aikana Minna Lax teki Sari Auvisen kannattamana seuraavan muutosesityksen: ”Esitän, että valtuustoaloite hyväksytään sellaisenaan.”\n\nKoska oli tehty kannatettu muutosesitys, puheenjohtaja teki seuraavan äänestysesityksen: Ne, jotka kannattavat käsittelyn pohjana olevaa toimialajohtajan päätösesitystä, äänestävät JAA ja ne, jotka kannattavat Minna Laxin muutosesitystä, äänestävät EI. Puheenjohtaja esitti, että äänestys toimitetaan nimenhuutona. Puheenjohtajan esitykset hyväksyttiin.\n\nÄänestyksessä annettiin 6 JAA-ääntä (Haapanen, Järvinen, Kranni, Närkki, Salmi, Viitanen) ja 6 EI-ääntä (Abouessa, Auvinen, Kautto, Lax, Räsänen, Saksala). Äänten mennessä tasan, puheenjohtajan ääni ratkaisi. Puheenjohtaja totesi Minna Laxin muutosesityksen tulleen hylätyksi ja toimialajohtajan pohjaesityksen tulleen terveyden ja toimintakyvyn edistämisen lautakunnan päätökseksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Terveyden ja toimintakyvyn edistämisen lautakunta hyväksyi päätösesityksen.\n\nSuun terveydenhuollon tulosaluejohtaja Laura Nikkarila oli asiantuntijana läsnä kokouksessa esittelemässä valtuustoaloitteeseen laadittua vastausta, ja hän poistui kokouksesta ennen päätöksentekoa."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "toimialajohtaja Jussi Savola"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluevaltuuston kokouksessa 19.5.2026 jätettiin valtuustoaloite, jossa esitetään, että jokaisessa palvelupisteessä säilytetään kiinteä hammashoitola ja pääsy kiireettömään hammashoitoon. Aluehallitus päätti 8.6.2026 § 238 lähettää aloitteen terveydenhuollon toimialalle valmisteltavaksi.\n\nTerveyden ja toimintakyvyn edistämisen lautakunta käsitteli aloitteen 25.8.2026. Lautakunta päätti äänestyksen jälkeen äänin 6–6 puheenjohtajan äänen ratkaistessa hyväksyä toimialajohtajan päätösesityksen mukaisesti osaltaan valtuustoaloitteeseen laaditun vastauksen ja esittää sen edelleen hyväksyttäväksi.\n\nLautakunnalle valmistellussa vastauksessa on arvioitu aloitteessa esitettyjä palvelujen saatavuuteen ja saavutettavuuteen, yhdenvertaisuuteen, henkilöstöön, erityistä tukea tarvitsevien asiakkaiden asemaan sekä hyvinvointisuunnitelmien tavoitteisiin liittyviä näkökohtia. Lisäksi siinä on arvioitu palveluverkkoratkaisua sosiaali- ja terveydenhuollon järjestämisestä annetun lain 4 §:n sekä perustuslain ja hallintolain mukaisten yhdenvertaisuuden, tasapuolisen kohtelun, suhteellisuuden ja asian riittävän selvittämisen vaatimusten näkökulmasta.\n\nVastauksessa todetaan, ettei lainsäädäntö edellytä nykyisen kiinteän palvelupisteverkon säilyttämistä, vaan palveluverkon arvioinnissa olennaista on palvelujen muodostama kokonaisuus sekä palvelujen tosiasiallinen ja yhdenvertainen saatavuus ja saavutettavuus. Aluevaltuuston vuonna 2024 hyväksymä palveluverkkopäätös perustuu koko hyvinvointialuetta koskeviin palveluverkon määritysperiaatteisiin. Palvelujen kokoamista suurempiin yksiköihin tukevat taloudellisten näkökohtien lisäksi henkilöstön yhteiskäyttö, toiminnan jatkuvuus sekä tilojen, laitteiden ja tukipalvelujen tarkoituksenmukainen käyttö.\n\nLautakunnalle valmistellun vastauksen johtopäätöksenä on, etteivät aloitteessa esitetyt näkökohdat ja asiassa käytettävissä oleva selvitys osoita sellaisia perusteita, joiden vuoksi koko hyvinvointialuetta koskevista palveluverkon määritysperiaatteista ja niiden perusteella tehdystä palveluverkkopäätöksestä olisi perusteltua poiketa. Palveluverkon toimeenpanossa tulee kuitenkin seurata palvelujen tosiasiallista saatavuutta ja saavutettavuutta sekä ottaa huomioon erityistä tukea tarvitsevien asiakasryhmien tarpeet.\n\nEdellä esitetyillä ja lautakunnan hyväksymässä vastauksessa tarkemmin kuvatuilla perusteilla aluevaltuuston palveluverkkopäätöstä ei ole perusteltua muuttaa valtuustoaloitteessa esitetyllä tavalla.\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 12.4 § kohta 4"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\nhyväksyä osaltaan edellä olevan vastauksen valtuustoaloitteeseen ja\n\nesittää aluevaltuustolle, että aluevaltuusto\n\na. hyväksyy vastauksen valtuustoaloitteeseen;\n\nb. päättää, ettei 9.4.2024 tehtyä palveluverkkopäätöstä muuteta valtuustoaloitteessa esitetyllä tavalla ja\n\nc. toteaa valtuustoaloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Hyvinvointialuejohtajan muutettu päätösesitys:\n\nAluehallitus päättää palauttaa asian uudelleen valmisteltavaksi.\n\nPuheenjohtaja totesi aluehallituksen kannattavan yksimielisesti hyvinvointialuejohtajan muutettua päätösesitystä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti palauttaa asian uudelleen valmisteltavaksi.\n\nPirjo Alijärvi poistui kokouksesta tämän asian käsittelyn aikana ennen päätöksentekoa.\n\nRiku Bitter palasi kokoukseen tämän asian käsittelyn aikana ennen päätöksentekoa.\n\nLauri Jormanainen poistui kokouksesta tämän asian käsittelyn aikana ennen päätöksentekoa.\n\nToimialajohtaja Jarmo Lappalainen ja tulosaluejohtaja Laura Nikkarila olivat kokouksessa paikalla asiantuntijoina tämän asian käsittelyn aikana ja he poistuivat ennen päätöksentekoa."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösesitys / aluevaltuusto"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Suun terveydenhuolto tulosalueen palvelukuvaus",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026243-9-424575.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "300",
+   "title": "Hyvinvointialueesta annetun lain 97 §:n mukaista ottomenettelyä varten saapuneet pöytäkirjat ja päätökset",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026243-10",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026243-10.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää, ettei se käytä otto-oikeutta edellä mainittuihin päätöksiin.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvointialueesta annetun lain 97 §:n mukaan aluehallitus, aluehallituksen puheenjohtaja, hyvinvointialuejohtaja ja hallintosäännössä määrätty hyvinvointialueen viranhaltija voivat ottaa aluehallituksen käsiteltäväksi asian, joka on tämän lain nojalla siirretty aluehallituksen alaisen viranomaisen tai aluehallituksen jaoston toimivaltaan ja jossa asianomainen viranomainen on tehnyt päätöksen.\n\nHyvinvointialueen hallintosäännön 32 §:n mukaan asian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nHallintosäännön 33 §:n mukaan aluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan.\n\nViranhaltijoiden päätösluettelo on liitteenä. Päätösasiakirjat ovat nähtävillä hyvinvointialueen verkkosivuilla osoitteessa: https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=official_frames"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää, ettei se käytä otto-oikeutta edellä mainittuihin päätöksiin."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Päätösluettelo 24.8.2026",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026243-10-426134.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "301",
+   "title": "Muut asiat",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026243-11",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026243-11.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä muut asiat tiedoksi.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kanta-Hämeen hyvinvointialueelle on saapunut seuraavat kirjeet:\n\n- Riihimäen kaupunginhallituksen pöytäkirjanote 15.6.2026 § 182; Kanta-Hämeen kuntien, Hämeen liiton ja Kanta-Hämeen hyvinvointialueen strateginen yhteistyösopimus\n\n- Janakkalan kunnanhallituksen pöytäkirjanote 15.6.2026 § 175; Hyvinvointialueen, kuntien ja Hämeen Liiton strategisen yhteistyösopimuksen hyväksyminen ja edustajien nimeäminen työryhmiin ja foorumeihin\n\n- Ypäjän kunnanhallituksen pöytäkirjanote 16.6.2026 § 104; Kanta-Hämeen strateginen yhteistyösopimus\n\n- Riihimäen kaupunginjohtajan viranhaltijapäätös 22.6.2026 21/2026; Edustajien nimeäminen (Kanta-Hämeen kuntien, Hämeen liiton ja Kanta-Hämeen hyvinvointialueen strateginen yhteistyösopimus)\n\n- Hattulan kunnanhallituksen pöytäkirjanote 29.6.2026 § 143; Kanta-Hämeen kuntien, Hämeen liiton ja Kanta-Hämeen hyvinvointialueen strateginen yhteistyösopimus\n\n- Jokioisten kunnanhallituksen pöytäkirjanote 29.6.2026 § 119; Kanta-Hämeen kuntien, Hämeen liiton ja Kanta-Hämeen hyvinvointialueen strateginen yhteistyösopimus\n\n- Sosiaali- ja terveysministeriön lausunto 13.8.2026; Sosiaali- ja terveysministeriön lausunto Sisä-Suomen yhteistyöalueen (YTA) yhteistyösopimusluonnoksesta\n\n- Keski-Suomen hyvinvointialueen aluehallituksen pöytäkirjanote 18.8.2026 § 179; DigiFinland Oy:n osakassopimuksen ja nimitysvaliokunnan työjärjestyksen muuttaminen\n\n- Lopen kunnanjohtajan viranhaltijapäätös 20.8.2026 17/2026; Korjaus päätökseen 16 / 18.8.2026, Edustajien nimeäminen (Kanta-Hämeen kuntien, Hämeen liiton ja Kanta-Hämeen hyvinvointialueen strateginen yhteistyösopimus)"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä muut asiat tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Lepola Kaisa",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Alijärvi Pirjo",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Bitter Riku",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Filatov Tarja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hellstén Tapani",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Honkanen Pasi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Häggman Johanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Jormanainen Lauri",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lehkonen Helena",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pura Eero",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Reima Aapo",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Saarenmaa Lotta",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Vanttaja Karri",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Isosuo Juha",
+   "role": "aluevaltuuston puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kylliäinen Kylli",
+   "role": "aluevaltuuston 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Ristavaara Heini",
+   "role": "aluevaltuuston 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Naukkarinen Olli",
+   "role": "esittelijä, hyvinvointialuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Savola Jussi",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Tommiska Katja",
+   "role": "pöytäkirjanpitäjä, hallintojohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kranni Maija",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Ahtiainen Milla",
+   "role": "projektipäällikkö",
+   "group": "other"
+  },
+  {
+   "name": "Bjerregård Madsen Johanna",
+   "role": "henkilöstöjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Salo Sampo",
+   "role": "talousjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Mähönen Anu",
+   "role": "ylilääkäri",
+   "group": "other"
+  },
+  {
+   "name": "Paasikoski-Junninen Marika",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Nikkarila Laura",
+   "role": "tulosaluejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Lappalainen Jarmo",
+   "role": "toimialajohtaja",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026243",
+  "fetched_at": "2026-10-15T01:01:15+00:00",
+  "content_hash": "1042268a193dc36d",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T16:49:34+00:00"
+ }
+}

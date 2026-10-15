@@ -1,0 +1,1398 @@
+{
+ "id": "aluehallitus/2026-01-19",
+ "region": "pohjois-savo",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2026-01-19",
+ "stage": "minutes",
+ "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026940",
+ "pdf_url": "https://pshva.oncloudos.com/kokous/2026940.PDF",
+ "time": "09:00 - 14:45",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "1",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-1",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.",
+   "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen laillisuus ja päätösvaltaisuus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokous todettiin lailliseksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "2",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-2",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Pia Hedman ja Aino Kanniainen.",
+   "decision": "Pöytäkirjantarkastajiksi valittiin Pia Hedman ja Aino Kanniainen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pöytäkirjantarkastajien valinta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Pia Hedman ja Aino Kanniainen."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Pia Hedman ja Aino Kanniainen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "3",
+   "title": "Asioiden käsittelyjärjestys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-3",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asioiden käsittelyjärjestys"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "4",
+   "title": "Siilinjärven kunnan tilojen vuokraus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-4",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-4.PDF",
+   "diary_number": "167/02.07.00/2023",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää hyväksyä Siilinjärven kunnan kanssa tehtävät vuokrasopimukset valmistelutekstin mukaisesti.\n\nEnnakkovaikutusten arviointi\n\nHyvinvointialueen tarvitsemien toimitilojen vuokraaminen vuokrausperiaatteiden mukaisesti\n\nToimivallan peruste\nHallintosääntö § 93\n\nLiitteet ja oheisaineisto\n\nValmistelu\n\nSiilinjärven kunnan kanssa on käyty vuokrasopimusneuvottelut syksyn 2025 aikana vuoden 2026 alusta lähtien tehtävien vuokrasopimusten osalta.\n\nVuokrasopimusneuvotteluja on käyty 16.9.2024 aluehallituksen linjaamien periaatteiden mukaisesti. Vuokrasopimukset tehdään toistaiseksi voimassa olevina enintään 12 kk irtisanomisajalla. Neuvottelut käydään pääomavuokran tasosta ja ylläpitovuokran sitomisesta todellisiin kustannuksiin. Tavoitteena on neuvotella vuokrakustannukset nykyisiä vuokrakustannuksia pienemmäksi.\n\nSiilinjärven kunta on toimittanut hyvinvointialueelle vuokraesityksen vuokrattavien kohteiden vuokratasoista vuoden 2026 alusta lähtien.\n\nHyvinvointialue on teettänyt kunnan esittämistä pääomavuokratasoista ulkopuolisen arvioinnin auktorisoidun kiinteistöarvioijan toimesta. Arvioinnissa on huomioitu mm. vuokrattavien kohteiden kunto, sijainti, vertailu alueen ja vieruskuntien vuokratasoihin. Arviointi on tehty kohteittain neljään eri asteikkoon, joita ovat edullinen, tavanomainen, kallis ja huomattavan kallis. Hyvinvointialue on tehnyt vastaesityksen kunnalle pääomavuokran tasosta arvioinnin perusteella.\n\nKunnan kanssa on saatu neuvoteltua yhteinen näkemys vuokrattavista kohteista ja vuokratasoista seuraavasti:\n\n-Terveyskeskus, vuokra-ala 5639m2, vuokra 2 557 850,4 € /v\n\n-Hamulan koulu, vuokra-ala 77m2, vuokra 18 295,2 € /v\n\n-Kasurilan koulu, vuokra-ala 35m2, vuokra 9534,00 €/v\n\n-Pöljän koulu, vuokra-ala 39m2, vuokra 9383,4 € /v\n\n-Toivalan koulu, vuokra-ala 64m2, vuokra 15 206,4 € /v\n\n-Vuorelan koulu, vuokra-ala 50m2, 12 180,00 €/v\n\nKaikkien kohteiden kokonaisvuokra yhteensä 2 622 449,4 € /v ja 10 489 797,6 €/ 4 vuotta. Pelastusaseman osalta oston toteutumiseen asti vuokra on 36 580,61 € /kk.\n\nVuokrasopimukset tehdään osapuolten välillä kohdekohtaisesti ja sopimuksissa sovitaan tarkemmin osapuolten välisestä vastuujaosta. Kaikki sopimukset tehdään toistaiseksi voimassa olevina 12 kk irtisanomisajalla. Kokonaisvuokrissa ylläpitovuokran osuus on arvioitu ja ne määrittyvät toteutuvien kustannusten mukaisesti.",
+   "decision": "Merkitään pöytäkirjaan, että:\n\nMerja Rautiainen ilmoitti olevansa esteellinen (HL 28.1. kohta 1) ja poistui kokouksesta käsittelyn ja päätöksenteon ajaksi klo 9.04 - 9.06.\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nPetri Pyy\n\nHannu Lahti\n\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\nMerja Rautiainen ilmoitti olevansa esteellinen (HL 28.1. kohta 1) ja poistui kokouksesta käsittelyn ja päätöksenteon ajaksi klo 9.04 - 9.06.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä Siilinjärven kunnan kanssa tehtävät vuokrasopimukset valmistelutekstin mukaisesti.\n\nEnnakkovaikutusten arviointi\n\nHyvinvointialueen tarvitsemien toimitilojen vuokraaminen vuokrausperiaatteiden mukaisesti\n\nToimivallan peruste\nHallintosääntö § 93\n\nLiitteet ja oheisaineisto\n\nValmistelu\n\nSiilinjärven kunnan kanssa on käyty vuokrasopimusneuvottelut syksyn 2025 aikana vuoden 2026 alusta lähtien tehtävien vuokrasopimusten osalta.\n\nVuokrasopimusneuvotteluja on käyty 16.9.2024 aluehallituksen linjaamien periaatteiden mukaisesti. Vuokrasopimukset tehdään toistaiseksi voimassa olevina enintään 12 kk irtisanomisajalla. Neuvottelut käydään pääomavuokran tasosta ja ylläpitovuokran sitomisesta todellisiin kustannuksiin. Tavoitteena on neuvotella vuokrakustannukset nykyisiä vuokrakustannuksia pienemmäksi.\n\nSiilinjärven kunta on toimittanut hyvinvointialueelle vuokraesityksen vuokrattavien kohteiden vuokratasoista vuoden 2026 alusta lähtien.\n\nHyvinvointialue on teettänyt kunnan esittämistä pääomavuokratasoista ulkopuolisen arvioinnin auktorisoidun kiinteistöarvioijan toimesta. Arvioinnissa on huomioitu mm. vuokrattavien kohteiden kunto, sijainti, vertailu alueen ja vieruskuntien vuokratasoihin. Arviointi on tehty kohteittain neljään eri asteikkoon, joita ovat edullinen, tavanomainen, kallis ja huomattavan kallis. Hyvinvointialue on tehnyt vastaesityksen kunnalle pääomavuokran tasosta arvioinnin perusteella.\n\nKunnan kanssa on saatu neuvoteltua yhteinen näkemys vuokrattavista kohteista ja vuokratasoista seuraavasti:\n\n-Terveyskeskus, vuokra-ala 5639m2, vuokra 2 557 850,4 € /v\n\n-Hamulan koulu, vuokra-ala 77m2, vuokra 18 295,2 € /v\n\n-Kasurilan koulu, vuokra-ala 35m2, vuokra 9534,00 €/v\n\n-Pöljän koulu, vuokra-ala 39m2, vuokra 9383,4 € /v\n\n-Toivalan koulu, vuokra-ala 64m2, vuokra 15 206,4 € /v\n\n-Vuorelan koulu, vuokra-ala 50m2, 12 180,00 €/v\n\nKaikkien kohteiden kokonaisvuokra yhteensä 2 622 449,4 € /v ja 10 489 797,6 €/ 4 vuotta. Pelastusaseman osalta oston toteutumiseen asti vuokra on 36 580,61 € /kk.\n\nVuokrasopimukset tehdään osapuolten välillä kohdekohtaisesti ja sopimuksissa sovitaan tarkemmin osapuolten välisestä vastuujaosta. Kaikki sopimukset tehdään toistaiseksi voimassa olevina 12 kk irtisanomisajalla. Kokonaisvuokrissa ylläpitovuokran osuus on arvioitu ja ne määrittyvät toteutuvien kustannusten mukaisesti."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "5",
+   "title": "Tuusniemen kunnan tilojen vuokraus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-5",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-5.PDF",
+   "diary_number": "184/02.07.00/2023",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää:\n\nhyväksyä Tuusniemen kunnan kanssa tehtävät vuokrasopimukset valmistelutekstin mukaisesti\n\npelastusasemasta tehdään 5 vuoden määräaikainen sopimus\n\nEnnakkovaikutusten arviointi\n\nHyvinvointialueen tarvitsemien toimitilojen vuokraaminen vuokrausperiaatteiden mukaisesti\n\nToimivallan peruste\nHallintosääntö § 93\n\nLiitteet ja oheisaineisto\n\nValmistelu\n\nTuusniemen kunnan kanssa on käyty vuokrasopimusneuvottelut syksyn 2025 aikana vuoden 2026 alusta lähtien tehtävien vuokrasopimusten osalta.\n\nVuokrasopimusneuvotteluja on käyty 16.9.2024 aluehallituksen linjaamien periaatteiden mukaisesti. Vuokrasopimukset tehdään toistaiseksi voimassa olevina enintään 12 kk irtisanomisajalla. Neuvottelut käydään pääomavuokran tasosta ja ylläpitovuokran sitomisesta todellisiin kustannuksiin. Tavoitteena on neuvotella vuokrakustannukset nykyisiä vuokrakustannuksia pienemmäksi.\n\nTuusniemien kunta on toimittanut hyvinvointialueelle vuokraesityksen vuokrattavien kohteiden vuokratasoista vuoden 2026 alusta lähtien.\n\nHyvinvointialue on teettänyt kunnan esittämistä pääomavuokratasoista ulkopuolisen arvioinnin auktorisoidun kiinteistöarvioijan toimesta. Arvioinnissa on huomioitu mm. vuokrattavien kohteiden kunto, sijainti, vertailu alueen ja vieruskuntien vuokratasoihin. Arviointi on tehty kohteittain neljään eri asteikkoon, joita ovat edullinen, tavanomainen, kallis ja huomattavan kallis. Hyvinvointialue on tehnyt vastaesityksen kunnalle pääomavuokran tasosta arvioinnin perusteella.\n\nKunnan kanssa on saatu neuvoteltua yhteinen näkemys vuokrattavista kohteista ja vuokratasoista seuraavasti:\n\n-Pelastusasema, vuokra-ala 542m2, vuokra 84566,76 € /v\n\n-Terveyskeskus, vuokra-ala 632,3m2, vuokra 163 166,88 € /v\n\n-Koivukoti ja kotihoito, vuokra-ala 1138,5m2, vuokra 255 994,56 € /v\n\n-Palvelukeskus, vuokra-ala 1669m2, vuokra 319 599,00 €/v\n\n-Virastotalo, vuokra-ala 406m2, vuokra 73 213,32 € /v\n\n-Kouluterveydenhoitajan tila, vuokra-ala 20m2, vuokra 2169,12 € /v\n\nKaikkien kohteiden pääomavuokra yhteensä on 464 010,48 €/v ja 38 667,54 €/kk. Ylläpitovuokra kaikkien kohteiden osalta on arvioitu yhteensä 434 699,116 €/v ja 36 224,93 €/kk. Kokonaisvuokra yhteensä 898 709,64 € /v ja 3 594 838,56 €/ 4 vuotta.\n\nVuokrasopimukset tehdään osapuolten välillä kohdekohtaisesti ja sopimuksissa sovitaan tarkemmin osapuolten välisestä vastuujaosta. Vuokrasopimukset tehdään toistaiseksi voimassa olevina 12 kk irtisanomisajalla pois lukien pelastusasema, josta tehdään 5 vuoden määräaikainen sopimus. Kokonaisvuokrissa ylläpitovuokran osuus on arvioitu ja ne määrittyvät toteutuvien kustannusten mukaisesti.\n\nMääräaikaisen sopimuksen tekeminen pelastusasemasta perustuu aluehallituksen 27.12.2024 linjaamiin periaatteisiin. Valtioneuvoston investointien ohjauksen opasta (VN/3976/2025) täsmentävän ”Usein kysytyt kysymykset” mukaan toimitilasta tehtävää pidempiaikaista määräaikaista vuokrasopimusta ei katsota investointia vastaavaksi sopimukseksi, mikäli tilojen käyttö jatkuu ennallaan ja sopimus ei sisällä laajoja korjauksia tai muutoksia.",
+   "decision": "Merkitään pöytäkirjaan, että:\n\nJuha Pitkänen ilmoitti olevansa esteellinen (HL 28.1. kohta 1) ja poistui kokouksesta käsittelyn ja päätöksenteon ajaksi klo 9.07 - 9.11.\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nPetri Pyy\n\nHannu Lahti\n\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\nJuha Pitkänen ilmoitti olevansa esteellinen (HL 28.1. kohta 1) ja poistui kokouksesta käsittelyn ja päätöksenteon ajaksi klo 9.07 - 9.11.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\nhyväksyä Tuusniemen kunnan kanssa tehtävät vuokrasopimukset valmistelutekstin mukaisesti\n\npelastusasemasta tehdään 5 vuoden määräaikainen sopimus\n\nEnnakkovaikutusten arviointi\n\nHyvinvointialueen tarvitsemien toimitilojen vuokraaminen vuokrausperiaatteiden mukaisesti\n\nToimivallan peruste\nHallintosääntö § 93\n\nLiitteet ja oheisaineisto\n\nValmistelu\n\nTuusniemen kunnan kanssa on käyty vuokrasopimusneuvottelut syksyn 2025 aikana vuoden 2026 alusta lähtien tehtävien vuokrasopimusten osalta.\n\nVuokrasopimusneuvotteluja on käyty 16.9.2024 aluehallituksen linjaamien periaatteiden mukaisesti. Vuokrasopimukset tehdään toistaiseksi voimassa olevina enintään 12 kk irtisanomisajalla. Neuvottelut käydään pääomavuokran tasosta ja ylläpitovuokran sitomisesta todellisiin kustannuksiin. Tavoitteena on neuvotella vuokrakustannukset nykyisiä vuokrakustannuksia pienemmäksi.\n\nTuusniemien kunta on toimittanut hyvinvointialueelle vuokraesityksen vuokrattavien kohteiden vuokratasoista vuoden 2026 alusta lähtien.\n\nHyvinvointialue on teettänyt kunnan esittämistä pääomavuokratasoista ulkopuolisen arvioinnin auktorisoidun kiinteistöarvioijan toimesta. Arvioinnissa on huomioitu mm. vuokrattavien kohteiden kunto, sijainti, vertailu alueen ja vieruskuntien vuokratasoihin. Arviointi on tehty kohteittain neljään eri asteikkoon, joita ovat edullinen, tavanomainen, kallis ja huomattavan kallis. Hyvinvointialue on tehnyt vastaesityksen kunnalle pääomavuokran tasosta arvioinnin perusteella.\n\nKunnan kanssa on saatu neuvoteltua yhteinen näkemys vuokrattavista kohteista ja vuokratasoista seuraavasti:\n\n-Pelastusasema, vuokra-ala 542m2, vuokra 84566,76 € /v\n\n-Terveyskeskus, vuokra-ala 632,3m2, vuokra 163 166,88 € /v\n\n-Koivukoti ja kotihoito, vuokra-ala 1138,5m2, vuokra 255 994,56 € /v\n\n-Palvelukeskus, vuokra-ala 1669m2, vuokra 319 599,00 €/v\n\n-Virastotalo, vuokra-ala 406m2, vuokra 73 213,32 € /v\n\n-Kouluterveydenhoitajan tila, vuokra-ala 20m2, vuokra 2169,12 € /v\n\nKaikkien kohteiden pääomavuokra yhteensä on 464 010,48 €/v ja 38 667,54 €/kk. Ylläpitovuokra kaikkien kohteiden osalta on arvioitu yhteensä 434 699,116 €/v ja 36 224,93 €/kk. Kokonaisvuokra yhteensä 898 709,64 € /v ja 3 594 838,56 €/ 4 vuotta.\n\nVuokrasopimukset tehdään osapuolten välillä kohdekohtaisesti ja sopimuksissa sovitaan tarkemmin osapuolten välisestä vastuujaosta. Vuokrasopimukset tehdään toistaiseksi voimassa olevina 12 kk irtisanomisajalla pois lukien pelastusasema, josta tehdään 5 vuoden määräaikainen sopimus. Kokonaisvuokrissa ylläpitovuokran osuus on arvioitu ja ne määrittyvät toteutuvien kustannusten mukaisesti.\n\nMääräaikaisen sopimuksen tekeminen pelastusasemasta perustuu aluehallituksen 27.12.2024 linjaamiin periaatteisiin. Valtioneuvoston investointien ohjauksen opasta (VN/3976/2025) täsmentävän ”Usein kysytyt kysymykset” mukaan toimitilasta tehtävää pidempiaikaista määräaikaista vuokrasopimusta ei katsota investointia vastaavaksi sopimukseksi, mikäli tilojen käyttö jatkuu ennallaan ja sopimus ei sisällä laajoja korjauksia tai muutoksia."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "6",
+   "title": "Lapinlahden kunnan tilojen vuokraus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-6",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-6.PDF",
+   "diary_number": "6668/02.07.00/2025",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää hyväksyä Lapinlahden kunnan / Lapinlahden kiinteistöyhtiön kanssa tehtävät vuokrasopimukset valmistelutekstin mukaisesti.\n\nEnnakkovaikutusten arviointi\n\nHyvinvointialueen tarvitsemien toimitilojen vuokraaminen vuokrausperiaatteiden mukaisesti\n\nToimivallan peruste\nHallintosääntö § 93\n\nValmistelu\nLapinlahden kunnan kanssa on käyty vuokrasopimusneuvottelut syksyn 2025 aikana vuoden 2026 alusta lähtien tehtävien vuokrasopimusten osalta.\n\nVuokrasopimusneuvotteluja on käyty 16.9.2024 aluehallituksen\n\nlinjaamien periaatteiden mukaisesti. Vuokrasopimukset tehdään\n\ntoistaiseksi voimassa olevina enintään 12 kk irtisanomisajalla.\n\nNeuvottelut käydään pääomavuokran tasosta ja ylläpitovuokran\n\nsitomisesta todellisiin kustannuksiin. Tavoitteena on neuvotella\n\nvuokrakustannukset nykyisiä vuokrakustannuksia pienemmäksi.\n\nLapinlahden kunta on toimittanut hyvinvointialueelle vuokraesityksen\n\nvuokrattavien kohteiden vuokratasoista vuoden 2026 alusta lähtien.\n\nHyvinvointialue on teettänyt kunnan esittämistä pääomavuokratasoista ulkopuolisen arvioinnin auktorisoidun kiinteistöarvioijan toimesta. Arvioinnissa on huomioitu mm.vuokrattavien kohteiden kunto, sijainti, vertailu alueen ja vieruskuntien vuokratasoihin. Arviointi on tehty kohteittain neljään eri asteikkoon, joita ovat edullinen, tavanomainen, kallis ja huomattavan kallis. Hyvinvointialue on tehnyt vastaesityksen kunnalle pääomavuokran tasosta arvioinnin perusteella.\n\nKunnan kanssa on saatu neuvoteltua yhteinen näkemys\n\nvuokrattavista kohteista ja vuokratasoista seuraavasti:\n\n- Lapinlahden pelastusasema, vuokra-ala 1131m2\n\nvuokra 252 266,16€/v\n\n-Sosiaalitoimisto Orvokki vapaarahotteinen osa, vuokra-ala 1457m2, vuokra 338 454,80 €/v\n\n-Sosiaalitoimisto Orvokki Kielo Ara osa, vuokra-ala 1305m2\n\nvuokra 235 181,45 € /v\n\n-Lapinlahden terveyskeskus, vuokra-ala 8448,9m2, vuokra 1 584 840,76 €/v\n\n-Varpaisjärven paloasema, vuokra-ala 800 m2, vuokra 137 538,92 € /v\n\n-Varpaisjärven terveyskeskus, vuokra-ala 799 m2\n\nvuokra 151 200,1 € /v\n\n-Jussinpiha, vuokra-ala 1143 m2, vuokra 227 959,92 €/v\n\n-Liisan koti, vuokra-ala 250 m2, vuokra 53 295,75 €/v\n\n-Paavon koti, vuokra-ala 266 m2, vuokra 59 872,73 €/v\n\n-Virastokeskus, vuokra-ala 373 m2, vuokra 54 927,02 €/v\n\n-Nerkoon koulu, vuokra-ala 23m2, vuokra 6515,88 €/v\n\n-Lapinlahden koulu, vuokra-ala 40m2, vuokra 9821,76 €/v\n\n-Matin ja Liisan koulu Viisu, vuokra-ala 74m2, vuokra 21 076,2 €/v\n\n-Alapitkän koulu, vuokra-ala 44m2, vuokra 9990,48 €/v\n\n-Varpaisjärven yläkoulu, vuokra-ala 63m2, vuokra 15 084,00 €/v\n\nKaikkien kohteiden pääomavuokra yhteensä on 1 912 388,3€/v ja 159 365,69 €/kk. Ylläpitovuokra kaikkien kohteiden osalta on arvioitu\n\nyhteensä 1 237 522,8 €/v ja 103 126,9 €/kk. Kokonaisvuokra yhteensä 3 158 025,5 € /v ja 12 632 102,11 €/ 4 vuotta.\n\nVuokrasopimukset tehdään osapuolten välillä kohdekohtaisesti ja\n\nsopimuksissa sovitaan tarkemmin osapuolten välisestä vastuujaosta. Koulukohteiden vuokrasopimukset tehdään Lapinlahden kunnan kanssa ja muiden kohteiden osalta Lapinlahden kiinteistöyhtiön kanssa.\n\nVuokrasopimukset tehdään toistaiseksi voimassa olevina 12 kk\n\nirtisanomisajalla. Kokonaisvuokrissa ylläpitovuokran osuus on\n\narvioitu ja ne määrittyvät toteutuvien kustannusten mukaisesti.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nPetri Pyy\n\nHannu Lahti, Janne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä Lapinlahden kunnan / Lapinlahden kiinteistöyhtiön kanssa tehtävät vuokrasopimukset valmistelutekstin mukaisesti.\n\nEnnakkovaikutusten arviointi\n\nHyvinvointialueen tarvitsemien toimitilojen vuokraaminen vuokrausperiaatteiden mukaisesti\n\nToimivallan peruste\nHallintosääntö § 93\n\nValmistelu\nLapinlahden kunnan kanssa on käyty vuokrasopimusneuvottelut syksyn 2025 aikana vuoden 2026 alusta lähtien tehtävien vuokrasopimusten osalta.\n\nVuokrasopimusneuvotteluja on käyty 16.9.2024 aluehallituksen\n\nlinjaamien periaatteiden mukaisesti. Vuokrasopimukset tehdään\n\ntoistaiseksi voimassa olevina enintään 12 kk irtisanomisajalla.\n\nNeuvottelut käydään pääomavuokran tasosta ja ylläpitovuokran\n\nsitomisesta todellisiin kustannuksiin. Tavoitteena on neuvotella\n\nvuokrakustannukset nykyisiä vuokrakustannuksia pienemmäksi.\n\nLapinlahden kunta on toimittanut hyvinvointialueelle vuokraesityksen\n\nvuokrattavien kohteiden vuokratasoista vuoden 2026 alusta lähtien.\n\nHyvinvointialue on teettänyt kunnan esittämistä pääomavuokratasoista ulkopuolisen arvioinnin auktorisoidun kiinteistöarvioijan toimesta. Arvioinnissa on huomioitu mm.vuokrattavien kohteiden kunto, sijainti, vertailu alueen ja vieruskuntien vuokratasoihin. Arviointi on tehty kohteittain neljään eri asteikkoon, joita ovat edullinen, tavanomainen, kallis ja huomattavan kallis. Hyvinvointialue on tehnyt vastaesityksen kunnalle pääomavuokran tasosta arvioinnin perusteella.\n\nKunnan kanssa on saatu neuvoteltua yhteinen näkemys\n\nvuokrattavista kohteista ja vuokratasoista seuraavasti:\n\n- Lapinlahden pelastusasema, vuokra-ala 1131m2\n\nvuokra 252 266,16€/v\n\n-Sosiaalitoimisto Orvokki vapaarahotteinen osa, vuokra-ala 1457m2, vuokra 338 454,80 €/v\n\n-Sosiaalitoimisto Orvokki Kielo Ara osa, vuokra-ala 1305m2\n\nvuokra 235 181,45 € /v\n\n-Lapinlahden terveyskeskus, vuokra-ala 8448,9m2, vuokra 1 584 840,76 €/v\n\n-Varpaisjärven paloasema, vuokra-ala 800 m2, vuokra 137 538,92 € /v\n\n-Varpaisjärven terveyskeskus, vuokra-ala 799 m2\n\nvuokra 151 200,1 € /v\n\n-Jussinpiha, vuokra-ala 1143 m2, vuokra 227 959,92 €/v\n\n-Liisan koti, vuokra-ala 250 m2, vuokra 53 295,75 €/v\n\n-Paavon koti, vuokra-ala 266 m2, vuokra 59 872,73 €/v\n\n-Virastokeskus, vuokra-ala 373 m2, vuokra 54 927,02 €/v\n\n-Nerkoon koulu, vuokra-ala 23m2, vuokra 6515,88 €/v\n\n-Lapinlahden koulu, vuokra-ala 40m2, vuokra 9821,76 €/v\n\n-Matin ja Liisan koulu Viisu, vuokra-ala 74m2, vuokra 21 076,2 €/v\n\n-Alapitkän koulu, vuokra-ala 44m2, vuokra 9990,48 €/v\n\n-Varpaisjärven yläkoulu, vuokra-ala 63m2, vuokra 15 084,00 €/v\n\nKaikkien kohteiden pääomavuokra yhteensä on 1 912 388,3€/v ja 159 365,69 €/kk. Ylläpitovuokra kaikkien kohteiden osalta on arvioitu\n\nyhteensä 1 237 522,8 €/v ja 103 126,9 €/kk. Kokonaisvuokra yhteensä 3 158 025,5 € /v ja 12 632 102,11 €/ 4 vuotta.\n\nVuokrasopimukset tehdään osapuolten välillä kohdekohtaisesti ja\n\nsopimuksissa sovitaan tarkemmin osapuolten välisestä vastuujaosta. Koulukohteiden vuokrasopimukset tehdään Lapinlahden kunnan kanssa ja muiden kohteiden osalta Lapinlahden kiinteistöyhtiön kanssa.\n\nVuokrasopimukset tehdään toistaiseksi voimassa olevina 12 kk\n\nirtisanomisajalla. Kokonaisvuokrissa ylläpitovuokran osuus on\n\narvioitu ja ne määrittyvät toteutuvien kustannusten mukaisesti."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "7",
+   "title": "Kiuruveden kaupungin tilojen vuokraus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-7",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-7.PDF",
+   "diary_number": "173/02.07.00/2023",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää Kiuruveden kaupungin tilojen vuokraamisesta esittelytekstin mukaisesti.\n\nEnnakkovaikutusten arviointi\n\nHyvinvointialueen tarvitsemien toimitilojen vuokraaminen vuokrausperiaatteiden mukaisesti.\n\nToimivallan peruste\nHallintosääntö § 93\n\nLiitteet ja oheisaineisto\n\n-\n\nValmistelu\nKiuruveden kaupungin kanssa on käyty vuokrasopimusneuvottelut syksyn aikana vuoden 2026 alusta lähtien tehtävien vuokrasopimusten osalta.\n\nVuokrasopimusneuvotteluja on käyty 16.9.2024 aluehallituksen lin-jaamien periaatteiden mukaisesti. Vuokrasopimukset tehdään tois-taiseksi voimassa olevina enintään 12 kk irtisanomisajalla. Neuvotte-lut käydään pääomavuokran tasosta ja ylläpitovuokran sitomisesta todellisiin kustannuksiin. Tavoitteena on neuvotella vuokrakustannukset nykyisiä vuokrakustannuksia pienemmäksi.\n\nKiuruveden kaupunki on toimittanut hyvinvointialueelle vuokraesityksen vuokrattavien kohteiden vuokratasoista vuoden 2026 alusta lähtien.\n\nHyvinvointialue on teettänyt kunnan esittämistä pääomavuokratasoista ulkopuolisen arvioinnin auktorisoidun kiinteistöarvioijan toimesta. Arvioinnissa on huomioitu mm. vuokrattavien kohteiden kunto, sijainti, vertailu alueen ja vieruskuntien vuokratasoihin. Arviointi on tehty kohteittain neljään eri asteikkoon, joita ovat edullinen, tavanomainen, kallis ja huomattavan kallis. Hyvinvointialue on tehnyt vastaesityksen kunnalle pääomavuokran tasosta arvioinnin perusteella.\n\nKaupungin kanssa on saatu neuvoteltua yhteinen näkemys vuokrattavista kohteista ja vuokratasoista seuraavasti:\n\nTerveyskeskus, vuokra-ala 6180m2, vuokra 809 155,32 € /v\n\nVirranranta, vuokra-ala 3220m2, vuokra 435 276,36 € /v\n\nKaupungintalo, vuokra-ala 542m2, vuokra 74 464,8 €/v\n\nKouluterveydenhoitajan tila, vuokra-ala 49m2, vuokra 7 013,04 €/v\n\nPelastuslaitos, vuokra-ala 1468m2, vuokra 233 014,2 €/v\n\nLähteen ryhmäkoti, vuokra-ala 286m2, vuokra 33 832,3 €/v\n\nKaikkien kohteiden pääomavuokra yhteensä on 781 547,16 €/v ja 65 128,93 €/kk. Ylläpitovuokra kaikkien kohteiden osalta on arvioitu yhteensä 783 608,76 €/v ja 65 300,73 €/kk. Kokonaisvuokra yhteensä 1 592 755,92 € /v ja 6 371 023,68 €/ 4 vuotta. Siivous sisältyy kaupungintalon ja kouluterveydenhoitajan vuokriin.\n\nKiuruvedellä luovutaan yrittäjäntien Poijun toimitiloista.\n\nVuokrasopimukset tehdään osapuolten välillä kohdekohtaisesti ja sopimuksissa sovitaan tarkemmin osapuolten välisestä vastuujaosta. Vuokrasopimukset tehdään toistaiseksi voimassa olevina 12 kk irtisanomisajalla. Kokonaisvuokrissa ylläpitovuokran osuus on arvioitu ja ne määrittyvät toteutuvien kustannusten mukaisesti.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nPetri Pyy\n\nHannu Lahti\n\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää, että Kiuruveden pelastusasemasta tehdään 5 vuoden määräaikainen vuokrasopimus.\n\nEnnakkovaikutusten arviointi\n\nHyvinvointialueen tarvitsemien toimitilojen vuokraaminen vuokrausperiaatteiden mukaisesti\n\nToimivallan peruste\nHallintosääntö § 93\n\nValmistelu\nKiuruveden kaupungin kanssa on neuvoteltu tehtävien vuokrasopimusten vuokrasopimustasot. Pelastusaseman osalta neuvoteltu vuokra on perustunut siihen, että kohteesta tehdään 5 vuoden määräaikainen sopimus. Määräaikaisen sopimuksen tekeminen perustuu aluehallituksen 27.12.2024 linjaamiin periaatteisiin pelastusasemia koskien.\n\nValtioneuvoston investointien ohjauksen opasta (VN/3976/2025) täsmentävän ”Usein kysytyt kysymykset” mukaan toimitilasta tehtävää pidempiaikaista määräaikaista vuokrasopimusta ei katsota investointia vastaavaksi sopimukseksi, mikäli tilojen käyttö jatkuu ennallaan ja sopimus ei sisällä laajoja korjauksia tai muutoksia.\n\nAhall 08.12.2025 § 469\n\nValmistelija(t)\nPetri Pyy, Hannu Lahti, Janne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää Kiuruveden kaupungin tilojen vuokraamisesta esittelytekstin mukaisesti.\n\nEnnakkovaikutusten arviointi\n\nHyvinvointialueen tarvitsemien toimitilojen vuokraaminen vuokrausperiaatteiden mukaisesti.\n\nToimivallan peruste\nHallintosääntö § 93\n\nLiitteet ja oheisaineisto\n\n-\n\nValmistelu\nKiuruveden kaupungin kanssa on käyty vuokrasopimusneuvottelut syksyn aikana vuoden 2026 alusta lähtien tehtävien vuokrasopimusten osalta.\n\nVuokrasopimusneuvotteluja on käyty 16.9.2024 aluehallituksen lin-jaamien periaatteiden mukaisesti. Vuokrasopimukset tehdään tois-taiseksi voimassa olevina enintään 12 kk irtisanomisajalla. Neuvotte-lut käydään pääomavuokran tasosta ja ylläpitovuokran sitomisesta todellisiin kustannuksiin. Tavoitteena on neuvotella vuokrakustannukset nykyisiä vuokrakustannuksia pienemmäksi.\n\nKiuruveden kaupunki on toimittanut hyvinvointialueelle vuokraesityksen vuokrattavien kohteiden vuokratasoista vuoden 2026 alusta lähtien.\n\nHyvinvointialue on teettänyt kunnan esittämistä pääomavuokratasoista ulkopuolisen arvioinnin auktorisoidun kiinteistöarvioijan toimesta. Arvioinnissa on huomioitu mm. vuokrattavien kohteiden kunto, sijainti, vertailu alueen ja vieruskuntien vuokratasoihin. Arviointi on tehty kohteittain neljään eri asteikkoon, joita ovat edullinen, tavanomainen, kallis ja huomattavan kallis. Hyvinvointialue on tehnyt vastaesityksen kunnalle pääomavuokran tasosta arvioinnin perusteella.\n\nKaupungin kanssa on saatu neuvoteltua yhteinen näkemys vuokrattavista kohteista ja vuokratasoista seuraavasti:\n\nTerveyskeskus, vuokra-ala 6180m2, vuokra 809 155,32 € /v\n\nVirranranta, vuokra-ala 3220m2, vuokra 435 276,36 € /v\n\nKaupungintalo, vuokra-ala 542m2, vuokra 74 464,8 €/v\n\nKouluterveydenhoitajan tila, vuokra-ala 49m2, vuokra 7 013,04 €/v\n\nPelastuslaitos, vuokra-ala 1468m2, vuokra 233 014,2 €/v\n\nLähteen ryhmäkoti, vuokra-ala 286m2, vuokra 33 832,3 €/v\n\nKaikkien kohteiden pääomavuokra yhteensä on 781 547,16 €/v ja 65 128,93 €/kk. Ylläpitovuokra kaikkien kohteiden osalta on arvioitu yhteensä 783 608,76 €/v ja 65 300,73 €/kk. Kokonaisvuokra yhteensä 1 592 755,92 € /v ja 6 371 023,68 €/ 4 vuotta. Siivous sisältyy kaupungintalon ja kouluterveydenhoitajan vuokriin.\n\nKiuruvedellä luovutaan yrittäjäntien Poijun toimitiloista.\n\nVuokrasopimukset tehdään osapuolten välillä kohdekohtaisesti ja sopimuksissa sovitaan tarkemmin osapuolten välisestä vastuujaosta. Vuokrasopimukset tehdään toistaiseksi voimassa olevina 12 kk irtisanomisajalla. Kokonaisvuokrissa ylläpitovuokran osuus on arvioitu ja ne määrittyvät toteutuvien kustannusten mukaisesti."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "8",
+   "title": "Pielaveden kunnan tilojen vuokraus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-8",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-8.PDF",
+   "diary_number": "6592/02.07.00/2025",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää hyväksyä Pielaveden kunnan kanssa tehtävät vuokrasopimukset valmistelutekstin mukaisesti.\n\nEnnakkovaikutusten arviointi\n\nHyvinvointialueen tarvitsemien toimitilojen vuokraaminen vuokrausperiaatteiden mukaisesti\n\nToimivallan peruste\nHallintosääntö § 93\n\nValmistelu\n\nPielaveden kunnan kanssa on käyty vuokrasopimusneuvottelut syksyn 2025 aikana vuoden 2026 alusta lähtien tehtävien vuokrasopimusten osalta.\n\nVuokrasopimusneuvotteluja on käyty 16.9.2024 aluehallituksen linjaamien periaatteiden mukaisesti. Vuokrasopimukset tehdään toistaiseksi voimassa olevina enintään 12 kk irtisanomisajalla. Neuvottelut käydään pääomavuokran tasosta ja ylläpitovuokran sitomisesta todellisiin kustannuksiin. Tavoitteena on neuvotella vuokrakustannukset nykyisiä vuokrakustannuksia pienemmäksi.\n\nPielaveden kunta on toimittanut hyvinvointialueelle vuokraesityksen vuokrattavien kohteiden vuokratasoista vuoden 2026 alusta lähtien.\n\nHyvinvointialue on teettänyt kunnan esittämistä pääomavuokratasoista ulkopuolisen arvioinnin auktorisoidun kiinteistöarvioijan toimesta. Arvioinnissa on huomioitu mm. vuokrattavien kohteiden kunto, sijainti, vertailu alueen ja vieruskuntien vuokratasoihin. Arviointi on tehty kohteittain neljään eri asteikkoon, joita ovat edullinen, tavanomainen, kallis ja huomattavan kallis. Hyvinvointialue on tehnyt vastaesityksen kunnalle pääomavuokran tasosta arvioinnin perusteella.\n\nKunnan kanssa on saatu neuvoteltua yhteinen näkemys vuokrattavista kohteista ja vuokratasoista seuraavasti:\n\n-Pielakoti, vuokra-ala 2892,5m2, vuokra 641 925,00 € /v\n\n-Terveyskeskus, vuokra-ala 3931,2m2, vuokra 762 117,00 € /v\n\n-Pelastusasema, vuokra-ala 784,1m2, vuokra 204 932,04 € /v\n\n-Puustellin koulu, vuokra-ala 74m2, vuokra 10 444,44 €/v\n\n-Rannankylän koulu, vuokra-ala 37,5m2, vuokra 5194,8 € /v\n\nKaikkien kohteiden pääomavuokra yhteensä on 1 211 252,9 €/v ja 100 937,74 €/kk. Ylläpitovuokra kaikkien kohteiden osalta on arvioitu yhteensä 413 360,4 €/v ja 34 446,7 €/kk. Kokonaisvuokra yhteensä 1 624 613,3 € /v ja 6 498 453,12 €/ 4 vuotta.\n\nVuokrasopimukset tehdään osapuolten välillä kohdekohtaisesti ja sopimuksissa sovitaan tarkemmin osapuolten välisestä vastuujaosta. Kaikki sopimukset tehdään toistaiseksi voimassa olevina 12 kk irtisanomisajalla. Kokonaisvuokrissa ylläpitovuokran osuus on arvioitu ja ne määrittyvät toteutuvien kustannusten mukaisesti.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nPetri Pyy\n\nHannu Lahti\n\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä Pielaveden kunnan kanssa tehtävät vuokrasopimukset valmistelutekstin mukaisesti.\n\nEnnakkovaikutusten arviointi\n\nHyvinvointialueen tarvitsemien toimitilojen vuokraaminen vuokrausperiaatteiden mukaisesti\n\nToimivallan peruste\nHallintosääntö § 93\n\nValmistelu\n\nPielaveden kunnan kanssa on käyty vuokrasopimusneuvottelut syksyn 2025 aikana vuoden 2026 alusta lähtien tehtävien vuokrasopimusten osalta.\n\nVuokrasopimusneuvotteluja on käyty 16.9.2024 aluehallituksen linjaamien periaatteiden mukaisesti. Vuokrasopimukset tehdään toistaiseksi voimassa olevina enintään 12 kk irtisanomisajalla. Neuvottelut käydään pääomavuokran tasosta ja ylläpitovuokran sitomisesta todellisiin kustannuksiin. Tavoitteena on neuvotella vuokrakustannukset nykyisiä vuokrakustannuksia pienemmäksi.\n\nPielaveden kunta on toimittanut hyvinvointialueelle vuokraesityksen vuokrattavien kohteiden vuokratasoista vuoden 2026 alusta lähtien.\n\nHyvinvointialue on teettänyt kunnan esittämistä pääomavuokratasoista ulkopuolisen arvioinnin auktorisoidun kiinteistöarvioijan toimesta. Arvioinnissa on huomioitu mm. vuokrattavien kohteiden kunto, sijainti, vertailu alueen ja vieruskuntien vuokratasoihin. Arviointi on tehty kohteittain neljään eri asteikkoon, joita ovat edullinen, tavanomainen, kallis ja huomattavan kallis. Hyvinvointialue on tehnyt vastaesityksen kunnalle pääomavuokran tasosta arvioinnin perusteella.\n\nKunnan kanssa on saatu neuvoteltua yhteinen näkemys vuokrattavista kohteista ja vuokratasoista seuraavasti:\n\n-Pielakoti, vuokra-ala 2892,5m2, vuokra 641 925,00 € /v\n\n-Terveyskeskus, vuokra-ala 3931,2m2, vuokra 762 117,00 € /v\n\n-Pelastusasema, vuokra-ala 784,1m2, vuokra 204 932,04 € /v\n\n-Puustellin koulu, vuokra-ala 74m2, vuokra 10 444,44 €/v\n\n-Rannankylän koulu, vuokra-ala 37,5m2, vuokra 5194,8 € /v\n\nKaikkien kohteiden pääomavuokra yhteensä on 1 211 252,9 €/v ja 100 937,74 €/kk. Ylläpitovuokra kaikkien kohteiden osalta on arvioitu yhteensä 413 360,4 €/v ja 34 446,7 €/kk. Kokonaisvuokra yhteensä 1 624 613,3 € /v ja 6 498 453,12 €/ 4 vuotta.\n\nVuokrasopimukset tehdään osapuolten välillä kohdekohtaisesti ja sopimuksissa sovitaan tarkemmin osapuolten välisestä vastuujaosta. Kaikki sopimukset tehdään toistaiseksi voimassa olevina 12 kk irtisanomisajalla. Kokonaisvuokrissa ylläpitovuokran osuus on arvioitu ja ne määrittyvät toteutuvien kustannusten mukaisesti."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "9",
+   "title": "Suonenjoen kaupungin tilojen vuokraus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-9",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-9.PDF",
+   "diary_number": "183/02.07.00/2023",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää:\n\nhyväksyä Suonenjoen kaupungin kanssa tehtävät vuokrasopimukset valmistelutekstin mukaisesti\n\npelastusasemasta tehdään 5 vuoden määräaikainen sopimus\n\nEnnakkovaikutusten arviointi\n\nHyvinvointialueen tarvitsemien toimitilojen vuokraaminen vuokrausperiaatteiden mukaisesti\n\nToimivallan peruste\nHallintosääntö § 93\n\nLiitteet ja oheisaineisto\n\nValmistelu\nSuonenjoen kaupungin kanssa on käyty vuokrasopimusneuvottelut syksyn 2025 aikana vuoden 2026 alusta lähtien tehtävien vuokrasopimusten osalta.\n\nVuokrasopimusneuvotteluja on käyty 16.9.2024 aluehallituksen lin-jaamien periaatteiden mukaisesti. Vuokrasopimukset tehdään tois-taiseksi voimassa olevina enintään 12 kk irtisanomisajalla. Neuvotte-lut käydään pääomavuokran tasosta ja ylläpitovuokran sitomisesta todellisiin kustannuksiin. Tavoitteena on neuvotella vuokrakustannukset nykyisiä vuokrakustannuksia pienemmäksi.\n\nSuonenjoen kaupunki on toimittanut hyvinvointialueelle vuokraesityksen vuokrattavien kohteiden vuokratasoista vuoden 2026 alusta lähtien.\n\nHyvinvointialue on teettänyt kaupungin esittämistä pääomavuokratasoista ulkopuolisen arvioinnin auktorisoidun kiinteistöarvioijan toimesta. Arvioinnissa on huomioitu mm. vuokrattavien kohteiden kunto, sijainti, vertailu alueen ja vieruskuntien vuokratasoihin. Arviointi on tehty kohteittain neljään eri asteikkoon, joita ovat edullinen, tavanomainen, kallis ja huomattavan kallis. Hyvinvointialue on tehnyt vastaesityksen kunnalle pääomavuokran tasosta arvioinnin perusteella.\n\nKaupungin kanssa on saatu neuvoteltua yhteinen näkemys vuokratta-vista kohteista ja vuokratasoista seuraavasti:\n\n- Lintharjun koulu, vuokra-ala 75m2, vuokra 10 855,56 €/v\n\n- Säästötori, vuokra-ala 134,51m2, vuokra 74 605,44 € /v\n\n- Terveyskeskus, vuokra-ala 4641m2, vuokra 774 634,2 € /v\n\n- Vanhainkoti-palvelukeskus, vuokra-ala 4417m2, vuokra\n\n656 755,44€/v\n\n- Sairaalapolku 3, vuokra-ala 738m, vuokra 120 567,00 €/v\n\n- Väinölä, vuokra-ala 405m2, vuokra 73 862,64 €/v\n\n- Paloasema, vuokra-ala 1484m2, vuokra 250 132,56 €/v\n\n- Iisveden koulu, vuokra-ala 21,15m2, vuokra 6103,44 € /v\n\nKaikkien kohteiden pääomavuokra yhteensä on 1 206 011,9€/v ja 108 000,99 €/kk. Ylläpitovuokra kaikkien kohteiden osalta on arvioitu yhteensä 671 504,4 €/v ja 55 958,7 €/kk. Kokonaisvuokra yhteensä 1 967 516,3 € /v ja 7 870 065,12 €/ 4 vuotta.\n\nVuokrasopimukset tehdään osapuolten välillä kohdekohtaisesti ja sopimuksissa sovitaan tarkemmin osapuolten välisestä vastuujaosta. Vuokrasopimukset tehdään toistaiseksi voimassa olevina 12 kk irtisanomisajalla, pois lukien pelastusasema, josta tehdään 5 vuoden määräaikainen sopimus. Kokonaisvuokrissa ylläpitovuokran osuus on arvioitu ja ne määrittyvät toteutuvien kustannusten mukaisesti.\n\nMääräaikaisen sopimuksen tekeminen pelastusasemasta perustuu aluehallituksen 27.12.2024 linjaamiin periaatteisiin. Valtioneuvoston investointien ohjauksen opasta (VN/3976/2025) täsmentävän ”Usein kysytyt kysymykset” mukaan toimitilasta tehtävää pidempiaikaista määräaikaista vuokrasopimusta ei katsota investointia vastaavaksi sopimukseksi, mikäli tilojen käyttö jatkuu ennallaan ja sopimus ei sisällä laajoja korjauksia tai muutoksia.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nPetri Pyy\n\nHannu Lahti\n\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\nhyväksyä Suonenjoen kaupungin kanssa tehtävät vuokrasopimukset valmistelutekstin mukaisesti\n\npelastusasemasta tehdään 5 vuoden määräaikainen sopimus\n\nEnnakkovaikutusten arviointi\n\nHyvinvointialueen tarvitsemien toimitilojen vuokraaminen vuokrausperiaatteiden mukaisesti\n\nToimivallan peruste\nHallintosääntö § 93\n\nLiitteet ja oheisaineisto\n\nValmistelu\nSuonenjoen kaupungin kanssa on käyty vuokrasopimusneuvottelut syksyn 2025 aikana vuoden 2026 alusta lähtien tehtävien vuokrasopimusten osalta.\n\nVuokrasopimusneuvotteluja on käyty 16.9.2024 aluehallituksen lin-jaamien periaatteiden mukaisesti. Vuokrasopimukset tehdään tois-taiseksi voimassa olevina enintään 12 kk irtisanomisajalla. Neuvotte-lut käydään pääomavuokran tasosta ja ylläpitovuokran sitomisesta todellisiin kustannuksiin. Tavoitteena on neuvotella vuokrakustannukset nykyisiä vuokrakustannuksia pienemmäksi.\n\nSuonenjoen kaupunki on toimittanut hyvinvointialueelle vuokraesityksen vuokrattavien kohteiden vuokratasoista vuoden 2026 alusta lähtien.\n\nHyvinvointialue on teettänyt kaupungin esittämistä pääomavuokratasoista ulkopuolisen arvioinnin auktorisoidun kiinteistöarvioijan toimesta. Arvioinnissa on huomioitu mm. vuokrattavien kohteiden kunto, sijainti, vertailu alueen ja vieruskuntien vuokratasoihin. Arviointi on tehty kohteittain neljään eri asteikkoon, joita ovat edullinen, tavanomainen, kallis ja huomattavan kallis. Hyvinvointialue on tehnyt vastaesityksen kunnalle pääomavuokran tasosta arvioinnin perusteella.\n\nKaupungin kanssa on saatu neuvoteltua yhteinen näkemys vuokratta-vista kohteista ja vuokratasoista seuraavasti:\n\n- Lintharjun koulu, vuokra-ala 75m2, vuokra 10 855,56 €/v\n\n- Säästötori, vuokra-ala 134,51m2, vuokra 74 605,44 € /v\n\n- Terveyskeskus, vuokra-ala 4641m2, vuokra 774 634,2 € /v\n\n- Vanhainkoti-palvelukeskus, vuokra-ala 4417m2, vuokra\n\n656 755,44€/v\n\n- Sairaalapolku 3, vuokra-ala 738m, vuokra 120 567,00 €/v\n\n- Väinölä, vuokra-ala 405m2, vuokra 73 862,64 €/v\n\n- Paloasema, vuokra-ala 1484m2, vuokra 250 132,56 €/v\n\n- Iisveden koulu, vuokra-ala 21,15m2, vuokra 6103,44 € /v\n\nKaikkien kohteiden pääomavuokra yhteensä on 1 206 011,9€/v ja 108 000,99 €/kk. Ylläpitovuokra kaikkien kohteiden osalta on arvioitu yhteensä 671 504,4 €/v ja 55 958,7 €/kk. Kokonaisvuokra yhteensä 1 967 516,3 € /v ja 7 870 065,12 €/ 4 vuotta.\n\nVuokrasopimukset tehdään osapuolten välillä kohdekohtaisesti ja sopimuksissa sovitaan tarkemmin osapuolten välisestä vastuujaosta. Vuokrasopimukset tehdään toistaiseksi voimassa olevina 12 kk irtisanomisajalla, pois lukien pelastusasema, josta tehdään 5 vuoden määräaikainen sopimus. Kokonaisvuokrissa ylläpitovuokran osuus on arvioitu ja ne määrittyvät toteutuvien kustannusten mukaisesti.\n\nMääräaikaisen sopimuksen tekeminen pelastusasemasta perustuu aluehallituksen 27.12.2024 linjaamiin periaatteisiin. Valtioneuvoston investointien ohjauksen opasta (VN/3976/2025) täsmentävän ”Usein kysytyt kysymykset” mukaan toimitilasta tehtävää pidempiaikaista määräaikaista vuokrasopimusta ei katsota investointia vastaavaksi sopimukseksi, mikäli tilojen käyttö jatkuu ennallaan ja sopimus ei sisällä laajoja korjauksia tai muutoksia."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "10",
+   "title": "Alava B2 rakennuksen vuokrasopimuksen jatkaminen Niiralan Kulma Oy:lta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-10",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-10.PDF",
+   "diary_number": "5509/02.07.00/2025",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää:\n\njatkaa Alava B2 rakennuksen vuokrasopimusta Niiralan Kulma Oy:n kanssa toistaiseksi voimassa olevalla sopimuksella 12 kk irtisanomisajalla\n\nkertakorvauksen maksamisesta vuokranantajalle esittelytekstin mukaisesti, mikäli hyvinvointialue irtisanoo tilat ennen vuoden 2030 loppua.\n\nEnnakkovaikutusten arviointi\n\nHyvinvointialueen tarvitsemien toimitilojen vuokraaminen vuokrausperiaatteiden mukaisesti\n\nToimivallan peruste\nHallintosääntö § 93\n\nValmistelu\nPohjois-Savon sairaanhoitopiirin ja Niiralan kulma Oy:n välillä on solmittu vuonna 2005 vuokrasopimus Alava B2 rakennuksesta. Vuokrasopimus on solmittu 20 vuoden määräaikaisena sopimuksena. Vuokrasopimuksen mukaisesti määräajan päättyessa vuokralainen on velvollinen korvaamaan vuokranantajalle jäljellä olevan lainapääoman kertasuorituksena, mikäli vuokrasuhde päättyy. Lainapääomaa on jäljellä 31.12.2025 yhteensä 1 143 144 € ja lyhennysaikaa 5 vuotta.\n\nPohjois-Savon hyvinvointialueella on tarve jatkaa kohteen vuokraamista. Toimitilat ovat tällä hetkellä vammaisten osaamiskeskus, lasten psykiatrinen poliklinikka ja etävastaanoton digipalvelujen käytössä. Vuokrattavien tilojen kokonaisala on 2996,5 m2. Vuokrasopimus laaditaan toistaiseksi voimassa olevana 12 kk irtisanomisajalla alkaen 1.2.2026. Kokonaisvuokra on 863 711,16 € /vuosi, 3 454 844,64 € / 4 vuotta.\n\nMikäli hyvinvointialue irtisanoo tilat ennen lainapääoman takaisinmaksua,vuoden 2030 loppua, tulee hyvinvointialueen suorittaa vuonna 2005 solmitun sopimuksen mukaisesti kertakorvaus vuokranantajalle seuraavasti:\n\n31.12.2027: 599 829,36 €\n\n31.12.2028: 384 551,91 €\n\n31.12.2029: 146 918,36 €\n\n31.12.2030: 0 €",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nPetri Pyy\n\nHannu Lahti\n\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\njatkaa Alava B2 rakennuksen vuokrasopimusta Niiralan Kulma Oy:n kanssa toistaiseksi voimassa olevalla sopimuksella 12 kk irtisanomisajalla\n\nkertakorvauksen maksamisesta vuokranantajalle esittelytekstin mukaisesti, mikäli hyvinvointialue irtisanoo tilat ennen vuoden 2030 loppua.\n\nEnnakkovaikutusten arviointi\n\nHyvinvointialueen tarvitsemien toimitilojen vuokraaminen vuokrausperiaatteiden mukaisesti\n\nToimivallan peruste\nHallintosääntö § 93\n\nValmistelu\nPohjois-Savon sairaanhoitopiirin ja Niiralan kulma Oy:n välillä on solmittu vuonna 2005 vuokrasopimus Alava B2 rakennuksesta. Vuokrasopimus on solmittu 20 vuoden määräaikaisena sopimuksena. Vuokrasopimuksen mukaisesti määräajan päättyessa vuokralainen on velvollinen korvaamaan vuokranantajalle jäljellä olevan lainapääoman kertasuorituksena, mikäli vuokrasuhde päättyy. Lainapääomaa on jäljellä 31.12.2025 yhteensä 1 143 144 € ja lyhennysaikaa 5 vuotta.\n\nPohjois-Savon hyvinvointialueella on tarve jatkaa kohteen vuokraamista. Toimitilat ovat tällä hetkellä vammaisten osaamiskeskus, lasten psykiatrinen poliklinikka ja etävastaanoton digipalvelujen käytössä. Vuokrattavien tilojen kokonaisala on 2996,5 m2. Vuokrasopimus laaditaan toistaiseksi voimassa olevana 12 kk irtisanomisajalla alkaen 1.2.2026. Kokonaisvuokra on 863 711,16 € /vuosi, 3 454 844,64 € / 4 vuotta.\n\nMikäli hyvinvointialue irtisanoo tilat ennen lainapääoman takaisinmaksua,vuoden 2030 loppua, tulee hyvinvointialueen suorittaa vuonna 2005 solmitun sopimuksen mukaisesti kertakorvaus vuokranantajalle seuraavasti:\n\n31.12.2027: 599 829,36 €\n\n31.12.2028: 384 551,91 €\n\n31.12.2029: 146 918,36 €\n\n31.12.2030: 0 €"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "11",
+   "title": "Palvelujärjestelmän uudistaminen - R5 mielenterveys- ja päihdepalvelujen -uudistus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-11",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-11.PDF",
+   "diary_number": "637/00.01.02.00/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää:\n\nmerkitä mielenterveys- ja päihdepalveluiden palvelu-uudistuksen (R5) luonnoksen (liite 1) sekä valmistelutilanteen tiedoksi.\n\nkäynnistää sidosryhmien osallistamisen, jossa kevään aikana kuullaan muun muassa henkilöstöä, alueen asukkaita, yrityksiä ja yhdistyksiä.\n\nlähettää luonnoksen lausunnoille hyvinvointialueen lautakuntiin, jaostoihin sekä lakisääteisiin ja vapaaehtoisiin vaikuttamistoimielimiin sekä aluevaltuustoryhmille, Pohjois-Savon kuntiin ja Pohjois-Savon liittoon. Lausunnot pyydetään toimittamaan 15.2.2026 mennessä Pohjois-Savon hyvinvointialueen kirjaamoon.\n\nEnnakkovaikutusten arviointi\n\nMielenterveys- ja päihdepalveluiden uudistusta koskeva ennakkovaikutusten arviointi tuodaan käsiteltäväksi uudistusta koskevan päätöksenteon yhteydessä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä: Mielenterveys- ja päihdepalveluiden uudistuksen luonnos dioina\n\nValmistelu\n\nPohjois-Savon hyvinvointialueella on käynnissä palvelujärjestelmän kokonaisuudistus (Ahall 27.5.2024 § 185), joka koostuu viidestä kokonaisuudesta:\n\nR1. Vastaanottotoiminnan sekä alueellisen erikoissairaanhoidon ja aikuissosiaalityön uudistus (toimeenpanossa; Avalt 17.6.2024 § 47)\n\nR2. Osastohoidon, asumisen ja kotiin vietävien palveluiden uudistus (toimeenpanossa; Avalt 17.6.2024 § 47)\n\nR3. Perhe- ja vammaispalveluiden uudistus (toimeenpanossa; Avalt 16.12.2024 § 80)\n\nR4. Erikoissairaanhoidon ja yliopistollisen sairaalan uudistus (toimeenpanossa; Avalt 5.5.2025 § 29)\n\nR5. Mielenterveys- ja päihdepalveluiden uudistus (käynnistetty aluehallituksen päätöksellä 28.10.2024 § 336)\n\nMielenterveys- ja päihdepalvelut muodostavat läpileikkaavan kokonaisuuden, joka vaikuttaa laajasti hyvinvointialueen palvelutoimintaan. Ne kytkeytyvät terveydenhuollon palveluiden lisäksi muun muassa perhepalveluiden universaaleihin palveluihin, kasvatus- ja perheneuvontaan ja lastensuojeluun. Lisäksi palveluilla on keskeinen yhdyspinta kuntien sivistys- ja nuorisotoimen palveluihin, hyte-toimintaan sekä järjestöihin.\n\nUudistuksessa tarkastellaan kokonaisvaltaisesti mielenterveys- ja päihdepalveluiden palvelurakennetta aina lasten palveluista ikääntyvien palveluihin. Painopisteenä on johtamisen ja ohjauksen rakenteiden kehittäminen sekä palveluiden integroiminen, kattaen sekä erityis- että peruspalvelut sekä terveydenhuollon ja sosiaalihuollon palvelut. Tavoitteena on löytää kustannusvaikuttavia ja palveluiden kehittämistä edistäviä toimenpiteitä.\n\nUudistuksen valmistelua ovat johtaneet ohjausryhmän puheenjohtajina toimialajohtajat Jari Saarinen ja Kati Kantanen. Valmistelutyö on jakaantunut kahteen alatyöryhmään: Aikuisten mielenterveys- ja päihdepalvelut (puheenjohtajana palveluyksikköjohtaja Teijamari Laasonen-Balk) sekä Lasten ja nuorten mielenterveyspalvelut (puheenjohtajana palvelualuejohtaja Minna Pitkänen).\n\nMielenterveys ja päihdepalveluiden uudistuksen keskeiset sisällöt\n\nMielenterveys- ja päihdepalveluiden uudistuksen taustalla ovat hyvinvointialueen uuden organisaatiorakenteen integraatiomahdollisuuksien hyödyntäminen, talouden reunaehdot sekä henkilöstön saatavuus. Uudistuksessa kehitetään mielenterveys- ja päihdepalveluiden asiakkaan palveluketjua painottaen ongelmien oikea-aikaista tunnistamista, varhaista tukea sekä hoidon käynnistämistä tarkoituksenmukaisella hoidon portaalla.\n\nUudistuksessa vahvistetaan erikoissairaanhoidon tukea perusterveydenhuoltoon, tehostetaan ja vahvistetaan peruspalveluiden henkilöstövoimavarojen käyttöä sekä vahvistetaan omaa palvelutuotantoa ostopalveluiden vähentämiseksi. Samalla uudistetaan organisaatio- ja johtamisrakenteita vastaamaan muuttuvia toimintamalleja ja parannetaan tilatehokkuutta lisäämällä palvelutuotannon ja hallinnon tilojen yhteiskäyttöä sekä tiivistämällä tuotannon tilankäyttöä.\n\nYhdistyvässä terveydenhuollon rakenteessa toimintakäytäntöjen suunnittelu ja toteutus tehdään tiiviissä yhteistyössä sosiaalipalveluiden kanssa. Yhteistyötä vahvistetaan erityisesti ikääntyneiden palveluiden ja lastensuojelun toimijoiden kanssa, huomioiden muuttuvat palvelutarpeet ja väestörakenteen kehitys.\n\nAikuisten mielenterveys- ja päihdepalveluissa perusterveydenhuollon ja erikoissairaanhoidon palvelut yhdistetään yhdeksi kokonaisuudeksi, joka muodostaa Pohjois-Savon mielenterveys- ja päihdepalvelut. Toiminta perustuu kolmen aluekeskuksen malliin, joissa aluekeskuksina toimivat Iisalmi, Kuopio ja Varkaus. Aluekeskukset tuottavat laajoja palveluja alueensa väestölle ja tukevat ympäröiviä toimipisteitä palvelutarpeen mukaisesti.\n\nPäihdepalvelusäätiön tuottama päihdehoitotoiminta siirretään hyvinvointialueen omaksi toiminnaksi sopimuskauden päättyessä loppuvuodesta 2026. Alueellinen päihdetyö tuotetaan jatkossa koko hyvinvointialueen laajuisesti Pohjois-Savon hyvinvointialueen päihdepalveluista, ja päihdepsykiatrian poliklinikat toimivat Iisalmessa, Kuopiossa ja Varkaudessa. Päihdetyön osaamista tarjotaan alueellisesti, ja päihdekuntoutusta vahvistetaan osastokuntoutuksen alueellisella laajentamisella.\n\nLasten ja nuorten mielenterveys- ja päihdepalveluissa tuetaan ikäkausisiirtymiä yksilöllisen harkinnan perusteella perheet ja verkostot huomioiden. Kaikissa yksiköissä lapsen ja nuoren hoito toteutuu yhteistyössä vanhempien, huoltajien sekä muiden läheisten aikuisten kanssa. Toiminnassa siirrytään erillisistä rakenteista integroidumpiin toimintamalleihin sekä sisällön että resurssien näkökulmasta. Tavoitteena on saavuttaa integraatiohyötyjä toimintatapojen uudistamisella, yhteisten tavoitteiden asettamisella ja olemassa olevan osaamisen tehokkaammalla hyödyntämisellä.",
+   "decision": "Merkitään pöytäkirjaan, että:\n\nTuomo Pekkarinen liittyi kokoukseen asian käsittelyn aikana klo 10.05.\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nKati Kantanen, Jari Saarinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\nTuomo Pekkarinen liittyi kokoukseen asian käsittelyn aikana klo 10.05.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\nmerkitä mielenterveys- ja päihdepalveluiden palvelu-uudistuksen (R5) luonnoksen (liite 1) sekä valmistelutilanteen tiedoksi.\n\nkäynnistää sidosryhmien osallistamisen, jossa kevään aikana kuullaan muun muassa henkilöstöä, alueen asukkaita, yrityksiä ja yhdistyksiä.\n\nlähettää luonnoksen lausunnoille hyvinvointialueen lautakuntiin, jaostoihin sekä lakisääteisiin ja vapaaehtoisiin vaikuttamistoimielimiin sekä aluevaltuustoryhmille, Pohjois-Savon kuntiin ja Pohjois-Savon liittoon. Lausunnot pyydetään toimittamaan 15.2.2026 mennessä Pohjois-Savon hyvinvointialueen kirjaamoon.\n\nEnnakkovaikutusten arviointi\n\nMielenterveys- ja päihdepalveluiden uudistusta koskeva ennakkovaikutusten arviointi tuodaan käsiteltäväksi uudistusta koskevan päätöksenteon yhteydessä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä: Mielenterveys- ja päihdepalveluiden uudistuksen luonnos dioina\n\nValmistelu\n\nPohjois-Savon hyvinvointialueella on käynnissä palvelujärjestelmän kokonaisuudistus (Ahall 27.5.2024 § 185), joka koostuu viidestä kokonaisuudesta:\n\nR1. Vastaanottotoiminnan sekä alueellisen erikoissairaanhoidon ja aikuissosiaalityön uudistus (toimeenpanossa; Avalt 17.6.2024 § 47)\n\nR2. Osastohoidon, asumisen ja kotiin vietävien palveluiden uudistus (toimeenpanossa; Avalt 17.6.2024 § 47)\n\nR3. Perhe- ja vammaispalveluiden uudistus (toimeenpanossa; Avalt 16.12.2024 § 80)\n\nR4. Erikoissairaanhoidon ja yliopistollisen sairaalan uudistus (toimeenpanossa; Avalt 5.5.2025 § 29)\n\nR5. Mielenterveys- ja päihdepalveluiden uudistus (käynnistetty aluehallituksen päätöksellä 28.10.2024 § 336)\n\nMielenterveys- ja päihdepalvelut muodostavat läpileikkaavan kokonaisuuden, joka vaikuttaa laajasti hyvinvointialueen palvelutoimintaan. Ne kytkeytyvät terveydenhuollon palveluiden lisäksi muun muassa perhepalveluiden universaaleihin palveluihin, kasvatus- ja perheneuvontaan ja lastensuojeluun. Lisäksi palveluilla on keskeinen yhdyspinta kuntien sivistys- ja nuorisotoimen palveluihin, hyte-toimintaan sekä järjestöihin.\n\nUudistuksessa tarkastellaan kokonaisvaltaisesti mielenterveys- ja päihdepalveluiden palvelurakennetta aina lasten palveluista ikääntyvien palveluihin. Painopisteenä on johtamisen ja ohjauksen rakenteiden kehittäminen sekä palveluiden integroiminen, kattaen sekä erityis- että peruspalvelut sekä terveydenhuollon ja sosiaalihuollon palvelut. Tavoitteena on löytää kustannusvaikuttavia ja palveluiden kehittämistä edistäviä toimenpiteitä.\n\nUudistuksen valmistelua ovat johtaneet ohjausryhmän puheenjohtajina toimialajohtajat Jari Saarinen ja Kati Kantanen. Valmistelutyö on jakaantunut kahteen alatyöryhmään: Aikuisten mielenterveys- ja päihdepalvelut (puheenjohtajana palveluyksikköjohtaja Teijamari Laasonen-Balk) sekä Lasten ja nuorten mielenterveyspalvelut (puheenjohtajana palvelualuejohtaja Minna Pitkänen).\n\nMielenterveys ja päihdepalveluiden uudistuksen keskeiset sisällöt\n\nMielenterveys- ja päihdepalveluiden uudistuksen taustalla ovat hyvinvointialueen uuden organisaatiorakenteen integraatiomahdollisuuksien hyödyntäminen, talouden reunaehdot sekä henkilöstön saatavuus. Uudistuksessa kehitetään mielenterveys- ja päihdepalveluiden asiakkaan palveluketjua painottaen ongelmien oikea-aikaista tunnistamista, varhaista tukea sekä hoidon käynnistämistä tarkoituksenmukaisella hoidon portaalla.\n\nUudistuksessa vahvistetaan erikoissairaanhoidon tukea perusterveydenhuoltoon, tehostetaan ja vahvistetaan peruspalveluiden henkilöstövoimavarojen käyttöä sekä vahvistetaan omaa palvelutuotantoa ostopalveluiden vähentämiseksi. Samalla uudistetaan organisaatio- ja johtamisrakenteita vastaamaan muuttuvia toimintamalleja ja parannetaan tilatehokkuutta lisäämällä palvelutuotannon ja hallinnon tilojen yhteiskäyttöä sekä tiivistämällä tuotannon tilankäyttöä.\n\nYhdistyvässä terveydenhuollon rakenteessa toimintakäytäntöjen suunnittelu ja toteutus tehdään tiiviissä yhteistyössä sosiaalipalveluiden kanssa. Yhteistyötä vahvistetaan erityisesti ikääntyneiden palveluiden ja lastensuojelun toimijoiden kanssa, huomioiden muuttuvat palvelutarpeet ja väestörakenteen kehitys.\n\nAikuisten mielenterveys- ja päihdepalveluissa perusterveydenhuollon ja erikoissairaanhoidon palvelut yhdistetään yhdeksi kokonaisuudeksi, joka muodostaa Pohjois-Savon mielenterveys- ja päihdepalvelut. Toiminta perustuu kolmen aluekeskuksen malliin, joissa aluekeskuksina toimivat Iisalmi, Kuopio ja Varkaus. Aluekeskukset tuottavat laajoja palveluja alueensa väestölle ja tukevat ympäröiviä toimipisteitä palvelutarpeen mukaisesti.\n\nPäihdepalvelusäätiön tuottama päihdehoitotoiminta siirretään hyvinvointialueen omaksi toiminnaksi sopimuskauden päättyessä loppuvuodesta 2026. Alueellinen päihdetyö tuotetaan jatkossa koko hyvinvointialueen laajuisesti Pohjois-Savon hyvinvointialueen päihdepalveluista, ja päihdepsykiatrian poliklinikat toimivat Iisalmessa, Kuopiossa ja Varkaudessa. Päihdetyön osaamista tarjotaan alueellisesti, ja päihdekuntoutusta vahvistetaan osastokuntoutuksen alueellisella laajentamisella.\n\nLasten ja nuorten mielenterveys- ja päihdepalveluissa tuetaan ikäkausisiirtymiä yksilöllisen harkinnan perusteella perheet ja verkostot huomioiden. Kaikissa yksiköissä lapsen ja nuoren hoito toteutuu yhteistyössä vanhempien, huoltajien sekä muiden läheisten aikuisten kanssa. Toiminnassa siirrytään erillisistä rakenteista integroidumpiin toimintamalleihin sekä sisällön että resurssien näkökulmasta. Tavoitteena on saavuttaa integraatiohyötyjä toimintatapojen uudistamisella, yhteisten tavoitteiden asettamisella ja olemassa olevan osaamisen tehokkaammalla hyödyntämisellä."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Mielenterveys- ja päihdepalveluiden uudistus (R5)",
+     "url": "https://pshva.oncloudos.com/kokous/2026940-11-233251.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "12",
+   "title": "Ajankohtaiset asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-12",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-12.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus merkitsee asiat tiedoksi.\n\n Sosiaalijohtajan tehtäväjärjestelyt, Eija Jestola\n\n Omasavo -tilannekatsaus, Anu Ryynänen\n\n Sote- järjestämislain muutokset valmiuden ja varautumisen osalta, Antti Hedman",
+   "decision": "Merkitään pöytäkirjaan, että:\n\nAnu Ryynänen oli läsnä Omasavo asian esittelyn ajan klo 11.03 - 11.48.\n\nMari Antikainen poistui kokouksesta asian käsittelyn aikana klo 12.00.\n\nAluehallitus merkitsi asiat tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Ajankohtaiset asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\nAnu Ryynänen oli läsnä Omasavo asian esittelyn ajan klo 11.03 - 11.48.\n\nMari Antikainen poistui kokouksesta asian käsittelyn aikana klo 12.00.\n\nAluehallitus merkitsi asiat tiedoksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus merkitsee asiat tiedoksi.\n\n Sosiaalijohtajan tehtäväjärjestelyt, Eija Jestola\n\n Omasavo -tilannekatsaus, Anu Ryynänen\n\n Sote- järjestämislain muutokset valmiuden ja varautumisen osalta, Antti Hedman"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "13",
+   "title": "Pohjois-Savon hyvinvointialueen ohje aluevaltuustoryhmätuen käyttämisestä 1.1.2026 lukien",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-13",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-13.PDF",
+   "diary_number": "242/02.05.00/2022",
+   "preparer": "Janne Niemeläinen",
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää hyväksyä Pohjois-Savon hyvinvointialueen ohjeen aluevaltuustoryhmätuen käyttämisestä 1.1.2025 lukien.",
+   "decision": "Päätösehdotus hyväksyttiin yksimielisesti seuraavalla muutoksella:\n\nOhjeen 5. kohdan viimeinen virke muutetaan seuraavasti: tuki on käytettävä kunkin kalenterivuoden aikana, pl vaalikauden vaihtumisvuosi, jolloin tuesta on käytettävä 5/12 31.5. mennessä ja 7/12 1.6.-31.12. välisenä aikana.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä esityslistan liitteenä olevan uuden ohjeen aluevaltuustoryhmätuesta.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Pohjois-Savon hyvinvointialueen ohje aluevaltuustoryhmätuen käyttämisestä 1.1.2026\n\n- Pohjois-Savon hyvinvointialueen ohje aluevaltuustoryhmätuen käyttämisestä 1.1.2026, muutoksilla\n\nValmistelu\n\nAluehallitus on 15.8.2022 § 142 hyväksynyt ohjeen aluevaltuustoryhmätuen käyttämisestä ja hyväksynyt siihen muutoksia 18.12.2024 § 419.\n\nHallintosäännössä on määräykset aluevaltuustoryhmän tuen suuruudesta. Uuden hallintosäännön mukaan tuki on 4.000 €/aluevaltuutettu (aiemmin 5.000 €/aluevaltuutettu).\n\nHyvinvointialuelain 27 §:ssä on määräykset aluevaltuustoryhmätuesta. Lakiin on tullut muutos 1.1.2026 alkaen. Laista poistuu mahdollisuus käyttää tukea edistämään asukkaiden osallistumis- ja vaikuttamismahdollisuuksia, eli tuen käyttö yleisötilaisuuksiin on aikaisempaa rajoitetumpaa.\n\n31.12.2025 saakka valtuustoryhmien toimintaedellytyksien parantamiseksi hyvinvointialue voi taloudellisesti tukea valtuustoryhmien sisäistä toimintaa sekä toimenpiteitä, joilla valtuustoryhmät edistävät hyvinvointialueen asukkaiden osallistumis- ja vaikuttamismahdollisuuksia. Tukea myönnettäessä on yksilöitävä tuen käyttötarkoitus. Tuen määrä valtuustoryhmittäin on ilmoitettava hyvinvointialueen tilinpäätöksessä.\n\n1.1.2026 alkaen valtuustoryhmien toimintaedellytyksien parantamiseksi hyvinvointialue voi taloudellisesti tukea valtuustoryhmien sisäistä toimintaa sekä valtuustoryhmän päätöksentekoon liittyvää muuta toimintaa. Tukea myönnettäessä hyvinvointialueen on yksilöitävä tuen käyttötarkoitus. Tiedot tuen määrästä ja käyttökohteesta on ilmoitettava valtuustoryhmittäin hyvinvointialueen tilinpäätöksessä.\n\nMuutoksen myötä yleisötilaisuudet, kuten messu- ja tori-tapahtumat eivät ole enää mahdollisia, ellei siihen liity kuuleminen / keskustelu Pohjois-Savon hyvinvointialueella valmistelussa olevasta asiasta, joka on tulossa päätöksentekoon. Aluevaltuustotyön tunnetuksi tekeminen ei oikeuta tukeen.\n\nJatkossa myönnetyt aluevaltuustoryhmätuet ja selvitykset aluevaltuustoryhmätuen käyttämisestä julkaistaan hyvinvointialueen verkkosivuilla.\n\nEdellä kuvattujen muutosten johdosta ohjeeseen tulee tehdä em. muutokset.\n\nAhall 18.12.2024 § 419\n\nValmistelija: Janne Niemeläinen\n\nAluehallitus on 15.8.2022 § 142 hyväksynyt ohjeen aluevaltuustoryhmätuen käyttämisestä. Aiemmin hyväksyttyä ohjetta on tarpeen tarkentaa tietyiltä osin esityslistan liitteenä olevalla versiolla.\n\nPohjois-Savon hyvinvointialueen hallintosäännön 119 § on määräykset aluevaltuustoryhmätuen käyttämisestä seuraavasti:\n\nAluevaltuustoryhmän tuki määräytyy aluevaltuustoryhmässä olevien valtuutettujen määrän suhteessa. Määrä aluevaltuutettua kohden on 5.000 €.\n\nToimintatuki ohjataan sekä aluevaltuustoryhmän sisäisen toiminnan järjestämiseen ja kehittämiseen että toimintaan, joka kohdistuu maakunnan asukkaisiin ja muihin sidosryhmiin. Ryhmän toiminnasta syntyviä kuluja ovat esimerkiksi työvoimakustannukset, työtilojen vuokrat, työvälineet sekä muut mahdolliset tukitoimiin liittyvät kustannukset, kuten kopio-, tietoliikenne- ja puhelinkulut. Ryhmän ulkopuolisia kustannuksia voi syntyä esimerkiksi maakunnan asukkaille tai muille sidosryhmille tuotettujen koulutus- ja keskustelutilaisuuksien sekä tiedottamistoiminnan myötä. Vaalikampanjointiin toimintatukea ei saa ohjata.\n\nToimintatuen maksamiseksi valtuustoryhmät esittävät hyvinvointialueelle suunnitelman, joka sisältää alustavan kuvauksen suunnitellusta toiminnasta ja arvion syntyvistä kustannuksista (kustannusarvio). Suunnitelmassa ryhmät sitoutuvat toimintatuen käyttö- ja tilitysehtoihin. Tuki on käytettävä kunkin kalenterivuoden aikana.\n\nHyvinvointialuejohtajan määräämä viranhaltija tarkastaa suunnitelman ja suorittaa hakemuksesta ennakkomaksun ryhmien esittämään kustannusarvioon perustuen. Ennakkomaksu ei voi ylittää toimintatuen valtuutettukohtaista enimmäismäärää.\n\nToimintatukea saaneet tahot toimittavat kirjallisen selvityksen toimintatukeen oikeuttavasta toiminnasta ja tositteet syntyneistä kustannuksista. Selvitys on toimitettava viimeistään toimintatuen maksuvuotta seuraavan vuoden tammikuun loppuun mennessä. Jos selvitystä ja tositteita kustannuksista ei toimiteta määräaikaan mennessä tai ne ovat puutteellisia, on hyvinvointialueella oikeus periä takaisin ennakkomaksuna suoritettu toimintatuki joko kokonaan tai osittain.\n\nHyvinvointialueella on oikeus kieltäytyä toimintatuen myöntämisestä, jos sen käytössä havaitaan väärinkäytöksiä tai ryhmä ei raportoi sen käytöstä tämän ohjeen edellyttämällä tavalla. Jos ryhmän toimittama kirjallinen selvitys osoittaa, että toimintatuen ennakkomaksu ylittää kalenterivuotena syntyneet todelliset kustannukset, ryhmän on palautettava ennakkomaksun ja todellisten syntyneiden kustannusten välinen erotus hyvinvointialueelle kahden viikon kuluessa siitä, kun hyvinvointialue ilmoittaa asiasta ryhmän puheenjohtajalle.\n\nVirheellisin perustein haettu ja maksettu toimintatuki peritään takaisin. Epäselvissä tapauksissa aluehallituksella on oikeus antaa toimintatukea koskevia tulkintaohjeita. Päätöksen toimintatuen takaisin perinnästä tekee hyvinvointialuejohtajan määräämä viranhaltija.\n\nEsityslistan liitteenä:\n\n- Pohjois-Savon hyvinvointialueen ohje aluevaltuustoryhmätuen käyttämisestä 1.1.2025\n\n- Pohjois-Savon hyvinvointialueen ohje aluevaltuustoryhmätuen käyttämisestä 1.1.2025, muutoksilla\n\n- sopimus"
+    },
+    {
+     "heading": "Valmistelijan päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä Pohjois-Savon hyvinvointialueen ohjeen aluevaltuustoryhmätuen käyttämisestä 1.1.2025 lukien.\n\nEnnakkovaikutusten arviointi\n\nToimivallan peruste\nhallintosääntö 36 §"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä Pohjois-Savon hyvinvointialueen ohjeen aluevaltuustoryhmätuen käyttämisestä 1.1.2025 lukien."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti seuraavalla muutoksella:\n\nOhjeen 5. kohdan viimeinen virke muutetaan seuraavasti: tuki on käytettävä kunkin kalenterivuoden aikana, pl vaalikauden vaihtumisvuosi, jolloin tuesta on käytettävä 5/12 31.5. mennessä ja 7/12 1.6.-31.12. välisenä aikana."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 HVA ohje aluevaltuustoryhmätuen käytöstä, Ahall 19012026",
+     "url": "https://pshva.oncloudos.com/kokous/2026940-13-232253.PDF"
+    },
+    {
+     "title": "Liite 2 HVA ohje aluevaltuustoryhmätuen käytöstä, Ahall 19012026 muutoksilla",
+     "url": "https://pshva.oncloudos.com/kokous/2026940-13-229197.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "14",
+   "title": "Lahjoituksen vastaanottaminen, Lastenklinikoiden Kummit ry",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-14",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-14.PDF",
+   "diary_number": "920/02.07.01/2025",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää, että Pohjois-Savon hyvinvointialue ottaa kiitollisuudella vastaan asiaselosteen mukaisen lahjoituksen ja käyttää saadut varat lahjoituksessa osoitettuun tarkoitukseen.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Lahjakirja, 28.11.2025\n\nValmistelu\nLastenklinikoiden Kummit ry on 28.11.2025 päivätyllä lahjoituksella lahjoittanut Pohjois-Savon hyvinvointialueelle 100 000 € testamenttirahastosta.\n\nLahjoitus on tarkoitettu käytettäväksi tutkimustyöhön Pohjois-Savon hyvinvointialueen Lasten ja nuorten osaamiskeskuksessa.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää, että Pohjois-Savon hyvinvointialue ottaa kiitollisuudella vastaan asiaselosteen mukaisen lahjoituksen ja käyttää saadut varat lahjoituksessa osoitettuun tarkoitukseen.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Lahjakirja, 28.11.2025\n\nValmistelu\nLastenklinikoiden Kummit ry on 28.11.2025 päivätyllä lahjoituksella lahjoittanut Pohjois-Savon hyvinvointialueelle 100 000 € testamenttirahastosta.\n\nLahjoitus on tarkoitettu käytettäväksi tutkimustyöhön Pohjois-Savon hyvinvointialueen Lasten ja nuorten osaamiskeskuksessa."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "15",
+   "title": "Nuorisovaltuuston edustajamuutokset",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-15",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-15.PDF",
+   "diary_number": "4627/00.00.01/2024",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää:\n\n1) myöntää eron Lenni Pehkoselle Pohjois-Savon nuorisovaltuuston varaedustajan tehtävästä.\n\n2) myöntää eron Ville Huuskoselle Pohjois-Savon nuorisovaltuuston edustajan tehtävästä.\n\n3) nimeää Enna Väätäisen Pohjois-Savon nuorisovaltuustoon Pielaveden edustajaksi.\n\n4)nimeää Teresa Suomisen Pohjois-Savon nuorisovaltuustoon Siilijärven varaedustajaksi.\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nNuorisovaltuuston varaedustaja Lenni Pehkonen, Kuopio, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 13.2.2025. Pehkonen on valittu nuorisovaltuustoon vapaan haun väylän kautta.\n\nNuorisovaltuusto jättää Pehkoselta vapautuvan paikan toistaisesti täyttämättä.\n\nNuorisovaltuuston edustaja Ville Huuskonen, Pielavesi, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 7.3.2025.\n\nPielaveden nuorisovaltuusto on nimennyt uudeksi edustajakseen Pohjois-Savon nuorisovaltuustoon Enna Väätäisen 17.3.2025.\n\nSiilinjärven nuorisovaltuusto on nimennyt varaedustajakseen Pohjois-Savon nuorisovaltuustoon Teresa Suomisen 28.3.2025.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nTiia Hartikainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää: 1) myöntää eron Veera Ojalalle Pohjois-Savon nuorisovaltuustosta 2) nimetä Keiteleen kunnan edustajaksi Saramiia Hämäläisen Pohjois-Savon nuorisovaltuustoon 3) nimetä Keiteleen kunnan varaedustajaksi Elli Vuorelan Pohjois-Savon nuorisovaltuustoon 4) nimetä vapaan haun varaedustajaksi Roope Leskisen Pohjois-Savon nuorisovaltuustoon 5) nimetä Lapinlahden kunnan edustajaksi Maija Kettusen Pohjois-Savon nuorisovaltuustoon 6) nimetä Lapinlahden kunnan varaedustajaksi Venla Verbaanin Pohjois-Savon nuorisovaltuustoon\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nNuorisovaltuuston edustaja ja 2. varapuheenjohtaja Veera Ojala, Keitele, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 11.12.2025.\n\nKeiteleen kunnan nuorisovaltuusto on nimennyt uudeksi edustajakseen Saramiia Hämäläisen, 11.12.2025. Hämäläinen on toiminut aiemmin Miia Hirviheimon (Keitele, vapaa haku) varaedustajana.\n\nKeiteleen kunnan nuorisovaltuusto on nimennyt varaedustajakseen Elli Vuorelan 11.12.2025.\n\nSaramiia Hämäläisen noustessa vapaan haun varaedustajuudesta edustajaksi, vapautui vapaan haun varaedustajan paikka. Vapaan haun varaedustajan paikka täytetään Keiteleen nuorisovaltuuston edustajalla Roope Leskisellä.\n\nLapinlahden kunnan nuorisovaltuusto on nimennyt uudeksi edustajakseen Pohjois-Savon nuorisovaltuustoon Maija Kettusen 15.12.2025.\n\nLapinlahden kunnan nuorisovaltuusto on nimennyt uudeksi varaedustajakseen Pohjois-Savon nuorisovaltuustoon Venla Verbaanin 15.12.2025.\n\nAhall 10.11.2025 § 424\n\nValmistelija(t)\nTiia Hartikainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\n1)nimetä Riina Pentikäisen Pohjois-Savon nuorisovaltuustoon Suonenjoen varaedustajaksi.\n\n2)nimetä Mette Kortelaisen Pohjois-Savon nuorisovaltuuston Joroisten varaedustajaksi.\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nSuonenjoen kaupungin nuorisovaltuusto on nimennyt uudeksi varaedustajakseen Pohjois-Savon nuorisovaltuustoon Riina Pentikäisen 3.10.2025.\n\nJoroisten kunnan nuorisovaltuuston on nimennyt uudeksi varaedustajakseen Pohjois-Savon nuorisovaltuustoon Mette Kortelaisen 9.10.2025.\n\nAhall 07.10.2025 § 376\n\nValmistelija(t)\nTiia Hartikainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\n1) nimetä Vilja Kainulaisen Pohjois-Savon nuorisovaltuustoon Vieremän edustajaksi.\n\n2) nimetä Viivi Rönkön Pohjois-Savon nuorisovaltuustoon Vieremän varaedustajaksi.\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nVieremän kunnan nuorisovaltuusto on nimennyt uudeksi edustajakseen Pohjois-Savon nuorisovaltuustoon Vilja Kainulaisen 24.9.2025.\n\nVieremän kunnan nuorisovaltuusto on nimennyt uudeksi varaedustajakseen Pohjois-Savon nuorisovaltuustoon Viivi Rönkön 24.9.2025.\n\nAhall 22.09.2025 § 363\n\nValmistelija(t)\nTiia Hartikainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää nimetä:\n\n1) Saaga Hallikaisen Pohjois-Savon nuorisovaltuustoon Kaavin edustajaksi\n\n2) Atte Hynysen Pohjois-Savon nuorisovaltuustoon Kaavin varaedustajaksi\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nKaavin kunnan nuorisovaltuusto on nimennyt uudeksi edustajakseen Pohjois-Savon nuorisovaltuustoon Saaga Hallikaisen 12.9.2025.\n\nKaavin kunnan nuorisovaltuusto on nimennyt uudeksi varaedustajakseen Pohjois-Savon nuorisovaltuustoon Atte Hynysen 12.9.2025.\n\nAhall 08.09.2025 § 340\n\nValmistelija(t)\nTiia Hartikainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää\n\n1) myöntää eron Katri Kuokalle Pohjois-Savon nuorisovaltuuston edustajan tehtävästä\n\n2) myöntää eron Iida Virrantalolle Pohjois-Savon nuorisovaltuuston edustajan tehtävästä.\n\n3) myöntää eron Vilma Kärjelle Pohjois-Savon nuorisovaltuuston varaedustajan tehtävästä\n\n4) myöntää eron Aurora Kämäräiselle Pohjois-Savon nuorisovaltuuston varaedustajan tehtävästä\n\n5) myöntää eron Jerry Ruotsalaiselle Pohjois-Savon nuorisovaltuuston edustajan tehtävästä\n\n6) myöntää eron Eeva Takkiselle Pohjois-Savon nuorisovaltuuston varaedustaja tehtävästä\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nKoulujen alkaessa nuorisovaltuuston edustuksessa tapahtuu vuosittain muutoksia. Nuoremme pääsevät uusiin oppilaitoksiin opiskelemaan ja menettävät näin oikeutensa edustaa kuntansa tai kaupunkinsa nuorisovaltuustoa. Muutamat vanhemmat nuoret suuntaavat myös maakunnan ulkopuolelle, jolloin yhteys entiseen kotikuntaan ja Pohjoi-Savoon vähenee. Tänä syksynä seuraavat nuoret ovat pyytäneet eroa näistä syistä.\n\nNuorisovaltuuston edustaja Katri Kuokka, Lapinlahti, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 26.7.2025\n\nNuorisovaltuuston edustaja Iida Virrantalo, Kaavi, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 5.8.2025\n\nNuorisovaltuuston varaedustaja Vilma Kärki, Vieremä, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 11.8.2025\n\nNuorisovaltuuston varaedustaja Aurora Kämäräinen, Lapinlahti, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 11.8.2025\n\nNuorisovaltuuston edustaja Jerry Ruotsalainen, Vieremä, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 14.8.2025\n\nNuorisovaltuuston varaedustaja Eeva Takkinen, Joroinen, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 21.8.2025\n\nAhall 12.05.2025 § 185\n\nValmistelija(t)\nTiia Hartikainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää nimetä Emma Hirvasojan Pohjois-Savon nuorisovaltuustoon Pielaveden varaedustajaksi.\n\nValmistelu\nPielaveden nuorisovaltuusto on nimennyt uudeksi varaedustajakseen Pohjois-Savon nuorisovaltuustoon Emma Hirvasojan 15.4.2025.\n\nAhall 07.04.2025 § 148\n\nValmistelija(t)\nTiia Hartikainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\n1) myöntää eron Lenni Pehkoselle Pohjois-Savon nuorisovaltuuston varaedustajan tehtävästä.\n\n2) myöntää eron Ville Huuskoselle Pohjois-Savon nuorisovaltuuston edustajan tehtävästä.\n\n3) nimeää Enna Väätäisen Pohjois-Savon nuorisovaltuustoon Pielaveden edustajaksi.\n\n4)nimeää Teresa Suomisen Pohjois-Savon nuorisovaltuustoon Siilijärven varaedustajaksi.\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nNuorisovaltuuston varaedustaja Lenni Pehkonen, Kuopio, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 13.2.2025. Pehkonen on valittu nuorisovaltuustoon vapaan haun väylän kautta.\n\nNuorisovaltuusto jättää Pehkoselta vapautuvan paikan toistaisesti täyttämättä.\n\nNuorisovaltuuston edustaja Ville Huuskonen, Pielavesi, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 7.3.2025.\n\nPielaveden nuorisovaltuusto on nimennyt uudeksi edustajakseen Pohjois-Savon nuorisovaltuustoon Enna Väätäisen 17.3.2025.\n\nSiilinjärven nuorisovaltuusto on nimennyt varaedustajakseen Pohjois-Savon nuorisovaltuustoon Teresa Suomisen 28.3.2025."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "16",
+   "title": "Pohjois-Savon hyvinvointialueen nuorisovaltuuston toimintasuunnitelma 2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-16",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-16.PDF",
+   "diary_number": "2357/00.01.02.00/2023",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Nuorisovaltuusto hyväksyy toimintasuunnitelman vuodelle 2026 ja esittää sen hyväksyttäväksi aluehallitukselle.\n\nToimivallan peruste\nHallintosääntö § 46\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä: Nuorisovaltuuston toimintasuunnitelma 2026 LUONNOS\n\nValmistelu\nNuorisovaltuuston toimintasäännössä (alhall 14.1.2024) kerrotaan nuorisovaltuuston tehtävistä seuraavasti:\n\n”tekee vuosittain toimintasuunnitelman ja sen mukaisen talousarvion, joka hyväksytään hyvinvointialueen aluehallituksessa.”",
+   "decision": "Nuorisovaltuusto hyväksyi, teknisten korjausten jälkeen, toimintasuunnitelman vuodelle 2026 ja esittää sen hyväksyttäväksi aluehallitukselle.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJuho Juvenius\n\nTiia Hartikainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä Pohjois-Savon hyvinvointialueen nuorisovaltuuston toimintasuunnitelman vuodelle 2026.\n\nToimivallan peruste\nHallintosääntö § 46\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä: Pohjois-Savon nuorisovaltuuston toimintasuunnitelma 2026\n\nValmistelu\nNuorisovaltuuston toimintasäännössä (alhall 14.1.2024) kerrotaan nuorisovaltuuston tehtävistä seuraavasti:\n\n”tekee vuosittain toimintasuunnitelman ja sen mukaisen talousarvion, joka hyväksytään hyvinvointialueen aluehallituksessa.”\n\nNuovalt 09.12.2025 § 56\n\nValmistelija(t)\nJuho Juvenius\n\nTiia Hartikainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Nuorisovaltuusto hyväksyi, teknisten korjausten jälkeen, toimintasuunnitelman vuodelle 2026 ja esittää sen hyväksyttäväksi aluehallitukselle."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Nuorisovaltuusto hyväksyy toimintasuunnitelman vuodelle 2026 ja esittää sen hyväksyttäväksi aluehallitukselle.\n\nToimivallan peruste\nHallintosääntö § 46\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä: Nuorisovaltuuston toimintasuunnitelma 2026 LUONNOS\n\nValmistelu\nNuorisovaltuuston toimintasäännössä (alhall 14.1.2024) kerrotaan nuorisovaltuuston tehtävistä seuraavasti:\n\n”tekee vuosittain toimintasuunnitelman ja sen mukaisen talousarvion, joka hyväksytään hyvinvointialueen aluehallituksessa.”"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Pohjois-Savon nuorisovaltuuston toimintasuunnitelma 2026",
+     "url": "https://pshva.oncloudos.com/kokous/2026940-16-232095.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "17",
+   "title": "Pohjois-Savon hyvinvointialueen ikäihmisten neuvoston toimintasuunnitelma vuodelle 2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-17",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-17.PDF",
+   "diary_number": "6437/00.01.02.04/2025",
+   "preparer": "Laila Hytönen",
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Neuvosto laatii ja hyväksyy toimintasuunnitelman sekä esittää sen edelleen aluehallitukselle hyväksyttäväksi.\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nPohjois-Savon hyvinvointialueen ikäihmisten neuvoston toimintasuunnitelma vuodelle 2026 (luonnos toimitetaan neuvoston jäsenille erikseen)\n\nValmistelu\nPohjois-Savon hyvinvointialueen ikäihmisten neuvoston toimintasäännön (Ahall 27.5.2024 §192) mukaan ikäihmisten neuvosto esittää vuosittain toimintasuunnitelman ja arvion tarvitsemistaan toimintamäärärahoista.",
+   "decision": "Neuvosto hyväksyi kokouksessa täydennetyn toimintasuunnitelman ja esittää sen edelleen aluehallituksen hyväksyttäväksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Laila Hytönen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä ikäihmisten neuvoston toimintasuunnitelman vuodelle 2026.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö 47§, Ahall 27.5.2024 §192\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Pohjois-Savon hyvinvointialueen ikäihmisten neuvoston toimintasuunnitelma vuodelle 2026\n\nIkaneuv 09.12.2025 § 43"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Laila Hytönen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Neuvosto hyväksyi kokouksessa täydennetyn toimintasuunnitelman ja esittää sen edelleen aluehallituksen hyväksyttäväksi."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Neuvosto laatii ja hyväksyy toimintasuunnitelman sekä esittää sen edelleen aluehallitukselle hyväksyttäväksi.\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nPohjois-Savon hyvinvointialueen ikäihmisten neuvoston toimintasuunnitelma vuodelle 2026 (luonnos toimitetaan neuvoston jäsenille erikseen)\n\nValmistelu\nPohjois-Savon hyvinvointialueen ikäihmisten neuvoston toimintasäännön (Ahall 27.5.2024 §192) mukaan ikäihmisten neuvosto esittää vuosittain toimintasuunnitelman ja arvion tarvitsemistaan toimintamäärärahoista."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 ikäihmisten neuvoston toimintasuunnitelma vuodelle 2026",
+     "url": "https://pshva.oncloudos.com/kokous/2026940-17-227029.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "18",
+   "title": "Pohjois-Savon hyvinvointialueen vammaisneuvoston toimintasuunnitelma vuodelle 2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-18",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-18.PDF",
+   "diary_number": "6437/00.01.02.04/2025",
+   "preparer": "Laila Hytönen",
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Neuvosto laatii ja hyväksyy toimintasuunnitelman ja esittää sen edelleen aluehallitukselle hyväksyttäväksi.\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nPohjois-Savon hyvinvointialueen vammaisneuvoston toimintasuunnitelma vuodelle 2026 (luonnos toimitetaan neuvoston jäsenille erikseen)\n\nValmistelu\nPohjois-Savon hyvinvointialueen vammaisneuvoston toimintasäännön (Ahall 27.5.2024 §193) mukaan vammaisneuvosto esittää vuosittain toimintasuunnitelman ja arvion tarvitsemistaan toimintamäärärahoista.",
+   "decision": "Neuvosto hyväksyi kokouksessa täydennetyn toimintasuunnitelman ja esittää sen edelleen aluehallitukselle hyväksyttäväksi.\n\nLisäksi päätettiin, että kiireellisissä tapauksissa asioiden valmistelu voi tapahtua puheenjohtajiston toimesta ja asia tuodaan tiedoksi jäsenille.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Laila Hytönen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n-Laila Hytönen oli läsnä kokouksessa asian esittelyn ajan klo 13.20 - 13.27.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä vammaisneuvoston toimintasuunnitelman vuodelle 2026.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö 48§, Ahall 27.5.2024 § 193\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Pohjois-Savon hyvinvointialueen vammaisneuvoston toimintasiuunnitelma vuodelle 2026\n\nvammneuv 10.12.2025 § 45"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Laila Hytönen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Neuvosto hyväksyi kokouksessa täydennetyn toimintasuunnitelman ja esittää sen edelleen aluehallitukselle hyväksyttäväksi.\n\nLisäksi päätettiin, että kiireellisissä tapauksissa asioiden valmistelu voi tapahtua puheenjohtajiston toimesta ja asia tuodaan tiedoksi jäsenille."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Neuvosto laatii ja hyväksyy toimintasuunnitelman ja esittää sen edelleen aluehallitukselle hyväksyttäväksi.\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nPohjois-Savon hyvinvointialueen vammaisneuvoston toimintasuunnitelma vuodelle 2026 (luonnos toimitetaan neuvoston jäsenille erikseen)\n\nValmistelu\nPohjois-Savon hyvinvointialueen vammaisneuvoston toimintasäännön (Ahall 27.5.2024 §193) mukaan vammaisneuvosto esittää vuosittain toimintasuunnitelman ja arvion tarvitsemistaan toimintamäärärahoista."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 vammaisneuvoston toimintasuunnitelma vuodelle 2026",
+     "url": "https://pshva.oncloudos.com/kokous/2026940-18-227101.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "19",
+   "title": "Viranhaltijapäätösten tarkastaminen 16.12.2025-11.1.2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-19",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-19.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Toimielimen puheenjohtaja",
+   "proposal": "Aluehallitus ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Aluehallitus hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 57 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava aluehallitukselle niistä päätöksistä, jotka voidaan ottaa aluehallituksen käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava aluehallituksen alaisten viranhaltijoiden osalta aluehallitukselle.\n\nAluehallituksen alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa aluehallituksen puheenjohtajalle ja hyvinvointialuejohtajalle.\n\nAluehallitukselle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 16.12.2025-11.1.2026",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Viranhaltijapäätösten tarkastaminen 16.12.2025-11.1.2026"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Toimielimen puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Aluehallitus hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 57 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava aluehallitukselle niistä päätöksistä, jotka voidaan ottaa aluehallituksen käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava aluehallituksen alaisten viranhaltijoiden osalta aluehallitukselle.\n\nAluehallituksen alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa aluehallituksen puheenjohtajalle ja hyvinvointialuejohtajalle.\n\nAluehallitukselle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 16.12.2025-11.1.2026"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Viranhaltijapäätösluettelo 16.12.2025 -11.1.2026 otsikot",
+     "url": "https://pshva.oncloudos.com/kokous/2026940-19-232603.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "20",
+   "title": "Lautakuntien ja jaostojen päätösten tarkistaminen 16.12.2025 -",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-20",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-20.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Toimielimen puheenjohtaja",
+   "proposal": "Aluehallitus ei käytä otto-oikeutta toimielinten päätöksiin. Aluehallitus hyväksyy pöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nPohjois-Savon hyvinvointialueen hallintosäännössä § 57-59 on määritelty otto-oikeuden käytöstä seuraavaa:\n\nAsian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nAluehallituksella ei ole otto-oikeutta hyvinvointialueiden yhteisen toimielimen tekemiin päätöksiin.\n\nAsia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nYlemmän toimielimen käsiteltäväksi ei kuitenkaan saa ottaa:\n\n1) lain tai asetuksen mukaisia lupa-, ilmoitus- tai valvontamenettelyä koskevia asioita\n\n2) yksilöön kohdistuvia terveydenhuollon tai sosiaalitoimen asioita\n\n3) hyvinvointialuelain 54 §:ssä tarkoitetulle hyvinvointialueiden yhteiselle toimielimelle siirrettyjä asioita, jos asianomaiset hyvinvointialueet niin sopiva\n\nAsia voidaan hyvinvointialuelain 97 §:n mukaisesti ottaa lautakunnan käsiteltäväksi, jollei ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nAsian ottamisesta lautakunnan käsiteltäväksi voi päättää lautakunta, lautakunnan puheenjohtaja ja lautakunnan esittelijä.\n\nAluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan. Ilmoitus tehdään sähköisesti aluehallituksen puheenjohtajalle ja esittelijälle.\n\nPäätökset niissä asioissa, joista ei tarvitse ilmoittaa, voidaan otto-oikeuden estämättä panna täytäntöön, jollei yksittäistapauksessa ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nEsityslistan lisäaineistona jaetaan pöytäkirjat:\n\n- Ikäihmisten ja hoivapalveluiden lautakunta\n\n- Perhe- ja vammaispalveluiden lautakunta 12.1.2026\n\n- Yleisten palveluiden lautakunta\n\n- Kokonaisturvallisuuslautakunta 11.12.2025\n\n- Asiakaskokemusjaosto\n\n- Tulevaisuus- ja strategiajaosto\n\n- Omistajaohjaus- ja valvontajaosto",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Lautakuntien ja jaostojen päätösten tarkistaminen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Toimielimen puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus ei käytä otto-oikeutta toimielinten päätöksiin. Aluehallitus hyväksyy pöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nPohjois-Savon hyvinvointialueen hallintosäännössä § 57-59 on määritelty otto-oikeuden käytöstä seuraavaa:\n\nAsian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nAluehallituksella ei ole otto-oikeutta hyvinvointialueiden yhteisen toimielimen tekemiin päätöksiin.\n\nAsia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nYlemmän toimielimen käsiteltäväksi ei kuitenkaan saa ottaa:\n\n1) lain tai asetuksen mukaisia lupa-, ilmoitus- tai valvontamenettelyä koskevia asioita\n\n2) yksilöön kohdistuvia terveydenhuollon tai sosiaalitoimen asioita\n\n3) hyvinvointialuelain 54 §:ssä tarkoitetulle hyvinvointialueiden yhteiselle toimielimelle siirrettyjä asioita, jos asianomaiset hyvinvointialueet niin sopiva\n\nAsia voidaan hyvinvointialuelain 97 §:n mukaisesti ottaa lautakunnan käsiteltäväksi, jollei ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nAsian ottamisesta lautakunnan käsiteltäväksi voi päättää lautakunta, lautakunnan puheenjohtaja ja lautakunnan esittelijä.\n\nAluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan. Ilmoitus tehdään sähköisesti aluehallituksen puheenjohtajalle ja esittelijälle.\n\nPäätökset niissä asioissa, joista ei tarvitse ilmoittaa, voidaan otto-oikeuden estämättä panna täytäntöön, jollei yksittäistapauksessa ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nEsityslistan lisäaineistona jaetaan pöytäkirjat:\n\n- Ikäihmisten ja hoivapalveluiden lautakunta\n\n- Perhe- ja vammaispalveluiden lautakunta 12.1.2026\n\n- Yleisten palveluiden lautakunta\n\n- Kokonaisturvallisuuslautakunta 11.12.2025\n\n- Asiakaskokemusjaosto\n\n- Tulevaisuus- ja strategiajaosto\n\n- Omistajaohjaus- ja valvontajaosto"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Kokonaisturvallisuuslautakunta 11.12.2025 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/2026940-20-231023.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 peva ltk 12012026 ptk",
+     "url": "https://pshva.oncloudos.com/kokous/2026940-20-233075.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "21",
+   "title": "Aluehallitukselle tiedoksi annettavat lausuntopyynnöt ja lausunnot",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-21",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-21.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus merkitsee saapuneet lausuntopyynnöt ja annetut lausunnot tiedoksi.\n\nToimivallan peruste\nhallintosääntö 36 §\n\nValmistelu\nAluehallituksen 2.10.2023 § 308 mukaisesti aluehallitus päättää hallintosäännön määräyksiä noudattaen, että merkittävät lausunnot esim. hyvinvointialueiden rahoitukseen, lainsäädäntöön liittyvät ja niihin rinnasteiset lausunnot antaa aluehallitus. Lausunnon merkittävyys arvioidaan asian valmistelussa.\n\nPohjois-Savon hyvinvointialueen hallintosäännön määräykset lausuntojen antamisesta antavat mahdollisuuden viranhaltijoille antaa lausuntoja tietyissä rajoissa. Mikäli annettavat lausunnot eivät ole viranhaltijoiden toimivallassa, antaa niistä lausunnot aluehallitus.\n\nLausuntopyyntöihin vastaamiselle annettu määräaika on yleensä niin lyhyt, ettei lausuntojen käsittely aluehallituksessa ole mahdollista.\n\nSaapuneet lausuntopyynnöt:\n\n- Työ- ja elinkeinoministeriön lausuntopyyntö hallituksen esityksestä kotoutumisen edistämisestä annetun lain muuttamisesta ja siihen liittyviksi laeiksi\n\n- Sisäministeriön lausuntopyyntö hallituksen esityksestä EU:n muuttoliike- ja turvapaikkasopimuksen muodostavien säädösten täytäntöönpanemiseksi\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laiksi alkoholilain muuttamisesta (panimoiden, tislaamoiden ja viinitilojen ulosmyyntioikeuden laajentaminen)\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laeiksi vammaisetuuksista annetun lain, toimeentulotuesta annetun lain 7 b §:n ja sairausvakuutuslain 10 luvun 2 §:n ja 11 luvun 2 §:n muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta hallituksen esitykseksi tutkimuslainsäädännön selkiyttämiseksi\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta hallituksen esitykseksi eduskunnalle Kansaneläkelaitoksen tietojenvaihtoa koskevan lainsäädännön muuttamiseksi\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö, hallituksen esitysluonnoksesta laeiksi yleistukilain, kotoutumisen edistämisestä annetun lain sekä yleisistä kielitutkinnoista annetun lain muuttamisesta\n\nAnnetut lausunnot:\n\n- Pohjois-Savon hyvinvointialueen lausunto Valtionvarainministeriön lausuntopyyntöön Julkisten hankintojen tietovarannosta",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitukselle tiedoksi annettavat lausuntopyynnöt ja lausunnot\n\nValmistelija(t)\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus merkitsee saapuneet lausuntopyynnöt ja annetut lausunnot tiedoksi.\n\nToimivallan peruste\nhallintosääntö 36 §\n\nValmistelu\nAluehallituksen 2.10.2023 § 308 mukaisesti aluehallitus päättää hallintosäännön määräyksiä noudattaen, että merkittävät lausunnot esim. hyvinvointialueiden rahoitukseen, lainsäädäntöön liittyvät ja niihin rinnasteiset lausunnot antaa aluehallitus. Lausunnon merkittävyys arvioidaan asian valmistelussa.\n\nPohjois-Savon hyvinvointialueen hallintosäännön määräykset lausuntojen antamisesta antavat mahdollisuuden viranhaltijoille antaa lausuntoja tietyissä rajoissa. Mikäli annettavat lausunnot eivät ole viranhaltijoiden toimivallassa, antaa niistä lausunnot aluehallitus.\n\nLausuntopyyntöihin vastaamiselle annettu määräaika on yleensä niin lyhyt, ettei lausuntojen käsittely aluehallituksessa ole mahdollista.\n\nSaapuneet lausuntopyynnöt:\n\n- Työ- ja elinkeinoministeriön lausuntopyyntö hallituksen esityksestä kotoutumisen edistämisestä annetun lain muuttamisesta ja siihen liittyviksi laeiksi\n\n- Sisäministeriön lausuntopyyntö hallituksen esityksestä EU:n muuttoliike- ja turvapaikkasopimuksen muodostavien säädösten täytäntöönpanemiseksi\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laiksi alkoholilain muuttamisesta (panimoiden, tislaamoiden ja viinitilojen ulosmyyntioikeuden laajentaminen)\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laeiksi vammaisetuuksista annetun lain, toimeentulotuesta annetun lain 7 b §:n ja sairausvakuutuslain 10 luvun 2 §:n ja 11 luvun 2 §:n muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta hallituksen esitykseksi tutkimuslainsäädännön selkiyttämiseksi\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta hallituksen esitykseksi eduskunnalle Kansaneläkelaitoksen tietojenvaihtoa koskevan lainsäädännön muuttamiseksi\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö, hallituksen esitysluonnoksesta laeiksi yleistukilain, kotoutumisen edistämisestä annetun lain sekä yleisistä kielitutkinnoista annetun lain muuttamisesta\n\nAnnetut lausunnot:\n\n- Pohjois-Savon hyvinvointialueen lausunto Valtionvarainministeriön lausuntopyyntöön Julkisten hankintojen tietovarannosta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Työ- ja elinkeinoministeriön lausuntopyyntö hallituksen esityksestä kotoutumisen edistämisestä annetun lain muuttamisesta ja siihen liittyviksi laeiksi",
+     "url": "https://pshva.oncloudos.com/kokous/2026940-21-230400.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Sisäministeriön lausuntopyyntö hallituksen esityksestä EU:n muuttoliike- ja turvapaikkasopimuksen muodostavien säädösten täytäntöönpanemiseksi",
+     "url": "https://pshva.oncloudos.com/kokous/2026940-21-229543.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laiksi alkoholilain muuttamisesta (panimoiden, tislaamoiden ja viinitilojen ulosmyyntioikeuden laajentaminen)",
+     "url": "https://pshva.oncloudos.com/kokous/2026940-21-229506.PDF"
+    },
+    {
+     "title": "Oheismateriaali 4 Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laeiksi vammaisetuuksista annetun lain, toimeentulotuesta annetun lain 7 b §:n ja sairausvakuutuslain 10 luvun 2 §:n ja 11 luvun 2 §:n muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/2026940-21-229498.PDF"
+    },
+    {
+     "title": "Oheismateriaali 5 Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta hallituksen esitykseksi tutkimuslainsäädännön selkiyttämiseksi",
+     "url": "https://pshva.oncloudos.com/kokous/2026940-21-229177.PDF"
+    },
+    {
+     "title": "Oheismateriaali 6 Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta hallituksen esitykseksi eduskunnalle Kansaneläkelaitoksen tietojenvaihtoa koskevan lainsäädännön muuttamiseksi",
+     "url": "https://pshva.oncloudos.com/kokous/2026940-21-228750.PDF"
+    },
+    {
+     "title": "Oheismateriaali 7 Sosiaali- ja terveysministeriön lausuntopyyntö, hallituksen esitysluonnoksesta laeiksi yleistukilain, kotoutumisen edistämisestä annetun lain sekä yleisistä kielitutkinnoista annetun lain muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/2026940-21-232226.PDF"
+    },
+    {
+     "title": "Oheismateriaali 8 Pohjois-Savon hyvinvointialueen lausunto Valtionvarainministeriön lausuntopyyntöön Julkisten hankintojen tietovarannosta",
+     "url": "https://pshva.oncloudos.com/kokous/2026940-21-232228.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "22",
+   "title": "Muut asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-22",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-22.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Muut asiat:\n\n-Päivystyksen asiakasmaksut\n\nAluehallitus merkitsee asiat tiedoksi.\n\nTiedoksi. Itä-Suomen aluehallintoviraston valvontapäätös 12.12.2025, hoitoon pääsy Pohjois-Savon hyvinvointialueen perustason lasten ja nuorten mielenterveyspalveluihin\n\nValtioneuvoston päätös, Pohjois-Savon hyvinvointialueen hakemukseen lisärahoituksesta vuodelle 2025\n\nValtiovarainministeriön päätös hyvinvointialueiden vuoden 2026 rahoituksesta",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Muut asiat:\n\n-Päivystyksen asiakasmaksut\n\nAluehallitus merkitsee asiat tiedoksi.\n\nTiedoksi. Itä-Suomen aluehallintoviraston valvontapäätös 12.12.2025, hoitoon pääsy Pohjois-Savon hyvinvointialueen perustason lasten ja nuorten mielenterveyspalveluihin\n\nValtioneuvoston päätös, Pohjois-Savon hyvinvointialueen hakemukseen lisärahoituksesta vuodelle 2025\n\nValtiovarainministeriön päätös hyvinvointialueiden vuoden 2026 rahoituksesta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "23",
+   "title": "Oikaisuvaatimus, hammasproteesit, VK (JulkL 24 §, kohta 25)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-23",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-23.PDF",
+   "diary_number": "2893/03.06.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "24",
+   "title": "Oikaisuvaatimus, kadonneet korut, AM-Y (JulkL 24 §, kohta 25)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-24",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-24.PDF",
+   "diary_number": "3172/03.06.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "25",
+   "title": "Oikaisuvaatimus, hammasproteesi, ST (JulkL 24 §, kohta 25)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-25",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-25.PDF",
+   "diary_number": "3823/03.06.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "26",
+   "title": "Oikaisuvaatimus, matkakulut, OK (JulkL 24 §, kohta 25)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-26",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-26.PDF",
+   "diary_number": "5732/03.06.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "27",
+   "title": "Oikaisuvaatimus, keittiökalusteet, IP (JulkL 24 §, kohta 25)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-27",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-27.PDF",
+   "diary_number": "4697/03.06.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "28",
+   "title": "Testamentin vastaanottaminen, LL (JulkL 24 §, kohta 23)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-28",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-28.PDF",
+   "diary_number": "6169/02.07.01/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "29",
+   "title": "Testamentin vastaanottaminen, VJ (JulkL 24 §, kohta 23)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-29",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-29.PDF",
+   "diary_number": "6351/02.07.01/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "30",
+   "title": "Testamentin vastaanottaminen, LT (JulkL 24 §, kohta 23)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-30",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-30.PDF",
+   "diary_number": "5989/02.07.01/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "31",
+   "title": "Testamentin vastaanottaminen, MK (JulkL 24 §, kohta 23)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-31",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-31.PDF",
+   "diary_number": "5350/02.07.01/2024",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "32",
+   "title": "Testamentin vastaanottaminen, AR (JulkL 24 §, kohta 23)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-32",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-32.PDF",
+   "diary_number": "6343/02.07.01/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "33",
+   "title": "Testamentin vastaanottaminen, BG (JulkL 24 §, kohta 23)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-33",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-33.PDF",
+   "diary_number": "5906/02.07.01/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "34",
+   "title": "Testamentin vastaanottaminen, IP (JulkL 24 §, kohta 32)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-34",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-34.PDF",
+   "diary_number": "6039/02.07.01/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "35",
+   "title": "Sovintosopimus (JulkL 24 §, kohta 32)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-35",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-35.PDF",
+   "diary_number": "3440/01.01.04/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "36",
+   "title": "Asiakas- ja potilastietojärjestelmien käyttöönottoon liittyvä tilannekatsaus (JulkL 24 §, kohta 19)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026940-36",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026940-36.PDF",
+   "diary_number": "11354/02.08.00/2023",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Merkitään pöytäkirjaan, että:\n\n-asia käsiteltiin § 12 jälkeen.\n\n-Kari Janhonen poistui kokouksesta asian käsittelyn aikana klo 12.29.\n\n-Tuomo Pekkarinen ja Minna Mykkänen poistuivat kokouksesta asian käsittelyn jälkeen klo 12.38.\n\n-Kokoustauko klo 12.38-13.15\n\nValmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n-asia käsiteltiin § 12 jälkeen.\n\n-Kari Janhonen poistui kokouksesta asian käsittelyn aikana klo 12.29.\n\n-Tuomo Pekkarinen ja Minna Mykkänen poistuivat kokouksesta asian käsittelyn jälkeen klo 12.38.\n\n-Kokoustauko klo 12.38-13.15\n\nValmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Raatikainen Riitta",
+   "role": "aluehallituksen puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Hedman Pia",
+   "role": "aluehallituksen 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Rossi Markku",
+   "role": "aluehallituksen 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kanniainen Aino",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Miettinen Heikki",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pitkänen Juha",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Rautiainen Merja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Vornanen Ahti-Pekka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Väätäinen Tuula",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Åhman Kati",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Leppäkynnäs Arttu",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Muiniekka Jarmo",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kartimo-Kröger Susanna",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kokki Hannu",
+   "role": "aluevaltuuston puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Korhonen Marko",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Niemeläinen Janne",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Antikainen Mari",
+   "role": "henkilöstöjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Hedman Antti",
+   "role": "vastaava lääkäri",
+   "group": "other"
+  },
+  {
+   "name": "Janhonen Kari",
+   "role": "talousjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Jestola Eija",
+   "role": "toimilinjajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kantanen Kati",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kettunen Anne",
+   "role": "viestintä- ja markkinointijohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Koponen Jukka",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Korhonen Mikko",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Lampi Jussi",
+   "role": "strategiajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Pekkarinen Tuomo",
+   "role": "tietohallintojohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Remes Sami",
+   "role": "toimilinjajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Saarinen Jari",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kauppinen Virpi",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Räsänen Henna",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Mykkänen Minna",
+   "role": "johtaja ylihoitaja",
+   "group": "other"
+  },
+  {
+   "name": "Ryynänen Anu",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Hytönen Laila",
+   "role": "asiantuntija",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026940",
+  "fetched_at": "2026-10-14T18:17:30+00:00",
+  "content_hash": "903e3ae389258913",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T18:17:30+00:00"
+ }
+}

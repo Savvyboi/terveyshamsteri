@@ -1,0 +1,943 @@
+{
+ "id": "aluehallitus/2026-02-09",
+ "region": "pohjois-savo",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2026-02-09",
+ "stage": "minutes",
+ "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026948",
+ "pdf_url": "https://pshva.oncloudos.com/kokous/2026948.PDF",
+ "time": "09:00 - 12:38",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "37",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026948-1",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026948-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.",
+   "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen laillisuus ja päätösvaltaisuus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokous todettiin lailliseksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "38",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026948-2",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026948-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Vesa Lötjönen ja Heikki Miettinen.",
+   "decision": "Pöytäkirjantarkastajiksi valittiin Vesa Lötjönen ja Heikki Miettinen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pöytäkirjantarkastajien valinta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Vesa Lötjönen ja Heikki Miettinen."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Vesa Lötjönen ja Heikki Miettinen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "39",
+   "title": "Asioiden käsittelyjärjestys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026948-3",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026948-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi.",
+   "decision": "Merkitään pöytäkirjaan, että:\n\n- § 49 käsitellään § 40 jälkeen.\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asioiden käsittelyjärjestys"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n- § 49 käsitellään § 40 jälkeen.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "40",
+   "title": "Ajankohtaiset asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026948-4",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026948-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus merkitsee asiat tiedoksi.\n\nPäivystys- ja kiirevastaanottojen asiakasmaksut, Jouni Kurola\n\nTilannekatsaus mahdollisiin uhkasakkoihin",
+   "decision": "Merkitään pöytäkirjaan, että:\n\nKaroliina Partanen saapui kokoukseen asian käsittelyn aikana klo 9.05.\n\nKirsi Solmari liittyi kokoukseen asian käsittelyn aikana klo 9.10.\n\nMarkku Rossi poistui kokouksesta asian käsittelyn aikana klo 10.48.\n\nMuut asiat:\n\nRahoituslain muutokset, Marko Korhonen\n\nIisalmen ja Varkauden osastojen varallaolo, Jouni Kurola\n\nAsiakas- ja potilasturvallisuuden tilannekuva 2025 -yhteenveto, Marko Korhonen\n\nAluehallitus merkitsee asiat tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Ajankohtaiset asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\nKaroliina Partanen saapui kokoukseen asian käsittelyn aikana klo 9.05.\n\nKirsi Solmari liittyi kokoukseen asian käsittelyn aikana klo 9.10.\n\nMarkku Rossi poistui kokouksesta asian käsittelyn aikana klo 10.48.\n\nMuut asiat:\n\nRahoituslain muutokset, Marko Korhonen\n\nIisalmen ja Varkauden osastojen varallaolo, Jouni Kurola\n\nAsiakas- ja potilasturvallisuuden tilannekuva 2025 -yhteenveto, Marko Korhonen\n\nAluehallitus merkitsee asiat tiedoksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus merkitsee asiat tiedoksi.\n\nPäivystys- ja kiirevastaanottojen asiakasmaksut, Jouni Kurola\n\nTilannekatsaus mahdollisiin uhkasakkoihin"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "41",
+   "title": "Virkojen perustaminen ja lakkauttaminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026948-5",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026948-5.PDF",
+   "diary_number": "638/01.01.00/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää:\n\nPerustaa seuraavat virat ja vahvistaa niiden kelpoisuusehdon:\n\n2 sosiaalityöntekijän virkaa perhepalveluihin, joissa kelpoisuus korkeakoulututkinto, johon sisältyy sosiaalihuollon ammattihenkilölain (817/2015) mukainen laillistetun sosiaalityöntekijän kelpoisuus sekä lupa toimia sosiaalihuollon ammattitehtävissä sekä riittävä työkokemus ja perehtyneisyys palvelualueelta\n\n2 sosiaaliohjaajan virkaa perhepalveluihin, joissa kelpoisuus sosiaalihuollon ammattihenkilöistä annetun lain (817/2015) 8§:n mukainen laillistus sekä lupa toimia sosiaalihuollon ammattitehtävissä sekä riittävä työkokemus ja perehtyneisyys palvelualueelta\n\n1 määräaikainen (4v.) ylilääkärin sivuvirka Erityispalvelujen toimilinjalle, Lääkinnällisiin palveluihin, Medisiiniseen keskukseen ajalle 1.3.2026-28.2.2030. Kelpoisuus: terveydenhuollon ammattihenkilöistä annetussa laissa 559/94 säädetty laillistus tai lupa toimia lääkärin tehtävissä ja erikoislääkärin pätevyys virkaan soveltuvalla erikoisalalla sekä dosentin pätevyys virkaan soveltuvalla erikoisalalla.\n\n5 osastonhoitajan virkaa peruspalveluihin, osastopalvelut palveluyksikköön, joissa kelpoisuus: soveltuva ylempi korkeakoulututkinto, johon sisältyy tai muutoin hankittuna soveltuvaa johtamiskoulutusta (väh. 30op.), kokemus esihenkilötehtävistä, terveydenhuollon ammattihenkilöstöstä annetun lain (559/1994) 5§ mukainen laillistus sekä lupa toimia terveydenhuollon ammattitehtävissä. Aiemmin ko. tehtävät ovat olleet työsopimussuhteisia, jotka virkojen perustamisen myötä lakkaavat.\n\npaloinsinöörin viran (1) pelastustoimi ja turvallisuuspalveluihin, jonka kelpoisuus on Pelastuslaki 379/2011, 57 § ja valtioneuvoston asetus pelastustoimesta 407/2011, 6 § 1 mom. 3 kohdan mukainen päällystön kelpoisuus tai muu soveltuva korkeakoulututkinto, perustasoinen henkilöturvallisuusselvitys (turvallisuusselvityslaki 726/2014) sekä voimassa oleva B-luokan ajokortti.\n\npalotarkastajan virka (1) pelastustoimi ja turvallisuuspalveluihin, jonka kelpoisuus soveltuva korkeakoulututkinto tai pelastuslain 379/2011, 57 § ja valtioneuvoston asetuksen pelastustoimesta 407/2011, 6 § mukainen päällystön kelpoisuus ja riittävä perehtyneisyys pelastusviranomaisen vastuulle kuuluviin onnettomuuksien ennaltaehkäisyn tehtäviin. Suppea henkilöturvallisuusselvitys (turvallisuusselvityslaki 726/2014). B-luokan voimassa oleva ajokortti.\n\nLakkauttaa perhe- ja vammaispalveluissa virat ja muuttaa virat työsopimussuhteiseksi ja vahvistaa niiden kelpoisuusehdon:\n\nkaksi (2) sosiaaliohjaajan viran lakkautus ja muutos työsopimussuhteisiksi. Kelpoisuus: sosiaalihuollon ammattihenkilöistä annetun lain (817/2015) 8§:n mukainen laillistus sekä lupa toimia sosiaalihuollon ammattitehtävissä sekä riittävä työkokemus ja perehtyneisyys palvelualueelta.\n\nneljä (4) palveluesihenkilön virkaa lakkautus ja muutos työsopimussuhteisiksi vammaisten asumispalveluissa (Asumisyksikkö Maljapuro, Asumisyksikkö Päivänkierto, Asumisyksikkö Kuutinharju, Asumisyksikkö Vattuvuori). Aluehallitus muuttaa virat palveluvastaavan työsopimussuhteisiksi tehtäviksi. Kelpoisuus: terveydenhuollon ammattihenkilöstöstä annetun lain (559/1994) 5 § tai sosiaalihuollon ammattihenkilöstöstä annetun lain (817/2025) 7 §:n ja 8 §;n mukainen laillisuus sekä lupa toimia sosiaalihuollon ammattitehtävissä, lisäksi soveltuvaa johtamiskoulutusta vähintään 15 op.\n\nyksi (1) palveluesihenkilön virka lasten aamu-, iltapäivä- ja loma-ajan hoito, muuttaa palveluesihenkilön virka palveluvastaavan työsopimussuhteiseksi tehtäväksi. Kelpoisuus: terveydenhuollon ammattihenkilöstöstä annetun lain (559/1994) 5 § sosiaalihuollon ammattihenkilöstöstä annetun lain (817/2025) 7 §:n ja 8 §;n mukainen laillisuus sekä lupa toimia sosiaalihuollon ammattitehtävissä, lisäksi soveltuvaa johtamiskoulutusta vähintään 15 op.\n\nyksi (1) päällikön virka, päivä- ja työtoiminta, vammaisten avopalveluissa, muuttaa päällikön virka ostopalvelukoordinaattorin, ostopalvelut ja palvelusetelitoiminta työsopimussuhteiseksi tehtäväksi. Kelpoisuus sosiaali- ja terveydenhuollon korkeakoulututkinto tai vastaava opistoasteen tutkinto ja riittävä perehtyneisyys ko. toimialaan sekä kokemusta vastaavista tehtävistä.\n\nLakkauttaa Strategia- ja kehittäminen toimialalla, tutkimuksen palvelualueella:\n\nErikoissairaanhoidon ja translationaalisen lääketieteen tutkimuksen ylilääkärin viran Kliinisen tutkimuksen keskuksesta (50 % työaika)\n\nLakkauttaa perhepalveluiden perhekeskuksessa yksi (1) päällikön virka ja yksi (1) johtavan sosiaalityöntekijän:\n\nPäällikkö, Psykosiaalinen opiskeluhuolto\n\nJohtava sosiaalityöntekijä, Perhesosiaalityö\n\nLakkauttaa vammaisten asumispalveluissa yksi (1) palveluesihenkilön virka:\n\nPalveluesihenkilö, Asumisyksikkö Huitulanharju\n\nLakkauttaa Erityispalvelujen toimilinjalla:\n\nLääkinnälliset palvelut:\n\nosastonhoitajan virka, Syöpäkeskus, Syöpätautien osasto\n\nosastonhoitajan virka, Medisiininen keskus, Sisätautien pkl, Varkauden sairaala\n\nosastonhoitajan virka, Sisätautien pkl, Harjulan sairaala\n\nOperatiivinen keskus:\n\nesihenkilön virka, toimenpideyksikkö, Iisalmen sairaala\n\nEnnakkovaikutusten arviointi\n\nPerustettavilla viroilla turvataan perhepalveluissa palvelutoiminnan tarkoituksenmukaista järjestämistä: henkilöstökustannukset on sisällytetty talouden sopeuttamisen keinoin talousarvioon vuodelle 2026. Muutos virkasuhteiksi ei aiheuta taloudellisia vaikutuksia. Perustettavilla viroilla turvataan lakisääteisten palveluiden järjestäminen ja tuottaminen sekä edistetään palvelustrategian sekä R3-muutosohjelman tavoitteiden mukaisesti perhehoidon lisäämistä lastensuojelun palvelutuotannossa. Lakkautuvat virat eivät aiheuta taloudellisia vaikutuksia.\n\nToimivallan peruste\nHallintosääntö § 64\n\nValmistelu\nHyvinvointialueen palveluksessa oleva henkilöstö on virkasuhteessa tai työsopimussuhteessa hyvinvointialueeseen. Virkasuhteesta ja työsopimussuhteesta sekä virka- ja työehtosopimuksista hyvinvointialueilla säädetään erikseen.\n\nTehtäviä, joissa käytetään julkista valtaa, hoidetaan virkasuhteessa, ja tällaisia tehtäviä varten perustetaan virka. Viran perustamisesta ja lakkauttamisesta päättää aluevaltuusto tai hyvinvointialueen hallintosäännössä määrätty muu toimielin. Pohjois-Savon hyvinvointialueen hallintosäännön 64 §:n mukaan toimivalta virkojen perustamiseen ja lakkauttamiseen kuuluu aluehallitukselle.\n\nJulkista valtaa käytetään muun muassa tehtävissä, joissa tehtävän hoitaja voi lakiin perustuvan toimivaltansa nojalla yksipuolisesti päättää toisen edusta, oikeudesta tai velvollisuudesta. Julkisen vallan käyttöä sisältyy myös tehtäviin, joissa toimivaltainen viranhaltija voi lakiin perustuen antaa toista velvoittavan määräyksen tai muutoin tosiasiallisesti puuttua toisen etuun tai oikeuteen.\n\nLisäksi julkisen vallan käyttöä on tehtävissä, joihin kuuluu esittelyä julkishallinnollisessa päätöksentekoprosessissa, sekä tehtävissä, joissa käytetään kunnalle tai hyvinvointialueelle delegoitua päätösvaltaa valmistelutoimenpiteissä, joilla on merkittävä vaikutus julkisen vallan käyttöä koskevaan päätöksentekoon.\n\nPerhe- ja vammaispalvelut:\n\nVirkojen perustaminen perhepalveluihin:\n\nLapsiperheiden sosiaalityön ja lastensuojelun palveluyksikössä toimivassa lapsiperheiden asiakasohjauksen ja alkuarvioinnin yksikössä vastataan lapsiperhepalveluihin vireille tulevien ilmoitusten vastaanotosta ja ensiarvioinnista, palvelutarpeen arvioinnin tarpeen arvioimisesta sekä sosiaalihuollon asiantuntijatyöstä osana moniammatillista poliisin ankkuritoimintaa. Toiminnan tarkoituksenmukaisen järjestämisen arvioinnin yhteydessä on tunnistettu tarve muuttaa yhden yksikössä työskentelevän sosiaalityöntekijän ja yhden sosiaaliohjaajan palvelussuhteet virkasuhteisiksi.\n\nKyseiset työntekijät osallistuvat moniammatillisen poliisin ankkurityön toteuttamiseen, mutta hoitavat jatkossa myös lakisääteisiä virkatehtäviä osana sosiaalihuollon tuen tarpeen arviointia. Molemmat tehtävät sisältyvät vuoden 2026 talousarvioon ja henkilöstösuunnitelmaan.\n\nLisäksi perhepalveluissa, lapsiperheiden sosiaalityön ja lastensuojelun palveluyksikössä, on vuoden 2026 talousarvioon sisällytetty yhden sosiaalityöntekijän ja yhden sosiaaliohjaajan lisäys. Nämä tehtävät kohdentuvat perhehoidon virkatehtäviin. Sosiaalityöntekijä ja sosiaaliohjaaja vastaavat hyvinvointialueen omana tuotantona järjestettävän perhehoidon edellyttämästä resurssien valmennuksesta, perhekotina toimimisen edellytysten arvioinnista perhehoitolain mukaisesti sekä perheiden hyväksymisestä perhehoitoperheiksi. Perhehoidon resursoinnin vahvistamisella edistetään palvelujen painopisteen siirtymistä ostopalveluista omaan tuotantoon sekä parannetaan perhehoidon järjestämisedellytyksiä perhe- ja vammaispalveluiden palvelurakenneuudistuksen (R3) linjausten mukaisesti.\n\nVirkojen lakkauttaminen ja muuttaminen työsuhteisiksi perhepalveluissa:\n\nPerhekeskuspalveluissa tapaamispaikkatoiminnassa toimineet kaksi sosiaaliohjaajaa ovat aiemmin tehneet päätöksiä lapsen ja vanhemman välisten tapaamisten valvonnasta ja palvelun järjestämisestä sosiaalihuoltolain (1301/2014) 27 §:n nojalla perhe- ja vammaispalvelujen toimialajohtajan delegointipäätöksen (5.9.2025 § 56) perusteella. Perhe- ja vammaispalvelujen toimialajohtajan hallintopäätöksen (30.12.2025 § 106) mukaisesti sosiaaliohjaajilla ei ole 1.1.2026 alkaen päätöksenteko-oikeutta, eivätkä heidän työtehtävänsä edellytä virkasuhdetta.\n\nJatkossa päätökset lasten ja vanhemman välisten valvottujen tapaamisten, tuettujen tapaamisten ja valvottujen vaihtojen järjestämisestä tekee lastenvalvoja-sosiaalityöntekijä. Koska sosiaaliohjaajien tehtäviin ei liity julkisen vallan käyttöä, esitetään kyseisten virkojen muuttamista työsopimussuhteisiksi. Palvelussuhteen ehdot säilyvät muutoksesta huolimatta ennallaan.\n\nVirkojen lakkauttaminen ja muuttaminen työsuhteisiksi vammaispalveluissa\n\nPohjois-Savon hyvinvointialueen Ahall on 20.10.2025 § 393 tehnyt päätöksen yhteistoimintaneuvottelujen neuvottelutuloksen vahvistamisesta. Neuvottelutuloksena vammaispalveluiden organisaatioon sekä johtamisjärjestelmään tuli seuraavat muutokset.\n\nNeljä (4) vammaisten asumispalveluissa olevaa virkaa ( Asumisyksikkö Maljapuro, Asumisyksikkö Päivänkierto, Asumisyksikkö Kuutinharju, Asumisyksikkö Vattuvuori) muuttuu palveluvastaavan työsopimussuhteisiksi tehtäviksi.\n\nYksi (1) vammaisten avopalveluiden palveluesihenkilön virka lasten aamu-, iltapäivä- ja loma-ajan hoidossa sekä yksi (1) päällikön virka, päivä- ja työtoiminassa muuttuvat työsopimussuhteisiksi tehtäviksi. Palveluesihenkilön virka muuttuu palveluvastaavaksi ja päällikön virka ostopalvelukoordinaattoriksi, ostopalvelut ja palvelusetelitoiminta.\n\nPerhepalveluiden virkojen lakkauttaminen\n\nPerhepalveluiden perhekeskuksessa yksi (1) päällikön virka ja yksi (1) johtavan sosiaalityöntekijän:\n\n- Päällikkö, Psykosiaalinen opiskeluhuolto\n\n- Johtava sosiaalityöntekijä, Perhesosiaalityö",
+   "decision": "Merkitään pöytäkirjaan, että:\n\nJouni Kurola poistui kokouksesta asian käsittelyn aikana klo 11.01.\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nKati Kantanen\n\nKatja Rautiainen, Hanna-Mari Tanninen, . Sanna Suomi, Eija Pennanen, Anne Kantanen, Terhi Ahonen, Lauri Holappa, Jussi Lampi\n\nJuha Töyräs"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\nJouni Kurola poistui kokouksesta asian käsittelyn aikana klo 11.01.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\nPerustaa seuraavat virat ja vahvistaa niiden kelpoisuusehdon:\n\n2 sosiaalityöntekijän virkaa perhepalveluihin, joissa kelpoisuus korkeakoulututkinto, johon sisältyy sosiaalihuollon ammattihenkilölain (817/2015) mukainen laillistetun sosiaalityöntekijän kelpoisuus sekä lupa toimia sosiaalihuollon ammattitehtävissä sekä riittävä työkokemus ja perehtyneisyys palvelualueelta\n\n2 sosiaaliohjaajan virkaa perhepalveluihin, joissa kelpoisuus sosiaalihuollon ammattihenkilöistä annetun lain (817/2015) 8§:n mukainen laillistus sekä lupa toimia sosiaalihuollon ammattitehtävissä sekä riittävä työkokemus ja perehtyneisyys palvelualueelta\n\n1 määräaikainen (4v.) ylilääkärin sivuvirka Erityispalvelujen toimilinjalle, Lääkinnällisiin palveluihin, Medisiiniseen keskukseen ajalle 1.3.2026-28.2.2030. Kelpoisuus: terveydenhuollon ammattihenkilöistä annetussa laissa 559/94 säädetty laillistus tai lupa toimia lääkärin tehtävissä ja erikoislääkärin pätevyys virkaan soveltuvalla erikoisalalla sekä dosentin pätevyys virkaan soveltuvalla erikoisalalla.\n\n5 osastonhoitajan virkaa peruspalveluihin, osastopalvelut palveluyksikköön, joissa kelpoisuus: soveltuva ylempi korkeakoulututkinto, johon sisältyy tai muutoin hankittuna soveltuvaa johtamiskoulutusta (väh. 30op.), kokemus esihenkilötehtävistä, terveydenhuollon ammattihenkilöstöstä annetun lain (559/1994) 5§ mukainen laillistus sekä lupa toimia terveydenhuollon ammattitehtävissä. Aiemmin ko. tehtävät ovat olleet työsopimussuhteisia, jotka virkojen perustamisen myötä lakkaavat.\n\npaloinsinöörin viran (1) pelastustoimi ja turvallisuuspalveluihin, jonka kelpoisuus on Pelastuslaki 379/2011, 57 § ja valtioneuvoston asetus pelastustoimesta 407/2011, 6 § 1 mom. 3 kohdan mukainen päällystön kelpoisuus tai muu soveltuva korkeakoulututkinto, perustasoinen henkilöturvallisuusselvitys (turvallisuusselvityslaki 726/2014) sekä voimassa oleva B-luokan ajokortti.\n\npalotarkastajan virka (1) pelastustoimi ja turvallisuuspalveluihin, jonka kelpoisuus soveltuva korkeakoulututkinto tai pelastuslain 379/2011, 57 § ja valtioneuvoston asetuksen pelastustoimesta 407/2011, 6 § mukainen päällystön kelpoisuus ja riittävä perehtyneisyys pelastusviranomaisen vastuulle kuuluviin onnettomuuksien ennaltaehkäisyn tehtäviin. Suppea henkilöturvallisuusselvitys (turvallisuusselvityslaki 726/2014). B-luokan voimassa oleva ajokortti.\n\nLakkauttaa perhe- ja vammaispalveluissa virat ja muuttaa virat työsopimussuhteiseksi ja vahvistaa niiden kelpoisuusehdon:\n\nkaksi (2) sosiaaliohjaajan viran lakkautus ja muutos työsopimussuhteisiksi. Kelpoisuus: sosiaalihuollon ammattihenkilöistä annetun lain (817/2015) 8§:n mukainen laillistus sekä lupa toimia sosiaalihuollon ammattitehtävissä sekä riittävä työkokemus ja perehtyneisyys palvelualueelta.\n\nneljä (4) palveluesihenkilön virkaa lakkautus ja muutos työsopimussuhteisiksi vammaisten asumispalveluissa (Asumisyksikkö Maljapuro, Asumisyksikkö Päivänkierto, Asumisyksikkö Kuutinharju, Asumisyksikkö Vattuvuori). Aluehallitus muuttaa virat palveluvastaavan työsopimussuhteisiksi tehtäviksi. Kelpoisuus: terveydenhuollon ammattihenkilöstöstä annetun lain (559/1994) 5 § tai sosiaalihuollon ammattihenkilöstöstä annetun lain (817/2025) 7 §:n ja 8 §;n mukainen laillisuus sekä lupa toimia sosiaalihuollon ammattitehtävissä, lisäksi soveltuvaa johtamiskoulutusta vähintään 15 op.\n\nyksi (1) palveluesihenkilön virka lasten aamu-, iltapäivä- ja loma-ajan hoito, muuttaa palveluesihenkilön virka palveluvastaavan työsopimussuhteiseksi tehtäväksi. Kelpoisuus: terveydenhuollon ammattihenkilöstöstä annetun lain (559/1994) 5 § sosiaalihuollon ammattihenkilöstöstä annetun lain (817/2025) 7 §:n ja 8 §;n mukainen laillisuus sekä lupa toimia sosiaalihuollon ammattitehtävissä, lisäksi soveltuvaa johtamiskoulutusta vähintään 15 op.\n\nyksi (1) päällikön virka, päivä- ja työtoiminta, vammaisten avopalveluissa, muuttaa päällikön virka ostopalvelukoordinaattorin, ostopalvelut ja palvelusetelitoiminta työsopimussuhteiseksi tehtäväksi. Kelpoisuus sosiaali- ja terveydenhuollon korkeakoulututkinto tai vastaava opistoasteen tutkinto ja riittävä perehtyneisyys ko. toimialaan sekä kokemusta vastaavista tehtävistä.\n\nLakkauttaa Strategia- ja kehittäminen toimialalla, tutkimuksen palvelualueella:\n\nErikoissairaanhoidon ja translationaalisen lääketieteen tutkimuksen ylilääkärin viran Kliinisen tutkimuksen keskuksesta (50 % työaika)\n\nLakkauttaa perhepalveluiden perhekeskuksessa yksi (1) päällikön virka ja yksi (1) johtavan sosiaalityöntekijän:\n\nPäällikkö, Psykosiaalinen opiskeluhuolto\n\nJohtava sosiaalityöntekijä, Perhesosiaalityö\n\nLakkauttaa vammaisten asumispalveluissa yksi (1) palveluesihenkilön virka:\n\nPalveluesihenkilö, Asumisyksikkö Huitulanharju\n\nLakkauttaa Erityispalvelujen toimilinjalla:\n\nLääkinnälliset palvelut:\n\nosastonhoitajan virka, Syöpäkeskus, Syöpätautien osasto\n\nosastonhoitajan virka, Medisiininen keskus, Sisätautien pkl, Varkauden sairaala\n\nosastonhoitajan virka, Sisätautien pkl, Harjulan sairaala\n\nOperatiivinen keskus:\n\nesihenkilön virka, toimenpideyksikkö, Iisalmen sairaala\n\nEnnakkovaikutusten arviointi\n\nPerustettavilla viroilla turvataan perhepalveluissa palvelutoiminnan tarkoituksenmukaista järjestämistä: henkilöstökustannukset on sisällytetty talouden sopeuttamisen keinoin talousarvioon vuodelle 2026. Muutos virkasuhteiksi ei aiheuta taloudellisia vaikutuksia. Perustettavilla viroilla turvataan lakisääteisten palveluiden järjestäminen ja tuottaminen sekä edistetään palvelustrategian sekä R3-muutosohjelman tavoitteiden mukaisesti perhehoidon lisäämistä lastensuojelun palvelutuotannossa. Lakkautuvat virat eivät aiheuta taloudellisia vaikutuksia.\n\nToimivallan peruste\nHallintosääntö § 64\n\nValmistelu\nHyvinvointialueen palveluksessa oleva henkilöstö on virkasuhteessa tai työsopimussuhteessa hyvinvointialueeseen. Virkasuhteesta ja työsopimussuhteesta sekä virka- ja työehtosopimuksista hyvinvointialueilla säädetään erikseen.\n\nTehtäviä, joissa käytetään julkista valtaa, hoidetaan virkasuhteessa, ja tällaisia tehtäviä varten perustetaan virka. Viran perustamisesta ja lakkauttamisesta päättää aluevaltuusto tai hyvinvointialueen hallintosäännössä määrätty muu toimielin. Pohjois-Savon hyvinvointialueen hallintosäännön 64 §:n mukaan toimivalta virkojen perustamiseen ja lakkauttamiseen kuuluu aluehallitukselle.\n\nJulkista valtaa käytetään muun muassa tehtävissä, joissa tehtävän hoitaja voi lakiin perustuvan toimivaltansa nojalla yksipuolisesti päättää toisen edusta, oikeudesta tai velvollisuudesta. Julkisen vallan käyttöä sisältyy myös tehtäviin, joissa toimivaltainen viranhaltija voi lakiin perustuen antaa toista velvoittavan määräyksen tai muutoin tosiasiallisesti puuttua toisen etuun tai oikeuteen.\n\nLisäksi julkisen vallan käyttöä on tehtävissä, joihin kuuluu esittelyä julkishallinnollisessa päätöksentekoprosessissa, sekä tehtävissä, joissa käytetään kunnalle tai hyvinvointialueelle delegoitua päätösvaltaa valmistelutoimenpiteissä, joilla on merkittävä vaikutus julkisen vallan käyttöä koskevaan päätöksentekoon.\n\nPerhe- ja vammaispalvelut:\n\nVirkojen perustaminen perhepalveluihin:\n\nLapsiperheiden sosiaalityön ja lastensuojelun palveluyksikössä toimivassa lapsiperheiden asiakasohjauksen ja alkuarvioinnin yksikössä vastataan lapsiperhepalveluihin vireille tulevien ilmoitusten vastaanotosta ja ensiarvioinnista, palvelutarpeen arvioinnin tarpeen arvioimisesta sekä sosiaalihuollon asiantuntijatyöstä osana moniammatillista poliisin ankkuritoimintaa. Toiminnan tarkoituksenmukaisen järjestämisen arvioinnin yhteydessä on tunnistettu tarve muuttaa yhden yksikössä työskentelevän sosiaalityöntekijän ja yhden sosiaaliohjaajan palvelussuhteet virkasuhteisiksi.\n\nKyseiset työntekijät osallistuvat moniammatillisen poliisin ankkurityön toteuttamiseen, mutta hoitavat jatkossa myös lakisääteisiä virkatehtäviä osana sosiaalihuollon tuen tarpeen arviointia. Molemmat tehtävät sisältyvät vuoden 2026 talousarvioon ja henkilöstösuunnitelmaan.\n\nLisäksi perhepalveluissa, lapsiperheiden sosiaalityön ja lastensuojelun palveluyksikössä, on vuoden 2026 talousarvioon sisällytetty yhden sosiaalityöntekijän ja yhden sosiaaliohjaajan lisäys. Nämä tehtävät kohdentuvat perhehoidon virkatehtäviin. Sosiaalityöntekijä ja sosiaaliohjaaja vastaavat hyvinvointialueen omana tuotantona järjestettävän perhehoidon edellyttämästä resurssien valmennuksesta, perhekotina toimimisen edellytysten arvioinnista perhehoitolain mukaisesti sekä perheiden hyväksymisestä perhehoitoperheiksi. Perhehoidon resursoinnin vahvistamisella edistetään palvelujen painopisteen siirtymistä ostopalveluista omaan tuotantoon sekä parannetaan perhehoidon järjestämisedellytyksiä perhe- ja vammaispalveluiden palvelurakenneuudistuksen (R3) linjausten mukaisesti.\n\nVirkojen lakkauttaminen ja muuttaminen työsuhteisiksi perhepalveluissa:\n\nPerhekeskuspalveluissa tapaamispaikkatoiminnassa toimineet kaksi sosiaaliohjaajaa ovat aiemmin tehneet päätöksiä lapsen ja vanhemman välisten tapaamisten valvonnasta ja palvelun järjestämisestä sosiaalihuoltolain (1301/2014) 27 §:n nojalla perhe- ja vammaispalvelujen toimialajohtajan delegointipäätöksen (5.9.2025 § 56) perusteella. Perhe- ja vammaispalvelujen toimialajohtajan hallintopäätöksen (30.12.2025 § 106) mukaisesti sosiaaliohjaajilla ei ole 1.1.2026 alkaen päätöksenteko-oikeutta, eivätkä heidän työtehtävänsä edellytä virkasuhdetta.\n\nJatkossa päätökset lasten ja vanhemman välisten valvottujen tapaamisten, tuettujen tapaamisten ja valvottujen vaihtojen järjestämisestä tekee lastenvalvoja-sosiaalityöntekijä. Koska sosiaaliohjaajien tehtäviin ei liity julkisen vallan käyttöä, esitetään kyseisten virkojen muuttamista työsopimussuhteisiksi. Palvelussuhteen ehdot säilyvät muutoksesta huolimatta ennallaan.\n\nVirkojen lakkauttaminen ja muuttaminen työsuhteisiksi vammaispalveluissa\n\nPohjois-Savon hyvinvointialueen Ahall on 20.10.2025 § 393 tehnyt päätöksen yhteistoimintaneuvottelujen neuvottelutuloksen vahvistamisesta. Neuvottelutuloksena vammaispalveluiden organisaatioon sekä johtamisjärjestelmään tuli seuraavat muutokset.\n\nNeljä (4) vammaisten asumispalveluissa olevaa virkaa ( Asumisyksikkö Maljapuro, Asumisyksikkö Päivänkierto, Asumisyksikkö Kuutinharju, Asumisyksikkö Vattuvuori) muuttuu palveluvastaavan työsopimussuhteisiksi tehtäviksi.\n\nYksi (1) vammaisten avopalveluiden palveluesihenkilön virka lasten aamu-, iltapäivä- ja loma-ajan hoidossa sekä yksi (1) päällikön virka, päivä- ja työtoiminassa muuttuvat työsopimussuhteisiksi tehtäviksi. Palveluesihenkilön virka muuttuu palveluvastaavaksi ja päällikön virka ostopalvelukoordinaattoriksi, ostopalvelut ja palvelusetelitoiminta.\n\nPerhepalveluiden virkojen lakkauttaminen\n\nPerhepalveluiden perhekeskuksessa yksi (1) päällikön virka ja yksi (1) johtavan sosiaalityöntekijän:\n\n- Päällikkö, Psykosiaalinen opiskeluhuolto\n\n- Johtava sosiaalityöntekijä, Perhesosiaalityö"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Aluehallitus 20.10.2025 § 393, päätös yhteistoimintaneuvottelujen neuvottelutuloksen vahvistamisesta.\n\nVammaispalveluiden virkojen lakkauttaminen\n\nLakkauttaa vammaisten asumispalveluissa yksi (1) palveluesihenkilön virka:\n\n- Palveluesihenkilö, Asumisyksikkö Huitulanharju"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Aluehallitus 20.10.2025 § 393, päätös yhteistoimintaneuvottelujen neuvottelutuloksen vahvistamisesta. Vammaispalveluiden organisaatiorakenteen ja johtamisrakenteen muutos.\n\nPeruspalvelut/ virkojen perustaminen:\n\nPeruspalvelujen osastopalvelut-palveluyksikköön on luovuttajaorganisaatiosta siirtynyt hyvinvointialueelle viisi työsopimussuhteista lähiesihenkilötehtävää. Tällä hetkellä kaikki muut peruspalvelujen lähiesihenkilöt ovat virkasuhteessa. Lähiesihenkilötehtävän hoitaminen voi edellyttää julkisen vallan käyttöä siinä määrin, että virkasuhde on perusteltu. Virkasuhde velvoittaa myös noudattamaan säännöksiä ja määräyksiä sekä työnantajan johto- ja valvontamääräyksiä, mikä korostuu erityisesti erilaisissa poikkeus- tai häiriötilanteissa.\n\nPalvelussuhteiden harmonisoinnin tarve työsopimussuhteesta virkasuhteeksi on tunnistettu keskisellä osastopalveluiden alueella seuraavien osastonhoitaja-tehtävien osalta:\n\n- osastonhoitaja, Juankosken vuodeosasto\n\n- osastonhoitaja, Akuuttiosasto 1.\n\n- osastonhoitaja, Akuuttiosasto 2.\n\n- osastonhoitaja, Vaativan kuntoutuksen osasto\n\n- osastonhoitaja, Palliatiivinen osasto\n\nEsitetään yllä mainittujen viiden (5) osastonhoitajan viran perustamista Peruspalvelujen toimilinjan Osastopalvelujen palveluyksikköön. Nykyisin ko. tehtävät ovat työsopimussuhteisia.\n\nErityispalvelut/ virkojen perustaminen\n\nYhteisten palvelujen toimialalle Lääkinnäillisten palvelujen Keskukseen/Medisiiniseen keskukseen määräaikainen sisätautien ylilääkärin sivuvirka ajalle 1.3.2026-28.2.2030 ( 4v)"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Sisätautien määräaikainen apulaisprofessorin virka ( tenure track) on perustettu Itä-Suomen yliopistoon 1.3.2026-28.2.2030 ( 4v ) tukemaan sisätautien oppiaineen professoria perusopetuksessa, sisätautien erikoislääkärikoulutuksessa ja tutkimuksessa.\n\nErityispalvelut/ lakkautettavat virat\n\nLääkinnälliset palvelut/1PK418\n\n- osastonhoitajan virka / syöpäkeskus / syöpätautien osasto\n\n- osastonhoitajan virka/medisiininen keskus/sisätautien pkl/ Varkauden sairaala\n\n- osastonhoitajan virka/ Sisätautien pkl/ Harjulan sairaala"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Hoitotyön johtamisrakenteen yt-päätös 30.6.2025\n\nOperatiivinen keskus/Kirurgia 1PY4164\n\n- Esihenkilön virka/ toimenpideyksikkö/ Iisalmen sairaala"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Hoitotyön johtamisrakenteen yt-päätös 30.6.2025\n\nPelastustoimi ja turvallisuuspalvelut / perustettavat virat\n\nPelastustoimi ja turvallisuuspalvelut -toimialalla esitetään perustettavaksi paloinsinöörin virka 1.3.2026 alkaen. Paloinsinöörin virka on kriittinen onnettomuuksien ja tulipalojen ennaltaehkäisyn asiantuntijatehtävä, jonka avulla varmistetaan pelastuslain mukaisten valvontavelvoitteiden laadukas toteuttaminen sekä ennaltaehkäisevän toiminnan kehittäminen.\n\nPaloinsinööri vastaa pelastustoimen onnettomuuksien ehkäisyn suunnitelman laadinnasta, valvontaprosessien kuvaamisesta sekä valvontatyön suunnittelusta, koordinoinnista, ohjeistamisesta ja seurannasta. Tehtäviin kuuluu myös asuinkiinteistöjen paloturvallisuuden itsearviointien ohjaus ja kehittäminen sekä valvontatoiminnan tilastointi, raportointi ja valvontasuunnitelman prosessien omavalvonta. Paloinsinööri vastaa lisäksi toiminnan vaikuttavuuden ja laadun kehittämisestä sekä uuden kansallisen valvontaohjelmiston käyttöönotosta.\n\nPaloinsinööri suorittaa palotarkastuksia ja muita valvontatehtäviä vaativissa erityiskohteissa sekä toimii keskeisenä toimialan asiantuntijana ja riskienhallintapäällikön sijaisena. Viran perustamisella on merkittävä positiivinen vaikutus lakisääteisten valvontatehtävien suoritteisiin ja valvontatehtävistä perittäviin myyntituottoihin.\n\nPaloinsinöörin kelpoisuusvaatimuksiksi esitetään:\n\nPelastuslaki 379/2011, 57 § ja valtioneuvoston asetus pelastustoimesta 407/2011, 6 § 1 mom. 3 kohdan mukainen päällystön kelpoisuus tai muu soveltuva korkeakoulututkinto, perustasoinen henkilöturvallisuusselvitys (turvallisuusselvityslaki 726/2014) sekä voimassa oleva B-luokan ajokortti.\n\nPelastustoimi ja turvallisuuspalvelut -toimialalla esitetään perustettavaksi palotarkastajan virka 1.3.2026 alkaen. Uuden viran perustaminen on välttämätöntä pelastuslain mukaisten valvontatehtävien asianmukaiseksi toteuttamiseksi, palvelutason turvaamiseksi sekä maakunnan paloturvallisuuden ja kokonaisturvallisuuden parantamiseksi.\n\nPohjois-Savon pelastuslaitoksella on tällä hetkellä viisi palotarkastajan virkaa, mutta palvelutasopäätöksen mukaan virkoja tulisi olla kuusi. Vuosittain palotarkastettavia kohteita on noin 1 900.\n\nPerustettava virka kohdistuu eteläisen toimialueen riskikohteiden yleisiin palotarkastuksiin (esim. teollisuus- ja hoitolaitokset) sekä koko maakunnan alueella tehtäviin pelastuslain 42 §:n mukaisiin paloriskitarkastuksiin. Viran perustaminen mahdollistaa paloriskitarkastusten suorittamisen suunnitelmallisesti, yhdenmukaisesti ja palvelutasopäätöksen edellyttämällä tasolla. Samalla se vahvistaa ennaltaehkäisevää toimintaa, vähentää kertynyttä tarkastusvelkaa ja parantaa valvonnan vaikuttavuutta. Palotarkastaja toimii vuorollaan pelastuslaitoksen päivystävänä palotarkastajana, joka antaa pelastuslain mukaista ohjausta ja neuvontaa sekä vastaa kiireellisiin valvontapyyntöihin. Palotarkastajan tehtävällä on positiivinen vaikutus lakisääteisten valvontatehtävien suoritemääriin sekä valvontatehtävistä perittäviin myyntituottoihin.\n\nStrategia- ja kehittäminen toimialalla, tutkimuksen palvelualue/ lakkautettava virka\n\nKliinisen tutkimuksen keskus\n\n- Erikoissairaanhoidon ja translationaalisen lääketieteen tutkimuksen ylilääkärin virka (50 % työaika)"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Tehtävään ei sisälly julkisen vallan käyttöä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "42",
+   "title": "Pohjois-Savon hyvinvointialuestrategian toimeenpanosuunnitelma",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026948-6",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026948-6.PDF",
+   "diary_number": "660/00.01.02.04/2022",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää hyväksyä Pohjois-Savon hyvinvointialueen strategian toimeenpanosuunnitelman.\n\nEnnakkovaikutusten arviointi\n\nEnnakovaikutusten arviointi tehdään osana toimeenpanoa varten valmisteltavia strategisia ohjelmia.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Strategian toimeenpanosuunnitelma 2026-2028\n\n- Strategian seurannassa käytettävät mittarit ja niiden tavoitetasot vuosille 2026-2028\n\nValmistelu\nPohjois-Savon hyvinvointialueen aluevaltuusto hyväksyi (Avalt 06.10.2025 § 72) lokakuussa 2025 hyvinvointialueen päivitetyn strategian.\n\nVuoden 2026 aikana strategiatyö jatkuu:\n\nKäynnistämme strategian toimeenpanon\n\nToimeenpanoa varten valmistellaan strategiset toimenpideohjelmat vastaamaan strategian painopisteitä.\n\nStrategian toimeenpanosuunnitelma (liite) kuvaa hyvinvointialueen strategian seurannassa käytettävät mittarit ja sen toimeenpanoa varten suunniteltavat strategiset ohjelmat sekä strategian juurruttamisen ja viestinnän periaatteet.\n\nSuunnitelmaa on valmisteltu hyvinvointialueen johtoryhmässä ja sen valmistelun tilannekatsaus Tulevaisuus – ja strategiajaostossa (Tulstrja 20.01.2026 § 6).\n\nStrategiset ohjelmat tuodaan valmistelun jälkeen erikseen hallintosäännön mukaisiin toimielimiin käsiteltäväksi ennen toimeenpanoa.",
+   "decision": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että:\n\nMari Antikainen poistui kokouksesta asian käsittelyn jälkeen klo 11.31.\n\nKokoustauko klo 11.31 - 11.42",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJussi Lampi, strategiajohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että:\n\nMari Antikainen poistui kokouksesta asian käsittelyn jälkeen klo 11.31.\n\nKokoustauko klo 11.31 - 11.42"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä Pohjois-Savon hyvinvointialueen strategian toimeenpanosuunnitelman.\n\nEnnakkovaikutusten arviointi\n\nEnnakovaikutusten arviointi tehdään osana toimeenpanoa varten valmisteltavia strategisia ohjelmia.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Strategian toimeenpanosuunnitelma 2026-2028\n\n- Strategian seurannassa käytettävät mittarit ja niiden tavoitetasot vuosille 2026-2028\n\nValmistelu\nPohjois-Savon hyvinvointialueen aluevaltuusto hyväksyi (Avalt 06.10.2025 § 72) lokakuussa 2025 hyvinvointialueen päivitetyn strategian.\n\nVuoden 2026 aikana strategiatyö jatkuu:\n\nKäynnistämme strategian toimeenpanon\n\nToimeenpanoa varten valmistellaan strategiset toimenpideohjelmat vastaamaan strategian painopisteitä.\n\nStrategian toimeenpanosuunnitelma (liite) kuvaa hyvinvointialueen strategian seurannassa käytettävät mittarit ja sen toimeenpanoa varten suunniteltavat strategiset ohjelmat sekä strategian juurruttamisen ja viestinnän periaatteet.\n\nSuunnitelmaa on valmisteltu hyvinvointialueen johtoryhmässä ja sen valmistelun tilannekatsaus Tulevaisuus – ja strategiajaostossa (Tulstrja 20.01.2026 § 6).\n\nStrategiset ohjelmat tuodaan valmistelun jälkeen erikseen hallintosäännön mukaisiin toimielimiin käsiteltäväksi ennen toimeenpanoa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Strategia toimeenpano-ohjelma, Ahall 09022026",
+     "url": "https://pshva.oncloudos.com/kokous/2026948-6-237879.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "43",
+   "title": "Luottamushenkilöiden erilaisten palkkioiden maksamisen perusteet",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026948-7",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026948-7.PDF",
+   "diary_number": "3/00.01.01.00/2022",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää hyväksyä esityslistan liitteenä olevan taulukon, missä on määritetty toimituspalkkioon oikeuttavat tapahtumat.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Kooste toimituspalkkion perusteista.\n\nValmistelu\n\nHallintosäännön 21. luvussa on määräykset Luottamushenkilöiden taloudellisten etuuksien perusteista.\n\nHallintosäännön 195 §:ssä on määräykset vuosipalkkioista seuraavasti:\n\nKokouspalkkioiden lisäksi maksetaan kokousten ulkopuolella toimielimen toimintaan liittyvistä tehtävistä seuraavat vuosipalkkiot:\n\nAluevaltuusto\n\n- puheenjohtaja 10.000 euroa/vuosi\n\n- varapuheenjohtaja 5.000 euroa/vuosi\n\nAluehallitus\n\n- puheenjohtaja 15.000 euroa/vuosi\n\n- varapuheenjohtaja 5.000 euroa/vuosi\n\n- jäsen 4.000 euroa/vuosi\n\nLautakunnat\n\n- puheenjohtaja 4.000 euroa/vuosi pl. aluevaalilautakunnan puheenjohtaja, jolle vuosipalkkio maksetaan vain aluevaalivuonna\n\nValtuustoryhmät\n\n- puheenjohtaja 4.000 euroa/vuosi\n\nAlueellinen lääketieteellinen toimikunta\n\n- puheenjohtaja 4.000 euroa/vuosi\n\nPäätoimisella tai osa-aikaisella luottamushenkilöllä ei ole oikeutta erillisiin vuosipalkkioihin, edustuspalkkioon tai ansionmenetyskorvaukseen.\n\nHallintosäännön 199 §:ssä on määräykset toimituksista maksettavista palkkioista seuraavasti:\n\n”Toimielimen tai sen jäsenten suorittamasta tarkastuksesta, katselmuksesta tai muusta vastaavasta toimituksesta maksetaan po. toimielimen kokouspalkkion suuruinen toimituspalkkio. Edellä mainittuja toimituksia ovat esimerkiksi rakennus- ja katukatselmukset sekä tarkastuslautakunnan arviointitilaisuudet. Jäsenelle maksettavan palkkion edellytyksenä on, että tehtävä perustuu toimielimen päätökseen. Toimituspalkkioon ei sovelleta hallintosäännön 192 §:n korotusta lisätunneilta”.\n\nHallintosäännön 207 §:n mukaan aluehallitus voi antaa tarvittaessa tarkempia ohjeita tämän luvun soveltamisesta.\n\nHallintosäännön 199 §:n määräys toimituspalkkion osalta on epätäsmällinen ja sen soveltamisen osalta tulee antaa tarkempi ohje.\n\nLiitteessä olevaan taulukkoon on kuvattu eri tyyppisiä tilanteita, joiden osalta on ollut osin epäselvyyttä oikeuttavatko ne toimituspalkkioon vai eivät tai sisältyvätkö ne luottamushenkilön vuosipalkkioon tai kuukausipalkkioon.\n\nTaulukkoon on merkitty:\n\nVP merkinnällä ne tilaisuudet, jotka sisältyvät luottamushenkilölle maksettavaan vuosipalkkioon\n\nTP merkinnällä ne tilaisuudet, jotka oikeuttavat toimituspalkkioon\n\nKP merkinnällä ne tilaisuudet, jotka sisältyvät kokoaikaisen tai osa-aikaisen luottamushenkilön kuukausipalkkioon\n\n- merkinnällä ne tilaisuudet, jotka eivät oikeuta toimituspalkkioon",
+   "decision": "Aluehallitus hyväksyi erilaisten palkkioiden maksamisen perusteet yksimielisesti kokouksessa tehdyin muutoksin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi erilaisten palkkioiden maksamisen perusteet yksimielisesti kokouksessa tehdyin muutoksin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä esityslistan liitteenä olevan taulukon, missä on määritetty toimituspalkkioon oikeuttavat tapahtumat.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Kooste toimituspalkkion perusteista.\n\nValmistelu\n\nHallintosäännön 21. luvussa on määräykset Luottamushenkilöiden taloudellisten etuuksien perusteista.\n\nHallintosäännön 195 §:ssä on määräykset vuosipalkkioista seuraavasti:\n\nKokouspalkkioiden lisäksi maksetaan kokousten ulkopuolella toimielimen toimintaan liittyvistä tehtävistä seuraavat vuosipalkkiot:\n\nAluevaltuusto\n\n- puheenjohtaja 10.000 euroa/vuosi\n\n- varapuheenjohtaja 5.000 euroa/vuosi\n\nAluehallitus\n\n- puheenjohtaja 15.000 euroa/vuosi\n\n- varapuheenjohtaja 5.000 euroa/vuosi\n\n- jäsen 4.000 euroa/vuosi\n\nLautakunnat\n\n- puheenjohtaja 4.000 euroa/vuosi pl. aluevaalilautakunnan puheenjohtaja, jolle vuosipalkkio maksetaan vain aluevaalivuonna\n\nValtuustoryhmät\n\n- puheenjohtaja 4.000 euroa/vuosi\n\nAlueellinen lääketieteellinen toimikunta\n\n- puheenjohtaja 4.000 euroa/vuosi\n\nPäätoimisella tai osa-aikaisella luottamushenkilöllä ei ole oikeutta erillisiin vuosipalkkioihin, edustuspalkkioon tai ansionmenetyskorvaukseen.\n\nHallintosäännön 199 §:ssä on määräykset toimituksista maksettavista palkkioista seuraavasti:\n\n”Toimielimen tai sen jäsenten suorittamasta tarkastuksesta, katselmuksesta tai muusta vastaavasta toimituksesta maksetaan po. toimielimen kokouspalkkion suuruinen toimituspalkkio. Edellä mainittuja toimituksia ovat esimerkiksi rakennus- ja katukatselmukset sekä tarkastuslautakunnan arviointitilaisuudet. Jäsenelle maksettavan palkkion edellytyksenä on, että tehtävä perustuu toimielimen päätökseen. Toimituspalkkioon ei sovelleta hallintosäännön 192 §:n korotusta lisätunneilta”.\n\nHallintosäännön 207 §:n mukaan aluehallitus voi antaa tarvittaessa tarkempia ohjeita tämän luvun soveltamisesta.\n\nHallintosäännön 199 §:n määräys toimituspalkkion osalta on epätäsmällinen ja sen soveltamisen osalta tulee antaa tarkempi ohje.\n\nLiitteessä olevaan taulukkoon on kuvattu eri tyyppisiä tilanteita, joiden osalta on ollut osin epäselvyyttä oikeuttavatko ne toimituspalkkioon vai eivät tai sisältyvätkö ne luottamushenkilön vuosipalkkioon tai kuukausipalkkioon.\n\nTaulukkoon on merkitty:\n\nVP merkinnällä ne tilaisuudet, jotka sisältyvät luottamushenkilölle maksettavaan vuosipalkkioon\n\nTP merkinnällä ne tilaisuudet, jotka oikeuttavat toimituspalkkioon\n\nKP merkinnällä ne tilaisuudet, jotka sisältyvät kokoaikaisen tai osa-aikaisen luottamushenkilön kuukausipalkkioon\n\n- merkinnällä ne tilaisuudet, jotka eivät oikeuta toimituspalkkioon"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "44",
+   "title": "Pohjois-Savon hyvinvointialueen johtamisjärjestelmän uudistaminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026948-8",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026948-8.PDF",
+   "diary_number": "1153/00.01.00/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää nimetä ohjausryhmän jäsenet, jäsenille varajäsenet sekä ohjausryhmän puheenjohtajan.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nValmistelu\n\nAluehallitus on päättänyt 20.10.2025 § 393 hyväksyä yhteistoimintaneuvotteluiden neuvottelutuloksen. Neuvottelutulokseen on kirjattu johtamisrakenteen muutosten osalta seuraavaa:\n\n”Toimielin- ja johtamisrakennemuutokset vuonna 2026\n\nPohjois-Savon hyvinvointialueen kannalta keskeinen kysymys on, että mitä tavoitteita hyvinvointialue asettaa toimielinjärjestelmälleen ja millainen toimielinratkaisu tukee taloudellisuus- ja tuottavuustavoitteiden toteutumista. Tässä neuvotteluesityksessä ennakoidaan, että mikäli aluehallitus aloittaa valmistelun aluevaltuustolle toimielinrakenteen muuttamiseksi, voi\n\nmuutoksilla olla vaikutusta toimialojen määrään ja vastaavasti vaikutuksia johtajien ja esihenkilöiden määrään.\n\nHyvinvointialueen koko johtamisrakenteen osalta avataan siten tarvittaessa neuvottelut erikseen vuonna 2026 joko toimielinuudistuksen tai taloustilanteen johdosta tai muun rakenteellisen uudistuksen tarpeen johdosta. Johtamis- ja esihenkilörakenteen arviointi toteutetaan siten erillisneuvotteluina vuonna 2026.\n\nHenkilöstöjärjestöjen esitys konsernihallinnon esihenkilörakenteen käsittelemiseksi erillisenä ei ole ollut tässä vaiheessa tarkoituksenmukaista, koska konsernihallinnossa on 4 toimialaa ja toimielinrakenteen muutokset heijastuvat kokonaisuutena myös konsernihallintoon kaikille johtamisen tasoille 1-5.\n\nKonsernihallinnon esihenkilörakenteet tulevat siten tarkasteluun kokonaisarvioinnissa. Konsernihallinnossa erityispiirteenä on, että esihenkilöt tekevät myös asiantuntijatyötä osana\n\nesihenkilötyötään”.\n\nJohtamisrakenteen muutoksen valmistelua varten on tarkoituksenmukaista nimetä poliittinen ohjausryhmä. Ohjausryhmä johtaa ja ohjaa johtamisrakenteen muutoksen valmistelua ja kuulee tarvittavia viranhaltijoita ja muita asiantuntijoita. Hyvinvointialuejohtaja on ohjausryhmän jäsen.",
+   "decision": "Aluehallitus päättää nimetä ohjausryhmään seuraavat jäsenet ja varajäsenet:\n\nHedman Pia, vara Miettinen Heikki\n\nKokki Hannu, vara Kontiainen Hilkka\n\nLötjönen Vesa, vara Suna Sassa\n\nPellikka Minna, vara Rautiainen Merja\n\nPitkänen Juha, vara Haring Kari\n\nRaatikainen Riitta, vara Kanniainen Aino\n\nRossi Markku, vara Taipale Pekka\n\nVornanen Ahti-Pekka, vara Backman\n\nPirjo Åhman Kati, vara Väätäinen Nanna\n\nohjausryhmän kokoonpanoa täydennetään vihreiden jäsenen ja varajäsenen osalta.\n\nAluehallitus nimesi ohjausryhmän puheenjohtajaksi Riitta Raatikaisen ja varapuheenjohtajaksi Pia Hedmanin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päättää nimetä ohjausryhmään seuraavat jäsenet ja varajäsenet:\n\nHedman Pia, vara Miettinen Heikki\n\nKokki Hannu, vara Kontiainen Hilkka\n\nLötjönen Vesa, vara Suna Sassa\n\nPellikka Minna, vara Rautiainen Merja\n\nPitkänen Juha, vara Haring Kari\n\nRaatikainen Riitta, vara Kanniainen Aino\n\nRossi Markku, vara Taipale Pekka\n\nVornanen Ahti-Pekka, vara Backman\n\nPirjo Åhman Kati, vara Väätäinen Nanna\n\nohjausryhmän kokoonpanoa täydennetään vihreiden jäsenen ja varajäsenen osalta.\n\nAluehallitus nimesi ohjausryhmän puheenjohtajaksi Riitta Raatikaisen ja varapuheenjohtajaksi Pia Hedmanin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää nimetä ohjausryhmän jäsenet, jäsenille varajäsenet sekä ohjausryhmän puheenjohtajan.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nValmistelu\n\nAluehallitus on päättänyt 20.10.2025 § 393 hyväksyä yhteistoimintaneuvotteluiden neuvottelutuloksen. Neuvottelutulokseen on kirjattu johtamisrakenteen muutosten osalta seuraavaa:\n\n”Toimielin- ja johtamisrakennemuutokset vuonna 2026\n\nPohjois-Savon hyvinvointialueen kannalta keskeinen kysymys on, että mitä tavoitteita hyvinvointialue asettaa toimielinjärjestelmälleen ja millainen toimielinratkaisu tukee taloudellisuus- ja tuottavuustavoitteiden toteutumista. Tässä neuvotteluesityksessä ennakoidaan, että mikäli aluehallitus aloittaa valmistelun aluevaltuustolle toimielinrakenteen muuttamiseksi, voi\n\nmuutoksilla olla vaikutusta toimialojen määrään ja vastaavasti vaikutuksia johtajien ja esihenkilöiden määrään.\n\nHyvinvointialueen koko johtamisrakenteen osalta avataan siten tarvittaessa neuvottelut erikseen vuonna 2026 joko toimielinuudistuksen tai taloustilanteen johdosta tai muun rakenteellisen uudistuksen tarpeen johdosta. Johtamis- ja esihenkilörakenteen arviointi toteutetaan siten erillisneuvotteluina vuonna 2026.\n\nHenkilöstöjärjestöjen esitys konsernihallinnon esihenkilörakenteen käsittelemiseksi erillisenä ei ole ollut tässä vaiheessa tarkoituksenmukaista, koska konsernihallinnossa on 4 toimialaa ja toimielinrakenteen muutokset heijastuvat kokonaisuutena myös konsernihallintoon kaikille johtamisen tasoille 1-5.\n\nKonsernihallinnon esihenkilörakenteet tulevat siten tarkasteluun kokonaisarvioinnissa. Konsernihallinnossa erityispiirteenä on, että esihenkilöt tekevät myös asiantuntijatyötä osana\n\nesihenkilötyötään”.\n\nJohtamisrakenteen muutoksen valmistelua varten on tarkoituksenmukaista nimetä poliittinen ohjausryhmä. Ohjausryhmä johtaa ja ohjaa johtamisrakenteen muutoksen valmistelua ja kuulee tarvittavia viranhaltijoita ja muita asiantuntijoita. Hyvinvointialuejohtaja on ohjausryhmän jäsen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "45",
+   "title": "Itä-Suomen yhteistyöalueen alueellisen tutkimuseettisen toimikunnan kokoonpanon muutos",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026948-9",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026948-9.PDF",
+   "diary_number": "774/00.00.01/2023",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää myöntää eron: 1) Tuija Hautakankaalle ja Vesa Kiviniemelle Pohjois-Savon hyvinvointialueen alueellisen lääketieteellisen tutkimuseettisen toimikunnan jäsenyydestä 2) Panu Karjalaiselle Pohjois-Savon hyvinvointialueen alueellisen lääketieteellisen tutkimuseettisen toimikunnan varajäsenyydestä\n\nEnnakkovaikutusten arviointi\n\nToimivallan peruste\nHallintosääntö § 36 kohta 19\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Itä-Suomen yhteistyöalueen alueellisen lääketieteellisen tutkimuseettisen toimikunta, kokoonpano 9.2.2026 – 31.5.2029\n\nValmistelu\n\nItä-Suomen yhteistyöalueen alueellinen lääketieteellinen tutkimuseettinen toimikunta esittää jäsenmuutoksia 9.2.2026 alkaen seuraavasti:\n\nJäsen Tuija Hautakangas on ilmoittanut eroavansa Pohjois-Savon hyvinvointialueen alueellisen lääketieteellisen tutkimuseettisen toimikunnan jäsenyydestä.\n\nJäsen Vesa Kiviniemi on ilmoittanut eroavansa Pohjois-Savon hyvinvointialueen alueellisen lääketieteellisen tutkimuseettisen toimikunnan jäsenyydestä.\n\nVarajäsen Panu Karjalainen on ilmoittanut eroavansa Pohjois-Savon hyvinvointialueen alueellisen lääketieteellisen tutkimuseettisen toimikunnan varajäsenyydestä.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nKirsi Luoto, erityisasiantuntija"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää myöntää eron: 1) Tuija Hautakankaalle ja Vesa Kiviniemelle Pohjois-Savon hyvinvointialueen alueellisen lääketieteellisen tutkimuseettisen toimikunnan jäsenyydestä 2) Panu Karjalaiselle Pohjois-Savon hyvinvointialueen alueellisen lääketieteellisen tutkimuseettisen toimikunnan varajäsenyydestä\n\nEnnakkovaikutusten arviointi\n\nToimivallan peruste\nHallintosääntö § 36 kohta 19\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Itä-Suomen yhteistyöalueen alueellisen lääketieteellisen tutkimuseettisen toimikunta, kokoonpano 9.2.2026 – 31.5.2029\n\nValmistelu\n\nItä-Suomen yhteistyöalueen alueellinen lääketieteellinen tutkimuseettinen toimikunta esittää jäsenmuutoksia 9.2.2026 alkaen seuraavasti:\n\nJäsen Tuija Hautakangas on ilmoittanut eroavansa Pohjois-Savon hyvinvointialueen alueellisen lääketieteellisen tutkimuseettisen toimikunnan jäsenyydestä.\n\nJäsen Vesa Kiviniemi on ilmoittanut eroavansa Pohjois-Savon hyvinvointialueen alueellisen lääketieteellisen tutkimuseettisen toimikunnan jäsenyydestä.\n\nVarajäsen Panu Karjalainen on ilmoittanut eroavansa Pohjois-Savon hyvinvointialueen alueellisen lääketieteellisen tutkimuseettisen toimikunnan varajäsenyydestä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "46",
+   "title": "Nuorisovaltuuston edustajamuutokset",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026948-10",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026948-10.PDF",
+   "diary_number": "4627/00.00.01/2024",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää:\n\n1) myöntää eron Lenni Pehkoselle Pohjois-Savon nuorisovaltuuston varaedustajan tehtävästä.\n\n2) myöntää eron Ville Huuskoselle Pohjois-Savon nuorisovaltuuston edustajan tehtävästä.\n\n3) nimeää Enna Väätäisen Pohjois-Savon nuorisovaltuustoon Pielaveden edustajaksi.\n\n4)nimeää Teresa Suomisen Pohjois-Savon nuorisovaltuustoon Siilijärven varaedustajaksi.\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nNuorisovaltuuston varaedustaja Lenni Pehkonen, Kuopio, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 13.2.2025. Pehkonen on valittu nuorisovaltuustoon vapaan haun väylän kautta.\n\nNuorisovaltuusto jättää Pehkoselta vapautuvan paikan toistaisesti täyttämättä.\n\nNuorisovaltuuston edustaja Ville Huuskonen, Pielavesi, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 7.3.2025.\n\nPielaveden nuorisovaltuusto on nimennyt uudeksi edustajakseen Pohjois-Savon nuorisovaltuustoon Enna Väätäisen 17.3.2025.\n\nSiilinjärven nuorisovaltuusto on nimennyt varaedustajakseen Pohjois-Savon nuorisovaltuustoon Teresa Suomisen 28.3.2025.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nTiia Hartikainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää: 1)myöntää eron Luukas Hyytiäiselle Pohjois-Savon nuorisovaltuustosta 2)nimetä Kiuruveden kunnan varaedustajaksi Juho Valosen Pohjois-Savon nuorisovaltuustoon\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nKiuruveden kunnan nuorisovaltuusto ilmoitti varaedustaja Luukas Hyytiäisen eronneen kunnan nuorisovaltuuston luottamustehtävistä.\n\nKiuruveden kunnan nuorisovaltuusto on nimennyt 26.1.2026 uudeksi varaedustajakseen Pohjois-Savon nuorisovaltuustoon Juho Valosen.\n\nAhall 19.01.2026 § 15\n\nValmistelija(t)\nTiia Hartikainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää: 1) myöntää eron Veera Ojalalle Pohjois-Savon nuorisovaltuustosta 2) nimetä Keiteleen kunnan edustajaksi Saramiia Hämäläisen Pohjois-Savon nuorisovaltuustoon 3) nimetä Keiteleen kunnan varaedustajaksi Elli Vuorelan Pohjois-Savon nuorisovaltuustoon 4) nimetä vapaan haun varaedustajaksi Roope Leskisen Pohjois-Savon nuorisovaltuustoon 5) nimetä Lapinlahden kunnan edustajaksi Maija Kettusen Pohjois-Savon nuorisovaltuustoon 6) nimetä Lapinlahden kunnan varaedustajaksi Venla Verbaanin Pohjois-Savon nuorisovaltuustoon\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nNuorisovaltuuston edustaja ja 2. varapuheenjohtaja Veera Ojala, Keitele, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 11.12.2025.\n\nKeiteleen kunnan nuorisovaltuusto on nimennyt uudeksi edustajakseen Saramiia Hämäläisen, 11.12.2025. Hämäläinen on toiminut aiemmin Miia Hirviheimon (Keitele, vapaa haku) varaedustajana.\n\nKeiteleen kunnan nuorisovaltuusto on nimennyt varaedustajakseen Elli Vuorelan 11.12.2025.\n\nSaramiia Hämäläisen noustessa vapaan haun varaedustajuudesta edustajaksi, vapautui vapaan haun varaedustajan paikka. Vapaan haun varaedustajan paikka täytetään Keiteleen nuorisovaltuuston edustajalla Roope Leskisellä.\n\nLapinlahden kunnan nuorisovaltuusto on nimennyt uudeksi edustajakseen Pohjois-Savon nuorisovaltuustoon Maija Kettusen 15.12.2025.\n\nLapinlahden kunnan nuorisovaltuusto on nimennyt uudeksi varaedustajakseen Pohjois-Savon nuorisovaltuustoon Venla Verbaanin 15.12.2025.\n\nAhall 10.11.2025 § 424\n\nValmistelija(t)\nTiia Hartikainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\n1)nimetä Riina Pentikäisen Pohjois-Savon nuorisovaltuustoon Suonenjoen varaedustajaksi.\n\n2)nimetä Mette Kortelaisen Pohjois-Savon nuorisovaltuuston Joroisten varaedustajaksi.\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nSuonenjoen kaupungin nuorisovaltuusto on nimennyt uudeksi varaedustajakseen Pohjois-Savon nuorisovaltuustoon Riina Pentikäisen 3.10.2025.\n\nJoroisten kunnan nuorisovaltuuston on nimennyt uudeksi varaedustajakseen Pohjois-Savon nuorisovaltuustoon Mette Kortelaisen 9.10.2025.\n\nAhall 07.10.2025 § 376\n\nValmistelija(t)\nTiia Hartikainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\n1) nimetä Vilja Kainulaisen Pohjois-Savon nuorisovaltuustoon Vieremän edustajaksi.\n\n2) nimetä Viivi Rönkön Pohjois-Savon nuorisovaltuustoon Vieremän varaedustajaksi.\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nVieremän kunnan nuorisovaltuusto on nimennyt uudeksi edustajakseen Pohjois-Savon nuorisovaltuustoon Vilja Kainulaisen 24.9.2025.\n\nVieremän kunnan nuorisovaltuusto on nimennyt uudeksi varaedustajakseen Pohjois-Savon nuorisovaltuustoon Viivi Rönkön 24.9.2025.\n\nAhall 22.09.2025 § 363\n\nValmistelija(t)\nTiia Hartikainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää nimetä:\n\n1) Saaga Hallikaisen Pohjois-Savon nuorisovaltuustoon Kaavin edustajaksi\n\n2) Atte Hynysen Pohjois-Savon nuorisovaltuustoon Kaavin varaedustajaksi\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nKaavin kunnan nuorisovaltuusto on nimennyt uudeksi edustajakseen Pohjois-Savon nuorisovaltuustoon Saaga Hallikaisen 12.9.2025.\n\nKaavin kunnan nuorisovaltuusto on nimennyt uudeksi varaedustajakseen Pohjois-Savon nuorisovaltuustoon Atte Hynysen 12.9.2025.\n\nAhall 08.09.2025 § 340\n\nValmistelija(t)\nTiia Hartikainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää\n\n1) myöntää eron Katri Kuokalle Pohjois-Savon nuorisovaltuuston edustajan tehtävästä\n\n2) myöntää eron Iida Virrantalolle Pohjois-Savon nuorisovaltuuston edustajan tehtävästä.\n\n3) myöntää eron Vilma Kärjelle Pohjois-Savon nuorisovaltuuston varaedustajan tehtävästä\n\n4) myöntää eron Aurora Kämäräiselle Pohjois-Savon nuorisovaltuuston varaedustajan tehtävästä\n\n5) myöntää eron Jerry Ruotsalaiselle Pohjois-Savon nuorisovaltuuston edustajan tehtävästä\n\n6) myöntää eron Eeva Takkiselle Pohjois-Savon nuorisovaltuuston varaedustaja tehtävästä\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nKoulujen alkaessa nuorisovaltuuston edustuksessa tapahtuu vuosittain muutoksia. Nuoremme pääsevät uusiin oppilaitoksiin opiskelemaan ja menettävät näin oikeutensa edustaa kuntansa tai kaupunkinsa nuorisovaltuustoa. Muutamat vanhemmat nuoret suuntaavat myös maakunnan ulkopuolelle, jolloin yhteys entiseen kotikuntaan ja Pohjoi-Savoon vähenee. Tänä syksynä seuraavat nuoret ovat pyytäneet eroa näistä syistä.\n\nNuorisovaltuuston edustaja Katri Kuokka, Lapinlahti, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 26.7.2025\n\nNuorisovaltuuston edustaja Iida Virrantalo, Kaavi, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 5.8.2025\n\nNuorisovaltuuston varaedustaja Vilma Kärki, Vieremä, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 11.8.2025\n\nNuorisovaltuuston varaedustaja Aurora Kämäräinen, Lapinlahti, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 11.8.2025\n\nNuorisovaltuuston edustaja Jerry Ruotsalainen, Vieremä, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 14.8.2025\n\nNuorisovaltuuston varaedustaja Eeva Takkinen, Joroinen, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 21.8.2025\n\nAhall 12.05.2025 § 185\n\nValmistelija(t)\nTiia Hartikainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää nimetä Emma Hirvasojan Pohjois-Savon nuorisovaltuustoon Pielaveden varaedustajaksi.\n\nValmistelu\nPielaveden nuorisovaltuusto on nimennyt uudeksi varaedustajakseen Pohjois-Savon nuorisovaltuustoon Emma Hirvasojan 15.4.2025.\n\nAhall 07.04.2025 § 148\n\nValmistelija(t)\nTiia Hartikainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\n1) myöntää eron Lenni Pehkoselle Pohjois-Savon nuorisovaltuuston varaedustajan tehtävästä.\n\n2) myöntää eron Ville Huuskoselle Pohjois-Savon nuorisovaltuuston edustajan tehtävästä.\n\n3) nimeää Enna Väätäisen Pohjois-Savon nuorisovaltuustoon Pielaveden edustajaksi.\n\n4)nimeää Teresa Suomisen Pohjois-Savon nuorisovaltuustoon Siilijärven varaedustajaksi.\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nNuorisovaltuuston varaedustaja Lenni Pehkonen, Kuopio, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 13.2.2025. Pehkonen on valittu nuorisovaltuustoon vapaan haun väylän kautta.\n\nNuorisovaltuusto jättää Pehkoselta vapautuvan paikan toistaisesti täyttämättä.\n\nNuorisovaltuuston edustaja Ville Huuskonen, Pielavesi, on pyytänyt eroa Pohjois-Savon nuorisovaltuustosta 7.3.2025.\n\nPielaveden nuorisovaltuusto on nimennyt uudeksi edustajakseen Pohjois-Savon nuorisovaltuustoon Enna Väätäisen 17.3.2025.\n\nSiilinjärven nuorisovaltuusto on nimennyt varaedustajakseen Pohjois-Savon nuorisovaltuustoon Teresa Suomisen 28.3.2025."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "47",
+   "title": "Nuorisovaltuuston toimintakertomus 2025",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026948-11",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026948-11.PDF",
+   "diary_number": "2357/00.01.02.00/2023",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Nuorisovaltuusto hyväksyy toimintakertomuksen vuodelta 2025, ja esittää sen edelleen aluehallitukselle tiedoksi.\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona: Nuorisovaltuuston toimintakertomus 2025, lähetetään sähköpostitse.\n\nValmistelu\nNuorisovaltuuston toimintasäännön (ahall 15.1.2024) mukaan nuorisovaltuusto laatii vuosittain toimintakertomuksen.",
+   "decision": "Nuorisovaltuusto hyväksyi toimintakertomuksen vuodelta 2025, ja esittää sen aluehallitukselle tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nTiia Hartikainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää merkitä tiedoksi nuorisovaltuuston toimintakertomuksen vuodelta 2025.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nPohjois-Savon nuorisovaltuuston toimitakertomus 2025\n\nValmistelu\nNuorisovaltuuston toimintasäännön (ahall 15.1.2024) mukaan nuorisovaltuusto laatii vuosittain toimintakertomuksen aluehallitukselle.\n\nNuovalt 21.01.2026 § 5\n\nValmistelija(t)\nJuho Juvenius\n\nTiia Hartikainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Nuorisovaltuusto hyväksyi toimintakertomuksen vuodelta 2025, ja esittää sen aluehallitukselle tiedoksi."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Nuorisovaltuusto hyväksyy toimintakertomuksen vuodelta 2025, ja esittää sen edelleen aluehallitukselle tiedoksi.\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona: Nuorisovaltuuston toimintakertomus 2025, lähetetään sähköpostitse.\n\nValmistelu\nNuorisovaltuuston toimintasäännön (ahall 15.1.2024) mukaan nuorisovaltuusto laatii vuosittain toimintakertomuksen."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Nuorisovaltuuston toimintakertomus v.2025",
+     "url": "https://pshva.oncloudos.com/kokous/2026948-11-235398.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "48",
+   "title": "Aluehallitukselle tiedoksi annettavat lausuntopyynnöt ja lausunnot",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026948-12",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026948-12.PDF",
+   "diary_number": null,
+   "preparer": "Janne Niemeläinen",
+   "presenter": "Hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus merkitsee saapuneet lausuntopyynnöt ja annetut lausunnot tiedoksi.\n\nToimivallan peruste\nhallintosääntö 36 §\n\nValmistelu\nAluehallituksen 2.10.2023 § 308 mukaisesti aluehallitus päättää hallintosäännön määräyksiä noudattaen, että merkittävät lausunnot esim. hyvinvointialueiden rahoitukseen, lainsäädäntöön liittyvät ja niihin rinnasteiset lausunnot antaa aluehallitus. Lausunnon merkittävyys arvioidaan asian valmistelussa.\n\nPohjois-Savon hyvinvointialueen hallintosäännön määräykset lausuntojen antamisesta antavat mahdollisuuden viranhaltijoille antaa lausuntoja tietyissä rajoissa. Mikäli annettavat lausunnot eivät ole viranhaltijoiden toimivallassa, antaa niistä lausunnot aluehallitus.\n\nLausuntopyyntöihin vastaamiselle annettu määräaika on yleensä niin lyhyt, ettei lausuntojen käsittely aluehallituksessa ole mahdollista.\n\nSaapuneet lausuntopyynnöt:\n\n- Terveyden ja hyvinvoinnin laitoksen lausuntopyyntö, Terveyden ja hyvinvoinnin laitoksen määräys sosiaalihuollon asiakasasiakirjoista\n\n- Opetus- ja kulttuuriministeriön lausuntopyyntö, ehdotukseksi kansallisiksi mediakasvatuslinjauksiksi\n\n- Lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle Pariisin pöytäkirjan täydentämisestä Suomen tasavallan hallituksen sekä Naton operaatioportaan johtoesikunnan ja Naton transformaatiojohtoportaan johtoesikunnan välillä tehdystä sopimuksesta\n\n- Opetus- ja kulttuuriministeriön lausuntopyyntö, ehdotukseksi kansallisiksi mediakasvatuslinjauksiksi\n\nAnnetut lausunnot:",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitukselle tiedoksi annettavat lausuntopyynnöt ja lausunnot\n\nValmistelija(t)\nValmistelija: Janne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus merkitsee saapuneet lausuntopyynnöt ja annetut lausunnot tiedoksi.\n\nToimivallan peruste\nhallintosääntö 36 §\n\nValmistelu\nAluehallituksen 2.10.2023 § 308 mukaisesti aluehallitus päättää hallintosäännön määräyksiä noudattaen, että merkittävät lausunnot esim. hyvinvointialueiden rahoitukseen, lainsäädäntöön liittyvät ja niihin rinnasteiset lausunnot antaa aluehallitus. Lausunnon merkittävyys arvioidaan asian valmistelussa.\n\nPohjois-Savon hyvinvointialueen hallintosäännön määräykset lausuntojen antamisesta antavat mahdollisuuden viranhaltijoille antaa lausuntoja tietyissä rajoissa. Mikäli annettavat lausunnot eivät ole viranhaltijoiden toimivallassa, antaa niistä lausunnot aluehallitus.\n\nLausuntopyyntöihin vastaamiselle annettu määräaika on yleensä niin lyhyt, ettei lausuntojen käsittely aluehallituksessa ole mahdollista.\n\nSaapuneet lausuntopyynnöt:\n\n- Terveyden ja hyvinvoinnin laitoksen lausuntopyyntö, Terveyden ja hyvinvoinnin laitoksen määräys sosiaalihuollon asiakasasiakirjoista\n\n- Opetus- ja kulttuuriministeriön lausuntopyyntö, ehdotukseksi kansallisiksi mediakasvatuslinjauksiksi\n\n- Lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle Pariisin pöytäkirjan täydentämisestä Suomen tasavallan hallituksen sekä Naton operaatioportaan johtoesikunnan ja Naton transformaatiojohtoportaan johtoesikunnan välillä tehdystä sopimuksesta\n\n- Opetus- ja kulttuuriministeriön lausuntopyyntö, ehdotukseksi kansallisiksi mediakasvatuslinjauksiksi\n\nAnnetut lausunnot:"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Terveyden ja hyvinvoinnin laitoksen lausuntopyyntö, Terveyden ja hyvinvoinnin laitoksen määräys sosiaalihuollon asiakasasiakirjoista",
+     "url": "https://pshva.oncloudos.com/kokous/2026948-12-235321.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Opetus- ja kulttuuriministeriön lausuntopyyntö, ehdotukseksi kansallisiksi mediakasvatuslinjauksiksi",
+     "url": "https://pshva.oncloudos.com/kokous/2026948-12-237323.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Opetus- ja kulttuuriministeriön lausuntopyyntö, ehdotukseksi kansallisiksi mediakasvatuslinjauksiksi",
+     "url": "https://pshva.oncloudos.com/kokous/2026948-12-237257.PDF"
+    },
+    {
+     "title": "Oheismateriaali 4 Puolustusministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle Pariisin pöytäkirjan täydentämisestä Suomen tasavallan hallituksen sekä Naton operaatioportaan johtoesikunnan ja Naton transformaatiojohto",
+     "url": "https://pshva.oncloudos.com/kokous/2026948-12-236025.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "49",
+   "title": "Lautakuntien ja jaostojen päätösten tarkistaminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026948-13",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026948-13.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Toimielimen puheenjohtaja",
+   "proposal": "Aluehallitus ei käytä otto-oikeutta toimielinten päätöksiin. Aluehallitus hyväksyy pöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nPohjois-Savon hyvinvointialueen hallintosäännössä § 57-59 on määritelty otto-oikeuden käytöstä seuraavaa:\n\nAsian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nAluehallituksella ei ole otto-oikeutta hyvinvointialueiden yhteisen toimielimen tekemiin päätöksiin.\n\nAsia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nYlemmän toimielimen käsiteltäväksi ei kuitenkaan saa ottaa:\n\n1) lain tai asetuksen mukaisia lupa-, ilmoitus- tai valvontamenettelyä koskevia asioita\n\n2) yksilöön kohdistuvia terveydenhuollon tai sosiaalitoimen asioita\n\n3) hyvinvointialuelain 54 §:ssä tarkoitetulle hyvinvointialueiden yhteiselle toimielimelle siirrettyjä asioita, jos asianomaiset hyvinvointialueet niin sopiva\n\nAsia voidaan hyvinvointialuelain 97 §:n mukaisesti ottaa lautakunnan käsiteltäväksi, jollei ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nAsian ottamisesta lautakunnan käsiteltäväksi voi päättää lautakunta, lautakunnan puheenjohtaja ja lautakunnan esittelijä.\n\nAluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan. Ilmoitus tehdään sähköisesti aluehallituksen puheenjohtajalle ja esittelijälle.\n\nPäätökset niissä asioissa, joista ei tarvitse ilmoittaa, voidaan otto-oikeuden estämättä panna täytäntöön, jollei yksittäistapauksessa ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nEsityslistan lisäaineistona jaetaan pöytäkirjat:\n\n- Ikäihmisten ja hoivapalveluiden lautakunta 15.1.2026\n\n- Perhe- ja vammaispalveluiden lautakunta -\n\n- Yleisten palveluiden lautakunta 22.1.2026\n\n- Kokonaisturvallisuuslautakunta 22.1.2026\n\n- Asiakaskokemusjaosto 14.1.2026\n\n- Tulevaisuus- ja strategiajaosto 20.1.2026\n\n- Omistajaohjaus- ja valvontajaosto 13.1.2026",
+   "decision": "Merkitään pöytäkirjaan, että:\n\n§ 49 käsitellään § 41 jälkeen.\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Lautakuntien ja jaostojen päätösten tarkistaminen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n§ 49 käsitellään § 41 jälkeen.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Toimielimen puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus ei käytä otto-oikeutta toimielinten päätöksiin. Aluehallitus hyväksyy pöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nPohjois-Savon hyvinvointialueen hallintosäännössä § 57-59 on määritelty otto-oikeuden käytöstä seuraavaa:\n\nAsian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nAluehallituksella ei ole otto-oikeutta hyvinvointialueiden yhteisen toimielimen tekemiin päätöksiin.\n\nAsia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nYlemmän toimielimen käsiteltäväksi ei kuitenkaan saa ottaa:\n\n1) lain tai asetuksen mukaisia lupa-, ilmoitus- tai valvontamenettelyä koskevia asioita\n\n2) yksilöön kohdistuvia terveydenhuollon tai sosiaalitoimen asioita\n\n3) hyvinvointialuelain 54 §:ssä tarkoitetulle hyvinvointialueiden yhteiselle toimielimelle siirrettyjä asioita, jos asianomaiset hyvinvointialueet niin sopiva\n\nAsia voidaan hyvinvointialuelain 97 §:n mukaisesti ottaa lautakunnan käsiteltäväksi, jollei ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nAsian ottamisesta lautakunnan käsiteltäväksi voi päättää lautakunta, lautakunnan puheenjohtaja ja lautakunnan esittelijä.\n\nAluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan. Ilmoitus tehdään sähköisesti aluehallituksen puheenjohtajalle ja esittelijälle.\n\nPäätökset niissä asioissa, joista ei tarvitse ilmoittaa, voidaan otto-oikeuden estämättä panna täytäntöön, jollei yksittäistapauksessa ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nEsityslistan lisäaineistona jaetaan pöytäkirjat:\n\n- Ikäihmisten ja hoivapalveluiden lautakunta 15.1.2026\n\n- Perhe- ja vammaispalveluiden lautakunta -\n\n- Yleisten palveluiden lautakunta 22.1.2026\n\n- Kokonaisturvallisuuslautakunta 22.1.2026\n\n- Asiakaskokemusjaosto 14.1.2026\n\n- Tulevaisuus- ja strategiajaosto 20.1.2026\n\n- Omistajaohjaus- ja valvontajaosto 13.1.2026"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Omistajaohjaus- ja talousjaosto 13012026 ptk",
+     "url": "https://pshva.oncloudos.com/kokous/2026948-13-234010.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 asiakaskokemusjaosto 14012026, ptk",
+     "url": "https://pshva.oncloudos.com/kokous/2026948-13-234003.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Ikäihmisten ja hoivapalveluiden lautakunta 15012026 ptk",
+     "url": "https://pshva.oncloudos.com/kokous/2026948-13-234119.PDF"
+    },
+    {
+     "title": "Oheismateriaali 4 Tulevaisuus- ja strategiajaosto 20.1.2026 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/2026948-13-237460.PDF"
+    },
+    {
+     "title": "Oheismateriaali 5 Yleisten palveluiden lautakunta 22.1.2026 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/2026948-13-236912.PDF"
+    },
+    {
+     "title": "Oheismateriaali 6 Kokonaisturvallisuuslautakunta 22.1.2026 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/2026948-13-237461.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "50",
+   "title": "Viranhaltijapäätösten tarkastaminen 12.1.-1.2.2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026948-14",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026948-14.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Toimielimen puheenjohtaja",
+   "proposal": "Aluehallitus ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Aluehallitus hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 57 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava aluehallitukselle niistä päätöksistä, jotka voidaan ottaa aluehallituksen käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava aluehallituksen alaisten viranhaltijoiden osalta aluehallitukselle.\n\nAluehallituksen alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa aluehallituksen puheenjohtajalle ja hyvinvointialuejohtajalle.\n\nAluehallitukselle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 12.1.-1.2.2026",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Viranhaltijapäätösten tarkastaminen 12.1.-1.2.2026"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Toimielimen puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Aluehallitus hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 57 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava aluehallitukselle niistä päätöksistä, jotka voidaan ottaa aluehallituksen käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava aluehallituksen alaisten viranhaltijoiden osalta aluehallitukselle.\n\nAluehallituksen alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa aluehallituksen puheenjohtajalle ja hyvinvointialuejohtajalle.\n\nAluehallitukselle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 12.1.-1.2.2026"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Viranhaltijapäätösluettelo 12.1.2026-1.2.2026 otsikot",
+     "url": "https://pshva.oncloudos.com/kokous/2026948-14-237455.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "51",
+   "title": "Muut asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026948-15",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026948-15.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Merkitään tiedoksi.\n\nPohjois-Savon hyvinvointialueen pelastuslaitoksen vastaus valtiontalouden tarkastusviraston tietopyyntöön sopimusperusteisesta palokuntatoiminnasta",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään tiedoksi.\n\nPohjois-Savon hyvinvointialueen pelastuslaitoksen vastaus valtiontalouden tarkastusviraston tietopyyntöön sopimusperusteisesta palokuntatoiminnasta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "52",
+   "title": "Oikaisuvaatimus, terveydenhuollon kustannukset (JulkL 24 §, kohta 25)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026948-16",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026948-16.PDF",
+   "diary_number": "3423/03.06.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "53",
+   "title": "Oikaisuvaatimus, hammasproteesi (JulkL 24 §, kohta 25",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026948-17",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026948-17.PDF",
+   "diary_number": "4785/03.06.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "54",
+   "title": "Oikaisuvaatimus, tekohampaat (JulkL 24 §, kohta 25)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026948-18",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026948-18.PDF",
+   "diary_number": "5693/03.06.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "55",
+   "title": "Oikaisuvaatimus, puhelin ja laturi (JulkL 24 §, kohta 25)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026948-19",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026948-19.PDF",
+   "diary_number": "6598/03.06.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "56",
+   "title": "Testamentin vastaanottaminen (JulkL 24 §, kohta 23)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026948-20",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2026948-20.PDF",
+   "diary_number": "5350/02.07.01/2024",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä.\n\nPuheenjohtaja päätti kokouksen klo 12.38."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Raatikainen Riitta",
+   "role": "aluehallituksen puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Hedman Pia",
+   "role": "aluehallituksen 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Rossi Markku",
+   "role": "aluehallituksen 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kanniainen Aino",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lötjönen Vesa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Miettinen Heikki",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pitkänen Juha",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Rautiainen Merja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Taipale Pekka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Vornanen Ahti-Pekka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Väätäinen Tuula",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Åhman Kati",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kartimo-Kröger Susanna",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kokki Hannu",
+   "role": "aluevaltuuston puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Pellikka Minna",
+   "role": "aluevaltuuston 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Partanen Karoliina",
+   "role": "aluevaltuuston 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Korhonen Marko",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Niemeläinen Janne",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Antikainen Mari",
+   "role": "henkilöstöjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Janhonen Kari",
+   "role": "talousjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Jestola Eija",
+   "role": "toimilinjajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kantanen Kati",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Koponen Jukka",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Korhonen Mikko",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Lampi Jussi",
+   "role": "strategiajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Pekkarinen Tuomo",
+   "role": "tietohallintojohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Remes Sami",
+   "role": "toimilinjajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Saarinen Jari",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Solmari Kirsi",
+   "role": "sosiaalihuollon asiantuntijajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Mykkänen Minna",
+   "role": "johtaja ylihoitaja",
+   "group": "other"
+  },
+  {
+   "name": "Kauppinen Virpi",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Räsänen Henna",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Kurola Jouni",
+   "role": "asiantuntija",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026948",
+  "fetched_at": "2026-10-14T18:15:15+00:00",
+  "content_hash": "387677a7acc18c24",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T18:15:15+00:00"
+ }
+}

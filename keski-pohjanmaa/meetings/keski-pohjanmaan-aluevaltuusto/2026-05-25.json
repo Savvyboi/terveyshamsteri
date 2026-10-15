@@ -1,0 +1,1134 @@
+{
+ "id": "keski-pohjanmaan-aluevaltuusto/2026-05-25",
+ "region": "keski-pohjanmaa",
+ "body_id": "keski-pohjanmaan-aluevaltuusto",
+ "body_name": "Keski-Pohjanmaan aluevaltuusto",
+ "date": "2026-05-25",
+ "stage": "minutes",
+ "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261110",
+ "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/20261110.PDF",
+ "time": "10:00 - 13:19",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "18",
+   "title": "Aluevaltuuston kokouksen avaus",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261110-1",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/20261110-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Aluevaltuuston puheenjohtaja avasi kokouksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Päätöshdotus\nAluevaltuuston puheenjohtaja avaa kokouksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuuston puheenjohtaja avasi kokouksen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "19",
+   "title": "Nimenhuuto",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261110-2",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/20261110-2.PDF",
+   "diary_number": "2587/00.02.00/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Suoritetaan nimenhuuto ja todetaan läsnäolijat. Valtuutetut ja varavaltuutetut ilmenevät liitteestä, joka toimii myös äänestysluettelona.\n\nLiite Jäsen- ja äänestysluettelo",
+   "decision": "Suoritettiin nimenhuuto ja todettiin läsnäolijat. Valtuutetut ja varavaltuutetut ilmenevät liitteestä, joka toimii myös äänestysluettelona.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Päätösehdotus",
+     "text": "Suoritetaan nimenhuuto ja todetaan läsnäolijat. Valtuutetut ja varavaltuutetut ilmenevät liitteestä, joka toimii myös äänestysluettelona.\n\nLiite Jäsen- ja äänestysluettelo"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Suoritettiin nimenhuuto ja todettiin läsnäolijat. Valtuutetut ja varavaltuutetut ilmenevät liitteestä, joka toimii myös äänestysluettelona."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Valtuuston jasen_ ja aanestysluettelo_nimet ja puolueet",
+     "url": "https://kpshp-hva.oncloudos.com/kokous/20261110-2-139654.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "20",
+   "title": "Kokouksen laillisuuden ja päätösvaltaisuuden toteaminen",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261110-3",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/20261110-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokouksen laillisuus ja päätösvaltaisuus.",
+   "decision": "Todettiin kokous lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvointialuelain 108 §:n mukaan aluevaltuusto on päätösvaltainen, kun vähintään kaksi kolmasosaa valtuutetuista on läsnä.\n\nLäsnä oleviksi katsotaan myös ne toimielimen jäsenet, jotka osallistuvat kokoukseen sähköisesti.\n\nKeski-Pohjanmaan hyvinvointialueen hallintosäännön 111 §:n mukaan kokouskutsu on lähetettävä viimeistään viisi (5) päivää ennen aluevaltuuston kokousta kullekin valtuutetulle\n\nsekä niille, joilla on kokouksessa läsnäolo-oikeus tai -velvollisuus. Samassa ajassa on kokouksesta tiedotettava\n\nhyvinvointialueen verkkosivuilla."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokouksen laillisuus ja päätösvaltaisuus."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Todettiin kokous lailliseksi ja päätösvaltaiseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "21",
+   "title": "Työjärjestyksen hyväksyminen",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261110-4",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/20261110-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluevaltuusto päättää hyväksyä esityslistan kokouksen työjärjestykseksi.",
+   "decision": "Valtuutettu Piia Rautiola ilmoitti jättävänsä aloitteen ja valtuutettu Pasi Kanniainen ilmoitti Keskustan aluevaltuustoryhmän jättävän aloitteen asian § 32 Tiedoksi/Muut asiat/Aloitteet kohdalla. Näillä lisäyksillä päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluevaltuusto päättää hyväksyä esityslistan kokouksen työjärjestykseksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Valtuutettu Piia Rautiola ilmoitti jättävänsä aloitteen ja valtuutettu Pasi Kanniainen ilmoitti Keskustan aluevaltuustoryhmän jättävän aloitteen asian § 32 Tiedoksi/Muut asiat/Aloitteet kohdalla. Näillä lisäyksillä päätösehdotus hyväksyttiin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "22",
+   "title": "Pöytäkirjan tarkastus",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261110-5",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/20261110-5.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Valitaan kaksi pöytäkirjan tarkastajaa tarkastamaan tästä kokouksesta laadittu pöytäkirja. Tarkastusvuorossa ovat valtuutetut Ville Hirvikoski ja Reetta Hjelm.",
+   "decision": "Pöytäkirjantarkastajiksi valittiin valtuutetut Ville Hirvikoski ja Reetta Hjelm.\n\nTodettiin, että pöytäkirjantarkastajat toimivat kokouksessa äänestyksissä ääntenlaskijoina.\n\nMerk. hyvinvointialuejohtaja Mikko Komulainen piti kokouksessa puheenvuoron tilinpäätökseen, henkilöstötilinpäätökseen ja alkuvuoteen liittyen tämän asian käsittelyn jälkeen klo 10.15–10.29.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Keski-Pohjanmaan hyvinvointialueen hallintosäännön 132 §:n mukaan aluevaltuuston pöytäkirjaan sovelletaan, mitä pöytäkirjan laatimisesta määrätään hyvinvointialuelain 112 §:ssä. Pöytäkirja voidaan tarkastaa sähköisesti. Aluevaltuusto valitsee jokaisessa kokouksessaan kaksi valtuutettua tarkastamaan kokouksesta laaditun pöytäkirjan siltä osin kuin pöytäkirjaa ei tarkasteta kokouksessa."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Valitaan kaksi pöytäkirjan tarkastajaa tarkastamaan tästä kokouksesta laadittu pöytäkirja. Tarkastusvuorossa ovat valtuutetut Ville Hirvikoski ja Reetta Hjelm."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin valtuutetut Ville Hirvikoski ja Reetta Hjelm.\n\nTodettiin, että pöytäkirjantarkastajat toimivat kokouksessa äänestyksissä ääntenlaskijoina.\n\nMerk. hyvinvointialuejohtaja Mikko Komulainen piti kokouksessa puheenvuoron tilinpäätökseen, henkilöstötilinpäätökseen ja alkuvuoteen liittyen tämän asian käsittelyn jälkeen klo 10.15–10.29."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "23",
+   "title": "Osavuosikatsaus 1-3/2026",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261110-6",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/20261110-6.PDF",
+   "diary_number": "949/00.01.02/2026",
+   "preparer": "talousjohtaja Helinä Saarela; Liitteenä esitetään Keski-Pohjanmaan hyvinvointialueen osavuosikatsaus 1-3/2026. Katsaus sisältää seuraavat asiat:; Sitovat tavoitteet: tulos vs. talousarvio (Soite yhteensä ja toimialueet), investoinnit, talousarviolainat; Toimialueiden talouden ja toiminnan katsaukset",
+   "presenter": null,
+   "proposal": "Aluehallituksen esityksen mukaisesti aluevaltuusto merkitsee tiedoksi osavuosikatsauksen 1-3/2026.",
+   "decision": "Aluevaltuusto hyväksyi päätösehdotuksen yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Keski-Pohjanmaan aluehallitus 11.05.2026 § 98"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "talousjohtaja Helinä Saarela\n\nLiitteenä esitetään Keski-Pohjanmaan hyvinvointialueen osavuosikatsaus 1-3/2026. Katsaus sisältää seuraavat asiat:\n\nSitovat tavoitteet: tulos vs. talousarvio (Soite yhteensä ja toimialueet), investoinnit, talousarviolainat\n\nToimialueiden talouden ja toiminnan katsaukset\n\nKeskeiset henkilöstöön liittyvät asiat\n\nSisäisen tarkastuksen havainnot\n\nSuoritemittaristo\n\nOsavuosikatsauksen esittelyn yhteydessä toimialuejohtajat käyvät lävitse keskeiset nostot omaa toimialuettaan koskevista asioista erityisesti tulevaisuuteen suuntautuen.\n\nLiite Osavuosikatsaus 1-3/2026"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää\n\n1. merkitä tiedoksi osavuosikatsauksen 1-3/2026;\n\n2. esittää aluevaltuustolle, että se merkitsee tiedoksi osavuosikatsauksen 1-3/2026."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti\n\n1. merkitä tiedoksi osavuosikatsauksen 1-3/2026;\n\n2. esittää aluevaltuustolle, että se merkitsee tiedoksi osavuosikatsauksen 1-3/2026.\n\nMerk. talousjohtaja antoi asiaan alustuksen kokouksessa.\n\nLiite\nOsavuosikatsaus 1-3/2026"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallituksen esityksen mukaisesti aluevaltuusto merkitsee tiedoksi osavuosikatsauksen 1-3/2026."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto hyväksyi päätösehdotuksen yksimielisesti."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Osavuosikatsaus 1-3 2026",
+     "url": "https://kpshp-hva.oncloudos.com/kokous/20261110-6-138843.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "24",
+   "title": "Tilinpäätös 2025",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261110-7",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/20261110-7.PDF",
+   "diary_number": "98/00.02.00/2026",
+   "preparer": "Talousjohtaja Helinä Saarela; Keski-Pohjanmaan hyvinvointialue Soiten tilinpäätös 2025 noudattaa kirjanpitolautakunnan hyvinvointi- ja kuntajaoston hyvinvointialueita koskevan yleisohjeen tietosisältöä ja rakennetta. Tilinpäätös antaa oikean ja riittävän kuvan hyvinvointialueen toiminnasta ja taloud",
+   "presenter": null,
+   "proposal": "Aluehallituksen esityksen mukaisesti aluevaltuusto päättää\n\n1. hyväksyä tilikauden 2025 tuloksen +9.709.892,19 euroa käsittelystä seuraavaa:\n\na) Tuloutetaan opinto- ja viihdytysrahastosta 21.009,76 euroa.\n\nb) kirjataan tilikauden ylijäämä +9.730.901,95 euroa taseeseen edellisten tilikausien yli-/alijäämään.\n\nLisäksi tarkastuslautakunnan esityksen mukaisesti aluevaltuusto päättää hyväksyä tilinpäätöksen 2025 ja myöntää vastuuvapauden tilivelvollisille tilikaudelta 2025.",
+   "decision": "Aluevaltuusto hyväksyi päätösehdotuksen yksimielisesti.\n\nMerk. johtajaylilääkäri Katja Linnavuori poistui kokouksesta klo 11.03 tätä asiaa koskevien ryhmäpuheenvuorojen aikana ennen päätöksentekoa.\n\nValtuutettu Janne Jukkola poistui kokouksesta klo 11.30 tätä asiaa koskevien ryhmäpuheenvuorojen aikana ennen päätöksentekoa.\n\nValtuutettu, 2. vpj Asko Syrjälä oli poissa kokouksesta klo 11.35–11.38 tätä asiaa koskevien ryhmäpuheenvuorojen aikana ennen päätöksentekoa.\n\nNuorisovaltuuston edustaja Pietari Wishart poistui kokouksesta klo 11.37 tätä asiaa koskevien ryhmäpuheenvuorojen aikana ennen päätöksentekoa.\n\nPidettiin tauko tämän asian käsittelyn ja päätöksenteon jälkeen klo 11.47–12.03.\n\nValtuutettu Anja Törmä poistui kokouksesta tauon aikana klo 11.48.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Keski-Pohjanmaan aluehallitus 18.03.2026 § 50"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Talousjohtaja Helinä Saarela\n\nKeski-Pohjanmaan hyvinvointialue Soiten tilinpäätös 2025 noudattaa kirjanpitolautakunnan hyvinvointi- ja kuntajaoston hyvinvointialueita koskevan yleisohjeen tietosisältöä ja rakennetta. Tilinpäätös antaa oikean ja riittävän kuvan hyvinvointialueen toiminnasta ja taloudesta. Dokumentti sisältää muun muassa toimintakertomuksen, henkilöstökatsauksen, sisäisen valvonnan havainnot, tuloslaskelman, taseen, rahoituslaskelman ja liitetiedot.\n\nVuosi 2025 käänsi Keski-Pohjanmaan hyvinvointialueen tuloksen suunnan. Soite 2030 – uudistamis- ja muutosohjelman toteuttamista jatkettiin, millä oli selkeä vaikutus tuloksen kääntymiseen. Hyvinvointialueen kahden ensimmäisen toimintavuoden tulokset olivat alijäämäiset. Vuosi 2025 päätyi noin 9,7 miljoonan euron ylijäämään. Talousarvio (muutosTA2025) oli rakennettu -7,1 miljoonaa euroa alijäämäiseksi.\n\nYlijäämäisyys ja talousarviota parempi tulos syntyi usean asian yhteisvaikutuksena. Ulkoiset tuotot ylittivät edellisvuoden 12,9 miljoonalla eurolla (+16,1 %) ja talousarvion. Ulkoiset kulut toteutuivat talousarviota pienempinä, mutta kasvoivat edellisvuodesta noin yhdeksällä miljoonalla eurolla (+2,2 %). Korkokulut ja poistot alittivat talousarvion ja edellisvuoden toteuman. Valtion yleiskatteinen rahoitus oli 333,4 miljoonaa euroa, joka on 21,4 miljoonaa euroa edellisvuotta enemmän (+6,9 %).\n\nKeski-Pohjanmaan hyvinvointialueen kolmen ensimmäisen toimintavuoden jälkeinen kumulatiivinen alijäämä on noin 27,5 miljoonaa euroa: v. 2023 -20,5 M€, v. 2024 -16,8 M€ ja v. 2025 +9,7 M€. Hyvinvointialuelain 115 §:n mukaisesti kumulatiivisen alijäämän (vuodet 2023-2026) tulee olla katettuna vuoden 2026 loppuun mennessä. Taloussuunnitelma 2026-2028 sisältäen talousarvion 2026 on rakennettu siten, että kumulatiivinen alijäämä on katettuna vuoden 2028 loppuun mennessä. Kattaminen vuoden 2026 loppuun mennessä ei ole realistista alijäämän määrä huomioiden. Taloussuunnitelmassa on huomioitu valmisteilla oleva väliaikainen hyvinvointialuelain muutos, joka mahdollistaisi talouttaan täysipainoisesti sopeuttaneille hyvinvointialueille lisäajan alijäämien kattamiseen enintään vuoden 2028 loppuun mennessä. Hallitus täsmensi 3.3.2026 lainvalmistelua siten, että lisäaikaa olisi mahdollista saada enintään vuoden 2029 loppuun mennessä.\n\nHyvinvointialuelain 117 §:n mukaisesti aluehallituksen on laadittava tilikaudelta tilinpäätös tilikautta seuraavan vuoden maaliskuun loppuun mennessä ja annettava se tilintarkastajan tarkastettavaksi. Tilintarkastajan on tarkastettava tilinpäätös toukokuun loppuun mennessä. Aluehallituksen on saatettava tilinpäätös tilintarkastuksen jälkeen aluevaltuuston käsiteltäväksi. Aluevaltuuston on käsiteltävä tilinpäätös kesäkuun loppuun mennessä. Tilinpäätökseen kuuluvat tase, tuloslaskelma, rahoituslaskelma ja niiden liitteenä olevat tiedot sekä talousarvion toteutumisvertailu ja toimintakertomus. Tilinpäätöksen tulee antaa oikea ja riittävä kuva hyvinvointialueen tuloksesta, taloudellisesta asemasta, rahoituksesta sekä toiminnasta. Tätä varten tarpeelliset lisätiedot on ilmoitettava liitetiedoissa. Tilinpäätöksen allekirjoittavat aluehallituksen jäsenet sekä hyvinvointialuejohtaja.\n\nHyvinvointialuelain 118 §:n mukaan sellaisen hyvinvointialueen, joka tytäryhteisöineen muodostaa konsernin, tulee laatia ja sisällyttää tilinpäätökseensä konsernitilinpäätös. Konsernitilinpäätös tulee laatia samalta päivältä kuin hyvinvointialueen tilinpäätös. Konsernitilinpäätös laaditaan konserniyhteisöjen taseiden ja tuloslaskelmien sekä niiden liitetietojen yhdistelmänä. Konsernitilinpäätökseen sisällytetään lisäksi konsernin rahoituslaskelma, jossa annetaan selvitys konsernin varojen hankinnasta ja niiden käytöstä tilikauden aikana. Hyvinvointiyhtymän tilinpäätös sekä hyvinvointialueiden tai hyvinvointialueen ja hyvinvointiyhtymän yhteisessä määräysvallassa olevan yhtiön tilinpäätös yhdistellään hyvinvointialueen konsernitilinpäätökseen. Tämä koskee myös hyvinvointialueiden ja kuntien yhteisessä määräysvallassa olevaa yhtiötä sekä hyvinvointialueiden ja valtion yhteisessä määräysvallassa olevaa yhtiötä. Sellaisen hyvinvointialueen, jolla ei ole tytäryhteisöjä, mutta joka on jäsen hyvinvointiyhtymässä tai on edellä tässä pykälässä tarkoitetun yhtiön osakas, tulee sisällyttää tilinpäätökseensä konsernitilinpäätöstä vastaavat tiedot.\n\nHyvinvointialuelain 119 §:n mukaan toimintakertomuksessa on esitettävä selvitys aluevaltuuston asettamien toiminnan ja talouden tavoitteiden toteutumisesta hyvinvointialueella ja hyvinvointialuekonsernissa. Toimintakertomuksessa on myös annettava tietoja sellaisista hyvinvointialueen ja konsernin talouteen liittyvistä olennaisista asioista, jotka eivät käy ilmi hyvinvointialueen tai konsernin taseesta, tuloslaskelmasta tai rahoituslaskelmasta. Tällaisia asioita ovat ainakin arvio merkittävimmistä riskeistä ja epävarmuustekijöistä, todennäköisestä tulevasta kehityksestä sekä tiedot sisäisen valvonnan, sisäisen tarkastuksen ja riskienhallinnan järjestämisestä ja keskeisistä johtopäätöksistä.\n\nToimintakertomuksessa on esitettävä selvitys talouden tasapainotuksen toteutumisesta tilikaudella sekä voimassa olevan taloussuunnitelman riittävyydestä talouden tasapainottamiseksi. Lisäksi on esitettävä selvitys hyvinvointialueen ottamien pitkäaikaisten lainojen lisäyksistä ja investoinneista.\n\nHallintosäännön 19 §:n mukaan aluevaltuusto päättää hyvinvointialueen tilinpäätöksen hyväksymisestä ja vastuuvapaudesta. Hallintosäännön 92 §:n mukaan tarkastuslautakunta tekee aluevaltuustolle esityksen siitä, voidaanko tilinpäätös hyväksyä ja vastuuvapaus myöntää tilivelvollisille.\n\nLiite\nTilinpäätös 2025"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\n1. allekirjoittaa vuoden 2025 tilinpäätöksen;\n\n2. antaa tilinpäätöksen siihen liittyvine asiakirjoineen ja allekirjoituksineen tilintarkastajan tarkastettavaksi ja tarkastuslautakunnan arvioitavaksi;\n\n3. saattaa tilinpäätöksen ja tilintarkastuskertomuksen aluevaltuuston käsiteltäväksi;\n\n4. antaa valmisteleville viranhaltijoille oikeuden tehdä tilinpäätökseen mahdollisia teknisluonteisia korjauksia ennen aluevaltuustokäsittelyä;\n\n5. esittää aluevaltuustolle tilikauden 2025 tuloksen +9.709.892,19 euroa käsittelystä seuraavaa:\n\na) Tuloutetaan opinto- ja viihdytysrahastosta 21.009,76 euroa;\n\nb) Kirjataan tilikauden ylijäämä +9.730.901,95 euroa taseeseen edellisten tilikausien yli-/alijäämään."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti yksimielisesti:\n\n1. allekirjoittaa vuoden 2025 tilinpäätöksen;\n\n2. antaa tilinpäätöksen siihen liittyvine asiakirjoineen ja allekirjoituksineen tilintarkastajan tarkastettavaksi ja tarkastuslautakunnan arvioitavaksi;\n\n3. saattaa tilinpäätöksen ja tilintarkastuskertomuksen aluevaltuuston käsiteltäväksi;\n\n4. antaa valmisteleville viranhaltijoille oikeuden tehdä tilinpäätökseen mahdollisia teknisluonteisia korjauksia ennen aluevaltuustokäsittelyä;\n\n5. esittää aluevaltuustolle tilikauden 2025 tuloksen +9.709.892,19 euroa käsittelystä seuraavaa:\n\na) Tuloutetaan opinto- ja viihdytysrahastosta 21.009,76 euroa;\n\nb) Kirjataan tilikauden ylijäämä +9.730.901,95 euroa taseeseen edellisten tilikausien yli-/alijäämään.\n\nMerk. talousjohtaja antoi asiaan alustuksen kokouksessa.\n\nLiite A Keski-Pohjanmaan hyvinvointialueen tilinpäätös 2025\n\nliitteenä allekirjoitukset sisältävä versio (ei verkkojulkinen) ja\n\nversio ilman allekirjoituksia\n\nLiite B Tilintarkastuskertomus\n\nliitteenä allekirjoituksen sisältävä versio (ei verkkojulkinen) ja\n\nversio ilman allekirjoitusta\n\nKeski-Pohjanmaan hyvinvointialueen tarkastuslautakunta on käsitellyt hyvinvointialueen tilinpäätöksen ja antanut arviointikertomuksen. Hyvinvointialueen tarkastuslautakunta saattaa arviointikertomuksen vuodelta 2025 aluevaltuustolle tiedoksi ja esittää aluevaltuustolle vuoden 2025 tilinpäätöksen vahvistamista ja vastuuvapauden myöntämistä tilivelvollisille tilikaudella 2025."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallituksen esityksen mukaisesti aluevaltuusto päättää\n\n1. hyväksyä tilikauden 2025 tuloksen +9.709.892,19 euroa käsittelystä seuraavaa:\n\na) Tuloutetaan opinto- ja viihdytysrahastosta 21.009,76 euroa.\n\nb) kirjataan tilikauden ylijäämä +9.730.901,95 euroa taseeseen edellisten tilikausien yli-/alijäämään.\n\nLisäksi tarkastuslautakunnan esityksen mukaisesti aluevaltuusto päättää hyväksyä tilinpäätöksen 2025 ja myöntää vastuuvapauden tilivelvollisille tilikaudelta 2025."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto hyväksyi päätösehdotuksen yksimielisesti.\n\nMerk. johtajaylilääkäri Katja Linnavuori poistui kokouksesta klo 11.03 tätä asiaa koskevien ryhmäpuheenvuorojen aikana ennen päätöksentekoa.\n\nValtuutettu Janne Jukkola poistui kokouksesta klo 11.30 tätä asiaa koskevien ryhmäpuheenvuorojen aikana ennen päätöksentekoa.\n\nValtuutettu, 2. vpj Asko Syrjälä oli poissa kokouksesta klo 11.35–11.38 tätä asiaa koskevien ryhmäpuheenvuorojen aikana ennen päätöksentekoa.\n\nNuorisovaltuuston edustaja Pietari Wishart poistui kokouksesta klo 11.37 tätä asiaa koskevien ryhmäpuheenvuorojen aikana ennen päätöksentekoa.\n\nPidettiin tauko tämän asian käsittelyn ja päätöksenteon jälkeen klo 11.47–12.03.\n\nValtuutettu Anja Törmä poistui kokouksesta tauon aikana klo 11.48."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite A_Tilinpäätös 2025_Soite sis aluehallituksen jälkeen tehdyt tekniset muutokset_ilman allekirjoituksia",
+     "url": "https://kpshp-hva.oncloudos.com/kokous/20261110-7-139200.PDF"
+    },
+    {
+     "title": "Liite B_Tilintarkastuskertomus 2025 Soite_ilman allekirj",
+     "url": "https://kpshp-hva.oncloudos.com/kokous/20261110-7-139221.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "25",
+   "title": "Arviointikertomus 2025",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261110-8",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/20261110-8.PDF",
+   "diary_number": "98/00.02.00/2026",
+   "preparer": "Pöytäkirjanpitäjä, Maritta Hintsala; Hyvinvointialuelain 125 §:n mukaan tarkastuslautakunnan tehtävänä on arvioida, ovatko aluevaltuuston asettamat toiminnan ja talouden tavoitteet hyvinvointialueella toteutuneet ja onko toiminta järjestetty tuloksellisella ja tarkoituksenmukaisella tavalla. Arvioin",
+   "presenter": null,
+   "proposal": "Tarkastuslautakunnan esityksen mukaisesti aluevaltuusto merkitsee arviointikertomuksen 2025 tiedoksi ja lähettää sen edelleen aluehallitukselle toimenpiteitä varten.",
+   "decision": "Aluevaltuusto hyväksyi päätösehdotuksen yksimielisesti.\n\nMerk. nuorisovaltuuston edustaja Pietari Wishart ja johtajaylilääkäri Katja Linnavuori palasivat kokoukseen klo 12.27 tätä asiaa koskevan keskustelun aikana ennen päätöksentekoa.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Keski-Pohjanmaan tarkastuslautakunta 09.04.2026 § 21"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Pöytäkirjanpitäjä, Maritta Hintsala\n\nHyvinvointialuelain 125 §:n mukaan tarkastuslautakunnan tehtävänä on arvioida, ovatko aluevaltuuston asettamat toiminnan ja talouden tavoitteet hyvinvointialueella toteutuneet ja onko toiminta järjestetty tuloksellisella ja tarkoituksenmukaisella tavalla. Arvioinnin tulokset esitetään arviointikertomuksessa."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Tarkastuslautakunta käynnistää vuoden 2025 arviointikertomuksen laadinnan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta käynnisti vuoden 2025 arviointikertomuksen laadinnan.\n\nMerk.tiedoksi Jukka Ylikarjula poistui kokouksesta klo 12.12.\n\nTarkastuslautakunta piti tauon klo 12.12.-12.50.\n\nKeski-Pohjanmaan tarkastuslautakunta 16.04.2026 § 25"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Pöytäkirjanpitäjä Maritta Hintsala"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Tarkastuslautakunta jatkaa arviointikertomuksen laatimista."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta jatkoi arvointikertomuksen laatimista.\n\nTarkastuslautakunta piti tauon klo 11.43–12.37.\n\nKeski-Pohjanmaan tarkastuslautakunta 23.04.2026 § 29"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Pöytäkirjanpitäjä Maritta Hintsala"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Tarkastuslautakunta jatkaa arviointikertomuksen laatimista."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta jatkoi arviointikertomuksen laatimista.\n\nMerk. tiedoksi Erkki Huuki poistui kokouksesta klo 12.34.\n\nKeski-Pohjanmaan tarkastuslautakunta 30.04.2026 § 33"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Pöytäkirjanpitäjä Maritta Hintsala"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Tarkastuslautakunta jatkaa arvointikertomuksen laatimista."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta jatkoi arviointikertomuksen laatimista.\n\nMerk.tiedoksi Minna Björk saapui kokoukseen klo 9.37.\n\nTarkastuslautakunta piti tauon klo 11.35-12.20.\n\nMerk. tiedoksi Tiina Tervola poistui kokouksesta klo 11.33.\n\nKeski-Pohjanmaan tarkastuslautakunta 07.05.2026 § 38"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Pöytäkirjanpitäjä Maritta Hintsala"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Tarkastuslautakunta viimeistelee ja allekirjoittaa arviointikerto-muksen ja esittää sen aluevaltuuston käsiteltäväksi ja toimenpiteitä varten."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta viimeisteli ja allekirjoittaa arviointikertomuksen ja esittää sen aluevaltuuston käsiteltäväksi ja toimenpiteitä varten.\n\nMerk. tiedoksi Erkki Huuki ja Minna Björk poistuivat kokouksesta klo 12.05.\n\nTarkastuslautakunta piti tauon klo 12.08-12.50.\n\nLiite\nArviointikertomus 2025"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Tarkastuslautakunnan esityksen mukaisesti aluevaltuusto merkitsee arviointikertomuksen 2025 tiedoksi ja lähettää sen edelleen aluehallitukselle toimenpiteitä varten."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto hyväksyi päätösehdotuksen yksimielisesti.\n\nMerk. nuorisovaltuuston edustaja Pietari Wishart ja johtajaylilääkäri Katja Linnavuori palasivat kokoukseen klo 12.27 tätä asiaa koskevan keskustelun aikana ennen päätöksentekoa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Arviointikertomus 2025",
+     "url": "https://kpshp-hva.oncloudos.com/kokous/20261110-8-139812.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "26",
+   "title": "Henkilöstötilinpäätös 2025",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261110-9",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/20261110-9.PDF",
+   "diary_number": "98/00.02.00/2026",
+   "preparer": "Henkilöstöjohtaja Markku Hämäläinen, ; Palvelussuhdepäällikkö Mervi Salonen, ; HR-controller Elina Anttila, ; Työhyvinvointipäällikkö Jukka Aro, ; Koulutuspäällikkö Lotta Brännkärr, ; Rekrytointivastaava Pasi Hautala; Keski-Pohjanmaan hyvinvointialueen henkilöstötilinpäätöksessä kuvataan keskeiset h",
+   "presenter": null,
+   "proposal": "Aluehallituksen esityksen mukaisesti aluevaltuusto merkitsee tiedoksi henkilöstötilinpäätöksen 2025.",
+   "decision": "Aluevaltuusto hyväksyi päätösehdotuksen yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Keski-Pohjanmaan aluehallitus 18.03.2026 § 63"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Henkilöstöjohtaja Markku Hämäläinen, ; Palvelussuhdepäällikkö Mervi Salonen, ; HR-controller Elina Anttila, ; Työhyvinvointipäällikkö Jukka Aro, ; Koulutuspäällikkö Lotta Brännkärr, ; Rekrytointivastaava Pasi Hautala\n\nKeski-Pohjanmaan hyvinvointialueen henkilöstötilinpäätöksessä kuvataan keskeiset henkilöstöä kuvaavat tunnusluvut vuodelta 2025. Henkilöstötilinpäätös tarkastelee muun muassa henkilöstön määrää, rakennetta, poissaoloja ja henkilöstökustannuksia sekä toimintavuoden 2025 aikana merkittäviä henkilöstöön kohdistuneita toimenpiteitä. Lisäksi henkilöstötilinpäätös sisältää tietoja työterveyshuollon palveluista ja niiden kustannuksista, työhyvinvoinnista ja työturvallisuudesta, osaamisen kehittämisestä sekä henkilöstövoimavarojen hallintaan liittyvästä rekrytoinnin toteuttamisesta.\n\nLiite: Henkilöstötilinpäätös 2025"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää\n\n1. hyväksyä henkilöstötilinpäätöksen 2025;\n\n2. esittää aluevaltuustolle, että se merkitsee tiedoksi henkilöstötilinpäätöksen 2025."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti yksimielisesti\n\n1. hyväksyä henkilöstötilinpäätöksen 2025;\n\n2. esittää aluevaltuustolle, että se merkitsee tiedoksi henkilöstötilinpäätöksen 2025.\n\nMerk. asioiden alustukset tauon jälkeen ennen tämän asian käsittelyä seuraavasti:\n\nklo 12.09–12.21: § 65 henkilöstöjohtaja Markku Hämäläinen ja siivoustyönjohtaja Kaija Märsy;\n\nklo 12.21–13.14: § 63, § 64 ja § 66 henkilöstöjohtaja Markku Hämäläinen.\n\nAluevaltuuston 2. varapuheenjohtaja Asko Syrjälä poistui §:ää 66 koskevan alustuksen aikana klo 13.02.\n\nLiite: Henkilöstötilinpäätös 2025"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallituksen esityksen mukaisesti aluevaltuusto merkitsee tiedoksi henkilöstötilinpäätöksen 2025."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto hyväksyi päätösehdotuksen yksimielisesti."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Henkilöstötilinpäätös 2025",
+     "url": "https://kpshp-hva.oncloudos.com/kokous/20261110-9-133533.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "27",
+   "title": "Keski-Pohjanmaan hyvinvointialueen alueellinen hyvinvointikertomus 2025 ja hyvinvointisuunnitelma 2026-2029",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261110-10",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/20261110-10.PDF",
+   "diary_number": "88/00.02.01/2022",
+   "preparer": "Yhteistyöjohtaja Minna Lönnbäck, osallisuus- ja asiakkuuspäällikkö Jussi Salminen, hyvinvointikoordinaattori Henri Nevalainen, hyvinvointikoordinaattori Johanna Lång, kehittämiskoordinaattori Satu Marjakangas, kehittäjäkoordinaattori Seija Häggdahl; Hyvinvointialueen on valmisteltava aluevaltuustoll",
+   "presenter": null,
+   "proposal": "Aluehallituksen esityksen mukaisesti aluevaltuusto päättää hyväksyä Keski-Pohjanmaan hyvinvointialueen alueellisen hyvinvointikertomuksen 2025 ja hyvinvointisuunnitelman 2026-2026 sekä sen sisältämät Keski-Pohjanmaan hyvinvointialue Soiten lasten ja nuorten hyvinvointisuunnitelman 2026-2029, Keski-Pohjanmaan hyvinvointialue Soiten ikääntyneiden hyvinvointisuunnitelman 2026-2029, Keski-Pohjanmaan hyvinvointialue Soiten opiskeluhuoltosuunnitelman 2026-2028 ja Keski-Pohjanmaan hyvinvointialue Soiten ehkäisevän päihdetyön suunnitelman 2026-2029.",
+   "decision": "Todettiin, että päätösehdotuksessa on kirjoitusvirhe vuosiluvussa kohdassa ”hyvinvointisuunnitelman 2026-2026” ja että vuosiluku kirjataan oikein muotoon 2026-2029 aluevaltuuston päätökseen.\n\nAluehallituksen esityksen mukaisesti aluevaltuusto päätti hyväksyä Keski-Pohjanmaan hyvinvointialueen alueellisen hyvinvointikertomuksen 2025 ja hyvinvointisuunnitelman 2026-2029 sekä sen sisältämät Keski-Pohjanmaan hyvinvointialue Soiten lasten ja nuorten hyvinvointisuunnitelman 2026-2029, Keski-Pohjanmaan hyvinvointialue Soiten ikääntyneiden hyvinvointisuunnitelman 2026-2029, Keski-Pohjanmaan hyvinvointialue Soiten opiskeluhuoltosuunnitelman 2026-2028 ja Keski-Pohjanmaan hyvinvointialue Soiten ehkäisevän päihdetyön suunnitelman 2026-2029.\n\nMerk. valtuutettu Anna Nurmi-Lehto poistui kokouksesta tätä asiaa koskevan keskustelun aikana ennen päätöksentekoa klo 12.37.\n\nValtuutettu Ulla-Riitta Harju poistui kokouksesta tätä asiaa koskevan keskustelun aikana ennen päätöksentekoa klo 12.38.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Keski-Pohjanmaan aluehallitus 11.05.2026 § 103"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Yhteistyöjohtaja Minna Lönnbäck, osallisuus- ja asiakkuuspäällikkö Jussi Salminen, hyvinvointikoordinaattori Henri Nevalainen, hyvinvointikoordinaattori Johanna Lång, kehittämiskoordinaattori Satu Marjakangas, kehittäjäkoordinaattori Seija Häggdahl\n\nHyvinvointialueen on valmisteltava aluevaltuustolle valtuustokausittain alueellinen hyvinvointikertomus ja -suunnitelma (Laki sosiaali- ja terveydenhuollon järjestämisestä 612/2021, 7 §). Keski-Pohjanmaan hyvinvointialue Soiten hyvinvointikertomus ja -suunnitelma tukee ja vahvistaa Soiten strategiaa. Hyvinvointikertomus kuvaa hyvinvoinnin nykytilaa (mm. kouluterveyskysely ja Terve Suomi tutkimus) ja olemassa olevia toimia ja rakenteita hyvinvoinnin ja terveyden edistämiseksi. Hyvinvointisuunnitelma kuvaa hyvinvointialueen tavoitteita, suunniteltuja toimia ja yhteistyötä kuntien ja muiden toimijoiden kanssa hyvinvoinnin ja terveyden edistämiseksi.\n\nHyvinvointisuunnitelmaan sisällytetään lakisääteiset suunnitelmat: lasten ja nuorten hyvinvointisuunnitelma ja opiskeluhuoltosuunnitelma, ikääntyneiden hyvinvointisuunnitelma ja ehkäisevän päihdetyön suunnitelma. Lisäksi hyvinvointisuunnitelma sisältää kulttuurihyvinvointisuunnitelman ja neuvolasuunnitelma laaditaan vuoden 2026 aikana osaksi lasten ja nuorten hyvinvointisuunnitelmaa. Vuoden 2026 aikana kootaan myös Keski-Pohjanmaan hyvinvointialue Soiten osallisuusohjelma edistämään edellä mainittuja suunnitelmia.\n\nKeski-Pohjanmaan hyvinvointialue Soiten hyvinvointi- ja tulevaisuuslautakunta valmistelee hyvinvointialueen hyvinvointikertomuksen ja -suunnitelman (hallintosääntö 22 §). TKIO ja osallisuus toimintayksikkö koordinoi hyvinvointikertomuksen ja -suunnitelman kokoamisen ja Soiten HYTE-työryhmä valmistelee hyvinvointisuunnitelmaan toimenpiteet palvelutuotannon osalta. Aluevaltuusto päättää alueellisen hyvinvointikertomuksen ja -suunnitelman hyväksymisestä (hallintosääntö 19 §).\n\nHyvinvointikertomukseen kootun tiedon avulla voidaan sanoa, että Keski-Pohjanmaan väestön hyvinvoinnissa on useita vahvuuksia, mutta myös haasteita löytyy. Vahvuuksia ovat esimerkiksi asukkaiden koettu elämänlaatu ja turvallisuuden tunne, jotka ovat valtakunnallisesti vertailtuna hyvällä tasolla. Lisäksi esimerkiksi ennenaikaisten kuolemien määrä on alueella suhteellisen alhainen. Haasteita ovat esimerkiksi elintapasairaudet ja mielenterveyshaasteet sekä hyvinvointi- ja terveyserot.\n\nNäihin haasteisiin vastaaminen edellyttää suunnitelmallisia ja ennaltaehkäiseviä toimenpiteitä. Erityistä huomiota tulee kiinnittää heikossa ja haavoittuvassa asemassa olevien tukemiseen, jotta eriarvoistumista voidaan ehkäistä ajoissa. Varhaisen tuen ja ennaltaehkäisyn vahvistaminen niin sosiaali-, terveys- kuin muissakin palveluissa on keskeistä. Terveellisten elintapojen edistäminen, mielenterveyden tukeminen ja matalan kynnyksen palveluiden kehittäminen voivat osaltaan ehkäistä raskaampien palvelujen tarvetta tulevaisuudessa. Keski-Pohjanmaan hyvinvoinnin kehittämisessä yhteistyö alueen toimijoiden kesken on ratkaisevaa.\n\nHyvinvointisuunnitelma on koottu huomioiden alueen kunnat, järjestöt ja muut alueen HYTE-toimijat. Kevään 2025 HYTE-neuvotteluissa käytiin alustavat keskustelut HYTE-painopisteistä, jonka jälkeen toteutettiin työpajoja ja kyselyitä HYTE-painopisteistä ja toimenpiteistä painopisteiden edistämiseksi. Soiten vaikuttamistoimielimiltä pyydettiin myös lausunnot hyvinvointisuunnitelmasta. Lisäksi toteutettiin väestölle suunnattu HYTE-keskustelu ja hyödynnettiin hyvinvointikertomuksen tietoja.\n\nHyvinvointisuunnitelman painopisteet ovat seuraavat:\n\n- Terveelliset elintavat\n\n- Mielen hyvinvointi\n\n- Osallisuus ja yhteisöllisyys\n\n- Arjen turvallisuus.\n\nErityishuomiona on hyvinvointi- ja terveyserojen kaventaminen ja HYTE-kertoimen edistäminen."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "- Keski-Pohjanmaan hyvinvointialue Soiten alueellinen hyvinvointikertomus 2025\n\n- Keski-Pohjanmaan hyvinvointialue Soiten alueellinen hyvinvointisuunnitelma 2026-2029\n\n- Keski-Pohjanmaan hyvinvointialue Soiten lasten ja nuorten hyvinvointisuunnitelma 2026-2029\n\n- Keski-Pohjanmaan hyvinvointialue Soiten ikääntyneiden hyvinvointisuunnitelma 2026-2029\n\n- Keski-Pohjanmaan hyvinvointialue Soiten opiskeluhuoltosuunnitelma 2026-2028\n\n- Keski-Pohjanmaan hyvinvointialue Soiten ehkäisevän päihdetyön suunnitelma 2026-2029"
+    },
+    {
+     "heading": "Oheisaineisto",
+     "text": "- Hyvinvointikertomus - toteutuneet toimenpiteet 2025\n\n- Keski-Pohjanmaan kulttuurihyvinvointisuunnitelma"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää esittää aluevaltuustolle Keski-Pohjanmaan hyvinvointialueen alueellisen hyvinvointikertomuksen 2025 ja hyvinvointisuunnitelman 2026-2026 sekä sen sisältämien Keski-Pohjanmaan hyvinvointialue Soiten lasten ja nuorten hyvinvointisuunnitelman 2026-2029, Keski-Pohjanmaan hyvinvointialue Soiten ikääntyneiden hyvinvointisuunnitelman 2026-2029, Keski-Pohjanmaan hyvinvointialue Soiten opiskeluhuoltosuunnitelman 2026-2028 ja Keski-Pohjanmaan hyvinvointialue Soiten ehkäisevän päihdetyön suunnitelman 2026-2029 hyväksymistä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallituksen 1. varapuheenjohtaja Tapio Pajunpää toimi jatkokokouksessa puheenjohtajana ja avasi jatkokokouksen 12.5.2026 klo 17.34.\n\nSuoritettiin nimenhuuto ja todettiin jatkokokous lailliseksi ja päätösvaltaiseksi. Todettiin, että §:ssä 95 valitut pöytäkirjantarkastajat toimivat pöytäkirjantarkastajina myös jatkokokouksessa käsiteltävien asioiden osalta.\n\nAluehallitus päätti esittää aluevaltuustolle Keski-Pohjanmaan hyvinvointialueen alueellisen hyvinvointikertomuksen 2025 ja hyvinvointisuunnitelman 2026-2026 sekä sen sisältämien Keski-Pohjanmaan hyvinvointialue Soiten lasten ja nuorten hyvinvointisuunnitelman 2026-2029, Keski-Pohjanmaan hyvinvointialue Soiten ikääntyneiden hyvinvointisuunnitelman 2026-2029, Keski-Pohjanmaan hyvinvointialue Soiten opiskeluhuoltosuunnitelman 2026-2028 ja Keski-Pohjanmaan hyvinvointialue Soiten ehkäisevän päihdetyön suunnitelman 2026-2029 hyväksymistä."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "- A. Keski-Pohjanmaan hyvinvointialue Soiten alueellinen hyvinvointikertomus 2025\n\n- B. Keski-Pohjanmaan hyvinvointialue Soiten alueellinen hyvinvointisuunnitelma 2026-2029\n\n- C. Keski-Pohjanmaan hyvinvointialue Soiten lasten ja nuorten hyvinvointisuunnitelma 2026-2029\n\n- D. Keski-Pohjanmaan hyvinvointialue Soiten ikääntyneiden hyvinvointisuunnitelma 2026-2029\n\n- E. Keski-Pohjanmaan hyvinvointialue Soiten opiskeluhuoltosuunnitelma 2026-2028\n\n- F. Keski-Pohjanmaan hyvinvointialue Soiten ehkäisevän päihdetyön suunnitelma 2026-2029"
+    },
+    {
+     "heading": "Oheisaineisto",
+     "text": "- Hyvinvointikertomus - toteutuneet toimenpiteet 2025\n\n- Keski-Pohjanmaan kulttuurihyvinvointisuunnitelma"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallituksen esityksen mukaisesti aluevaltuusto päättää hyväksyä Keski-Pohjanmaan hyvinvointialueen alueellisen hyvinvointikertomuksen 2025 ja hyvinvointisuunnitelman 2026-2026 sekä sen sisältämät Keski-Pohjanmaan hyvinvointialue Soiten lasten ja nuorten hyvinvointisuunnitelman 2026-2029, Keski-Pohjanmaan hyvinvointialue Soiten ikääntyneiden hyvinvointisuunnitelman 2026-2029, Keski-Pohjanmaan hyvinvointialue Soiten opiskeluhuoltosuunnitelman 2026-2028 ja Keski-Pohjanmaan hyvinvointialue Soiten ehkäisevän päihdetyön suunnitelman 2026-2029."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Todettiin, että päätösehdotuksessa on kirjoitusvirhe vuosiluvussa kohdassa ”hyvinvointisuunnitelman 2026-2026” ja että vuosiluku kirjataan oikein muotoon 2026-2029 aluevaltuuston päätökseen.\n\nAluehallituksen esityksen mukaisesti aluevaltuusto päätti hyväksyä Keski-Pohjanmaan hyvinvointialueen alueellisen hyvinvointikertomuksen 2025 ja hyvinvointisuunnitelman 2026-2029 sekä sen sisältämät Keski-Pohjanmaan hyvinvointialue Soiten lasten ja nuorten hyvinvointisuunnitelman 2026-2029, Keski-Pohjanmaan hyvinvointialue Soiten ikääntyneiden hyvinvointisuunnitelman 2026-2029, Keski-Pohjanmaan hyvinvointialue Soiten opiskeluhuoltosuunnitelman 2026-2028 ja Keski-Pohjanmaan hyvinvointialue Soiten ehkäisevän päihdetyön suunnitelman 2026-2029.\n\nMerk. valtuutettu Anna Nurmi-Lehto poistui kokouksesta tätä asiaa koskevan keskustelun aikana ennen päätöksentekoa klo 12.37.\n\nValtuutettu Ulla-Riitta Harju poistui kokouksesta tätä asiaa koskevan keskustelun aikana ennen päätöksentekoa klo 12.38."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite A_Keski-Pohjanmaan hyvinvointialue Soiten alueellinen hyvinvointikertomus 2025",
+     "url": "https://kpshp-hva.oncloudos.com/kokous/20261110-10-137340.PDF"
+    },
+    {
+     "title": "Liite B_Keski-Pohjanmaan hyvinvointialue Soiten alueellinen hyvinvointisuunnitelma 2026-2029",
+     "url": "https://kpshp-hva.oncloudos.com/kokous/20261110-10-137404.PDF"
+    },
+    {
+     "title": "Liite C_Lasten ja nuorten alueellinen hyvinvointisuunnitelma 2026-2029",
+     "url": "https://kpshp-hva.oncloudos.com/kokous/20261110-10-138241.PDF"
+    },
+    {
+     "title": "Liite D_Ikääntyneiden alueellinen hyvinvointisuunnitelma 2026-2029",
+     "url": "https://kpshp-hva.oncloudos.com/kokous/20261110-10-138079.PDF"
+    },
+    {
+     "title": "Liite E_Alueellinen opiskeluhuoltosuunnitelma2026-2028",
+     "url": "https://kpshp-hva.oncloudos.com/kokous/20261110-10-138236.PDF"
+    },
+    {
+     "title": "Liite F_Keski-Pohjanmaan alueellinen ehkäisevän päihdetyön suunnitelma 2026-2029",
+     "url": "https://kpshp-hva.oncloudos.com/kokous/20261110-10-138243.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "28",
+   "title": "Keski-Pohjanmaan hyvinvointialue Soiten osallisuusohjelma",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261110-11",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/20261110-11.PDF",
+   "diary_number": "1955/00.02.00/2026",
+   "preparer": "Osallisuus- ja asiakkuuspäällikkö Jussi Salminen; Hyvinvointialueilla on ollut historiallinen mahdollisuus päivittää suomalaista demokratiaa ja rakentaa toimintakulttuurinsa alusta alkaen asukkaita ja palvelun käyttäjiä osallistavaksi. Tämän osallisuusohjelman tarkoitus on tukea hyvinvointialuettamm",
+   "presenter": null,
+   "proposal": "Aluehallituksen esityksen mukaisesti aluevaltuusto hyväksyy Keski-Pohjanmaan hyvinvointialueen osallisuusohjelman.",
+   "decision": "Aluevaltuusto hyväksyi päätösehdotuksen yksimielisesti.\n\nMerk. valtuutettu Linda Boberg-Santala poistui kokouksesta klo 12.58 tätä asiaa koskevan keskustelun aikana ennen päätöksentekoa.\n\nValtuutetut Virpi Ali-Haapala ja Hannes Torppa poistuivat kokouksesta klo 12.59 tätä asiaa koskevan keskustelun aikana ennen päätöksentekoa.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Keski-Pohjanmaan aluehallitus 11.05.2026 § 104"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Osallisuus- ja asiakkuuspäällikkö Jussi Salminen\n\nHyvinvointialueilla on ollut historiallinen mahdollisuus päivittää suomalaista demokratiaa ja rakentaa toimintakulttuurinsa alusta alkaen asukkaita ja palvelun käyttäjiä osallistavaksi. Tämän osallisuusohjelman tarkoitus on tukea hyvinvointialuettamme oman osallistamisensa vahvistamisessa. Osallisuustyön keskiöön on nostettu kolme osallistujanäkökulmaa; asiakasosallisuus, asukasosallisuus ja asiantuntijaosallisuus.\n\nOsallisuusohjelman tavoitteena on ohjata hyvinvointialuetta niin, että Soite voi toteuttaa hyvinvointialuelain (29 §) mukaisesti alueen asukkaiden ja palvelujen käyttäjien oikeuden osallistua ja vaikuttaa hyvinvointialueen toimintaan. Tavoitteena on, että osallisuus ei näkyisi vain paperilla ja puheissa. Hyvinvointialuelain 29 §:n mukaan aluevaltuuston on pidettävä huolta monipuolisista ja vaikuttavista osallistumisen ja vaikuttamisen mahdollisuuksista ja menetelmistä.\n\nOsallisuusohjelman laadinnassa on pyydetty lausunnot vaikuttamistoimielimiltä ja järjestetty info/kuulemistilaisuuksia järjestöille sekä hyvinvointialueen asukkaille. Tarkoituksena oli saada laajasti esille asukkaiden ja asiakkaiden näkemyksiä ja mielipiteitä osallisuudesta sekä vaikuttamismahdollisuuksista. Myös johtoryhmä on käsitellyt osallisuusohjelman.\n\nOsallisuusohjelma luo kokonaiskuvan osallistumisen perusteista, rakenteista ja hyvistä periaatteista. Se rakentaa hyvinvointialueelle uudenlaista, entistä vahvempaa osallistumisen kulttuuria. Näin varmistetaan, että hyvinvointialueelle kehittyy yhdenvertaiset, laadukkaat ja aidosti asiakaskeskeiset peruspalvelut. Välttämättömät rakenteelliset muutokset tehdään oikeudenmukaisesti perusteellisen valmistelun pohjalta osallisuus huomioiden.\n\nOsallisuus on arvo sinänsä, mutta sitä kautta lisätään myös alueen hyvinvointia ja terveyttä, kun alueen asukkaat kokevat voivansa vaikuttaa ja voivat sitä kautta paremmin. Keski-Pohjanmaan hyvinvointialue Soiten hyvinvointisuunnitelman 2026–2029 yksi painopiste on osallisuus ja yhteisöllisyys, jota tämä ohjelma omalta osaltaan toteuttaa.\n\nLiite\nKeski-Pohjanmaan hyvinvointialueen osallisuusohjelma"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää esittää, että aluevaltuusto hyväksyy Keski-Pohjanmaan hyvinvointialueen osallisuusohjelman."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösehdotuksen yksimielisesti.\n\nLiite\nKeski-Pohjanmaan hyvinvointialueen osallisuusohjelma"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallituksen esityksen mukaisesti aluevaltuusto hyväksyy Keski-Pohjanmaan hyvinvointialueen osallisuusohjelman."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto hyväksyi päätösehdotuksen yksimielisesti.\n\nMerk. valtuutettu Linda Boberg-Santala poistui kokouksesta klo 12.58 tätä asiaa koskevan keskustelun aikana ennen päätöksentekoa.\n\nValtuutetut Virpi Ali-Haapala ja Hannes Torppa poistuivat kokouksesta klo 12.59 tätä asiaa koskevan keskustelun aikana ennen päätöksentekoa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Osallisuusohjelma",
+     "url": "https://kpshp-hva.oncloudos.com/kokous/20261110-11-138557.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "29",
+   "title": "Vastaus valtuustoaloitteeseen - Maksuhuojennusten ja -alennusten hakeminen saavutettavaksi ja selkeäksi Soitessa, 15.12.2025",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261110-12",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/20261110-12.PDF",
+   "diary_number": "1051/00.02.01/2025",
+   "preparer": "Johtaja sosiaalityöntekijä Anu Pippola, talouspäällikkö Mirja Kivelä, palveluesimies Petra Hyvärinen; Soiten tarjoama tuki taloudellisesti haastavassa tilanteessa oleville henkilöille; Keski‑Pohjanmaan hyvinvointialue Soite tarjoaa monipuolisesti tukea ja neuvontaa taloudellisesti haastavassa tilant",
+   "presenter": null,
+   "proposal": "Aluehallituksen esityksen mukaisesti aluevaltuusto merkitsee aloitteeseen laaditun vastauksen tiedoksi.",
+   "decision": "Aluevaltuusto hyväksyi päätösehdotuksen yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Keski-Pohjanmaan aluehallitus 18.03.2026 § 56"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Johtaja sosiaalityöntekijä Anu Pippola, talouspäällikkö Mirja Kivelä, palveluesimies Petra Hyvärinen\n\nSoiten tarjoama tuki taloudellisesti haastavassa tilanteessa oleville henkilöille\n\nKeski‑Pohjanmaan hyvinvointialue Soite tarjoaa monipuolisesti tukea ja neuvontaa taloudellisesti haastavassa tilanteessa oleville henkilöille. Asiakkailla on mahdollisuus saada taloudellista ohjausta ja neuvontaa, apua talouden hallinnan vahvistamiseen sekä lisätukea Kelan myöntämän perustoimeentulotuen rinnalle.\n\nSoiten talousneuvola tarjoaa matalan kynnyksen neuvontaa raha‑asioiden hoitamiseen. Talousneuvolassa asiakas voi keskustella luottamuksellisesti taloudellisesta tilanteestaan ilman ajanvarausta ja halutessaan nimettömästi. Toimintaan osallistuvat muun muassa Kela, aikuissosiaalityö sekä talous‑ ja velkaneuvonta. Yhteydenotto talousneuvolaan on mahdollista sen aukioloaikoina puhelimitse tai sähköpostitse.\n\nSoite tarjoaa lisäksi sosiaalista luototusta Keski‑Pohjanmaalla asuville pienituloisille ja vähävaraisille henkilöille, joilla ei ole mahdollisuutta saada kohtuuehtoista luottoa tavanomaisilta luottomarkkinoilta esimerkiksi pienituloisuuden, maksuhäiriömerkinnän tai vakuuksien puuttumisen vuoksi. Sosiaalisen luototuksen tavoitteena on ehkäistä taloudellista syrjäytymistä ja ylivelkaantumista sekä edistää henkilön ja perheen itsenäistä selviytymistä. Sosiaalista luottoa voidaan myöntää muun muassa talouden hallinnan palauttamiseksi, velkakierteen katkaisemiseksi, asumisen turvaamiseksi, työllistymisen edistämiseksi tai sosiaalisen kriisin ylittämiseksi. Sosiaalisen luoton määrä on 500–7 000 euroa ja takaisinmaksuaika enintään viisi vuotta. Hakeminen käynnistetään Digi Soiten Omapalvelun kautta tai ottamalla yhteyttä sosiaalineuvontaan.\n\nToimeentulotuki on viimesijainen taloudellisen tuen muoto, jolla turvataan välttämätön toimeentulo taloudellisiin vaikeuksiin joutuneille henkilöille ja perheille. Toimeentulotuki jakautuu perustoimeentulotukeen, täydentävään toimeentulotukeen ja ehkäisevään toimeentulotukeen. Perustoimeentulotukea haetaan Kelasta, ja Soite voi myöntää täydentävää ja ehkäisevää toimeentulotukea Kelan myöntämän perustoimeentulotuen rinnalle. Kela korvaa perustoimeentuloa saavalle henkilölle julkisen terveydenhuollon asiakasmaksut, reseptilääkkeet ja tarvittaessa terveydellisesti välttämättömät matkakulut.\n\nTäydentävää toimeentulotukea voidaan myöntää tilanteissa, joissa asiakkaalla on välttämättömiä menoja, joita perustoimeentulotuki ei kata. Ehkäisevää toimeentulotukea voidaan myöntää, mikäli asiakkaan taloudellinen tilanne heikkenee äkillisesti ja merkittävästi siten, että se vaarantaa hänen tai hänen perheensä itsenäisen selviytymisen. Täydentävää ja ehkäisevää toimeentulotukea haetaan ensisijaisesti sähköisesti DigiSoiten Omapalvelussa tai ottamalla yhteyttä Soiten sosiaalineuvontaan.\n\nAikuissosiaalityö on tarkoitettu yli 18-vuotiaille, joiden elämäntilanteeseen liittyy taloudellisia, sosiaalisia tai elämänhallinnan haasteita. Tavoitteena on vahvistaa asiakkaan omaa toimintakykyä ja ehkäistä ongelmien pahenemista.\n\nSosiaalineuvonta ja palveluohjaus tarjoaa ohjausta siihen, mihin tukiin ja palveluihin asiakkaalla voisi olla oikeus. Sosiaalineuvonnan ajanvaraukseton vastaanotto auttaa ja ohjaa tiistaisin (klo 9-11), keskiviikkoisin (klo 9-11) ja torstaisin (klo 13-15) hakemusten ja asioinnin kanssa. Lisäksi sosiaalineuvonnan chat palvelee maanantaista torstaihin klo 9-14. Chatissa voi asioida myös tunnistautuneena.\n\nSoite toteuttaa parhaillaan Ruoka-aputoiminnan järjestäminen -Keski-Pohjanmaa -hanketta ajalla 2025-2026. Hanke keskittyy vähävaraisten tukemiseen, hävikki- tai ylijäämäruokaa hyödyntämällä. THL:n rahoittaman ruoka-apu-hankkeen toimijat kattavat avustuksella ruoka-aputoiminnasta aiheutuvia kylmälaitehankintoja, sähkö-, tila- ja kuljetusmenoja. Ruoka-jakopisteet ilmoitetaan www. ruoka-apu.fi -sivustolla koko Suomen osalta. Soite ei itse toteuta ruokajakoa, vaan sen kumppaneina ovat seuraavat alueet toimijat: Kannuksen seurakunta, Koivuhakaseura ry/Hyvänmielentori, Kokkolan helluntaiseurakunta ry, Kokkolan suomalainen seurakunta/ Diakoniatyö ja katulähetys, Kokkolan Työttömät ry, Lohtajan seurakunta, Lyhty seurakunnan tuki ry sekä Ykspihlajan asukasyhdistys ry. Euroopan sosiaalirahasto+:n rahoittamassa Katettu pöytä -hankkeessa jaetaan vuosina 2025-2026 Keski-Pohjanmaalla 5 500 kpl aineellisen avun maksukorttia. Maksukortteja jaetaan Soiten toteuttamassa matalan kynnyksen ryhmätoiminnassa sekä päiväkeskuksessa. Lisäksi maksukortteja jakavat toimintansa puitteissa: Koivuhakaseura ry/Hyvänmielentori, Kokkolan ensi- ja turvakoti ry, Kokkolan Työttömät ry, Mello ry ja Ykspihlajan Asukasyhdistys ry. Maksukortteja jakavat Keski-Pohjanmaalla myös evankelis-luterilaiset seurakunnat ja helluntaiseurakunta omien hankkeidensa kautta. Yhteistyöjärjestöt tiedottavat omissa tiedotuskanavissaan maksukorttien jaosta ja aikataulusta. Maksukortit ovat 40 € arvoisia ja niistä on poissuljettu mahdollisuus ostaa alkoholi- ja nikotiinituotteita. Maksukorteilla voi ostaa esimerkiksi ruokaa, hygieniatuotteita, vaatteita ja kenkiä. Kohderyhmänä ovat erityisesti työttömät ja heidän perheenjäsenensä, mutta maksukortteja voivat saada myös muut vähävaraiset. Maksukortin saaminen edellyttää kaksivaiheista prosessia, tuen tarpeen arvioiminen ja kortin luovutus toteutuu erillisellä käynnillä. Lisäksi sekä ruoka-apu- että aineellisen avun -hankkeessa tiedotetaan ja ohjataan vähävaraisia muun heidän tarvitsemansa avun ja tuen piiriin. Esimerkiksi Katettu pöytä -hankkeen toimenpiteenä tullaan järjestämään Katettu pöytä -tilaisuuksia, joissa tiedotetaan ja kerrotaan vähävaraisille erilaisista avun ja tuen mahdollisuuksista. Lisäksi valmistetaan selkokielinen opas, jota painatetaan ainakin kolmella eri kielellä. Oppaaseen kootaan perustietoa erilaisista matalan kynnyksen avun ja tuen mahdollisuuksista. Alustavan tiedon mukaan voi haettavaksi tulla myöhemmin lisää rahoitusta tähän tärkeään toimintaan.\n\nMatalankynnyksen ryhmätoimintana toteutetaan aikuisten aamupalaa yhteistyössä seurakunnan kanssa Kokkolassa Koivutuvalla perjantaisiin klo 9-10.30 (mahdollisuus myös ajanvarauksettomaan sosiaalineuvontaan), Kannuksessa torstaisin klo 8.30-9.30 Pappilassa ja Perhossa parillisten viikkojen keskiviikkona klo 8-9 seurakuntatalolla.\n\nTietyiltä erityisryhmiltä ei peritä tasasuuruisia asiakasmaksuja. Näitä ovat veteraanit, takuueläkkeen saajat, velkajärjestelyssä olevat ja pitkäaikaisen toimeentulotuen saajat. Maksuttomuus otettiin käyttöön vuoden 2025 alussa ja on edelleen käytössä tarkennetuin kriteerein.\n\nAloite tasasuuruisten maksujen perimättä jättämisestä ja alentamisesta\n\nValtuustoaloitteessa esitetty maksujen perimättä jättämisen tai alentamisen mahdollisuuden laajentaminen koskemaan tasasuuruisia terveydenhuoltomaksuja edellyttäisi resurssin lisäämistä hakemusten käsittelemiseksi arvioituna kahden henkilötyövuoden verran.\n\nYksittäisen hakemuksen käsittely mahdollisine lisäselvittelyineen on hidasta. Kelan ja hyvinvointialueen työnjako tulisi jatkossakin pysyä selkeänä, jolloin Kela pystyy huomioimaan terveydenhuollon maksut myöntämässään toimeentulotuessa. Asiakkaan kannalta asiointi tapahtuu yhdessä paikassa ja hyvinvointialueen ja Kelan työnjako ja taloudellinen taakka jakaantuu. Asiakkaan on mahdollista hakea jatkossakin täydentävää ja ehkäisevää toimeentulotukea hyvinvointialueelta.\n\nMaksukaton (vuonna 2026 815 euroa) täyttymisen jälkeen asiakkaan maksukattokertymään kuuluvat palvelut ovat maksuttomia tai esimerkiksi hoitopäivähinta on huomattavasti alhaisempi. Maksukaton täyttymistä seurataan Soiten asiakasmaksujen osalta potilastoimistossa ja ilmoitetaan tekstiviestitse asiakkaalle. Maksukaton täyttyminen huomioidaan automaattisesti Soiten loppuvuoden laskutuksessa. Terveydenhuollon matkojen maksukaton (300 euroa) täyttymisen jälkeen Kela korvaa matkakulut kokonaan.\n\nPerustietoa asiakas- ja potilasmaksuista järjestettiin 5.12.2025 Soiten henkilöstölle. Koulutuksessa ohjeistettiin henkilöstöä esimerkiksi erilaisista asiakasmaksuista, maksuttomista palveluista, asiakkaan ohjaamisesta asiakasmaksujen oikaisuun liittyen ja mistä asiakas voi tarvittaessa saada apua taloudelliseen tilanteeseensa.\n\nHenkilökunnan kouluttamisen lisäksi suunnitellaan koottavaksi helposti saavutettava ja informatiivinen tietopaketti Soiten tarjoamista palveluista talousvaikeuksissa oleville. Heitä ohjataan sekä Soiten että muiden toimijoiden palvelujen ja etuuksien käyttöön."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää esittää aluevaltuustolle, että se merkitsee aloitteeseen laaditun vastauksen tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti.\n\nMerk. talousjohtaja Helinä Saarela ja palveluesimies Petra Hyvärinen olivat kokouksessa vastaamassa asiaa koskeviin kysymyksiin.\n\nKeski-Pohjanmaan aluevaltuusto 30.03.2026 § 16\n\nLiitteenä:\n\n- Valtuustoaloite (allekirjoittamaton versio, verkkojulkinen)\n\n- Valtuustoaloite (allekirjoitukset sisältävä versio, ei verkkojulkinen)"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallituksen esityksen mukaisesti aluevaltuusto merkitsee aloitteeseen laaditun vastauksen tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Valtuutettu Pia Leinonen Anette Johanssonin, Jukka Ylikarjulan, Toni Syrjälän, Piia Rautiolan, Kristiina Teerikankaan, Tuija Leivo-Rintakorven, Risto Koljosen ja Pasi Kanniaisen kannattamana esitti, että asia palautetaan valmisteluun. Koska oli tehty kannatettu ehdotus asian palauttamisesta valmisteluun, oli suoritettava äänestys. Äänestysmenettelyksi hyväksyttiin nimenhuutoäänestys siten, että äänestyksessä asian käsittelyn jatkamista kannattavat äänestävät JAA ja asian palauttamista valmisteluun kannattavat äänestävät EI. Äänestyksessä annettiin 20 JAA-ääntä ja 33 EI-ääntä. Äänestystuloksen mukaisesti asia palautettiin valmisteluun. Äänestysluettelo on pöytäkirjan liitteenä.\n\nMerk. valtuutettu Sari Innanen poistui klo 12.30 tätä asiaa koskevan keskustelun aikana ennen päätöksentekoa.\n\nValtuutettu Sirpa Orjala poistui klo 12.32 tätä asiaa koskevan keskustelun aikana ennen päätöksentekoa.\n\nValtuutettu Anna Nurmi-Lehto poistui klo 12.38 ennen äänestyksen toimittamista.\n\nValtuutettu Linda Boberg-Santala poistui klo 12.46 äänestyksen toimittamisen jälkeen.\n\nKeski-Pohjanmaan aluehallitus 11.05.2026 § 108"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Johtaja sosiaalityöntekijä Anu Pippola, talouspäällikkö Mirja Kivelä, palveluesimies Petra Hyvärinen\n\nSoitessa laajennettiin vuoden 2025 alusta maksuttomuuden kriteereitä koskemaan tasasuuruisten asiakasmaksujen osalta veteraanien lisäksi myös takuueläkkeen saajia, velkajärjestelyssä olevia sekä pitkäaikaisen (yli 3 kk päätös) toimeentulotuen saajia. Asiakas saa terveydenhuollon käynnin maksuttomana, mikäli hän näyttää vastaanotolle tullessaan voimassa olevan päätöksen takuueläkkeestä, velkajärjestelyn maksuohjelmasta tai pitkäaikaisesta toimeentulotuesta ja terveydenhuollon ammattilainen on tämän tilastoinut. Takautuvasti laskutuksia ei ole vuoden 2025 alusta tulleen ohjeistuksen mukaisesti korjattu, mikäli päätöksen osoittamisesta ei ole merkintää potilastietojärjestelmässä.\n\nAluevaltuusto 30.3.2026 palautti valtuustoaloitteeseen vastaamista koskevan asian valmisteluun. Aluevaltuustossa käydyssä keskustelussa nousi esille erityisryhmien maksuttomuuden kriteerien lisäys, joka mahdollistaisi myös takautuvasti asiakkaan käyntimaksun korjauksen maksuttomaksi, mikäli asiakas esittää voimassa olevan päätöksen jälkikäteen. Soitessa maksuttomuuden kriteerien ohjetta näiden erityisryhmien osalta esitetään päivitettäväksi niin, että 1.6.2026 tai sen jälkeen päivättyihin laskuihin voidaan takautuvasti korjata asiakkaan käynti maksuttomaksi, mikäli hän näyttää 60 päivän aikana laskun päiväyksestä voimassa olevan maksuttomuuteen oikeuttavan päätöksen. Päätöksen tulee olla voimassa käyntitapahtuman ajankohtana.\n\nEdellä mainittu päivitys on valmisteltu käsiteltäväksi muutosehdotuksena asiakas- ja potilasmaksuhinnastoon 2026.\n\nLiitteenä:\n\n- Valtuustoaloite (allekirjoittamaton versio, verkkojulkinen)\n\n- Valtuustoaloite (allekirjoitukset sisältävä versio, ei verkkojulkinen)"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää esittää aluevaltuustolle, että se merkitsee aloitteeseen laaditun vastauksen tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösehdotuksen yksimielisesti.\n\nLiitteenä:\n\n- Valtuustoaloite (allekirjoittamaton versio, verkkojulkinen)\n\n- Valtuustoaloite (allekirjoitukset sisältävä versio, ei verkkojulkinen)"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallituksen esityksen mukaisesti aluevaltuusto merkitsee aloitteeseen laaditun vastauksen tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto hyväksyi päätösehdotuksen yksimielisesti."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Valtuustoaloite_Asiakasmaksuhuojennuksista 15.12.25",
+     "url": "https://kpshp-hva.oncloudos.com/kokous/20261110-12-130959.PDF"
+    }
+   ],
+   "votes": [
+    {
+     "counts": {
+      "jaa": 20,
+      "ei": 33
+     },
+     "context": "Valtuutettu Pia Leinonen Anette Johanssonin, Jukka Ylikarjulan, Toni Syrjälän, Piia Rautiolan, Kristiina Teerikankaan, Tuija Leivo-Rintakorven, Risto Koljosen ja Pasi Kanniaisen kannattamana esitti, että asia palautetaan valmisteluun. Koska oli tehty kannatettu ehdotus asian palauttamisesta valmisteluun, oli suoritettava äänestys. Äänestysmenettelyksi hyväksyttiin nimenhuutoäänestys siten, että äänestyksessä asian käsittelyn jatkamista kannattavat äänestävät JAA ja asian palauttamista valmisteluun kannattavat äänestävät EI. Äänestyksessä annettiin 20 JAA-ääntä ja 33 EI-ääntä. Äänestystuloksen ",
+     "provisional": true,
+     "names": {}
+    }
+   ],
+   "redacted": false
+  },
+  {
+   "number": "30",
+   "title": "Valtuustoaloitteet 2025",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261110-13",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/20261110-13.PDF",
+   "diary_number": "1051/00.02.01/2025",
+   "preparer": "Hallintolakimies Viivi Haanpää, hallintoasiantuntija Mia Lukkarila, mia.lukkarila(at).soite.fi; Keski-Pohjanmaan hyvinvointialueen hallintosäännön 143 §:n 3 momentin mukaan aluehallituksen on vuosittain toukokuun loppuun mennessä esitettävä aluevaltuustolle luettelo valtuutettujen tekemistä ja alueh",
+   "presenter": null,
+   "proposal": "Aluehallituksen esityksen mukaisesti aluevaltuusto merkitsee tiedoksi yhteenvedon aloitteiden käsittelytilanteesta.",
+   "decision": "Aluevaltuusto hyväksyi päätösehdotuksen yksimielisesti.",
+   "discussion": "valmistelussa, vastuuvalmistelijoina johtajaylilääkäri, toimialuejohtaja Katja Linnavuori ja sosiaalijohtaja, toimialuejohtaja Tarja Oikarinen-Nybacka. Arvioitu käsittelyajankohta: aluehallitus ja aluevaltuusto syksy 2026.\n\nLisäksi valtuutettu Piia Rautiolan vuonna 2024 (aluevaltuustossa 16.12.2024) jättämä valtuustoaloite neuvolan keskitetystä puhelinpalvelusta luopuminen on käsitelty toimielimissä seuraavasti vuosina 2025–2026: Aluehallitus 28.04.2025 § 116, aluevaltuusto 19.05.2025 § 15, aluehallitus 16.02.2026 § 39 ja aluevaltuusto 30.03.2026 § 14.\n\nKaudella 1–4/2026 aluevaltuustossa on jätetty kaksi valtuustoaloitetta 30.3.2026 kokouksessa. Vuoden 2026 aikana jätetyt aloitteet tuodaan kootusti aluevaltuustolle tiedoksi toukokuussa 2027.",
+   "sections": [
+    {
+     "heading": "",
+     "text": "Keski-Pohjanmaan aluehallitus 11.05.2026 § 109"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Hallintolakimies Viivi Haanpää, hallintoasiantuntija Mia Lukkarila, mia.lukkarila(at).soite.fi\n\nKeski-Pohjanmaan hyvinvointialueen hallintosäännön 143 §:n 3 momentin mukaan aluehallituksen on vuosittain toukokuun loppuun mennessä esitettävä aluevaltuustolle luettelo valtuutettujen tekemistä ja aluehallitukselle lähetetyistä aloitteista, joita aluevaltuusto ei edellisen vuoden loppuun mennessä ole lopullisesti käsitellyt. Samalla on ilmoitettava, mihin toimenpiteisiin niiden johdosta on ryhdytty. Aluevaltuusto voi todeta, mitkä aloitteista on käsitelty loppuun.\n\nVuonna 2025 on jätetty seuraavat valtuustoaloitteet, jotka on käsitelty aluehallituksessa ja aluevaltuustossa jäljempänä kirjatusti. Valmistelussa olevien aloitteiden alle on kirjattu tieto vastuuvalmistelijoista ja arvioidusta käsittelyaikataulusta.\n\n1. RKP:n aluevaltuustoryhmän jättämä valtuustoaloite: Hoitopalveluiden ruotsinkielinen saatavuus ontuu (aloite jätetty 19.5.2025)"
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Aluehallitus 16.02.2026 § 38 ja aluevaltuusto 30.3.2026 § 13.\n\n2. Valtuutettu Anna Nurmi-Lehdon jättämä valtuustoaloite: Kuntoutuksen järjestäminen (aloite jätetty 9.6.2025)"
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Aluehallitus 27.10.2025 § 237 ja aluevaltuusto 3.11.2025 § 52.\n\n3. Valtuutettu Hanna-Lea Ahlskogin jättämä valtuustoaloite: Sidosyksikköhankinnat (aloite jätetty 3.11.2025)"
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Aluehallitus 18.03.2026 § 55 ja aluevaltuusto 30.3.2026 § 15.\n\n4. Valtuutettu Hanna-Lea Ahlskogin jättämä valtuustoaloite: Pysäköinti (aloite jätetty 3.11.2025)"
+    },
+    {
+     "heading": "Käsittely",
+     "text": "valmistelussa, vastuuvalmistelijoina talousjohtaja, toimialuejohtaja Helinä Saarela ja tekninen johtaja Pekka Nevanperä. Arvioitu käsittelyajankohta: aluehallitus ja aluevaltuusto syksy 2026.\n\n5.Valtuutettu Tuija Leivo-Rintakorven jättämä valtuustoaloite: Lasten ja nuorten väkivallan ehkäisyn ja oppilashuollon vahvistaminen seuraavalla HYTE-suunnittelukaudella (aloite jätetty 3.11.2025)"
+    },
+    {
+     "heading": "Käsittely",
+     "text": "valmistelussa, vastuuvalmistelijana yhteistyöjohtaja Minna Lönnbäck ja johtajaylihoitaja Piia Kurikkala. Arvioitu käsittelyajankohta: aluehallitus ja aluevaltuusto syksy 2026.\n\n6. Perussuomalaisten aluevaltuustoryhmän valtuustoaloite Tervian kuljetuspalveluiden toiminnasta (aloite jätetty 3.11.2025)"
+    },
+    {
+     "heading": "Käsittely",
+     "text": "valmistelussa, vastuuvalmistelijoina talousjohtaja, toimialuejohtaja Helinä Saarela, logistiikkapäällikkö Jussi Männistö ja sosiaalijohtaja Tarja Oikarinen-Nybacka. Arvioitu käsittelyajankohta: aluehallitus ja aluevaltuusto syksy 2026.\n\n7. Vasemmiston aluevaltuustoryhmän valtuustoaloite: Maksuhuojennusten ja -alennusten hakeminen saavutettavaksi ja selkeäksi Soitessa (aloite jätetty 15.12.2025)"
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Aluehallitus 18.03.2026 § 56, aluevaltuusto 30.3.2026 § 16 (asia palautettiin valmisteluun), aluehallitus 11.5.2026 ja aluevaltuusto 25.5.2026.\n\n8. Valtuutettu Tina Sulkakosken jättämä valtuustoaloite koskien avoimiin virkoihin, toimiin tai vapautuviin työtehtäviin valittavien koulutustasoa (aloite jätetty 15.12.2025)"
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Aluehallitus 16.02.2026 § 37 ja aluevaltuusto 30.3.2026 § 12.\n\n9. RKP:n aluevaltuustoryhmän jättämä valtuustoaloite: Tekoälyn hyödyntäminen sosiaali- ja terveydenhuollon tehostamiseksi (aloite jätetty 15.12.2025)"
+    },
+    {
+     "heading": "Käsittely",
+     "text": "valmistelussa, vastuuvalmistelijoina johtajaylilääkäri, toimialuejohtaja Katja Linnavuori ja sosiaalijohtaja, toimialuejohtaja Tarja Oikarinen-Nybacka. Arvioitu käsittelyajankohta: aluehallitus ja aluevaltuusto syksy 2026.\n\nLisäksi valtuutettu Piia Rautiolan vuonna 2024 (aluevaltuustossa 16.12.2024) jättämä valtuustoaloite neuvolan keskitetystä puhelinpalvelusta luopuminen on käsitelty toimielimissä seuraavasti vuosina 2025–2026: Aluehallitus 28.04.2025 § 116, aluevaltuusto 19.05.2025 § 15, aluehallitus 16.02.2026 § 39 ja aluevaltuusto 30.03.2026 § 14.\n\nKaudella 1–4/2026 aluevaltuustossa on jätetty kaksi valtuustoaloitetta 30.3.2026 kokouksessa. Vuoden 2026 aikana jätetyt aloitteet tuodaan kootusti aluevaltuustolle tiedoksi toukokuussa 2027."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää esittää, että aluevaltuusto merkitsee tiedoksi yhteenvedon aloitteiden käsittelytilanteesta."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösehdotuksen yksimielisesti."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallituksen esityksen mukaisesti aluevaltuusto merkitsee tiedoksi yhteenvedon aloitteiden käsittelytilanteesta."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto hyväksyi päätösehdotuksen yksimielisesti."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "31",
+   "title": "Asiakas- ja potilasmaksuhinnasto 2026 ja Pelastustoimen hinnasto 2026: muutos asiakas- ja potilasmaksuhinnastoon 2026",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261110-14",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/20261110-14.PDF",
+   "diary_number": "4731/00.02.00/2025",
+   "preparer": "palveluesimies Petra Hyvärinen, talousjohtaja Helinä Saarela; Hyvinvointialuelain 4 luvun 22 §:n mukaan aluevaltuusto päättää palveluista ja muista suoritteista perittävien maksujen yleisistä perusteista. Soiten hallintosäännön 19 §:n mukaisesti aluevaltuusto päättää palveluista ja muista suoritteis",
+   "presenter": null,
+   "proposal": "Aluehallituksen esityksen mukaisesti aluevaltuusto hyväksyy päivitetyn liitteen mukaiset muutokset asiakas- ja potilasmaksuhinnastoon 2026 1.6.2026 voimaan tuleviksi.",
+   "decision": "Aluevaltuusto hyväksyi päätösehdotuksen yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Keski-Pohjanmaan aluehallitus 01.12.2025 § 271"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "palveluesimies Petra Hyvärinen, talousjohtaja Helinä Saarela\n\nHyvinvointialuelain 4 luvun 22 §:n mukaan aluevaltuusto päättää palveluista ja muista suoritteista perittävien maksujen yleisistä perusteista. Soiten hallintosäännön 19 §:n mukaisesti aluevaltuusto päättää palveluista ja muista suoritteista perittävien maksujen yleisistä perusteista sekä hyvinvointialueen järjestämisvastuulle kuuluvista palveluista perittävistä asiakasmaksuista, jollei jäljempänä toisin säädetä. Hallintosäännön 86 §:n mukaan aluehallitus päättää tarkemmin maksujen perusteista ja euromääristä. Aluehallitus voi siirtää maksuista päättämiseen liittyvää toimivaltaansa alaiselleen viranomaiselle.\n\nVoimassa olevan hallintosäännön 19 §:n mukainen määräys asiakasmaksuista päättämisestä on hyvinvointialuelain 22.2 §:n alkuperäisen 8 kohdan mukainen. Hyvinvointialuelain 22.2 §:n 8 kohdasta on poistettu aluevaltuuston tehtävistä hyvinvointialueen järjestämisvastuulle kuuluvista palveluista perittävistä asiakasmaksuista päättäminen. Muutos on tullut voimaan 1.1.2025 ja se mahdollistaa asiakasmaksuista päättämisen delegoimisen hallintosäännössä. Tätä koskevat muutosesitykset valmistellaan osana hallintosäännön muuta uudistamistyötä. Aluevaltuusto päättää kuitenkin jatkossakin myös asiakasmaksujen yleisistä perusteista hyvinvointialuelain mukaisesti.\n\nAsiakas- ja potilasmaksuhinnasto 2026\n\nValtio ohjaa sosiaali- ja terveydenhuollon asiakasmaksuja lainsäädännöllä. Tavoitteena on, että maksut ovat kohtuullisia eivätkä ole esteenä palveluihin hakeutumiselle. Asiasta säädetään sosiaali- ja terveydenhuollon asiakasmaksuista annetussa laissa ja sitä täydentävässä asiakasmaksuasetuksessa.\n\nVuoden 2026 alusta lukien voimaan astuvalla asiakasmaksuasetuksen muutoksella korotetaan tiettyjä sosiaali- ja terveydenhuollon maksuja 6,93 prosentilla. Korotus perustuu asiakasmaksulainsäädännön indeksisääntelyyn, jonka tavoitteena on huomioida yleinen kustannuskehitys. Käyttämättä jätetystä palvelusta perittävään maksuun eduskunta on tehnyt päätöksen (EV 122/2025 vp) nostaa maksua vuodelle 2026 n. 30 % (v. 2025 56,70 €, v. 2026 73,70 €).\n\nIndeksillä korotetut asiakasmaksut koskevat tiettyjä perusterveydenhuollon, erikoissairaanhoidon ja sosiaalipalveluiden maksuja sekä maksukattoa (=vuotuinen asiakasmaksujen maksimimäärä). Asiakasta suojaa jatkossakin asiakasmaksulain mukainen maksukatto (v. 2025 762 €, v. 2026 815 €) sekä muut asiakasmaksulainsäädännön tarjoamat suojakeinot, joilla voidaan edesauttaa, että asiakas saa käytännön tukea selviytyäkseen maksuista.\n\nKeski-Pohjanmaan hyvinvointialueen asiakas- ja potilasmaksuhinnasto 2026 on valmisteltu asiakasmaksuasetukseen kirjatut hintamuutokset huomioiden. Liitteenä oleva hinnasto sisältää entisen ja uuden hinnan omissa sarakkeissaan.\n\nPelastustoimen hinnasto 2026\n\nPelastustoimen hinnasto 2026 kattaa asiakkailta ja muilta hyvinvointialueilta sekä muilta toimijoilta laskutettavat maksut viranomaistoiminnan palveluista. Hinnasto on tarkistettu vastaamaan palveluiden tuottamisesta aiheutuvaa kustannustasoa.\n\nOheisaineistona asiakas- ja potilasmaksuhinnasto 2026 ja pelastustoimen hinnasto 2026."
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluehallitus päättää esittää, että\n\n1. aluevaltuusto hyväksyy 1.1.2026 voimaan tulevat asiakas- ja potilasmaksujen sekä pelastustoimen hinnat liitteiden mukaisesti;\n\n2. aluevaltuusto valtuuttaa talousjohtajan tekemään asiakas- ja potilasmaksujen hinnastoon tarvittaessa asiakasmaksuasetusmuutoksesta johtuvat teknisluonteiset muutokset.\n\nLisäksi aluehallitus päättää valtuuttaa talousjohtajan tekemään asiakas- ja potilasmaksujen sekä pelastustoimen hinnastoihin tarvittaessa vähäisiä muutoksia ennen aluevaltuustokäsittelyä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Esitys hyväksyttiin yksimielisesti.\n\nMerk. talousjohtaja Helinä Saarela ja palveluesimies Petra Hyvärinen esittelivät asian kokouksen alussa.\n\nKeski-Pohjanmaan aluevaltuusto 15.12.2025 § 68"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Palveluesimies Petra Hyvärinen, talousjohtaja Helinä Saarela\n\nLiitteenä asiakas- ja potilasmaksuhinnasto 2026 ja pelastustoimen hinnasto 2026."
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluehallituksen esityksen mukaisesti\n\n1. aluevaltuusto hyväksyy 1.1.2026 voimaan tulevat asiakas- ja potilasmaksujen sekä pelastustoimen hinnat liitteiden mukaisesti;\n\n2. aluevaltuusto valtuuttaa talousjohtajan tekemään asiakas- ja potilasmaksujen hinnastoon tarvittaessa asiakasmaksuasetusmuutoksesta johtuvat teknisluonteiset muutokset."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Valtuutettu Tuija Leivo-Rintakorpi esitti seuraavan ponnen: Selvitetään seuraavan hintaluokan lisäämistä Asiakas- ja potilasmaksuhinnastoon 2026:\n\nErikoissairaanhoidon poliklinikkakäyntien yhteyteen uusi hintaluokka:\n\nHoitopuhelu, 31 euroa\n\n* Hoitopuhelu tarkoittaa terveydenhuollon ammattihenkilön ja 18 vuotta täyttäneen potilaan välistä puhelua, jossa potilaan erikoissairaanhoidon palveluntarve täyttyy.\n\n*Puhelun aikana potilas saa hoito-ohjeita tai puhelu liittyy tutkimustulosten läpikäyntiin sekä niihin perustuviin jatkohoito-ohjeisiin.\n\nHoitopuhelu rinnastuu maksuluokaltaan erikoissairaanhoidon poliklinikkakäyntiin. Hoitopuhelulla voidaan korvata vastaanottokäynti ja se kerryttää maksukattoa.\n\nAluevaltuusto hyväksyi esitetyn ponnen yksimielisesti.\n\nAluevaltuusto hyväksyi yksimielisesti päätösesityksen kohdat 1.-2.\n\nMerk. seuraavat valtuutetut poistuivat tämän asian käsittelyn aikana ennen päätöksentekoa:\n\nPasi Kanniainen (klo 14.15);\n\nPekka Kauppi (klo 14.26);\n\nMerja Kivelä (klo 14.30);\n\nUlla-Riitta Harju (klo 14.33).\n\nKeski-Pohjanmaan aluehallitus 11.05.2026 § 110"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "palveluesimies Petra Hyvärinen, talousjohtaja Helinä Saarela\n\nAluevaltuusto palautti 30.3.2026 valmisteluun aluevaltuuston aloitteeseen tehdyn vastauksen koskien aloitetta maksuhuojennusten ja -alennusten hakeminen saavutettavaksi ja selkeäksi Soitessa. Asian palautus valmisteluun koski erityisryhmien maksuttomuuden kriteereitä ja näihin tehtävää lisäystä, jolla mahdollistetaan myös takautuvasti asiakkaan käyntimaksun korjaaminen maksuttomaksi, mikäli asiakas esittää voimassa olevan päätöksen jälkikäteen. Soitessa maksuttomuuden kriteerien ohjetta näiden erityisryhmien osalta esitetään päivitettäväksi niin, että 1.6.2026 tai sen jälkeen päivättyihin laskuihin voidaan takautuvasti korjata asiakkaan käynti maksuttomaksi, mikäli hän näyttää 60 päivän aikana laskun päiväyksestä voimassa olevan maksuttomuuteen oikeuttavan päätöksen. Päätöksen tulee olla voimassa käyntitapahtuman ajankohtajana. Muutos esitetään päivitettäväksi asiakas- ja potilasmaksuhinnaston sivulle 3.\n\nHyvinvointialueesta annetun lain 22 §:n 2 momentin 8 kohdan mukaan aluevaltuusto päättää palveluista ja muista suoritteista perittävien maksujen yleisistä perusteista. Soiten hallintosäännön 19 §:n 8. kohdan mukaan aluevaltuusto päättää palveluista ja muista suoritteista perittävien maksujen yleisistä perusteista sekä hyvinvointialueen järjestämisvastuulle kuuluvista palveluista perittävien asiakasmaksujen yleisistä perusteista.\n\nLiitteenä päivitetty asiakas- ja potilasmaksuhinnasto 2026."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää esittää aluevaltuustolle, että se hyväksyy liitteen mukaiset muutokset asiakas- ja potilasmaksuhinnastoon 2026 1.6.2026 voimaan tuleviksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyvinvointialuejohtaja ehdotti aluehallituksen jatkokokouksessa seuraavasti: Esityslistan liitteenä olevaan hyväksyttäväksi esitettävään päivitettyyn asiakas- ja potilasmaksuhinnastoon 2026 tehdään seuraava lisäys hinnaston sivulle 3 valmistellun punaisella fontilla kirjatun muutoksen jatkoksi: ”Maksuvapautusta laskun lähettämisen jälkeen eivät kuitenkaan enää saa toimeentulotuen saajat, jotka voivat hakea korvausta kyseiseen laskuun Kelasta.”\n\nAluehallitus hyväksyi yksimielisesti hyvinvointialuejohtajan jatkokokouksessa tekemän ehdotuksen liitteen muuttamisesta edellä kirjatulla lisäyksellä ja päätti yksimielisesti esittää aluevaltuustolle, että se hyväksyy päivitetyn liitteen mukaiset muutokset asiakas- ja potilasmaksuhinnastoon 2026 1.6.2026 voimaan tuleviksi.\n\nMerk. talouspäällikkö Mirja Kivelä oli jatkokokouksessa vastaamassa asiaa koskeviin kysymyksiin klo 17.54–18.15.\n\nLiitteenä päivitetty asiakas- ja potilasmaksuhinnasto 2026"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallituksen esityksen mukaisesti aluevaltuusto hyväksyy päivitetyn liitteen mukaiset muutokset asiakas- ja potilasmaksuhinnastoon 2026 1.6.2026 voimaan tuleviksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto hyväksyi päätösehdotuksen yksimielisesti."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Asiakas_ja_potilasmaksuhinnasto_2026_päivitys01062026_sivu3_lisäpäivitys 130526",
+     "url": "https://kpshp-hva.oncloudos.com/kokous/20261110-14-138622.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "32",
+   "title": "Tiedoksi / Muut asiat / Aloitteet",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261110-15",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/20261110-15.PDF",
+   "diary_number": "2587/00.02.00/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluevaltuusto merkitsee tiedoksi:",
+   "decision": "Aluevaltuusto merkitsi tiedoksi:\n\n1. Valtuutettu Piia Rautiolan aloite Ylisukupolvinen hoivayksikkö Lepolan tiloihin. Aloite liitteenä.\n\n2. Keskustan aluevaltuustoryhmän aloite perhehoidon lisäämiseksi Keski-Pohjanmaan hyvinvointialueella. Aloite liitteenä.\n\nMerk. valtuutettu Pia Leinonen poistui kokouksesta klo 13.13 kohdan 1. aloitteen jättämisen aikana ennen tämän asian päätöksentekoa.\n\nKohdan 1. aloitteesta pöytäkirjan liitteenä:\n\n-versio, jossa aloitteen allekirjoittaneiden valtuutettujen omakätiset allekirjoitukset (ei julkaista verkkoon)\n\n-versio ilman allekirjoituksia (verkkojulkinen)",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluevaltuusto merkitsee tiedoksi:"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto merkitsi tiedoksi:\n\n1. Valtuutettu Piia Rautiolan aloite Ylisukupolvinen hoivayksikkö Lepolan tiloihin. Aloite liitteenä.\n\n2. Keskustan aluevaltuustoryhmän aloite perhehoidon lisäämiseksi Keski-Pohjanmaan hyvinvointialueella. Aloite liitteenä.\n\nMerk. valtuutettu Pia Leinonen poistui kokouksesta klo 13.13 kohdan 1. aloitteen jättämisen aikana ennen tämän asian päätöksentekoa.\n\nKohdan 1. aloitteesta pöytäkirjan liitteenä:\n\n-versio, jossa aloitteen allekirjoittaneiden valtuutettujen omakätiset allekirjoitukset (ei julkaista verkkoon)\n\n-versio ilman allekirjoituksia (verkkojulkinen)"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Valtuustoaloite perhehoidon lisäämiseksi/Keskusta",
+     "url": "https://kpshp-hva.oncloudos.com/kokous/20261110-15-140354.PDF"
+    },
+    {
+     "title": "Valtuustoaloite_Ylisukupolvinen hoivayksikkö Lepolan tiloihin/Piia Rautiola_ilman allekirjoituksia",
+     "url": "https://kpshp-hva.oncloudos.com/kokous/20261110-15-140355.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Teerikangas Kristiina",
+   "role": "valtuutettu, pj",
+   "group": "member"
+  },
+  {
+   "name": "Syrjälä Asko",
+   "role": "valtuutettu, 2vpj",
+   "group": "member"
+  },
+  {
+   "name": "Keränen Ulpu",
+   "role": "valtuutettu, 3vpj",
+   "group": "member"
+  },
+  {
+   "name": "Ahlskog Hanna-Lea",
+   "role": "valtuutettu, aluehall.jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Ali-Haapala Virpi",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Behluli Sofia",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Boberg-Santala Linda",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Brandt Mats",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Friis Patrik",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Göös Sanna-Kaisa",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Hankaniemi Tapani",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Harju Ulla-Riitta",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Haukilahti Hannu",
+   "role": "valtuutettu, aluehall.jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hirvikoski Ville",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Hjelm Reetta",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Huuki Ari",
+   "role": "valtuutettu, aluehall.jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Innanen Sari",
+   "role": "valtuutettu, aluehall.pj",
+   "group": "member"
+  },
+  {
+   "name": "Johansson Anette",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Jukkola Janne",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Kanniainen Pasi",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Kauppi Pekka",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Kippo Hannu",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Kivelä Merja",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Kivelä Tomi",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Koskela Minna",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Koskinen Jouni",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Känsälä Kai-Eerik",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Laitila Veikko",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Leinonen Pia",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Leivo-Rintakorpi Tuija",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Malvisto Marko",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Marjamaa Helinä",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Nurmi-Lehto Anna",
+   "role": "valtuutettu, aluehall.jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Orjala Sirpa",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Pajunpää Tapio",
+   "role": "valtuutettu, aluehall.1vpj",
+   "group": "member"
+  },
+  {
+   "name": "Palosaari Petteri",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Peltokangas Tapio",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Pitkänen Mari",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Rautiola Piia",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Ruisaho Sakari",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Salo Mauri",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Sillanpää Pia",
+   "role": "valtuutettu, aluehall.jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Sillanpää Timo",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Snellman Hans",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Syrjälä Toni",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Telimaa Sakari",
+   "role": "valtuutettu,aluehall.jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Tiala Marja",
+   "role": "valtuutettu, aluehall.jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Timonen Marlén",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Torppa Hannes",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Törmä Anja",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Ylikarjula Jukka",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Luoto Elsa-Marella",
+   "role": "nuorisovaltuuston edustaja",
+   "group": "other"
+  },
+  {
+   "name": "Wishart Pietari",
+   "role": "nuorisovaltuuston edustaja",
+   "group": "other"
+  },
+  {
+   "name": "Komulainen Mikko",
+   "role": "hyvinvointialuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Linnavuori Katja",
+   "role": "johtajaylilääkäri",
+   "group": "other"
+  },
+  {
+   "name": "Kurikkala Piia",
+   "role": "johtajaylihoitaja",
+   "group": "other"
+  },
+  {
+   "name": "Oikarinen-Nybacka Tarja",
+   "role": "sosiaalijohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Saarela Helinä",
+   "role": "talousjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Puronhaara Topi",
+   "role": "vt. pelastusjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Hämäläinen Markku",
+   "role": "henkilöstöjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Lönnbäck Minna",
+   "role": "yhteistyöjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Salminen Jussi",
+   "role": "osallisuus- ja asiakkuuspäällikkö",
+   "group": "other"
+  },
+  {
+   "name": "Haanpää Viivi",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Lukkarila Mia",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Autio Tiina",
+   "role": "varavaltuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Vuorinen Veikko",
+   "role": "varavaltuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Tervola Satu",
+   "role": "varavaltuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Sulkakoski Tina",
+   "role": "varavaltuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Heinola Jonas",
+   "role": "varavaltuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Möttönen Vuokko",
+   "role": "varavaltuutettu",
+   "group": "member"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261110",
+  "fetched_at": "2026-10-14T17:08:38+00:00",
+  "content_hash": "e0480af982416b26",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T17:08:38+00:00"
+ }
+}

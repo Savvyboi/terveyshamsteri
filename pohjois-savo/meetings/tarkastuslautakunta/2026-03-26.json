@@ -1,0 +1,367 @@
+{
+ "id": "tarkastuslautakunta/2026-03-26",
+ "region": "pohjois-savo",
+ "body_id": "tarkastuslautakunta",
+ "body_name": "Tarkastuslautakunta",
+ "date": "2026-03-26",
+ "stage": "minutes",
+ "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261008",
+ "pdf_url": "https://pshva.oncloudos.com/kokous/20261008.PDF",
+ "time": "10:00 - 12:58",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "29",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261008-1",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261008-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.",
+   "decision": "Todettiin kokous lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen laillisuus ja päätösvaltaisuus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Todettiin kokous lailliseksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "30",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261008-2",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261008-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Riitta Anttila ja Petra Kairinen.",
+   "decision": "Pöytäkirjantarkastajiksi valittiin Riitta Anttila ja Petra Kairinen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pöytäkirjantarkastajien valinta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Riitta Anttila ja Petra Kairinen."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Riitta Anttila ja Petra Kairinen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "31",
+   "title": "Asioiden käsittelyjärjestys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261008-3",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261008-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asioiden käsittelyjärjestys"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "32",
+   "title": "Johdon katsaus vuodesta 2025 - Talous ja tilinpäätös 2025",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261008-4",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261008-4.PDF",
+   "diary_number": "324/00.03.01/2025",
+   "preparer": null,
+   "presenter": "arviointipäällikkö",
+   "proposal": "Tarkastuslautakunta merkitsee esityksen ja siitä käydyn keskustelun tiedoksi.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 100\n\nLiitteet ja oheisaineisto\n\nValmistelu\nTarkastuslautakunnan työohjelman mukaisesti tarkastuslautakunta kuulee vuoden 2025 tilikauden tuloksesta ja talousraportoinnista. Taloudesta kuuleminen on osa tarkastuslautakunnan vuoden 2025 arviointikertomuksen laadintaa. Kuultavaksi on kutsuttu talousjohtaja Kari Janhonen.",
+   "decision": "Merkitään pöytäkirjaan, että\n\n- Jukka Savolainen liittyi kokoukseen klo 10.19\n\n- Kari Janhonen poistui klo 11.01.\n\nPäätösehdotus hyväksyttiin.\n\nKokoustauko klo 11.01-11.05.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nKatja Yli-Monni"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että\n\n- Jukka Savolainen liittyi kokoukseen klo 10.19\n\n- Kari Janhonen poistui klo 11.01.\n\nPäätösehdotus hyväksyttiin.\n\nKokoustauko klo 11.01-11.05."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "arviointipäällikkö"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Tarkastuslautakunta merkitsee esityksen ja siitä käydyn keskustelun tiedoksi.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 100\n\nLiitteet ja oheisaineisto\n\nValmistelu\nTarkastuslautakunnan työohjelman mukaisesti tarkastuslautakunta kuulee vuoden 2025 tilikauden tuloksesta ja talousraportoinnista. Taloudesta kuuleminen on osa tarkastuslautakunnan vuoden 2025 arviointikertomuksen laadintaa. Kuultavaksi on kutsuttu talousjohtaja Kari Janhonen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "33",
+   "title": "Johdon katsaus vuoteen 2025 - Henkilöstö ja henkilöstökertomus 2025",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261008-5",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261008-5.PDF",
+   "diary_number": "324/00.03.01/2025",
+   "preparer": null,
+   "presenter": "arviointipäällikkö",
+   "proposal": "Tarkastuslautakunta merkitsee esityksen ja siitä käydyn keskustelun tiedoksi.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 100\n\nLiitteet ja oheisaineisto\n\nValmistelu\nTarkastuslautakunnan kauden 2025-2026 työohjelman mukaisesti tarkastuslautakunta kuulee katsauksen hyvinvointialueen henkilöstöasioista ja vuoden 2025 henkilöstökertomuksesta.\n\nKuultaviksi kokoukseen on kutsuttu henkilöstöjohtaja Mari Antikainen ja palvelussuhdepäällikkö Ulla Palttala.",
+   "decision": "Merkitään pöytäkirjaan, että\n\n- Ulla Palttala oli paikalla klo 11.05- 12.03\n\n- Mari Antikainen poistui klo 12.03\n\nPäätösehdotus hyväksyttiin.\n\nKokoustauko klo 12.03-12.07.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nKatja Yli-Monni"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että\n\n- Ulla Palttala oli paikalla klo 11.05- 12.03\n\n- Mari Antikainen poistui klo 12.03\n\nPäätösehdotus hyväksyttiin.\n\nKokoustauko klo 12.03-12.07."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "arviointipäällikkö"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Tarkastuslautakunta merkitsee esityksen ja siitä käydyn keskustelun tiedoksi.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 100\n\nLiitteet ja oheisaineisto\n\nValmistelu\nTarkastuslautakunnan kauden 2025-2026 työohjelman mukaisesti tarkastuslautakunta kuulee katsauksen hyvinvointialueen henkilöstöasioista ja vuoden 2025 henkilöstökertomuksesta.\n\nKuultaviksi kokoukseen on kutsuttu henkilöstöjohtaja Mari Antikainen ja palvelussuhdepäällikkö Ulla Palttala."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "34",
+   "title": "Tilannekatsaus vuoden 2025 arviointikertomuksen valmisteluun",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261008-6",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261008-6.PDF",
+   "diary_number": "324/00.03.01/2025",
+   "preparer": null,
+   "presenter": "arviointipäällikkö",
+   "proposal": "Tarkastuslautakunta merkitsee tiedoksi arviointikertomuksen valmistelutilanteen.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 100\n\nLiitteet ja oheisaineisto\n\nValmistelu\nHyvinvointialueista annetun lain 611/2021 14 luvun 125 §:n mukaan tarkastuslautakunta laatii arviointisuunnitelman ja antaa aluevaltuustolle kultakin vuodelta arviointikertomuksen, jossa esitetään arvioinnin tulokset. Arviointikertomus käsitellään aluevaltuustossa tilinpäätöksen yhteydessä.\n\nTarkastuslautakunta käynnisti vuoden 2025 arviointikertomuksen valmistelun 12.2.2026 § 16.",
+   "decision": "Merkittiin tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nKatja Yli-Monni"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkittiin tiedoksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "arviointipäällikkö"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Tarkastuslautakunta merkitsee tiedoksi arviointikertomuksen valmistelutilanteen.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 100\n\nLiitteet ja oheisaineisto\n\nValmistelu\nHyvinvointialueista annetun lain 611/2021 14 luvun 125 §:n mukaan tarkastuslautakunta laatii arviointisuunnitelman ja antaa aluevaltuustolle kultakin vuodelta arviointikertomuksen, jossa esitetään arvioinnin tulokset. Arviointikertomus käsitellään aluevaltuustossa tilinpäätöksen yhteydessä.\n\nTarkastuslautakunta käynnisti vuoden 2025 arviointikertomuksen valmistelun 12.2.2026 § 16."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "35",
+   "title": "Osallistuminen Itä-Suomen yhteistyöalueen tarkastuslautakuntien tapaamiseen, Keski-Suomi",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261008-7",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261008-7.PDF",
+   "diary_number": "3583/00.02.07/2025",
+   "preparer": null,
+   "presenter": "tarkastuslautakunnan puheenjohtaja",
+   "proposal": "Tarkastuslautakunta päättää, että asia käsitellään puheenjohtajan selostuksen pohjalta ilman viranhaltijan valmistelua ja esittelyä, ja että puheenjohtajan ehdotus on käsittelyn pohjana eikä vaadi kannatusta.\n\nTarkastuslautakunta päättää, että\n\n1) lautakunta osallistuu tarkastuslautakuntien tapaamiseen Hankasalmella 19.-20.11.2026 Keski-Suomen hyvinvointialueella\n\n2) osallistujille korvataan tilaisuuteen osallistumisesta aiheutuneet kustannukset ja\n\n3) arviointipäällikkö ja tarkastuksen asiantuntija osallistuvat tapaamiseen.\n\nEnnakkovaikutusten arviointi\n\nTarkastuslautakuntien tapaaminen kehittää tarkastuslautakunnan arviointityötä.\n\nToimivallan peruste\nHallintosääntö § 100\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nValmistelu\nKeski-Suomen hyvinvointialue on kutsunut Itä-Suomen yhteistyöalueen tarkastuslautakunnat valmistelevine viranhaltijoineen Hankasalmelle 19.-20.11.2026. Tarkastuslautakuntien tapaaminen kehittää tarkastuslautakunnan arviointityötä.\n\nKustannukset varataan kustannuspaikalta 111213.\n\nKutsu tapaamiseen käsitellään kokouksessa.",
+   "decision": "Katja Yli-Monni ja Marko Siponen ilmoittivat olevansa esteellisiä (HL 28.1 § 1) ja poistuivat klo 12.42-12.43 asian käsittelyn ja päätöksen teon ajaksi.\n\nTarkastuslautakunnan puheenjohtaja Kari Loponen toimi esittelijänä asian osalta.\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\n-"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Katja Yli-Monni ja Marko Siponen ilmoittivat olevansa esteellisiä (HL 28.1 § 1) ja poistuivat klo 12.42-12.43 asian käsittelyn ja päätöksen teon ajaksi.\n\nTarkastuslautakunnan puheenjohtaja Kari Loponen toimi esittelijänä asian osalta.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "tarkastuslautakunnan puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Tarkastuslautakunta päättää, että asia käsitellään puheenjohtajan selostuksen pohjalta ilman viranhaltijan valmistelua ja esittelyä, ja että puheenjohtajan ehdotus on käsittelyn pohjana eikä vaadi kannatusta.\n\nTarkastuslautakunta päättää, että\n\n1) lautakunta osallistuu tarkastuslautakuntien tapaamiseen Hankasalmella 19.-20.11.2026 Keski-Suomen hyvinvointialueella\n\n2) osallistujille korvataan tilaisuuteen osallistumisesta aiheutuneet kustannukset ja\n\n3) arviointipäällikkö ja tarkastuksen asiantuntija osallistuvat tapaamiseen.\n\nEnnakkovaikutusten arviointi\n\nTarkastuslautakuntien tapaaminen kehittää tarkastuslautakunnan arviointityötä.\n\nToimivallan peruste\nHallintosääntö § 100\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nValmistelu\nKeski-Suomen hyvinvointialue on kutsunut Itä-Suomen yhteistyöalueen tarkastuslautakunnat valmistelevine viranhaltijoineen Hankasalmelle 19.-20.11.2026. Tarkastuslautakuntien tapaaminen kehittää tarkastuslautakunnan arviointityötä.\n\nKustannukset varataan kustannuspaikalta 111213.\n\nKutsu tapaamiseen käsitellään kokouksessa."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "36",
+   "title": "Tiedoksisaatettavat asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261008-8",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261008-8.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "arviointipäällikkö",
+   "proposal": "Tarkastuslautakunta merkitsee asiat tiedoksi.",
+   "decision": "Merkittiin tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Tiedoksisaatettavat asiat\n\nMuistio tarkastuslautakunnalle ja sisäiselle tarkastukselle 25.2.2026\n\nValtiontalouden tarkastusviraston tarkastuskertomus – Hyvinvointialueiden sidosyksikköhankinnat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkittiin tiedoksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "arviointipäällikkö"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Tarkastuslautakunta merkitsee asiat tiedoksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "37",
+   "title": "Muut asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261008-9",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261008-9.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Merkittiin tiedoksi.\n\nPuheenjohtaja päätti kokouksen klo 12.58.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat\n\nSeuraava kokous to 9.4.2026 klo 10-13.\n\nTarkastuslautakunta merkitsee muut asiat tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkittiin tiedoksi.\n\nPuheenjohtaja päätti kokouksen klo 12.58."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Loponen Kari",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Savolainen Jukka",
+   "role": "varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Anttila Riitta",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kairinen Petra",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Miettinen Taija",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Suutarinen Suvi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Väänänen Harri",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Yli-Monni Katja",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Siponen Marko",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Antikainen Mari",
+   "role": "henkilöstöjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Janhonen Kari",
+   "role": "talousjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Palttala Ulla",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Turunen Riikka",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261008",
+  "fetched_at": "2026-10-14T18:09:55+00:00",
+  "content_hash": "13f34edcc9e03d86",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T18:09:55+00:00"
+ }
+}

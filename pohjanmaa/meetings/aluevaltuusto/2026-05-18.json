@@ -1,0 +1,954 @@
+{
+ "id": "aluevaltuusto/2026-05-18",
+ "region": "pohjanmaa",
+ "body_id": "aluevaltuusto",
+ "body_name": "Aluevaltuusto",
+ "date": "2026-05-18",
+ "stage": "minutes",
+ "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026699",
+ "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026699.PDF",
+ "time": "09:00 - 12:41",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "31",
+   "title": "Kokouksen avaus, laillisuus ja päätösvaltaisuus",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026699-1",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Aluevaltuuston puheenjohtaja Kim Berg avasi kokouksen klo 9.00. Läsnä olevat jäsenet todettiin sähköisen kokousjärjestelmän avulla. Kokous todettiin laillisesti kokoon kutsutuksi ja läsnä olevien valtuutettujen lukumäärään nähden päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pohjanmaan hyvinvointialueen hallintosäännön 110 §:n mukaan kokouskutsun antaa valtuuston puheenjohtaja tai hänen estyneenä ollessaan varapuheenjohtaja. Kokouskutsussa on ilmoitettava kokouksen aika ja paikka sekä käsiteltävät asiat.\n\nKokouskutsussa on mainittava, jos kyseessä on sähköinen kokous ja ilmoitettava verkko-osoite sekä tila, jossa yleisö voi seurata kokousta. Kokouskutsussa on mainittava, jos osa kokousasioista käsitellään suljetussa kokouksessa.\n\nKokouskutsu on lähetettävä vähintään seitsemän (7) päivää ennen valtuuston kokousta kullekin valtuutetulle ja niille, joilla on kokouksessa läsnäolo-oikeus tai -velvollisuus sekä kaikille jäsenkunnille. Samassa ajassa on kokouksesta tiedotettava hyvinvointialueen verkkosivuilla.\n\nHallintosäännön 117 §:n mukaan läsnä olevat valtuutetut ja varavaltuutetut todetaan sähköisesti tai nimenhuudolla, joka toimitetaan aakkosjärjestyksessä. Todettuaan läsnä olevat valtuutetutpuheenjohtaja toteaa esteen ilmoittaneet valtuutetut ja läsnä olevat varavaltuutetut sekä onko kokous laillisesti koolle kutsuttu ja päätösvaltainen.\n\nLaki hyvinvointialueille (611/2021) 108 §:n mukaan valtuusto on päätösvaltainen, kun vähintään kaksi kolmasosaa valtuutetuista on läsnä.\n\nPuheenjohtaja avaa kokouksen.\n\nSuoritetaan nimenhuuto, ja todetaan läsnä olevat jäsenet."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuuston puheenjohtaja Kim Berg avasi kokouksen klo 9.00. Läsnä olevat jäsenet todettiin sähköisen kokousjärjestelmän avulla. Kokous todettiin laillisesti kokoon kutsutuksi ja läsnä olevien valtuutettujen lukumäärään nähden päätösvaltaiseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "32",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026699-2",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pohjanmaan hyvinvointialueen hallintosäännön 130 §:n mukaan valtuusto valitsee jokaisessa kokouksessa kaksi (2) valtuutettua tarkastamaan kokouksesta laaditun pöytäkirjan siltä osin kuin pöytäkirjaa ei tarkasteta kokouksessa.\n\nHallintosäännön 131 §:n mukaan valtuuston pöytäkirja siihen liitettyine valitusosoituksineen pidetään tarkastamisen jälkeen nähtävänä hyvinvointialueen verkkosivuilla, siten kuin laki hyvinvointialueista 145 §:ssä säädetään.\n\nHallintosäännön 167 §:n mukaan pöytäkirja voidaan allekirjoittaa ja tarkastaa sähköisesti.\n\nPöytäkirjantarkastajiksi ehdotetaan jäseniä: Lisen Ede ja Gudrun Eklöv."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "33",
+   "title": "Henkilöstöraportti 2025",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026699-3",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-3.PDF",
+   "diary_number": "ÖVPH/2447/01.00.00/2026",
+   "preparer": "Suikkanen Juha; Lisätietoja: puhelinnumero:; Henkilöstöraportti 2025 antaa kokonaiskuvan Pohjanmaan hyvinvointialueen henkilöstötilanteesta, kehityssuunnista ja keskeisistä HR tunnusluvuista vuoden 2025 osalta. Raportti tukee henkilöstöjaoston tehtävää seurata henkilöstöpolitiikan toteutumista, henk",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Aluevaltuusto merkitsi henkilöstöraportin 2025 tiedoksi.\n\nValtuutettu Lotta Alhonnoro teki seuraavan toimenpidealoitteen: \"Hyvinvointialueella tehdään tasa-arvo- ja yhdenvertaisuuskysely henkilöstölle\". Toimenpidealoitetta kannattivat valtuutetut Sari Ala-Heikkilä ja Elina Sahlgren. Aluevaltuusto hyväksyi toimenpidealoitteen yksimielisesti.\n\nPöytäkirjaan merkittiin, että HR-johtaja Juha Suikkanen esitteli keskeiset avainluvut henkilöstöraportista 2025.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Henkilöstöjaosto 23.04.2026 § 35"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Suikkanen Juha\n\nLisätietoja: puhelinnumero:\n\nHenkilöstöraportti 2025 antaa kokonaiskuvan Pohjanmaan hyvinvointialueen henkilöstötilanteesta, kehityssuunnista ja keskeisistä HR tunnusluvuista vuoden 2025 osalta. Raportti tukee henkilöstöjaoston tehtävää seurata henkilöstöpolitiikan toteutumista, henkilöstön työhyvinvointia sekä hyvinvointialueen työnantajakyvykkyyttä ja toiminnan kestävyyttä.\n\nRaportissa tarkastellaan henkilöstörakennetta, rekrytointia ja työvoiman saatavuutta, työhyvinvointia ja työkykyä, osaamisen kehittämistä, esihenkilötyötä ja johtamista sekä palkkausta, työaikaa ja yhteistoimintaa. Lisäksi raportti kuvaa toimintaympäristön muutosten vaikutuksia henkilöstöön ja kokoaa keskeiset kehittämistarpeet tuleville vuosille.\n\nVuonna 2025 hyvinvointialueen henkilöstömäärä oli vuoden lopussa noin 8 450 henkilöä ja henkilöstötyövuosia kertyi 7 195. Henkilöstömäärä ja henkilötyövuodet vähenivät edellisvuoteen verrattuna talouden sopeuttamistoimien, rekrytointien täyttölupamenettelyn sekä määräaikaisten työsuhteiden vähentymisen seurauksena. Samanaikaisesti henkilöstön vaihtuvuus ja sairauspoissaolot laskivat, mikä viittaa osin henkilöstön sitoutuneisuuteen ja työkyvyn tukemisen onnistumiseen.\n\nTyöhyvinvoinnin osalta raportti osoittaa kaksijakoisen kehityksen: työ koetaan edelleen merkitykselliseksi ja työyhteisöjen toimivuus on vahva, mutta koettu kuormitus, työn hallinnan heikkeneminen ja epävarmuus ovat lisääntyneet erityisesti muutostilanteissa. Tulokset korostavat johtamisen, viestinnän, osallisuuden ja työkyvyn tuen merkitystä henkilöstön jaksamisen ja työssä pysymisen kannalta.\n\nOsaamisen kehittämisessä painopisteet ovat olleet potilas- ja asiakasturvallisuudessa, digiosaamisessa, kliinisessä osaamisessa sekä johtamisen vahvistamisessa. Raportti tuo esiin myös koulutusjärjestelmään ja rahoitukseen liittyvät muutokset, jotka edellyttävät tulevina vuosina entistä suunnitelmallisempaa ja strategisempaa osaamisen johtamista.\n\nHenkilöstöraportti 2025 muodostaa keskeisen tietopohjan henkilöstöohjelman ja muun henkilöstöjohtamisen kehittämiselle vuosina 2026-2027. Raportissa tunnistetut vahvuudet ja kehittämiskohteet tukevat henkilöstöjaoston päätöksentekoa sekä osaltaan hyvinvointialueen strategisten tavoitteiden toimeenpanoa.\n\nHenkilöstöraportti liitteenä.\n\nHR-johtaja Suikkanen Juha\n\nehdottaa, että henkilöstöjaosto merkitsee raportin tiedoksi ja toimittaa sen edelleen tiedoksi aluehallitukselle ja aluevaltuustolle."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin.\n\nTekninen korjaus liitteeseen: 2.4 Ammattiryhmät\n\nAluehallitus 04.05.2026 § 108"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Suikkanen Juha\n\nLisätietoja: puhelinnumero:\n\nHyvinvointialuejohtaja Kinnunen Marina\n\nehdottaa, että aluehallitus merkitsee raportin tiedoksi ja toimittaa sen edelleen tiedoksi aluevaltuustolle."
+    },
+    {
+     "heading": "Päätös",
+     "text": "HR-johtaja Juha Suikkanen oli paikalla ja esitteli raportin sekä vastasi kysymyksiin.\n\nAluehallitus merkitsi henkilöstöraportin tiedoksi ja toimittaa sen edelleen tiedoksi aluevaltuustolle.\n\nPykälän hyväksymisen jälkeen tauko klo 10.35-10.45."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Suikkanen Juha\n\nLisätietoja: puhelinnumero:\n\nHallitus\n\nehdottaa, että aluevaltuusto merkitsee raportin tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto merkitsi henkilöstöraportin 2025 tiedoksi.\n\nValtuutettu Lotta Alhonnoro teki seuraavan toimenpidealoitteen: \"Hyvinvointialueella tehdään tasa-arvo- ja yhdenvertaisuuskysely henkilöstölle\". Toimenpidealoitetta kannattivat valtuutetut Sari Ala-Heikkilä ja Elina Sahlgren. Aluevaltuusto hyväksyi toimenpidealoitteen yksimielisesti.\n\nPöytäkirjaan merkittiin, että HR-johtaja Juha Suikkanen esitteli keskeiset avainluvut henkilöstöraportista 2025."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nHenkilöstöraportti 2025\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Henkilöstöraportti 2025",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-3-93505.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "34",
+   "title": "Neljännesvuosikatsaus Q1 - 2026",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026699-4",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-4.PDF",
+   "diary_number": "ÖVPH/2717/02.02.02/2026",
+   "preparer": "Nystrand Lena; Lisätietoja: puhelinnumero:; Hyvinvointialueen osavuosikatsaus 31.3.2026 on valmistunut. Raportti kuvaa toiminnan ja talouden tilannetta vuoden kolmen ensimmäisen kuukauden ajalta. Taloudellisen tilanteen lisäksi raportissa käsitellään toimintaa ja toimintavolyymia sekä strategisia ta",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 04.05.2026 § 109"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Nystrand Lena\n\nLisätietoja: puhelinnumero:\n\nHyvinvointialueen osavuosikatsaus 31.3.2026 on valmistunut. Raportti kuvaa toiminnan ja talouden tilannetta vuoden kolmen ensimmäisen kuukauden ajalta. Taloudellisen tilanteen lisäksi raportissa käsitellään toimintaa ja toimintavolyymia sekä strategisia tavoitteita ja mittareita. Lisäksi samalta ajanjaksolta laadittu laaturaportti on yhdistetty samaan asiakirjaan.\n\nOsavuosiraportti on laadittu toiminta- ja taloussuunnitelman pohjalta sekä Pohjanmaan hyvinvointialueelle vahvistetun organisaatiomallin mukaisesti, huomioon ottaen siihen tehdyt muutokset. Toimintavolyymia koskevia tavoitteita on seurattu tulosyksikkötasolla, ja toteutuneet suoritteet vaihtelevat merkittävästi sekä yksiköiden välillä että suhteessa asetettuihin tavoitteisiin.\n\nOsavuosiraportti 31.3.2026 osoittaa 1?052?399,99 euron ylijäämää. Talousarvion seuranta perustuu vahvistettuun talousarvioon mukaan lukien aluevaltuuston kokouksessaan 30.3.2026 hyväksymät muutokset. Aluevaltuusto vahvisti joulukuussa 2025 talousarvion, joka sisälsi 52,3 miljoonan euron ylijäämän, eli rahoitukseen sopeutetun talousarvion, jossa menoja oli vähennetty nettomääräisesti noin 57 miljoonan euron sopeutustoimenpiteillä. Vaikka ennen vuoden 2026 talousarvion vahvistamista 1.12.2025 keskusteltiin alijäämien kattamiselle myönnettävän määräajan pidentämismahdollisuudesta, voimassa oleva lainsäädäntö ei tuntenut tätä mahdollisuutta. Ainoaksi vaihtoehdoksi jäi näin ollen talousarvion laatiminen siten, että kertyneet alijäämät tasapainotetaan viimeistään 31.12.2026 kulloinkin voimassa olevan lainsäädännön mukaisesti. Talousarvion voidaan kuitenkin todeta sisältävän kohtuuttoman suuria säästövaatimuksia, joita vuoden 2025 tilinpäätöksen ja vuoden 2026 ensimmäisen neljänneksen osavuosikatsauksen perusteella ei ole mahdollista saavuttaa. Talousarvion 2026 suurimmat haasteet liittyvät asiakaspalveluihin. Jatkuvista sopeutustoimenpiteistä käydään keskustelua, ja vuoden 2026 talousarvion muutosta valmistellaan samanaikaisesti osavuosi-raportin kanssa.\n\nToimintatuotot ovat toteutuneet 23,8 miljoonaan euroon eli 24,2 prosenttiin talousarviosta. Tämä on 0,7 miljoonaa euroa eli 2,7 prosenttia vähemmän kuin vastaavana ajankohtana vuonna 2025. Myyntituotot ovat 4,6 miljoonaa euroa eli 21,8 prosenttia budjetoidusta, ja ne koostuvat pääosin laskutuksesta muille hyvinvointialueille, vakuutusyhtiöille ja valtiolle.\n\nMaksutuotot ovat 14,4 miljoonaa euroa eli 24,7 prosenttia budjetoidusta, kun taas vuokratuotot ovat 2,4 miljoonaa euroa eli 27,2 prosenttia budjetoidusta. Avustukset ja tuet toimintatuottojen joukossa ovat 31.3.2026 mennessä yhteensä 2,2 miljoonaa euroa ja vastaavat pääosin hankkeista aiheutuvia kustannuksia.\n\nToimintakulut ovat toteutuneet 233,5 miljoonaan euroon eli 26,3 prosenttiin talousarviosta. Kasvu vuoteen 2025 verrattuna on 1,5 prosenttia eli 3,5 miljoonaa euroa. Henkilöstökulut ovat toteutuneet 118,7 miljoonaan euroon eli 24,8 prosenttiin, ja kasvu samaan ajankohtaan vuonna 2025 verrattuna on 12,6 miljoonaa euroa eli 2,3 prosenttia. Nykyisen tason arvioidaan kuitenkin riittävän tuleviin palkankorotuksiin edellyttäen, että henkilöstövähennykset toteutuvat suunnitellusti. Sijaistarpeisiin liittyvä lisämäärärahan tarve ei vielä näy ensimmäisellä neljänneksellä, mutta tarve on jo havaittavissa ja se huomioidaan talousarviomuutoksen yhteydessä.\n\nOstopalvelujen talousarvio on tällä hetkellä suurin haaste vuoden 2026 talousarviossa tapahtuneen merkittävän leikkauksen vuoksi. Ostopalvelut ovat toteutuneet 82,2 miljoonaan euroon eli 28,9 prosenttiin budjetoidusta ja ovat kasvaneet 4,1 prosenttia verrattuna vastaavaan ajankohtaan vuonna 2025. Yli puolet ostopalveluista koostuu asiakaspalveluista, joissa kasvu on 13 prosenttia eli 5,4 miljoonaa euroa verrattuna vuoteen 2025. Suurempien määrärahojen tarve huomioidaan talousarviomuutoksessa. Aineet, tarvikkeet ja tavarat ovat toteutuneet 15,3 miljoonaan euroon eli 26,2 prosenttiin. Avustukset ja tuet ovat toteutuneet 5,0 miljoonaan euroon eli 25,8 prosenttiin budjetoidusta, ja vuokrakulut ovat 11,5 miljoonaa euroa eli 25,6 prosenttia budjetoidusta.\n\nNettotoimintakulut eli toimintakate ovat 209,7 miljoonaa euroa, mikä vastaa 26,5 prosenttia budjetoidusta ja merkitsee 2 prosentin eli 4,1 miljoonan euron kasvua verrattuna vastaavaan ajankohtaan vuonna 2025. Sopeutustoimenpiteitä toteutetaan jatkuvasti kustannustason alentamiseksi, mutta samalla valmistellaan realistisempaa talousarviota, joka perustuu alijäämien kattamisajan pidentämiseen.\n\nToimialakohtaisissa katsauksissa seurataan kunkin yksikön suoritteita suhteessa asetettuihin tavoitteisiin sekä taloudellista tulosta, jossa painopiste on tällä hetkellä siinä, kuinka hyvin toiminnan nettokustannukset ovat toteutuneet suhteessa vahvistettuun talousarvioon. Strategiset tavoitteet ja mittarit on koottu ja niitä on seurattu samalta ajanjaksolta.\n\nToimintavolyymi vaihtelee eri yksiköiden välillä. Osa yksiköistä on lisännyt toimintaansa ja osa vähentänyt, ja suurin osa muutoksista on tapahtunut suunnitellusti. Suoritteiden tilastoinnissa esiintyy edelleen vaihtelua, mutta tilanne paranee jatkuvasti. Lopullinen harmonisointi on kuitenkin mahdollista vasta sen jälkeen, kun uusi asiakas- ja potilastietojärjestelmä on ollut täysimääräisessä käytössä pidempään. Tällä hetkellä voidaan todeta, että joillakin yksiköillä on viivettä kirjaamisissa. Rekisteröinnin yhtenäisten käytäntöjen koulutukseen ja tiedottamiseen panostetaan voimakkaasti. Nykytilanteessa on nähtävissä, ettei laadittu talousarvio tule riittämään, ja tämä koskee erityisesti asiakaspalveluiden määrärahoja.\n\nHyvinvointialuejohtaja Kinnunen Marina\n\nehdottaa, että aluehallitus merkitsee neljännesvuosikat­sauksen Q1 - 2026 tiedoksi, sekä lähettää sen aluevaltuustolle tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus merkitsi neljännesvuosikatsauksen Q1 - 2026 tiedoksi ja lähettää sen aluevaltuustolle tiedoksi."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Nystrand Lena\n\nLisätietoja: puhelinnumero:\n\nHallitus\n\nehdottaa, että aluevaltuusto merkitsee neljännesvuosikatsauksen Q1 - 2026 tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nKvartalsöversikt - Osavuosikatsaus Q1 2026\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Kvartalsöversikt - Osavuosikatsaus Q1 2026",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-4-94503.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "35",
+   "title": "Talousarviomuutos 2026",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026699-5",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-5.PDF",
+   "diary_number": "ÖVPH/2718/02.02.02/2026",
+   "preparer": "Nystrand Lena; Lisätietoja: puhelinnumero:; Koska vaatimuksena oli, että talousarvio osoittaisi alijäämien kattamista vuoden 2026 loppuun mennessä, laadittiin liian tiukka talousarvio etenkin ostopalvelujen ja tarkemmin sanottuna asiakaspalvelujen ostojen osalta. Vuoden 2026 ensimmäisen neljänneksen",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin äänetyksen jälkeen.\n\nValtuutettu David Pettersson esitti hallituksen esityksestä poiketen, että aiemmin tehty päätös maksuttomista synnytyksistä kumotaan ja että tuloja siten lisätään 125?000 eurolla.\n\nEhdotusta kannattivat valtuutetut Holmäng, Hjufors, Eklöv ja Tokou. Puheenjohtaja totesi, että valmistelusta poikkeava ehdotus oli tehty ja saanut kannatusta, minkä vuoksi asiasta on äänestettävä. Äänestyksen jälkeen hallituksen esitys hyväksyttiin 48 jaa-äänellä ja 11 ei-äänellä. Äänestysluettelo liitteenä.\n\nPöytäkirjan asiatekstiin teknisenä korjausena käsitettä \"maksuton synnytys\" käytetään käsitteen \"ilmainen synnytys\" sijaan.\n\nKokous keskeytettiin lounastauon ajaksi klo 11.25-12.00.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 04.05.2026 § 110"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Nystrand Lena\n\nLisätietoja: puhelinnumero:\n\nKoska vaatimuksena oli, että talousarvio osoittaisi alijäämien kattamista vuoden 2026 loppuun mennessä, laadittiin liian tiukka talousarvio etenkin ostopalvelujen ja tarkemmin sanottuna asiakaspalvelujen ostojen osalta. Vuoden 2026 ensimmäisen neljänneksen osavuosiraportti osoittaa nyt selvästi, että näitä talousarvion leikkauksia ei voida toteuttaa, vaan talousarvioon tarvitaan seuraavat lisäykset:\n\n-\n+ 26 milj. asiakaspalveluihin pääasiassa sairaalapalveluissa (yliopistosairaalat ja muut sairaalat)\n\n-\n+ 3,5 milj. asiakaspalveluihin lisäpanostuksena palveluasumiseen koti- ja asumispalvelujen toimialalla\n\n-\n+ 7,9 milj. asiakaspalvelujen kustannuslisäyksiin, jotka ovat syntyneet vuonna 2026 sairaalapalveluissa ja vammaispalveluissa\n\n-\n+ 5,5 milj. panostuksena sijaismäärärahaan\n\n-\nmaksutuotot vähenevät 125.000 eurolla hallituksen tekemän, maksutonta synnytyshoitoa koskevan päätöksen mukaisesti.\n\nYhteensä 43 miljoonaa €. Muut vuoden 2026 talousarvioon sisältyvät sopeutustoimet säilyvät ennallaan. Muutettu talousarvio on 9,3 miljoonaa euroa ylijäämäinen.\n\nTilinpäätös 2025 ja osavuosiraportti osoittavat, että alijäämiä ei ole mahdollista kattaa vuoden loppuun 2026 mennessä, vaan tarvitaan lisäaikaa. Lisäaikaa on nyt mahdollista hakea väliaikaisen lakiesityksen johdosta. Toimenpiteet alijäämien kattamiseksi ja lisäaikaa koskeva hakemus käsitellään erikseen.\n\nHyvinvointialuejohtaja Kinnunen Marina\n\nehdottaa, että hallitus hyväksyy osaltaan ja esittää valtuustolle, että tämä hyväksyy talousarviomuutoksen 2026."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin ehdotuksen mukaan.\n\nHallituksen jäsen David Pettersson esittää, että aiemmin tehty päätös ilmaisista synnytyksistä perutaan ja näin ollen tuloja lisätään n. 125 000 €. Ehdotusta ei kannatettu ja se raukesi.\n\nDavid Pettersson jätti eriävän mielipiteen pöytäkirjaan."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Nystrand Lena\n\nLisätietoja: puhelinnumero:\n\nHallitus\n\nehdottaa, että aluevaltuusto hyväksyy talousarviomuutoksen 2026."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin äänetyksen jälkeen.\n\nValtuutettu David Pettersson esitti hallituksen esityksestä poiketen, että aiemmin tehty päätös maksuttomista synnytyksistä kumotaan ja että tuloja siten lisätään 125?000 eurolla.\n\nEhdotusta kannattivat valtuutetut Holmäng, Hjufors, Eklöv ja Tokou. Puheenjohtaja totesi, että valmistelusta poikkeava ehdotus oli tehty ja saanut kannatusta, minkä vuoksi asiasta on äänestettävä. Äänestyksen jälkeen hallituksen esitys hyväksyttiin 48 jaa-äänellä ja 11 ei-äänellä. Äänestysluettelo liitteenä.\n\nPöytäkirjan asiatekstiin teknisenä korjausena käsitettä \"maksuton synnytys\" käytetään käsitteen \"ilmainen synnytys\" sijaan.\n\nKokous keskeytettiin lounastauon ajaksi klo 11.25-12.00."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nBudgetändring - Talousarviomuutos 4.5.2026\n\nLiite 2\n\nOmröstningslängd § 35 Äänestysluettelo\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Budgetändring - Talousarviomuutos 4.5.2026",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-5-94586.PDF"
+    },
+    {
+     "title": "Omröstningslängd § 35 Äänestysluettelo",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-5-97031.PDF"
+    }
+   ],
+   "votes": [
+    {
+     "counts": {
+      "jaa": 48,
+      "ei": 11
+     },
+     "context": "Ehdotusta kannattivat valtuutetut Holmäng, Hjufors, Eklöv ja Tokou. Puheenjohtaja totesi, että valmistelusta poikkeava ehdotus oli tehty ja saanut kannatusta, minkä vuoksi asiasta on äänestettävä. Äänestyksen jälkeen hallituksen esitys hyväksyttiin 48 jaa-äänellä ja 11 ei-äänellä. Äänestysluettelo liitteenä.",
+     "provisional": true,
+     "names": {}
+    }
+   ],
+   "redacted": false
+  },
+  {
+   "number": "36",
+   "title": "Tulevaisuus- ja kehittämisohjelman (TUKE) toimenpiteet kertyneiden alijäämien kattamiseksi pidennetyn määräajan avulla",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026699-6",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-6.PDF",
+   "diary_number": "ÖVPH/2719/02.02.02/2026",
+   "preparer": "Nystrand Lena; Lisätietoja: puhelinnumero:; Aluehallitus päätti 24.3.2026 käynnistää valmisteluprosessin, jotta aluevaltuusto voi käsitellä toukokuun kokouksessaan suunnitelman, joka täyttää hyvinvointialueesta annetun lain 115 a §:n 2 momentissa säädetyt vaatimukset.; Hakemuksen tekemiselle säädett",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 04.05.2026 § 111"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Nystrand Lena\n\nLisätietoja: puhelinnumero:\n\nAluehallitus päätti 24.3.2026 käynnistää valmisteluprosessin, jotta aluevaltuusto voi käsitellä toukokuun kokouksessaan suunnitelman, joka täyttää hyvinvointialueesta annetun lain 115 a §:n 2 momentissa säädetyt vaatimukset.\n\nHakemuksen tekemiselle säädettyjen edellytysten arvioidaan täyttyvän, koska määräajan pidennys on välttämätön, jotta hyvinvointialue voi noudattaa sekä taloutta koskevaa lainsäädäntöä että palvelujen järjestämistä koskevaa lainsäädäntöä. Samalla arvioidaan, että kertynyt alijäämä on objektiivisesti mahdollista kattaa pidennetyn määräajan kuluessa. Lakiehdotuksen mukaan hakemus on tehtävä sen jälkeen, kun aluehallitus on hyväksynyt tilinpäätöksen, ja viimeistään sen vuoden elokuun loppuun mennessä, jolloin alijäämän kattamista koskeva alkuperäinen määräaika päättyy.\n\nPidennyshakemus edellyttää valtuuston hyväksymää toimenpideohjelmaa, ja Pohjanmaan hyvinvointialue on laatinut vuosille 2027 ja 2028 suunnitelman, joka sisältää uusia sopeutustoimia, joiden kaikkien tarkoituksena on alijäämien kattaminen vuoden 2029 loppuun mennessä.\n\nTilinpäätös 2025 ja osavuosiraportti osoittavat, että alijäämiä ei ole mahdollista kattaa vuoden loppuun 2026 mennessä, vaan tarvitaan lisäaikaa. Alijäämien kattamisen toimenpideohjelma on laadittu palveluluokkatasolla ja esitellään yksityiskohtaisemmin oheisessa asiakirjassa.\n\nHyvinvointialuejohtaja Kinnunen Marina\n\nehdottaa, että hallitus hyväksyy osaltaan ja esittää valtuustolle, että tämä\n\nhyväksyy vuosien 2027-2028 toimenpideohjelman alijäämien kattamiseksi\n\npäättää hakea kertyneen alijäämän kattamista varten määräajan pidennystä vuoteen 2029 saakka\n\nhyväksyy, että päätös edellyttää, että valtioneuvosto hyväksyy esityksen määräajan pidentämistä koskevasta väliaikaisesta laista (HE 189/2025, lakiin lisätään uusi 115 a §.)\n\nhyväksyy, että hyvinvointialuejohtaja Marina Kinnunen valtuutetaan tekemään hakemus määräajan pidentämisestä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pykäläteksti ja päätösesitys § 111 vaihdettiin esittelijän pyynnöstä ja hallituksen yksimielisellä hyväksynnällä. Alkuperäinen teksti on nähtävillä esityslistassa. Muutoksen syy on valtiovarainministeriön 30.4.2026 julkaisema hyvinvointialueiden ennakollinen rahoituslaskelma vuodelle 2027 aluehallituksen 4.5.2026 kokouksen esityslistan julkaisemisen jälkeen.\n\nAluehallitus päätti\n\nhyväksyä vuosien 2027-2028 toimenpideohjelman alijääminen kattamiseksi\n\npäätti hakea kertyneen alijäämän kattamista varten määräajan pedennystä vuoteen 2029 saakka\n\nhyväksyä esittelijän kokouksessa tekemän muutosesityksen, jonka mukaan vuodelle 2029 lisätään säästöjä 1,5 miljoonaa euroa ja tämän myötä kumulatiivinen ylijäämä 2029 on 1,9 M€. Säästövaatimus 1 M€ lisätään IT-tukipalveluihin ja 0,5 M€ suun terveydenhuoltoon.\n\nhyväksyy, että päätös edellyttää, että valtioneuvosto hyväksyy esityksen määräajan pidentämisestä koskevasta väliaikaisesta laiste (HE 189/2025, lakiin lisätään uusi 115 a §)\n\nhyväksyy, että hyvinvointialuejohtaja Marinan Kinnunen valtuutetaan tekemään hakemus määräajan pidentämisestä\n\naluehallitus lähettää tarkennettun pykäläesityksen ja toimenpideohjeman 2027-2029 valtuustolle hyväksyttäväksi."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Nystrand Lena\n\nLisätietoja: puhelinnumero:\n\nHallitus\n\nehdottaa, että aluevaltuusto\n\nhyväksyy vuosien 2027-2028 toimenpideohjelman alijääminen kattamiseksi\n\npäättää hakea kertyneen alijäämän kattamista varten määräajan pidennystä vuoteen 2029 saakka\n\nhyväksyy esittelijän esityksen, jonka mukaan vuodelle 2029 lisätään säästöjä 1,5 miljoonaa euroa ja tämän myötä kumulatiivinen ylijäämä 2029 on 1,9 M€. Säästövaatimus 1 M€ lisätään IT-tukipalveluihin ja 0,5 M€ suun terveydenhuoltoon.\n\nhyväksyy, että päätös edellyttää, että valtioneuvosto hyväksyy esityksen määräajan pidentämisestä koskevasta väliaikaisesta laiste (HE 189/2025, lakiin lisätään uusi 115 a §)\n\nhyväksyy, että hyvinvointialuejohtaja Marina Kinnunen valtuutetaan tekemään hakemus määräajan pidentämisestä\n\nhyväksyy toimenpideohjeman 2027-2029."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nSopeuttamistoimenpiteet alijäämien kattamiseksi 2027-2029\n\nLiite 2\n\nHakemukseen liitettävät tuloslaskelmat\n\nLiite 3\n\nPöytäkirjanote_ §19 Vanhusneuvosto\n\nLiite 4\n\nPöytäkirjanote_ §25 Vammaisneuvosto\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Sopeuttamistoimenpiteet alijäämien kattamiseksi 2027-2029",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-6-94574.PDF"
+    },
+    {
+     "title": "Hakemukseen liitettävät tuloslaskelmat",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-6-94527.PDF"
+    },
+    {
+     "title": "Pöytäkirjanote_ §19 Vanhusneuvosto",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-6-94862.PDF"
+    },
+    {
+     "title": "Pöytäkirjanote_ §25 Vammaisneuvosto",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-6-94863.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "37",
+   "title": "Vastaus valtuustoaloitteeseen: Pohjanmaan hyvinvointialueen tulee ryhtyä toteuttamaan kansallista syöpästrategiaa, E-M Strömsholm",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026699-7",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-7.PDF",
+   "diary_number": "ÖVPH/7810/00.02.00/2025",
+   "preparer": "Sjöström Pia-Maria; Lisätietoja: puhelinnumero:; Eva-Maria Strömsholm (RKP) on jättänyt 1.12.2025 valtuustoaloitteen, jonka mukaan Pohjanmaan hyvinvointialueen tulee ryhtyä toteuttamaan marraskuussa 2025 julkaistua kansallista syöpästrategiaa. Strategian useasta kohdasta ilmenee, että hyvinvointialu",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvoinnin ja terveyden edistämisen sekä yhdyspintojen jaosto 21.01.2026 § 8"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nEva-Maria Strömsholm (RKP) on jättänyt 1.12.2025 valtuustoaloitteen, jonka mukaan Pohjanmaan hyvinvointialueen tulee ryhtyä toteuttamaan marraskuussa 2025 julkaistua kansallista syöpästrategiaa. Strategian useasta kohdasta ilmenee, että hyvinvointialueet ovat vastuussa strategian käyttöönotosta ja noudattamisesta sekä asetettujen tavoitteiden saavuttamisesta. Aloitteessa ehdotetaan, että hyvinvointialue 1: Tutustuu strategiaan perusteellisesti ja asettaa työryhmän suunnittelemaan strategian toteuttamista hyvinvointialueella. 2: Asettaa riittävästi resursseja (rahaa ja henkilöstöä) strategian käytäntöön viemiseen siten, että se näkyy hoitotyössä ja prosesseissa. 3: Sitoutuu noudattamaan strategiaa ja tarjoamaan hyvinvointialueen syöpäpotilaille strategian edellyttämät palvelut.\n\nKansallinen syöpästrategia on laaja-alainen kokonaisuus, joka käsittää yhteiskunnan useita eri tahoja. Strategian tavoitteena on:\n\nvahvistaa osallisuutta ja kehittää ihmislähtöisiä palveluita\n\nvähentää syöpätaakkaa ehkäisyn ja varhaisen toteamisen avulla\n\nvarmistaa yhdenvertainen ja vaikuttava syövänhoito\n\nolla aallonharjalla muuttuvassa toimintaympäristössä.\n\nSyöpästrategian toimeenpanon aikataulussa on vuoden 2026 painopisteenä strategian toimeenpanon tiekartan valmistuminen ja TKI-toimien käynnistyminen (TKI=tutkimus, kehitys, innovaatio), ja syöpästrategian sote-toimet käynnistyvät yhteistyössä hyvinvointialueiden kanssa vuosina 2027-2030.\n\nPohjanmaan hyvinvointialueen johto pitää kansallista syöpästrategiaa hyvänä kokonaisuutena, joka sisältää konkreettisia kehittämisehdotuksia ja selkeitä seurantaindikaattoreita. Strategian toimeenpanosta hyvinvointialueilla ei ole vielä varsinaisia ohjeita, mutta sosiaali- ja terveydenhuollon johtoryhmä keskusteli strategiasta 25.11.2025 pitämässään kokouksessa. Johtoryhmä päätti pyytää eri toimialoilta ehdotuksia työryhmän jäseniksi, joiden tehtävänä on toimia strategian asiantuntijoina ja arvioida hyvinvointialueen toimenpidetarpeita. Tavoitteena on, että työryhmä asetetaan vuoden 2026 alussa. Työryhmälle suunnitellut tehtävät ovat yhdenmukaisia aloitteen ehdotusten kanssa.\n\nSektorijohtaja lapset, nuoret ja perheet Sjöström Pia-Maria\n\nehdottaa, että hyvinvoinnin ja terveyden edistämisen sekä yhdyspintojen jaosto päättää antaa vastauksen valtuustoaloitteeseen selontekona aluehallitukselle valtuuston jatkokäsittelyä varten."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Jaosto hyväksyi ehdotuksen.\n\nAluehallitus 16.02.2026 § 43"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nSektorijohtaja lapset, nuoret ja perheet Sjöström Pia-Maria\n\nehdottaa, että aluehallitus päättää antaa vastauksen valtuustoaloitteeseen selontekona aluevaltuustolle. Hallitus ehdottaa valtuustolle, että aloite on täten loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nHallitus\n\nehdottaa, että valtuusto hyväksyy edellä olevan selvityksen, joka on annettu vastaukseksi aloitteeseen, ja julistaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\n78. Valtakunnallinen syöpästrategia tulisi toteuttaa Pohjanmaan hyvinvointialueella, E-M Strömsholm\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "78. Valtakunnallinen syöpästrategia tulisi toteuttaa Pohjanmaan hyvinvointialueella, E-M Strömsholm",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-7-83743.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "38",
+   "title": "Vastaus valtuustoaloitteeseen, joka koskee lääkkeiden annosjakelua Pohjanmaalla, G Jusslin, R Bystedt",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026699-8",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-8.PDF",
+   "diary_number": "ÖVPH/2587/00.02.00/2025",
+   "preparer": "Kotanen Heidi; Pellfolk Tony; Lisätietoja: puhelinnumero: (vaihde); Gunilla Jusslin ja Rainer Bystedt (RKP) ovat jättäneet valtuustoaloitteen (28.4.2025), joka koskee lääkkeiden annosjakelua Pohjanmaalla.; Annosjakelua koskevassa valtuustoaloitteessa painotetaan tarvetta varmistaa, että myös maaseud",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 13.04.2026 § 87"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Kotanen Heidi\n\nPellfolk Tony\n\nLisätietoja: puhelinnumero: (vaihde)\n\nGunilla Jusslin ja Rainer Bystedt (RKP) ovat jättäneet valtuustoaloitteen (28.4.2025), joka koskee lääkkeiden annosjakelua Pohjanmaalla.\n\nAnnosjakelua koskevassa valtuustoaloitteessa painotetaan tarvetta varmistaa, että myös maaseudun pienemmät apteekit voivat osallistua annosjakelulääkkeiden hankintaan. Hankintoja on tehty neljä, ja vastauksen valmistelijat ovat aloitteen tekijöiden kanssa samaa mieltä siitä, että hankinta tulee muotoilla siten, että se ei sulje pois pienempiä toimijoita. Sen vuoksi kaikissa hankinnoissa on ollut lähtökohtana, että kaikilla paikallisilla apteekeilla, koosta riippumatta, on mahdollisuus jättää tarjous, ja hankinta-asiakirjoja on muokattu tämän mahdollistamiseksi.\n\nTalousarviokehykset ovat olleet ratkaiseva tekijä prosessin aikana, koska aikaisemmissa hankinnoissa oli erittäin suuria hintaeroja halvimpien ja kalleimpien tarjousten välillä. Kaksi hankinnoista jouduttiin keskeyttämään, koska ilmoitetut hinnat ylittivät käytettävissä olevat talousarviomäärärahat. Vaikka toisessa hankinnassa vaatimuksia laskettiin talousarviomäärärahojen mukaisten tarjousten varmistamiseksi, keskihinta nousi ensimmäiseen hankintaan verrattuna. Sen vuoksi kolmannessa hankinnassa otettiin käyttöön hintakatto, joka oli neljä euroa/asiakas/ 2 viikkoa. Tämän johdosta seitsemän tarjousta pysyi kehyksissä, mutta viisi ylitti hintakaton, ja kahdelle alueelle ei saatu yhtään tarjousta. Seitsemää tarjouksetta jäänyttä aluetta varten tehtiin neljäs hankinta samalla hintakatolla kuin aikaisemmin, ja sen tuloksena koko hyvinvointialue tuli katetuksi. Kaikilla halukkailla apteekeilla oli mahdollisuus jättää tarjous.\n\nYhteenvetona voidaan todeta, että hyvinvointialue on pyrkinyt johdonmukaisesti luomaan hankintamenettelyn, joka on mahdollistanut kaikkien paikallisten apteekkien osallistumisen kaikkiin neljään hankintaan. Ilmenneet haasteet ovat liittyneet suuriin hintaeroihin ja käytettävissä oleviin talousarviovaroihin.\n\nSektorijohtaja ikäihmiset Kotanen Heidi\n\nehdottaa, että aluehallitus päättää antaa vastauksen valtuustoaloitteeseen selontekona aluevaltuustolle. Hallitus ehdottaa valtuustolle, että aloite on täten loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Kotanen Heidi\n\nPellfolk Tony\n\nLisätietoja: puhelinnumero: (vaihde)\n\nHallitus\n\nehdottaa, että valtuusto hyväksyy edellä olevan selvityksen, joka on annettu vastaukseksi aloitteeseen, ja julistaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\n62. Annosjakelu Mahdollisuus maaseudun pienimmille apteekeille, G Jusslin\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "62. Annosjakelu Mahdollisuus maaseudun pienimmille apteekeille, G Jusslin",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-8-67028.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "39",
+   "title": "Vastaus aloitteeseen, Aikalisä ympärivuorokautisen palveluasumisen yksikköjen sulkemista koskevassa asiassa, K. Heir, G. Jusslin, A-B Backull",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026699-9",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-9.PDF",
+   "diary_number": "ÖVPH/746/00.02.00/2025",
+   "preparer": "Kotanen Heidi, sektorijohtaja ikäihmiset; Tony Pellfolk, toimialajohtaja koti- ja asumispalvelut; Satu Hautamäki, toimialajohtaja sote-keskus; Kosti Hyvärinen, toimialajohtaja Kuntoutus- ja psykososiaaliset palvelut; Sofia Svartsjö, johtajaylilääkäri; Marjo Orava, johtajaylihoitaja; Carina Nåls, Sos",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 13.04.2026 § 88"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Kotanen Heidi, sektorijohtaja ikäihmiset\n\nTony Pellfolk, toimialajohtaja koti- ja asumispalvelut\n\nSatu Hautamäki, toimialajohtaja sote-keskus\n\nKosti Hyvärinen, toimialajohtaja Kuntoutus- ja psykososiaaliset palvelut\n\nSofia Svartsjö, johtajaylilääkäri\n\nMarjo Orava, johtajaylihoitaja\n\nCarina Nåls, Sosiaalijohtaja\n\nUlf Stenbacka, kiinteistöjohtaja\n\nLisätietoja: puhelinnumero: (vaihde)\n\nKjell Heir, Gunilla Jusslin ja Ann-Britt Backull ovat jättäneet valtuustoaloitteen (30.9.2024) koskien aikalisää ympärivuorotkautisen palveluasumisen yksiköiden sulkemisessa.\n\nAloitteen allekirjoittajat haluavat, että hyvinvointialue antaa selkeän ja yksiselitteisen selvityksen siitä, mihin ympärivuorokautisen palveluasumisen yksiköiden sulkemiseen liittyvät ehdotukset perustuvat ja millaisia vaikutuksia niillä on.\n\nEri asumispalvelut hyvinvointialueella\n\nPalveluasumispaikkoja tarjotaan eri ikäryhmille tarpeen mukaan. Eri asiakasryhmiä ovat ikäihmisten, mielenterveys- ja päihde-, vammaispalveluiden ja lasten asumispalvelut. Asumispalveluiden oman tuotannon ja ostopalveluiden osuudet vaihtelevat palveluittain. Alla on eriteltynä eri ympärivuorokautisen asumispalveluiden paikkamäärät omat paikat ja ostopalvelupaikat.\n\nVammaispalveluiden asumispalvelut:\n\nOstopalvelu:\n\n180 paikkaa, ja sisältää myös tuetun asumisen ostot\n\nOma toiminta:\n\n284 paikkaa ympärivuorokautista palveluasumispaikkaa\n\nIkäihmisten asumispalvelut:\n\nOstopalvelu\n\nYmpärivuorokautinen palveluasuminen 716 paikkaa\n\nOma toiminta\n\nYmpärivuorokautinen palveluasuminen 1081 paikkaa\n\nYhteisöllinen asuminen 111 paikkaa\n\nMielenterveys- ja päihde asumispalvelut\n\nOstopalvelu\n\nTuettu asuminen 74 paikkaa\n\nYhteisöllinen asuminen 54 paikkaa\n\nYmpärivuorokautinen asuminen 138 paikkaa\n\nOma toiminta\n\nTuettu asuminen 200 paikkaa\n\nYhteisöllinen asuminen 15 paikkaa\n\nYmpärivuorokautinen asuminen 52 paikkaa\n\nLastensuojelun laitoshoito:\n\nOstopalvelu 132 paikkaa asumispalvelua lapselle / nuorelle\n\nOma toiminta 18 asumispalvelupaikkaa\n\nOman ja ostopalvelun osalta ikääntyneiden ja vammaispalveluiden oman ja ostopalvelun suhde on samaa luokkaa ja taas mielenterveys- ja päihdekuntoutujien sekä lasten asumispalveluiden suhde on päinvastainen. Lastensuojelun osalta toimenpiteenä on ollut vahvistaa omaa palvelutuotanto asumispalveluissa. Päätös on tehty uudesta omasta lastensuojeluyksiköstä Pietarsaareen ja tilat ovat löytyneet.\n\nIkäihmisten asumispalveluita on jokaisessa kunnassa Pohjanmaan alueella Kaskista lukuunottamatta. Ikäihmisten palveluasumisessa asiakkaan asumisaika on noin reilu 2 vuotta. Mielenterveys- ja päihdekuntoutujien ja lasten asumispalvelut saattavat olla kestoltaan eri pituisia. Vammaispalveluiden asumispalvelu eroavat edellä kuvatuista ja ovat asiakkaiden koteja vuosikymmeniä. Mielenterveys- ja päihdeasiakkaiden, lasten ja vammaisten asumispalveluita ei voida tuottaa joka kunnassa vaan nämä erityispalveluina ovat enemmän keskitettyjä alueella.\n\nAsumispalveluiden kehittämisessä alueellista tulee tarkastella asukkaiden palvelutarvetta, henkilöstön saatavuutta ja saatavilla olevia kiinteistöjä. Erityispalveluiden osalta palvelut tulevat keskittymään alueella. Asumispalveluiden suunnittelussa ja kehittämisessä tulee huomioida eri asiakasryhmien tarpeet kokonaisuutena. Samalla alueella voidaan tarjota sekä ikäihmisten, vammaisten että mielenterveys- ja päihdekuntoutujien eri muotoisia asumispalveluita.\n\nVuodelle 2026 ei ole suunnitelmissa uusia ikäihmisten palveluasumispaikkojen vähennyksiä.\n\nSenioriasuminen osana monipuolista asuntotarjontaa ikääntyneille\n\nPohjanmaan alueen kunnilla ja kolmannella sektorilla sekä yksityisillä on ikäihmisille tarkoitettuja asuntoja, joita kutsutaan senioriasumiseksi. Kuntien ja kaupunkien vastuulla on tarjota ikäihmisille soveltuvia asuntoja, mutta näihin ei ole edellytyksenä sosiaalihuollon päätöstä. Hyvinvointialueen vastuulle kuuluu järjestää sosiaalihuoltolain mukaista yhteisöllistä asumista ikäihmisille, joka eroaa senioriasumisesta.\n\nYhteistyö kuntien ja hyvinvointialueen välillä on tärkeää ikääntyneiden asumiseen liittyvissä asioissa. Ikäihmiselle tarvitaan asuntoja, joihin ei edellytetä kriteerien mukaista toimintakykyä, vaan joihin ikäihmisillä on mahdollisuus muuttaa soveltuvampaan asumisympäristöön ennen toimintakyvyn heikkenemistä.\n\nYhteisöllinen asuminen ja yksiköt Pohjanmaan hyvinvointialueella\n\nYhteisöllistä asumisessa tavoitteena on tarjota noin 1-2 %:ia 75-vuotta täyttäneiden määrästä. Yhteisöllistä asumista tuotetaan tällä hetkellä täysin omana tuotantona. Hallitus on hyväksynyt (25.8.2025 §144) kiinteistö- ja toimitilasuunnitelman tuleville vuosille. Vuoden 2026 investointisuunnitelmaan sisältyy määräraha Vaasan ja Laihian yhteisölliseen ja ympärivuorokautiseen palveluasumiseen. Pietarsaaren Koivurinteeseen suunnitellaan myös hybridiyksikköä, jossa yhdistyvät sekä yhteisöllinen että ympärivuorokautinen palveluasuminen.\n\nYhteisöllisen asumisen palvelukuvaus ja myöntämisen kriteerit on hyväksytty hallituksen kokouksessa 17.6.2024. Yhteisöllisen paikkatavoitteet vuodelle 2030 on päätetty 21.10.2024 (§207-209) hallituksen kokouksessa. Pohjanmaan alueella on kevään 2024 kartoitettu yksiköt, jotka voidaan muuttaa yhteisöllisen asumisen yksiköiksi ilman isoja investointeja. Muutosprosessi on vielä osin kesken. Tällä hetkellä yhteisöllisen asumisen paikkoja on 111 koko alueella. Alueen yhteisöllisen asumisen yksiköt ovat:\n\nSolhörnan (30 paikkaa) Mustasaari\n\nKastusgården (12 paikkaa) Vöyri\n\nBostället (42 paikkaa) Närpiö\n\nSolgärdet (12 paikkaa) Närpiö\n\nÅldersro (7 paikkaa) Kristiinankaupunki\n\nPörtom Servicecenter (8 paikkaa) Närpiö (2026)\n\nMitä yhteisöllisellä asumisella tarkoitetaan?\n\nYhteisöllinen asuminen on käsite, joka korvaa aiemmin käytetyn tavallisen palveluasumisen käsitteen. Käytännössä muutos tarkoittaa asumisen ja palveluiden (tukipalvelut, kotihoito) eriyttämistä. Tavallinen palveluasuminen sisälsi sekä asumisen että palvelut. Yhteisöllisen asumisen osalta hyvinvointialue tekee erillisen päätöksen asumisesta ja erillisen päätöksen palveluista kuten tukipalveluista ja/tai kotihoidosta. Sosiaalista kanssakäymistä edistävä toiminta on tärkeä osa yhteisöllistä asumista. Muutoksella on pyritty selkeyttämään eri asumismuotojen erot. Yhteisöllisen asumisen tarkoituksena on vahvistaa henkilön itsemääräämisoikeutta ja osallisuutta sekä lisätä turvallisuuden ja yhteenkuuluvuuden tunnetta. Yhteisöllisessä asumisessa on vastuuhenkilö, joka koordinoi kokonaisuutta, toimii yhteyshenkilönä ja suunnittelee sosiaalista kanssakäymistä edistävää toimintaa.\n\nKiinteistöt hyvinvointialueella\n\nHyvinvointialue hallinnoi kiinteistöjä yhteensä yli 425000 m2 (2025 lukuja). Tästä kokonaisuudesta omistuksessa on 159000m2 ja vuokraneliöitä on 267000m2. Asunnoiksi luokiteltua pinta-alaa on 47000m2. Kiinteistöjen kunto vaihtelee. On vastikään käyttöönotettuja tiloja sekä peruskorjauksen tarpeessa olevia asumisyksiköitä. Yleisesti kiinteistöistä on pidetty huolta ja keskimäärin arvioidaan kuntoluokan olevan yli 70%. Paras 97% (erinomainen, uutta vastaavaa) ja huonoimmat 30% (purkukuntoinen, vaurioitunut rakennus). Investointeja rakennuksiin sovitaan tapauskohtaisesti kiinteistöomistajan kanssa. Ylläpito- ja peruskorjaukset kuuluvat yleensä vuokraan. Investoinnit omiin asumiskohteisiin on listattu taloussuunnitelmaan.\n\nHEBO:n ja KUPS:n asumispaikkahinnan vertailu seuraavasti:\n\nKeskihinta HEBO 770,67 €/kk. KUPS 599,94 €/kk.\n\nHalvin HEBO 250,67 €/kk. KUPS 306,86 €/kk.\n\nKallein HEBO 1611,82 €/kk. KUPS 1231,48 €/kk.\n\nHenkilöstön saatavuus\n\nYleisesti hoito- ja hoivahenkilöstön saatavuus on parempi kuin muutama vuosi sitten. Kansallisten ennusteiden mukaan seuraavien 10-20 vuoden aikana saatavuus tulee kuitenkin vaikeammaksi nuorten ikäluokkien vähentyessä. Asumispalveluissa hoito- ja hoiva-alan henkilöstön saatavuus on tällä hetkellä parempi kuin muutama vuosi sitten, minkä ansiosta Pohjanmaalla on useampi vakinaisessa työsuhteessa. Haasteita rekrytoinnissa saattaa esiintyä haja-asutusalueilla. Omien ympärivuorokautisten asumispaikkojen vähentyessä on jatkuvasti arvioitu henkilöstötarvetta kotona asumisen tukeen. Toimenpiteiden yhteydessä on allokoitu osa henkilöstöä uudelleen, esimerkiksi vahvistettu kotikuntoutusta. Samanaikaisesti hyvinvointialue on sitoutunut pysymään henkilöstöbudjetissa, ympärivuorokautisen toiminnan vähentyminen näkyvät myös henkilöstösäästöinä.\n\nTulevaisuus- ja sopeuttamisohjelman analysointi\n\nTulevaisuus- ja sopeuttamisohjelmaan liittyen on jokaisesta säästötoimenpiteestä ja muutoksesta tehty riskien ennakkoarviointi. Lisäksi hallitukselle on annettu tiedoksi riskikooste. Liitteessä syksyn 2025 viimeisin riskikooste ja säästöjen toteutuminen hyvinvointialueella (liite 1).\n\nSyksyn 2025 riskikoosteessa vakavia riskejä toiminnalle ei ole havaittu, ja tilanteissa, joissa riskejä on havaittu, riskienhallinnan toimenpiteisiin on ryhdytty. Talouden näkökulmasta palveluissa on tunnistettu riskejä budjetin ylittymisestä. Henkilöstökustannusten ja henkilöstökuormituksen osalta riskit on tunnistettu ja hallintatoimenpiteet on osin aloitettu, mutta tilanteen seuranta vaatii jatkuvaa seurantaa.\n\nPalveluverkkoon ja asiakaspalveluihin liittyvät muutokset ovat vaikuttaneet lähinnä paikallisiin palveluihin, mutta kokonaisuudessaan palveluiden laatu ja jatkuvuus on pystytty varmistamaan. Asiakastyytyväisyys on asiakaspalautteen mukaan pysynyt hyvällä tasolla. Palveluasumisen paikkojen vähentämisessä on riski jonojen pitenemisestä ja hoitoketjun kuormittumisesta, joilla on vaikutuksia asiakkaiden saamaan oikeaan palvelutasoon ja myös henkilöstön kuormittumiseen. Hallintakeinona on käytetty palveluiden monipuolistamista ja kotihoidon tukemista. Tilannekuvan kautta kuormitustilannetta seurataan tiivisti. Tilanteeseen on myös reagoitu toimenpiteillä.\n\nKeskeisimmät riskienhallintakeinot vuodelle 2026 ovat rekrytointien ja henkilöstöresurssien tarkka suunnittelu, sekä henkilöstön kuormituksen seuranta eri palveluissa. Henkilöstön osallistaminen muutoksiin on huomioitava uudistusten edistämisessä. Palveluiden digitalisointi ja vaihtoehtoisten palvelumallien käyttöönotto parantavat saavutettavuutta ja tehokkuutta. Panostus ennaltaehkäiseviin palveluihin vähentää pitkän aikavälin riskejä ja kustannuksia.\n\nAlueen rahoitus ei ole hyvinvointialueen alkuvuosina kattanut kustannuksia, mutta alijäämä on pienentynyt tasaisesti. Sopeutustoimet ja jälkikäteisrahoitus käänsivät tuloksen positiiviseksi vuonna 2025, vaikka tavoitetasoon ei päästy.\n\nMiten voi Pohjanmaa? Raportti toimii alueen hyvinvointikertomuksena. Raportissa analysoidaan väestön hyvinvointia, terveyttä ja palveluiden tarvetta sekä käyttöä vuosittain. Dokumentti toimii ylimpänä ohjaavana dokumenttina strategian ja toiminta- ja taloussuunnitelman laadinnassa.\n\nSektorijohtaja ikäihmiset Kotanen Heidi\n\nehdottaa, että aluehallitus päättää antaa vastauksen valtuustoaloitteeseen selontekona aluevaltuustolle. Hallitus ehdottaa valtuustolle, että aloite on täten loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Kotanen Heidi\n\nTony Pellfolk, toimialajohtaja koti- ja asumispalvelut\n\nSatu Hautamäki, toimialajohtaja sote-keskus\n\nKosti Hyvärinen, toimialajohtaja Kuntoutus- ja psykososiaaliset palvelut\n\nSofia Svartsjö, johtajaylilääkäri\n\nMarjo Orava, johtajaylihoitaja\n\nCarina Nåls, Sosiaalijohtaja\n\nUlf Stenbacka, kiinteistöjohtaja\n\nLisätietoja: puhelinnumero: (vaihde)\n\nHallitus\n\nehdottaa, että valtuusto hyväksyy edellä olevan selvityksen, joka on annettu vastaukseksi aloitteeseen, ja julistaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\n50. Aikalisä ympärivuorokautisen palveluasumisen yksikköjen sulkemista koskevassa asiassa\n\nLiite 2\n\nRiskikooste syksy 2025\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "50. Aikalisä ympärivuorokautisen palveluasumisen yksikköjen sulkemista koskevassa asiassa",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-9-59769.PDF"
+    },
+    {
+     "title": "Riskikooste syksy 2025",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-9-93266.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "40",
+   "title": "Vastaus valtuustoaloitteeseen: Huumekuolemien ehkäisy Pohjanmaan hyvinvointialueella, Charlotta Ekman, Vihr",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026699-10",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-10.PDF",
+   "diary_number": "ÖVPH/7811/00.02.00/2025",
+   "preparer": "Penttinen Erkki; Lisätietoja: puhelinnumero:; Huumekuolemien määrä on kasvanut Suomessa 2000-luvun aikana rajusti. Suurin osa kuolemista on tapaturmaisia ja estettävissä olevia myrkytyskuolemia, joissa yhdistyvät esimerkiksi lääkeopioidit, alkoholi ja rauhoittavat lääkkeet. Hoitoon hakeutumisen kynn",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 13.04.2026 § 90"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Penttinen Erkki\n\nLisätietoja: puhelinnumero:\n\nHuumekuolemien määrä on kasvanut Suomessa 2000-luvun aikana rajusti. Suurin osa kuolemista on tapaturmaisia ja estettävissä olevia myrkytyskuolemia, joissa yhdistyvät esimerkiksi lääkeopioidit, alkoholi ja rauhoittavat lääkkeet. Hoitoon hakeutumisen kynnyksen madaltaminen on välttämätöntä, sillä suuri osa huumekuolemista tapahtuu palvelujärjestelmän ulkopuolella.\n\nTHL:n huumekuolemien ehkäisyn mallissa korostetaan hyvinvointialueiden keskeistä tehtävää asukkaiden terveyden ja turvallisuuden edistämisessä sekä huumehaittojen ehkäisyssä. Palvelujen saavutettavuus, yhteistyö ja tutkittuun tietoon perustuvat menetelmät ovat ratkaisevia huumekuolemien vähentämisessä.\n\nValtuustoaloitteessa ehdotetaan, että Pohjanmaan hyvinvointialue käynnistää THL:n huumekuolemien ehkäisyn mallin mukaisia toimenpiteitä. Toimenpiteet, joihin hyvinvointialue voi ryhtyä:\n\nOpioidikorvaushoito nopeasti ja matalalla kynnyksellä: taataan nopea pääsy korvaushoidon arvioon ilman lähetettä, kehitetään liikkuvia korvaushoidon palveluita ja etäasioinnin mahdollisuuksia\n\nVastaus:\n\n.\nPohjanmaalla toteutetaan päihdehoitoa matalalla kynnyksellä. Esim. potilaat voivat hakeutua päihdekierteen katkaisuun ja vieroitushoitoon Päihdepsykiatriselle osastolle ilman lähetettä 24/7. Jonoa katkaisuhoitoon on ilmennyt hyvin harvoin ja tällöinkin puhutaan 1-2 päivästä. Päihdekuntoutukseen on Pohjanmaalla päässyt hyvin, mutta maksusitoumusten käsittelyssä on tavoitteena jouhevoittaa käytäntöjä entisestään.\n\n.\nKorvaushoitoa toteutetaan matalalla kynnyksellä, kun se todetaan aiheelliseksi. On kuitenkin hyvin tärkeää arvioida potilaan tilanne huolellisesti ennen korvaushoidon aloitusta ja varmistua siitä, että korvaushoitoa voidaan toteuttaa turvallisesti. Useimmilla huumeidenkäyttäjillä on eri huumeiden sekakäyttöä, mikä on merkittävä haaste korvaushoidon turvallisen toteuttamisen kannalta.\n\nLiikkuvien ja jalkautuvien palvelujen vahvistaminen: laadukas päihde- ja terveysneuvonta alueen eri osiin yhteistyössä järjestöjen kanssa, jalkautuminen verkkoalustoille\n\nVastaus:\n\n.\nOpioidikorvaushoitoon pääsee jo nyt Pohjanmaan hyvinvointialueella matalalla kynnyksellä, ilman lähetettä. Asiakas voi ottaa yhteyttä psykososiaaliseen keskukseen, jossa arvioidaan asiakkaan tilanne sekä luodaan hoitosuunnitelma. Terveysneuvontaa tarjotaan keskisellä alueella keskitetysti Vaasasta.\n\n.\nHyvinvointialue on valmiina tarjoamaan liikkuvaa terveysneuvontaa (esim. vanha ambulanssi/muokattu matkailuauto), mikäli tähän saadaan tarvikkeet ja rahoitus. Tämä tukisi myös meneillään olevia hankkeita sekä mahdollisesti tulevaa C-hep. hanketta.\n\n3.\nKotiin jaettavan naloksonin käyttöönotto: pilotoidaan kotiin vietävä naloksoni ja opastus sen käyttöön yliannostusriskissä oleville, tarjotaan läheisille ja vertaistoimijoille tietoa yliannostuksen tunnistamisesta ja tilanteessa toimimisesta\n\n.\nHuumekuolemat liittyvät Suomessa tyypillisesti useiden eri aineiden sekakäyttöön. Tällöin yliannoksissa vaste naloksonille voi jäädä marginaaliseksi. Tärkeää on, että huumeidenkäyttäjät osaisivat antaa elvytystä ja voisivat soittaa mahdollisimman matalalla kynnyksellä Hätäkeskukseen avun saamiseksi.\n\n.\nUniikki hankkeessa pilotoidaan Naloksinin jaon uutta toimintamalli, jolla ehkäistään huumekuolemia.\n\n.\nLisäksi mallinnetaan nuorten päihdekatkaisua. Alaikäisten hoidossa on usein haasteena se, että nuori ei koe päihteidenkäyttöään ongelmallisena, eikä siten koe tarvitsevansa hoitoa. Alaikäiset myös useimmiten peittelevät/salaavat päihteidenkäyttöään välttääkseen lastensuojeluilmoituksen kohteeksi joutumisen.\n\nYhteistyön tiivistäminen viranomaisten ja järjestöjen kanssa: kehitetään selkeät toimintamallit poliisin ja ensihoidon yhteistyöhön avun hälyttämisen esteiden vähentämiseksi, hyödynnetään kokemusasiantuntijuutta palvelujen suunnittelussa\n\nVastaus:\n\n.\nTyöskentely Uniikki -hankkeessa toteutetaan yhdessä sosiaali- ja terveyspalveluiden kanssa, kolmannen sektorin ja virkavallan kanssa yhteistyön vahvistamiseksi. Kehittämisessä mukana on myös kokemusasiantuntija. Yhdessä kokemusasiantuntijan ja oppilaitosten kanssa yhteistyössä tavoitteena on madaltaa hoitoon hakeutumisen kynnystä ja vähentää päihteiden aiheuttamaa stigmaa, erilaisin kampanjoin ja nuorille kohdistetuin tilaisuuksien avulla sekä ammattilaisten tietoisuuden lisäämisellä.\n\nStigman vähentäminen: koulutetaan henkilöstöä kohtaamaan huumeita käyttäviä ihmisiä kunnioittavasti ja tuomitsevuutta vähentäen, lisätään viestintää huumekuolemien ehkäisystä ja hoitoon hakeutumisesta\n\nVastaus:\n\n.\nPohjanmaan hyvinvointialue on mukana myös kansallisessa konsortiosssa osaamisen vahvistamisessa valituin menetelmä koulutusten myötä. Osaaminen kohdistetaan perustason palveluihin eli matalan kynnyksen palveluihin. Erityinen painotus nuorten suojelemiseen: tehostetaan varhaista tukea, päihdeseulontoja, perhetyötä ja yhteistyötä kuntien nuorisopalveluiden kanssa sekä panostetaan laadukkaaseen päihdekasvatukseen\n\n.\nPohjanmaan hyvinvointialue käynnistää selvityksen päihdehuollon sisäisestä koulutustarjonnasta. Tavoitteena, että päihdetyötä tekevä ammattilainen aloittaa kouluttamaan organisaation sisällä muita ammattilaisia riippuvuussairauteen liittyen. Koulutuksiin haetaan osallistumaan muita ammattilaisia, kuin mielenterveys- ja päihdetyön työntekijöitä. Ennaltaehkäisevään päihdetyöhön on tehtynä mm. puheeksi ottoon ja tunnistamiseen liittyen materiaalia laatuporttiin.\n\nLisäksi on tärkeää, että vieroitushoitoon pääsee nopeasti. Mikäli asiakas joutuu jonottamaan vieroitukseen pitkään, menetetään potentiaalisesti paras hetki vieroituksen onnistumiseksi. Myös nivelvaihe vieroituksesta kuntoutukseen on saatava sujuvaksi ja kuntoutusjaksot riittävän pitkiksi.\n\nVastaus:\n\n.\nVieroitushoitoon pääsy Pohjanmaalla on hyvä. Asiakkaan ei tarvitse jonottaa katkaisuhoitoon, vaan asiakas saa ottaa itse yhteyttä yksikköön.\n\nPohjanmaan hyvinvointialueella on alkanut Uniikki hanke, joka kuuluu STM rahoittamaan Elossa- nuorten huumekuolemien ehkäisy ohjelmaan. Hankesuunnitelmaa on edellyttänyt alueemme nykytilanteen kartoitus nuorten huumetilanteen osalta. Pohjanmaan hyvinvointialueen hankesuunnitelmassa pääpaino on alaikäisissä mutta ulottaa osassa toimenpiteissä 25 ikävuoteen asti. Tavoitteena selkeyttää nuorten päihdepalvelua, luoda toimintamalli hoitoonohjaukseen, vahvistaa ammattilaisten osaamista, yhtenäistää kirjaamista, ottaa uusia käytäntöjä huumekuolemien ehkäisemiseksi käyttöön sekä vähentää huumeiden käyttäjien stigmaa. Hankkeessa toteutetaan THL:n ja PALKO suosituksia.\n\nHuomioitavaa on, että Pohjanmaan hyvinvointialueellamme on meneillään ja alkamassa muitakin rahoituksen saaneita ilmiöön liittyviä hankkeita mm. Vakavan nuorisorikollisuuden torjuminen Pohjanmaalla, Vahvempia yhdessä - Ehkäisevän päihdetyön hanke työikäisille, jälkihuoltoon liittyvä Jotep hanke, Voima Verkko lastensuojeluun sekä C-hepatiitin eliminointiin liittyvä hanke.\n\nSektorijohtaja työikäiset Penttinen Erkki\n\nehdottaa, että aluehallitus päättää antaa vastauksen valtuustoaloitteeseen selontekona aluevaltuustolle. Hallitus ehdottaa valtuustolle, että aloite on täten loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Penttinen Erkki\n\nLisätietoja: puhelinnumero: (vaihde)\n\nHallitus\n\nehdottaa, että valtuusto hyväksyy edellä olevan selvityksen, joka on annettu vastaukseksi aloitteeseen, ja julistaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\n79. Aloite huumekuolemien ehkäisemiseksi Pohjanmaan hyvinvointialueella, Vihreät\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "79. Aloite huumekuolemien ehkäisemiseksi Pohjanmaan hyvinvointialueella, Vihreät",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-10-83745.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "41",
+   "title": "Vastaus valtuustoaloitteeseen: Henkilöstöresurssien tehokkaampi käyttö hyvinvointialueella, RKP",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026699-11",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-11.PDF",
+   "diary_number": "ÖVPH/6298/00.02.00/2025",
+   "preparer": "Orava Marjo; Nåls Carina; Svartsjö Sofia; Suikkanen Juha; Lisätietoja: puhelinnumero: (vaihde); Useat RKP:n aluevaltuutetut tuovat aluevaltuuston kokouksessa 6.10.2025 jättämässään valtuustoaloitteessa esiin useita tärkeitä kysymyksiä siitä, miten hyvinvointialueen sosiaali- ja terveydenhuollon henk",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 04.05.2026 § 116"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Orava Marjo\n\nNåls Carina\n\nSvartsjö Sofia\n\nSuikkanen Juha\n\nLisätietoja: puhelinnumero: (vaihde)\n\nUseat RKP:n aluevaltuutetut tuovat aluevaltuuston kokouksessa 6.10.2025 jättämässään valtuustoaloitteessa esiin useita tärkeitä kysymyksiä siitä, miten hyvinvointialueen sosiaali- ja terveydenhuollon henkilöstöä voitaisiin käyttää tehokkaammin ja tarkoituksenmukaisemmin. Aloitteessa käsitellään kysymyksiä, jotka koskevat Pohjanmaan hyvinvointialueen sosiaali- ja terveydenhuollon henkilöstön määrää, työnjakoa ja resurssien käyttöä. Valtuustoaloitteeseen annettavassa vastauksessa valaistaan niitä toimenpiteitä, joihin hyvinvointialue on ryhtynyt toiminnan alusta lähtien ja jotka ovat olleet osa professiojohtotyötä henkilöstön saatavuuden ja ammattiryhmien välisen tarkoituksenmukaisen työnjaon turvaamiseksi. Hyvinvointialue on pystynyt määrätietoisen työn avulla vähentämään henkilöstöpalvelujen ostamisen tarvetta. Henkilöstön saatavuus on vähitellen parantunut, vaikka joissakin ammattiryhmissä henkilöstöstä on edelleen pulaa.\n\nHyvinvointialuejohtaja Kinnunen Marina\n\nehdottaa, että aluehallitus päättää antaa vastauksen valtuustoaloitteeseen selontekona aluevaltuustolle. Hallitus ehdottaa valtuustolle, että aloite on täten loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin päätösesityksen mukaisesti."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Orava Marjo\n\nNåls Carina\n\nSvartsjö Sofia\n\nSuikkanen Juha\n\nLisätietoja: puhelinnumero: (vaihde)\n\nHallitus\n\nehdottaa, että valtuusto hyväksyy edellä olevan selvityksen, joka on annettu vastaukseksi aloitteeseen, ja julistaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\n73. Henkilöstöresurssien tehokkaampi käyttö hyvinvointialueella\n\nLiite 2\n\nHENKILÖSTÖRESURSSIEN TEHOKKAAMPI KÄYTTÖ HYVINVOINTIALUEELLA - vastaus valtuustoaloitteeseen\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "73. Henkilöstöresurssien tehokkaampi käyttö hyvinvointialueella",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-11-94686.PDF"
+    },
+    {
+     "title": "HENKILÖSTÖRESURSSIEN TEHOKKAAMPI KÄYTTÖ HYVINVOINTIALUEELLA - vastaus valtuustoaloitteeseen",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-11-94692.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "42",
+   "title": "Kysymyksiä, aloitteita ja ilmoituksia 18.5.2026",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026699-12",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-12.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Kokouksessa jätettiin valtuustoaloite ikäihmisten ympärivuorokautisen palveluasumisen saatavuudesta ja lähipaikkaperiaatteesta. Aloitteen tekijänä oli Anna Caldén sekä SDP:n valtuustoryhmä. Aluevaltuusto merkitsi aloitteen tiedoksi ja lähetti sen aluehallitukselle valmistelua varten.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Mahdolliset kysymykset, aloitteet ja ilmoitukset."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokouksessa jätettiin valtuustoaloite ikäihmisten ympärivuorokautisen palveluasumisen saatavuudesta ja lähipaikkaperiaatteesta. Aloitteen tekijänä oli Anna Caldén sekä SDP:n valtuustoryhmä. Aluevaltuusto merkitsi aloitteen tiedoksi ja lähetti sen aluehallitukselle valmistelua varten."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "91. Tillgången till heldygnsomsorg för äldre och närhetsprincip i Österbotten - Ikäihmisten ympärivuorokautisen palveluasumisen saatavuus ja lähipaikkaperiaate Pohjanmaalla",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-12-96646.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "43",
+   "title": "Kokouksen päättäminen",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026699-13",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026699-13.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Aluevaltuuston puheenjohtaja päätti kokouksen klo 12.41.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen päättäminen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuuston puheenjohtaja päätti kokouksen klo 12.41."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Berg Kim",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Borg Johanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Bystedt Rainer",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "West Mia",
+   "role": "I varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kapténs Gun",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Somppi Sari",
+   "role": "IV varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Yli-Pelkola Kim",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Holmäng Johanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Frostdahl Steven",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Tokou Maria",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Mahdi Ramieza",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Jerkku Sven",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Strömsholm Eva-Maria",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Backull Ann-Britt",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Haldin Annica",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Stenbacka Åsa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Perjus Mikael",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Ingo Jenni",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Storhannus Carina",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Ribacka Camilla",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Forth-Snellman Åsa-Britt",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Palm Maria",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Jusslin Gunilla",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kärr Kaj",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lithén Yngve",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Björkman Patrik",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Rantala Mervi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Caldén Anna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Ala-Heikkilä Sari",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Eklöv Gudrun",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Miettinen Arja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Sjökvist Peter",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Härmälä Elin",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Viljamaa Mari",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Åkers Rebecca",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Heinonen Marko",
+   "role": "II varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Tuomela Antti",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pihlajaniemi Petri",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Karppinen-Pirkola Satu",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Koski Susanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Huhta Henrik",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pettersson David",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hjulfors Andreas",
+   "role": "III varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Byggmästar Martin",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hjulfors-Sundqvist Maria",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kaunismäki Tomi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Moisio Harri",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Ede Lisen",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Alhonnoro Lotta",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Karppi Päivi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Vahtera Matti",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Knuutti Teemu",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Keskinen Pasi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Jakobsson-Pada Linda",
+   "role": "sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Kinnunen Marina",
+   "role": "hyvinvointialuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Sjöström Pia-Maria",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Kotanen Heidi",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Nystrand Lena",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Aurala Aino",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Berg Päivi",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Iso-Aho Camilla",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Berglund Marie-Louis",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Wester Ingrid",
+   "role": "nuorisovaltuuston edustaja",
+   "group": "other"
+  },
+  {
+   "name": "Tuomisto Tauno",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Saarikoski Sari",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hokkanen Heimo",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Sahlgren Elina",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Viinamäki Anne-Marie",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Eriksson Roger",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Fagerström Lisbeth",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Nyholm Steve",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Suikkanen Juha",
+   "role": "asiantuntija",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026699",
+  "fetched_at": "2026-10-14T17:31:11+00:00",
+  "content_hash": "34c161fadb7e1957",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T17:31:11+00:00"
+ }
+}

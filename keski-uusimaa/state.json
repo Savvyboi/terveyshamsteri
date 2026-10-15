@@ -1,0 +1,923 @@
+{
+ "meetings": {
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Konsernijaosto/Kokous_7102026": {
+   "id": "konsernijaosto/2026-10-07",
+   "date": "2026-10-07",
+   "stage": "minutes",
+   "hash": "3e99d1212d356f00",
+   "fetched_at": "2026-10-15T01:02:04+00:00",
+   "first_seen": "2026-10-14T17:04:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2992026": {
+   "id": "aluehallitus/2026-09-29",
+   "date": "2026-09-29",
+   "stage": "minutes",
+   "hash": "641d09ce1e8df320",
+   "fetched_at": "2026-10-14T17:04:54+00:00",
+   "first_seen": "2026-10-14T17:04:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneet_ja_vammaiset_lautakunta/Kokous_2392026": {
+   "id": "ikaantyneet-ja-vammaiset-lautakunta/2026-09-23",
+   "date": "2026-09-23",
+   "stage": "minutes",
+   "hash": "ebed1d23012f938c",
+   "fetched_at": "2026-10-14T17:05:01+00:00",
+   "first_seen": "2026-10-14T17:05:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2292026": {
+   "id": "aluehallitus/2026-09-22",
+   "date": "2026-09-22",
+   "stage": "minutes",
+   "hash": "64fc4aebf87125d5",
+   "fetched_at": "2026-10-14T17:05:09+00:00",
+   "first_seen": "2026-10-14T17:05:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_2192026": {
+   "id": "nuorisovaltuusto/2026-09-21",
+   "date": "2026-09-21",
+   "stage": "minutes",
+   "hash": "0f6559a9b5e7e8c3",
+   "fetched_at": "2026-10-14T17:05:17+00:00",
+   "first_seen": "2026-10-14T17:05:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_1792026": {
+   "id": "vammaisneuvosto/2026-09-17",
+   "date": "2026-09-17",
+   "stage": "minutes",
+   "hash": "f0802f733ce66467",
+   "fetched_at": "2026-10-14T17:05:25+00:00",
+   "first_seen": "2026-10-14T17:05:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_1792026": {
+   "id": "vanhusneuvosto/2026-09-17",
+   "date": "2026-09-17",
+   "stage": "minutes",
+   "hash": "fa40d355deffa150",
+   "fetched_at": "2026-10-14T17:05:32+00:00",
+   "first_seen": "2026-10-14T17:05:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Lapset_nuoret_ja_tyoumlikaumliset_lautakunta/Kokous_1692026": {
+   "id": "lapset-nuoret-ja-tyoikaiset-lautakunta/2026-09-16",
+   "date": "2026-09-16",
+   "stage": "minutes",
+   "hash": "e7589c97715b6a8a",
+   "fetched_at": "2026-10-14T17:05:36+00:00",
+   "first_seen": "2026-10-14T17:05:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1692026": {
+   "id": "tarkastuslautakunta/2026-09-16",
+   "date": "2026-09-16",
+   "stage": "minutes",
+   "hash": "f99fae759cd3b8ff",
+   "fetched_at": "2026-10-15T01:03:07+00:00",
+   "first_seen": "2026-10-14T17:05:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_892026": {
+   "id": "aluehallitus/2026-09-08",
+   "date": "2026-09-08",
+   "stage": "minutes",
+   "hash": "72a2c09d5b8e0ea5",
+   "fetched_at": "2026-10-14T17:06:00+00:00",
+   "first_seen": "2026-10-14T17:06:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Konsernijaosto/Kokous_292026": {
+   "id": "konsernijaosto/2026-09-02",
+   "date": "2026-09-02",
+   "stage": "minutes",
+   "hash": "2166fa82d1715358",
+   "fetched_at": "2026-10-14T17:06:13+00:00",
+   "first_seen": "2026-10-14T17:06:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2682026": {
+   "id": "tarkastuslautakunta/2026-08-26",
+   "date": "2026-08-26",
+   "stage": "minutes",
+   "hash": "d8f5bd40c233c927",
+   "fetched_at": "2026-10-14T17:06:22+00:00",
+   "first_seen": "2026-10-14T17:06:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2582026": {
+   "id": "aluehallitus/2026-08-25",
+   "date": "2026-08-25",
+   "stage": "minutes",
+   "hash": "4f211af1c1925263",
+   "fetched_at": "2026-10-15T01:03:54+00:00",
+   "first_seen": "2026-10-14T17:06:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Konsernijaosto/Kokous_1782026": {
+   "id": "konsernijaosto/2026-08-17",
+   "date": "2026-08-17",
+   "stage": "minutes",
+   "hash": "c646a1d4505b7d3e",
+   "fetched_at": "2026-10-14T17:06:40+00:00",
+   "first_seen": "2026-10-14T17:06:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_1382026": {
+   "id": "vammaisneuvosto/2026-08-13",
+   "date": "2026-08-13",
+   "stage": "minutes",
+   "hash": "c455a92764164399",
+   "fetched_at": "2026-10-14T17:06:50+00:00",
+   "first_seen": "2026-10-14T17:06:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1762026": {
+   "id": "tarkastuslautakunta/2026-06-17",
+   "date": "2026-06-17",
+   "stage": "minutes",
+   "hash": "bd53361e970afc4c",
+   "fetched_at": "2026-10-14T17:06:54+00:00",
+   "first_seen": "2026-10-14T17:06:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1662026": {
+   "id": "aluehallitus/2026-06-16",
+   "date": "2026-06-16",
+   "stage": "minutes",
+   "hash": "dcd99b48f436fc3a",
+   "fetched_at": "2026-10-14T17:07:11+00:00",
+   "first_seen": "2026-10-14T17:07:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Konsernijaosto/Kokous_1062026": {
+   "id": "konsernijaosto/2026-06-10",
+   "date": "2026-06-10",
+   "stage": "minutes",
+   "hash": "095200dc0c236659",
+   "fetched_at": "2026-10-14T17:07:23+00:00",
+   "first_seen": "2026-10-14T17:07:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_462026": {
+   "id": "vammaisneuvosto/2026-06-04",
+   "date": "2026-06-04",
+   "stage": "minutes",
+   "hash": "52b8620e7241bdf6",
+   "fetched_at": "2026-10-14T17:07:30+00:00",
+   "first_seen": "2026-10-14T17:07:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_462026": {
+   "id": "vanhusneuvosto/2026-06-04",
+   "date": "2026-06-04",
+   "stage": "minutes",
+   "hash": "e517d79653ebe189",
+   "fetched_at": "2026-10-14T17:07:36+00:00",
+   "first_seen": "2026-10-14T17:07:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_262026": {
+   "id": "aluehallitus/2026-06-02",
+   "date": "2026-06-02",
+   "stage": "minutes",
+   "hash": "a59d233c37ecdb02",
+   "fetched_at": "2026-10-14T17:07:43+00:00",
+   "first_seen": "2026-10-14T17:07:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_2852026": {
+   "id": "aluevaltuusto/2026-05-28",
+   "date": "2026-05-28",
+   "stage": "minutes",
+   "hash": "40397a84eebcb9be",
+   "fetched_at": "2026-10-14T17:08:05+00:00",
+   "first_seen": "2026-10-14T17:08:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_2552026": {
+   "id": "nuorisovaltuusto/2026-05-25",
+   "date": "2026-05-25",
+   "stage": "minutes",
+   "hash": "1aa27bc67b88ec8f",
+   "fetched_at": "2026-10-14T17:08:12+00:00",
+   "first_seen": "2026-10-14T17:08:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2052026": {
+   "id": "tarkastuslautakunta/2026-05-20",
+   "date": "2026-05-20",
+   "stage": "minutes",
+   "hash": "254cfa6bdd5840e8",
+   "fetched_at": "2026-10-14T17:08:17+00:00",
+   "first_seen": "2026-10-14T17:08:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1952026": {
+   "id": "aluehallitus/2026-05-19",
+   "date": "2026-05-19",
+   "stage": "minutes",
+   "hash": "abe7e8763a8c4e41",
+   "fetched_at": "2026-10-14T17:08:33+00:00",
+   "first_seen": "2026-10-14T17:08:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Konsernijaosto/Kokous_1352026": {
+   "id": "konsernijaosto/2026-05-13",
+   "date": "2026-05-13",
+   "stage": "minutes",
+   "hash": "15d00617300ebc5d",
+   "fetched_at": "2026-10-14T17:08:44+00:00",
+   "first_seen": "2026-10-14T17:08:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1252026": {
+   "id": "aluehallitus/2026-05-12",
+   "date": "2026-05-12",
+   "stage": "minutes",
+   "hash": "c896b48b6778e1b2",
+   "fetched_at": "2026-10-14T17:08:59+00:00",
+   "first_seen": "2026-10-14T17:08:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Lapset_nuoret_ja_tyoumlikaumliset_lautakunta/Kokous_652026": {
+   "id": "lapset-nuoret-ja-tyoikaiset-lautakunta/2026-05-06",
+   "date": "2026-05-06",
+   "stage": "minutes",
+   "hash": "2bc9e90b9a40d185",
+   "fetched_at": "2026-10-14T17:09:06+00:00",
+   "first_seen": "2026-10-14T17:09:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_652026": {
+   "id": "tarkastuslautakunta/2026-05-06",
+   "date": "2026-05-06",
+   "stage": "minutes",
+   "hash": "9d0f646e67837682",
+   "fetched_at": "2026-10-14T17:09:13+00:00",
+   "first_seen": "2026-10-14T17:09:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Konsernijaosto/Kokous_2842026": {
+   "id": "konsernijaosto/2026-04-28",
+   "date": "2026-04-28",
+   "stage": "minutes",
+   "hash": "b0deeaf305e389ec",
+   "fetched_at": "2026-10-14T17:09:21+00:00",
+   "first_seen": "2026-10-14T17:09:21+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_2342026": {
+   "id": "vammaisneuvosto/2026-04-23",
+   "date": "2026-04-23",
+   "stage": "minutes",
+   "hash": "bf08e8736eaf16f7",
+   "fetched_at": "2026-10-14T17:09:29+00:00",
+   "first_seen": "2026-10-14T17:09:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_2342026": {
+   "id": "vanhusneuvosto/2026-04-23",
+   "date": "2026-04-23",
+   "stage": "minutes",
+   "hash": "2c948db2163adbfd",
+   "fetched_at": "2026-10-14T17:09:36+00:00",
+   "first_seen": "2026-10-14T17:09:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneet_ja_vammaiset_lautakunta/Kokous_2242026": {
+   "id": "ikaantyneet-ja-vammaiset-lautakunta/2026-04-22",
+   "date": "2026-04-22",
+   "stage": "minutes",
+   "hash": "4811907a0a6aa9b1",
+   "fetched_at": "2026-10-14T17:09:45+00:00",
+   "first_seen": "2026-10-14T17:09:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2242026": {
+   "id": "tarkastuslautakunta/2026-04-22",
+   "date": "2026-04-22",
+   "stage": "minutes",
+   "hash": "12fe6d697141141e",
+   "fetched_at": "2026-10-14T17:09:53+00:00",
+   "first_seen": "2026-10-14T17:09:53+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2142026": {
+   "id": "aluehallitus/2026-04-21",
+   "date": "2026-04-21",
+   "stage": "minutes",
+   "hash": "eeb39a927ea00cb6",
+   "fetched_at": "2026-10-14T17:09:58+00:00",
+   "first_seen": "2026-10-14T17:09:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_2042026": {
+   "id": "nuorisovaltuusto/2026-04-20",
+   "date": "2026-04-20",
+   "stage": "minutes",
+   "hash": "ca142a0fcc63454f",
+   "fetched_at": "2026-10-14T17:10:05+00:00",
+   "first_seen": "2026-10-14T17:10:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_842026": {
+   "id": "tarkastuslautakunta/2026-04-08",
+   "date": "2026-04-08",
+   "stage": "minutes",
+   "hash": "526e4d3ec3c3db8c",
+   "fetched_at": "2026-10-14T17:10:16+00:00",
+   "first_seen": "2026-10-14T17:10:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_3132026": {
+   "id": "aluehallitus/2026-03-31",
+   "date": "2026-03-31",
+   "stage": "minutes",
+   "hash": "023c9a4318f0a811",
+   "fetched_at": "2026-10-14T17:10:25+00:00",
+   "first_seen": "2026-10-14T17:10:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Konsernijaosto/Kokous_2532026": {
+   "id": "konsernijaosto/2026-03-25",
+   "date": "2026-03-25",
+   "stage": "minutes",
+   "hash": "887dc9fcfc00c3ce",
+   "fetched_at": "2026-10-14T17:10:39+00:00",
+   "first_seen": "2026-10-14T17:10:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Lapset_nuoret_ja_tyoumlikaumliset_lautakunta/Kokous_2532026": {
+   "id": "lapset-nuoret-ja-tyoikaiset-lautakunta/2026-03-25",
+   "date": "2026-03-25",
+   "stage": "minutes",
+   "hash": "7098a39148c68e47",
+   "fetched_at": "2026-10-14T17:10:44+00:00",
+   "first_seen": "2026-10-14T17:10:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_1932026": {
+   "id": "vammaisneuvosto/2026-03-19",
+   "date": "2026-03-19",
+   "stage": "minutes",
+   "hash": "34a24aadf63fd94e",
+   "fetched_at": "2026-10-14T17:10:52+00:00",
+   "first_seen": "2026-10-14T17:10:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_1932026": {
+   "id": "vanhusneuvosto/2026-03-19",
+   "date": "2026-03-19",
+   "stage": "minutes",
+   "hash": "1a782446bd2473ab",
+   "fetched_at": "2026-10-14T17:10:58+00:00",
+   "first_seen": "2026-10-14T17:10:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneet_ja_vammaiset_lautakunta/Kokous_1832026": {
+   "id": "ikaantyneet-ja-vammaiset-lautakunta/2026-03-18",
+   "date": "2026-03-18",
+   "stage": "minutes",
+   "hash": "8deeb0efa028d0a0",
+   "fetched_at": "2026-10-14T17:11:03+00:00",
+   "first_seen": "2026-10-14T17:11:03+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1732026": {
+   "id": "aluehallitus/2026-03-17",
+   "date": "2026-03-17",
+   "stage": "minutes",
+   "hash": "dadeba32671fe3e6",
+   "fetched_at": "2026-10-14T17:11:14+00:00",
+   "first_seen": "2026-10-14T17:11:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_1232026": {
+   "id": "aluevaltuusto/2026-03-12",
+   "date": "2026-03-12",
+   "stage": "minutes",
+   "hash": "05fd309d51d44c4e",
+   "fetched_at": "2026-10-14T17:11:27+00:00",
+   "first_seen": "2026-10-14T17:11:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1132026": {
+   "id": "tarkastuslautakunta/2026-03-11",
+   "date": "2026-03-11",
+   "stage": "minutes",
+   "hash": "56d557be202a9c1e",
+   "fetched_at": "2026-10-14T17:11:36+00:00",
+   "first_seen": "2026-10-14T17:11:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_932026": {
+   "id": "nuorisovaltuusto/2026-03-09",
+   "date": "2026-03-09",
+   "stage": "minutes",
+   "hash": "79c6d8a8e312207b",
+   "fetched_at": "2026-10-14T17:11:42+00:00",
+   "first_seen": "2026-10-14T17:11:42+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_332026": {
+   "id": "aluehallitus/2026-03-03",
+   "date": "2026-03-03",
+   "stage": "minutes",
+   "hash": "642bec86fea86d9a",
+   "fetched_at": "2026-10-14T17:11:52+00:00",
+   "first_seen": "2026-10-14T17:11:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Lapset_nuoret_ja_tyoumlikaumliset_lautakunta/Kokous_2522026": {
+   "id": "lapset-nuoret-ja-tyoikaiset-lautakunta/2026-02-25",
+   "date": "2026-02-25",
+   "stage": "minutes",
+   "hash": "746d3f5f6c3c4926",
+   "fetched_at": "2026-10-14T17:11:59+00:00",
+   "first_seen": "2026-10-14T17:11:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2422026": {
+   "id": "aluehallitus/2026-02-24",
+   "date": "2026-02-24",
+   "stage": "minutes",
+   "hash": "93ff386a1cc2d319",
+   "fetched_at": "2026-10-14T17:12:15+00:00",
+   "first_seen": "2026-10-14T17:12:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Konsernijaosto/Kokous_2422026": {
+   "id": "konsernijaosto/2026-02-24",
+   "date": "2026-02-24",
+   "stage": "minutes",
+   "hash": "145f411a3d7acd0d",
+   "fetched_at": "2026-10-14T17:12:18+00:00",
+   "first_seen": "2026-10-14T17:12:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneet_ja_vammaiset_lautakunta/Kokous_1722026": {
+   "id": "ikaantyneet-ja-vammaiset-lautakunta/2026-02-17",
+   "date": "2026-02-17",
+   "stage": "minutes",
+   "hash": "eb44a8465e699852",
+   "fetched_at": "2026-10-14T17:12:23+00:00",
+   "first_seen": "2026-10-14T17:12:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Konsernijaosto/Kokous_1122026": {
+   "id": "konsernijaosto/2026-02-11",
+   "date": "2026-02-11",
+   "stage": "minutes",
+   "hash": "55d142eb19f8a3b9",
+   "fetched_at": "2026-10-14T17:12:37+00:00",
+   "first_seen": "2026-10-14T17:12:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1122026": {
+   "id": "tarkastuslautakunta/2026-02-11",
+   "date": "2026-02-11",
+   "stage": "minutes",
+   "hash": "ff5e81a1f3cb0335",
+   "fetched_at": "2026-10-14T17:12:45+00:00",
+   "first_seen": "2026-10-14T17:12:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_2912026": {
+   "id": "vammaisneuvosto/2026-01-29",
+   "date": "2026-01-29",
+   "stage": "minutes",
+   "hash": "352e803beeeebf3b",
+   "fetched_at": "2026-10-14T17:12:51+00:00",
+   "first_seen": "2026-10-14T17:12:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_2912026": {
+   "id": "vanhusneuvosto/2026-01-29",
+   "date": "2026-01-29",
+   "stage": "minutes",
+   "hash": "b4e09f1d004fd0b3",
+   "fetched_at": "2026-10-14T17:13:00+00:00",
+   "first_seen": "2026-10-14T17:13:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2712026": {
+   "id": "aluehallitus/2026-01-27",
+   "date": "2026-01-27",
+   "stage": "minutes",
+   "hash": "3cb5709faae1f34d",
+   "fetched_at": "2026-10-14T17:13:09+00:00",
+   "first_seen": "2026-10-14T17:13:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_2612026": {
+   "id": "nuorisovaltuusto/2026-01-26",
+   "date": "2026-01-26",
+   "stage": "minutes",
+   "hash": "77e278c970ca2963",
+   "fetched_at": "2026-10-14T17:13:16+00:00",
+   "first_seen": "2026-10-14T17:13:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1412026": {
+   "id": "tarkastuslautakunta/2026-01-14",
+   "date": "2026-01-14",
+   "stage": "minutes",
+   "hash": "98b931eb65174878",
+   "fetched_at": "2026-10-14T17:13:22+00:00",
+   "first_seen": "2026-10-14T17:13:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Lapset_nuoret_ja_tyoumlikaumliset_lautakunta/Kokous_1312026": {
+   "id": "lapset-nuoret-ja-tyoikaiset-lautakunta/2026-01-13",
+   "date": "2026-01-13",
+   "stage": "minutes",
+   "hash": "e9bd93dbee805fa3",
+   "fetched_at": "2026-10-14T17:13:27+00:00",
+   "first_seen": "2026-10-14T17:13:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_19122025": {
+   "id": "aluehallitus/2025-12-19",
+   "date": "2025-12-19",
+   "stage": "minutes",
+   "hash": "de72128cc23f1788",
+   "fetched_at": "2026-10-14T17:13:30+00:00",
+   "first_seen": "2026-10-14T17:13:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_17122025": {
+   "id": "tarkastuslautakunta/2025-12-17",
+   "date": "2025-12-17",
+   "stage": "minutes",
+   "hash": "f3fbba3447a8e304",
+   "fetched_at": "2026-10-14T17:13:38+00:00",
+   "first_seen": "2026-10-14T17:13:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_16122025": {
+   "id": "aluehallitus/2025-12-16",
+   "date": "2025-12-16",
+   "stage": "minutes",
+   "hash": "b8fd5a61e8a2640d",
+   "fetched_at": "2026-10-14T17:13:49+00:00",
+   "first_seen": "2026-10-14T17:13:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_11122025": {
+   "id": "aluevaltuusto/2025-12-11",
+   "date": "2025-12-11",
+   "stage": "minutes",
+   "hash": "d2262e4695f04b4c",
+   "fetched_at": "2026-10-14T17:14:07+00:00",
+   "first_seen": "2026-10-14T17:14:07+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneet_ja_vammaiset_lautakunta/Kokous_10122025": {
+   "id": "ikaantyneet-ja-vammaiset-lautakunta/2025-12-10",
+   "date": "2025-12-10",
+   "stage": "minutes",
+   "hash": "17c00ddeee3fa5a1",
+   "fetched_at": "2026-10-14T17:14:13+00:00",
+   "first_seen": "2026-10-14T17:14:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_9122025": {
+   "id": "vanhusneuvosto/2025-12-09",
+   "date": "2025-12-09",
+   "stage": "minutes",
+   "hash": "c0b3e344afb2ea3c",
+   "fetched_at": "2026-10-14T17:14:21+00:00",
+   "first_seen": "2026-10-14T17:14:21+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_8122025": {
+   "id": "nuorisovaltuusto/2025-12-08",
+   "date": "2025-12-08",
+   "stage": "minutes",
+   "hash": "abf3d13146222c7e",
+   "fetched_at": "2026-10-14T17:14:28+00:00",
+   "first_seen": "2026-10-14T17:14:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2122025": {
+   "id": "aluehallitus/2025-12-02",
+   "date": "2025-12-02",
+   "stage": "minutes",
+   "hash": "a9c581aeff0816d7",
+   "fetched_at": "2026-10-14T17:14:43+00:00",
+   "first_seen": "2026-10-14T17:14:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Konsernijaosto/Kokous_26112025": {
+   "id": "konsernijaosto/2025-11-26",
+   "date": "2025-11-26",
+   "stage": "minutes",
+   "hash": "103842af2d8d7794",
+   "fetched_at": "2026-10-14T17:15:00+00:00",
+   "first_seen": "2026-10-14T17:15:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Lapset_nuoret_ja_tyoumlikaumliset_lautakunta/Kokous_26112025": {
+   "id": "lapset-nuoret-ja-tyoikaiset-lautakunta/2025-11-26",
+   "date": "2025-11-26",
+   "stage": "minutes",
+   "hash": "e779c2c3d335a7aa",
+   "fetched_at": "2026-10-14T17:15:05+00:00",
+   "first_seen": "2026-10-14T17:15:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_25112025": {
+   "id": "aluehallitus/2025-11-25",
+   "date": "2025-11-25",
+   "stage": "minutes",
+   "hash": "c52edd3b9dfa9c7e",
+   "fetched_at": "2026-10-14T17:15:14+00:00",
+   "first_seen": "2026-10-14T17:15:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_20112025": {
+   "id": "vammaisneuvosto/2025-11-20",
+   "date": "2025-11-20",
+   "stage": "minutes",
+   "hash": "aaada2c27c867272",
+   "fetched_at": "2026-10-14T17:15:24+00:00",
+   "first_seen": "2026-10-14T17:15:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_19112025": {
+   "id": "nuorisovaltuusto/2025-11-19",
+   "date": "2025-11-19",
+   "stage": "minutes",
+   "hash": "ef78fe19f4b6e734",
+   "fetched_at": "2026-10-14T17:15:34+00:00",
+   "first_seen": "2026-10-14T17:15:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneet_ja_vammaiset_lautakunta/Kokous_12112025": {
+   "id": "ikaantyneet-ja-vammaiset-lautakunta/2025-11-12",
+   "date": "2025-11-12",
+   "stage": "minutes",
+   "hash": "ef4ebf720c6dc26f",
+   "fetched_at": "2026-10-14T17:15:42+00:00",
+   "first_seen": "2026-10-14T17:15:42+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Lapset_nuoret_ja_tyoumlikaumliset_lautakunta/Kokous_11112025": {
+   "id": "lapset-nuoret-ja-tyoikaiset-lautakunta/2025-11-11",
+   "date": "2025-11-11",
+   "stage": "minutes",
+   "hash": "26e291f967d26a64",
+   "fetched_at": "2026-10-14T17:15:49+00:00",
+   "first_seen": "2026-10-14T17:15:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_5112025": {
+   "id": "tarkastuslautakunta/2025-11-05",
+   "date": "2025-11-05",
+   "stage": "minutes",
+   "hash": "e93388fff237e00a",
+   "fetched_at": "2026-10-14T17:15:58+00:00",
+   "first_seen": "2026-10-14T17:15:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_4112025": {
+   "id": "aluehallitus/2025-11-04",
+   "date": "2025-11-04",
+   "stage": "minutes",
+   "hash": "0b74f5a49714e498",
+   "fetched_at": "2026-10-14T17:16:18+00:00",
+   "first_seen": "2026-10-14T17:16:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_30102025": {
+   "id": "vammaisneuvosto/2025-10-30",
+   "date": "2025-10-30",
+   "stage": "minutes",
+   "hash": "61868b495659f466",
+   "fetched_at": "2026-10-14T17:16:26+00:00",
+   "first_seen": "2026-10-14T17:16:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_28102025": {
+   "id": "vanhusneuvosto/2025-10-28",
+   "date": "2025-10-28",
+   "stage": "minutes",
+   "hash": "7c2e2e259b0b5d7e",
+   "fetched_at": "2026-10-14T17:16:34+00:00",
+   "first_seen": "2026-10-14T17:16:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Konsernijaosto/Kokous_27102025": {
+   "id": "konsernijaosto/2025-10-27",
+   "date": "2025-10-27",
+   "stage": "minutes",
+   "hash": "cf44d78f48100b31",
+   "fetched_at": "2026-10-14T17:16:42+00:00",
+   "first_seen": "2026-10-14T17:16:42+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_15102025": {
+   "id": "tarkastuslautakunta/2025-10-15",
+   "date": "2025-10-15",
+   "stage": "minutes",
+   "hash": "0506dcac68bda20d",
+   "fetched_at": "2026-10-14T17:16:47+00:00",
+   "first_seen": "2026-10-14T17:16:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_10102025": {
+   "id": "aluehallitus/2025-10-10",
+   "date": "2025-10-10",
+   "stage": "minutes",
+   "hash": "20acba0f4f5fc728",
+   "fetched_at": "2026-10-14T17:16:57+00:00",
+   "first_seen": "2026-10-14T17:16:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneet_ja_vammaiset_lautakunta/Kokous_9102025": {
+   "id": "ikaantyneet-ja-vammaiset-lautakunta/2025-10-09",
+   "date": "2025-10-09",
+   "stage": "minutes",
+   "hash": "d68fb3b453ebbede",
+   "fetched_at": "2026-10-14T17:17:06+00:00",
+   "first_seen": "2026-10-14T17:17:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_2102025": {
+   "id": "aluevaltuusto/2025-10-02",
+   "date": "2025-10-02",
+   "stage": "minutes",
+   "hash": "8baedefaec4cab27",
+   "fetched_at": "2026-10-14T17:17:21+00:00",
+   "first_seen": "2026-10-14T17:17:21+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Konsernijaosto/Kokous_1102025": {
+   "id": "konsernijaosto/2025-10-01",
+   "date": "2025-10-01",
+   "stage": "minutes",
+   "hash": "35c5d675ed51be10",
+   "fetched_at": "2026-10-14T17:17:29+00:00",
+   "first_seen": "2026-10-14T17:17:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_3092025": {
+   "id": "aluehallitus/2025-09-30",
+   "date": "2025-09-30",
+   "stage": "minutes",
+   "hash": "cffd320cd38e4f09",
+   "fetched_at": "2026-10-14T17:17:39+00:00",
+   "first_seen": "2026-10-14T17:17:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_2992025": {
+   "id": "nuorisovaltuusto/2025-09-29",
+   "date": "2025-09-29",
+   "stage": "minutes",
+   "hash": "daaccf4b3023f815",
+   "fetched_at": "2026-10-14T17:17:48+00:00",
+   "first_seen": "2026-10-14T17:17:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Lapset_nuoret_ja_tyoumlikaumliset_lautakunta/Kokous_2492025": {
+   "id": "lapset-nuoret-ja-tyoikaiset-lautakunta/2025-09-24",
+   "date": "2025-09-24",
+   "stage": "minutes",
+   "hash": "f066d7323191722f",
+   "fetched_at": "2026-10-14T17:17:53+00:00",
+   "first_seen": "2026-10-14T17:17:53+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1692025": {
+   "id": "aluehallitus/2025-09-16",
+   "date": "2025-09-16",
+   "stage": "minutes",
+   "hash": "e394b0689a621204",
+   "fetched_at": "2026-10-14T17:18:05+00:00",
+   "first_seen": "2026-10-14T17:18:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneet_ja_vammaiset_lautakunta/Kokous_1092025": {
+   "id": "ikaantyneet-ja-vammaiset-lautakunta/2025-09-10",
+   "date": "2025-09-10",
+   "stage": "minutes",
+   "hash": "38c4ef9d993539a6",
+   "fetched_at": "2026-10-14T17:18:12+00:00",
+   "first_seen": "2026-10-14T17:18:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1092025": {
+   "id": "tarkastuslautakunta/2025-09-10",
+   "date": "2025-09-10",
+   "stage": "minutes",
+   "hash": "8398effc38abaab2",
+   "fetched_at": "2026-10-14T17:18:22+00:00",
+   "first_seen": "2026-10-14T17:18:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Konsernijaosto/Kokous_392025": {
+   "id": "konsernijaosto/2025-09-03",
+   "date": "2025-09-03",
+   "stage": "minutes",
+   "hash": "5443696b31bfd42f",
+   "fetched_at": "2026-10-14T17:18:34+00:00",
+   "first_seen": "2026-10-14T17:18:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Lapset_nuoret_ja_tyoumlikaumliset_lautakunta/Kokous_392025": {
+   "id": "lapset-nuoret-ja-tyoikaiset-lautakunta/2025-09-03",
+   "date": "2025-09-03",
+   "stage": "minutes",
+   "hash": "f91a497d0fec1594",
+   "fetched_at": "2026-10-14T17:18:41+00:00",
+   "first_seen": "2026-10-14T17:18:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2082025": {
+   "id": "tarkastuslautakunta/2025-08-20",
+   "date": "2025-08-20",
+   "stage": "minutes",
+   "hash": "c5857fbb16a072d4",
+   "fetched_at": "2026-10-14T17:18:52+00:00",
+   "first_seen": "2026-10-14T17:18:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1982025": {
+   "id": "aluehallitus/2025-08-19",
+   "date": "2025-08-19",
+   "stage": "minutes",
+   "hash": "e3e1f3c49a9ea070",
+   "fetched_at": "2026-10-14T17:19:02+00:00",
+   "first_seen": "2026-10-14T17:19:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1762025": {
+   "id": "aluehallitus/2025-06-17",
+   "date": "2025-06-17",
+   "stage": "minutes",
+   "hash": "13b90539647b985f",
+   "fetched_at": "2026-10-14T17:19:20+00:00",
+   "first_seen": "2026-10-14T17:19:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1262025": {
+   "id": "aluehallitus/2025-06-12",
+   "date": "2025-06-12",
+   "stage": "minutes",
+   "hash": "057cadf2bfcc1948",
+   "fetched_at": "2026-10-14T17:19:24+00:00",
+   "first_seen": "2026-10-14T17:19:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_1262025": {
+   "id": "aluevaltuusto/2025-06-12",
+   "date": "2025-06-12",
+   "stage": "minutes",
+   "hash": "8504775e42fb90ff",
+   "fetched_at": "2026-10-14T17:19:45+00:00",
+   "first_seen": "2026-10-14T17:19:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Rahoitus_ja_talousjaosto/Kokous_1262025": {
+   "id": "rahoitus-ja-talousjaosto/2025-06-12",
+   "date": "2025-06-12",
+   "stage": "minutes",
+   "hash": "45fbf3006f5d1b84",
+   "fetched_at": "2026-10-14T17:19:52+00:00",
+   "first_seen": "2026-10-14T17:19:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_562025": {
+   "id": "vammaisneuvosto/2025-06-05",
+   "date": "2025-06-05",
+   "stage": "minutes",
+   "hash": "940f9b39d4deb672",
+   "fetched_at": "2026-10-14T17:19:59+00:00",
+   "first_seen": "2026-10-14T17:19:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_462025": {
+   "id": "tarkastuslautakunta/2025-06-04",
+   "date": "2025-06-04",
+   "stage": "minutes",
+   "hash": "bb1d7ad8b817cc78",
+   "fetched_at": "2026-10-14T17:20:06+00:00",
+   "first_seen": "2026-10-14T17:20:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_362025": {
+   "id": "aluehallitus/2025-06-03",
+   "date": "2025-06-03",
+   "stage": "minutes",
+   "hash": "a6d7a11f66420491",
+   "fetched_at": "2026-10-14T17:20:24+00:00",
+   "first_seen": "2026-10-14T17:20:24+00:00",
+   "parser_version": "0.1.0"
+  }
+ },
+ "last_run": "2026-10-15T01:31:29+00:00"
+}

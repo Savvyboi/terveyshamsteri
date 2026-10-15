@@ -1,0 +1,17 @@
+{
+ "region": "ita-uusimaa",
+ "started_at": "2026-10-15T01:26:21+00:00",
+ "parser_version": "0.1.0",
+ "fetched": 9,
+ "changed": 0,
+ "unchanged": 70,
+ "removed": 0,
+ "errors": [
+  "fetch_meeting https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_432026: HTTPError('404 Client Error: Not Found for url: https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_432026/Arviointisuunnitelman_ja_arviointivuoden(28442)')"
+ ],
+ "complete": true,
+ "result": "partial",
+ "requests": 123,
+ "finished_at": "2026-10-15T01:28:25+00:00",
+ "meetings_total": 79
+}

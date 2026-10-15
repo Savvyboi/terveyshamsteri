@@ -1,0 +1,716 @@
+{
+ "meetings": {
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=31FCD4F3XD236X4885X9471X958072077A69": {
+   "id": "nuorisovaltuusto/2026-10-27",
+   "date": "2026-10-27",
+   "stage": "agenda",
+   "hash": "cfa2c300e7bbf285",
+   "fetched_at": "2026-10-14T16:47:47+00:00",
+   "first_seen": "2026-10-14T16:47:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=8AF7A420XCCC1X4D41X975EX09F53A671C71": {
+   "id": "vammaisneuvosto/2026-10-07",
+   "date": "2026-10-07",
+   "stage": "minutes",
+   "hash": "0e1ba44be8251ac1",
+   "fetched_at": "2026-10-14T16:48:00+00:00",
+   "first_seen": "2026-10-14T16:48:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=EAB6AAC1X318DX4FC3XACB9X88D6925DEE35": {
+   "id": "vanhusneuvosto/2026-10-07",
+   "date": "2026-10-07",
+   "stage": "minutes",
+   "hash": "51ab59fb6c788bc7",
+   "fetched_at": "2026-10-14T16:48:12+00:00",
+   "first_seen": "2026-10-14T16:48:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=F3961556XC065X4BCCXBC47X368A69AAF357": {
+   "id": "aluehallitus/2026-10-05",
+   "date": "2026-10-05",
+   "stage": "agenda",
+   "hash": "e50522f31c5b6b7c",
+   "fetched_at": "2026-10-14T16:48:24+00:00",
+   "first_seen": "2026-10-14T16:48:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=EE8A4C02XE064X4842X8272X28D636720FD8": {
+   "id": "alueellinen-toimeentulotukiasioiden-neuvottelukunta/2026-09-25",
+   "date": "2026-09-25",
+   "stage": "minutes",
+   "hash": "cdba1b6f5634605c",
+   "fetched_at": "2026-10-14T16:48:32+00:00",
+   "first_seen": "2026-10-14T16:48:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=810DD720XC009X4E8DX8105X49A6F7E45DD3": {
+   "id": "palvelulautakunta/2026-09-23",
+   "date": "2026-09-23",
+   "stage": "minutes",
+   "hash": "cd041e267e9394a1",
+   "fetched_at": "2026-10-14T16:48:40+00:00",
+   "first_seen": "2026-10-14T16:48:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=494A41B8X6729X49B4XADDBX528F1FD51270": {
+   "id": "tarkastuslautakunta/2026-09-22",
+   "date": "2026-09-22",
+   "stage": "minutes",
+   "hash": "7cbef0e3a92c22e5",
+   "fetched_at": "2026-10-14T16:48:50+00:00",
+   "first_seen": "2026-10-14T16:48:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=3F7F3D19XE8ADX461BX9432X4339568CD402": {
+   "id": "yhteistyotoimikunta/2026-09-22",
+   "date": "2026-09-22",
+   "stage": "minutes",
+   "hash": "1ced6b3fc98de58c",
+   "fetched_at": "2026-10-14T16:48:59+00:00",
+   "first_seen": "2026-10-14T16:48:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=17C46B14X4D46X4B6AX8268XD129CF1C1123": {
+   "id": "aluehallitus/2026-09-14",
+   "date": "2026-09-14",
+   "stage": "minutes",
+   "hash": "6e77cb9c3c787a24",
+   "fetched_at": "2026-10-14T16:49:08+00:00",
+   "first_seen": "2026-10-14T16:49:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=73A255D4XB933X4016XBAD9X80E5C19922F0": {
+   "id": "nuorisovaltuusto/2026-08-25",
+   "date": "2026-08-25",
+   "stage": "minutes",
+   "hash": "b53ebc16f8009da2",
+   "fetched_at": "2026-10-14T16:49:24+00:00",
+   "first_seen": "2026-10-14T16:49:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=614D2BEEXC24DX4B53XA10CX7F6612A9D31A": {
+   "id": "tarkastuslautakunta/2026-08-25",
+   "date": "2026-08-25",
+   "stage": "minutes",
+   "hash": "352e3ebf9ead9219",
+   "fetched_at": "2026-10-14T16:49:29+00:00",
+   "first_seen": "2026-10-14T16:49:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=4868742DX39A3X49B1XA31BX6986B12CFFBA": {
+   "id": "yhteistyotoimikunta/2026-08-25",
+   "date": "2026-08-25",
+   "stage": "minutes",
+   "hash": "3acd65053a18e29b",
+   "fetched_at": "2026-10-14T16:49:36+00:00",
+   "first_seen": "2026-10-14T16:49:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=A9649B49XEE0FX40A1X9EF1XC69D3F5CE821": {
+   "id": "aluehallitus/2026-08-24",
+   "date": "2026-08-24",
+   "stage": "minutes",
+   "hash": "a00cd4adb0bd7152",
+   "fetched_at": "2026-10-14T16:49:50+00:00",
+   "first_seen": "2026-10-14T16:49:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=01B6DF28X6193X49EDXBB93XB236F8AC0D49": {
+   "id": "aluehallitus/2026-06-23",
+   "date": "2026-06-23",
+   "stage": "minutes",
+   "hash": "eb9c0fd9d53ad06a",
+   "fetched_at": "2026-10-14T16:50:10+00:00",
+   "first_seen": "2026-10-14T16:50:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=C9F103A5X8029X4999X91D3XE83182A8C54D": {
+   "id": "yhteistyotoimikunta/2026-06-16",
+   "date": "2026-06-16",
+   "stage": "minutes",
+   "hash": "05daac2ba2adcec6",
+   "fetched_at": "2026-10-14T16:50:19+00:00",
+   "first_seen": "2026-10-14T16:50:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=242645BCX591EX4FA6XABE2X6B9543AC2A78": {
+   "id": "tarkastuslautakunta/2026-06-15",
+   "date": "2026-06-15",
+   "stage": "minutes",
+   "hash": "eb8b8cc3b977f433",
+   "fetched_at": "2026-10-14T16:50:26+00:00",
+   "first_seen": "2026-10-14T16:50:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=4D1BE189X77C7X4D54XB2F3X38E30B608289": {
+   "id": "aluevaltuusto/2026-06-08",
+   "date": "2026-06-08",
+   "stage": "minutes",
+   "hash": "fff5456b7c200e6b",
+   "fetched_at": "2026-10-14T16:50:52+00:00",
+   "first_seen": "2026-10-14T16:50:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=305C04C2XAF89X4975X810FX51EF9D1BAE9D": {
+   "id": "tarkastuslautakunta/2026-06-02",
+   "date": "2026-06-02",
+   "stage": "minutes",
+   "hash": "10ca86e8c9c216d2",
+   "fetched_at": "2026-10-14T16:51:03+00:00",
+   "first_seen": "2026-10-14T16:51:03+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2E447BE9XB9D4X4F0CX96BDXEC0073EC2193": {
+   "id": "aluehallitus/2026-06-01",
+   "date": "2026-06-01",
+   "stage": "minutes",
+   "hash": "76e7a725d1144fb1",
+   "fetched_at": "2026-10-14T16:51:21+00:00",
+   "first_seen": "2026-10-14T16:51:21+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=0949C7DFX95C5X4936XBEEFXC2441D006832": {
+   "id": "palvelulautakunta/2026-05-26",
+   "date": "2026-05-26",
+   "stage": "minutes",
+   "hash": "4ba3625894545ba6",
+   "fetched_at": "2026-10-14T16:51:29+00:00",
+   "first_seen": "2026-10-14T16:51:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=7C0289D5X803CX4923XAF9EX5F24ABE516E9": {
+   "id": "vammaisneuvosto/2026-05-19",
+   "date": "2026-05-19",
+   "stage": "minutes",
+   "hash": "e3a3e426bcfd2771",
+   "fetched_at": "2026-10-14T16:51:43+00:00",
+   "first_seen": "2026-10-14T16:51:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=16DCB5BFX6FFBX4233X9B09X388E9872DAA3": {
+   "id": "vanhusneuvosto/2026-05-19",
+   "date": "2026-05-19",
+   "stage": "minutes",
+   "hash": "09ab12c0a221d492",
+   "fetched_at": "2026-10-14T16:51:55+00:00",
+   "first_seen": "2026-10-14T16:51:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=1960CE1DX20A6X4DE8XB684X7C4AF335C774": {
+   "id": "yhteistyotoimikunta/2026-05-19",
+   "date": "2026-05-19",
+   "stage": "minutes",
+   "hash": "f4dd1905c9652bf8",
+   "fetched_at": "2026-10-14T16:52:05+00:00",
+   "first_seen": "2026-10-14T16:52:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026381": {
+   "id": "alueellinen-toimeentulotukiasioiden-neuvottelukunta/2026-05-13",
+   "date": "2026-05-13",
+   "stage": "minutes",
+   "hash": "68cfa54cba2326b2",
+   "fetched_at": "2026-10-14T16:52:14+00:00",
+   "first_seen": "2026-10-14T16:52:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026382": {
+   "id": "tarkastuslautakunta/2026-05-12",
+   "date": "2026-05-12",
+   "stage": "minutes",
+   "hash": "fd97dbf384d7f1ba",
+   "fetched_at": "2026-10-14T16:52:24+00:00",
+   "first_seen": "2026-10-14T16:52:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026378": {
+   "id": "aluehallitus/2026-05-11",
+   "date": "2026-05-11",
+   "stage": "minutes",
+   "hash": "92b24c3f0a05461e",
+   "fetched_at": "2026-10-14T16:52:39+00:00",
+   "first_seen": "2026-10-14T16:52:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026372": {
+   "id": "nuorisovaltuusto/2026-04-28",
+   "date": "2026-04-28",
+   "stage": "minutes",
+   "hash": "5bb53c443e6474db",
+   "fetched_at": "2026-10-14T16:52:52+00:00",
+   "first_seen": "2026-10-14T16:52:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026377": {
+   "id": "tarkastuslautakunta/2026-04-21",
+   "date": "2026-04-21",
+   "stage": "minutes",
+   "hash": "3b027593838e69f3",
+   "fetched_at": "2026-10-14T16:53:00+00:00",
+   "first_seen": "2026-10-14T16:53:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026371": {
+   "id": "aluehallitus/2026-04-20",
+   "date": "2026-04-20",
+   "stage": "minutes",
+   "hash": "2eb3e9f962bfbf96",
+   "fetched_at": "2026-10-14T16:53:10+00:00",
+   "first_seen": "2026-10-14T16:53:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026368": {
+   "id": "tarkastuslautakunta/2026-03-31",
+   "date": "2026-03-31",
+   "stage": "minutes",
+   "hash": "fb8ec28f328d4564",
+   "fetched_at": "2026-10-14T16:53:19+00:00",
+   "first_seen": "2026-10-14T16:53:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026367": {
+   "id": "aluehallitus/2026-03-30",
+   "date": "2026-03-30",
+   "stage": "minutes",
+   "hash": "6848d1ea3afa29e2",
+   "fetched_at": "2026-10-14T16:53:37+00:00",
+   "first_seen": "2026-10-14T16:53:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026359": {
+   "id": "aluevaltuusto/2026-03-24",
+   "date": "2026-03-24",
+   "stage": "minutes",
+   "hash": "134f84cfa852c1f9",
+   "fetched_at": "2026-10-14T16:53:59+00:00",
+   "first_seen": "2026-10-14T16:53:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026362": {
+   "id": "palvelulautakunta/2026-03-17",
+   "date": "2026-03-17",
+   "stage": "minutes",
+   "hash": "fcd3d52cdb0c53c0",
+   "fetched_at": "2026-10-14T16:54:06+00:00",
+   "first_seen": "2026-10-14T16:54:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026369": {
+   "id": "yhteistyotoimikunta/2026-03-17",
+   "date": "2026-03-17",
+   "stage": "minutes",
+   "hash": "52a9b64d4e401181",
+   "fetched_at": "2026-10-14T16:54:15+00:00",
+   "first_seen": "2026-10-14T16:54:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026355": {
+   "id": "vammaisneuvosto/2026-03-11",
+   "date": "2026-03-11",
+   "stage": "minutes",
+   "hash": "a3c162c9c08f49b6",
+   "fetched_at": "2026-10-14T16:54:25+00:00",
+   "first_seen": "2026-10-14T16:54:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026356": {
+   "id": "vanhusneuvosto/2026-03-11",
+   "date": "2026-03-11",
+   "stage": "minutes",
+   "hash": "ca02386914895a46",
+   "fetched_at": "2026-10-14T16:54:37+00:00",
+   "first_seen": "2026-10-14T16:54:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026366": {
+   "id": "aluehallitus/2026-03-09",
+   "date": "2026-03-09",
+   "stage": "minutes",
+   "hash": "7e6d24c3b3132385",
+   "fetched_at": "2026-10-14T16:54:46+00:00",
+   "first_seen": "2026-10-14T16:54:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026357": {
+   "id": "alueellinen-toimeentulotukiasioiden-neuvottelukunta/2026-03-06",
+   "date": "2026-03-06",
+   "stage": "minutes",
+   "hash": "c4e31b534e9347c4",
+   "fetched_at": "2026-10-14T16:54:53+00:00",
+   "first_seen": "2026-10-14T16:54:53+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026360": {
+   "id": "aluehallitus/2026-03-02",
+   "date": "2026-03-02",
+   "stage": "minutes",
+   "hash": "717ac9fec745128c",
+   "fetched_at": "2026-10-14T16:55:08+00:00",
+   "first_seen": "2026-10-14T16:55:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026350": {
+   "id": "nuorisovaltuusto/2026-02-17",
+   "date": "2026-02-17",
+   "stage": "minutes",
+   "hash": "6beda244bd91a42d",
+   "fetched_at": "2026-10-14T16:55:21+00:00",
+   "first_seen": "2026-10-14T16:55:21+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026363": {
+   "id": "tarkastuslautakunta/2026-02-17",
+   "date": "2026-02-17",
+   "stage": "minutes",
+   "hash": "99e11500de4caaad",
+   "fetched_at": "2026-10-14T16:55:29+00:00",
+   "first_seen": "2026-10-14T16:55:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026364": {
+   "id": "yhteistyotoimikunta/2026-02-17",
+   "date": "2026-02-17",
+   "stage": "minutes",
+   "hash": "9ee3f9001e823028",
+   "fetched_at": "2026-10-14T16:55:38+00:00",
+   "first_seen": "2026-10-14T16:55:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026358": {
+   "id": "aluehallitus/2026-02-09",
+   "date": "2026-02-09",
+   "stage": "minutes",
+   "hash": "302ab240e85de3db",
+   "fetched_at": "2026-10-14T16:55:59+00:00",
+   "first_seen": "2026-10-14T16:55:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026349": {
+   "id": "palvelulautakunta/2026-01-26",
+   "date": "2026-01-26",
+   "stage": "minutes",
+   "hash": "dc275531bb239ebe",
+   "fetched_at": "2026-10-14T16:56:06+00:00",
+   "first_seen": "2026-10-14T16:56:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026352": {
+   "id": "aluevaalilautakunta/2026-01-22",
+   "date": "2026-01-22",
+   "stage": "minutes",
+   "hash": "62002cbf2775bd7d",
+   "fetched_at": "2026-10-14T16:56:11+00:00",
+   "first_seen": "2026-10-14T16:56:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026351": {
+   "id": "tarkastuslautakunta/2026-01-20",
+   "date": "2026-01-20",
+   "stage": "minutes",
+   "hash": "2022baea04ebd439",
+   "fetched_at": "2026-10-14T16:56:20+00:00",
+   "first_seen": "2026-10-14T16:56:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026354": {
+   "id": "yhteistyotoimikunta/2026-01-20",
+   "date": "2026-01-20",
+   "stage": "minutes",
+   "hash": "5c269f23fdc7c5e6",
+   "fetched_at": "2026-10-14T16:56:35+00:00",
+   "first_seen": "2026-10-14T16:56:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026348": {
+   "id": "aluehallitus/2026-01-19",
+   "date": "2026-01-19",
+   "stage": "minutes",
+   "hash": "8a5ed8609dfd9eb7",
+   "fetched_at": "2026-10-14T16:56:56+00:00",
+   "first_seen": "2026-10-14T16:56:56+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025347": {
+   "id": "tarkastuslautakunta/2025-12-16",
+   "date": "2025-12-16",
+   "stage": "minutes",
+   "hash": "5b4ee90101203f9b",
+   "fetched_at": "2026-10-14T16:57:05+00:00",
+   "first_seen": "2026-10-14T16:57:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025344": {
+   "id": "aluehallitus/2025-12-15",
+   "date": "2025-12-15",
+   "stage": "minutes",
+   "hash": "d51fd4c78d804d0b",
+   "fetched_at": "2026-10-14T16:57:18+00:00",
+   "first_seen": "2026-10-14T16:57:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025341": {
+   "id": "nuorisovaltuusto/2025-12-09",
+   "date": "2025-12-09",
+   "stage": "minutes",
+   "hash": "06ed5940fb8f0e9b",
+   "fetched_at": "2026-10-14T16:57:34+00:00",
+   "first_seen": "2026-10-14T16:57:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025345": {
+   "id": "yhteistyotoimikunta/2025-12-09",
+   "date": "2025-12-09",
+   "stage": "minutes",
+   "hash": "985a5f3d396959f9",
+   "fetched_at": "2026-10-14T16:57:42+00:00",
+   "first_seen": "2026-10-14T16:57:42+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025325": {
+   "id": "aluevaltuusto/2025-12-08",
+   "date": "2025-12-08",
+   "stage": "minutes",
+   "hash": "2a96224ac37e923c",
+   "fetched_at": "2026-10-14T16:57:56+00:00",
+   "first_seen": "2026-10-14T16:57:56+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025332": {
+   "id": "alueellinen-toimeentulotukiasioiden-neuvottelukunta/2025-11-28",
+   "date": "2025-11-28",
+   "stage": "minutes",
+   "hash": "4f8c78e964b867b0",
+   "fetched_at": "2026-10-14T16:58:04+00:00",
+   "first_seen": "2026-10-14T16:58:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025327": {
+   "id": "palvelulautakunta/2025-11-25",
+   "date": "2025-11-25",
+   "stage": "minutes",
+   "hash": "06da1a8cf42d55a3",
+   "fetched_at": "2026-10-14T16:58:12+00:00",
+   "first_seen": "2026-10-14T16:58:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025338": {
+   "id": "aluehallitus/2025-11-24",
+   "date": "2025-11-24",
+   "stage": "minutes",
+   "hash": "1195d026f1e25711",
+   "fetched_at": "2026-10-14T16:58:29+00:00",
+   "first_seen": "2026-10-14T16:58:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025343": {
+   "id": "tarkastuslautakunta/2025-11-18",
+   "date": "2025-11-18",
+   "stage": "minutes",
+   "hash": "9e462028c3e7862d",
+   "fetched_at": "2026-10-14T16:58:36+00:00",
+   "first_seen": "2026-10-14T16:58:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025342": {
+   "id": "yhteistyotoimikunta/2025-11-18",
+   "date": "2025-11-18",
+   "stage": "minutes",
+   "hash": "84a6c313ff7a3ebc",
+   "fetched_at": "2026-10-14T16:58:48+00:00",
+   "first_seen": "2026-10-14T16:58:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025339": {
+   "id": "vammaisneuvosto/2025-11-12",
+   "date": "2025-11-12",
+   "stage": "minutes",
+   "hash": "264fe559ce168e88",
+   "fetched_at": "2026-10-14T16:59:00+00:00",
+   "first_seen": "2026-10-14T16:59:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025340": {
+   "id": "vanhusneuvosto/2025-11-12",
+   "date": "2025-11-12",
+   "stage": "minutes",
+   "hash": "b8f02576ec61cfa0",
+   "fetched_at": "2026-10-14T16:59:12+00:00",
+   "first_seen": "2026-10-14T16:59:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025333": {
+   "id": "aluehallitus/2025-11-10",
+   "date": "2025-11-10",
+   "stage": "minutes",
+   "hash": "bd3ebd307669c4ba",
+   "fetched_at": "2026-10-14T16:59:25+00:00",
+   "first_seen": "2026-10-14T16:59:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025321": {
+   "id": "nuorisovaltuusto/2025-10-28",
+   "date": "2025-10-28",
+   "stage": "minutes",
+   "hash": "f9d0331022179d18",
+   "fetched_at": "2026-10-14T16:59:40+00:00",
+   "first_seen": "2026-10-14T16:59:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025337": {
+   "id": "tarkastuslautakunta/2025-10-28",
+   "date": "2025-10-28",
+   "stage": "minutes",
+   "hash": "6c0bec376edf9f21",
+   "fetched_at": "2026-10-14T16:59:48+00:00",
+   "first_seen": "2026-10-14T16:59:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025336": {
+   "id": "yhteistyotoimikunta/2025-10-21",
+   "date": "2025-10-21",
+   "stage": "minutes",
+   "hash": "69f93bbfcfa56c1b",
+   "fetched_at": "2026-10-14T16:59:56+00:00",
+   "first_seen": "2026-10-14T16:59:56+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025326": {
+   "id": "palvelulautakunta/2025-10-16",
+   "date": "2025-10-16",
+   "stage": "minutes",
+   "hash": "54722e812a07e72b",
+   "fetched_at": "2026-10-14T17:00:05+00:00",
+   "first_seen": "2026-10-14T17:00:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025335": {
+   "id": "vammaisneuvosto/2025-10-16",
+   "date": "2025-10-16",
+   "stage": "minutes",
+   "hash": "dedb606f94eba24b",
+   "fetched_at": "2026-10-14T17:00:18+00:00",
+   "first_seen": "2026-10-14T17:00:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025334": {
+   "id": "vanhusneuvosto/2025-10-16",
+   "date": "2025-10-16",
+   "stage": "minutes",
+   "hash": "8a982663821bdbd8",
+   "fetched_at": "2026-10-14T17:00:31+00:00",
+   "first_seen": "2026-10-14T17:00:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025328": {
+   "id": "aluehallitus/2025-09-29",
+   "date": "2025-09-29",
+   "stage": "minutes",
+   "hash": "f0243ce9df501142",
+   "fetched_at": "2026-10-14T17:00:44+00:00",
+   "first_seen": "2026-10-14T17:00:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025329": {
+   "id": "tarkastuslautakunta/2025-09-23",
+   "date": "2025-09-23",
+   "stage": "minutes",
+   "hash": "95d95f6598f6e7fc",
+   "fetched_at": "2026-10-14T17:00:57+00:00",
+   "first_seen": "2026-10-14T17:00:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025330": {
+   "id": "yhteistyotoimikunta/2025-09-23",
+   "date": "2025-09-23",
+   "stage": "minutes",
+   "hash": "fb241a41479f2e4e",
+   "fetched_at": "2026-10-14T17:01:08+00:00",
+   "first_seen": "2026-10-14T17:01:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025319": {
+   "id": "alueellinen-toimeentulotukiasioiden-neuvottelukunta/2025-09-19",
+   "date": "2025-09-19",
+   "stage": "minutes",
+   "hash": "8505f4a4c012b4a1",
+   "fetched_at": "2026-10-14T17:01:15+00:00",
+   "first_seen": "2026-10-14T17:01:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025320": {
+   "id": "aluehallitus/2025-09-15",
+   "date": "2025-09-15",
+   "stage": "minutes",
+   "hash": "28aca11278c298bc",
+   "fetched_at": "2026-10-14T17:01:26+00:00",
+   "first_seen": "2026-10-14T17:01:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025317": {
+   "id": "nuorisovaltuusto/2025-08-26",
+   "date": "2025-08-26",
+   "stage": "minutes",
+   "hash": "4e5b5ad0849099f0",
+   "fetched_at": "2026-10-14T17:01:39+00:00",
+   "first_seen": "2026-10-14T17:01:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025323": {
+   "id": "yhteistyotoimikunta/2025-08-26",
+   "date": "2025-08-26",
+   "stage": "minutes",
+   "hash": "60f94a1df912acae",
+   "fetched_at": "2026-10-14T17:01:48+00:00",
+   "first_seen": "2026-10-14T17:01:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025318": {
+   "id": "aluehallitus/2025-08-25",
+   "date": "2025-08-25",
+   "stage": "minutes",
+   "hash": "726941ee70f509eb",
+   "fetched_at": "2026-10-14T17:02:01+00:00",
+   "first_seen": "2026-10-14T17:02:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025322": {
+   "id": "tarkastuslautakunta/2025-08-20",
+   "date": "2025-08-20",
+   "stage": "minutes",
+   "hash": "70460deae3ae64c2",
+   "fetched_at": "2026-10-14T17:02:09+00:00",
+   "first_seen": "2026-10-14T17:02:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025315": {
+   "id": "aluehallitus/2025-06-10",
+   "date": "2025-06-10",
+   "stage": "minutes",
+   "hash": "cba986c1009cd1dd",
+   "fetched_at": "2026-10-14T17:02:27+00:00",
+   "first_seen": "2026-10-14T17:02:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025316": {
+   "id": "yhteistyotoimikunta/2025-06-10",
+   "date": "2025-06-10",
+   "stage": "minutes",
+   "hash": "a5f0a1da21ae9c89",
+   "fetched_at": "2026-10-14T17:02:35+00:00",
+   "first_seen": "2026-10-14T17:02:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025312": {
+   "id": "aluevaltuusto/2025-06-05",
+   "date": "2025-06-05",
+   "stage": "minutes",
+   "hash": "f9be0a9c6184ed25",
+   "fetched_at": "2026-10-14T17:02:49+00:00",
+   "first_seen": "2026-10-14T17:02:49+00:00",
+   "parser_version": "0.1.0"
+  }
+ },
+ "last_run": "2026-10-15T01:28:50+00:00"
+}

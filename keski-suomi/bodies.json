@@ -1,0 +1,107 @@
+[
+ {
+  "id": "aluehallitus",
+  "name": "Aluehallitus",
+  "type": "board",
+  "url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=1",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaalilautakunta",
+  "name": "Aluevaalilautakunta",
+  "type": "committee",
+  "url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=2449",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaltuusto",
+  "name": "Aluevaltuusto",
+  "type": "council",
+  "url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=7",
+  "language": "fi"
+ },
+ {
+  "id": "hyvinvoinnin-ja-terveyden-lautakunta",
+  "name": "Hyvinvoinnin ja terveyden lautakunta",
+  "type": "committee",
+  "url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=35535",
+  "language": "fi"
+ },
+ {
+  "id": "jarjestojen-ja-seurakuntien-vaikuttamistoimielin",
+  "name": "Järjestöjen ja seurakuntien vaikuttamistoimielin",
+  "type": "advisory",
+  "url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=196",
+  "language": "fi"
+ },
+ {
+  "id": "lasten-nuorten-ja-perheiden-lautakunta",
+  "name": "Lasten, nuorten ja perheiden lautakunta",
+  "type": "committee",
+  "url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=253",
+  "language": "fi"
+ },
+ {
+  "id": "nuorisovaltuusto",
+  "name": "Nuorisovaltuusto",
+  "type": "advisory",
+  "url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=272",
+  "language": "fi"
+ },
+ {
+  "id": "palveluntuottajien-vaikuttamistoimielin",
+  "name": "Palveluntuottajien vaikuttamistoimielin",
+  "type": "advisory",
+  "url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=88",
+  "language": "fi"
+ },
+ {
+  "id": "sisaisen-tarkastuksen-jaosto",
+  "name": "Sisäisen tarkastuksen jaosto",
+  "type": "section",
+  "url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=50",
+  "language": "fi"
+ },
+ {
+  "id": "tarkastuslautakunta",
+  "name": "Tarkastuslautakunta",
+  "type": "committee",
+  "url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=732",
+  "language": "fi"
+ },
+ {
+  "id": "turvallisuuslautakunta",
+  "name": "Turvallisuuslautakunta",
+  "type": "committee",
+  "url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=218",
+  "language": "fi"
+ },
+ {
+  "id": "tutkimuksen-koulutuksen-kehittamisen-ja-innovaatioiden-neuvottelukunta",
+  "name": "Tutkimuksen, koulutuksen, kehittämisen ja innovaatioiden neuvottelukunta",
+  "type": "advisory",
+  "url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=707",
+  "language": "fi"
+ },
+ {
+  "id": "tyoikaisten-ja-ikaantyneiden-lautakunta",
+  "name": "Työikäisten ja ikääntyneiden lautakunta",
+  "type": "committee",
+  "url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=254",
+  "language": "fi"
+ },
+ {
+  "id": "vammaisneuvosto",
+  "name": "Vammaisneuvosto",
+  "type": "advisory",
+  "url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=616",
+  "language": "fi"
+ },
+ {
+  "id": "vanhusneuvosto",
+  "name": "Vanhusneuvosto",
+  "type": "advisory",
+  "url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=617",
+  "language": "fi"
+ }
+]

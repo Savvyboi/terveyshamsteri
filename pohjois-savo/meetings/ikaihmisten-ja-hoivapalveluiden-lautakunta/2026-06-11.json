@@ -1,0 +1,597 @@
+{
+ "id": "ikaihmisten-ja-hoivapalveluiden-lautakunta/2026-06-11",
+ "region": "pohjois-savo",
+ "body_id": "ikaihmisten-ja-hoivapalveluiden-lautakunta",
+ "body_name": "Ikäihmisten ja hoivapalveluiden lautakunta",
+ "date": "2026-06-11",
+ "stage": "minutes",
+ "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261014",
+ "pdf_url": "https://pshva.oncloudos.com/kokous/20261014.PDF",
+ "time": "13:00 - 14:49",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "51",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261014-1",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261014-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.",
+   "decision": "Kokous todettiin laillisesti koolle kutsutuksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen laillisuus ja päätösvaltaisuus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokous todettiin laillisesti koolle kutsutuksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "52",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261014-2",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261014-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Kari Ojala ja Leea Oksiala.",
+   "decision": "Pöytäkirjantarkastajiksi valittiin Kari Ojala ja Leea Oksiala.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pöytäkirjantarkastajien valinta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Kari Ojala ja Leea Oksiala."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Kari Ojala ja Leea Oksiala."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "53",
+   "title": "Asioiden käsittelyjärjestys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261014-3",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261014-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi.",
+   "decision": "Käsitellään § 61 Oikaisuvaatimus Kiuruveden kotihoidon palveluesihenkilön viran täyttämättä jättämisestä ja määräaikaisen viranhaltijan nimeämisestä ensimmäisenä, muuten esityslistan mukaisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asioiden käsittelyjärjestys"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Käsitellään § 61 Oikaisuvaatimus Kiuruveden kotihoidon palveluesihenkilön viran täyttämättä jättämisestä ja määräaikaisen viranhaltijan nimeämisestä ensimmäisenä, muuten esityslistan mukaisesti."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "54",
+   "title": "Ikääntyneiden asiakasohjauksen ns.kasvokkain pisteisteistä luopuminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261014-4",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261014-4.PDF",
+   "diary_number": "3266/00.01.02.00/2026",
+   "preparer": null,
+   "presenter": "ikääntyvien palveluiden toimialajohtaja",
+   "proposal": "Ikäihmisten ja hoivapalveluiden lautakunta päättää, että Iisalmen ja Kuopion palvelupisteistä, joissa annetaan palvelua kiinteässä kivijalkapisteissä kasvokkain, luovutaan vuoden 2026 loppuun mennessä.\n\nSamalla Ikäihmisten ja hoivapalveluiden lautakunta päättää, että sitä ennen otetaan käyttöön kuvayhteydellinen neuvonta koko hyvinvointialueeella.\n\nEnnakkovaikutusten arviointi\n\nOn osa aiemmin päätettyä ikääntyneiden hyvinvointisuunittelma kokonaisuutta. Keskeistä on yhdenvertainen palvelujen järjestäminen talouden reunaehtojen sisällä.\n\nToimivallan peruste\nHallintosääntö § 43\n\nLiitteet ja oheisaineisto\n\nValmistelu\nIkäkeskuksen neuvontaan tuli vuonna 2025 noin 15500 yhteydenottoa. Tällä hetkellä asiakkaita palvellaan puhelimessa (n. 75-80 %), chat- yhteydellä (n. 10 %), sähköpostilla ja kasvokkainen palvelupisteellä (Iisalmi ja Kuopio). Kahdessa ns. kasvokkain pisteessä (Kuopio ja Iisalmi) asioinnin osuus oli yhteensä n. 7,5 % yhteydenotoista\n\n.\n\nKansallisesti kasvokkaisen kohtaamisen palvelupisteitä on noin puolella hyvinvointialueista. Pohjois-Savon maantieteelliset erityispiirteet huomioiden kasvokkain kohtaaminen ei ole tuottavuuden kannalta perusteltu tapa järjestää palvelua.\n\nKeskittyminen muihin palvelukanaviin turvaa oikea-aikaisen palvelun ja riittävät resurssit koko alueelle.\n\nEnnen kasvokkain palvelusta luopumista otetaa käyttöön kuvayhteydellinen neuvonta koko hyvinvointialueella. Lisäksi palvelukanavina jatkavat puhelin ja OmaSavon mahdollistama etäpalvelu mm. chat.\n\nTavoite toiminnan muuttamisesta on linjattu aiemmin osana ikääntyneiden hyvinvvointisuunitelman palveluverkko liitettä.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\ntoimialajohtaja Mikko Korhonen\n\n\n\npalveluyksikköjohtaja Hanna Jokinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "ikääntyvien palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Ikäihmisten ja hoivapalveluiden lautakunta päättää, että Iisalmen ja Kuopion palvelupisteistä, joissa annetaan palvelua kiinteässä kivijalkapisteissä kasvokkain, luovutaan vuoden 2026 loppuun mennessä.\n\nSamalla Ikäihmisten ja hoivapalveluiden lautakunta päättää, että sitä ennen otetaan käyttöön kuvayhteydellinen neuvonta koko hyvinvointialueeella.\n\nEnnakkovaikutusten arviointi\n\nOn osa aiemmin päätettyä ikääntyneiden hyvinvointisuunittelma kokonaisuutta. Keskeistä on yhdenvertainen palvelujen järjestäminen talouden reunaehtojen sisällä.\n\nToimivallan peruste\nHallintosääntö § 43\n\nLiitteet ja oheisaineisto\n\nValmistelu\nIkäkeskuksen neuvontaan tuli vuonna 2025 noin 15500 yhteydenottoa. Tällä hetkellä asiakkaita palvellaan puhelimessa (n. 75-80 %), chat- yhteydellä (n. 10 %), sähköpostilla ja kasvokkainen palvelupisteellä (Iisalmi ja Kuopio). Kahdessa ns. kasvokkain pisteessä (Kuopio ja Iisalmi) asioinnin osuus oli yhteensä n. 7,5 % yhteydenotoista\n\n.\n\nKansallisesti kasvokkaisen kohtaamisen palvelupisteitä on noin puolella hyvinvointialueista. Pohjois-Savon maantieteelliset erityispiirteet huomioiden kasvokkain kohtaaminen ei ole tuottavuuden kannalta perusteltu tapa järjestää palvelua.\n\nKeskittyminen muihin palvelukanaviin turvaa oikea-aikaisen palvelun ja riittävät resurssit koko alueelle.\n\nEnnen kasvokkain palvelusta luopumista otetaa käyttöön kuvayhteydellinen neuvonta koko hyvinvointialueella. Lisäksi palvelukanavina jatkavat puhelin ja OmaSavon mahdollistama etäpalvelu mm. chat.\n\nTavoite toiminnan muuttamisesta on linjattu aiemmin osana ikääntyneiden hyvinvvointisuunitelman palveluverkko liitettä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "55",
+   "title": "Ikääntyneiden ryhmäkodeista luopuminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261014-5",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261014-5.PDF",
+   "diary_number": "3270/00.01.02.00/2026",
+   "preparer": "toimialajohtaja Mikko Korhonen; palveluyksikköjohtaja Marja Kavilo",
+   "presenter": "ikääntyvien palveluiden toimialajohtaja",
+   "proposal": "Ikäihmisten ja hoivapalveluiden lautakunta päättää, että ikääntyneiden palveluissa luovutaan ryhmäkodeista ja jatkossa ikääntyneiden asumispalvelujen toteutusmuotoja ovat yhteisöllinen asuminen ja ympärivuorokautinen asuminen.\n\nEnnakkovaikutusten arviointi\n\nYhdenvertainen palvelujen järjestäminen hyvinvointialue tasoisesti.\n\nPalvelumuotojen yhtenäistäminen säädöspohjan mukaiseksi. Koskee yksittäisiä asiakkaita.\n\nToimivallan peruste\nHallintosääntö § 43\n\nLiitteet ja oheisaineisto\n\nValmistelu\nSosiaalihuoltolain mukaista asumispalvelua ovat tilapäinen asuminen, yhteisöllinen asuminen ja ympärivuorokautinen palveluasuminen. Ikääntyneiden palveluissa pitkäaikaista asumispalvelua tuotetaan yhteisöllisenä asumisena ja ympärivuorokautisena palveluasumisena. Sosiaalihuoltolain mukainen asumispalvelu on tarkoitettu henkilölle, joka tarvitsee tukea asumisessaan esimerkiksi terveydellisistä, sosiaalisista tai elämäntilanteeseen liittyvistä syistä\n\nYhteisöllinen asuminen (korvaa aiemman palveluasumisen): Yhteisöllisellä asumisella tarkoitetaan hyvinvointialueen järjestämää asumista esteettömässä ja turvallisessa asumisyksikössä. Henkilöllä on käytössään hänen tarpeitaan vastaava asunto ja lisäksi on tarjolla sosiaalista kanssakäymistä edistävää toimintaa. Yhteisöllinen asuminen on tarkoitettu henkilöille, jotka tarvitsevat sitä alentuneen toimintakyvyn tai lisääntyneen hoidon ja huolenpidon tarpeen vuoksi. Tarve voi johtua esimerkiksi korkeasta iästä, sairaudesta, vammasta tai muusta vastaavasta syystä.\n\nYmpärivuorokautinen palveluasuminen: Ympärivuorokautisella palveluasumisella tarkoitetaan asumista esteettömässä ja turvallisessa hoivakodissa, palvelukodissa tai vastaavassa asumisyksikössä, jossa on tarjolla myös yhteisöllistä toimintaa. Henkilöllä on käytössään hänen tarpeitaan vastaava asunto.\n\nAsukas saa henkilökunnalta hoitoa ja huolenpitoa viipymättä ja vuorokauden ajasta riippumatta, myös äkillisissä tilanteissa.\n\nRyhmäkotiasuminen ei ole sosiaalihuoltolain mukainen asumispalvelu. Ryhmäkodeissa asuvien asiakkaiden hoidon ja hoivan tuottaa kotihoidon henkilökunta eli ovat säännöllisen kotihoidon asiakkuudessa.\n\nRyhmäkodit asumismuotona ovat korvautuneet pääosin yhteisöllisellä asumisella sekä osin ympärivuorokautisella palveluasumisella .Uusia asiakkuusia ryhmäkoteihin ei ole ohjautunut.\n\nHyvinvointialueella toimii edelleen ryhmäkoteja Pielavedellä, Vesannolla, Rautalammilla ja Karttulassa. Ryhmäkotien asukasvuokrasopimukset ovat osin hyvinvointialueen hallinnoimia, jolloin kiinteistöt ovat kokonaan vuokrattuna kotihoidolle. Osin vuokrasopimuksia hallitsee kiinteistön omistaja.\n\nRyhmäkodeista luopuminen suunnitellaan yksikkökohtaisesti, eikä uusia asiakkaita enää sijoiteta ryhmäkoteihin. Ryhmäkodeissa asuvien henkilöiden palvelut arvioidaan ja suunnitellaan muutostilanteessa yksilöllisen palvelutarpeen arvioinnin perusteella.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelijat",
+     "text": "toimialajohtaja Mikko Korhonen\n\npalveluyksikköjohtaja Marja Kavilo"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "ikääntyvien palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Ikäihmisten ja hoivapalveluiden lautakunta päättää, että ikääntyneiden palveluissa luovutaan ryhmäkodeista ja jatkossa ikääntyneiden asumispalvelujen toteutusmuotoja ovat yhteisöllinen asuminen ja ympärivuorokautinen asuminen.\n\nEnnakkovaikutusten arviointi\n\nYhdenvertainen palvelujen järjestäminen hyvinvointialue tasoisesti.\n\nPalvelumuotojen yhtenäistäminen säädöspohjan mukaiseksi. Koskee yksittäisiä asiakkaita.\n\nToimivallan peruste\nHallintosääntö § 43\n\nLiitteet ja oheisaineisto\n\nValmistelu\nSosiaalihuoltolain mukaista asumispalvelua ovat tilapäinen asuminen, yhteisöllinen asuminen ja ympärivuorokautinen palveluasuminen. Ikääntyneiden palveluissa pitkäaikaista asumispalvelua tuotetaan yhteisöllisenä asumisena ja ympärivuorokautisena palveluasumisena. Sosiaalihuoltolain mukainen asumispalvelu on tarkoitettu henkilölle, joka tarvitsee tukea asumisessaan esimerkiksi terveydellisistä, sosiaalisista tai elämäntilanteeseen liittyvistä syistä\n\nYhteisöllinen asuminen (korvaa aiemman palveluasumisen): Yhteisöllisellä asumisella tarkoitetaan hyvinvointialueen järjestämää asumista esteettömässä ja turvallisessa asumisyksikössä. Henkilöllä on käytössään hänen tarpeitaan vastaava asunto ja lisäksi on tarjolla sosiaalista kanssakäymistä edistävää toimintaa. Yhteisöllinen asuminen on tarkoitettu henkilöille, jotka tarvitsevat sitä alentuneen toimintakyvyn tai lisääntyneen hoidon ja huolenpidon tarpeen vuoksi. Tarve voi johtua esimerkiksi korkeasta iästä, sairaudesta, vammasta tai muusta vastaavasta syystä.\n\nYmpärivuorokautinen palveluasuminen: Ympärivuorokautisella palveluasumisella tarkoitetaan asumista esteettömässä ja turvallisessa hoivakodissa, palvelukodissa tai vastaavassa asumisyksikössä, jossa on tarjolla myös yhteisöllistä toimintaa. Henkilöllä on käytössään hänen tarpeitaan vastaava asunto.\n\nAsukas saa henkilökunnalta hoitoa ja huolenpitoa viipymättä ja vuorokauden ajasta riippumatta, myös äkillisissä tilanteissa.\n\nRyhmäkotiasuminen ei ole sosiaalihuoltolain mukainen asumispalvelu. Ryhmäkodeissa asuvien asiakkaiden hoidon ja hoivan tuottaa kotihoidon henkilökunta eli ovat säännöllisen kotihoidon asiakkuudessa.\n\nRyhmäkodit asumismuotona ovat korvautuneet pääosin yhteisöllisellä asumisella sekä osin ympärivuorokautisella palveluasumisella .Uusia asiakkuusia ryhmäkoteihin ei ole ohjautunut.\n\nHyvinvointialueella toimii edelleen ryhmäkoteja Pielavedellä, Vesannolla, Rautalammilla ja Karttulassa. Ryhmäkotien asukasvuokrasopimukset ovat osin hyvinvointialueen hallinnoimia, jolloin kiinteistöt ovat kokonaan vuokrattuna kotihoidolle. Osin vuokrasopimuksia hallitsee kiinteistön omistaja.\n\nRyhmäkodeista luopuminen suunnitellaan yksikkökohtaisesti, eikä uusia asiakkaita enää sijoiteta ryhmäkoteihin. Ryhmäkodeissa asuvien henkilöiden palvelut arvioidaan ja suunnitellaan muutostilanteessa yksilöllisen palvelutarpeen arvioinnin perusteella."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "56",
+   "title": "Valmistelu Varkauden Käpyrinteen muutoksesta palvelukampukseksi",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261014-6",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261014-6.PDF",
+   "diary_number": "3272/00.01.02.00/2026",
+   "preparer": "toimialajohtaja Mikko Korhonen; hankintajohtaja Outi Kalske; kiinteistöjohtaja Petri Pyy",
+   "presenter": "ikääntyvien palveluiden toimialajohtaja",
+   "proposal": "Ikäihmisten ja hoivapalveluiden lautakunta esittää perustettavaksi työryhmän asian edelleen valmistelua varten.\n\nTyöryhmään nimetään edustus ikääntyneiden asumispalveluista, hankinta- ja tukipalveluista sekä kiinteistöhallinnosta.\n\nTyöryhmän tehtävä on valmistella tilojen hyödyntämistä ja siihen liityvää ateriapalvelujenhankintaa aluehallituksen päätöksen tekoa varten.\n\nEnnakkovaikutusten arviointi\n\nAsiakaslähtöisen monimuotoisen palvelukokonaisuuden selvitystyö\n\nToimivallan peruste\nHallintosääntö § 43\n\nValmistelu\nKäpyrinne on merkittävä asumispalvelukeskittymä Varkaudessa. Alueella on 227 ympärivuorokautisen hoivan tai lyhytaikaishoivan asukasta.\n\nHyvinvointialueen rakentumisen yhteydessä keittiö ja sen yhteydessä oleva ruokasali sekä juhlasali jäivät pois aktiivisesta käytöstä. Keittiötilat on vuokrattu tällä hetkellä Servicalle.Nämä tilat ovat viihtyisät ja mahdollistaisivat koko kampusalueen ruokahuollon toteuttamisen. Lisäksi olisi syytä tutkia, mahdollistaisivatko tilat myös muiden ikäihmisille palveluja tuottavien yksityisten toimijoiden toiminnan alueella.\n\nEnsi vaiheessa selvitetään kilpailutus vaihtoehto ja tilojen (keittiö, ruokasali, juhlasali yms.) hyödyntäminen siten, että tilat ovat hyvinvointialueen vuokrakuormassa eli hyvinvointialue edelleen vuokraa ao. tiloja kilpailutetulle palveluntuottajalle.\n\nJos kilpailutuksen kautta ei saada tyydyttävää ratkaisua selvitettäväksi asiaksi jää tilojen irrottamien hyvivointialueelle kohdistuvasta vuokrakuormasta.\n\nLaskennallisesti 4 vuoden hankintakaudella alueen asukasaterioiden hankintakustannus on n. 8,25 M€. Tämän lisäksi mahdollinen yrittäjä voi myydä palveluja myös muille asiakkaille sekä alueen asukkaille.\n\nKun asukasvuokrat nousevat aluehallituksen määritelmään maksimiin, niin asumispalvelukokonaisuuteen edelleen jää 689 000€ kohdistamatonta vuokrakulua, josta merkittävän osan muodostaa ruokailu- ja juhlasalitilat.\n\nToimivalta hankinnasta on hankinnan arvoon pohjautuen aluehallituksella.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelijat",
+     "text": "toimialajohtaja Mikko Korhonen\n\nhankintajohtaja Outi Kalske\n\nkiinteistöjohtaja Petri Pyy"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "ikääntyvien palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Ikäihmisten ja hoivapalveluiden lautakunta esittää perustettavaksi työryhmän asian edelleen valmistelua varten.\n\nTyöryhmään nimetään edustus ikääntyneiden asumispalveluista, hankinta- ja tukipalveluista sekä kiinteistöhallinnosta.\n\nTyöryhmän tehtävä on valmistella tilojen hyödyntämistä ja siihen liityvää ateriapalvelujenhankintaa aluehallituksen päätöksen tekoa varten.\n\nEnnakkovaikutusten arviointi\n\nAsiakaslähtöisen monimuotoisen palvelukokonaisuuden selvitystyö\n\nToimivallan peruste\nHallintosääntö § 43\n\nValmistelu\nKäpyrinne on merkittävä asumispalvelukeskittymä Varkaudessa. Alueella on 227 ympärivuorokautisen hoivan tai lyhytaikaishoivan asukasta.\n\nHyvinvointialueen rakentumisen yhteydessä keittiö ja sen yhteydessä oleva ruokasali sekä juhlasali jäivät pois aktiivisesta käytöstä. Keittiötilat on vuokrattu tällä hetkellä Servicalle.Nämä tilat ovat viihtyisät ja mahdollistaisivat koko kampusalueen ruokahuollon toteuttamisen. Lisäksi olisi syytä tutkia, mahdollistaisivatko tilat myös muiden ikäihmisille palveluja tuottavien yksityisten toimijoiden toiminnan alueella.\n\nEnsi vaiheessa selvitetään kilpailutus vaihtoehto ja tilojen (keittiö, ruokasali, juhlasali yms.) hyödyntäminen siten, että tilat ovat hyvinvointialueen vuokrakuormassa eli hyvinvointialue edelleen vuokraa ao. tiloja kilpailutetulle palveluntuottajalle.\n\nJos kilpailutuksen kautta ei saada tyydyttävää ratkaisua selvitettäväksi asiaksi jää tilojen irrottamien hyvivointialueelle kohdistuvasta vuokrakuormasta.\n\nLaskennallisesti 4 vuoden hankintakaudella alueen asukasaterioiden hankintakustannus on n. 8,25 M€. Tämän lisäksi mahdollinen yrittäjä voi myydä palveluja myös muille asiakkaille sekä alueen asukkaille.\n\nKun asukasvuokrat nousevat aluehallituksen määritelmään maksimiin, niin asumispalvelukokonaisuuteen edelleen jää 689 000€ kohdistamatonta vuokrakulua, josta merkittävän osan muodostaa ruokailu- ja juhlasalitilat.\n\nToimivalta hankinnasta on hankinnan arvoon pohjautuen aluehallituksella."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "57",
+   "title": "Ikääntyneiden asumispalveluiden lyhytaikaishoidon yksiköstä luopuminen, Riihikoti, Leppävirta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261014-7",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261014-7.PDF",
+   "diary_number": "3267/00.01.02.00/2026",
+   "preparer": "toimialajohtaja Mikko Korhonen; palveluyksikköjohtaja Reetta Kettunen",
+   "presenter": "ikääntyvien palveluiden toimialajohtaja",
+   "proposal": "Ikäihmisten ja hoivapalveluiden lautakunta päättää luopua ikääntyneiden asumispalveluiden Leppävirran lyhytaikaishoidon yksiköstä Riihikoti.\n\nEnnakkovaikutusten arviointi\n\nPalveluiden järjestäminen vallitsevien normien mukaisesti.\n\nLiityy talouarvioon 2026 ja sen käyttösuunnitelman toimeenpanoon\n\nToimivallan peruste\nHallintosääntö § 43\n\nLiitteet ja oheisaineisto\n\nValmistelu\nRiihikoti on Leppävirralla sijaitseva 14 – paikkainen yksikkö, jossa on tällä hetkellä 2 paikkaa käytössä ympärivuorokautiseen palveluasumiseen ja 12 tilapäiseen/lyhytaikaiseen ympärivuorokautiseen palveluasumiseen. Lyhytaikaishoidon keskeisenä toimintana on omaishoidon vapaiden järjestäminen, lyhytaikainen tilapäinen hoiva ns. kriisiasiakkaille ja tilapäinen hoiva asiakkaan jatkohoidon selvittelyä varten.\n\nPohjois-Savon hyvinvointialue on tiloissa vuokralla. Tilat on vuokrattu Leppävirran kunnalta. Vuokrakustannus kiinteistön osalta -79 830 eur/vuosi. Kiinteistö on peruskorjauksen tarpeessa, eikä ole remontein muokattavissa nykyvaatimusten mukaiseksi. Asuinhuoneet ovat yhtä huonetta lukuun ottamatta yhden hengen huoneita. Neljässä huoneessa ei ole asiakkailla käytössä huoneen yhteydessä olevaa wc-tilaa. Asiakkaille on käytössä 2 kpl wc-/hygieniatilaa yksikön käytävällä vastapäätä huoneita.\n\nAluehallintovirasto on pyytänyt Pohjois-Savon hyvinvointialueelta selvitystä siitä, mihin toimenpiteisiin ja millä aikataululla hyvinvointialue ryhtyy saattamaan Riihikoti yksikön toimitilat asianmukaisiksi, niin että ympärivuorokautisessa palveluasumisessa tilat ovat asianmukaiset ja vastaavat tämänhetkisiä tilavaateita, ja asiakkaiden yksityisyyden suoja toteutuu asumisjärjestelyn puolesta asianmukaisesti.\n\nTilojen remontointi nykyvaatimusten mukaiseksi ei ole tarkoituksenmukaista varsinkin, kun eteläisellä alueella on tunnistettu olevan kapasiteettiä yli strategisen tavoitteen ja talouden raami vaatii sopeuttamista. Leppävirralla ympärivuorokautisen palveluasumisen peittävyys yli 75-vuotiaiden osalta on 7,1 %, Varkaudessa 6,9% ja Joroisissa 6,7% (sotkanet 2025).Kun se hyvinvointialueella on keskimäärin 6,5%\n\nAsiakkaiden ja heidän läheisten kanssa käydään keskustelut tarkoituksenmukaisesta jatkohoidon ja hoivan järjestämisestä. Käytännössä tavoitellaan 2 pitkäaikaispaikan osalta sopeutusta, mikä tarkoittaa asukkaiden siirtoa vapautuville paikoille eli paikkamäärää ostopalveluissa ei lisätä jonotilanteen niin salliessa. Säästövaikutus näiden osalta on noin 116 000 eur/vuosi.\n\nLaskennallisesti lyhytaikaishoidon tarve ikääntyneille on Leppävirralla 7,5 paikkaa (0,5%n mukaan laskettuna yli 75v), jotka pyritään järjestämään hankintana yksityiseltä palveluntuottajalta tai perhehoitona Leppävirralta. Tarvittavin osin lyhytaikaishoidossa tukeudutaan Varkauteen.\n\nMikäli lyhytaikaishoito kyetään järjestämään laskennallisen tarpeen mukaisesti Leppävirralla (tai Varkaudessa) ja tarvittavin osin tukeudutaan ostopalveluun, säästöä saadaan vähintään 400 000€/vuosi. Suunnitelma Riihikodin asumisyksiköstä luopumisen toteutuksesta tehdään kesän 2026 aikana ja toimeenpano aloitetaan syksyllä 2026.",
+   "decision": "Merkitään pöytäkirjaan, että:\n\n- Tiina Nousiainen ilmoitti olevansa esteellinen ja poistui kokouksesta klo 13.28-13.45 asian käsittelyn ja päätöksenteon ajaksi.\n\n- Johanna Ålander oli paikalla klo 13.28-13.45 asian käsittelyn ja päätöksenteon ajan.\n\nLautakunta merkitsi tiedoksi saapuneet kannanotot:\n\n- Vetoomus Riihikodin jatkamisesta, 4.6.2026, Riihikodin hoitajat, lähihoitajat, hoiva-avustajat ja opiskelijat\n\n- Kannanotto lautakunnan jäsenille, 5.6.2026, Heidi Herranen\n\nPäätösehdotus hyväksyttiin.\n\nPöytäkirjan liitteenä Päätöspykälä esittelyt, vaikutusarviot",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelijat",
+     "text": "toimialajohtaja Mikko Korhonen\n\npalveluyksikköjohtaja Reetta Kettunen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n- Tiina Nousiainen ilmoitti olevansa esteellinen ja poistui kokouksesta klo 13.28-13.45 asian käsittelyn ja päätöksenteon ajaksi.\n\n- Johanna Ålander oli paikalla klo 13.28-13.45 asian käsittelyn ja päätöksenteon ajan.\n\nLautakunta merkitsi tiedoksi saapuneet kannanotot:\n\n- Vetoomus Riihikodin jatkamisesta, 4.6.2026, Riihikodin hoitajat, lähihoitajat, hoiva-avustajat ja opiskelijat\n\n- Kannanotto lautakunnan jäsenille, 5.6.2026, Heidi Herranen\n\nPäätösehdotus hyväksyttiin.\n\nPöytäkirjan liitteenä Päätöspykälä esittelyt, vaikutusarviot"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "ikääntyvien palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Ikäihmisten ja hoivapalveluiden lautakunta päättää luopua ikääntyneiden asumispalveluiden Leppävirran lyhytaikaishoidon yksiköstä Riihikoti.\n\nEnnakkovaikutusten arviointi\n\nPalveluiden järjestäminen vallitsevien normien mukaisesti.\n\nLiityy talouarvioon 2026 ja sen käyttösuunnitelman toimeenpanoon\n\nToimivallan peruste\nHallintosääntö § 43\n\nLiitteet ja oheisaineisto\n\nValmistelu\nRiihikoti on Leppävirralla sijaitseva 14 – paikkainen yksikkö, jossa on tällä hetkellä 2 paikkaa käytössä ympärivuorokautiseen palveluasumiseen ja 12 tilapäiseen/lyhytaikaiseen ympärivuorokautiseen palveluasumiseen. Lyhytaikaishoidon keskeisenä toimintana on omaishoidon vapaiden järjestäminen, lyhytaikainen tilapäinen hoiva ns. kriisiasiakkaille ja tilapäinen hoiva asiakkaan jatkohoidon selvittelyä varten.\n\nPohjois-Savon hyvinvointialue on tiloissa vuokralla. Tilat on vuokrattu Leppävirran kunnalta. Vuokrakustannus kiinteistön osalta -79 830 eur/vuosi. Kiinteistö on peruskorjauksen tarpeessa, eikä ole remontein muokattavissa nykyvaatimusten mukaiseksi. Asuinhuoneet ovat yhtä huonetta lukuun ottamatta yhden hengen huoneita. Neljässä huoneessa ei ole asiakkailla käytössä huoneen yhteydessä olevaa wc-tilaa. Asiakkaille on käytössä 2 kpl wc-/hygieniatilaa yksikön käytävällä vastapäätä huoneita.\n\nAluehallintovirasto on pyytänyt Pohjois-Savon hyvinvointialueelta selvitystä siitä, mihin toimenpiteisiin ja millä aikataululla hyvinvointialue ryhtyy saattamaan Riihikoti yksikön toimitilat asianmukaisiksi, niin että ympärivuorokautisessa palveluasumisessa tilat ovat asianmukaiset ja vastaavat tämänhetkisiä tilavaateita, ja asiakkaiden yksityisyyden suoja toteutuu asumisjärjestelyn puolesta asianmukaisesti.\n\nTilojen remontointi nykyvaatimusten mukaiseksi ei ole tarkoituksenmukaista varsinkin, kun eteläisellä alueella on tunnistettu olevan kapasiteettiä yli strategisen tavoitteen ja talouden raami vaatii sopeuttamista. Leppävirralla ympärivuorokautisen palveluasumisen peittävyys yli 75-vuotiaiden osalta on 7,1 %, Varkaudessa 6,9% ja Joroisissa 6,7% (sotkanet 2025).Kun se hyvinvointialueella on keskimäärin 6,5%\n\nAsiakkaiden ja heidän läheisten kanssa käydään keskustelut tarkoituksenmukaisesta jatkohoidon ja hoivan järjestämisestä. Käytännössä tavoitellaan 2 pitkäaikaispaikan osalta sopeutusta, mikä tarkoittaa asukkaiden siirtoa vapautuville paikoille eli paikkamäärää ostopalveluissa ei lisätä jonotilanteen niin salliessa. Säästövaikutus näiden osalta on noin 116 000 eur/vuosi.\n\nLaskennallisesti lyhytaikaishoidon tarve ikääntyneille on Leppävirralla 7,5 paikkaa (0,5%n mukaan laskettuna yli 75v), jotka pyritään järjestämään hankintana yksityiseltä palveluntuottajalta tai perhehoitona Leppävirralta. Tarvittavin osin lyhytaikaishoidossa tukeudutaan Varkauteen.\n\nMikäli lyhytaikaishoito kyetään järjestämään laskennallisen tarpeen mukaisesti Leppävirralla (tai Varkaudessa) ja tarvittavin osin tukeudutaan ostopalveluun, säästöä saadaan vähintään 400 000€/vuosi. Suunnitelma Riihikodin asumisyksiköstä luopumisen toteutuksesta tehdään kesän 2026 aikana ja toimeenpano aloitetaan syksyllä 2026."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Lautakunta 62026, Päätöspykälä esittelyt, vaikutusarviot",
+     "url": "https://pshva.oncloudos.com/kokous/20261014-7-268398.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "58",
+   "title": "Ikääntyneiden asumispalveluyksiköstä luopuminen, Kangaslampi, Varkaus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261014-8",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261014-8.PDF",
+   "diary_number": "3268/00.01.02.00/2026",
+   "preparer": "toimialajohtaja Mikko Korhonen; palveluyksikköjohtaja Reetta Kettunen",
+   "presenter": "ikääntyvien palveluiden toimialajohtaja",
+   "proposal": "Ikäihmisten ja hoivapalveluiden lautakunta päättää luopua Kangaslammin palvelukeskuksen ikääntyneiden asumisyksiköstä.\n\nEnnakkovaikutusten arviointi\n\nPalveluiden järjestäminen strategisen tavoitteen mukaisesti taloudellisten reunaehtojen sisällä .On osa talousarvion 2026 ja sen käyttösuunitelman mukaista toteutusta.\n\nToimivallan peruste\nHallintosääntö § 43\n\nLiitteet ja oheisaineisto\n\nValmistelu\nEteläisellä alueella tällä hetkellä asumisen käytössä oleva paikkamäärä ylittää selkeästi palvelun strategisen tavoitteen ja on riittävä myös, kun tilannetta tarkastellaan vuoden 2045 tarpeen mukaisesti.\n\nKangaslammin palvelukeskuksen asumisyksikkö on 20-paikkainen, 2 paikkaa on tilapäisen asumisen käytössä. Yksikkö sijaitsee Kangaslammin kaupunginosassa, jonne on matkaa noin 25 km Varkaudesta. Henkilöstön saatavuus on ollut haasteellista jo vuosia sijainnin takia, myös asiakkaiden saaminen pitkäaikaiseen asumiseen on ollut välillä hankalaa, siksi paikoista 2 on tilapäisessä käytössä.\n\nKangaslammin palvelukeskuksella on myös tiloja/asuntoja tyhjillään/käyttämättömänä aiheuttaen hyvinvointialueelle vuokrakuluja, joita ei saa kohdistettua asukasvuokriin.Yksikön nettokustannukset ovat noin 0.8m€ Lisäksi vuokrakulua jää maksettavaksi noin 266 000 eur, vaikka vuokrat olisi nostettu ns. kelan enimmäisrajaan (623 eur/kk).\n\nYmpärivuorokautisen palveluasumisen peittävyys yli 75-vuotiaiden osalta on Varkaudessa 6,9% (sotkanet 2025).Kun se hyvinvointialueella on keskimäärin 6,5%\n\nAsiakkaiden ja heidän omaisten kanssa käydään keskustelu ja etsitään parhaiten soveltuva jatkohoitopaikka. Suunnitelma asumispalveluyksikön luopumisesta ja aikataulutuksesta tehdään kesän 2026 aikana ja toimeenpano aloitetaan syksyllä 2026.\n\nHenkilöstön sijoittuessa vapaisiin tehtäviin, säästöpotentiaali on kokonaisuudessaan hieman yli 1m€/vuosi, mikäli jonotilanteen takia ei jouduta lisäämään paikkamääriä ostopalveluna.",
+   "decision": "Lautakunta merkitsi tiedoksi saapuneet kannanotot:\n\n- Kannanotto palvelutalon lakkautuspäätöstä vastaan, 10.6.2026, Kangaslammin kyläyhdistys\n\n- Kangaslammin palveluasumisyksikön jatko, 8.6.2026, Varkauden kaupunginhallitus\n\nJarno Koski teki vastaesityksen, että asia palautetaan uudelleen valmisteltavaksi.\n\nLeea Oksiala kannatti Jarno Kosken esitystä.\n\nPuheenjohtaja totesi, että koska asiassa on tehty pohjaesityksestä poikkeava vastaesitys, suoritetaan asiassa äänestys.\n\nÄänestyksessä JAA on pohjaesitys ja EI Jarno Kosken vastaesitys.\n\nÄänestyksessä annettiin ääniä seuraavasti:\n\nJAA-ääniä 9\n\nEI-ääniä 2\n\nTyhjiä 0\n\nJAA-ääniä antoivat: Arja Eeva, Tuomo Lapveteläinen, Arttu Leppäkynnäs, Eija Nissinen, Tiina Nousiainen, Kari Ojala, Rauno Pikkarainen, Irja Sokka ja Salme Viljakainen\n\nEI-ääniä antoivat: Jarno Koski ja Leea Oksiala\n\nPäätökseksi tuli pohjaesitys.\n\nÄänestyspöytäkirja on pöytäkirjan liitteenä.\n\nAsian käsittelyä jatkettiin.\n\nPäätösehdotus hyväksyttiin.\n\nPöytäkirjan liitteenä Päätöspykälä esittelyt, vaikutusarviot.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelijat",
+     "text": "toimialajohtaja Mikko Korhonen\n\npalveluyksikköjohtaja Reetta Kettunen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Lautakunta merkitsi tiedoksi saapuneet kannanotot:\n\n- Kannanotto palvelutalon lakkautuspäätöstä vastaan, 10.6.2026, Kangaslammin kyläyhdistys\n\n- Kangaslammin palveluasumisyksikön jatko, 8.6.2026, Varkauden kaupunginhallitus\n\nJarno Koski teki vastaesityksen, että asia palautetaan uudelleen valmisteltavaksi.\n\nLeea Oksiala kannatti Jarno Kosken esitystä.\n\nPuheenjohtaja totesi, että koska asiassa on tehty pohjaesityksestä poikkeava vastaesitys, suoritetaan asiassa äänestys.\n\nÄänestyksessä JAA on pohjaesitys ja EI Jarno Kosken vastaesitys.\n\nÄänestyksessä annettiin ääniä seuraavasti:\n\nJAA-ääniä 9\n\nEI-ääniä 2\n\nTyhjiä 0\n\nJAA-ääniä antoivat: Arja Eeva, Tuomo Lapveteläinen, Arttu Leppäkynnäs, Eija Nissinen, Tiina Nousiainen, Kari Ojala, Rauno Pikkarainen, Irja Sokka ja Salme Viljakainen\n\nEI-ääniä antoivat: Jarno Koski ja Leea Oksiala\n\nPäätökseksi tuli pohjaesitys.\n\nÄänestyspöytäkirja on pöytäkirjan liitteenä.\n\nAsian käsittelyä jatkettiin.\n\nPäätösehdotus hyväksyttiin.\n\nPöytäkirjan liitteenä Päätöspykälä esittelyt, vaikutusarviot."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "ikääntyvien palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Ikäihmisten ja hoivapalveluiden lautakunta päättää luopua Kangaslammin palvelukeskuksen ikääntyneiden asumisyksiköstä.\n\nEnnakkovaikutusten arviointi\n\nPalveluiden järjestäminen strategisen tavoitteen mukaisesti taloudellisten reunaehtojen sisällä .On osa talousarvion 2026 ja sen käyttösuunitelman mukaista toteutusta.\n\nToimivallan peruste\nHallintosääntö § 43\n\nLiitteet ja oheisaineisto\n\nValmistelu\nEteläisellä alueella tällä hetkellä asumisen käytössä oleva paikkamäärä ylittää selkeästi palvelun strategisen tavoitteen ja on riittävä myös, kun tilannetta tarkastellaan vuoden 2045 tarpeen mukaisesti.\n\nKangaslammin palvelukeskuksen asumisyksikkö on 20-paikkainen, 2 paikkaa on tilapäisen asumisen käytössä. Yksikkö sijaitsee Kangaslammin kaupunginosassa, jonne on matkaa noin 25 km Varkaudesta. Henkilöstön saatavuus on ollut haasteellista jo vuosia sijainnin takia, myös asiakkaiden saaminen pitkäaikaiseen asumiseen on ollut välillä hankalaa, siksi paikoista 2 on tilapäisessä käytössä.\n\nKangaslammin palvelukeskuksella on myös tiloja/asuntoja tyhjillään/käyttämättömänä aiheuttaen hyvinvointialueelle vuokrakuluja, joita ei saa kohdistettua asukasvuokriin.Yksikön nettokustannukset ovat noin 0.8m€ Lisäksi vuokrakulua jää maksettavaksi noin 266 000 eur, vaikka vuokrat olisi nostettu ns. kelan enimmäisrajaan (623 eur/kk).\n\nYmpärivuorokautisen palveluasumisen peittävyys yli 75-vuotiaiden osalta on Varkaudessa 6,9% (sotkanet 2025).Kun se hyvinvointialueella on keskimäärin 6,5%\n\nAsiakkaiden ja heidän omaisten kanssa käydään keskustelu ja etsitään parhaiten soveltuva jatkohoitopaikka. Suunnitelma asumispalveluyksikön luopumisesta ja aikataulutuksesta tehdään kesän 2026 aikana ja toimeenpano aloitetaan syksyllä 2026.\n\nHenkilöstön sijoittuessa vapaisiin tehtäviin, säästöpotentiaali on kokonaisuudessaan hieman yli 1m€/vuosi, mikäli jonotilanteen takia ei jouduta lisäämään paikkamääriä ostopalveluna."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Lautakunta 62026, Päätöspykälä esittelyt, vaikutusarviot",
+     "url": "https://pshva.oncloudos.com/kokous/20261014-8-268398.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Äänestysraportti § 58",
+     "url": "https://pshva.oncloudos.com/kokous/20261014-8-268674.PDF"
+    }
+   ],
+   "votes": [
+    {
+     "counts": {
+      "jaa": 9,
+      "ei": 2,
+      "tyhja": 0
+     },
+     "context": "Äänestyksessä annettiin ääniä seuraavasti:\nJAA-ääniä 9\nEI-ääniä 2\nTyhjiä 0",
+     "provisional": true,
+     "names": {}
+    }
+   ],
+   "redacted": false
+  },
+  {
+   "number": "59",
+   "title": "Ikääntyneiden asumispalveluyksiköstä luopuminen, Onnimanni, Iisalmi",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261014-9",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261014-9.PDF",
+   "diary_number": "3269/00.01.02.00/2026",
+   "preparer": "toimialajohtaja Mikko Korhonen; palveluyksikköjohtaja Reetta Kettunen; reetta.kettunen(at)pshyvinvointialue .fi",
+   "presenter": "ikääntyvien palveluiden toimialajohtaja",
+   "proposal": "Ikäihmisten ja hoivapalveluiden lautakunta päättää luopua Iisalmen ikääntyneiden asumisyksikkö Onnimannista.\n\nEnnakkovaikutusten arviointi\n\nPalveluiden järjestäminen strategisen tavoiteen mukaisesti taloudellisten reunaehtojen sisällä.On osa talousarviota 2026 ja sen käyttösuunitelmaa\n\nToimivallan peruste\nHallintosääntö § 43\n\nLiitteet ja oheisaineisto\n\nValmistelu\nPohjoisella alueella tällä hetkellä asumisen käytössä olevien paikkojen määrä ylittää selkeästi strategisen tavoitteen ja on riittävä myös, kun tilannetta tarkastellaan vuoden 2045 tarpeen mukaisesti.\n\nOnnimanni on kooltaan pieni yksikkö, jossa etenkin ympärivuorokautisesti asiakkaiden hoitaminen vie paljon resurssia suhteessa asiakasmäärään (yöhoito). Yksikössä on ympärivuorokautista palveluasumista (9 asiakasta) sekä ns. tavallista palveluasumista (9 paikkaa (tällä hetkellä 5 asiakasta)). Palveluasuminen ei ole nykyisen laisäädännön mukainen palvelumuoto.\n\nHenkilöstöresurssi on tällä hetkellä yhteiskäytössä koko kiinteistössä, nykyinen henkilökunta hoitaa ympärivuorokautisen ja tavallisen palveluasumisen asiakkaat.\n\nKiinteistö on Ilvola säätiön omistuksessa oleva kiinteistö. Kyseessä on vanha kiinteistö, johon on tehty perushuoltotyöt vuosien varrella. Kiinteistö vaatisi kokonaisuudessaan remonttia. Kiinteistöstä luopuminen on ollut esillä jo ennen hyvinvointialueelle siirtymistä, mikä on johtanut siihen, että kiinteisössä on korjausvelkaa.\n\nIlvola säätiölle on tarjottu yhteisöllisen asumisen kumppanuusmallin mahdollisuutta. Ilvola säätiö tunnistaa em. mallissa riskejä (tyhjät asunnot /yksikön vetovoima), joten asia ei ole etenemässä.\n\nValmistelun lähtökohtana on ollut, että tavallisen palveluasumisen asiakkaat siirtyisivät kotiin annettavien palveluiden asiakkaiksi ja kotihoitoa vahvistettaisiin tarvittavin osin (1htv) ja laskennallisesti yksikön 9 työntekiijää siirtyisi vapaisiin vakansseihin (säästövaikutus 400 000 €).\n\nJonotilanteen salliessa ympärivuorokautisen asumisen asiakkaat siirtyisivät vapautuville paikoille. Säästöpotentiaali, jos paikkavähennystä ei ole tarvetta kompensoida jonotilanteen vuoksi on noin 500 000€/vuosi. Ympärivuorokautisen hoivan peittävyys Iisalmessa on 7,5% (sotkanet) kun se hyvinvointialueella on keskimäärin 6,5%\n\nAsiakkaiden ja heidän omaisten kanssa käydään keskustelut tarkoituksenmukaisen hoidon ja hoitopaikan järjestämiseksi. Onnimannin osalta suunnitelma yksikön luopumisesta valmistellaan kesän 2026 aikana ja toimeenpano tapahtuu syksyn 2026 aikana.",
+   "decision": "Päätösehdotus hyväksyttiin.\n\nPöytäkirjan liitteenä Päätöspykälä esittelyt, vaikutusarviot.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelijat",
+     "text": "toimialajohtaja Mikko Korhonen\n\npalveluyksikköjohtaja Reetta Kettunen\n\nreetta.kettunen(at)pshyvinvointialue .fi"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin.\n\nPöytäkirjan liitteenä Päätöspykälä esittelyt, vaikutusarviot."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "ikääntyvien palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Ikäihmisten ja hoivapalveluiden lautakunta päättää luopua Iisalmen ikääntyneiden asumisyksikkö Onnimannista.\n\nEnnakkovaikutusten arviointi\n\nPalveluiden järjestäminen strategisen tavoiteen mukaisesti taloudellisten reunaehtojen sisällä.On osa talousarviota 2026 ja sen käyttösuunitelmaa\n\nToimivallan peruste\nHallintosääntö § 43\n\nLiitteet ja oheisaineisto\n\nValmistelu\nPohjoisella alueella tällä hetkellä asumisen käytössä olevien paikkojen määrä ylittää selkeästi strategisen tavoitteen ja on riittävä myös, kun tilannetta tarkastellaan vuoden 2045 tarpeen mukaisesti.\n\nOnnimanni on kooltaan pieni yksikkö, jossa etenkin ympärivuorokautisesti asiakkaiden hoitaminen vie paljon resurssia suhteessa asiakasmäärään (yöhoito). Yksikössä on ympärivuorokautista palveluasumista (9 asiakasta) sekä ns. tavallista palveluasumista (9 paikkaa (tällä hetkellä 5 asiakasta)). Palveluasuminen ei ole nykyisen laisäädännön mukainen palvelumuoto.\n\nHenkilöstöresurssi on tällä hetkellä yhteiskäytössä koko kiinteistössä, nykyinen henkilökunta hoitaa ympärivuorokautisen ja tavallisen palveluasumisen asiakkaat.\n\nKiinteistö on Ilvola säätiön omistuksessa oleva kiinteistö. Kyseessä on vanha kiinteistö, johon on tehty perushuoltotyöt vuosien varrella. Kiinteistö vaatisi kokonaisuudessaan remonttia. Kiinteistöstä luopuminen on ollut esillä jo ennen hyvinvointialueelle siirtymistä, mikä on johtanut siihen, että kiinteisössä on korjausvelkaa.\n\nIlvola säätiölle on tarjottu yhteisöllisen asumisen kumppanuusmallin mahdollisuutta. Ilvola säätiö tunnistaa em. mallissa riskejä (tyhjät asunnot /yksikön vetovoima), joten asia ei ole etenemässä.\n\nValmistelun lähtökohtana on ollut, että tavallisen palveluasumisen asiakkaat siirtyisivät kotiin annettavien palveluiden asiakkaiksi ja kotihoitoa vahvistettaisiin tarvittavin osin (1htv) ja laskennallisesti yksikön 9 työntekiijää siirtyisi vapaisiin vakansseihin (säästövaikutus 400 000 €).\n\nJonotilanteen salliessa ympärivuorokautisen asumisen asiakkaat siirtyisivät vapautuville paikoille. Säästöpotentiaali, jos paikkavähennystä ei ole tarvetta kompensoida jonotilanteen vuoksi on noin 500 000€/vuosi. Ympärivuorokautisen hoivan peittävyys Iisalmessa on 7,5% (sotkanet) kun se hyvinvointialueella on keskimäärin 6,5%\n\nAsiakkaiden ja heidän omaisten kanssa käydään keskustelut tarkoituksenmukaisen hoidon ja hoitopaikan järjestämiseksi. Onnimannin osalta suunnitelma yksikön luopumisesta valmistellaan kesän 2026 aikana ja toimeenpano tapahtuu syksyn 2026 aikana."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Lautakunta 62026, Päätöspykälä esittelyt, vaikutusarviot",
+     "url": "https://pshva.oncloudos.com/kokous/20261014-9-268398.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "60",
+   "title": "Ajankohtaiset asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261014-10",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261014-10.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "ikääntyvien palveluiden toimialajohtaja",
+   "proposal": "Ikäihmisten ja hoivapalveluiden lautakunta merkitsee asiat tiedoksi.\n\nKokouksessa käydään läpi ajankohtaisia ja valmistelussa olevia asioita sekä saadaan katsaus\n\n- talouden toteumaan\n\n- henkilöstöön\n\n- palvelujen saatavuuteen ja peittävyyteen\n\n- kesäajan toimintaan",
+   "decision": "Merkittiin tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Ajankohtaiset asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkittiin tiedoksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "ikääntyvien palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Ikäihmisten ja hoivapalveluiden lautakunta merkitsee asiat tiedoksi.\n\nKokouksessa käydään läpi ajankohtaisia ja valmistelussa olevia asioita sekä saadaan katsaus\n\n- talouden toteumaan\n\n- henkilöstöön\n\n- palvelujen saatavuuteen ja peittävyyteen\n\n- kesäajan toimintaan"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "61",
+   "title": "Oikaisuvaatimus Kiuruveden kotihoidon palveluesihenkilön viran täyttämättä jättämisestä ja määräaikaisen viranhaltijan nimeämisestä",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261014-11",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261014-11.PDF",
+   "diary_number": "3072/01.01.01/2026",
+   "preparer": null,
+   "presenter": "ikääntyvien palveluiden toimialajohtaja",
+   "proposal": "Ikäihmisten ja hoivapalveluiden lautakunta päättää hylätä oikaisuvaatimuksen perusteettomana.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 43\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- hakuilmoitus\n\n- ansiovertailu\n\n- viranhaltijapäätös\n\n- oikaisuvaatimus\n\nValmistelu\nHanna Kiviharju on tehnyt 21.5.2026 oikaisuvaatimuksen koskien Kiuruveden kotihoidon palveluesihenkilön viran täyttämättä jättämistä ja päätöksessä esitettyä perustelua soveltuvien ja kelpoisten hakijoiden puuttumisesta sekä määräaikaisen viranhaltijan nimeämisestä.\n\nViran kelpoisuusehtona on soveltuva ylempi korkeakoulututkinto, johon sisältyy tai muutoin on hankittuna soveltuvaa johtamiskoulutusta (väh. 30 op), kokemus esihenkilötehtävistä, terveydenhuollon ammattihenkilöstöstä annetun lain (559/1994) 5§ tai sosiaalihuollon ammattihenkilöstöstä annetun lain (817/2015) 7§:n tai 8§:n mukainen laillistus sekä lupa toimia terveydenhuollon / sosiaalihuollon ammattitehtävissä. Eduksi katsotaan näyttö työyhteisön kehittämisestä tai valmentavan johtajuuden menetelmien käyttämisestä.\n\nHakemuksia saapui määräaikaan mennessä yksitoista (11), joista haastatteluun kutsuttiin viisi (5) hakijaa. Kaikki hakijat ovat tulleet arvioiduksi yhdenvertaisesti johtamiskokemuksen osalta heidän hakemuksissaan ja ansioluetteloissaan esille tuomien tietojen perusteella. Haastatelluissa ei ollut yhtään sekä soveltuvaa että kelpoista hakijaa.\n\nVirkaan valintaa ohjaa laki kunnan ja hyvinvointialueen viranhaltijasta 304/2003: Virkasuhteeseen ottaminen\n\nSellaiseen virkasuhteeseen, joka on ollut julkisesti haettavana, voidaan ottaa vain henkilö, joka on hakenut sitä kirjallisesti ennen hakuajan päättymistä ja silloin täyttää kelpoisuusvaatimukset.\n\nKiuruveden palveluesihenkilön viran haastatteluun kutsuttiin hakijat, joilla oli soveltuva korkeakoulututkinto. Hanna Kiviharjulla oli soveltuva sairaanhoitaja (YAMK)-tutkinto suuntauksena digitaaliset terveyspalvelut ja terveyden edistäminen koulutuksessa.\n\nHaastattelun aikana ja valintapäätöstä tehdessä kävimme läpi haastateltavien tutkintoon sisältyviä johtamisopintoja. Hanna Kiviharjulla ei ollut vaadittavaa 30 opintopistettä johtamisopintoja sisältyen hänen YAMK-tutkintoonsa, eikä niitä oltu myöskään suoritettu lisäkoulutuksena. Hanna Kiviharjulla oli 25 opintopistettä johtamisopintoja.\n\nHaastattelutilanteessa Hanna Kiviharju oli aktiivinen. Haastattelussa tuli kuitenkin ilmi, ettei Kiviharjulla ollut riittävää kokemusta tai ymmärrystä kotihoidon toimintaympäristöstä, arjesta ja vaativasta esihenkilötyöstä, jossa korostuu substanssin ymmärrys, koska työntekijät tekevät työtä asiakkaiden kodeissa eivätkä esihenkilön kanssa samassa työpisteessä.\n\nViran hakuilmoituksessa painotimme lisäksi laajaa näkemystä kotiin annettavista palveluista sekä aikaisempaa esihenkilökokemusta. Hanna Kiviharjulla ei ollut työkokemusta kotiin annettavista palveluista eikä aikaisempaa esihenkilökokemusta.\n\nLisäksi eduksi katsottiin näyttö työyhteisön kehittämisestä tai valmentavan johtajuuden menetelmien käyttämisestä. Hanna Kiviharjulla oli näyttöä työmenetelmien kehittämisestä omassa työyhteisössään työntekijäroolissa. Kiviharjulla ei ollut näyttöä valmentavan johtajuuden menetelmien käyttämisestä johtotehtävissä.\n\nHaastatteluvaikutelman ja soveltuvien sekä kelpoisien hakijoiden puutteessa olimme pakotettuja jättämään virkavalinnan tekemättä. Vakituiseksi viranhaltijaksi ei voi ottaa hakijaa, joka ei täytä viran kelpoisuusvaatimuksia.\n\nPalvelutuotannon ja arjen toiminnan kannalta virka tulee täyttää määräaikaisesti sijaisjärjestelyin. Päädyimme tarjoamaan sijaisuutta haastattelussa parhaiten menestyneelle hakijalle, jolla on soveltuva YAMK-tutkinto, kokemusta esihenkilötyöstä, kokemusta kotiin annettavista palveluista, näyttöä valmentavan johtajuuden käyttämisessä esihenkilötyössä sekä näyttöä työyhteisön kehittämisestä. Hakijalta puuttui osa vaadituista johtamisen opinnoista.\n\nTehty täyttämättä jättämispäätös on arvioitu uudelleen yhdenvertaisen ja tasapuolisen kohtelun näkökulmasta.\n\nKuten päätöksessäkin mainittiin, virka tullaan laittamaan uudelleen hakuun syksyllä 2026.\n\nOikaisuvaatimus tulee hylätä perusteettomana.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\npalvelualuejohtaja Kaija Kokkonen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "ikääntyvien palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Ikäihmisten ja hoivapalveluiden lautakunta päättää hylätä oikaisuvaatimuksen perusteettomana.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 43\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- hakuilmoitus\n\n- ansiovertailu\n\n- viranhaltijapäätös\n\n- oikaisuvaatimus\n\nValmistelu\nHanna Kiviharju on tehnyt 21.5.2026 oikaisuvaatimuksen koskien Kiuruveden kotihoidon palveluesihenkilön viran täyttämättä jättämistä ja päätöksessä esitettyä perustelua soveltuvien ja kelpoisten hakijoiden puuttumisesta sekä määräaikaisen viranhaltijan nimeämisestä.\n\nViran kelpoisuusehtona on soveltuva ylempi korkeakoulututkinto, johon sisältyy tai muutoin on hankittuna soveltuvaa johtamiskoulutusta (väh. 30 op), kokemus esihenkilötehtävistä, terveydenhuollon ammattihenkilöstöstä annetun lain (559/1994) 5§ tai sosiaalihuollon ammattihenkilöstöstä annetun lain (817/2015) 7§:n tai 8§:n mukainen laillistus sekä lupa toimia terveydenhuollon / sosiaalihuollon ammattitehtävissä. Eduksi katsotaan näyttö työyhteisön kehittämisestä tai valmentavan johtajuuden menetelmien käyttämisestä.\n\nHakemuksia saapui määräaikaan mennessä yksitoista (11), joista haastatteluun kutsuttiin viisi (5) hakijaa. Kaikki hakijat ovat tulleet arvioiduksi yhdenvertaisesti johtamiskokemuksen osalta heidän hakemuksissaan ja ansioluetteloissaan esille tuomien tietojen perusteella. Haastatelluissa ei ollut yhtään sekä soveltuvaa että kelpoista hakijaa.\n\nVirkaan valintaa ohjaa laki kunnan ja hyvinvointialueen viranhaltijasta 304/2003: Virkasuhteeseen ottaminen\n\nSellaiseen virkasuhteeseen, joka on ollut julkisesti haettavana, voidaan ottaa vain henkilö, joka on hakenut sitä kirjallisesti ennen hakuajan päättymistä ja silloin täyttää kelpoisuusvaatimukset.\n\nKiuruveden palveluesihenkilön viran haastatteluun kutsuttiin hakijat, joilla oli soveltuva korkeakoulututkinto. Hanna Kiviharjulla oli soveltuva sairaanhoitaja (YAMK)-tutkinto suuntauksena digitaaliset terveyspalvelut ja terveyden edistäminen koulutuksessa.\n\nHaastattelun aikana ja valintapäätöstä tehdessä kävimme läpi haastateltavien tutkintoon sisältyviä johtamisopintoja. Hanna Kiviharjulla ei ollut vaadittavaa 30 opintopistettä johtamisopintoja sisältyen hänen YAMK-tutkintoonsa, eikä niitä oltu myöskään suoritettu lisäkoulutuksena. Hanna Kiviharjulla oli 25 opintopistettä johtamisopintoja.\n\nHaastattelutilanteessa Hanna Kiviharju oli aktiivinen. Haastattelussa tuli kuitenkin ilmi, ettei Kiviharjulla ollut riittävää kokemusta tai ymmärrystä kotihoidon toimintaympäristöstä, arjesta ja vaativasta esihenkilötyöstä, jossa korostuu substanssin ymmärrys, koska työntekijät tekevät työtä asiakkaiden kodeissa eivätkä esihenkilön kanssa samassa työpisteessä.\n\nViran hakuilmoituksessa painotimme lisäksi laajaa näkemystä kotiin annettavista palveluista sekä aikaisempaa esihenkilökokemusta. Hanna Kiviharjulla ei ollut työkokemusta kotiin annettavista palveluista eikä aikaisempaa esihenkilökokemusta.\n\nLisäksi eduksi katsottiin näyttö työyhteisön kehittämisestä tai valmentavan johtajuuden menetelmien käyttämisestä. Hanna Kiviharjulla oli näyttöä työmenetelmien kehittämisestä omassa työyhteisössään työntekijäroolissa. Kiviharjulla ei ollut näyttöä valmentavan johtajuuden menetelmien käyttämisestä johtotehtävissä.\n\nHaastatteluvaikutelman ja soveltuvien sekä kelpoisien hakijoiden puutteessa olimme pakotettuja jättämään virkavalinnan tekemättä. Vakituiseksi viranhaltijaksi ei voi ottaa hakijaa, joka ei täytä viran kelpoisuusvaatimuksia.\n\nPalvelutuotannon ja arjen toiminnan kannalta virka tulee täyttää määräaikaisesti sijaisjärjestelyin. Päädyimme tarjoamaan sijaisuutta haastattelussa parhaiten menestyneelle hakijalle, jolla on soveltuva YAMK-tutkinto, kokemusta esihenkilötyöstä, kokemusta kotiin annettavista palveluista, näyttöä valmentavan johtajuuden käyttämisessä esihenkilötyössä sekä näyttöä työyhteisön kehittämisestä. Hakijalta puuttui osa vaadituista johtamisen opinnoista.\n\nTehty täyttämättä jättämispäätös on arvioitu uudelleen yhdenvertaisen ja tasapuolisen kohtelun näkökulmasta.\n\nKuten päätöksessäkin mainittiin, virka tullaan laittamaan uudelleen hakuun syksyllä 2026.\n\nOikaisuvaatimus tulee hylätä perusteettomana."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "62",
+   "title": "Viranhaltijapäätösten tarkastaminen 11.6.2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261014-12",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261014-12.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Toimielimen puheenjohtaja",
+   "proposal": "Lautakunta ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Lautakunta hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 58 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava lautakunnalle niistä päätöksistä, jotka voidaan ottaa lautakunnan käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava lautakunnan alaisten viranhaltijoiden osalta lautakunnalle.\n\nLautakunnan alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa lautakunnan puheenjohtajalle ja esittelijälle.\n\nLautakunnalle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 12.5.2026 – 1.6.2026",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Viranhaltijapäätösten tarkastaminen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Toimielimen puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Lautakunta ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Lautakunta hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 58 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava lautakunnalle niistä päätöksistä, jotka voidaan ottaa lautakunnan käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava lautakunnan alaisten viranhaltijoiden osalta lautakunnalle.\n\nLautakunnan alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa lautakunnan puheenjohtajalle ja esittelijälle.\n\nLautakunnalle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 12.5.2026 – 1.6.2026"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Päätösluettelo 12.5.-1.6.2026 otsikot",
+     "url": "https://pshva.oncloudos.com/kokous/20261014-12-266273.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "63",
+   "title": "Tiedoksisaatettavat asiat 11.6.2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261014-13",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261014-13.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "ikääntyvien palveluiden toimialajohtaja",
+   "proposal": "Ikäihmisten ja hoivapalveluiden lautakunta merkitsee asiat tiedoksi.\n\nLupa-ja valvontavirasto:\n\n- Päätös palveluntuottajan ja palveluyksikön rekisteröinnistä 20.5.2026, Novocora Oy\n\n- Päätös palveluyksiköiden siirron rekisteröinnistä 25.5.2026, Mehiläinen Oy\n\n- Päätös palveluyksikön muutoksen rekisteröinnistä 26.5.2026, HLS-Avustajapalvelut Oy",
+   "decision": "Merkittiin tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Tiedoksisaatettavat asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkittiin tiedoksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "ikääntyvien palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Ikäihmisten ja hoivapalveluiden lautakunta merkitsee asiat tiedoksi.\n\nLupa-ja valvontavirasto:\n\n- Päätös palveluntuottajan ja palveluyksikön rekisteröinnistä 20.5.2026, Novocora Oy\n\n- Päätös palveluyksiköiden siirron rekisteröinnistä 25.5.2026, Mehiläinen Oy\n\n- Päätös palveluyksikön muutoksen rekisteröinnistä 26.5.2026, HLS-Avustajapalvelut Oy"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "64",
+   "title": "Muut asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261014-14",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261014-14.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Puheenjohtaja päätti kokouksen klo 14.49",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja päätti kokouksen klo 14.49"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Viljakainen Salme",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Koski Jarno",
+   "role": "varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Eeva Arja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lapveteläinen Tuomo",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Leppäkynnäs Arttu",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Nissinen Eija",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Nousiainen Tiina",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Ojala Kari",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Oksiala Leea",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pikkarainen Rauno",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Sokka Irja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Räsänen Jorma",
+   "role": "ikäihmisten neuvoston edustaja",
+   "group": "other"
+  },
+  {
+   "name": "Korhonen Mikko",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Mykkänen Minna",
+   "role": "johtaja ylihoitaja",
+   "group": "other"
+  },
+  {
+   "name": "Kokkonen Kaija Anneli",
+   "role": "palvelualuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Raatikainen Riitta",
+   "role": "aluehallituksen edustaja",
+   "group": "other"
+  },
+  {
+   "name": "Heiskanen Päivi",
+   "role": "johdon assistentti",
+   "group": "other"
+  },
+  {
+   "name": "Hiltunen Miia",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Ålander Johanna",
+   "role": "henkilökohtainen varajäsen",
+   "group": "member"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261014",
+  "fetched_at": "2026-10-14T18:00:19+00:00",
+  "content_hash": "cd618914a871d214",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T18:00:19+00:00"
+ }
+}

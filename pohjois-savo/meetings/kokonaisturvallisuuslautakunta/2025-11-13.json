@@ -1,0 +1,470 @@
+{
+ "id": "kokonaisturvallisuuslautakunta/2025-11-13",
+ "region": "pohjois-savo",
+ "body_id": "kokonaisturvallisuuslautakunta",
+ "body_name": "Kokonaisturvallisuuslautakunta",
+ "date": "2025-11-13",
+ "stage": "minutes",
+ "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025885",
+ "pdf_url": "https://pshva.oncloudos.com/kokous/2025885.PDF",
+ "time": "15:00 - 18:35",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "86",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025885-1",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025885-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.",
+   "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen laillisuus ja päätösvaltaisuus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokous todettiin lailliseksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "87",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025885-2",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025885-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Erkki Hynninen ja Soile Juvonen.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pöytäkirjantarkastajien valinta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Erkki Hynninen ja Soile Juvonen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "88",
+   "title": "Asioiden käsittelyjärjestys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025885-3",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025885-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asioiden käsittelyjärjestys"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "89",
+   "title": "Pelastustoiminnan toimintavalmiuden suunnittelu",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025885-4",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025885-4.PDF",
+   "diary_number": "4196/00.04.00/2024",
+   "preparer": null,
+   "presenter": "pelastustoimi- ja turvallisuuspalveluiden toimialajohtaja",
+   "proposal": "Kokonaisturvallisuuslautakunta päättää merkitä tiedoksi pelastustoiminnan toimintavalmiuden suunnittelun tilannekatsauksen.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 44\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Esitys, Toimintavalmiussuunnitelma; Projektisuunnitelma 1.9.-31.12.2025\n\nValmistelu\n\nSisäministeriö on julkaissut pelastustoimen uudistetun toimintavalmiuden suunnitteluohjeen 24.2.2025. Ohjeessa toimintavalmiuden suunnittelu ja toteuman seuranta asettuu yhtenäisemmäksi osaksi toimintaympäristö- ja riskianalyysiä sekä onnettomuuksien ehkäisytyötä. Tavoitteena on myös, että toiminnan, suorituskyvyn ja tietojen seuranta olisi valtakunnallisesti yhdenmukaista.\n\nToimintavalmiuden suunnittelun asiakirjoissa tulee kuvata muun muassa toimintaympäristö- ja riskianalysoinnin perusteella tunnistettu pelastustoiminnan palveluiden tarve. Suorituskykykohtaisen arvioinnin avulla tarkennetaan, millaiset pelastustoiminnan resurssit ja valmiudet ovat tarpeen, jotta tunnistettuihin riskeihin ja uhkiin voidaan vastata mahdollisimman hyvin.\n\nPelastustoimen suorituskykytavoitteet perustuvat valtakunnallisiin, alueellisiin tai paikallisiin riskeihin ja uhkiin, sekä valtakunnallisesti määriteltyihin suorituskykyvaatimuksiin. Suunnitelmissa tulee kuvata myös hyvinvointialueen pelastustoimen palvelutasopäätöksessä vahvistetut toimintavalmiuden suunnittelun yksityiskohdat sekä pelastustoiminnan toimintavalmiuteen liittyvä toiminnan arviointi ja omavalvonta.\n\nProjektiasiantuntijan tehtävänä on laatia päivitetyn ohjeen mukainen toimintavalmiussuunnitelma tai suunnitelmakokonaisuus pelastustoimintaan liittyvistä järjestelyistä Pohjois-Savon hyvinvointialueen pelastuslaitokselle. Uusi toimintavalmiussuunnitelma otetaan käyttöön 1.1.2026 alkaen, jonka jälkeen aluehallintovirasto valvoo pelastustoimea uuteen ohjeeseen perustuen.\n\nToimintavalmiussuunnitelmassa kuvataan, kuinka hyvinvointialueen pelastustoimen palvelutasopäätöksessä päätetty pelastustoiminnan palvelutaso toteutetaan uhkia ja riskejä vastaavasti.",
+   "decision": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että:\n\nRiitta Raatikainen saapui kokoukseen klo 15.25.\n\nJari Myllylä poistui kokouksesta asian käsittelyn päätteeksi klo 15.26.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nprojektiasiantuntija Jari Myllylä"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että:\n\nRiitta Raatikainen saapui kokoukseen klo 15.25.\n\nJari Myllylä poistui kokouksesta asian käsittelyn päätteeksi klo 15.26."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "pelastustoimi- ja turvallisuuspalveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Kokonaisturvallisuuslautakunta päättää merkitä tiedoksi pelastustoiminnan toimintavalmiuden suunnittelun tilannekatsauksen.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 44\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Esitys, Toimintavalmiussuunnitelma; Projektisuunnitelma 1.9.-31.12.2025\n\nValmistelu\n\nSisäministeriö on julkaissut pelastustoimen uudistetun toimintavalmiuden suunnitteluohjeen 24.2.2025. Ohjeessa toimintavalmiuden suunnittelu ja toteuman seuranta asettuu yhtenäisemmäksi osaksi toimintaympäristö- ja riskianalyysiä sekä onnettomuuksien ehkäisytyötä. Tavoitteena on myös, että toiminnan, suorituskyvyn ja tietojen seuranta olisi valtakunnallisesti yhdenmukaista.\n\nToimintavalmiuden suunnittelun asiakirjoissa tulee kuvata muun muassa toimintaympäristö- ja riskianalysoinnin perusteella tunnistettu pelastustoiminnan palveluiden tarve. Suorituskykykohtaisen arvioinnin avulla tarkennetaan, millaiset pelastustoiminnan resurssit ja valmiudet ovat tarpeen, jotta tunnistettuihin riskeihin ja uhkiin voidaan vastata mahdollisimman hyvin.\n\nPelastustoimen suorituskykytavoitteet perustuvat valtakunnallisiin, alueellisiin tai paikallisiin riskeihin ja uhkiin, sekä valtakunnallisesti määriteltyihin suorituskykyvaatimuksiin. Suunnitelmissa tulee kuvata myös hyvinvointialueen pelastustoimen palvelutasopäätöksessä vahvistetut toimintavalmiuden suunnittelun yksityiskohdat sekä pelastustoiminnan toimintavalmiuteen liittyvä toiminnan arviointi ja omavalvonta.\n\nProjektiasiantuntijan tehtävänä on laatia päivitetyn ohjeen mukainen toimintavalmiussuunnitelma tai suunnitelmakokonaisuus pelastustoimintaan liittyvistä järjestelyistä Pohjois-Savon hyvinvointialueen pelastuslaitokselle. Uusi toimintavalmiussuunnitelma otetaan käyttöön 1.1.2026 alkaen, jonka jälkeen aluehallintovirasto valvoo pelastustoimea uuteen ohjeeseen perustuen.\n\nToimintavalmiussuunnitelmassa kuvataan, kuinka hyvinvointialueen pelastustoimen palvelutasopäätöksessä päätetty pelastustoiminnan palvelutaso toteutetaan uhkia ja riskejä vastaavasti."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "90",
+   "title": "Ajankohtaiset asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025885-5",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025885-5.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "pelastustoimi- ja turvallisuuspalveluiden toimialajohtaja",
+   "proposal": "Kokonaisturvallisuuslautakunta päättää merkitä ajankohtaiset asiat tiedoksi.\n\nToimialajohtajan tilannekatsaus / Jukka Koponen\n\nYhteistoimintaneuvotteluiden tulos / Jukka Koponen\n\nTalouden toteuma 9/2025 / Reija Sihvola\n\nTalousarvion 2026 tilannekatsaus / Reija Sihvola",
+   "decision": "Merkittiin tiedoksi.\n\nMerkitään pöytäkirjaan, että kokouksessa käsiteltiin talouden toteuma 9/2025, talouden toteuma 10/2025 ja talousarvion 2026 tilannekatsaus, jonka jälkeen siirryttiin käsittelemään asia § 93, 91 ja 92.\n\nMerkitään pöytäkirjaan, että Hannu Kananen ja Reija Sihvola poistuivat klo 17.30.\n\nToimialajohtajan tilannekatsaus ja yhteistoimintaneuvottelun tulos käsiteltiin § 92 jälkeen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Ajankohtaiset asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkittiin tiedoksi.\n\nMerkitään pöytäkirjaan, että kokouksessa käsiteltiin talouden toteuma 9/2025, talouden toteuma 10/2025 ja talousarvion 2026 tilannekatsaus, jonka jälkeen siirryttiin käsittelemään asia § 93, 91 ja 92.\n\nMerkitään pöytäkirjaan, että Hannu Kananen ja Reija Sihvola poistuivat klo 17.30.\n\nToimialajohtajan tilannekatsaus ja yhteistoimintaneuvottelun tulos käsiteltiin § 92 jälkeen."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "pelastustoimi- ja turvallisuuspalveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Kokonaisturvallisuuslautakunta päättää merkitä ajankohtaiset asiat tiedoksi.\n\nToimialajohtajan tilannekatsaus / Jukka Koponen\n\nYhteistoimintaneuvotteluiden tulos / Jukka Koponen\n\nTalouden toteuma 9/2025 / Reija Sihvola\n\nTalousarvion 2026 tilannekatsaus / Reija Sihvola"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "91",
+   "title": "Talousarviomuutos 2025, pelastustoimi ja turvallisuuspalvelut",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025885-6",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025885-6.PDF",
+   "diary_number": "6241/02.00/2024",
+   "preparer": null,
+   "presenter": "pelastustoimi- ja turvallisuuspalveluiden toimialajohtaja",
+   "proposal": "Kokonaisturvallisuuslautakunta päättää, että pelastustoimi- ja turvallisuuspalveluiden toimialan säästötavoite 0,37 M€ toteutetaan henkilöstökulujen sopeuttamisella talousarvioon.\n\nEnnakkovaikutusten arviointi\n\nToimialalle jyvitettävä lisäsopeutus on toteutettava henkilöstökuluja supistamalla, joka tulee jo aiemmin TA2025 laadittaessa tehtyjen palkkasopeutusten (9 htv) ja toimintakulujen supistamisen päälle. Uusi sopeutus kootaan säästyneistä palkkakuluista asiantuntija- ja palomestarivirkojen täytön siirtymisen takia, jotka näkyvät eri suunnitelmien korjausvelkana. Pelastusasemien vajaamiehitys ja asemien väliset resurssisiirrot akuuttien ja muiden poissaolojen paikkaamisessa ovat vaikuttaneet työvuorosuunnitteluun toteutumiseen ja näkyneet työvuorojen suunniteltujen harjoitusten toteutuksen haasteina, pätevyyttä edellyttävien koulutusten saamisena sekä palotarkastusten ja muiden onnettomuuksien ehkäisyn suoritteiden siirtymisenä tai toteutumatta jäämisenä.\n\nToimivallan peruste\nHallintosääntö 44 §\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nAluevaltuuston 16.12.2024 hyväksymän Pohjois-Savon hyvinvointialueen talousarvion 2025 alijäämä on -46,8 M€. Aluehallitus linjasi 25.2.2025 vuoden 2025 muutostalousarvion lähtökohdaksi alijäämätavoitteeksi -21 M€. Aluehallitus käsitteli 23.4.2025 talousarviomuutokset ja päätti esittää aluevaltuustolle muutetun Pohjois-Savon hyvinvointialueen talousarvion 2025 alijäämäksi -21 M€.\n\nPelastustoimi ja turvallisuuspalvelut toimialan toimintakate aluevaltuuston 16.12.2024 hyväksymässä talousarviossa on\n\n-25,9 M€. Aluehallituksen 23.4.2025 muutostalousarvion Pelastustoimi ja turvallisuuspalvelut toimialan sopeutustarve on 0,37 M€ ja toimintakate -25,6 M€. Toimialan sopeutukset koostuvat henkilösivukuluprosenttien muutoksesta 0,21 M€, lomarahan vaihdoista ja palkattomista vapaista 0,05 M€ sekä jaettavasta sopeutuksesta 0,11 M€. Pelastustoimi ja turvallisuuspalvelut toimialan jaettava sopeutus 0,11 M€ kohdistetaan henkilöstökuluihin.\n\nHuomioitava on, että näiden sopeutusten lisäksi taustalla on vuoden 2025 talousarvion valmistelun yhteydessä tehdyt sopeutukset 0,8 M€ Pelastustoimi ja turvallisuuspalvelut toimialalla. Lisäksi korjausvelkaa on vuoden 2024 sopeutuksista.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\ncontroller Reija Sihvola p."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösesitys hyväksyttiin.\n\nMerkitään pöytäkirjaan, että § 91 käsiteltiin asian § 93 jälkeen."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "pelastustoimi- ja turvallisuuspalveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Kokonaisturvallisuuslautakunta merkitsee talousarviomuutokset tiedoksi ja esittää aluehallitukselle ja edelleen aluevaltuustolle esitettyjen talousarviomuutosten hyväksymistä.\n\nEnnakkovaikutusten arviointi\n\nEsitetyillä talousarviomuutoksilla ei ole vaikutusta hyvinvointialueen toimintakatteeseen vuonna 2025.\n\nToimivallan peruste\nHallintosääntö § 44\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen aluevaltuusto on hyväksynyt talousarvion 2025 ja taloussuunnitelman vuosille 2025-2027 joulukuussa 2024. Hallintosäännön 91 § määrää, että talousarvioon tehtävät muutoksen on esitettävä aluevaltuustolle siten, että aluevaltuusto ehtii käsitellä muutosehdotukset talousarviovuoden aikana.\n\nAluehallituksen 23.4.2025 päättämässä muutostalousarviossa Pelastustoimi ja turvallisuuspalvelut toimialalle kohdistui 0,37 M€ sopeutustarve vuoden 2025 alkuperäiseen talousarvioon.\n\nTalouspalveluiden ohjeistuksen mukaisesti kuluvan vuoden toiset talousarviomuutokset tehdään tammi-syyskuun perusteella. Talousarviomuutokset käsitellään aluehallituksessa 1.12.2025 tai 8.12.2025 ja aluevaltuustossa 22.12.2025. Toimialojen, joilla on lautakunta, pitää viedä talousarviomuutosesitykset lautakunnille tiedoksi.\n\nSyyskuun 2025 taloustietojen perusteella tehtävät talousarviomuutokset sisältävät:\n\nHenkilöstökulut\n\n -855.013 € järjestelyvaraerät ja Kevan tasausmaksu (lisäys), siirto Konsernihallinnosta\n\nPalvelujen ostot\n\n 20.318 € telepalvelut (vähennys), siirto Tietohallintoon\n\n -29.850 € Secapp-kustannukset (lisäys), siirto Tietohallinnosta\n\n -50.211 € laitoshuollon kustannukset (lisäys), siirto Yleisistä palveluista\n\nToimintatuotot\n\n Erhe-maksutulojen kohdistaminen oikeaan tiliryhmään toimialan sisällä\n\nHyvinvointialuetasolla Pelastustoimi ja turvallisuuspalvelut toimialan talousarviomuutoksilla ei ole vaikutusta toimintakatteeseen.\n\nMuutos Ta\n\nTaMu 2.\n\nTa+TaMu\n\nMyyntituotot\n\n27 120\n\n0\n\n27 120\n\nMaksutuotot\n\n466 177\n\n-270 000\n\n196 177\n\nMuut toimintatuotot\n\n95 678\n\n270 000\n\n365 678\n\nTuet ja avustukset\n\n0\n\n0\n\n0\n\nTOIMINTATUOTOT\n\n588 975\n\n0\n\n588 975\n\nHenkilöstökulut\n\n-21 025 901\n\n-855 013\n\n-21 880 914\n\nPalvelujen ostot\n\n-3 147 339\n\n-59 743\n\n-3 207 082\n\nAineet, tarvikkeet, tavarat\n\n-1 534 835\n\n0\n\n-1 534 835\n\nAvustukset\n\n-100 575\n\n0\n\n-100 575\n\nVuokrakulut\n\n-325 514\n\n0\n\n-325 514\n\nMuut toimintakulut\n\n-33 965\n\n0\n\n-33 965\n\nTOIMINTAKULUT\n\n-26 168 129\n\n-914 756\n\n-27 082 885\n\nTOIMINTAKATE\n\n-25 579 154\n\n-914 756\n\n-26 493 910\n\nKokoltk 16.05.2025 § 42\n\nValmistelija(t)\nReija Sihvola, Paavo Tiitta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "pelastustoimi- ja turvallisuuspalveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Kokonaisturvallisuuslautakunta päättää, että pelastustoimi- ja turvallisuuspalveluiden toimialan säästötavoite 0,37 M€ toteutetaan henkilöstökulujen sopeuttamisella talousarvioon.\n\nEnnakkovaikutusten arviointi\n\nToimialalle jyvitettävä lisäsopeutus on toteutettava henkilöstökuluja supistamalla, joka tulee jo aiemmin TA2025 laadittaessa tehtyjen palkkasopeutusten (9 htv) ja toimintakulujen supistamisen päälle. Uusi sopeutus kootaan säästyneistä palkkakuluista asiantuntija- ja palomestarivirkojen täytön siirtymisen takia, jotka näkyvät eri suunnitelmien korjausvelkana. Pelastusasemien vajaamiehitys ja asemien väliset resurssisiirrot akuuttien ja muiden poissaolojen paikkaamisessa ovat vaikuttaneet työvuorosuunnitteluun toteutumiseen ja näkyneet työvuorojen suunniteltujen harjoitusten toteutuksen haasteina, pätevyyttä edellyttävien koulutusten saamisena sekä palotarkastusten ja muiden onnettomuuksien ehkäisyn suoritteiden siirtymisenä tai toteutumatta jäämisenä.\n\nToimivallan peruste\nHallintosääntö 44 §\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nAluevaltuuston 16.12.2024 hyväksymän Pohjois-Savon hyvinvointialueen talousarvion 2025 alijäämä on -46,8 M€. Aluehallitus linjasi 25.2.2025 vuoden 2025 muutostalousarvion lähtökohdaksi alijäämätavoitteeksi -21 M€. Aluehallitus käsitteli 23.4.2025 talousarviomuutokset ja päätti esittää aluevaltuustolle muutetun Pohjois-Savon hyvinvointialueen talousarvion 2025 alijäämäksi -21 M€.\n\nPelastustoimi ja turvallisuuspalvelut toimialan toimintakate aluevaltuuston 16.12.2024 hyväksymässä talousarviossa on\n\n-25,9 M€. Aluehallituksen 23.4.2025 muutostalousarvion Pelastustoimi ja turvallisuuspalvelut toimialan sopeutustarve on 0,37 M€ ja toimintakate -25,6 M€. Toimialan sopeutukset koostuvat henkilösivukuluprosenttien muutoksesta 0,21 M€, lomarahan vaihdoista ja palkattomista vapaista 0,05 M€ sekä jaettavasta sopeutuksesta 0,11 M€. Pelastustoimi ja turvallisuuspalvelut toimialan jaettava sopeutus 0,11 M€ kohdistetaan henkilöstökuluihin.\n\nHuomioitava on, että näiden sopeutusten lisäksi taustalla on vuoden 2025 talousarvion valmistelun yhteydessä tehdyt sopeutukset 0,8 M€ Pelastustoimi ja turvallisuuspalvelut toimialalla. Lisäksi korjausvelkaa on vuoden 2024 sopeutuksista."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "92",
+   "title": "Tuoteluettelo ja hinnasto 2026, pelastustoimi ja turvallisuuspalvelut",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025885-7",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025885-7.PDF",
+   "diary_number": "3592/02.02.00/2025",
+   "preparer": null,
+   "presenter": "pelastustoimi- ja turvallisuuspalveluiden toimialajohtaja",
+   "proposal": "Kokonaisturvallisuuslautakunta päättää esittää aluehallitukselle ja edelleen aluevaltuustolle hyväksyttäväksi pelastustoimi ja turvallisuuspalvelujen tuoteluettelon ja hinnaston esityksen mukaisesti.\n\nEnnakkovaikutusten arviointi\n\nHinnasto sisältää lakisääteisen viranomaisvalvonnan ja muiden suoritteiden maksut sekä vaikuttaa toimialan tuloihin.\n\nToimivallan peruste\nHallintosääntö § 96\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Pelastustoimi ja turvallisuuspalvelut tuoteluettelo ja hinnasto 1.1.2026\n\nValmistelu\n\nPelastustoimi ja turvallisuuspalvelut toimialan henkilöstö laatii virkatoimeen liittyviä lakisääteisiä päätöksiä sekä tekee katselmuksia ja tarkastuksia, joista voidaan periä säädösten perusteella palvelumaksu. Nämä valvontasuunnitelmaan sisältyvät tarkastukset ja niistä perittävät maksut on sisällytetty Pelastustoimi ja turvallisuuspalvelujen tuoteluetteloon ja hinnastoon.\n\nPohjois-Savon pelastuslaitos tuottaa myös sellaisia palveluja tai tukitoimenpiteitä, joista on mahdollisuus periä kaluston vuokraajalta tai palvelun saajalta asianmukainen korvaus. Pelastustoimen kaluston vuokrauksen periaatteen mukaan kalustoa ei vuokrata, jos vastaavaa kalustoa on saatavilla yleisistä vuokrausliikkeistä eikä silloin, kun pelastustoimen valmius vuokrauksen johdosta heikentyisi.\n\nTurvallisuuspalveluiden palveluyksikkö kouluttaa myös yritysten ja yhteisöjen henkilöstöä erilaisilla turvallisuuskursseilla, joista peritään kurssin toteuttamiskustannukset.\n\nPelastustoimi ja turvallisuuspalvelut toimialan tuoteluettelon hinnastoon on tehty 4,8 %:n korotus 1.1.2026 alkaen. Hätäkeskukseen liitetyn paloilmoittimen toistuvasta erheellisestä toiminnasta perittävän maksun (Erhe-maksu) ja valvontatoimintaan liittyvien tarkastusmaksujen osalta hintojen korotukset on pääsääntöisesti tehty yleiseen kustannusten nousuun ja kustannuslaskentaan perustuen. Samassa yhteydessä hinnaston rakennetta on kevennetty ja tuoteluetteloa selkeytetty laskutuksen toteuttamisen yksinkertaistamiseksi.\n\nVuokraus- ja palveluhinnasto, lakisääteiset päätökset ja tarkastukset sekä turvallisuuskoulutuksen hinnat on lueteltu liitteessä Pelastustoimi ja turvallisuuspalvelut tuoteluettelo ja hinnasto 1.1.2026.",
+   "decision": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että:\n\n- Reija Sihvola ja Hannu Kananen poistuivat kokouksesta asian käsittelyn päätteeksi klo 17.30.\n\n- Kokoustauko klo 17.30-17.35.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\ncontroller Reija Sihvola"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että:\n\n- Reija Sihvola ja Hannu Kananen poistuivat kokouksesta asian käsittelyn päätteeksi klo 17.30.\n\n- Kokoustauko klo 17.30-17.35."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "pelastustoimi- ja turvallisuuspalveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Kokonaisturvallisuuslautakunta päättää esittää aluehallitukselle ja edelleen aluevaltuustolle hyväksyttäväksi pelastustoimi ja turvallisuuspalvelujen tuoteluettelon ja hinnaston esityksen mukaisesti.\n\nEnnakkovaikutusten arviointi\n\nHinnasto sisältää lakisääteisen viranomaisvalvonnan ja muiden suoritteiden maksut sekä vaikuttaa toimialan tuloihin.\n\nToimivallan peruste\nHallintosääntö § 96\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Pelastustoimi ja turvallisuuspalvelut tuoteluettelo ja hinnasto 1.1.2026\n\nValmistelu\n\nPelastustoimi ja turvallisuuspalvelut toimialan henkilöstö laatii virkatoimeen liittyviä lakisääteisiä päätöksiä sekä tekee katselmuksia ja tarkastuksia, joista voidaan periä säädösten perusteella palvelumaksu. Nämä valvontasuunnitelmaan sisältyvät tarkastukset ja niistä perittävät maksut on sisällytetty Pelastustoimi ja turvallisuuspalvelujen tuoteluetteloon ja hinnastoon.\n\nPohjois-Savon pelastuslaitos tuottaa myös sellaisia palveluja tai tukitoimenpiteitä, joista on mahdollisuus periä kaluston vuokraajalta tai palvelun saajalta asianmukainen korvaus. Pelastustoimen kaluston vuokrauksen periaatteen mukaan kalustoa ei vuokrata, jos vastaavaa kalustoa on saatavilla yleisistä vuokrausliikkeistä eikä silloin, kun pelastustoimen valmius vuokrauksen johdosta heikentyisi.\n\nTurvallisuuspalveluiden palveluyksikkö kouluttaa myös yritysten ja yhteisöjen henkilöstöä erilaisilla turvallisuuskursseilla, joista peritään kurssin toteuttamiskustannukset.\n\nPelastustoimi ja turvallisuuspalvelut toimialan tuoteluettelon hinnastoon on tehty 4,8 %:n korotus 1.1.2026 alkaen. Hätäkeskukseen liitetyn paloilmoittimen toistuvasta erheellisestä toiminnasta perittävän maksun (Erhe-maksu) ja valvontatoimintaan liittyvien tarkastusmaksujen osalta hintojen korotukset on pääsääntöisesti tehty yleiseen kustannusten nousuun ja kustannuslaskentaan perustuen. Samassa yhteydessä hinnaston rakennetta on kevennetty ja tuoteluetteloa selkeytetty laskutuksen toteuttamisen yksinkertaistamiseksi.\n\nVuokraus- ja palveluhinnasto, lakisääteiset päätökset ja tarkastukset sekä turvallisuuskoulutuksen hinnat on lueteltu liitteessä Pelastustoimi ja turvallisuuspalvelut tuoteluettelo ja hinnasto 1.1.2026."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Tuoteluettelo ja hinnasto 2026",
+     "url": "https://pshva.oncloudos.com/kokous/2025885-7-215429.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "93",
+   "title": "Sosiaali- ja terveydenhuollon varautuminen ja valmius",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025885-8",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025885-8.PDF",
+   "diary_number": "4900/09.06.00/2025",
+   "preparer": null,
+   "presenter": "pelastustoimi- ja turvallisuuspalveluiden toimialajohtaja",
+   "proposal": "Kokonaisturvallisuuslautakunta päättää merkitä tiedoksi sosiaali- ja terveydenhuollon varautumisen ja valmiuden tilannekatsauksen.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 44\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nHyvinvointialueen sosiaalijohtaja Heli Pärnänen ja johtajaylilääkäri Antti Hedman antavat tilannekatsauksen sosiaali- ja terveydenhuollon varautumisesta ja valmiudesta.",
+   "decision": "Merkittiin tiedoksi.\n\nMerkitään pöytäkirjaan, että:\n\n- § 93 käsiteltiin asian § 90 talousarvion valmistelun 2026 tilannekatsauksen jälkeen.\n\n- Antti Hedman ja Heli Pärnänen olivat läsnä kokouksessa asian käsittelyn ajan klo 16.14-17.20.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\njohtava ylilääkäri Antti Hedman, sosiaalijohtaja Heli Pärnänen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkittiin tiedoksi.\n\nMerkitään pöytäkirjaan, että:\n\n- § 93 käsiteltiin asian § 90 talousarvion valmistelun 2026 tilannekatsauksen jälkeen.\n\n- Antti Hedman ja Heli Pärnänen olivat läsnä kokouksessa asian käsittelyn ajan klo 16.14-17.20."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "pelastustoimi- ja turvallisuuspalveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Kokonaisturvallisuuslautakunta päättää merkitä tiedoksi sosiaali- ja terveydenhuollon varautumisen ja valmiuden tilannekatsauksen.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 44\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nHyvinvointialueen sosiaalijohtaja Heli Pärnänen ja johtajaylilääkäri Antti Hedman antavat tilannekatsauksen sosiaali- ja terveydenhuollon varautumisesta ja valmiudesta."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "94",
+   "title": "Viranhaltijapäätösten tarkastaminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025885-9",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025885-9.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Toimielimen puheenjohtaja",
+   "proposal": "Lautakunta ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Lautakunta hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 58 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava lautakunnalle niistä päätöksistä, jotka voidaan ottaa lautakunnan käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava lautakunnan alaisten viranhaltijoiden osalta lautakunnalle.\n\nLautakunnan alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa lautakunnan puheenjohtajalle ja esittelijälle.\n\nLautakunnalle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 12.9. – 5.11.2025",
+   "decision": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että § 94 käsiteltiin asian § 90 jälkeen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Viranhaltijapäätösten tarkastaminen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että § 94 käsiteltiin asian § 90 jälkeen."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Toimielimen puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Lautakunta ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Lautakunta hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 58 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava lautakunnalle niistä päätöksistä, jotka voidaan ottaa lautakunnan käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava lautakunnan alaisten viranhaltijoiden osalta lautakunnalle.\n\nLautakunnan alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa lautakunnan puheenjohtajalle ja esittelijälle.\n\nLautakunnalle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 12.9. – 5.11.2025"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Päätösluettelo 5.9. - 5.11.2025, kokonaisturvallisuuslautakunta",
+     "url": "https://pshva.oncloudos.com/kokous/2025885-9-218319.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "95",
+   "title": "Tiedoksisaatettavat asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025885-10",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025885-10.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "pelastustoimi- ja turvallisuuspalveluiden toimialajohtaja",
+   "proposal": "Kokonaisturvallisuuslautakunta päättää merkitä tiedotettavat asiat tietoon saatetuksi.\n\nPöytäkirjanote §290 Kuopion kaupungin ja hyvinvointialueen välinen sopimus kuntien valmiussuunnittelun tukemisesta ja yhteensovittamisesta kuluvalle valtuustokaudelle\n\nVR:n ICS-kalustoon liittyvän pelastustoiminnan ohjeistus\n\nKutsu, Pyykkimäen tuulivoimahankkeen ennakkoneuvottelu\n\nKutsu, ilmahälytyskoulutus pelastustoimen henkilöstölle 29.10.2025, Pelastusopisto, Kuopio\n\nTervon kunnanhallituksen pöytäkirjanote 7.10.2025 § 220 Sopimus kuntien valmiussuunnittelun tukemisesta\n\nPelastustoimen paikkatieto ja karttamoottori-järjestelmän yhteishankinta, Sisäministeriö\n\nTietopyyntö, pelastustoimen ja ensihoidon palkkatiedot, Suomen pelastusalan ammattilaiset SPAL\n\nPohjois-Savon hyvinvointialueen pelastuslaitoksen vastaus tietopyyntöön pelastustoimen ja ensihoidon palkkatiedoista, Suomen pelastusalan ammattilaiset SPAL\n\nItä-Suomen aluehallintoviraston lausuntopyyntö, Ehdotus hengenpelastusmitalin antamisesta\n\nPohjois-Savon hyvinvointialueen lausunto ehdotukseen hengenpelastusmitalin antamisesta\n\nKutsu VASARA-hankkeen päätösseminaariin\n\nSisäministeriön päätös, Pelastustoimen henkilötietojen käsittelyä ja tiedonsaantioikeuksia koskeva lainsäädäntöhanke- Kokoonpanon muutos\n\nTraficomin lausuntopyyntö, VAK- lain (541/2023) mukainen tilapäisen säilytyksen paikan sisäinen pelastussuunnitelma, Savo-Oil Oy Kuopio, Traficom\n\nLausuntopyyntö Pohjois-Savon maakuntakaavan 2040, 3. vaiheen aurinkovoima, vetytalous ja kauppa, ehdotusvaiheen viranomaiskuuleminen, Pohjois-Savon Liitto\n\nYVAn ennakkoneuvottelun kalvosarja, Pyykkimäen tuulivoimahanke, Vesanto, Keitele\n\nSisäministeriön kirje 20.10.2025, pelastustoiminnan varautumisen valmiustarkastukset\n\nApulaisoikeuskanslerin päätös, Hyvinvointialueiden valvonta ja omavalvonta\n\nAluehallintoviraston asiantuntija-arvio pelastustoimen palveluista Pohjois-Savon hyvinvointialueella vuonna 2024\n\nAluehallintoviraston valtakunnallinen asiantuntija-arvio pelastustoimen palveluista vuonna 2024\n\nSisäministeriön lausuntopyyntö sisäministeriön asetusluonnoksesta pelastustoimen virkapuvusta sekä pelastusviranomaisen henkilökortista annetun sisäministeriön asetuksen muuttamisesta\n\nSisäministeriön tietopyyntö pelastustoimen nettokustannusten noususta vuosina 2022-2023\n\nKysely pelastuslaitoksille, Ähtärissä 14.3.2025 tapahtuneen vakavan vaaratilanteen tutkinta\n\nELY:n päätös, Raasion altaan patojen tarkkailuohjelman hyväksyminen, Siilinjärven kaivos, Yara Suomi Oy\n\nPohjois-Savon hyvinvointialueen pelastustoimen vastine, Itä-Suomen aluehallintoviraston korjausmääräys Pohjois-Savon hyvinvointialueelle pelastustoimen palvelutason huomattavien epäkohtien korjaamiseksi Siilinjärven Vuorelassa ja Toivalassa\n\nPohjois-Savon hyvinvointialueen pelastustoimen selvitys Sisäministeriön tietopyyntöön pelastustoimen nettokustannusten noususta vuosina 2022-2023\n\nItä-Suomen hallinto-oikeuden päätös 2394/2025, valitus virantoimitusvelvollisuuden muuttamisesta, JN\n\nItä-Suomen hallinto-oikeuden päätös 2399/2025, valitus virantoimitusvelvollisuuden muuttamisesta, RK\n\nTietopyyntö, poistumisturvallisuuden arviointia koskevat päätökset, Pohjois-Savon pelastuslaitos\n\nYlä-Savon ympäristölautakunnan ilmoituspäätös eläinsuojalle, Hernelä, Pielavesi\n\nSisäministeriön kirje, Onnettomuusselosteiden täyttäminen pelastustoimen tehtävistä\n\nPyykkimäen tuulivoimahankkeen YVA-menettelyn kaavan ennakkoneuvottelun kokousmuistio 24.10.2025\n\nPyykkimäen tuulivoimahankkeen seurantaryhmän kokousmuistio 29.10.2025\n\nKommenttipyyntö, Pyykkimäen tuulivoimahankkeen YVA-ohjelman luonnos\n\nKutsu esittelemään pelastustoimen palveluiden kohdentamisen tutkimus- ja kehittämisseminaariin 19.2.2026 Kuopiossa, Valtioneuvosto\n\nJoroisten rakennusvalvonnan lausuntopyyntö, Joroisten kunnan rakennusjärjestysehdotus\n\nItä-Suomen aluehallintoviraston korjausmääräys 4.11.2025 ISAVI/9711/2025: Pohjois-Savon pelastustoimen palvelutason huomattavien epäkohtien korjaaminen Siilinjärven Vuorelassa ja Toivalassa\n\nSisäministeriön päätös, Siviilivalmiusneuvottelukunnan kokoonpanon muuttaminen (VN30463/2023)",
+   "decision": "Päätösehdotus hyväksyttiin. Lautakunta keskusteli lisäksi Joroisissa sattuneen öljyonnettomuuden poliisitutkinnasta.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Tiedoksisaatettavat asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin. Lautakunta keskusteli lisäksi Joroisissa sattuneen öljyonnettomuuden poliisitutkinnasta."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "pelastustoimi- ja turvallisuuspalveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Kokonaisturvallisuuslautakunta päättää merkitä tiedotettavat asiat tietoon saatetuksi.\n\nPöytäkirjanote §290 Kuopion kaupungin ja hyvinvointialueen välinen sopimus kuntien valmiussuunnittelun tukemisesta ja yhteensovittamisesta kuluvalle valtuustokaudelle\n\nVR:n ICS-kalustoon liittyvän pelastustoiminnan ohjeistus\n\nKutsu, Pyykkimäen tuulivoimahankkeen ennakkoneuvottelu\n\nKutsu, ilmahälytyskoulutus pelastustoimen henkilöstölle 29.10.2025, Pelastusopisto, Kuopio\n\nTervon kunnanhallituksen pöytäkirjanote 7.10.2025 § 220 Sopimus kuntien valmiussuunnittelun tukemisesta\n\nPelastustoimen paikkatieto ja karttamoottori-järjestelmän yhteishankinta, Sisäministeriö\n\nTietopyyntö, pelastustoimen ja ensihoidon palkkatiedot, Suomen pelastusalan ammattilaiset SPAL\n\nPohjois-Savon hyvinvointialueen pelastuslaitoksen vastaus tietopyyntöön pelastustoimen ja ensihoidon palkkatiedoista, Suomen pelastusalan ammattilaiset SPAL\n\nItä-Suomen aluehallintoviraston lausuntopyyntö, Ehdotus hengenpelastusmitalin antamisesta\n\nPohjois-Savon hyvinvointialueen lausunto ehdotukseen hengenpelastusmitalin antamisesta\n\nKutsu VASARA-hankkeen päätösseminaariin\n\nSisäministeriön päätös, Pelastustoimen henkilötietojen käsittelyä ja tiedonsaantioikeuksia koskeva lainsäädäntöhanke- Kokoonpanon muutos\n\nTraficomin lausuntopyyntö, VAK- lain (541/2023) mukainen tilapäisen säilytyksen paikan sisäinen pelastussuunnitelma, Savo-Oil Oy Kuopio, Traficom\n\nLausuntopyyntö Pohjois-Savon maakuntakaavan 2040, 3. vaiheen aurinkovoima, vetytalous ja kauppa, ehdotusvaiheen viranomaiskuuleminen, Pohjois-Savon Liitto\n\nYVAn ennakkoneuvottelun kalvosarja, Pyykkimäen tuulivoimahanke, Vesanto, Keitele\n\nSisäministeriön kirje 20.10.2025, pelastustoiminnan varautumisen valmiustarkastukset\n\nApulaisoikeuskanslerin päätös, Hyvinvointialueiden valvonta ja omavalvonta\n\nAluehallintoviraston asiantuntija-arvio pelastustoimen palveluista Pohjois-Savon hyvinvointialueella vuonna 2024\n\nAluehallintoviraston valtakunnallinen asiantuntija-arvio pelastustoimen palveluista vuonna 2024\n\nSisäministeriön lausuntopyyntö sisäministeriön asetusluonnoksesta pelastustoimen virkapuvusta sekä pelastusviranomaisen henkilökortista annetun sisäministeriön asetuksen muuttamisesta\n\nSisäministeriön tietopyyntö pelastustoimen nettokustannusten noususta vuosina 2022-2023\n\nKysely pelastuslaitoksille, Ähtärissä 14.3.2025 tapahtuneen vakavan vaaratilanteen tutkinta\n\nELY:n päätös, Raasion altaan patojen tarkkailuohjelman hyväksyminen, Siilinjärven kaivos, Yara Suomi Oy\n\nPohjois-Savon hyvinvointialueen pelastustoimen vastine, Itä-Suomen aluehallintoviraston korjausmääräys Pohjois-Savon hyvinvointialueelle pelastustoimen palvelutason huomattavien epäkohtien korjaamiseksi Siilinjärven Vuorelassa ja Toivalassa\n\nPohjois-Savon hyvinvointialueen pelastustoimen selvitys Sisäministeriön tietopyyntöön pelastustoimen nettokustannusten noususta vuosina 2022-2023\n\nItä-Suomen hallinto-oikeuden päätös 2394/2025, valitus virantoimitusvelvollisuuden muuttamisesta, JN\n\nItä-Suomen hallinto-oikeuden päätös 2399/2025, valitus virantoimitusvelvollisuuden muuttamisesta, RK\n\nTietopyyntö, poistumisturvallisuuden arviointia koskevat päätökset, Pohjois-Savon pelastuslaitos\n\nYlä-Savon ympäristölautakunnan ilmoituspäätös eläinsuojalle, Hernelä, Pielavesi\n\nSisäministeriön kirje, Onnettomuusselosteiden täyttäminen pelastustoimen tehtävistä\n\nPyykkimäen tuulivoimahankkeen YVA-menettelyn kaavan ennakkoneuvottelun kokousmuistio 24.10.2025\n\nPyykkimäen tuulivoimahankkeen seurantaryhmän kokousmuistio 29.10.2025\n\nKommenttipyyntö, Pyykkimäen tuulivoimahankkeen YVA-ohjelman luonnos\n\nKutsu esittelemään pelastustoimen palveluiden kohdentamisen tutkimus- ja kehittämisseminaariin 19.2.2026 Kuopiossa, Valtioneuvosto\n\nJoroisten rakennusvalvonnan lausuntopyyntö, Joroisten kunnan rakennusjärjestysehdotus\n\nItä-Suomen aluehallintoviraston korjausmääräys 4.11.2025 ISAVI/9711/2025: Pohjois-Savon pelastustoimen palvelutason huomattavien epäkohtien korjaaminen Siilinjärven Vuorelassa ja Toivalassa\n\nSisäministeriön päätös, Siviilivalmiusneuvottelukunnan kokoonpanon muuttaminen (VN30463/2023)"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "96",
+   "title": "Muut asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025885-11",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025885-11.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Puheenjohtaja päätti kokouksen klo 18.35.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja päätti kokouksen klo 18.35."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Hynninen Kati",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kananen Hannu",
+   "role": "varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Hynninen Erkki",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Juvonen Soile",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pirkkalainen Tarja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pöyhönen Arttu",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Tiilikainen Hilkka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Tolvanen Nea",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Koponen Jukka",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Raatikainen Riitta",
+   "role": "aluehallituksen puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Tiitta Paavo",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Hätinen Niina",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Sihvola Reija",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Myllylä Jari",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Hedman Antti",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Pärnänen Heli",
+   "role": "asiantuntija",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025885",
+  "fetched_at": "2026-10-14T18:24:59+00:00",
+  "content_hash": "cd5ddcd49945a274",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T18:24:59+00:00"
+ }
+}

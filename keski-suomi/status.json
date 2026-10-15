@@ -1,0 +1,15 @@
+{
+ "region": "keski-suomi",
+ "started_at": "2026-10-15T01:28:46+00:00",
+ "parser_version": "0.1.0",
+ "fetched": 17,
+ "changed": 0,
+ "unchanged": 91,
+ "removed": 0,
+ "errors": [],
+ "complete": true,
+ "result": "ok",
+ "requests": 242,
+ "finished_at": "2026-10-15T01:32:49+00:00",
+ "meetings_total": 108
+}

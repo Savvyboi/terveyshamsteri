@@ -1,0 +1,15 @@
+{
+ "region": "etela-savo",
+ "started_at": "2026-10-15T01:26:19+00:00",
+ "parser_version": "0.1.0",
+ "fetched": 13,
+ "changed": 0,
+ "unchanged": 66,
+ "removed": 0,
+ "errors": [],
+ "complete": true,
+ "result": "ok",
+ "requests": 150,
+ "finished_at": "2026-10-15T01:28:50+00:00",
+ "meetings_total": 79
+}

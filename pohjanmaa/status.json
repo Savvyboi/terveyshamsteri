@@ -1,0 +1,15 @@
+{
+ "region": "pohjanmaa",
+ "started_at": "2026-10-15T01:33:09+00:00",
+ "parser_version": "0.1.0",
+ "fetched": 15,
+ "changed": 0,
+ "unchanged": 68,
+ "removed": 0,
+ "errors": [],
+ "complete": true,
+ "result": "ok",
+ "requests": 207,
+ "finished_at": "2026-10-15T01:36:36+00:00",
+ "meetings_total": 83
+}

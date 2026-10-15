@@ -1,0 +1,15 @@
+{
+ "region": "lansi-uusimaa",
+ "started_at": "2026-10-15T01:29:55+00:00",
+ "parser_version": "0.1.0",
+ "fetched": 21,
+ "changed": 0,
+ "unchanged": 148,
+ "removed": 0,
+ "errors": [],
+ "complete": true,
+ "result": "ok",
+ "requests": 305,
+ "finished_at": "2026-10-15T01:35:00+00:00",
+ "meetings_total": 169
+}

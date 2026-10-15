@@ -1,0 +1,1269 @@
+{
+ "region": "kainuu",
+ "year": 2025,
+ "source": "https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__alvaa/statfin_alvaa_pxt_14zs.px/",
+ "fetched_at": "2026-10-15T00:59:30+00:00",
+ "votes_total": 26163,
+ "seats": 59,
+ "parties": [
+  {
+   "party": "KESK",
+   "votes": 9342,
+   "candidates": 73,
+   "seats": 22,
+   "share": 35.7
+  },
+  {
+   "party": "VAS",
+   "votes": 4141,
+   "candidates": 73,
+   "seats": 9,
+   "share": 15.8
+  },
+  {
+   "party": "KOK",
+   "votes": 3827,
+   "candidates": 56,
+   "seats": 9,
+   "share": 14.6
+  },
+  {
+   "party": "SDP",
+   "votes": 3479,
+   "candidates": 43,
+   "seats": 8,
+   "share": 13.3
+  },
+  {
+   "party": "PS",
+   "votes": 2230,
+   "candidates": 43,
+   "seats": 5,
+   "share": 8.5
+  },
+  {
+   "party": "KD",
+   "votes": 1640,
+   "candidates": 17,
+   "seats": 3,
+   "share": 6.3
+  },
+  {
+   "party": "VIHR",
+   "votes": 1317,
+   "candidates": 24,
+   "seats": 3,
+   "share": 5.0
+  },
+  {
+   "party": "VL",
+   "votes": 80,
+   "candidates": 1,
+   "seats": 0,
+   "share": 0.3
+  },
+  {
+   "party": "E2335",
+   "votes": 49,
+   "candidates": 1,
+   "seats": 0,
+   "share": 0.2
+  },
+  {
+   "party": "VKK",
+   "votes": 33,
+   "candidates": 1,
+   "seats": 0,
+   "share": 0.1
+  },
+  {
+   "party": "LIBE",
+   "votes": 25,
+   "candidates": 2,
+   "seats": 0,
+   "share": 0.1
+  }
+ ],
+ "people": [
+  {
+   "id": "20999082279",
+   "party": "KD",
+   "votes": 541,
+   "share": 2.1,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Sami Kilpeläinen",
+   "official_name": "Kilpeläinen Sami"
+  },
+  {
+   "id": "20999052012",
+   "party": "VIHR",
+   "votes": 533,
+   "share": 2,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Silja Keränen",
+   "official_name": "Keränen Silja"
+  },
+  {
+   "id": "20999062106",
+   "party": "VAS",
+   "votes": 518,
+   "share": 2,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Pertti Granqvist",
+   "official_name": "Granqvist Pertti"
+  },
+  {
+   "id": "20999032300",
+   "party": "SDP",
+   "votes": 480,
+   "share": 1.8,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Marjo Kangasharju",
+   "official_name": "Kangasharju Marjo"
+  },
+  {
+   "id": "20999042048",
+   "party": "KESK",
+   "votes": 448,
+   "share": 1.7,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Mikko Kanniainen",
+   "official_name": "Kanniainen Mikko"
+  },
+  {
+   "id": "20999042098",
+   "party": "KESK",
+   "votes": 446,
+   "share": 1.7,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Aaro Tolonen",
+   "official_name": "Tolonen Aaro"
+  },
+  {
+   "id": "20999042057",
+   "party": "KESK",
+   "votes": 426,
+   "share": 1.6,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Heimo Keränen",
+   "official_name": "Keränen Heimo"
+  },
+  {
+   "id": "20999042038",
+   "party": "KESK",
+   "votes": 406,
+   "share": 1.6,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Heikki Huotari",
+   "official_name": "Huotari Heikki"
+  },
+  {
+   "id": "20999032325",
+   "party": "SDP",
+   "votes": 403,
+   "share": 1.5,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Riikka Seppänen",
+   "official_name": "Seppänen Riikka"
+  },
+  {
+   "id": "20999042030",
+   "party": "KESK",
+   "votes": 383,
+   "share": 1.5,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Esa Ahonen",
+   "official_name": "Ahonen Esa"
+  },
+  {
+   "id": "20999062126",
+   "party": "VAS",
+   "votes": 370,
+   "share": 1.4,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Miikka Kortelainen",
+   "official_name": "Kortelainen Miikka"
+  },
+  {
+   "id": "20999042056",
+   "party": "KESK",
+   "votes": 338,
+   "share": 1.3,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Tuovi Kemppainen",
+   "official_name": "Kemppainen Tuovi"
+  },
+  {
+   "id": "20999042075",
+   "party": "KESK",
+   "votes": 329,
+   "share": 1.3,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Pentti Moilanen",
+   "official_name": "Moilanen Pentti"
+  },
+  {
+   "id": "20999042076",
+   "party": "KESK",
+   "votes": 324,
+   "share": 1.2,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Kirsi Moisanen",
+   "official_name": "Moisanen Kirsi"
+  },
+  {
+   "id": "20999042070",
+   "party": "KESK",
+   "votes": 315,
+   "share": 1.2,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Minna Leinonen",
+   "official_name": "Leinonen Minna"
+  },
+  {
+   "id": "20999012213",
+   "party": "KOK",
+   "votes": 296,
+   "share": 1.1,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Jaakko Perhovaara",
+   "official_name": "Perhovaara Jaakko"
+  },
+  {
+   "id": "20999012185",
+   "party": "KOK",
+   "votes": 292,
+   "share": 1.1,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Riikka Huotari",
+   "official_name": "Huotari Riikka"
+  },
+  {
+   "id": "20999022247",
+   "party": "PS",
+   "votes": 281,
+   "share": 1.1,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Pasi Kilpeläinen",
+   "official_name": "Kilpeläinen Pasi"
+  },
+  {
+   "id": "20999032319",
+   "party": "SDP",
+   "votes": 277,
+   "share": 1.1,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Raimo Piirainen",
+   "official_name": "Piirainen Raimo"
+  },
+  {
+   "id": "20999012180",
+   "party": "KOK",
+   "votes": 276,
+   "share": 1.1,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Matti Heikkinen",
+   "official_name": "Heikkinen Matti"
+  },
+  {
+   "id": "20999042093",
+   "party": "KESK",
+   "votes": 275,
+   "share": 1.1,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Sakari Seppänen",
+   "official_name": "Seppänen Sakari"
+  },
+  {
+   "id": "20999042083",
+   "party": "KESK",
+   "votes": 265,
+   "share": 1,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Kaisa Oinas-Panuma",
+   "official_name": "Oinas-Panuma Kaisa"
+  },
+  {
+   "id": "20999082285",
+   "party": "KD",
+   "votes": 264,
+   "share": 1,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Jaakko Mikkola",
+   "official_name": "Mikkola Jaakko"
+  },
+  {
+   "id": "20999042073",
+   "party": "KESK",
+   "votes": 255,
+   "share": 1,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Seija Lukkarinen",
+   "official_name": "Lukkarinen Seija"
+  },
+  {
+   "id": "20999032316",
+   "party": "SDP",
+   "votes": 250,
+   "share": 1,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Markku Oikarinen",
+   "official_name": "Oikarinen Markku"
+  },
+  {
+   "id": "20999042058",
+   "party": "KESK",
+   "votes": 247,
+   "share": 0.9,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Eveliina Kinnunen",
+   "official_name": "Kinnunen Eveliina"
+  },
+  {
+   "id": "20999042074",
+   "party": "KESK",
+   "votes": 244,
+   "share": 0.9,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Pentti Malinen",
+   "official_name": "Malinen Pentti"
+  },
+  {
+   "id": "20999032307",
+   "party": "SDP",
+   "votes": 242,
+   "share": 0.9,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Susanna Kinnula",
+   "official_name": "Kinnula Susanna"
+  },
+  {
+   "id": "20999012224",
+   "party": "KOK",
+   "votes": 241,
+   "share": 0.9,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Hannu Suutari",
+   "official_name": "Suutari Hannu"
+  },
+  {
+   "id": "20999062113",
+   "party": "VAS",
+   "votes": 229,
+   "share": 0.9,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Terttu Huttu-Juntunen",
+   "official_name": "Huttu-Juntunen Terttu"
+  },
+  {
+   "id": "20999032310",
+   "party": "SDP",
+   "votes": 221,
+   "share": 0.8,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Sonja Laurila",
+   "official_name": "Laurila Sonja"
+  },
+  {
+   "id": "20999042082",
+   "party": "KESK",
+   "votes": 220,
+   "share": 0.8,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Paavo Oikarinen",
+   "official_name": "Oikarinen Paavo"
+  },
+  {
+   "id": "20999042037",
+   "party": "KESK",
+   "votes": 214,
+   "share": 0.8,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Erja Helttunen",
+   "official_name": "Helttunen Erja"
+  },
+  {
+   "id": "20999042080",
+   "party": "KESK",
+   "votes": 204,
+   "share": 0.8,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Paavo Niemelä",
+   "official_name": "Niemelä Paavo"
+  },
+  {
+   "id": "20999042036",
+   "party": "KESK",
+   "votes": 192,
+   "share": 0.7,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Salla Heikkinen",
+   "official_name": "Heikkinen Salla"
+  },
+  {
+   "id": "20999012179",
+   "party": "KOK",
+   "votes": 190,
+   "share": 0.7,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Paavo Enroth",
+   "official_name": "Enroth Paavo"
+  },
+  {
+   "id": "20999042055",
+   "party": "KESK",
+   "votes": 190,
+   "share": 0.7,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Esa Kemppainen",
+   "official_name": "Kemppainen Esa"
+  },
+  {
+   "id": "20999042040",
+   "party": "KESK",
+   "votes": 187,
+   "share": 0.7,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Pentti Huttunen",
+   "official_name": "Huttunen Pentti"
+  },
+  {
+   "id": "20999032297",
+   "party": "SDP",
+   "votes": 179,
+   "share": 0.7,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Heikki Hekkala",
+   "official_name": "Hekkala Heikki"
+  },
+  {
+   "id": "20999062107",
+   "party": "VAS",
+   "votes": 176,
+   "share": 0.7,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Peppiina Hakkarainen",
+   "official_name": "Hakkarainen Peppiina"
+  },
+  {
+   "id": "20999012231",
+   "party": "KOK",
+   "votes": 174,
+   "share": 0.7,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Unto Väisänen",
+   "official_name": "Väisänen Unto"
+  },
+  {
+   "id": "20999082278",
+   "party": "KD",
+   "votes": 167,
+   "share": 0.6,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Antti Kela",
+   "official_name": "Kela Antti"
+  },
+  {
+   "id": "20999062118",
+   "party": "VAS",
+   "votes": 165,
+   "share": 0.6,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Mari Kela",
+   "official_name": "Kela Mari"
+  },
+  {
+   "id": "20999012222",
+   "party": "KOK",
+   "votes": 164,
+   "share": 0.6,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Juhani Seppänen",
+   "official_name": "Seppänen Juhani"
+  },
+  {
+   "id": "20999022235",
+   "party": "PS",
+   "votes": 156,
+   "share": 0.6,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Sami Halonen",
+   "official_name": "Halonen Sami"
+  },
+  {
+   "id": "20999062122",
+   "party": "VAS",
+   "votes": 156,
+   "share": 0.6,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Jouko Korhonen",
+   "official_name": "Korhonen Jouko"
+  },
+  {
+   "id": "20999022238",
+   "party": "PS",
+   "votes": 146,
+   "share": 0.6,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Riikka Heikkinen",
+   "official_name": "Heikkinen Riikka"
+  },
+  {
+   "id": "20999042085",
+   "party": "KESK",
+   "votes": 138,
+   "share": 0.5,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Kaija Patronen",
+   "official_name": "Patronen Kaija"
+  },
+  {
+   "id": "20999042034",
+   "party": "KESK",
+   "votes": 137,
+   "share": 0.5,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Hannu Gröhn",
+   "official_name": "Gröhn Hannu"
+  },
+  {
+   "id": "20999012183",
+   "party": "KOK",
+   "votes": 136,
+   "share": 0.5,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Tea Heikkinen",
+   "official_name": "Heikkinen Tea"
+  },
+  {
+   "id": "20999012187",
+   "party": "KOK",
+   "votes": 136,
+   "share": 0.5,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Kari Hyvönen",
+   "official_name": "Hyvönen Kari"
+  },
+  {
+   "id": "20999022259",
+   "party": "PS",
+   "votes": 136,
+   "share": 0.5,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Nina Määttä",
+   "official_name": "Määttä Nina"
+  },
+  {
+   "id": "20999052015",
+   "party": "VIHR",
+   "votes": 126,
+   "share": 0.5,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Karoliina Kuvaja",
+   "official_name": "Kuvaja Karoliina"
+  },
+  {
+   "id": "20999032324",
+   "party": "SDP",
+   "votes": 116,
+   "share": 0.4,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Atte Seppänen",
+   "official_name": "Seppänen Atte"
+  },
+  {
+   "id": "20999062156",
+   "party": "VAS",
+   "votes": 105,
+   "share": 0.4,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Aki Räisänen",
+   "official_name": "Räisänen Aki"
+  },
+  {
+   "id": "20999052003",
+   "party": "VIHR",
+   "votes": 100,
+   "share": 0.4,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Mikko Alakärppä",
+   "official_name": "Alakärppä Mikko"
+  },
+  {
+   "id": "20999062138",
+   "party": "VAS",
+   "votes": 96,
+   "share": 0.4,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Jouni Lämpsä",
+   "official_name": "Lämpsä Jouni"
+  },
+  {
+   "id": "20999022249",
+   "party": "PS",
+   "votes": 95,
+   "share": 0.4,
+   "status": "elected",
+   "incumbent": true,
+   "name": "Hannu Korhonen",
+   "official_name": "Korhonen Hannu"
+  },
+  {
+   "id": "20999062159",
+   "party": "VAS",
+   "votes": 87,
+   "share": 0.3,
+   "status": "elected",
+   "incumbent": false,
+   "name": "Sami Sainio",
+   "official_name": "Sainio Sami"
+  },
+  {
+   "id": "20999082287",
+   "party": "KD",
+   "votes": 165,
+   "share": 0.6,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Veijo Moilanen",
+   "official_name": "Moilanen Veijo"
+  },
+  {
+   "id": "20999042067",
+   "party": "KESK",
+   "votes": 136,
+   "share": 0.5,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Teemu Kyllönen",
+   "official_name": "Kyllönen Teemu"
+  },
+  {
+   "id": "20999042068",
+   "party": "KESK",
+   "votes": 131,
+   "share": 0.5,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Toivo Kyllönen",
+   "official_name": "Kyllönen Toivo"
+  },
+  {
+   "id": "20999042072",
+   "party": "KESK",
+   "votes": 120,
+   "share": 0.5,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Jouni Lesonen",
+   "official_name": "Lesonen Jouni"
+  },
+  {
+   "id": "20999042091",
+   "party": "KESK",
+   "votes": 113,
+   "share": 0.4,
+   "status": "deputy",
+   "incumbent": true,
+   "name": "Anni Rimpiläinen",
+   "official_name": "Rimpiläinen Anni"
+  },
+  {
+   "id": "20999032315",
+   "party": "SDP",
+   "votes": 112,
+   "share": 0.4,
+   "status": "deputy",
+   "incumbent": true,
+   "name": "Helena Ohtonen",
+   "official_name": "Ohtonen Helena"
+  },
+  {
+   "id": "20999032327",
+   "party": "SDP",
+   "votes": 111,
+   "share": 0.4,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Aila Tartia-Jalonen",
+   "official_name": "Tartia-Jalonen Aila"
+  },
+  {
+   "id": "20999042059",
+   "party": "KESK",
+   "votes": 111,
+   "share": 0.4,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Hanna Kinnunen",
+   "official_name": "Kinnunen Hanna"
+  },
+  {
+   "id": "20999042071",
+   "party": "KESK",
+   "votes": 109,
+   "share": 0.4,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Ulla Leinonen",
+   "official_name": "Leinonen Ulla"
+  },
+  {
+   "id": "20999042079",
+   "party": "KESK",
+   "votes": 106,
+   "share": 0.4,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Mousa Najafi",
+   "official_name": "Najafi Mousa"
+  },
+  {
+   "id": "20999042052",
+   "party": "KESK",
+   "votes": 104,
+   "share": 0.4,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Markku Karjalainen",
+   "official_name": "Karjalainen Markku"
+  },
+  {
+   "id": "20999042089",
+   "party": "KESK",
+   "votes": 103,
+   "share": 0.4,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Arja Rajala",
+   "official_name": "Rajala Arja"
+  },
+  {
+   "id": "20999012225",
+   "party": "KOK",
+   "votes": 102,
+   "share": 0.4,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Teemu Takalo",
+   "official_name": "Takalo Teemu"
+  },
+  {
+   "id": "20999012200",
+   "party": "KOK",
+   "votes": 100,
+   "share": 0.4,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Markus Leinonen",
+   "official_name": "Leinonen Markus"
+  },
+  {
+   "id": "20999012215",
+   "party": "KOK",
+   "votes": 100,
+   "share": 0.4,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Matti-Jussi Pollari",
+   "official_name": "Pollari Matti-Jussi"
+  },
+  {
+   "id": "20999012189",
+   "party": "KOK",
+   "votes": 97,
+   "share": 0.4,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Eija Jansson",
+   "official_name": "Jansson Eija"
+  },
+  {
+   "id": "20999012229",
+   "party": "KOK",
+   "votes": 97,
+   "share": 0.4,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Kaisa Tolonen",
+   "official_name": "Tolonen Kaisa"
+  },
+  {
+   "id": "20999012196",
+   "party": "KOK",
+   "votes": 96,
+   "share": 0.4,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Taimi Komulainen",
+   "official_name": "Komulainen Taimi"
+  },
+  {
+   "id": "20999042100",
+   "party": "KESK",
+   "votes": 96,
+   "share": 0.4,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Kimmo Tuulenkari",
+   "official_name": "Tuulenkari Kimmo"
+  },
+  {
+   "id": "20999042045",
+   "party": "KESK",
+   "votes": 95,
+   "share": 0.4,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Mikko Juntunen",
+   "official_name": "Juntunen Mikko"
+  },
+  {
+   "id": "20999082288",
+   "party": "KD",
+   "votes": 95,
+   "share": 0.4,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Tanja Pyykkönen",
+   "official_name": "Pyykkönen Tanja"
+  },
+  {
+   "id": "20999042053",
+   "party": "KESK",
+   "votes": 94,
+   "share": 0.4,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Veli-Matti Karppinen",
+   "official_name": "Karppinen Veli-Matti"
+  },
+  {
+   "id": "20999042033",
+   "party": "KESK",
+   "votes": 93,
+   "share": 0.4,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Johanna Autio",
+   "official_name": "Autio Johanna"
+  },
+  {
+   "id": "20999042060",
+   "party": "KESK",
+   "votes": 92,
+   "share": 0.4,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Kari-Antti Kitunen",
+   "official_name": "Kitunen Kari-Antti"
+  },
+  {
+   "id": "20999052002",
+   "party": "VIHR",
+   "votes": 91,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": true,
+   "name": "Sari Alakurtti",
+   "official_name": "Alakurtti Sari"
+  },
+  {
+   "id": "20999022254",
+   "party": "PS",
+   "votes": 88,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Petteri Matero",
+   "official_name": "Matero Petteri"
+  },
+  {
+   "id": "20999022261",
+   "party": "PS",
+   "votes": 88,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Teemu Niva",
+   "official_name": "Niva Teemu"
+  },
+  {
+   "id": "20999042061",
+   "party": "KESK",
+   "votes": 88,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Tuula Kivijärvi",
+   "official_name": "Kivijärvi Tuula"
+  },
+  {
+   "id": "20999012182",
+   "party": "KOK",
+   "votes": 87,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Mika Heikkinen",
+   "official_name": "Heikkinen Mika"
+  },
+  {
+   "id": "20999022264",
+   "party": "PS",
+   "votes": 87,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": true,
+   "name": "Sami Pihlajamaa",
+   "official_name": "Pihlajamaa Sami"
+  },
+  {
+   "id": "20999042102",
+   "party": "KESK",
+   "votes": 87,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Venla Österberg",
+   "official_name": "Österberg Venla"
+  },
+  {
+   "id": "20999042090",
+   "party": "KESK",
+   "votes": 85,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Jari Rajala",
+   "official_name": "Rajala Jari"
+  },
+  {
+   "id": "20999012221",
+   "party": "KOK",
+   "votes": 84,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Jyri Saastamoinen",
+   "official_name": "Saastamoinen Jyri"
+  },
+  {
+   "id": "20999012191",
+   "party": "KOK",
+   "votes": 83,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Heikki Kanniainen",
+   "official_name": "Kanniainen Heikki"
+  },
+  {
+   "id": "20999062165",
+   "party": "VAS",
+   "votes": 83,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Päivi Soldatkin",
+   "official_name": "Soldatkin Päivi"
+  },
+  {
+   "id": "20999042032",
+   "party": "KESK",
+   "votes": 79,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Aila Alasalmi",
+   "official_name": "Alasalmi Aila"
+  },
+  {
+   "id": "20999042065",
+   "party": "KESK",
+   "votes": 78,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Herkko Kurkinen",
+   "official_name": "Kurkinen Herkko"
+  },
+  {
+   "id": "20999052007",
+   "party": "VIHR",
+   "votes": 78,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Johanna Heikkilä",
+   "official_name": "Heikkilä Johanna"
+  },
+  {
+   "id": "20999022239",
+   "party": "PS",
+   "votes": 76,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Satu Heikkinen",
+   "official_name": "Heikkinen Satu"
+  },
+  {
+   "id": "20999042078",
+   "party": "KESK",
+   "votes": 76,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Pertti Määttä",
+   "official_name": "Määttä Pertti"
+  },
+  {
+   "id": "20999042066",
+   "party": "KESK",
+   "votes": 75,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Jonna Kyllönen",
+   "official_name": "Kyllönen Jonna"
+  },
+  {
+   "id": "20999032333",
+   "party": "SDP",
+   "votes": 74,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Juha Urpilainen",
+   "official_name": "Urpilainen Juha"
+  },
+  {
+   "id": "20999062135",
+   "party": "VAS",
+   "votes": 74,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Jari Lindh",
+   "official_name": "Lindh Jari"
+  },
+  {
+   "id": "20999022234",
+   "party": "PS",
+   "votes": 73,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Eija Hakkarainen",
+   "official_name": "Hakkarainen Eija"
+  },
+  {
+   "id": "20999062130",
+   "party": "VAS",
+   "votes": 73,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Janne Laatikainen",
+   "official_name": "Laatikainen Janne"
+  },
+  {
+   "id": "20999062141",
+   "party": "VAS",
+   "votes": 73,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Taina Matero",
+   "official_name": "Matero Taina"
+  },
+  {
+   "id": "20999062143",
+   "party": "VAS",
+   "votes": 73,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Ville Moilanen",
+   "official_name": "Moilanen Ville"
+  },
+  {
+   "id": "20999032298",
+   "party": "SDP",
+   "votes": 71,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Anne Holappa",
+   "official_name": "Holappa Anne"
+  },
+  {
+   "id": "20999082284",
+   "party": "KD",
+   "votes": 71,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Juha Marin",
+   "official_name": "Marin Juha"
+  },
+  {
+   "id": "20999062128",
+   "party": "VAS",
+   "votes": 70,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Antero Kyllönen",
+   "official_name": "Kyllönen Antero"
+  },
+  {
+   "id": "20999062168",
+   "party": "VAS",
+   "votes": 69,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Anja Tiainen",
+   "official_name": "Tiainen Anja"
+  },
+  {
+   "id": "20999062172",
+   "party": "VAS",
+   "votes": 69,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Jouko Viholainen",
+   "official_name": "Viholainen Jouko"
+  },
+  {
+   "id": "20999042092",
+   "party": "KESK",
+   "votes": 68,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Niina Ruskonmäki-Kemppainen",
+   "official_name": "Ruskonmäki-Kemppainen Niina"
+  },
+  {
+   "id": "20999032326",
+   "party": "SDP",
+   "votes": 66,
+   "share": 0.3,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Miika Snicker",
+   "official_name": "Snicker Miika"
+  },
+  {
+   "id": "20999032321",
+   "party": "SDP",
+   "votes": 65,
+   "share": 0.2,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Kati Rita",
+   "official_name": "Rita Kati"
+  },
+  {
+   "id": "20999032329",
+   "party": "SDP",
+   "votes": 65,
+   "share": 0.2,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Jussi Tolonen",
+   "official_name": "Tolonen Jussi"
+  },
+  {
+   "id": "20999062171",
+   "party": "VAS",
+   "votes": 60,
+   "share": 0.2,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Minna Tuunainen",
+   "official_name": "Tuunainen Minna"
+  },
+  {
+   "id": "20999032294",
+   "party": "SDP",
+   "votes": 56,
+   "share": 0.2,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Markku Bäckman",
+   "official_name": "Bäckman Markku"
+  },
+  {
+   "id": "20999052014",
+   "party": "VIHR",
+   "votes": 43,
+   "share": 0.2,
+   "status": "deputy",
+   "incumbent": false,
+   "name": "Kimmo Kumpulainen",
+   "official_name": "Kumpulainen Kimmo"
+  }
+ ]
+}

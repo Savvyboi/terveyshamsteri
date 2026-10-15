@@ -1,0 +1,818 @@
+{
+ "id": "aluehallitus/2026-06-01",
+ "region": "pohjanmaa",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2026-06-01",
+ "stage": "minutes",
+ "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026743",
+ "pdf_url": null,
+ "time": "09:00 - 12:00",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "120",
+   "title": "Kokouksen avaus, laillisuus ja päätösvaltaisuus",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026743-1",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Puheenjohtaja avasi kokouksen klo 9.00. Kokous todettiin laillisesti kokoon kutsutuksi ja jäsenten määrään nähden päätösvaltaitaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hallintosäännön 148 §:n mukaan toimielin päättää kokoustensa ajan ja paikan.?\n\nHallintosäännön 149 §:n mukaan kokouskutsun antaa puheenjohtaja tai hänen estyneenä ollessaan varapuheenjohtaja. Kokouskutsussa on ilmoitettava kokouksen aika ja paikka sekä käsiteltävät asiat.?\n\nHallintosäännön 157 §:n mukaan avattuaan kokouksen puheenjohtaja toteaa läsnä olevat sekä onko kokous laillisesti koolle kutsuttu ja päätösvaltainen.?\n\nLaki hyvinvointialueesta (611/2021) 108 §:n mukaan muu toimielin kuin valtuusto, on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.\n\nPuheenjohtaja avaa kokouksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja avasi kokouksen klo 9.00. Kokous todettiin laillisesti kokoon kutsutuksi ja jäsenten määrään nähden päätösvaltaitaiseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "121",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026743-2",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pohjanmaan hyvinvointialueen hallintosäännön 167 §:n mukaan pöytäkirja tarkastetaan toimielimen päättämällä tavalla.\n\nPöytäkirja voidaan allekirjoittaa ja tarkastaa sähköisesti.\n\nPöytäkirjantarkastajiksi ehdotetaan jäseniä aakkosjärjestyksessä siten, että esitetään aina kahta vuorossa seuraavana olevaa listalta.\n\nPöytäkirjantarkastajiksi ehdotetaan jäseniä: Åsa Stenbacka ja Antti Tuomela.\n\nEhdotetaan, että pöytäkirja tarkastetaan sähköisesti."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "122",
+   "title": "Kokouksen työjärjestyksen hyväksyminen",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026743-3",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pohjanmaan hyvinvointialueen hallintosäännön 149 §:n mukaan kokouskutsun antaa puheenjohtaja tai hänen estyneenä ollessaan varapuheenjohtaja. Kokouskutsussa on ilmoitettava kokouksen aika ja paikka sekä käsiteltävät asiat.\n\nEsityslista, joka sisältää selostuksen käsiteltävistä asioista ja ehdotukset toimielimen päätöksiksi,lähetetään kokouskutsun yhteydessä, jolleivat erityiset syyt ole esteenä.\n\nEhdotetaan, että esityslista hyväksytään työjärjestykseksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "125",
+   "title": "Professioiden katsaus",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026743-4",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-4.PDF",
+   "diary_number": "ÖVPH/2871/00.01.01/2026",
+   "preparer": "Svartsjö Sofia; Orava Marjo; Nåls Carina; Lisätietoja: puhelinnumero: (vaihde); Professiojohtajat (johtajaylilääkäri, johtajaylihoitaja, sosiaalijohtaja, hallintojohtaja ja pelastusjohtaja) muodostavat yhdessä sektorijohtajien kanssa hyvinvointialueen järjestämisjohdon ja vastaavat siitä, että organ",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hallitus merkitsi katsauksen tiedoksi.\n\nMerkittiin pöytäkirjaan, että johtajaylilääkäri Sofia Svartsjö, sosiaalijohtaja Carina Nåls ja johtajaylihoitaja Marjo Orava olivat läsnä asian käsittelyn aikana esittelemässä katsauksen ja vastaamassa hallituksen kysymyksiin.\n\nKokous keskeytettiin lyhyttä taukoa varten klo 10.52-11.00.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Svartsjö Sofia\n\nOrava Marjo\n\nNåls Carina\n\nLisätietoja: puhelinnumero: (vaihde)\n\nProfessiojohtajat (johtajaylilääkäri, johtajaylihoitaja, sosiaalijohtaja, hallintojohtaja ja pelastusjohtaja) muodostavat yhdessä sektorijohtajien kanssa hyvinvointialueen järjestämisjohdon ja vastaavat siitä, että organisaatio täyttää lakisääteiset ja strategiset tehtävänsä erityisesti henkilöstöresurssien, osaamisen, laadun, asiakas- ja potilasturvallisuuden sekä palvelujen vaikuttavuuden osalta. Rooliin kuuluu koordinoida ja jakaa henkilöstöresursseja, ohjata osaamisen ja työnjaon kehittämistä sekä valvoa, että toimintaa harjoitetaan lainsäädännön, strategisten tavoitteiden ja väestön tarpeiden mukaisesti.\n\nKokonaistilannekuva osoittaa, että sosiaali- ja terveydenhuoltohenkilöstön saatavuus on vakiintunut aikaisempaan verrattuna, mutta useissa keskeisissä ammattiryhmissä on edelleenkin rakenteellista pulaa. Samanaikaisesti organisaatio on edelleen jossain määrin riippuvainen ostetuista henkilöstöresursseista. Myönteinen kehitys johtuu rekrytointiin, työnantajamaineeseen sekä palvelurakenteen ja resurssien käytön muutoksiin liittyvästä määrätietoisesta työstä. Järjestäjänäkökulmasta henkilöstöresurssien hallinta on edelleen kriittinen tekijä yhdenvertaisten, saavutettavien ja lakisääteisten palvelujen varmistamisessa. Rekrytointeja koskeva harkintamenettely ja henkilöstöresurssien aktiivinen priorisointi mahdollistavat tarkoituksenmukaisemman kohdentamisen, mutta asettavat samalla lisää vaatimuksia selkeälle ohjaukselle, läpinäkyvyydelle ja pitkäjänteiselle suunnittelulle jatkuvuuden ja luottamuksen ylläpitämiseksi organisaatiossa.\n\nProfessiojohtajat keskittyvät vahvistamaan rakenteita, jotka mahdollistavat kestävän osaamisen ja resurssien saatavuuden. Keskeisiä kehittämisalueita ovat pitkäjänteisen henkilöstösuunnittelun järjestelmällisten työkalujen käyttöönotto, ammattiryhmien välisen työnjaon kehittäminen sekä riippuvuuden vähentäminen ulkoisista henkilöstöresursseista. Tähän sisältyy myös turvallisen henkilöstömitoituksen varmistaminen lain vaatimusten ja laatutavoitteiden mukaisesti sekä osaamisen ja urapolkujen rakenteiden kehittäminen. Samanaikaisesti tehdään järjestelmällistä työtä kestävää professiojohtoa tukevien rakenteiden kehittämiseksi, mukaan lukien selkeä johtamisrakenne, tarkoituksenmukaisen johtamiskelpoisuuden varmistaminen sekä lähijohdon tuen vahvistaminen. Erityinen painopiste on valmentavan ja vaikuttavan johtamisen kehittämisessä sekä sen varmistamisessa, että eri tasojen johtamistoiminnoilla on riittävät edellytykset kantaa vastuuta laadusta, turvallisuudesta ja henkilöstön hyvinvoinnista.\n\nToimintaympäristössä, jota leimaa digitalisaation ja tekoälyn nopea kehitys sekä palvelujen vaikuttavuuden korostuminen, painottuu erityisesti strategisen osaamisen kehittämisen tarve. Tähän sisältyy sen varmistaminen, että henkilöstön osaaminen kehittyy lainsäädännön muuttuvien vaatimusten, kansallisen ohjauksen ja palvelujärjestelmän muutosten mukaisesti ja että osaamisen varmistaminen tukee hyvinvointialueen strategian ja henkilöstöohjelman toteuttamista. Erityisenä painopistealueena on varmistaa, että laatu, asiakas- ja potilasturvallisuus ja palvelujen vaikuttavuus säilyvät tilanteessa, jossa meneillään on samanaikaisesti sekä rakenteellisia muutoksia että taloudellisia sopeuttamisvaatimuksia. Tämä edellyttää johtamisrakenteiden kehittämisen jatkamista, lähijohdon tukemista sekä osaamis-, laatu- ja turvallisuusasioiden hallinnan vahvistamista koko organisaatiossa.\n\nKokoavasti voidaan todeta, että kehityssuunta on myönteinen, mutta professiojohtajat arvioivat, että strategian tavoitteiden saavuttaminen edellyttää jatkuvaa järjestelmällistä työtä järjestämisjohdon ydinalueilla eli resurssienhallinnassa, osaamisen varmistamisessa, johtamisrakenteessa sekä laadussa ja vaikuttavuudessa, tiiviissä yhteistyössä palvelutuotannon kanssa ja hyvinvointialueen strategian mukaisesti.\n\nHyvinvointialuejohtaja Kinnunen Marina\n\nehdottaa, että aluehallitus merkitsee katsauksen tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hallitus merkitsi katsauksen tiedoksi.\n\nMerkittiin pöytäkirjaan, että johtajaylilääkäri Sofia Svartsjö, sosiaalijohtaja Carina Nåls ja johtajaylihoitaja Marjo Orava olivat läsnä asian käsittelyn aikana esittelemässä katsauksen ja vastaamassa hallituksen kysymyksiin.\n\nKokous keskeytettiin lyhyttä taukoa varten klo 10.52-11.00."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nProfessionernas översikt - Professioiden tilannekuva 1.6.2026\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Professionernas översikt - Professioiden tilannekuva 1.6.2026",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-4-98977.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "126",
+   "title": "Ympäristöraportti 2025",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026743-5",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-5.PDF",
+   "diary_number": "ÖVPH/3177/00.01.01/2026",
+   "preparer": "Ulf Stenbacka; Lisätietoja: puhelinnumero:; Ympäristöraportti vuodelta 2025 antaa kokonaiskuvan hyvinvointialueen toiminnan ympäristövaikutuksista keskittyen energiankulutukseen, vedenkäyttöön, jätemääriin sekä resurssien käyttöön. Raportti osoittaa, että tiedon saatavuus on edelleen osittain rajall",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Ulf Stenbacka\n\nLisätietoja: puhelinnumero:\n\nYmpäristöraportti vuodelta 2025 antaa kokonaiskuvan hyvinvointialueen toiminnan ympäristövaikutuksista keskittyen energiankulutukseen, vedenkäyttöön, jätemääriin sekä resurssien käyttöön. Raportti osoittaa, että tiedon saatavuus on edelleen osittain rajallista, erityisesti vuokratilojen osalta.\n\nEsitetyt tiedot osoittavat useita myönteisiä kehityssuuntia. Lämmitysenergian kulutus on vähentynyt edellisvuosiin verrattuna ja Vaasan keskussairaalan vedenkulutus on laskenut noin 12 %. Myös kopiopaperin käyttö jatkaa laskuaan, mikä tukee tavoitetta siirtyä kohti digitaalisempaa ja resurssitehokkaampaa työympäristöä.\n\nFossiilisten polttoaineiden käyttö, erityisesti lämmityksessä ja ajoneuvokalustossa, on edelleen merkittävää, vaikka pitkän aikavälin tavoitteena on vähentää niiden käyttöä.\n\nHyvinvointialue panostaa aktiivisesti ympäristöosaamisen vahvistamiseen organisaatiossa muun muassa osallistumalla EU-rahoitteiseen kestävän kehityksen hankkeeseen. Tätä pidetään tärkeänä perustana toiminnan ympäristövaikutusten vähentämiselle pitkällä aikavälillä.\n\nYhteenvetona voidaan todeta, että hyvinvointialue on edennyt oikeaan suuntaan useilla osa-alueilla, mutta työ vaatii edelleen systemaattista kehittämistä erityisesti tiedon laadun, jätehuollon sekä fossiilisista energialähteistä irtautumisen osalta.\n\nHyvinvointialuejohtaja Kinnunen Marina\n\nehdottaa, että aluehallitus merkitsee ympäristöraportin 2025 tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nYmpäristöraportti 2025\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Ympäristöraportti 2025",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-5-98305.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "127",
+   "title": "Investointimäärärahojen uudelleenjärjestely kardiologian hankintoja varten",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026743-6",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-6.PDF",
+   "diary_number": "ÖVPH/3226/02.02.02/2026",
+   "preparer": "Nystrand Lena; Lisätietoja: puhelinnumero:; Kardiologiasta on tullut kaksi kiireellistä hankinta-asiaa. Myönnetty 150.000 €:n ultraäänilaitehankinta (hanke 907169 yksikössä 260232) halutaan vaihtaa seuraavaan:; -; telemetria- ja kardioskooppilaitteiston päivitys sydänosastolla (260211), 94.500 €; -;",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Nystrand Lena\n\nLisätietoja: puhelinnumero:\n\nKardiologiasta on tullut kaksi kiireellistä hankinta-asiaa. Myönnetty 150.000 €:n ultraäänilaitehankinta (hanke 907169 yksikössä 260232) halutaan vaihtaa seuraavaan:\n\n-\ntelemetria- ja kardioskooppilaitteiston päivitys sydänosastolla (260211), 94.500 €\n\n-\nsydänultraäänilaite sydänasemalle (260201), 27.155 €\n\nMolemmat hankinnat ovat kiireellisiä, koska sydänultraäänilaite on rikkoutunut yllättäen, ja koska muukin kardiologinen laitteisto on tullut käyttöikänsä päähän ja uusi laitteisto on tarpeellinen potilasturvallisuuden näkökulmasta.\n\nEhdotetaan investointimäärärahojen uudelleenjärjestelyä kardiologian investoinnin toteuttamiseksi.\n\nHyvinvointialuejohtaja Kinnunen Marina\n\nehdottaa, että hallitus hyväksyy investointimäärärahojen uudelleenjärjestelyn siten, että investointi kardiologian laitteistoon voidaan toteuttaa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Jakelu"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "128",
+   "title": "Riskikooste kevät 2026",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026743-7",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-7.PDF",
+   "diary_number": "ÖVPH/3149/00.03.02/2026",
+   "preparer": "Mari Plukka; Lisätietoja: puhelinnumero:; Kevään 2026 riskikooste pohjautuu Miten Pohjanmaa voi raporttiin, ja siinä on huomioitu myös toimintaympäristöanalyysi sekä megatrendit. Riskikuvan muodostamisessa on huomioitu ne riskit, jotka ovat tällä hetkellä tunnistettuja, mutta on myös arvioitu niitä ",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.\n\nMerkittiin pöytäkirjaan, että laatujohtaja Mari Plukka oli läsnä asian käsittelyn aikana esittelemässä koosteen ja vastaamassa hallituksen kysymyksiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Mari Plukka\n\nLisätietoja: puhelinnumero:\n\nKevään 2026 riskikooste pohjautuu Miten Pohjanmaa voi raporttiin, ja siinä on huomioitu myös toimintaympäristöanalyysi sekä megatrendit. Riskikuvan muodostamisessa on huomioitu ne riskit, jotka ovat tällä hetkellä tunnistettuja, mutta on myös arvioitu niitä riskejä, jotka liittyvät 3-5 vuoden ajanjaksolle tulevaisuuteen. Raportissa nostetaan esiin koko Pohjanmaan alueen väestöön liittyvät riskit sekä eri sektorikohtaiset riskit. Riskienhallintakeinoja on otettu esiin palvelusstrategiassa.\n\nLisäksi raportissa on erikseen nostettu kaksi eri teemaa, joita on analysoitu tarkemmin. Iäkkäiden palveluissa on tehty aiempina vuosina useita muutoksia. Toimintaa on muutettu siten että raskaista palveluista on suunnattu kohti kevyempiä palveluita. Näiden muutosten osalta on tehty erillinen analyysi, millaisia vaikutuksia muutoksilla on iäkkäiden palveluihin. Lisäksi on tunnistettu, että suunnitella olevat sosiaaliturvan leikkaukset tulevat vaikuttamaan tulevaisuudessa yhä enemmän sosiaalihuollon palveluita käyttäviin henkilöihin. Tästä näkökulmasta on tehty myös erillinen tarkastelu.\n\nRiskikoosteen perusteella voidaan todeta, että useilla tunnistetuilla riskeillä on kumuloituva vaikutus. jolloin yhden riskin realisoituminen lisää muidenkin riskein todennäköisyyttä. Toiminnan muutosten osalta on tunnistettuihin riskeihin tehty riskienhallinnan toimenpiteitä. mutta muutosten pitkän aikavälin arviointia tulee jatkaa. Riskien kehittymiseen vaikuttaa merkittävästi toimintaympäristön muutokset, jotka saattavat viedä riskiä sekä positiiviseen että negatiivisempaan suuntaan.\n\nHyvinvointialuejohtaja Kinnunen Marina\n\nehdottaa, että aluehallitus merkitsee riskikoosteen tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin.\n\nMerkittiin pöytäkirjaan, että laatujohtaja Mari Plukka oli läsnä asian käsittelyn aikana esittelemässä koosteen ja vastaamassa hallituksen kysymyksiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nRisksammandrag, våren 2026 - Riskikooste, kevät 2026\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Risksammandrag, våren 2026 - Riskikooste, kevät 2026",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-7-97581.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "129",
+   "title": "Hyvinvointialueen palvelustrategian sekä hyvinvointisuunnitelman toimenpiteiden päivittäminen",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026743-8",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-8.PDF",
+   "diary_number": "ÖVPH/6524/00.01.02.00/2025",
+   "preparer": "Sjöström Pia-Maria; Penttinen Erkki; Kotanne Heidi; Lisätietoja: puhelinnumero: (vaihde); Hyvinvointialueen on laadittava taloutensa ja toimintansa suunnittelua ja johtamista varten sosiaali- ja terveydenhuollon palvelustrategia osana hyvinvointialuestrategiaa. Palvelustrategiassa hyvinvointialue pä",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nPenttinen Erkki\n\nKotanne Heidi\n\nLisätietoja: puhelinnumero: (vaihde)\n\nHyvinvointialueen on laadittava taloutensa ja toimintansa suunnittelua ja johtamista varten sosiaali- ja terveydenhuollon palvelustrategia osana hyvinvointialuestrategiaa. Palvelustrategiassa hyvinvointialue päättää järjestämisvastuulleen kuuluvan sosiaali- ja terveydenhuollon pitkän aikavälin tavoitteet ja asettaa tavoitteet sille, miten sosiaali- ja terveydenhuollon palvelut toteutetaan ottaen huomioon hyvinvointialueen asukkaiden tarpeet, paikalliset olosuhteet, palvelujen saatavuus ja saavutettavuus sekä kustannusvaikuttavuus. Palvelustrategian tavoitteet ja toimenpiteet perustuvat Miten Pohjanmaa voi???raporttiin, hyvinvointialueen alueelliseen hyvinvointikertomukseen, joka päivitetään vuosittain.\n\nHyvinvointialue on lain mukaan velvollinen laatimaan erilaisia ehkäisevän työn suunnitelmia. Alueellinen hyvinvointisuunnitelma (laki hyvinvointialueesta 611/2021, 29 §) on tärkeä osa palvelustrategiaa. Suunnitelma puolestaan sisältää alueellisen lasten ja nuorten hyvinvointisuunnitelman (lastensuojelulaki 610/2022, 12 §), alueellisen neuvolasuunnitelman (terveydenhuoltolaki 1326/2010,15 §), alueellisen opiskeluhuoltosuunnitelman (oppilas- ja opiskelijahuoltolaki 1287/2013, 13a §) ja alueellisen suunnitelman ikääntyneen väestön tukemiseksi (laki ikääntyneen väestön toimintakyvyn tukemisesta sekä iäkkäiden sosiaali- ja terveyspalveluista 980 / 2012, 5 §).\n\nValtuusto hyväksyi hyvinvointialueen palvelustrategian kokouksessaan 1.12.2025 (§76). Keväällä 2026 palvelustrategiaa on täsmennetty ja päivitetty Miten Pohjanmaa voi? raportin pohjalta.\n\nHallintosäännön 25 §:n mukaan hyvinvoinnin ja terveyden edistämisen sekä yhdyspintojen jaosto vastaa alueellisen hyvinvointisuunnitelman laadinnasta, ja jaosto on hyväksynyt suunnitelman omalta osaltaan 20.5.2026. Hyvinvointialueen vaikuttamistoimielimet ja kansalliskielilautakunta ovat käsitelleet palvelustrategiaa päivitysten osalta kokouksissaan.\n\nHyvinvointialuejohtaja Kinnunen Marina\n\nehdottaa\n\nettä hallitus hyväksyy päivitetyn palvelustrategian ja että hallitus hyväksyy palvelustrategian tavoitteet ja toimenpiteet toiminnan kehittämiseksi kaudelle 2026-2029 liitteen sivujen 40, 104-109, 116-135, 144-147 mukaisesti ja vie asian edelleen valtuustoon\n\nettä hallitus päättää, että viranhaltijat voivat tehdä teknisiä korjauksia liitteenä olevaan palvelustrategiaan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nPalvelustrategia 2026-2029 päivitykset näkyvissä 2026\n\nLiite 2\n\nPalvelustrategia 2026-2029 päivitys 2026 päätösversio\n\nLiite 3\n\nHYTE-jaosto Pöytäkirjanote §33\n\nLiite 4\n\nKansalliskielilautakunta Pöytäkirjanote §12\n\nLiite 5\n\nNuorisovaltuusto Pöytäkirjanote §16\n\nLiite 6\n\nVanhusneuvosto Pöytäkirjanote §20\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Palvelustrategia 2026-2029 päivitykset näkyvissä 2026",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-8-98364.PDF"
+    },
+    {
+     "title": "Palvelustrategia 2026-2029 päivitys 2026 päätösversio",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-8-98366.PDF"
+    },
+    {
+     "title": "HYTE-jaosto Pöytäkirjanote §33",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-8-98501.PDF"
+    },
+    {
+     "title": "Kansalliskielilautakunta Pöytäkirjanote §12",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-8-98444.PDF"
+    },
+    {
+     "title": "Nuorisovaltuusto Pöytäkirjanote §16",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-8-98425.PDF"
+    },
+    {
+     "title": "Vanhusneuvosto Pöytäkirjanote §20",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-8-98439.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "130",
+   "title": "Pohjanmaan kuntien ja hyvinvointialueen alueellinen ehkäisevän päihdetyön ja lähisuhdeväkivallan ehkäisyn toimintasuunnitelma 2026-2029",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026743-9",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-9.PDF",
+   "diary_number": "ÖVPH/997/00.02.04.00/2026",
+   "preparer": "Kotanen Heidi; Lisätietoja: puhelinnumero:; Lain mukaan kunnat ja hyvinvointialueet vastaavat yhdessä päihdehaittojen ja lähisuhdeväkivallan ehkäisystä. Näillä ongelmilla on merkittäviä vaikutuksia yksilöiden terveyteen ja turvallisuuteen sekä yhteiskunnan toimintaan, talouteen ja palvelutarpeisiin.",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvoinnin ja terveyden edistämisen sekä yhdyspintojen jaosto 20.05.2026 § 27"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Kotanen Heidi\n\nLisätietoja: puhelinnumero:\n\nLain mukaan kunnat ja hyvinvointialueet vastaavat yhdessä päihdehaittojen ja lähisuhdeväkivallan ehkäisystä. Näillä ongelmilla on merkittäviä vaikutuksia yksilöiden terveyteen ja turvallisuuteen sekä yhteiskunnan toimintaan, talouteen ja palvelutarpeisiin.\n\nAlueellinen toimintasuunnitelma on laadittu Pohjanmaan kuntien ja Pohjanmaan hyvinvointialueen sekä yhdistysten välisenä yhteistyönä. Suunnitelma antaa ehkäisevälle työlle yhteisen suunnan ja luo edellytykset yhtenäisemmälle, koordinoidulle ja pitkäjänteiselle työskentelytavalle alueella. Toimintasuunnitelma pohjautuu kansallisiin linjauksiin ja lainsäädäntöön sekä alueellisiin tilannekuviin.\n\nSuunnitelma perustuu kokonaisvaltaiseen näkökulmaan, jossa huomioidaan päihteiden käytön, mielenterveysongelmien, rahapelaamisen ja lähisuhdeväkivallan väliset yhteydet. Se käsittää kaikki ikäryhmät ja selventää vastuita ja rakenteita sekä kauden 2026-2029 yhteisiä tavoitteita ja toimenpiteitä. Yhteisiin tavoitteisiin liittyvä konkreettinen työ on jo aloitettu toimintasuunnitelmassa kuvattujen alueellisten ja paikallisten verkostojen kautta PAKKA-toimintaa lukuun ottamatta. Tämä edistää suunnitelman varhaista toimeenpanoa käytäntöön.\n\nSeurantaa tehdään hyvinvointisuunnitelman säännöllisen raportoinnin puitteissa ja suunnitelma päivitetään joka neljäs vuosi. Toimintasuunnitelma on ollut lausuntokierroksella kunnissa, asianomaisissa neuvostoissa sekä hyvinvointialueella, ja sitä on tarkistettu saatujen näkemysten perusteella.\n\nArvio\n\nAlueellinen toimintasuunnitelma vahvistaa ehkäisevän työn laatua, koordinointia ja pitkäjänteisyyttä Pohjanmaalla. Yhteisten tavoitteiden, vakiintuneiden rakenteiden ja aloitetun verkostoitumisen kautta suunnitelma edistää vaikuttavampia ja resurssitehokkaampia toimenpiteitä, jotka hyödyttävät asukkaita, kuntia ja hyvinvointialuetta. Toimintamalli tukee myös Neljän tuulen mallin toteuttamista, joka on yksi hyvinvointialueen palvelustrategian tavoitteista.\n\nSektorijohtaja lapset, nuoret ja perheet Sjöström Pia-Maria\n\nehdottaa, että Hyte-jaosto päättää hyväksyä Pohjanmaan kuntien ja hyvinvointialueen alueellisen ehkäisevän päihdetyön ja lähisuhdeväkivallan ehkäisyn toimintasuunnitelman 2026-2029 ja sen toteuttaminen osana alueellista hyvinvoinitisuunnitelmaa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Projektipäällikkö Nina Herrgård esitteli suunnitelman jaostolle.\n\nJaosto hyväksyi osaltaan suunnitelman."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Jakelu"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Kotanen Heidi\n\nLisätietoja: puhelinnumero:\n\nHyvinvointialuejohtaja Kinnunen Marina\n\nesittää, että hallitus hyväksyy Pohjanmaan kuntien ja hyvinvointialueen alueellisen ehkäisevän päihdetyön ja lähisuhdeväkivallan toimintasuunnitelman 2026-2029 ja sen toteuttamisen osana alueellista hyvinvointisuunnitelmaa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nAlueellisen ehkäisevän työn toimintasuunnitelma 2026-2029 (1.5.26)\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Alueellisen ehkäisevän työn toimintasuunnitelma 2026-2029 (1.5.26)",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-9-96080.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "131",
+   "title": "Pohjanmaan hyvinvointialueen, alueen kuntien ja Pohjanmaan liiton strateginen yhteistyösopimus",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026743-10",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-10.PDF",
+   "diary_number": "ÖVPH/195/00.04/2026",
+   "preparer": "Sjöström Pia-Maria; Kotanen Heidi; Lisätietoja: puhelinnumero: (vaihde); Laissa sosiaali- ja terveydenhuollon järjestämisestä (612/2021) on määritelty hyvinvoinnin ja terveyden edistämisen tehtävät kunnassa ja hyvinvointialueella (5 ja 6 §). Kunnan ja hyvinvointialueen on seurattava asukkaittensa el",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvoinnin ja terveyden edistämisen sekä yhdyspintojen jaosto 20.05.2026 § 31"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nKotanen Heidi\n\nLisätietoja: puhelinnumero: (vaihde)\n\nLaissa sosiaali- ja terveydenhuollon järjestämisestä (612/2021) on määritelty hyvinvoinnin ja terveyden edistämisen tehtävät kunnassa ja hyvinvointialueella (5 ja 6 §). Kunnan ja hyvinvointialueen on seurattava asukkaittensa elinoloja, hyvinvointia ja terveyttä sekä niihin vaikuttavia tekijöitä alueittain ja väestöryhmittäin.\n\nKuntien ja hyvinvointialueiden yhteistyön rakenteet ja toimintamallit määriteltävä ja sovittava yhdessä. Sopimuksessa on mukana myös Pohjanmaan liitto. Lainsäädäntö määrittää kuntien ja hyvinvointilaueen tehtävät ja ohjaa yhteistyön toteuttamista. Lainsäädäntö jättää väljyyttä sopia yhteistyötavat ja -rakenteet kunkin alueen tarpeet ja erityispiirteet huomioon ottaen.\n\nLainsäädännössä määritellään yhteistyöhön sisältyväksi hyvinvointialueen ja kuntien väliset, vähintään valtuustokausittaiset yhteistyöneuvottelut sekä vähintään vuosittain toteutettavat hyvinvoinnin ja terveyden edistämisen neuvottelut.\n\nKuntien asukkaiden näkökulmasta kuntien ja hyvinvointialueiden yhteisteistyössä on monia yhteistyötä edellyttäviä toimintoja: hyvinvoinnin ja terveyden edistäminen, lasten, nuorten ja perheiden tukeminen, työllisyyden hoito, maahanmuutto ja kotoutumisen edistäminen, turvallisuus ja häiriötilanteisiin varautuminen sekä yhteistyö kolmannen sektorin ja yritysten ja yksityisten palveluntuottajien kanssa.\n\nKunnilta on pyydetty lausunnot sopimuksen valmistelua varten kevään aikana. Yhteenveto kuntien antamista lausunnoista liitteenä. Osa kunista on toivonut yksityiskohtaisempaa tehtäövälistausta, osalle riittä sopimusuonnosessa olevat muotoilut. Kunnista ja Pohjanmaan liitosta saatujen kommenttien perusteella tehdyt lisäykset on merkitty sopimusluonnokseen punaisella värillä.\n\nSektorijohtaja lapset, nuoret ja perheet Sjöström Pia-Maria\n\nehdottaa, että jaosto hyväksyy osaltaan sopimusluonnoksen ja esittää sen hyväksymistä hyvinvointialueen hallitukselle ja edelleen vatuustolle."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Jaosto hyväksyi ehdotuksen."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nKotanen Heidi\n\nLisätietoja: puhelinnumero: (vaihde)\n\nHyvinvointialuejohtaja Kinnunen Marina\n\nehdottaa, että hallitus hyväksyy sopimuksen ja esittää sopimuksen hyväksymistä hyvinvointialueen valtuustolle."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nKuntasopimus, FINAL 10.4.2026 (puhdas)\n\nLiite 2\n\nKuntasopimus, ehdotus lopulliseksi sopimukseksi, 10.4.2026 (muutoksilla)\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Kuntasopimus, ehdotus lopulliseksi sopimukseksi, 10.4.2026 (muutoksilla)",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-10-95458.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "132",
+   "title": "Pohjanmaan hyvinvointialueen hyvinvointisuunnitelman 2023-2025 toteutumisen arviointi",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026743-11",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-11.PDF",
+   "diary_number": "ÖVPH/5063/00.01.03.01/2024",
+   "preparer": "Sjöström Pia-Maria; Lisätietoja: puhelinnumero:; Hyvinvointialueiden toimet terveyden ja hyvinvoinnin edistämiseksi määritellään ensisijaisesti sosiaali- ja terveydenhuollon järjestämisestä annetun lain 612/2021, 7 §:ssä, jossa määritetään hyvinvointisuunnitelma asiakirjaksi, jossa hyvinvointialueet",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvoinnin ja terveyden edistämisen sekä yhdyspintojen jaosto 20.05.2026 § 32"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nHyvinvointialueiden toimet terveyden ja hyvinvoinnin edistämiseksi määritellään ensisijaisesti sosiaali- ja terveydenhuollon järjestämisestä annetun lain 612/2021, 7 §:ssä, jossa määritetään hyvinvointisuunnitelma asiakirjaksi, jossa hyvinvointialueet määrittelevät tavoitteet ja toimenpiteet asukkaiden hyvinvoinnin edistämiseksi ja erojen kaventamiseksi.\n\nHyvinvointisuunnitelma perustuu laajaan hyvinvointikertomukseen ja on osa strategista johtamista. Suunnitelma kattaa koko väestön. Hyvinvoinnin ja terveyden edistäminen pohjautuu vahvasti hyvinvointialueiden, kuntien ja sekä muiden toimijoiden kanssa tekemään yhteistyöhön.\n\nPohjanmaan hyvinvointisuunnitelman 2023-2025 tavoitteiden ja toimenpiteiden toteutuminen asukkaiden hyvinvoinnin edistämiseksi on arvioitu oheisessa liitteessä.\n\nSektorijohtaja lapset, nuoret ja perheet Sjöström Pia-Maria\n\nehdottaa, että hyvinvoinnin ja terveyden edistämisen sekä yhdyspintojen jaosto merkitsee suunnitelman keskustelun jälkeen tiedoksi, sekä että se toimitetaan tiedoksi aluehallitukselle ja aluevaltuustolle.."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Jaosto kävi keskustelun raportista ja merkitsi sen tiedoksi."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nHyvinvointialuejohtaja Kinnunen Marina\n\nehdottaa, että aluehallitus merkitsee suunnitelman tiedoksi ja lähettää sen edelleen tiedoksi aluevaltuustolle."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nHyvinvointiraportti-Tavoitteet ja tulokset 2023-2025\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Hyvinvointiraportti-Tavoitteet ja tulokset 2023-2025",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-11-96027.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "133",
+   "title": "Selonteko tehdyistä aloitteista, jotka kuuluvat valtuuston toimivaltaan",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026743-12",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-12.PDF",
+   "diary_number": "ÖVPH/2506/00.02.00/2026",
+   "preparer": "Jakobsson-Pada Linda; Lisätietoja: puhelinnumero:; Valtuustoryhmillä ja valtuutetuilla on oikeus tehdä aluevaltuuston kokouksissa kirjallisia aloitteita hyvinvointialueen toimintaa ja hallintoa koskevista asioista.; Hallintosäännön 142 §:n mukaan aluehallituksen on vuosittain kesäkuun loppuun mennes",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Jakobsson-Pada Linda\n\nLisätietoja: puhelinnumero:\n\nValtuustoryhmillä ja valtuutetuilla on oikeus tehdä aluevaltuuston kokouksissa kirjallisia aloitteita hyvinvointialueen toimintaa ja hallintoa koskevista asioista.\n\nHallintosäännön 142 §:n mukaan aluehallituksen on vuosittain kesäkuun loppuun mennessä esitettävä aluevaltuustolle luettelo valtuutettujen tekemistä ja aluehallitukselle lähetetyistä aloitteista, joita aluevaltuusto ei edellisen vuoden loppuun mennessä ole lopullisesti käsitellyt. Samalla on ilmoitettava, mihin toimenpiteisiin niiden johdosta on ryhdytty. Aluevaltuusto voi todeta, mitkä aloitteista on käsitelty loppuun. Oheisesta yhteenvedosta ilmenevät vuosina 2023 ja 2024 tehdyt aloitteet, joihin ei ole vielä vastattu, sekä täydellinen luettelo vuonna 2025 tehdyistä, käsitellyistä/käsittelemättömistä aloitteista.\n\nVuonna 2023 aluevaltuuston kokouksissa tehtiin 24 aloitetta, joista 23 on käsitelty. Yhtä aloitetta ei ole vielä käsitelty loppuun.\n\nVuonna 2024 aluevaltuuston kokouksissa tehtiin yhteensä 13 aloitetta. Kahta aloitetta ei ole vielä käsitelty loppuun.\n\nVuonna 2025 aluevaltuuston kokouksissa tehtiin yhteensä 27 aloitetta, joista 7 on edelliskauden valtuutettujen tekemiä ja 20 nykyisten valtuutettujen tekemiä. Näistä 27 aloitteesta 11 on käsitelty loppuun, kaksi aloitetta on käsitelty, mutta palautettu valtuustoon, yksi aloite käsitellään hallituksessa 1.6.2026 ja 13 aloitetta ei ole vielä käsitelty.\n\nHyvinvointialueesta annetun lain 30 §:n mukaan hyvinvointialueen jäsenellä on oikeus tehdä aloitteita hyvinvointialueen toimintaa koskevissa asioissa. Aloitteen tekijälle on ilmoitettava aloitteen johdosta suoritetut toimenpiteet. Palvelun käyttäjällä on lisäksi oikeus tehdä aloitteita kyseistä hyvinvointialueen palvelua koskevassa asiassa.\n\nAloitteen käsittelee se hyvinvointialueen viranomainen, jolla on toimivalta tehdä päätöksiä aloitteen tarkoittamassa asiassa. Jos toimivaltainen viranomainen on toimielin, aloitteista ja aloitteiden perusteella suoritetuista toimenpiteistä on annettava toimielimelle tieto jäljempänä määrätyllä tavalla.\n\nAluehallituksen on vuosittain kesäkuun loppuun mennessä esitettävä aluevaltuustolle luettelo sen toimivaltaan kuuluvista aloitteista ja niiden perusteella suoritetuista toimenpiteistä. Muun toimielimen kuin aluevaltuuston toimivaltaan kuuluvista aloitteista on annettava tieto toimielimelle niiden päättämällä tavalla. Toimielin voi samalla päättää, mitkä aloitteista on loppuun käsitelty. Vuonna 2025 ei ole tehty kansalaisaloitteita valtuuston toimivaltaan kuuluvista asioista.\n\nHallintojohtaja Jakobsson-Pada Linda\n\nehdottaa, että aluehallitus antaa aluevaltuustolle tiedoksi luettelon valtuutettujen aloitteista sekä kansalaisaloitteista, jotka on tehty aluevaltuuston toimivaltaan kuuluvista asioista."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nMotioner - 2025 - Aloitteet\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Motioner - 2025 - Aloitteet",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-12-98416.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "134",
+   "title": "Vastaus valtuustoaloitteeseen kokousten tulkkaamisesta hyvinvointialueen asukkaille, Harri Moisio",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026743-13",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-13.PDF",
+   "diary_number": "ÖVPH/2585/00.02.00/2025",
+   "preparer": "Jakobsson-Pada Linda; Lisätietoja: puhelinnumero:; Valtuutettu Harri Moisio on 28.4.2025 tehnyt aloitteen kokousten tulkkaamisesta hyvinvointialueen asukkaille. Aloitteen tekijä ehdottaa, että Teams-seminaareissa valtuutettujen käytössä olevaa Interprefy-tulkkaussovellusta tarjotaan myös hyvinvointi",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Jakobsson-Pada Linda\n\nLisätietoja: puhelinnumero:\n\nValtuutettu Harri Moisio on 28.4.2025 tehnyt aloitteen kokousten tulkkaamisesta hyvinvointialueen asukkaille. Aloitteen tekijä ehdottaa, että Teams-seminaareissa valtuutettujen käytössä olevaa Interprefy-tulkkaussovellusta tarjotaan myös hyvinvointialueen kokouksia seuraaville asukkaille. Valtuustoaloite on liitteenä.\n\nMainittu sovellus toimii siten, että sovelluksen omistava yritys käyttää omia tulkkejaan, jotka tulkkaavat ruotsiksi ja suomeksi suoraan sovelluksessa. Jotta sovellusta voi käyttää, se on ladattava puhelimeen, mikä on tapahtunut hyvinvointialueen kuulijoille jakaman QR-koodin kautta. Palvelun hinta on ollut noin 2 000 euroa/seminaari, koska se sisältää myös oman simultaanitulkkauksen, eikä se ole palveluvaihtoehto, jota voi käyttää muutoin kuin satunnaiseen käyttöön ja tunnetulle, rajatulle yleisölle. Palvelu edellyttää, että tulkattava kokous on Teams-kokous, joten palvelu ei toimi avoimessa Youtube-lähetyksessä.\n\nValtuuston kokouksissa järjestetään jo nykyisin simultaanitulkkaus. Kokouksessa on aina paikalla kaksi tulkkia. Simultaanitulkkien palkkiota korotetaan 20 %:lla, mikäli heidän tulkkauksensa striimataan Youtube-kanaville. Lisäkorvauksen arvioidaan olevan parisataa euroa kokousta kohden.\n\nValtuuston kokouksia voi nykyisinkin seurata, mutta silloin osallistujat puhuvat kanavalla omaa kieltään eli tulkkausta ei lähetetä kanavalle. Huhtikuun 2024 ja toukokuun 2025 välisenä aikana valtuusto on kokoontunut kuusi kertaa. Hyvinvointialueen Youtube-kanavan kautta valtuuston kokouksen suoraa lähetystä seurasi seuraava määrä katsojia:\n\n18.5.2026\n26 henkilöä seurasi suoraa lähetystä\n\n30.3.2026\n9 henkilöä seurasi suoraa lähetystä\n\n1.12.2025\n25 henkilöä seurasi suoraa lähetystä\n\n6.10.2025\n11 henkilöä seurasi suoraa lähetystä\n\n2.6.2025\n14 henkilöä seurasi suoraa lähetystä\n\n28.4.2025\n10 henkilöä seurasi suoraa lähetystä\n\nValmistelun osalta arvioidaan, että pitkällä aikavälillä mahdollinen toteuttamisvaihtoehto olisi se, että suoraan kokousjärjestelmästä voitaisiin suoratoistaa lähetykset erillisille kielikanaville suomeksi ja ruotsiksi. Tällä hetkellä kokousjärjestelmässä ei ole tätä toimintoa. Toimintoa pilotoidaan parhaillaan, mutta se ei ole vielä tuotannossa. Tämän lisätoiminnon kustannuksia ei siksi tiedetä, mutta hallinto seuraa kehitystä ja arvioi palvelun toimivuutta ja kustannustehokkuutta sitten, kun se on saatavilla.\n\nHallintojohtaja Jakobsson-Pada Linda\n\nehdottaa, että aluehallitus päättää antaa vastauksen valtuustoaloitteeseen selontekona aluevaltuustolle. Aluehallitus esittää aluevaltuustolle, että aloite on täten loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\n60. Kokousten tulkkaus hyvinvointialueen asukkaille, H Moisio\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "60. Kokousten tulkkaus hyvinvointialueen asukkaille, H Moisio",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-13-97904.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "135",
+   "title": "Aluevaltuuston päätösten 18.5.2026 täytäntöönpano ja laillisuuden valvonta",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026743-14",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-14.PDF",
+   "diary_number": "ÖVPH/3266/00.02.01/2026",
+   "preparer": "Jakobsson-Pada Linda; Lisätietoja: puhelinnumero:; Hyvinvointialueesta annetun lain 43 §:n mukaan aluehallituksen tulee vastata aluevaltuuston päätösten täytäntöönpanosta ja laillisuuden valvonnasta.; Jos aluehallitus katsoo, että aluevaltuuston päätös on syntynyt virheellisessä järjestyksessä, alue",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Jakobsson-Pada Linda\n\nLisätietoja: puhelinnumero:\n\nHyvinvointialueesta annetun lain 43 §:n mukaan aluehallituksen tulee vastata aluevaltuuston päätösten täytäntöönpanosta ja laillisuuden valvonnasta.\n\nJos aluehallitus katsoo, että aluevaltuuston päätös on syntynyt virheellisessä järjestyksessä, aluevaltuusto on ylittänyt toimivaltansa tai päätös on muuten lainvastainen, aluehallituksen on jätettävä päätös täytäntöön panematta. Asia on viipymättä saatettava aluevaltuuston uudelleen käsiteltäväksi.\n\nValtuuston 18.5.2026 pitämän kokouksen pöytäkirja on tarkastettu 21.5.2026 ja julkaistu hyvinvointialueen verkkosivustolla 22.5.2026. Aluevaltuusto on 18.5.2026 pitämässään kokouksessa päättänyt asioista, jotka käyvät ilmi liitteestä (pöytäkirja § 31-43). Aluevaltuuston päätökset noudattavat aluehallituksen ehdotuksia seuraavin kommentein ja muutoksin:\n\n§ 31 - 32 hyväksyttiin hallituksen ehdotuksen mukaisesti.\n\n§ 33 hyväksyttiin hallituksen ehdotuksen mukaisesti, lisäyksellä Lotta Alhonnoron (Vihr) ehdottama ja kannatusta saanut toimenpidealoite.\n\n§ 34 hyväksyttiin hallituksen ehdotuksen mukaisesti.\n\n§ 35 hyväksyttiin hallituksen ehdotuksen mukaisesti äänestyksen jälkeen.\n\n§ 36 - 43 hyväksyttiin hallituksen ehdotuksen mukaisesti.\n\nValtuuston kokouksessa tehtiin yksi aloite. Aloite vietiin hallitukselle jatkovalmisteltavaksi.\n\nHyvinvointialueesta annetun lain 148 §:n mukaan päätös voidaan panna täytäntöön ennen kuin se on saanut lainvoiman. Täytäntöönpanoon ei kuitenkaan saa ryhtyä, jos oikaisuvaatimus tai valitus käy täytäntöönpanon johdosta hyödyttömäksi taikka jos oikaisuvaatimuksen käsittelevä toimielin tai viranhaltija taikka valitusviranomainen kieltää täytäntöönpanon.\n\nHallintojohtaja Jakobsson-Pada Linda\n\nehdottaa aluehallituksen toteavan, että aluevaltuuston 18.5.2026 tekemät päätökset ovat syntyneet lainmukaisessa järjestyksessä, kuuluvat valtuuston toimivaltaan eivätkä ole lainvastaisia. Aluehallitus päättää täten panna päätökset täytäntöön."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nAluevaltuusto_18-5-2026_Pöytäkirja\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Aluevaltuusto_18-5-2026_Pöytäkirja",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-14-98836.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "136",
+   "title": "Valtuuston kokouksessa 18.5.2026 tehdyt aloitteet",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026743-15",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-15.PDF",
+   "diary_number": "ÖVPH/3271/00.02.01/2026",
+   "preparer": "Jakobsson-Pada Linda; Lisätietoja: puhelinnumero:; Valtuuston kokouksessa 18.5.2026 tehtiin yksi aloite.; Aloitteen allekirjoittaja, aloitteen tekopäivä, aloitteen nimi sekä aloitteen käsittelyn valmistelusta vastaavat henkilöt ovat merkitty alla olevaan taulukkoon.; SDP-valtuustoryhmä, Pohjanmaa; 1",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Jakobsson-Pada Linda\n\nLisätietoja: puhelinnumero:\n\nValtuuston kokouksessa 18.5.2026 tehtiin yksi aloite.\n\nAloitteen allekirjoittaja, aloitteen tekopäivä, aloitteen nimi sekä aloitteen käsittelyn valmistelusta vastaavat henkilöt ovat merkitty alla olevaan taulukkoon.\n\nSDP-valtuustoryhmä, Pohjanmaa\n\n18.5.2026\n\nTillgången till heldygnsomsorg för äldre och närhetsprincipen i Österbotten / Ikäihmisten ympärivuorokautisen palveluasumisen saatavuus ja lähipaikkaperiaate Pohjanmaalla\n\nsektorijohtaja; ikäihmiset\n\nHallintojohtaja Jakobsson-Pada Linda\n\nehdottaa, ettäehdottaa, että aluehallitus merkitsee aloitteen tiedoksi ja lähettää sen valmisteltavaksi yllä olevan taulukon mukaisesti."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nTillgången till heldygnsomsorg för äldre och närhetsprincip i Österbotten - Ikäihmisten ympärivuorokautisen palveluasumisen saatavuus ja lähipaikkaperiaate Pohjanmaalla\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Tillgången till heldygnsomsorg för äldre och närhetsprincip i Österbotten - Ikäihmisten ympärivuorokautisen palveluasumisen saatavuus ja lähipaikkaperiaate Pohjanmaalla",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-15-98843.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "137",
+   "title": "Aluehallituksen otto-oikeuden käyttäminen",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026743-16",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-16.PDF",
+   "diary_number": "ÖVPH/3262/00.02.01/2026",
+   "preparer": "Jakobsson-Pada Linda; Lisätietoja: puhelinnumero:; Hyvinvointialueesta annetun lain 97 §:n mukaan aluehallitus, aluehallituksen puheenjohtaja, hyvinvointialuejohtaja ja hallintosäännössä määrätty hyvinvointialueen viranhaltija voivat ottaa aluehallituksen käsiteltäväksi asian, joka on tämän lain noj",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Jakobsson-Pada Linda\n\nLisätietoja: puhelinnumero:\n\nHyvinvointialueesta annetun lain 97 §:n mukaan aluehallitus, aluehallituksen puheenjohtaja, hyvinvointialuejohtaja ja hallintosäännössä määrätty hyvinvointialueen viranhaltija voivat ottaa aluehallituksen käsiteltäväksi asian, joka on tämän lain nojalla siirretty aluehallituksen alaisen viranomaisen tai aluehallituksen jaoston toimivaltaan ja jossa asianomainen viranomainen on tehnyt päätöksen.\n\nHallintosäännön 27 §:n mukaan asian ottamisesta aluehallituksen käsiteltäväksi voi päättää myös aluehallituksen esittelijä.\n\nAluehallituksen alaisen viranomaisen ja aluehallituksen jaoston on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan. Ilmoitus on tehtävä neljän (4) päivän kuluessa viranhaltijapäätöksen tekemisestä tai pöytäkirjan tarkastamisesta.\n\nHyvinvointialueesta annetun lain 97 §:n 5 momentissa on lueteltu asiaryhmät, joihin ei voi käyttää otto-oikeutta. Ylemmän toimielimen käsiteltäväksi ei saa ottaa\n\n1) lain tai asetuksen mukaisia lupa-, ilmoitus- tai valvontamenettelyä koskevia asioita\n\n2) yksilöön kohdistuvia terveydenhuollon tai sosiaalitoimen asioita\n\n3) 54 §:ssä tarkoitetulle hyvinvointialueiden yhteiselle toimielimelle siirrettyjä asioita, jos asianomaiset hyvinvointialueet niin sopivat.\n\nEdellä mainittujen säännösten nojalla aluehallitukselle ilmoitetaan, 1.1.2023 lukien, seuraavien toimielinten ja viranhaltijoiden päätökset: Aluehallituksen jaostot, kansalliskielilautakunta, hyvinvointialuejohtaja ja johtavat viranhaltijat.\n\nAluehallitukselle toimitetaan ohessa luettelo viranhaltijapäätöksistä ja mainittujen toimielinten pöytäkirjojen otsikoista.\n\nHallintojohtaja Jakobsson-Pada Linda\n\nehdottaa aluehallituksen päättävän, että se ei käytä otto-oikeuttaan liitteissä mainittuihin päätöksiin."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nPäätösluettelo, lautakunta ja jaosto\n\nLiite 2\n\nBeslutsförteckning; tjänstemannabeslut - Päätösluettelo; viranhaltijapäätökset \n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Päätösluettelo, lautakunta ja jaosto",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-16-98805.PDF"
+    },
+    {
+     "title": "Beslutsförteckning; tjänstemannabeslut - Päätösluettelo; viranhaltijapäätökset 01062026",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-16-99048.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "138",
+   "title": "Muut mahdolliset asiat",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026743-17",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-17.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Aluehallitus merkitsi asiat tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pohjanmaan hyvinvointialueen hallintosäännön 160 §:n mukaan asiat päätetään kokouksissa viranhaltijan esittelystä. Hallintosäännön 159 §:n mukaan toimielin voi esittelijän tai jäsenen ehdotuksesta, jota on kannatettu, ottaa enemmistöpäätöksellä käsiteltäväksi asian, jota ei ole mainittu kokouskutsussa.\n\nPykälän kohdalla voidaan esimerkiksi jakaa tietoa, ilmoittaa asioista, tehdä aloitteita ja esittää kysymyksiä.\n\nAsiakirja aluehallitukselle tiedoksi:\n\nPohjanmaan hyvinvointialueen vanhusneuvoston kautta on saapunut aloite, joka koskee iäkkään väestön tukemista digitaalisten palvelujen käytössä. Hallitukselle esitetään, että se antaa strategia- ja kehitysjohtajalle tehtäväksi vastata aloitteeseen. Aloitevastaus vanhusneuvostolle annetaan myös aluehallitukselle tiedoksi.\n\nValtiovarainministeriö on varannut hyvinvointialueelle tilaisuuden kommentoida STM:n ja THL:n lausuntoja, jotka on annettu hyvinvointialueen oikaisuvaatimuksesta (aluehallitus 17.3.2026 § 58) koskien valtiovarainministeriön tekemää päätöstä hyvinvointialueiden vuoden 2026 rahoituksesta. Liitteenä lausunnot ja Pohjanmaan hyvinvointialueen kommentit lausuntoihin."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus merkitsi asiat tiedoksi."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Vanhusneuvosto Pöytäkirjanote §17 sekä aloite",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-17-98499.PDF"
+    },
+    {
+     "title": "STM:n lausunto hyvinvointialueiden vuoden 2026 rahoituspäätöksestä tekemistä oikaisuvaatmuksista (VN_37410_2025)",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-17-98930.PDF"
+    },
+    {
+     "title": "THL:n lausunto vuoden 2026 rahoituspäätöksistä tehdyistä oikaisuvaatimuksista, THL_2117_4.00.00_2026",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-17-98931.PDF"
+    },
+    {
+     "title": "Pohjanmaan hyvinvointialueen kommentit STM:n ja THL:n lausuntojen perusteella, VN-37410-2025",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-17-98932.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "139",
+   "title": "Kokouksen päättäminen",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026743-18",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026743-18.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Aluehallituksen kokous päätettiin klo 12.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen päättäminen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallituksen kokous päätettiin klo 12."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Salovaara-Kero Anne",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Borg Johanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kapténs Gun",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Stenbacka Åsa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Sjökvist Peter",
+   "role": "I varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Bystedt Rainer",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Tuomela Antti",
+   "role": "II varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Frostdahl Steven",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Ala-Heikkilä Sari",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pääjärvi-Myllyaho Riitta",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Yli-Pelkola Kim",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Caldén Anna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hjulfors-Sundqvist Maria",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Berg Kim",
+   "role": "aluevaltuuston puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "West Mia",
+   "role": "aluevaltuuston I varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Heinonen Marko",
+   "role": "aluevaltuuston II varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Hjulfors Andreas",
+   "role": "aluevaltuuston III varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Somppi Sari",
+   "role": "aluevaltuuston IV varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Rantala Mervi",
+   "role": "kansalliskielilautakunnan puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kinnunen Marina",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Sjöström Pia-Maria",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Kotanen Heidi",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Jakobsson-Pada Linda",
+   "role": "sihteeri/esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Berg Päivi",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Nystrand Lena",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Hartman Tuula",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Svartsjö Sofia",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Nåls Carina",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Orava Marjo",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Plukka Mari",
+   "role": "asiantuntija",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026743",
+  "fetched_at": "2026-10-14T17:30:09+00:00",
+  "content_hash": "a821fea5493ff363",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T17:30:09+00:00"
+ }
+}

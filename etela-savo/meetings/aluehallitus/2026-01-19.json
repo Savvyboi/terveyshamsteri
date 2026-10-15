@@ -1,0 +1,926 @@
+{
+ "id": "aluehallitus/2026-01-19",
+ "region": "etela-savo",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2026-01-19",
+ "stage": "minutes",
+ "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026348",
+ "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348.PDF",
+ "time": "09:02 - 10:43",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "1",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026348-1",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouskutsun antaa puheenjohtaja tai hänen estyneenä ollessaan varapuheenjohtaja.\n\nKokouskutsussa on ilmoitettava kokouksen aika ja paikka sekä käsiteltävät asiat. Kokouskutsu lähetetään vähintään neljä päivää ennen kokousta. Kirjallinen kutsu on toimitettu jäsenille sähköpostitse 14.1.2026.\n\nEsityslista, joka sisältää selostuksen käsiteltävistä asioista ja ehdotukset toimielimen päätöksiksi, lähetetään kokouskutsun yhteydessä, jollei erityiset syyt ole esteenä.\n\nKokouskutsu lähetetään jäsenille ja muille, joilla on läsnäolo-oikeus tai -velvollisuus toimielimen päättämällä tavalla.\n\nKokouskutsu, esityslista, liitteet ja oheismateriaali lähetetään ensisijaisesti sähköisesti. Tällöin valmistelutoimielin tai sen nimeämä viranhaltija vastaa siitä, että tähän tarvittavat tekniset laitteet, järjestelmät ja tietoliikenneyhteydet ovat käytettävissä. Salassa pidettäviä tietoja voidaan lähettää vain suojatulla yhteydellä.\n\nTodetaan läsnäolijat sähköisessä kokoushallintajärjestelmässä. Kokous on päätösvaltainen, kun vähintään seitsemän jäsentä on läsnä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokous todettiin lailliseksi ja päätösvaltaiseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "2",
+   "title": "Pöytäkirjan tarkastajien valinta",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026348-2",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Tämän kokouksen pöytäkirjantarkastajiksi valittiin Eero Aho ja Marjaana Huhtinen sekä varalle Heli Järvinen ja Maijaterttu Tiainen. Pöytäkirja tarkastetaan sähköisesti 22.1.2026 ja se on nähtävänä hyvinvointialueen yleisessä tietoverkossa seuraavana arkipäivänä.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus valitsee pöytäkirjantarkastajiksi kaksi aluehallituksen jäsentä ja varalle kaksi jäsentä aakkosjärjestyksessä.\n\nHyvinvointialuejohtajan esitys:\n\nTämän kokouksen pöytäkirjantarkastajiksi valitaan Eero Aho ja Marjaana Huhtinen sekä varalle Heli Järvinen ja Panu Peitsaro. Pöytäkirja tarkastetaan sähköisesti 22.1.2026 ja se on nähtävänä hyvinvointialueen yleisessä tietoverkossa seuraavana arkipäivänä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tämän kokouksen pöytäkirjantarkastajiksi valittiin Eero Aho ja Marjaana Huhtinen sekä varalle Heli Järvinen ja Maijaterttu Tiainen. Pöytäkirja tarkastetaan sähköisesti 22.1.2026 ja se on nähtävänä hyvinvointialueen yleisessä tietoverkossa seuraavana arkipäivänä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "3",
+   "title": "Työjärjestyksen hyväksyminen",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026348-3",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksyttiin esityslistan mukainen työjärjestys.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Työjärjestyksen hyväksyminen\n\nAsiat käsitellään esityslistan mukaisessa järjestyksessä, ellei työjärjestystä päätetä muuttaa.\n\nHyvinvointialuejohtajan esitys:\n\nHyväksytään esityslistan mukainen työjärjestys."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityslistan mukainen työjärjestys."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "4",
+   "title": "Sisäisen tarkastuksen vuosiraportti 2025",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026348-4",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348-4.PDF",
+   "diary_number": "58/00.03.02/2026",
+   "preparer": "Hallintopalvelujohtaja Antti Laurikainen puh. .; Sisäiseen tarkastuksen tehtävänä on edistää hyvinvointialueen organisaation johtamis-, hallinto-, riskienhallinta- ja valvontaprosessien kehittämistä. Aluehallituksen 12.10.2022 hyväksymän sisäisen tarkastuksen toimintaohjeen mukaan vuosisuunnitelman ",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": "Merkitään, että sisäinen tarkastaja sekä sosiaali- ja terveyspalvelujen toimialajohtajat selostivat asiaa kokouksessa.",
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Hallintopalvelujohtaja Antti Laurikainen puh. .\n\nSisäiseen tarkastuksen tehtävänä on edistää hyvinvointialueen organisaation johtamis-, hallinto-, riskienhallinta- ja valvontaprosessien kehittämistä. Aluehallituksen 12.10.2022 hyväksymän sisäisen tarkastuksen toimintaohjeen mukaan vuosisuunnitelman toteutumisesta kertova vuosiraportti annetaan kerran vuodessa tiedoksi hyvinvointialuejohtajalle, aluehallitukselle, tarkastuslautakunnalle sekä tilintarkastajalle.\n\nSisäinen tarkastaja esittelee kokouksessa sisäisen tarkastuksen vuosiraportin 2025 ja niiden pohjalta annetut sisäisen tarkastuksen toimintasuositukset. Suositusten pohjalta tehtävät toimenpidesuunnitelmat tuodaan aluehallitukselle tiedoksi 9.2.2026."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 78.1 §\n\nSisäisen tarkastuksen toimintaohje, kohta 1.6.\n\nHyvinvointialuejohtajan esitys:\n\nAluehallitus merkitsee tiedoksi sisäisen tarkastuksen vuosiraportin 2025."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Merkitään, että sisäinen tarkastaja sekä sosiaali- ja terveyspalvelujen toimialajohtajat selostivat asiaa kokouksessa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Tarkastuslautakunta, tilintarkastaja"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "5",
+   "title": "Sisäisen tarkastuksen vuosisuunnitelma 2026",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026348-5",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348-5.PDF",
+   "diary_number": "59/00.03.02/2026",
+   "preparer": "Hallintopalvelujohtaja Antti Laurikainen; Sisäiseen tarkastuksen tehtävänä on edistää hyvinvointialueen organisaation johtamis-, hallinto-, riskienhallinta- ja valvontaprosessien kehittämistä. Aluehallituksen 12.10.2022 hyväksymän sisäisen tarkastuksen toimintaohjeen mukaan sisäistä tarkastusta tote",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": "Asiasta käydyn keskustelun aikana Maijaterttu Tiainen teki Eija Silvennoisen kannattamana seuraavan muutosesityksen: ”Lisäyksenä sisäisen tarkastuksen vuosisuunnitelmaan 2026: Viitaten sisäisen valvonnan selontekoon ja riskienhallinnan raporttiin (§8) sekä Sosiaali- ja terveydenhuollon omavalvonnan vuosiraporttiin 2025 (§16), yksi sairaala- kaksi toimipistettä -periaatteeseen; palvelulautakunnan 25.11.25 talousarviolausunnon kirjaukseen sairaalapalveluiden kehittämisen tasapuolisuudesta sekä vastaavaan aluevaltuuston 8.12.25 ponsiesitykseen erikoissairaanhoidon toimipisteiden tasavertaisesta kehittämisestä ja Savonlinnan sairaalatoimintojen säilyttämisestä. Esitän, että vuoden 2026 sisäisen tarkastuksen yhdeksi tarkastuskohteeksi lisätään terveyspalvelujen toimialan sairaalapalvelujen palvelualueelle erikoissairaanhoidon yhdenvertainen toteutuminen kahden toimipisteen sairaalarakenteessa, hoidon laadun, potilas- ja asiakasturvallisuuden, valvontalain 29 § ilmoitusten, muistutusten ja kanteluiden kehitys, vakavien vaaratapahtumien juurisyyt ja näiden em. pohjalta tehdyt korjaavat toimenpiteet. Sisäisen valvonnan selonteko ja riskien hallinnan raportti osoittavat, että vaaratapahtumien kokonaismäärä on kasvanut, terveyspalveluissa vakavia vaaratapahtumia oli v. 2025 yhteensä 64 kappaletta, joihin kohdistuvia vakavan vaaratapahtuman tutkimuksia toteutettiin vain yhdeksän, lisäksi valvontailmoituksia on runsaasti ilman sisällöllistä analyysia. Omavalvonnan raportointi painottuu talouteen eikä anna kokonaiskuvaa riskeistä, ja riskien hallinnan raportissa kahden sairaalayksiön yhteistyö -riskissä toimenpiteenä on toistaiseksi huomioitu vain johtamisjärjestelmän muutokset, ei lainkaan Savonlinnan sairaalan rajujen supistusten toiminnallisia seurauksia alueen potilaille, henkilökunnalle ja esimerkiksi terveysalan harjoittelupaikkojen riittävyydelle ja miten lakisääteinen ennakkovaikutusten arviointi on huomioitu suhteessa toteutuneeseen. Erikoissairaanhoidon fyysisten palvelujen palveluverkon jo toteutuneet muutokset, pidentyneet välimatkat, ensihoidon ja taksiliikenteen riittävyys, hoitojonojen kasvu ja Mikkelin sairaalaan kertyvät ruuhkahuiput edellyttävät arviointia siitä, miten nämä kaikki yhdessä vaikuttavat hyvinvointialueen asukkaiden tasavertaiseen hoitoon pääsyyn, päivystyksellisiin ja kiireellisiin tilanteisiin sekä ihmishenkiin ja terveyteen. Aluevaltuuston ponsiesityksen ja palvelulautakunnan edellyttämä sairaalapalvelujen tasapuolinen kehittäminen asiakkaiden, potilaiden, henkilökunnan ja yhteistyötoimijoiden näkökulmasta on varmistettava sisäisen tarkastuksen keinoin.”\n\nAsiasta käydyn keskustelun jälkeen puheenjohtaja totesi, että on tehty kannatettu muutosesitys, joten asiasta on äänestettävä. Puheenjohtaja teki seuraavan äänestysesityksen: ne, jotka kannattavat pohjaesitystä äänestävät JAA ja ne, jotka kannattavat Tiaisen muutosesitystä äänestävät EI. Äänestyksessä annettiin yhteensä 13 ääntä, joista JAA ääniä oli 10 ja EI ääniä 3. Puheenjohtaja totesi, että esittelijän pohjaesitys on tullut päätökseksi.\n\nMerkitään, että sisäinen tarkastaja, hyvinvointialuejohtaja ja hallintopalvelujohtaja selostivat asiaa kokouksessa.",
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Hallintopalvelujohtaja Antti Laurikainen\n\nSisäiseen tarkastuksen tehtävänä on edistää hyvinvointialueen organisaation johtamis-, hallinto-, riskienhallinta- ja valvontaprosessien kehittämistä. Aluehallituksen 12.10.2022 hyväksymän sisäisen tarkastuksen toimintaohjeen mukaan sisäistä tarkastusta toteutetaan aluehallituksen hyväksymän vuosisuunnitelman mukaisesti. Vuosisuunnitelma viedään tiedoksi hyvinvointialuejohtajalle, tarkastuslautakunnalle ja tilintarkastajille.\n\nSisäinen tarkastaja esittelee kokouksessa sisäisen tarkastuksen vuosisuunnitelman 2026."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 78.1.§\n\nSisäisen tarkastuksen toimintaohje, kappale 1.6.\n\nHyvinvointialuejohtajan esitys:\n\nAluehallitus hyväksyy sisäisen tarkastuksen vuosisuunnitelman 2026."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Asiasta käydyn keskustelun aikana Maijaterttu Tiainen teki Eija Silvennoisen kannattamana seuraavan muutosesityksen: ”Lisäyksenä sisäisen tarkastuksen vuosisuunnitelmaan 2026: Viitaten sisäisen valvonnan selontekoon ja riskienhallinnan raporttiin (§8) sekä Sosiaali- ja terveydenhuollon omavalvonnan vuosiraporttiin 2025 (§16), yksi sairaala- kaksi toimipistettä -periaatteeseen; palvelulautakunnan 25.11.25 talousarviolausunnon kirjaukseen sairaalapalveluiden kehittämisen tasapuolisuudesta sekä vastaavaan aluevaltuuston 8.12.25 ponsiesitykseen erikoissairaanhoidon toimipisteiden tasavertaisesta kehittämisestä ja Savonlinnan sairaalatoimintojen säilyttämisestä. Esitän, että vuoden 2026 sisäisen tarkastuksen yhdeksi tarkastuskohteeksi lisätään terveyspalvelujen toimialan sairaalapalvelujen palvelualueelle erikoissairaanhoidon yhdenvertainen toteutuminen kahden toimipisteen sairaalarakenteessa, hoidon laadun, potilas- ja asiakasturvallisuuden, valvontalain 29 § ilmoitusten, muistutusten ja kanteluiden kehitys, vakavien vaaratapahtumien juurisyyt ja näiden em. pohjalta tehdyt korjaavat toimenpiteet. Sisäisen valvonnan selonteko ja riskien hallinnan raportti osoittavat, että vaaratapahtumien kokonaismäärä on kasvanut, terveyspalveluissa vakavia vaaratapahtumia oli v. 2025 yhteensä 64 kappaletta, joihin kohdistuvia vakavan vaaratapahtuman tutkimuksia toteutettiin vain yhdeksän, lisäksi valvontailmoituksia on runsaasti ilman sisällöllistä analyysia. Omavalvonnan raportointi painottuu talouteen eikä anna kokonaiskuvaa riskeistä, ja riskien hallinnan raportissa kahden sairaalayksiön yhteistyö -riskissä toimenpiteenä on toistaiseksi huomioitu vain johtamisjärjestelmän muutokset, ei lainkaan Savonlinnan sairaalan rajujen supistusten toiminnallisia seurauksia alueen potilaille, henkilökunnalle ja esimerkiksi terveysalan harjoittelupaikkojen riittävyydelle ja miten lakisääteinen ennakkovaikutusten arviointi on huomioitu suhteessa toteutuneeseen. Erikoissairaanhoidon fyysisten palvelujen palveluverkon jo toteutuneet muutokset, pidentyneet välimatkat, ensihoidon ja taksiliikenteen riittävyys, hoitojonojen kasvu ja Mikkelin sairaalaan kertyvät ruuhkahuiput edellyttävät arviointia siitä, miten nämä kaikki yhdessä vaikuttavat hyvinvointialueen asukkaiden tasavertaiseen hoitoon pääsyyn, päivystyksellisiin ja kiireellisiin tilanteisiin sekä ihmishenkiin ja terveyteen. Aluevaltuuston ponsiesityksen ja palvelulautakunnan edellyttämä sairaalapalvelujen tasapuolinen kehittäminen asiakkaiden, potilaiden, henkilökunnan ja yhteistyötoimijoiden näkökulmasta on varmistettava sisäisen tarkastuksen keinoin.”\n\nAsiasta käydyn keskustelun jälkeen puheenjohtaja totesi, että on tehty kannatettu muutosesitys, joten asiasta on äänestettävä. Puheenjohtaja teki seuraavan äänestysesityksen: ne, jotka kannattavat pohjaesitystä äänestävät JAA ja ne, jotka kannattavat Tiaisen muutosesitystä äänestävät EI. Äänestyksessä annettiin yhteensä 13 ääntä, joista JAA ääniä oli 10 ja EI ääniä 3. Puheenjohtaja totesi, että esittelijän pohjaesitys on tullut päätökseksi.\n\nMerkitään, että sisäinen tarkastaja, hyvinvointialuejohtaja ja hallintopalvelujohtaja selostivat asiaa kokouksessa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "hyvinvointialuejohtaja, tarkastuslautakunta ja tilintarkastajat"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "6",
+   "title": "Hyvinvointialuejohtajan esiin nostamat ajankohtaiset asiat ja jäsenten esittämät kysymykset",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026348-6",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348-6.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": "Merkitään, että Hannu Auvinen poistui kokouksesta tämän asian käsittelyn aikana klo 10.14–10.18.",
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvointialuejohtajan tilannekatsaus ajankohtaisiin asioihin. Käydään läpi ajankohtainen mediakatsaus ja asiakaspalauteraportit.\n\nHyvinvointialuejohtajan esitys:\n\nMerkitään tiedoksi hyvinvointialuejohtajan esiin nostamat ajankohtaiset asiat ja jäsenten esittämät kysymykset."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Merkitään, että Hannu Auvinen poistui kokouksesta tämän asian käsittelyn aikana klo 10.14–10.18."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "7",
+   "title": "Otto-oikeuskelpoisten päätösten käsittely",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026348-7",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348-7.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Otto-oikeuskelpoisten päätösten käsittely\n\nHyvinvointialuelain 97 §:n mukaan aluehallitus, aluehallituksen puheenjohtaja, hyvinvointialuejohtaja ja hallintosäännössä määrätty hyvinvointialueen viranhaltija voivat ottaa aluehallituksen käsiteltäväksi asian, joka on tämän lain nojalla siirretty aluehallituksen alaisen viranomaisen tai aluehallituksen jaoston toimivaltaan ja jossa asianomainen viranomainen on tehnyt päätöksen.\n\nHallintosäännön 30 §:n mukaan aluehallitus voi käyttää otto-oikeutta alaistensa viranomaisten päätöksiin lukuun ottamatta laissa määrättyjä poikkeuksia, kuten yksilöön kohdistuvia päätöksiä.\n\nPäätökset ovat nähtävillä kokouksessa.\n\nEtelä-Savon hyvinvointialueen viranhaltijapäätökset löytyvät myös osoitteesta https://etelasavonha.fi/eloisa/paatoksenteko/viranhaltijapaatokset/ ja toimielimien esityslistat ja pöytäkirjat löytyvät osoitteesta https://etelasavonha.fi/eloisa/paatoksenteko/esityslistat-ja-poytakirjat/."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Laki hyvinvointialueesta (611/2021) 97.1 §\n\nHallintosääntö § 30\n\nHyvinvointialuejohtajan esitys:\n\nAluehallitus merkitsee tiedoksi toimielimien ja viranhaltijoiden päätökset ajalta 29.12.2025-11.1.2026 ja päättää olla käyttämättä otto-oikeuttaan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "8",
+   "title": "Sisäisen valvonnan selonteko ja riskienhallinnan raportointi",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026348-8",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348-8.PDF",
+   "diary_number": "8512/00.01.02.02/2025",
+   "preparer": "hallintopalvelujohtaja Antti Laurikainen; hallinnon asiantuntija Mari Hytönen; Sisäinen valvonta ja riskienhallinta ovat osa hyvinvointialuekonsernin johtamis- ja hallintojärjestelmää sekä operatiivista johtamista. Hyvinvointialueesta annetun lain (611/2021) 22 §:n mukaan aluevaltuuston tehtävänä on",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "hallintopalvelujohtaja Antti Laurikainen\n\nhallinnon asiantuntija Mari Hytönen\n\nSisäinen valvonta ja riskienhallinta ovat osa hyvinvointialuekonsernin johtamis- ja hallintojärjestelmää sekä operatiivista johtamista. Hyvinvointialueesta annetun lain (611/2021) 22 §:n mukaan aluevaltuuston tehtävänä on hyväksyä sisäisen valvonnan ja riskienhallinnan perusteet. Aluevaltuusto on hyväksynyt sisäisen valvonnan ja riskienhallinnan perusteet 27.9.2022 § 84. Aluehallitus hyväksyy puolestaan yksityiskohtaiset sisäisen valvonnan ja riskienhallinnan ohjeet, joiden tarkoituksena on yksityiskohtaisesti kuvata ja ohjeistaa sisäisen valvonnan ja riskienhallinnan järjestämistä koko organisaatiossa. Aluehallitus on hyväksynyt sisäisen valvonnan ja riskienhallinnan ohjeen 15.12.2025 § 227.\n\nSisäisen valvonnan ja riskienhallinnan tavoitteina on mm. varmistaa hyvinvointialueen ja konsernin tehtävien häiriötön ja lainmukainen toiminta, varmistaa asetettujen tavoitteiden saavuttaminen, varmistaa toiminnan tuloksellisuus ja tehokkuus sekä hyvän hallintotavan mukaiset menettelyt sekä varmistaa omaisuuden ja voimavarojen turvaaminen. Lisäksi sisäisellä valvonnalla ja riskienhallinnalla varmistetaan taloudellisen ja toiminnallisen tiedon oikeellisuus ja riittävyys.\n\nValvonta on riittävää, kun johto on suunnitellut ja järjestänyt toiminnot tavalla, joka antaa kohtuullisen varmuuden siitä, että riskit on hallittu tarkoituksenmukaisesti ja että organisaation taloudelliset ja toiminnalliset päämäärät ja tavoitteet saavutetaan tehokkaasti ja taloudellisesti.\n\nToimialat toimittavat vuosittain raporttinsa sisäisen valvonnan ja riskienhallinnan järjestämisen arvioinnista. Aluehallituksen on annettava lisäksi selonteko konsernivalvonnan järjestämisestä, jonka laatimista varten tytäryhteisöt toimittavat raporttinsa omasta sisäisen valvonnan ja riskienhallinnan järjestämisestä tammikuun loppuun mennessä.\n\nVuonna 2025 riskienhallinnan rakennetta on kehitetty edelleen ja käyttöön tulee uusi sähköinen järjestelmä vuoden 2026 alussa. Kokousasian liitteenä on raportti koko organisaation riskeistä, toimialakohtaiset raportit sisäisen valvonnan selonteosta sekä tytäryhtiö Mikkelin Sairaalaparkki Oy:n sisäisen valvonnan selonteko sekä riskiportfolio. Lisäksi kokousasian oheismateriaalina on päätöksentekoprosessin valvontaraportti ajalta 1.7.2025-31.21.2025. Liitteitä ei julkaista verkkosivuille."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 78.1 §:n 8 kohta\n\nHyvinvointialuejohtajan esitys:\n\nAluehallitus merkitsee tiedoksi sisäisen valvonnan selonteot ja riskienhallinnan raportit."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": ""
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "9",
+   "title": "Vastaus 8.12.2025 tehtyyn aluevaltuustoaloitteeseen Omaishoidon asiakasmaksut (Eija Kaihila)",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026348-9",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348-9.PDF",
+   "diary_number": "7801/00.01.02.02/2025",
+   "preparer": "Palvelualuepäällikkö Jaana Koinsaari; Etelä-Savon hyvinvointialue kiittää tehdystä aloitteesta.; Aloitteessa tuodaan esille, että omaishoidon myöntämisen perusteet ovat viime vuosina tiukentuneet ja että jo alin palkkioluokka vaatii yönaikaista hoivaa. Lisäksi aloitteen tekijä tuo esille, että lakis",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Palvelualuepäällikkö Jaana Koinsaari\n\nEtelä-Savon hyvinvointialue kiittää tehdystä aloitteesta.\n\nAloitteessa tuodaan esille, että omaishoidon myöntämisen perusteet ovat viime vuosina tiukentuneet ja että jo alin palkkioluokka vaatii yönaikaista hoivaa. Lisäksi aloitteen tekijä tuo esille, että lakisääteiset omaishoidonvapaat voidaan toteuttaa eri tavoin ja niiden vuorokausihinta on ensi vuonna 13,70 e toteutustavasta riippumatta. Omaishoitajien jaksamisen tukemiseksi hoidettava voidaan sijoittaa pidemmäksi jaksoksi jaksohoitoon omaishoidon vapaiden lisäksi. Aloitteen tekijän mukaan tällöin syntyy tilanne, jossa esim. kolmen vuorokauden omaishoidon vapaista jaksohoidosta veloitetaan kolme kertaa vuorokausimaksu (13,70e/vrk). Esimerkkinä aloitteen tekijä tuo tilanteen, jossa jaksolle hoidettava viedään klo 13 ja haetaan klo 12.30. Mikäli omaishoidon vapaiden jatkoksi jatketaan suoraan jaksohoitoa, veloitetaan siitä ensimmäiseltä päivältä 43,00 euroa 13,70 euron lisäksi. Aloitteen tekijä viittaa asiakasmaksulakiin (Laki sosiaali- ja terveydenhuollon asiakasmaksuista 734/1992), mikä ei anna perusteita siihen, että yhdeltä päivältä perittäisiin kahta eri maksua.\n\nLisäksi aloitteen tekijä ehdottaa, että omaishoidon maksut koottaisiin selkeästi omaksi osiokseen, jotta ne olisivat helpommin asiakkaiden ymmärrettävissä.\n\nAloitteella aloitteen tekijä pyrkii edistämään omaishoitajien ja omaishoidettavien oikeudenmukaista kohtelua ja selkeyttämään asiakasmaksujen perusteita viitaten asiakasmaksulakiin (734/1992) sekä sosiaali- ja terveysministeriön ohjeistuksiin, joiden mukaan asiakasmaksujen tulee olla kohtuullisia ja yhdenvertaisia.\n\nEloisan ikääntyneiden palvelujen omaishoidosta vastaavan palvelualuepäällikön selvitys:\n\nOmaishoitajille maksettavien hoitopalkkioiden määrästä ja alimmista hoitopalkkioista säädetään omaishoidon tuesta annetun lain (937/2005) 5 §:ssä. Lain 6 §:n mukaan hoitopalkkioita tarkistetaan kalenterivuosittain työntekijän eläkelain (395/2006) 96 §:ssä tarkoitetulla palkkakertoimella.\n\nHallituksen esityksen mukaisesti omaishoidon tuesta annetun lain 5 §:n mukaan vuonna 2026 omaishoidon tuen alin palkkio on 530 euroa kuukaudessa ja hoidollisesti raskaan siirtymävaiheen aikana maksettava vähimmäismäärä olisi 966 euroa kuukaudessa 1.1.2026 alkaen.\n\nOmaishoidon tuen myöntämisen edellytykset määritellään laissa. Hoitoisuusryhmää ja hoidettavan toimintakykyä arvioitaessa otetaan huomioon hoidettavan ja hoitajan kokonaistilanne (laki omaishoidon tuesta § 3). Omaishoidon tuen myöntämisen edellytykset eivät ole tiukentuneet viimeisen kolmen vuoden aikana Eloisassa, vaan niitä on tarkennettu. Tarkennusten tavoitteena on ollut palvelutarpeen arvioinnin ja päätöksenteon laadun parantaminen. Omaishoidon tuen päätöksen tekeminen perustuu hoidettavan ja hoitajan monipuoliseen toimintakyvyn ja voimavarojen arviointiin. Arvioinnissa huomioidaan erityisesti arjessa tarvittavan avun määrä sekä hoidon sitovuus ja vaativuus. Omaishoidon tuen päätöksenteon tukena käytetään terveydentilaa ja toimintakykyä koskevia lausuntoja sekä muita selvityksiä ja harkintaa. Hoidettavan hoidon ja huolenpidon tarve arvioidaan yksilökohtaisesti kotikäynnillä. Kotikäynnillä keskustellaan sekä hoidettavan että omaishoitajuutta hakevan kanssa.\n\nIkääntyneiden omaishoidossa asiakasmäärä on pysynyt lähes samana ja peittävyyttä seurataan valtakunnan tasolla. Peittävyyttä seurattaessa seurataan omaishoidon tuen saajien määrää, mutta ei omaishoitajille myönnettyjä palveluita.\n\nVuoden 2026 Etelä-Savon hyvinvointialueen omaishoidon tuen soveltamisohjeen mukaan alin palkkioluokka ei edellytä säännöllistä yöaikaista hoivaa. Hoidon tarvetta saattaa olla, mutta tarve ei välttämättä ole säännöllistä. Palvelutarpeen arvioinnissa tilanteet katsotaan aina tapauskohtaisesti kokonaistilanne huomioiden ja harkintaa käyttäen. Ylimmässä palkkioluokassa on mahdollisuus neljään vapaaseen kuukaudessa aiemman kolmen vapaa sijaan. Näin tuetaan entistä paremmin sitovimmassa ja raskaimmissa tilanteissa olevia omaishoitajia.\n\nOmaishoidon jaksamisen tukeminen on tärkeää ja vapaiden järjestämiseksi on erilaisia vaihtoehtoja jaksohoidon lisäksi. Kiertävä perhehoito ja perhehoito ovat hyviä vaihtoehtoja niille, joille ne sopivat. Vapaiden pitäminen säännöllisesti tukee omaishoitajan jaksamista parhaiten, sen sijaan että niitä kerrytetään ja sitten kerralla pidetään enemmän. Eloisassa on myös lisätty koko Eloisan alueelle ikäihmisten jaksohoitopaikkoja palveluasumisen yhteyteen.\n\nOmaishoitajan lakisääteisen vapaan ajaksi järjestettävistä korvaavista palveluista peritään maksu asiakasmaksulain 6 b §:n säännösten mukaisesti, joiden maksut ovat maksukaton ulkopuolella. Vapaapäivien osalta ei muodostu samalle päivälle kahta eri maksua, koska maksut ovat vuorokausikohtaisia, joten Eloisa noudattaa asiakasmaksulakia.\n\nOmaishoitajan lakisääteisen vapaan aikaiset palvelut perustuvat asiakasmaksulain 6 b §:ään, jossa säädetään omahoitajan vapaan aikaisen palvelun enimmäismaksu. Jaksohoito taas kuuluu asiakasmaksulain piiriin lyhytaikaisena laitos- tai asumispalveluna, jota koskevat omat enimmäismaksut (asiakasmaksulaki 7 c §). Jaksohoidon maksut eivät ole valtakunnallisesti tasamääräisiä, vaan hyvinvointialue voi määrittää maksut, kunhan maksu ei ylitä palvelun todellisia kustannuksia (asiakasmaksulaki 2 §).\n\nOmaishoitaja voi myös pitää lakisääteisen vapaapäivän enintään neljänä alle vuorokauden pituisena jaksona siten, että jaksojen pituus yhteensä ei ylitä 24 tuntia. Vapaapäivästä, joka pidetään useammassa jaksossa, voidaan periä yksi maksu vapaata vuorokautta kohti.\n\nAsiakasmaksu peritään ensimmäisen vapaajakson alkaessa. Esimerkki: kolmen päivän omaishoidon vapaa alkaa maanantaina klo 12 ja päättyy torstaina klo 12. Mikäli omaishoitaja haluaa hoidettavan olevan hoidossa suoraan jatkoksi vielä neljännen päivän, on palvelumuotona jaksohoito, jonka vuorokausihinta vuonna 2026 on 43 euroa / vrk. Tällöin kyseessä ei ole omaishoidon vapaaseen kuuluva jaksohoito. Jaksohoidon laskutus tuollaisissa tapauksissa lähtee kertymään torstaista klo 12:sta perjantaihin klo 12:sta, jolloin tulee täyteen vuorokausi (asiakasmaksulaki 7 c §).\n\nLiite Ikääntyneiden Omaishoidon tuen soveltamisohje 2026 (maksuista selkeä taulukko)\n\n9.12.2025 on selvitetty vielä Hyvil Oy:stä ja saatu vastaus että toimimme oikein liittyen asiakasmaksuihin.\n\nAloitteessa ehdotettu omaishoidon maksujen kokoaminen selkeästi omaksi osioksi, jotta ne olisivat helpommin ymmärrettävissä, on hyvä ja se toteutetaan. Konsernipalveluissa asiakasmaksuasiakirja kootaan hallituksen ja valtuuston hyväksyttäväksi ja asiakirja on hyväksytty hallituksen kokouksessa 24.11.2025 § 211 ja valtuuston kokouksessa 8.12.2025 § 211. Seuraavaan asiakirjaan kootaan asiakasmaksut selkeämmin omaishoidon osalta. Eloisan www.sivuille voidaan avata omaishoitajien maksut esimerkein, samoin ikäpalvelun asiakkaille tarkoitettuun omaishoidon palveluoppaaseen. Lisäksi kaikilla viranhaltijoilla on neuvontavelvoite myös maksuasioissa, mikäli niissä on epäselvyytä.\n\nOmaishoitajien ja omaishoidettavien yhdenvertaisuus ja oikeudenmukainen kohtelu kaikissa tilanteissa on tärkeää ja näiden toteuttamista seurataan."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 9.2 §:n 3 kohta\n\nHyvinvointialuejohtajan esitys:\n\nAluehallitus merkitsee vastauksen tiedoksi ja lähettää sen edelleen tiedoksi aluevaltuustolle, joka toteaa asian loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": ""
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Aluevaltuustoaloite (Kaihila) Omaishoidon asiakasmaksut",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-9-148632.PDF"
+    },
+    {
+     "title": "Ikääntyneiden omaishoidon tuen soveltamisohje 2026",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-9-150722.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "10",
+   "title": "Vastaus 5.6.2025 tehtyyn aluevaltuustoaloitteeseen Juvan soteasemaa koskevat muutokset (Immonen, Huhtinen & Pirinen)",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026348-10",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348-10.PDF",
+   "diary_number": "7801/00.01.02.02/2025",
+   "preparer": "Toimialajohtaja Kimmo Kuosmanen; Aluevaltuustoaloitteena esitetään, että Etelä-Savon hyvinvointialueen valtuuston ja hallituksen sekä viranhaltijoiden päätökset lakkauttaa; Juvan soteaseman perusterveydenhuollon yleislääketieteen osasto perutaan ja toiminta jatkuisi ennallaan. Lisäksi esitetään, ett",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Toimialajohtaja Kimmo Kuosmanen\n\nAluevaltuustoaloitteena esitetään, että Etelä-Savon hyvinvointialueen valtuuston ja hallituksen sekä viranhaltijoiden päätökset lakkauttaa\n\nJuvan soteaseman perusterveydenhuollon yleislääketieteen osasto perutaan ja toiminta jatkuisi ennallaan. Lisäksi esitetään, että Juvan terveyspalveluiden tiloissa olevaa röntgenlaitteistoa ei siirrettä Juvan soteasemalta pois tai jos se on jo siirretty niin\n\nse siirrettäisiin takaisin välittömästi.\n\nEtelä-Savon hyvinvointialueen aluevaltuusto on päättänyt 11.12.2024 § 77 osana hyvinvointialueen talousarviota Juvan soteasemaa koskevista muutoksista. Päätöksentekohetkestä Juvan soteaseman toimintaympäristö ei ole muuttunut sillä tavalla, että päätöstä pitäisi arvioida uudelleen valtuustoaloitteessa esitetyllä tavalla. Mikäli toimintaympäristössä ilmenee tulevaisuudessa sellaisia olennaisia muutoksia, jotka puoltavat asian uudelleen arviointia, niin tämä uudelleen arviointi tullaan tekemään myöhemmin."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 9.2.§:n 3 kohta\n\nHyvinvointialuejohtajan esitys:\n\nAluehallitus merkitsee vastauksen tiedoksi ja lähettää sen edelleen tiedoksi aluevaltuustolle, joka toteaa asian loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": ""
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Aluevaltuustoaloite, Juvan soteasemaa koskevat muutokset - Immonen, Huhtinen, Pirinen",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-10-118014.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "11",
+   "title": "Vastaus 5.6.2025 tehtyyn aluevaltuustoaloitteeseen Hävikkiruoan hyödyntäminen ja tilastointi (Taavitsainen)",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026348-11",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348-11.PDF",
+   "diary_number": "7801/00.01.02.02/2025",
+   "preparer": "Tila- ja tukipalvelujen johtaja Veli Matti Thure; Elintarvikelaki (297/2021) ja EU:n elintarvikehygienia-asetus (852/2004/EU) velvoittavat, että ruoka-apuun luovutettavat elintarvikkeet eivät saa aiheuttaa vaaraa ihmisen terveydelle. Elintarvikkeita on käsiteltävä ja säilytettävä hygieenisesti koko ",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Tila- ja tukipalvelujen johtaja Veli Matti Thure\n\nElintarvikelaki (297/2021) ja EU:n elintarvikehygienia-asetus (852/2004/EU) velvoittavat, että ruoka-apuun luovutettavat elintarvikkeet eivät saa aiheuttaa vaaraa ihmisen terveydelle. Elintarvikkeita on käsiteltävä ja säilytettävä hygieenisesti koko ketjun ajan, esim. kylmäketjun ylläpito ja nopea luovutus ovat kriittisiä. Elintarvikealan toimijoiden on 1.1.2022 alkaen pidettävä kirjaa elintarvikejätteen määristä ja käsittelystä sekä mahdollisuuksien mukaan arvioitava jätteensä käytöstä poistetun syömäkeloisen elintarvikkeen määrä eli ruokahävikki.\n\nEloisan yksiköt / osastot tilaavat ateriat edellisenä päivänä ja aterioita valmistetaan tilausten mukaisesti, näin minimoidaan hävikin syntyminen. Mahdollisesti syntynyt ruokaylijäämä pystytään hyödyntämään omassa toiminnassa.\n\nHoitohenkilöstö vastaa potilaiden ravitsemuksesta ja tekee ateriatilaukset. Mikkelin keskussairaalan ja Savonlinnan sairaalan vuodeosastoilla ateriat toimitetaan tarjotinjakeluna. Suurin hävikki syntyy osastoille valmiina toimitettavien tarjotinjakeluaterioiden osittaisesta syömisestä, johon ei juurikaan ruokapalveluissa pystytä vaikuttamaan. Tästä syntyvää hävikkiä ei pystytä hyödyntämään. Potilaille ruokahalu voi olla vähäinen esim. erilaisten hoitojen tai lääkityksen vuoksi. Hoitohenkilöstöä ohjataan tilaamaan ruokaa oikean annoskoon mukaisesti, jotta ruokahävikkiä ei syntyisi.\n\nYlijääneen ruoan pakkaaminen, sisältömerkintöjen tekeminen ja tuotteiden käsittely sekä myyminen vaatii henkilöstöresursseja sekä jäähdytyskapasiteettia, joiden osalta on niukkuutta. Ylijäämäruoan myymistä pyritään edistämään taloudellisesti kestävästi.\n\nEloisan ruokapalvelujen hävikkikirjaus:\n\n- valmistushävikki on valmistuksesta jäänyt ruoka, joka hyödynnetään omassa toiminnassa\n\n- jakeluhävikki on linjastohävikkiä eli jakovaiheen jälkeen ylijäänyttä ruokaa, joka hyödynnetään omassa toiminnassa\n\n- lautashävikki on osastoilta palautunutta lautashävikkiä, jota ei voi hyödyntää\n\nRuokahävikkiä seurataan ja reagoidaan sen syntyyn kirjaamalla syntyneen hävikin syy ja mihin syntyvää ruokahävikkiä käytetään. Ateriatilausten tekijöille (palvelutalojen, ympärivuorokautisen asumisen palvelujen, vammaispalvelujen ja päivätoiminnan hoitajille) mahdollistetaan ruokatuotanto-ohjelmaan Matildaan hävikin kirjaaminen vuoden 2026 aikana. Matilda-ruokatuotanto-ohjelma on otettu Eloisan perustamisen yhteydessä käyttöön. Tilaavalle osapuolelle perustetaan hävikkiprojekti ja ohjeistetaan sen käytössä. Heidät velvoitetaan kirjaamaan ja seuraamaan syntynyt hävikki sekä reagoimaan hävikin vähentämiseksi.\n\nJäteasetus ei velvoita luovuttamaan käyttämättä jääneitä elintarvikkeita, jos elintarvikealan toimijan mukaan luovutus uudelleenjakeluun ei ole mahdollista kohtuullisin kustannuksin.\n\nEnsisijaisesti hävikkiä pyritään vähentämään oikeilla valmistusmäärillä ja erityisesti jaettujen aterioiden oikealla mitoituksella, joista jälkimmäinen vaatii tilaavan henkilökunnan jatkuvaa koulutusta. Lisäksi hävikkiruoan myyntiä pyritään järjestämään taloudellisten resurssien rajoissa."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 9.2.§:n 3 kohta\n\nHyvinvointialuejohtajan esitys:\n\nAluehallitus merkitsee vastauksen tiedoksi ja lähettää sen edelleen tiedoksi aluevaltuustolle, joka toteaa asian loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": ""
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Aluevaltuustoaloite, Hävikkiruoan hyödyntäminen ja tilastointi - Taavitsainen",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-11-118015.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "12",
+   "title": "Pelastus- ja turvallisuuspalveluiden omavalvonta 2026",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026348-12",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348-12.PDF",
+   "diary_number": "109/00.01.02.02/2026",
+   "preparer": "Toimialajohtaja, pelastusjohtaja Seppo Lokka; Hyvinvointialueen on pelastustoimen järjestämislain (613/2021) 16 §:n mukaan toiminnassaan varmistettava omavalvonnalla tehtäviensä lainmukainen hoitaminen. Hyvinvointialueen on varmistettava pelastustoimen palvelujen saatavuus, laatu ja vaikuttavuus. Te",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": "Merkitään, että Eero Aho ilmoitti esteellisyydestään (hyvinvointialueen työntekijä, palvelussuhdejäävi; HL 28.1 §:n 4 kohta). Ilmoitus hyväksyttiin ja Eero Aho poistui kokouksesta tämän asian käsittelyn ajaksi (klo 10.23-10.27).\n\nMerkitään myös, että pelastus- ja turvallisuuspalvelujen toimialajohtaja selosti asiaa kokouksessa.",
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Toimialajohtaja, pelastusjohtaja Seppo Lokka\n\nHyvinvointialueen on pelastustoimen järjestämislain (613/2021) 16 §:n mukaan toiminnassaan varmistettava omavalvonnalla tehtäviensä lainmukainen hoitaminen. Hyvinvointialueen on varmistettava pelastustoimen palvelujen saatavuus, laatu ja vaikuttavuus. Tehtävien ja palvelujen omavalvonta on toteutettava osana niiden järjestämistä ja tuottamista. Pelastus- ja turvallisuuspalveluiden omavalvonnassa on huomioitu integroitujen palveluiden osalta myös sosiaali- ja terveydenhuollon valvonnasta säädetyn lain (741/2023) vaatimukset esimerkiksi hyvinvointialueen turvallisuuspalveluiden osalta.\n\nHyvinvointialueen on laadittava järjestämisvastuuseensa kuuluvista pelastustoimen tehtävistä ja palveluista omavalvontaohjelma. Ohjelmassa tulee määritellä, miten pelastustoimen järjestämislain 16.1 §:ssä tarkoitettujen velvoitteiden noudattaminen kokonaisuutena järjestetään ja toteutetaan. Omavalvontaohjelmassa on todettava, miten pelastustoimen palvelujen saatavuutta ja toteutumista, laatua sekä vaikuttavuutta seurataan ja miten havaitut puutteellisuudet korjataan.\n\nOmavalvontaohjelma sekä omavalvontaohjelman toteutumisen seurantaan perustuvat havainnot ja niiden perusteella tehtävät toimenpiteet on julkaistava julkisessa tietoverkossa ja muilla niiden julkisuutta edistävillä tavoilla."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 9.2 § kohta 32.\n\nHyvinvointialuejohtajan esitys:\n\nAluehallitus hyväksyy liitteenä olevan pelastus- ja turvallisuuspalveluiden omavalvontaohjelman vuodelle 2026."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Merkitään, että Eero Aho ilmoitti esteellisyydestään (hyvinvointialueen työntekijä, palvelussuhdejäävi; HL 28.1 §:n 4 kohta). Ilmoitus hyväksyttiin ja Eero Aho poistui kokouksesta tämän asian käsittelyn ajaksi (klo 10.23-10.27).\n\nMerkitään myös, että pelastus- ja turvallisuuspalvelujen toimialajohtaja selosti asiaa kokouksessa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": ""
+    }
+   ],
+   "attachments": [
+    {
+     "title": "ESHVA_omavalvonta_pelastus_2026",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-12-150914.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "13",
+   "title": "Sosiaali- ja terveydenhuollon omavalvonnan vuosiraportti 2025",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026348-13",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348-13.PDF",
+   "diary_number": "147/00.01.02.02/2026",
+   "preparer": "Hallintopalvelujohtaja Antti Laurikainen, puh. ; valvonta-asiantuntija Johanna Salkosalo; Aluehallitus hyväksyi 21.12.2022 Etelä-Savon hyvinvointialueen omavalvontaohjelman. Etelä-Savon hyvinvointialueen hallintosäännön 78 §:n mukaan aluehallitus vastaa kokonaisvaltaisen sisäisen valvonnan ja riskie",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Hallintopalvelujohtaja Antti Laurikainen, puh. ; valvonta-asiantuntija Johanna Salkosalo\n\nAluehallitus hyväksyi 21.12.2022 Etelä-Savon hyvinvointialueen omavalvontaohjelman. Etelä-Savon hyvinvointialueen hallintosäännön 78 §:n mukaan aluehallitus vastaa kokonaisvaltaisen sisäisen valvonnan ja riskienhallinnan sekä omavalvontaohjelman ja varautumisen että hyvän hallinnon ja lainmukaisuuden valvonnan järjestämisestä ja niiden toimeenpanon ja tuloksellisuuden valvonnasta. Aluehallitus antaa vuosittaisessa raportissaan johtopäätökset ja selvityksen sosiaali- ja terveydenhuollon omavalvontaohjelman toimeenpanosta ja tuloksista sekä valmistelee omavalvontaohjelman vuosittaisen raportin."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 78.1 §:n kohta 5\n\nHyvinvointialuejohtajan esitys:\n\nAluehallitus merkitsee tiedoksi sosiaali- ja terveydenhuollon omavalvonnan vuosiraportin 2025 ja esittää sen edelleen aluevaltuustolle tiedoksi merkittäväksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Lupa- ja valvontavirasto"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Omavalvonnan vuosiraportti 2025",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-13-151127.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "14",
+   "title": "Ilmoitus SDP:n valtuustoryhmästä eroamisesta ja uuden valtuustoryhmän perustamisesta, Tikkinen Minna",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026348-14",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348-14.PDF",
+   "diary_number": "129/00.01.02.02/2026",
+   "preparer": "Juristi Tarja Poikolainen; Etelä-Savon hyvinvointialueen hallintosäännön 84 §:n mukaan valtuutetun on ilmoitettava kirjallisesti aluevaltuuston puheenjohtajalle valtuustoryhmään liittymisestä ja siitä eroamisesta.; Hallintosäännön 83.1 § mukaan valtuustoryhmän muodostamisesta, nimestä ja puheenjohta",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Juristi Tarja Poikolainen\n\nEtelä-Savon hyvinvointialueen hallintosäännön 84 §:n mukaan valtuutetun on ilmoitettava kirjallisesti aluevaltuuston puheenjohtajalle valtuustoryhmään liittymisestä ja siitä eroamisesta.\n\nHallintosäännön 83.1 § mukaan valtuustoryhmän muodostamisesta, nimestä ja puheenjohtajasta on annettava aluevaltuuston puheenjohtajalle kirjallinen ilmoitus. Valtuustoryhmänä pidetään myös yhtä valtuutettua, jos hän on tehnyt 1 momentissa tarkoitetun ilmoituksen. Aluevaltuusto hyväksyy valtuustoryhmien nimet. Nimi ei saa olla sopimaton. Puolueen valtuustoryhmästä eronneiden valtuutettujen uudelle valtuustoryhmälleen antama nimi ei saa aiheuttaa sekaantumisvaaraa.\n\nAluevaltuutettu Minna Tikkinen on ilmoittanut 12.12.2025 eronneensa 9.12.2025 SDP:n valtuustoryhmästä ja perustavansa yksin uuden valtuustoryhmän, jonka nimi on Valoisa."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 83-84 §\n\nHyvinvointialuejohtajan esitys:\n\nAluehallitus päättää esittää aluevaltuustolle, että se\n\n1. merkitsee tiedoksi Minna Tikkisen eroamisen SDP:n valtuustoryhmästä;\n\n2. merkitsee tiedoksi ilmoituksen uuden aluevaltuustoryhmän muodostamisesta, sekä;\n\n3. hyväksyy uuden aluevaltuustoryhmä Valoisan nimen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": ""
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "15",
+   "title": "Testamentti- ja lahjoitusvarojen käyttö 2025",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026348-15",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348-15.PDF",
+   "diary_number": "132/00.01.02.02/2026",
+   "preparer": "Rahoitusjohtaja Arto Jalkanen, juristi Tarja Poikolainen; Hyvinvointialueen hallintosäännön 9.2 §:n 29 kohdan mukaan aluehallitus päättää hyvinvointialueelle tulevan lahjoituksen ja testamentin vastaanottamisesta ja hakemisesta, käyttökohteesta ja realisoinnista. Aluehallitus voi siirtää toimivaltaa",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Rahoitusjohtaja Arto Jalkanen, juristi Tarja Poikolainen\n\nHyvinvointialueen hallintosäännön 9.2 §:n 29 kohdan mukaan aluehallitus päättää hyvinvointialueelle tulevan lahjoituksen ja testamentin vastaanottamisesta ja hakemisesta, käyttökohteesta ja realisoinnista. Aluehallitus voi siirtää toimivaltaansa muille toimielimille ja viranhaltijoille.\n\nAluehallitus on päättänyt 14.10.2024 § 221 siirtää toimivaltaa hyvinvointialueelle tulevan lahjoituksen ja testamentin vastaanottamisesta, käyttökohteesta ja realisoinnista toimialajohtajille. Mikäli lahjoitusta ja testamenttia ei voida kohdistaa millekään yksittäiselle toimialalle, päätösvalta on konsernipalvelujen toimialajohtajalla.\n\nKun testamentti on tehty juridisen henkilön hyväksi, testamentin saajan velvollisuus noudattaa ehtomääräyksiä määräytyy lakia ja testamenttia koskevien periaatteiden mukaan. Julkisyhteisö on siis velvollinen noudattamaan testamentin määräyksiä hoitaessaan ja käyttäessään määrätarkoitukseen saamaansa testamenttiomaisuutta.\n\nTestamenttiehtojen tulkintaa koskevien yleisten periaatteiden mukaan oikeushenkilöllä on oikeus poiketa testamentin määräyksistä ainoastaan siinä tapauksessa, että olosuhteet testamentin vastaanottamisen jälkeen ovat sillä tavoin muuttuneet, ettei tarkoitemääräyksen toteuttamiselle ole enää perusteita. Näin on esimerkiksi silloin, kun määrätarkoitukseen annetut varat eivät riitä tarkoituksen toteuttamiseen tai itse tarkoitus on yhteiskunnallisten tai vastaavien muutosten seurauksena menettänyt sisältönsä.\n\nToimivallan siirrolla ei voida poiketa edellä mainittujen periaatteiden noudattamisesta, mutta sillä muutoin nopeutetaan ja helpotetaan lahjoitus- ja testamenttimääräysten toteuttamista toimialoilla.\n\nAluehallitukselle annetaan vuosittain raportti saaduista lahjoituksista jatestamenteista sekä varojen käyttämisestä. Raportin aluehallitukselle valmistelee rahoitusjohtaja.\n\nLiitteenä raportti vuoden 2025 aikana saaduista ja käytetyistä testamentti- ja lahjoitusvaroista."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 9.2 §:n 29 kohta, aluehallitus 14.10.2024 § 221\n\nHyvinvointialuejohtajan esitys:\n\nAluehallitus merkitsee tiedoksi liitteenä olevan raportin testamentti- ja lahjoitusvarojen käytöstä 2025."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": ""
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Lahjoitusvarojen käyttö 2025",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-15-150549.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "16",
+   "title": "Ilmoittajansuojelulain 38 §:n mukainen vuoden 2025 raportti oikeuskanslerinvirastolle",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026348-16",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348-16.PDF",
+   "diary_number": "163/00.01.02.02/2026",
+   "preparer": "Hallintopalvelujohtaja Antti Laurikainen; Etelä-Savon hyvinvointialueen tulee antaa ilmoittajasuojelulain (1171/2022) 38 §:n mukainen vuotuinen raportti oikeuskanslerivirastolle. Raportointi perustuu oikeuden rikkomisesta ilmoittavien henkilöiden suojelusta annetun Euroopan parlamentin ja neuvoston ",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Hallintopalvelujohtaja Antti Laurikainen\n\nEtelä-Savon hyvinvointialueen tulee antaa ilmoittajasuojelulain (1171/2022) 38 §:n mukainen vuotuinen raportti oikeuskanslerivirastolle. Raportointi perustuu oikeuden rikkomisesta ilmoittavien henkilöiden suojelusta annetun Euroopan parlamentin ja neuvoston direktiivin (EU) 2019/1937 27 artiklaan, Euroopan unionin ja kansallisen oikeuden rikkomisesta ilmoittavien henkilöiden suojelusta annetun lain 38 §:ään sekä Euroopan komission laatimaan lomakkeeseen, jolla oikeuskanslerinvirasto raportoi tiedot kootusti Euroopan komissiolle.\n\nRaportoinnissa ilmoitetaan vain kalenterivuoden aikana vastaanotetut ilmoitukset. Ilmoituksen perusteella käynnistetyistä toimenpiteistä tai käsittelyn lopputuloksesta ilmoitetaan vain kunkin kalenterivuoden aikana tehdyt toimenpiteet riippumatta siitä, onko niitä koskeva ilmoitus tehty saman kalenterivuoden aikana. Myös takaisin perittyjen varojen määrä sekä arvio rikkomisten aiheuttamasta taloudellisen vahingon määrästä ilmoitetaan sen mukaan, minkä kalenterivuoden aikana varoja on peritty takaisin tai taloudellisen vahingon määrä on arvioitu. Kaikki määrät tulee ilmoittaa tarkkoina toteutuneina määrinä. Ainoastaan arvio taloudellisen vahingon määrästä voi perustua arvioon."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 9.2 §:n 1 kohta\n\nHyvinvointialuejohtajan esitys:\n\nAluehallitus merkitsee liitteenä olevan raportin tiedoksi ja lähettää sen edelleen tiedoksi oikeuskanslerin virastolle."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Oikeuskanslerin virasto"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Ilmoittajansuojelulain mukainen vuotuinen raportti 2025",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-16-151200.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "17",
+   "title": "Hyvinvointialueen varaedustajan nimeäminen Hyvinvointialueyhtiö Hyvil Oy:n sääntömääräisiin ja muihin kokouksiin 2026-2029",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026348-17",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348-17.PDF",
+   "diary_number": "3564/00.00.01.03.00/2025",
+   "preparer": "Juristi Tarja Poikolainen; Etelä-Savon hyvinvointialueen hallintosäännön 9.2 §:n 27 kohdan mukaan aluehallitus päättää hyvinvointialueen edustajan nimeämisestä tytär-, osakkuus- ja muiden yhteisöjen yhtiökokouksiin ja muihin kokouksiin sekä antaa toimintaohjeet aluehallituksen hyväksymän omistajaohj",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": "Merkitään, että hyvinvointialuejohtaja Santeri Seppälä ilmoitti esteellisyydestä (ehdolla Hyvinvointialueyhtiö Hyvil Oy:n hallituksen jäseneksi, yleislausekejäävi, HL 28.1 §:n 7 kohta). Seppälän esteilmoitus hyväksyttiin ja hän poistui kokouksesta tämän asian käsittelyn ajaksi. Esittelijänä asian käsittelyssä toimi hyvinvointialuejohtajan 1. sijainen, pelastus- ja turvallisuuspalvelujen toimialajohtaja Seppo Lokka.",
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 10.06.2025 § 144"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Juristi Tarja Poikolainen\n\nEtelä-Savon hyvinvointialueen hallintosäännön 9.2 §:n 27 kohdan mukaan aluehallitus päättää hyvinvointialueen edustajan nimeämisestä tytär-, osakkuus- ja muiden yhteisöjen yhtiökokouksiin ja muihin kokouksiin sekä antaa toimintaohjeet aluehallituksen hyväksymän omistajaohjauksen mukaisesti.\n\nHyvinvointialueen hallintosäännön 164 ja 165 §:ien perusteella hyvinvointialue korvaa matkakulut ja ansionmenetykset hyvinvointialueen nimetylle edustajalle yhtiöiden toimielinten kokouksiin osallistumisesta. Hallintosääntö ei mahdollista kokouspalkkioiden maksamista.\n\nAluehallitus on aiemmin 19.5.2025 § 117-119 nimennyt vuodelle 2025 yhtiökokousedustajat seuraaviin yhteisöihin:\n\nJärvi-Saimaan Palvelut Oy (juristi Aki Rasimus, varalla hallintopalvelujohtaja Antti Laurikainen)\n\nPieksämäen Tukipalvelut Oy (juristi Tarja Poikolainen, varalla juristi Aki Rasimus) ja\n\nSansia Oy (juristi Tarja Poikolainen, varalla juristi Aki Rasimus).\n\nAluehallitus nimeää yhtiökokousedustajat seuraaviin yhteisöihin: Hyvinvointialue-yhtiö Hyvil Oy, Islab hyvinvointiyhtymä, Maakuntien tilakeskus Oy ja Mikkelin sairaalaparkki Oy. Muihin liitteessä 1. mainittuihin yhteisöihin aluehallitus valtuuttaa hyvinvointialuejohtajan tai hänen sijaisensa nimeämään viranhaltijaedustajat.\n\nYhtiö\n\nYhtiökokous-edustaja\n\nVaraedustaja\n\nHallituksen varsinainen jäsen\n\nHyvinvointialue-yhtiö Hyvil Oy\n\nIslab hyvinvointiyhtymä\n\nMaakuntien tilakeskus Oy\n\nMikkelin sairaalaparkki Oy"
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 9.2 § 27 kohta\n\nHyvinvointialuejohtajan esitys:\n\nAluehallitus nimeää Etelä-Savon hyvinvointialueen edustajat ja varaedustajat asiaselostuksessa mainittujen yhteisöjen sääntömääräisiin kokouksiin valtuustokaudelle 2025-2029.\n\nLisäksi aluehallitus valtuuttaa hyvinvointialuejohtajan tai hänen sijaisensa nimeämään viranhaltijaedustajat muiden yhteisöjen sääntömääräisiin kokouksiin.\n\nTämän asian osalta pöytäkirja tarkastetaan kokouksessa."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Merkitään, että koska asiat liittyivät toisiinsa, tämän asian käsittelyn aikana annettiin asiaselostus ja käytiin keskustelu myös § 145 osalta.\n\nMerkitään, että konsernipalvelujen toimialajohtaja ilmoitti olevansa esteellinen asioiden 144 ja 145 osalta (yhteisöjäävi HallintoL 28.1 §:n 4 kohta). Ilmoitus esteellisyydestä hyväksyttiin yksimielisesti.\n\nAsiasta käydyn keskustelun jälkeen hyvinvointialuejohtaja teki seuraavan esityksen:\n\nYhtiö\n\nYhtiö / yhtymäkokous-edustaja\n\nVaraedustaja\n\nHyvinvointialue-yhtiö Hyvil Oy\n\nJari Leppä\n\nSanteri Seppälä\n\nIslab hyvinvointiyhtymä\n\nAnna-Kristiina Mikkonen, Santeri Seppälä, Jari Leppä\n\nMaakuntien tilakeskus Oy\n\nAntti Laurikainen\n\nTarja Poikolainen\n\nMikkelin sairaalaparkki Oy\n\nJari Leppä"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin käsittelytietojen mukaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "nimetyt edustajat, yhteisöt"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Juristi Tarja Poikolainen\n\nAluehallitus on nimennyt 10.6.2025 § 144 Etelä-Savon hyvinvointialueen edustajia yhteisöjen sääntömääräisiin ja muihin kokouksiin. Hyvinvointialueyhtiö Hyvil Oy:n varsinaiseksi kokousedustajaksi nimettiin Jari Leppä ja varalle Santeri Seppälä.\n\nHyvinvointialueyhtiö Hyvil Oy:n nimeämistoimikunta on esittänyt itäisen YTA-alueen ehdotuksen mukaisesti yhtiön ylimääräiselle yhtiökokoukselle 19.1.2026 Santeri Seppälän nimeämistä yhtiön hallituksen jäseneksi. Tästä syystä aluehallituksen on tarkoituksenmukaista nimetä uusi varaedustaja yhtiön sääntömääräisiin ja muihin kokouksiin. Uudeksi varaedustajaksi nimetään hallintopalvelujohtaja Antti Laurikainen."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 9.2 § 27 kohta\n\nVs. hyvinvointialuejohtajan esitys:\n\nAluehallitus päättää nimetä hallintopalvelujohtaja Antti Laurikaisen Etelä-Savon hyvinvointialueen varaedustajaksi Hyvinvointialueyhtiö Hyvil Oy:n sääntömääräisiin ja muihin kokouksiin 2026–2029."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Merkitään, että hyvinvointialuejohtaja Santeri Seppälä ilmoitti esteellisyydestä (ehdolla Hyvinvointialueyhtiö Hyvil Oy:n hallituksen jäseneksi, yleislausekejäävi, HL 28.1 §:n 7 kohta). Seppälän esteilmoitus hyväksyttiin ja hän poistui kokouksesta tämän asian käsittelyn ajaksi. Esittelijänä asian käsittelyssä toimi hyvinvointialuejohtajan 1. sijainen, pelastus- ja turvallisuuspalvelujen toimialajohtaja Seppo Lokka."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Hyvinvointialueyhtiö Hyvil Oy, Antti Laurikainen"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Yhtiöt ja muut yhteisöt",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-17-117909.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "18",
+   "title": "Hyvinvointialueelle maksettava vuoden 2026 rahoitus",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026348-18",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348-18.PDF",
+   "diary_number": "156/00.04.00.00/2026",
+   "preparer": "Hallintopalvelujohtaja Antti Laurikainen; Valtion rahoitus määräytyy hyvinvointialueiden rahoituksesta annetun lain (617/2021) mukaisesti. Vuoden 2026 rahoituksen pohjana ovat vuoden 2025 laskennalliset kustannukset, joita korotetaan palvelutarpeen kasvun, kustannustason nousun, tehtävämuutosten sek",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": "Merkitään, että hyvinvointialuejohtaja selosti asiaa kokouksessa.",
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Hallintopalvelujohtaja Antti Laurikainen\n\nValtion rahoitus määräytyy hyvinvointialueiden rahoituksesta annetun lain (617/2021) mukaisesti. Vuoden 2026 rahoituksen pohjana ovat vuoden 2025 laskennalliset kustannukset, joita korotetaan palvelutarpeen kasvun, kustannustason nousun, tehtävämuutosten sekä toteutuneiden kustannusten perusteella. Lisäksi rahoitukseen sisältyy toteutuneisiin kustannuksiin perustuva jälkikäteistarkistus.\n\nValtiovarainministeriön laskelman mukaan Etelä-Savon hyvinvointialueen laskennallinen rahoitus vuodelle 2026 on 750,1 miljoonaa euroa ja siirtymätasaus 33,3 miljoonaa euroa, eli yhteensä 783,4 miljoonaa euroa. Vuoden 2026 rahoitus on 6055 euroa per asukas (5831 euroa vuonna 2025).\n\nRahoituspäätös, oikaisuvaatimusohje ja maksuerittely liitteenä. Tarkemmat rahoituslaskelmat löytyvät osoitteesta https://vm.fi/rahoituslaskelmat."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 9.2 §:n 1 kohta\n\nHyvinvointialuejohtajan esitys:\n\nAluehallitus päättää valtuuttaa\n\n1. konsernipalvelujen toimialajohtajan selvittämään, onko päätös rahoituksesta perustunut oikeisiin talous- ja suorietietoihin ja\n\n2. hyvinvointialuejohtajan hakemaan tarvittaessa oikaisua päätöksessä ilmoitettuun määräaikaan mennessä."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Merkitään, että hyvinvointialuejohtaja selosti asiaa kokouksessa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": ""
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Valtiovarainministeriön päätös hyvinvointialueiden vuoden 2026 rahoituksesta 18.12.2025 VN/37410/2025",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-18-150231.PDF"
+    },
+    {
+     "title": "Liite 1. Maksuerittely vuoden 2026 rahoituksesta",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-18-150235.PDF"
+    },
+    {
+     "title": "Liite 2. Oikaisuvaatimusohje",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-18-151094.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "19",
+   "title": "Tiedoksi saatettavat asiat",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026348-19",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348-19.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Asiat merkittiin tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Tiedoksi saatettavat asiat\n\nAluehallitukselle tiedoksi seuraavat asiat:\n\n1.\n\nMaakuntien tilakeskuksen osakaskokouksen 27.11.2025 pöytäkirja + liitteet (ei julkinen)\n\n2.\n\nNumera Palvelut Oy:n ylimääräisen yhtiökokouksen 18.12.2025 pöytäkirja\n\n3.\n\nAdressi Pertunmaan hyvinvointiaseman säilyttämisen puolesta luovutettu aluehallituksen puheenjohtajalle 30.11.2025. Adressissa yhteensä 903 allekirjoitusta.\n\n4.\n\nISLAB hyvinvointiyhtymä, Palvelusopimuksen liitteen 5 Palveluvalikoimasuunnitelma muuttaminen\n\n5.\n\nPäätös ja maksuerittely hyvinvointialueiden rahoituksesta vuodelle 2026. Tarkemmat rahoituslaskelmat nähtävillä https://vm.fi/rahoituslaskelmat\n\n6.\n\nEtelä-Savon maakuntaohjelma 2026-2029\n\n7.\n\nVM: Kevan valtuutetun ja varavaltuutetun vaihdos\n\n8.\n\nKooste Valviran ja Itä-Suomen aluehallintoviraston päätöksistä ja ilmoituksista ajalta 9.-31.12.2025 koskien yksityisten sosiaali- ja terveyspalveluiden antamista.\n\nHyvinvointialuejohtajan esitys:\n\nAluehallitus merkitsee asiat tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Asiat merkittiin tiedoksi."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Osakaskokouksen_PTK_Maakuntien_tilakeskus_Oy_27.11.2025",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-19-149923.PDF"
+    },
+    {
+     "title": "Liite 1_Katsaus Maakuntien tilakeskuksen toimintaan",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-19-149924.PDF"
+    },
+    {
+     "title": "Liite 2_Omistajastrategian mittarit",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-19-149925.PDF"
+    },
+    {
+     "title": "Adressi Pertunmaan hyvinvointiaseman säilyttämisen puolesta",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-19-149550.PDF"
+    },
+    {
+     "title": "ISLAB hallitus 18.12.2025 pöytäkirjanote §129",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-19-150057.PDF"
+    },
+    {
+     "title": "Liite 5 Palveluvalikoimasuunnitelma päivitys toimipaikkakohtaiset kuvaukset 18.12.2025",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-19-150058.PDF"
+    },
+    {
+     "title": "Päätös hyvinvointialueiden vuoden 2026 rahoituksesta",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-19-150251.PDF"
+    },
+    {
+     "title": "Liite 1. Maksuerittely vuoden 2026 rahoituksesta",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-19-150252.PDF"
+    },
+    {
+     "title": "Etela-Savo_Maakuntaohjelma_2026-2029",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-19-150784.PDF"
+    },
+    {
+     "title": "Kevan valtuutetun ja varavaltuutetun vaihdos",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-19-150789.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "20",
+   "title": "Etelä-Savon hyvinvointialueen valmiussuunnitelman yleinen osa",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026348-20",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026348-20.PDF",
+   "diary_number": "108/00.01.02.02/2026",
+   "preparer": "Toimialajohtaja, pelastusjohtaja Seppo Lokka; Valmiuspäällikkö Markku Pulkkinen; Hyvinvointialueen valmiussuunnitelman yleisen osan hyväksyy Etelä-Savon hyvinvointialueen aluehallitus. Valmiussuunnitelma tarkastetaan kerran valtuustokaudessa ja aina, kun turvallisuusympäristössä tapahtuu olennaisia ",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": "Merkitään, että pelastus- ja turvallisuuspalvelujen toimialajohtaja selosti asiaa kokouksessa.",
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Toimialajohtaja, pelastusjohtaja Seppo Lokka\n\nValmiuspäällikkö Markku Pulkkinen\n\nHyvinvointialueen valmiussuunnitelman yleisen osan hyväksyy Etelä-Savon hyvinvointialueen aluehallitus. Valmiussuunnitelma tarkastetaan kerran valtuustokaudessa ja aina, kun turvallisuusympäristössä tapahtuu olennaisia muutoksia, jotka vaativat valmiussuunnitelman päivittämisen. Edellisen kerran valmiussuunnitelmasta päätettiin aluehallituksessa 8.4.2024 § 92\n\nPäivitetty suunnitelma tuodaan aluehallituksen käsiteltäväksi. Hyvinvointialueen valmiussuunnitelman yleisen osan päivittämisen vastuu on pelastus- ja turvallisuuspalveluilla. Valmiussuunnitelman yleinen osa on julkinen ja se julkaistaan hyvinvointialueen verkkosivulla. Yleisen osan julkisuudella on tarkoitus lisätä asiakkaiden ja asukkaiden turvallisuuden tunnetta ja tietoisuutta varautumisjärjestelyistä Etelä-Savon hyvinvointialueella.\n\nHyvinvointialueesta säädetyn lain (611/2021) 150 §:n mukaan hyvinvointialueen on varauduttava valmiussuunnitelmin ja normaaliolojen häiriötilanteissa tai poikkeusoloissa tapahtuvan toiminnan etukäteisvalmisteluin sekä muin toimenpitein, että sen toiminta jatkuu mahdollisimman häiriöttömästi normaaliolojen häiriötilanteissa sekä poikkeusoloissa.\n\nHyvinvointialueen valmiussuunnitelman yleinen osa antaa strategiset perusteet tarkemmalle valmiussuunnittelulle ja varautumistoimenpiteille. Hyvinvointialueen valmiussuunnittelua ohjaavat myös valmiuslaki ja toimialakohtaiset substanssilainsäädännöt (ks. esim. terveydenhuoltolaki, sosiaalihuoltolaki ja pelastuslaki). Esityslistan liitteenä oleva hyvinvointialueen valmiussuunnitelman yleinen osa on valmisteltu edellä mainittuun lainsäädännön perusteella.\n\nHyvinvointialueen yleinen valmiussuunnitelma toimii ohjaavana asiakirjana tarkempaa operatiivista ja toimialuekohtaista valmiussuunnittelua varten. Toimialakohtaiset valmiussuunnitelmat ja liitteet ovat salassa pidettäviä viranomaisten toiminnan julkisuudesta säädetyn lain (621/1999) 24.1 §:n kohta 8 perusteella."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 9.2 § kohta 22, 23 ja 24\n\nHyvinvointialuejohtajan esitys:\n\nAluehallitus hyväksyy liitteenä olevan valmiussuunnitelman yleisen osan ja esittää sen edelleen aluevaltuustolle tiedoksi merkittäväksi. Aluehallitus valtuuttaa pelastus- ja turvallisuuspalveluiden toimialajohtajan tekemään valmiussuunnitelman yleiseen osaan tarvittaessa teknisiä korjauksia."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Merkitään, että pelastus- ja turvallisuuspalvelujen toimialajohtaja selosti asiaa kokouksessa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": ""
+    }
+   ],
+   "attachments": [
+    {
+     "title": "ESHVA_valmiussuunnitelma_yleinen_osa_aluehallitus_19_1_2026",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026348-20-150791.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Leppä Jari",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Valtola Pirkko",
+   "role": "1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Seppälä Arto",
+   "role": "2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Aho Eero",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Huhtinen Marjaana",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Järvinen Heli",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pulliainen Liisa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Silvennoinen Eija",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Valtola Oskari",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Vironen Jouni",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Wuorinen Jarkko",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Tiainen Maijaterttu",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Korhonen Sanna",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Anna-Kristiina Mikkonen",
+   "role": "valtuuston puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Vehmala Tommi",
+   "role": "valtuuston 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Auvinen Hannu",
+   "role": "valtuuston 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Seppälä Santeri",
+   "role": "hyvinvointialuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Luukkonen Jaana",
+   "role": "johtajaylilääkäri",
+   "group": "other"
+  },
+  {
+   "name": "Kaukonen Niina",
+   "role": "ikääntyneiden palvelujen toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Tavi Saara",
+   "role": "sosiaalipalvelujen toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Lokka Seppo",
+   "role": "pelastus- ja turvallisuuspalvelujen toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kuosmanen Kimmo",
+   "role": "terveyspalvelujen toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Sipilä Sami",
+   "role": "konsernipalvelujen toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Laurikainen Antti",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Poikolainen Tarja",
+   "role": "lakimies",
+   "group": "other"
+  },
+  {
+   "name": "Vauhkonen Jouni",
+   "role": "erityisasiantuntija, vaikuttavuusviestintä",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026348",
+  "fetched_at": "2026-10-14T16:56:56+00:00",
+  "content_hash": "8a5ed8609dfd9eb7",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T16:56:56+00:00"
+ }
+}

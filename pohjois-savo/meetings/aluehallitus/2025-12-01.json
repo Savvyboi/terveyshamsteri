@@ -1,0 +1,572 @@
+{
+ "id": "aluehallitus/2025-12-01",
+ "region": "pohjois-savo",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2025-12-01",
+ "stage": "minutes",
+ "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025902",
+ "pdf_url": "https://pshva.oncloudos.com/kokous/2025902.PDF",
+ "time": "09:00 - 15:55",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "451",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025902-1",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025902-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.",
+   "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen laillisuus ja päätösvaltaisuus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokous todettiin lailliseksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "452",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025902-2",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025902-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Merja Rautiainen ja Sassa Suna.",
+   "decision": "Pöytäkirjantarkastajiksi valittiin Merja Rautiainen ja Sassa Suna.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pöytäkirjantarkastajien valinta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Merja Rautiainen ja Sassa Suna."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Merja Rautiainen ja Sassa Suna."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "453",
+   "title": "Asioiden käsittelyjärjestys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025902-3",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025902-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asioiden käsittelyjärjestys"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "454",
+   "title": "Ajankohtaiset asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025902-4",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025902-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus merkitsee asiat tiedoksi.\n\nTilannekatsaus rakennushankkeisiin, Petri Pyy",
+   "decision": "Merkitään pöytäkirjaan, että: - Petri Pyy oli läsnä asian esittelyn ajan klo 9.05 - 9.41 Merkittiin tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Ajankohtaiset asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että: - Petri Pyy oli läsnä asian esittelyn ajan klo 9.05 - 9.41 Merkittiin tiedoksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus merkitsee asiat tiedoksi.\n\nTilannekatsaus rakennushankkeisiin, Petri Pyy"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "455",
+   "title": "KYS Uusi Sydän-projektin kokonaiskustannus- ja aikataulumuutos sekä projektin eteneminen 4. vaiheen toteutusvaiheeseen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025902-5",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025902-5.PDF",
+   "diary_number": "105/00.01.05/2022",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää:\n\n1) Uusi Sydän-projektin kokonaisbudjettimuutoksesta 203,5 milj. euroon ja valmistumisaikataulun 10/2027.\n\n2) Uusi Sydän-projektin 4. vaiheen toteuttamisesta 1/2026 – 10/2027 kustannusarviolla 15 M€.\n\n3) Projektin kokonaiskustannuksen nousu huomioidaan investointisuunnittelussa ja lainanottovaltuudessa 2 M€ siirtona Uusi Sydän liittyviltä projekteilta Uusi Sydän -projektille\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 93\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\n- Uusi Sydän-projektin 4. vaiheen toiminnalliset muutokset ja perusteet.\n\nValmistelu\nUusi Sydän-projekti on KYS pääsairaalan uudistamisprojekti, johon sisältyy uudisrakentamista ja vanhan pääsairaalan peruskorjaaminen vuosien 2017–2027 aikana neljässä eri vaiheessa. Pääsairaalan peruskorjaus on valmistunut ja projekti on edennyt viimeiseen eli 4. vaiheeseen (1C4), joka on tarkoitus toteuttaa 2026–2027 aikana. KYS Uusi Sydän-projektin sisältö-, kustannus- ja aikataulumuutos on hyväksytty Pohjois-Savon hyvinvointialueen hallituksessa (7.12.2022 § 351). Tämän mukaisesti projektin hyväksytty laajuus on n. 65 000 brm² ja kokonaiskustannusarvio on 198,5 M€. Projektin hyväksytty valmistumisaikataulu on 6/2027.\n\nUusi Sydän -projekti on edennyt suunnitellusti ja hankkeen 3-vaihe on pysynyt hyväksytyssä kokonaiskustannuksessa ottaen huomioon erikoissairaanhoidon ja perusterveydenhuollon osastointegraation kustannusvaikutukset, jotka ovat olleet n. 200 000 € sekä peruskorjauksessa toteutuneet purkamisen ennakoitua suuremmat kustannukset, jotka ovat olleet noin 2 M€. Osastointegraation kustannusvaikutus voidaan todeta olevan vähäinen saavutettuun kokonaishyötyyn nähden. Osastointegraatiolla saavutetaan toiminnallisia hyötyjä ja vältyttiin perusterveydenhuollon keskisen alueen osastopalvelut -rakennusinvestoinnilta, jonka varaus oli 31,5 M€.\n\nUusi Sydän -projektin 4-vaihetta on suunniteltu tarkemmin vuosien 2024 ja 2025 aikana. Vaihe sisältää 1985 valmistuneen vuodeosastorakennuksen purkamisen ja uuden laajennusosan rakentamisen. Uuteen laajennusosaan sijoittuvia toimintoja ovat mm. kuvantamiskeskuksen tilat, henkilökunnan työasuautomaatin tilat, tekniset- ja huollon tilat sekä liittymäpinnat muihin rakennusosiin. Purettavan rakennusosan laajuus on noin 15 000 m2 ja uuden rakennettavan laajuus noin 2 200 m2. Lisäksi vaiheen laajuuteen on tarkoituksenmukaista sisällyttää alun perin vaiheeseen kuulumattomia muutostyö- ja peruskorjausalueita noin 1 300 m2. Nämä muutostyö- ja peruskorjausalueet on alun perin suunniteltu toteutettavaksi osana Uusi Sydän liittyviä projekteja.\n\nUusi Sydän -projektin 4-vaiheen tarkennettu kustannusarvio, sisältäen vaiheeseen alun perin kuulumattomat muutostyö- ja peruskorjausalueet, on yhteensä 15 M€. Tämän perusteella päivitetty kokonaiskustannusarvio koko Uusi Sydän -projektille on n. 203,5 M€ ja projektin valmistumisaika on 10/2027. Projektin vuonna 2022 hyväksytty kokonaiskustannusarvio (198,5 M€) ylittyy 5 M€. Kokonaiskustannusten kasvu johtuu rakennuskustannusten noususta 11/2022 lähtien (+1 M€), 4-vaiheeseen sisällytettävistä muutos- ja peruskorjausalueista (+2 M€) sekä 4-vaiheen sisällön ja toteutuslaajuuden tarkentumisesta (+2 M€).\n\nHyväksytyn investointisuunnitelman mukaisesti Uusi Sydän -projektille ja Uusi Sydän liittyville projekteille on saatu vuosille 2023-2027 väliselle ajalle lainanottovaltuutta yhteensä 101 M€. Toteutuneet ja suunnitellut kustannukset Uusi Sydän-projektilla ja siihen liittyville projekteilla on n. 98,6 M€ vuosina 2023-2027. Lainanottovaltuuteen verrattuna toteutuvat kustannukset arvioidaan alittuvan n. 2 M€. Uusi Sydän – projektille siirretään projektin 4-vaiheeseen sisällytettävä muutostyö- ja peruskorjausvaraus Uusi Sydän liittyvät -projektilta, joka on suuruudeltaan 2 M€.",
+   "decision": "Merkitään pöytäkirjaan, että: - Petri Pyy oli läsnä asian esittelyn ajan klo 9.42 - 9.52. Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nPetri Pyy"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että: - Petri Pyy oli läsnä asian esittelyn ajan klo 9.42 - 9.52. Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\n1) Uusi Sydän-projektin kokonaisbudjettimuutoksesta 203,5 milj. euroon ja valmistumisaikataulun 10/2027.\n\n2) Uusi Sydän-projektin 4. vaiheen toteuttamisesta 1/2026 – 10/2027 kustannusarviolla 15 M€.\n\n3) Projektin kokonaiskustannuksen nousu huomioidaan investointisuunnittelussa ja lainanottovaltuudessa 2 M€ siirtona Uusi Sydän liittyviltä projekteilta Uusi Sydän -projektille\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 93\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\n- Uusi Sydän-projektin 4. vaiheen toiminnalliset muutokset ja perusteet.\n\nValmistelu\nUusi Sydän-projekti on KYS pääsairaalan uudistamisprojekti, johon sisältyy uudisrakentamista ja vanhan pääsairaalan peruskorjaaminen vuosien 2017–2027 aikana neljässä eri vaiheessa. Pääsairaalan peruskorjaus on valmistunut ja projekti on edennyt viimeiseen eli 4. vaiheeseen (1C4), joka on tarkoitus toteuttaa 2026–2027 aikana. KYS Uusi Sydän-projektin sisältö-, kustannus- ja aikataulumuutos on hyväksytty Pohjois-Savon hyvinvointialueen hallituksessa (7.12.2022 § 351). Tämän mukaisesti projektin hyväksytty laajuus on n. 65 000 brm² ja kokonaiskustannusarvio on 198,5 M€. Projektin hyväksytty valmistumisaikataulu on 6/2027.\n\nUusi Sydän -projekti on edennyt suunnitellusti ja hankkeen 3-vaihe on pysynyt hyväksytyssä kokonaiskustannuksessa ottaen huomioon erikoissairaanhoidon ja perusterveydenhuollon osastointegraation kustannusvaikutukset, jotka ovat olleet n. 200 000 € sekä peruskorjauksessa toteutuneet purkamisen ennakoitua suuremmat kustannukset, jotka ovat olleet noin 2 M€. Osastointegraation kustannusvaikutus voidaan todeta olevan vähäinen saavutettuun kokonaishyötyyn nähden. Osastointegraatiolla saavutetaan toiminnallisia hyötyjä ja vältyttiin perusterveydenhuollon keskisen alueen osastopalvelut -rakennusinvestoinnilta, jonka varaus oli 31,5 M€.\n\nUusi Sydän -projektin 4-vaihetta on suunniteltu tarkemmin vuosien 2024 ja 2025 aikana. Vaihe sisältää 1985 valmistuneen vuodeosastorakennuksen purkamisen ja uuden laajennusosan rakentamisen. Uuteen laajennusosaan sijoittuvia toimintoja ovat mm. kuvantamiskeskuksen tilat, henkilökunnan työasuautomaatin tilat, tekniset- ja huollon tilat sekä liittymäpinnat muihin rakennusosiin. Purettavan rakennusosan laajuus on noin 15 000 m2 ja uuden rakennettavan laajuus noin 2 200 m2. Lisäksi vaiheen laajuuteen on tarkoituksenmukaista sisällyttää alun perin vaiheeseen kuulumattomia muutostyö- ja peruskorjausalueita noin 1 300 m2. Nämä muutostyö- ja peruskorjausalueet on alun perin suunniteltu toteutettavaksi osana Uusi Sydän liittyviä projekteja.\n\nUusi Sydän -projektin 4-vaiheen tarkennettu kustannusarvio, sisältäen vaiheeseen alun perin kuulumattomat muutostyö- ja peruskorjausalueet, on yhteensä 15 M€. Tämän perusteella päivitetty kokonaiskustannusarvio koko Uusi Sydän -projektille on n. 203,5 M€ ja projektin valmistumisaika on 10/2027. Projektin vuonna 2022 hyväksytty kokonaiskustannusarvio (198,5 M€) ylittyy 5 M€. Kokonaiskustannusten kasvu johtuu rakennuskustannusten noususta 11/2022 lähtien (+1 M€), 4-vaiheeseen sisällytettävistä muutos- ja peruskorjausalueista (+2 M€) sekä 4-vaiheen sisällön ja toteutuslaajuuden tarkentumisesta (+2 M€).\n\nHyväksytyn investointisuunnitelman mukaisesti Uusi Sydän -projektille ja Uusi Sydän liittyville projekteille on saatu vuosille 2023-2027 väliselle ajalle lainanottovaltuutta yhteensä 101 M€. Toteutuneet ja suunnitellut kustannukset Uusi Sydän-projektilla ja siihen liittyville projekteilla on n. 98,6 M€ vuosina 2023-2027. Lainanottovaltuuteen verrattuna toteutuvat kustannukset arvioidaan alittuvan n. 2 M€. Uusi Sydän – projektille siirretään projektin 4-vaiheeseen sisällytettävä muutostyö- ja peruskorjausvaraus Uusi Sydän liittyvät -projektilta, joka on suuruudeltaan 2 M€."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "456",
+   "title": "Tietojärjestelmäkäyttöönottojen tilannekatsaus (JulkL 24 §, kohta 19)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025902-6",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025902-6.PDF",
+   "diary_number": "11354/02.08.00/2023",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "457",
+   "title": "Pohjois-Savon hyvinvointialueen talousarvio vuodelle 2026 ja taloussuunnitelma 2026- 2028",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025902-7",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025902-7.PDF",
+   "diary_number": "3592/02.02.00/2025",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää aloittaa Pohjois-Savon hyvinvointialueen talousarvion 2026 ja taloussuunnitelman 2026-2028 käsittelyn ja käsittelyä jatketaan aluehallituksen 1.12.2025 kokouksessa.\n\nEnnakkovaikutusten arviointi\n\nSisältyy lautakuntien käsittelemiin talousarvio 2026 esityksiin (linkit alempana valmistelutekstissä).\n\nToimivallan peruste\nHallintosääntö § 35\n\nLiitteet ja oheisaineisto\n\nValmistelu\nAluevaltuuston on kunkin vuoden loppuun mennessä hyväksyttävä hyvinvointialueelle seuraavaksi kalenterivuodeksi talousarvio.\n\nTalousarvion hyväksymisen yhteydessä aluevaltuuston on hyväksyttävä myös taloussuunnitelma kolmeksi tai useammaksi vuodeksi. Talousarviovuosi on taloussuunnitelman ensimmäinen vuosi.\n\nTaloussuunnitelma on laadittava siten, että se on tasapainossa tai ylijäämäinen viimeistään toisen talousarviovuotta seuraavan vuoden päättyessä. Taloussuunnitelman tasapainossa voidaan ottaa huomioon talousarvion laadintavuoden taseeseen kertyväksi arvioitu ylijäämä. Hyvinvointialueen taseeseen kertynyt alijäämä tulee kattaa enintään kahden vuoden kuluessa tilinpäätöksen vahvistamista seuraavan vuoden alusta lukien. Tässä määräajassa tulee kattaa myös talousarvion laadintavuonna tai sen jälkeen kertynyt alijäämä. Vuonna 2023 syntynyt alijäämä, vuonna 2024 syntynyt alijäämä sekä vuoden 2025 mahdollinen ylijäämä tai alijäämä vaikuttaa katettavan alijäämän määrään, joka tulee kattaa voimassa olevan hyvinvointialuelain mukaan vuoden 2026 loppuun mennessä. Hyvinvointialue on hakenut talouden tasapainottamiseen lisärahoitusta valtiolta. Taloussuunnitelmassa hyväksytään hyvinvointialueen ja hyvinvointialuekonsernin toiminnan ja talouden tavoitteet, joiden on toteutettava hyvinvointialuestrategiaa.\n\nTalousarvioon otetaan tehtävien ja toiminnan tavoitteiden edellyttämät määrärahat ja tuloarviot. Lisäksi siinä osoitetaan, miten rahoitustarve katetaan. Rahoitustarvetta ei saa kattaa pitkäaikaisella lainalla. Investointia varten hyvinvointialue voi kuitenkin ottaa pitkäaikaisen lainan, jos valtioneuvosto on antanut siihen valtuuden. Määräraha ja tuloarvio voidaan ottaa brutto- tai nettomääräisenä.\n\nTalousarviossa ja -suunnitelmassa on käyttötalous- ja tuloslaskelmaosa sekä investointi- ja rahoitusosa. Investointiosasta on ilmettävä hyvinvointialueen investointien lisäksi hyvinvointialuekonsernin toiminnallisesti ja taloudellisesti merkittävimmät investoinnit ja sen on perustuttava hyvinvointialueen investointisuunnitelmaan, jonka toimivaltaiset ministeriöt ovat hyväksyneet siten kuin siitä erikseen säädetään.\n\nHyvinvointialueen toiminnassa ja taloudenhoidossa on noudatettava talousarviota\n\nPerhe- ja vammaispalveluiden, yleisten palveluiden, ikääntyvien palveluiden sekä kokonaisturvallisuuden lautakunnat ovat käsitelleet talousarvioesitykset 2026.\n\n- Perhe- ja vammaispalveluiden lautakunta Pöytäkirja 29.09.2025/Pykälä 92 | Dynasty tietopalvelu : Pohjois-Savon hyvinvointialue\n\n- Yleisten palveluiden lautakunta Pöytäkirja 09.10.2025/Pykälä 117 | Dynasty tietopalvelu : Pohjois-Savon hyvinvointialue\n\n- Ikäihmisten ja hoivapalveluiden lautakunta Pöytäkirja 09.10.2025/Pykälä 89 | Dynasty tietopalvelu : Pohjois-Savon hyvinvointialue\n\n- Kokonaisturvallisuuslautakunta Pöytäkirja 09.10.2025/Pykälä 82 | Dynasty tietopalvelu : Pohjois-Savon hyvinvointialue",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nKari Janhonen, Arja Matsi"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että: -Marko Korhonen poistui kokouksesta asian käsittelyn aikana klo 13.24. Esittelijänä toimi Jari Saarinen -Sami Remes ja Antti Hedman poistuivat kokouksesta asian käsittelyn aikana klo 13.57 -Mari Antikainen poistui kokouksesta asian käsittelyn aikana klo 14.30 -Jukka Koponen poistui kokouksesta asian käsittelyn aikana klo 15.02 -Virpi Kauppinen poistui kokouksesta asian käsittelyn aikana klo 15.28 -Jussi Lampi poistui kokouksesta asian käsittelyn aikana klo 15.10 -Aino Kanniainen poistui kokouksesta asian käsittelyn aikana klo 15.38 Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää jatkaa Pohjois-Savon hyvinvointialueen vuoden 2026 talousarvion ja taloussuunnitelman vuosille 2026–2028 käsittelyä. Hyvinvointialuejohtaja antaa lopullisen talousarvioesityksen 8.12.2025 kokouksessa.\n\nEnnakkovaikutusten arviointi\n\nErillinen liite.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nAluehallituksen kokouksen 19.11.2025 jälkeen talousarvio-asiakirjaa ja taloussuunnitelmaa on täydennetty.\n\nAhall 19.11.2025 § 440\n\nValmistelija(t)\nKari Janhonen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää aloittaa Pohjois-Savon hyvinvointialueen talousarvion 2026 ja taloussuunnitelman 2026-2028 käsittelyn ja käsittelyä jatketaan aluehallituksen 1.12.2025 kokouksessa.\n\nEnnakkovaikutusten arviointi\n\nSisältyy lautakuntien käsittelemiin talousarvio 2026 esityksiin (linkit alempana valmistelutekstissä).\n\nToimivallan peruste\nHallintosääntö § 35\n\nLiitteet ja oheisaineisto\n\nValmistelu\nAluevaltuuston on kunkin vuoden loppuun mennessä hyväksyttävä hyvinvointialueelle seuraavaksi kalenterivuodeksi talousarvio.\n\nTalousarvion hyväksymisen yhteydessä aluevaltuuston on hyväksyttävä myös taloussuunnitelma kolmeksi tai useammaksi vuodeksi. Talousarviovuosi on taloussuunnitelman ensimmäinen vuosi.\n\nTaloussuunnitelma on laadittava siten, että se on tasapainossa tai ylijäämäinen viimeistään toisen talousarviovuotta seuraavan vuoden päättyessä. Taloussuunnitelman tasapainossa voidaan ottaa huomioon talousarvion laadintavuoden taseeseen kertyväksi arvioitu ylijäämä. Hyvinvointialueen taseeseen kertynyt alijäämä tulee kattaa enintään kahden vuoden kuluessa tilinpäätöksen vahvistamista seuraavan vuoden alusta lukien. Tässä määräajassa tulee kattaa myös talousarvion laadintavuonna tai sen jälkeen kertynyt alijäämä. Vuonna 2023 syntynyt alijäämä, vuonna 2024 syntynyt alijäämä sekä vuoden 2025 mahdollinen ylijäämä tai alijäämä vaikuttaa katettavan alijäämän määrään, joka tulee kattaa voimassa olevan hyvinvointialuelain mukaan vuoden 2026 loppuun mennessä. Hyvinvointialue on hakenut talouden tasapainottamiseen lisärahoitusta valtiolta. Taloussuunnitelmassa hyväksytään hyvinvointialueen ja hyvinvointialuekonsernin toiminnan ja talouden tavoitteet, joiden on toteutettava hyvinvointialuestrategiaa.\n\nTalousarvioon otetaan tehtävien ja toiminnan tavoitteiden edellyttämät määrärahat ja tuloarviot. Lisäksi siinä osoitetaan, miten rahoitustarve katetaan. Rahoitustarvetta ei saa kattaa pitkäaikaisella lainalla. Investointia varten hyvinvointialue voi kuitenkin ottaa pitkäaikaisen lainan, jos valtioneuvosto on antanut siihen valtuuden. Määräraha ja tuloarvio voidaan ottaa brutto- tai nettomääräisenä.\n\nTalousarviossa ja -suunnitelmassa on käyttötalous- ja tuloslaskelmaosa sekä investointi- ja rahoitusosa. Investointiosasta on ilmettävä hyvinvointialueen investointien lisäksi hyvinvointialuekonsernin toiminnallisesti ja taloudellisesti merkittävimmät investoinnit ja sen on perustuttava hyvinvointialueen investointisuunnitelmaan, jonka toimivaltaiset ministeriöt ovat hyväksyneet siten kuin siitä erikseen säädetään.\n\nHyvinvointialueen toiminnassa ja taloudenhoidossa on noudatettava talousarviota\n\nPerhe- ja vammaispalveluiden, yleisten palveluiden, ikääntyvien palveluiden sekä kokonaisturvallisuuden lautakunnat ovat käsitelleet talousarvioesitykset 2026.\n\n- Perhe- ja vammaispalveluiden lautakunta Pöytäkirja 29.09.2025/Pykälä 92 | Dynasty tietopalvelu : Pohjois-Savon hyvinvointialue\n\n- Yleisten palveluiden lautakunta Pöytäkirja 09.10.2025/Pykälä 117 | Dynasty tietopalvelu : Pohjois-Savon hyvinvointialue\n\n- Ikäihmisten ja hoivapalveluiden lautakunta Pöytäkirja 09.10.2025/Pykälä 89 | Dynasty tietopalvelu : Pohjois-Savon hyvinvointialue\n\n- Kokonaisturvallisuuslautakunta Pöytäkirja 09.10.2025/Pykälä 82 | Dynasty tietopalvelu : Pohjois-Savon hyvinvointialue"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Ennakkovaikutusten arviointi_ta2026.Ahll01.12.2025",
+     "url": "https://pshva.oncloudos.com/kokous/2025902-7-223118.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "458",
+   "title": "Aluehallitukselle tiedoksi annettavat lausuntopyynnöt ja lausunnot",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025902-8",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025902-8.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus merkitsee saapuneet lausuntopyynnöt ja annetut lausunnot tiedoksi.\n\nToimivallan peruste\nhallintosääntö 36 §\n\nValmistelu\nAluehallituksen 2.10.2023 § 308 mukaisesti aluehallitus päättää hallintosäännön määräyksiä noudattaen, että merkittävät lausunnot esim. hyvinvointialueiden rahoitukseen, lainsäädäntöön liittyvät ja niihin rinnasteiset lausunnot antaa aluehallitus. Lausunnon merkittävyys arvioidaan asian valmistelussa.\n\nPohjois-Savon hyvinvointialueen hallintosäännön määräykset lausuntojen antamisesta antavat mahdollisuuden viranhaltijoille antaa lausuntoja tietyissä rajoissa. Mikäli annettavat lausunnot eivät ole viranhaltijoiden toimivallassa, antaa niistä lausunnot aluehallitus.\n\nLausuntopyyntöihin vastaamiselle annettu määräaika on yleensä niin lyhyt, ettei lausuntojen käsittely aluehallituksessa ole mahdollista.\n\nSaapuneet lausuntopyynnöt:\n\n- Lausuntopyyntö, päätös oireettoman henkilön hammaslääketieteelliseen KKTT-tutkimukseen pääsyn kriteereistä infektiopesäkkeen varhaiseksi toteamiseksi, Terveydenhuollon palveluvalikoimaneuvosto\n\n- - Lausuntopyyntö, Sosiaali- ja terveysministeriön asetus Säteilyturvakeskuksen suoritteista perittävistä maksuista vuosina 2026 ja 2027\n\n- Lausuntopyyntö, Vieremän kuntastrategia 2025-2029, Vieremän kunnanhallitus\n\nAnnetut lausunnot:\n\n- Pohjois-Savon hyvinvointialueen lausunto, perustason avosairaanhoidon rakenteet, resurssit ja rahoitus",
+   "decision": "Merkittiin tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitukselle tiedoksi annettavat lausuntopyynnöt ja lausunnot\n\nValmistelija(t)\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkittiin tiedoksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus merkitsee saapuneet lausuntopyynnöt ja annetut lausunnot tiedoksi.\n\nToimivallan peruste\nhallintosääntö 36 §\n\nValmistelu\nAluehallituksen 2.10.2023 § 308 mukaisesti aluehallitus päättää hallintosäännön määräyksiä noudattaen, että merkittävät lausunnot esim. hyvinvointialueiden rahoitukseen, lainsäädäntöön liittyvät ja niihin rinnasteiset lausunnot antaa aluehallitus. Lausunnon merkittävyys arvioidaan asian valmistelussa.\n\nPohjois-Savon hyvinvointialueen hallintosäännön määräykset lausuntojen antamisesta antavat mahdollisuuden viranhaltijoille antaa lausuntoja tietyissä rajoissa. Mikäli annettavat lausunnot eivät ole viranhaltijoiden toimivallassa, antaa niistä lausunnot aluehallitus.\n\nLausuntopyyntöihin vastaamiselle annettu määräaika on yleensä niin lyhyt, ettei lausuntojen käsittely aluehallituksessa ole mahdollista.\n\nSaapuneet lausuntopyynnöt:\n\n- Lausuntopyyntö, päätös oireettoman henkilön hammaslääketieteelliseen KKTT-tutkimukseen pääsyn kriteereistä infektiopesäkkeen varhaiseksi toteamiseksi, Terveydenhuollon palveluvalikoimaneuvosto\n\n- - Lausuntopyyntö, Sosiaali- ja terveysministeriön asetus Säteilyturvakeskuksen suoritteista perittävistä maksuista vuosina 2026 ja 2027\n\n- Lausuntopyyntö, Vieremän kuntastrategia 2025-2029, Vieremän kunnanhallitus\n\nAnnetut lausunnot:\n\n- Pohjois-Savon hyvinvointialueen lausunto, perustason avosairaanhoidon rakenteet, resurssit ja rahoitus"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Lausuntopyyntö, Sosiaali- ja terveysministeriön asetus Säteilyturvakeskuksen suoritteista perittävistä maksuista vuosina 2026 ja 2027",
+     "url": "https://pshva.oncloudos.com/kokous/2025902-8-220413.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Lausuntopyyntö, päätös oireettoman henkilön hammaslääketieteelliseen KKTT-tutkimukseen pääsyn kriteereistä infektiopesäkkeen varhaiseksi toteamiseksi, Terveydenhuollon palveluvalikoimaneuvosto",
+     "url": "https://pshva.oncloudos.com/kokous/2025902-8-222430.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Lausuntopyyyntö, Vieremän kuntastrategia 2025-2029, Vieremän kunnanhallitus",
+     "url": "https://pshva.oncloudos.com/kokous/2025902-8-222130.PDF"
+    },
+    {
+     "title": "Oheismateriaali 4 Pohjois-Savon hyvinvointialueen lausunto, perustason avosairaanhoidon rakenteet, resurssit ja rahoitus",
+     "url": "https://pshva.oncloudos.com/kokous/2025902-8-222320.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "459",
+   "title": "Lautakuntien ja jaostojen päätösten tarkistaminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025902-9",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025902-9.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Toimielimen puheenjohtaja",
+   "proposal": "Aluehallitus ei käytä otto-oikeutta toimielinten päätöksiin. Aluehallitus hyväksyy pöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nPohjois-Savon hyvinvointialueen hallintosäännössä § 57-59 on määritelty otto-oikeuden käytöstä seuraavaa:\n\nAsian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nAluehallituksella ei ole otto-oikeutta hyvinvointialueiden yhteisen toimielimen tekemiin päätöksiin.\n\nAsia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nYlemmän toimielimen käsiteltäväksi ei kuitenkaan saa ottaa:\n\n1) lain tai asetuksen mukaisia lupa-, ilmoitus- tai valvontamenettelyä koskevia asioita\n\n2) yksilöön kohdistuvia terveydenhuollon tai sosiaalitoimen asioita\n\n3) hyvinvointialuelain 54 §:ssä tarkoitetulle hyvinvointialueiden yhteiselle toimielimelle siirrettyjä asioita, jos asianomaiset hyvinvointialueet niin sopiva\n\nAsia voidaan hyvinvointialuelain 97 §:n mukaisesti ottaa lautakunnan käsiteltäväksi, jollei ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nAsian ottamisesta lautakunnan käsiteltäväksi voi päättää lautakunta, lautakunnan puheenjohtaja ja lautakunnan esittelijä.\n\nAluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan. Ilmoitus tehdään sähköisesti aluehallituksen puheenjohtajalle ja esittelijälle.\n\nPäätökset niissä asioissa, joista ei tarvitse ilmoittaa, voidaan otto-oikeuden estämättä panna täytäntöön, jollei yksittäistapauksessa ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nEsityslistan lisäaineistona jaetaan pöytäkirjat:\n\n- Ikäihmisten ja hoivapalveluiden lautakunta 13.11.2025\n\n- Perhe- ja vammaispalveluiden lautakunta 24.11.2025\n\n- Yleisten palveluiden lautakunta 13.11.2025\n\n- Kokonaisturvallisuuslautakunta 13.11.2025\n\n- Asiakaskokemusjaosto\n\n- Tulevaisuus- ja strategiajaosto\n\n- Omistajaohjaus- ja valvontajaosto",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Lautakuntien ja jaostojen päätösten tarkistaminen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Toimielimen puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus ei käytä otto-oikeutta toimielinten päätöksiin. Aluehallitus hyväksyy pöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nPohjois-Savon hyvinvointialueen hallintosäännössä § 57-59 on määritelty otto-oikeuden käytöstä seuraavaa:\n\nAsian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nAluehallituksella ei ole otto-oikeutta hyvinvointialueiden yhteisen toimielimen tekemiin päätöksiin.\n\nAsia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nYlemmän toimielimen käsiteltäväksi ei kuitenkaan saa ottaa:\n\n1) lain tai asetuksen mukaisia lupa-, ilmoitus- tai valvontamenettelyä koskevia asioita\n\n2) yksilöön kohdistuvia terveydenhuollon tai sosiaalitoimen asioita\n\n3) hyvinvointialuelain 54 §:ssä tarkoitetulle hyvinvointialueiden yhteiselle toimielimelle siirrettyjä asioita, jos asianomaiset hyvinvointialueet niin sopiva\n\nAsia voidaan hyvinvointialuelain 97 §:n mukaisesti ottaa lautakunnan käsiteltäväksi, jollei ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nAsian ottamisesta lautakunnan käsiteltäväksi voi päättää lautakunta, lautakunnan puheenjohtaja ja lautakunnan esittelijä.\n\nAluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan. Ilmoitus tehdään sähköisesti aluehallituksen puheenjohtajalle ja esittelijälle.\n\nPäätökset niissä asioissa, joista ei tarvitse ilmoittaa, voidaan otto-oikeuden estämättä panna täytäntöön, jollei yksittäistapauksessa ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nEsityslistan lisäaineistona jaetaan pöytäkirjat:\n\n- Ikäihmisten ja hoivapalveluiden lautakunta 13.11.2025\n\n- Perhe- ja vammaispalveluiden lautakunta 24.11.2025\n\n- Yleisten palveluiden lautakunta 13.11.2025\n\n- Kokonaisturvallisuuslautakunta 13.11.2025\n\n- Asiakaskokemusjaosto\n\n- Tulevaisuus- ja strategiajaosto\n\n- Omistajaohjaus- ja valvontajaosto"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Yleisten palveluiden lautakunta 13.11.2025 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/2025902-9-223182.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Perhe- ja vammaispalveluiden lautakunta 24.11.2025 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/2025902-9-223183.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Kokonaisturvallisuuslautakunta 13.11.2025 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/2025902-9-223184.PDF"
+    },
+    {
+     "title": "Oheismateriaali 4 Ikäihmisten ja hoivapalveluiden lautakunta 13.11.2025 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/2025902-9-223185.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "460",
+   "title": "Viranhaltijapäätösten tarkastaminen ajalta 12.11.2025 – 25.11.2025",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025902-10",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025902-10.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Toimielimen puheenjohtaja",
+   "proposal": "Aluehallitus ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Aluehallitus hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 57 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava aluehallitukselle niistä päätöksistä, jotka voidaan ottaa aluehallituksen käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava aluehallituksen alaisten viranhaltijoiden osalta aluehallitukselle.\n\nAluehallituksen alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa aluehallituksen puheenjohtajalle ja hyvinvointialuejohtajalle.\n\nAluehallitukselle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 12.11.2025 – 25.11.2025",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Viranhaltijapäätösten tarkastaminen ajalta 12.11.2025 – 25.11.2025"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Toimielimen puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Aluehallitus hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 57 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava aluehallitukselle niistä päätöksistä, jotka voidaan ottaa aluehallituksen käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava aluehallituksen alaisten viranhaltijoiden osalta aluehallitukselle.\n\nAluehallituksen alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa aluehallituksen puheenjohtajalle ja hyvinvointialuejohtajalle.\n\nAluehallitukselle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 12.11.2025 – 25.11.2025"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Viranhaltijapäätösluettelo 12.11.-25.11.2025 otsikot",
+     "url": "https://pshva.oncloudos.com/kokous/2025902-10-223166.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "461",
+   "title": "Muut asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025902-11",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025902-11.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Muut asiat: -Tilannekatsaus asukasvuokrauksesta Puheenjohtaja päätti kokouksen klo 15.55\n\nTiedoksi. Itä-Suomen aluehallintoviraston valvontapäätös, vammaispalvelujen toiminta\n\nTiedoksi. EOAK_2820_2024_Vanhusten palveluasumista koskeva ohjeistus, Eduskunnan oikeusasiamies",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Muut asiat: -Tilannekatsaus asukasvuokrauksesta Puheenjohtaja päätti kokouksen klo 15.55\n\nTiedoksi. Itä-Suomen aluehallintoviraston valvontapäätös, vammaispalvelujen toiminta\n\nTiedoksi. EOAK_2820_2024_Vanhusten palveluasumista koskeva ohjeistus, Eduskunnan oikeusasiamies"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Raatikainen Riitta",
+   "role": "aluehallituksen puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Hedman Pia",
+   "role": "aluehallituksen 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Rossi Markku",
+   "role": "aluehallituksen 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kanniainen Aino",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lötjönen Vesa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Miettinen Heikki",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pitkänen Juha",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Rautiainen Merja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Suna Sassa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Taipale Pekka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Vornanen Ahti-Pekka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Väätäinen Tuula",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Åhman Kati",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kokki Hannu",
+   "role": "aluevaltuuston puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Pellikka Minna",
+   "role": "aluevaltuuston 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Korhonen Marko",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Niemeläinen Janne",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Antikainen Mari",
+   "role": "henkilöstöjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Hedman Antti",
+   "role": "vastaava lääkäri",
+   "group": "other"
+  },
+  {
+   "name": "Janhonen Kari",
+   "role": "talousjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Jestola Eija",
+   "role": "toimilinjajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kantanen Kati",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Koponen Jukka",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Korhonen Mikko",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Lampi Jussi",
+   "role": "strategiajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Pekkarinen Tuomo",
+   "role": "tietohallintojohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Remes Sami",
+   "role": "toimilinjajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Saarinen Jari",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kauppinen Virpi",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Räsänen Henna",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Mykkänen Minna",
+   "role": "johtaja ylihoitaja",
+   "group": "other"
+  },
+  {
+   "name": "Pyy Petri",
+   "role": "asiantuntija",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025902",
+  "fetched_at": "2026-10-14T18:23:14+00:00",
+  "content_hash": "7e34398c0a5507bb",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T18:23:14+00:00"
+ }
+}

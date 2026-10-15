@@ -1,0 +1,768 @@
+{
+ "id": "yleisten-palveluiden-lautakunta/2025-10-09",
+ "region": "pohjois-savo",
+ "body_id": "yleisten-palveluiden-lautakunta",
+ "body_name": "Yleisten palveluiden lautakunta",
+ "date": "2025-10-09",
+ "stage": "minutes",
+ "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025820",
+ "pdf_url": "https://pshva.oncloudos.com/kokous/2025820.PDF",
+ "time": "09:00 - 12:15",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "113",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025820-1",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025820-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.",
+   "decision": "Kokous todettiin laillisesti koolle kutsutuksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen laillisuus ja päätösvaltaisuus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokous todettiin laillisesti koolle kutsutuksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "114",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025820-2",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025820-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Merja Jalkala ja Anne Kumpusalo-Vauhkonen.",
+   "decision": "Pöytäkirjantarkastajiksi valittiin Merja Jalkala ja Anne Kumpusalo-Vauhkonen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pöytäkirjantarkastajien valinta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Merja Jalkala ja Anne Kumpusalo-Vauhkonen."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Merja Jalkala ja Anne Kumpusalo-Vauhkonen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "115",
+   "title": "Asioiden käsittelyjärjestys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025820-3",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025820-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi.",
+   "decision": "Käsitellään § 128 Mielenterveyspalvelujen ostopalvelulääkärihankinta Varkauden ja Iisalmen alueille ennen § 124 ajankohtaiset asiat. Muuten esityslistan mukaisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asioiden käsittelyjärjestys"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Käsitellään § 128 Mielenterveyspalvelujen ostopalvelulääkärihankinta Varkauden ja Iisalmen alueille ennen § 124 ajankohtaiset asiat. Muuten esityslistan mukaisesti."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "116",
+   "title": "Yleisten palveluiden toimialan osavuosikatsaus tammi-elokuu 2025",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025820-4",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025820-4.PDF",
+   "diary_number": "244/02.02.02/2025",
+   "preparer": null,
+   "presenter": "yleisten palveluiden toimialajohtaja",
+   "proposal": "Yleisten palveluiden lautakunta merkitsee osavuosikatsauksen tiedoksi.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 42, lautakunnan erityistehtävät kohta 4\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Yleisten palveluiden toimialan osavuosikatsaus tammi-elokuu 2025\n\nValmistelu\nHyvinvointialueen vuoden 2025 toinen osavuosikatsaus on laadittu tammi-elokuulta. Toimialan johdon katsaus on esityslistan oheisaineistona. Katsaus sisältää lyhyet kuvaukset toiminnasta, talouden toteumasta ja sisäisestä valvonnasta sekä seurattavista mittareista.",
+   "decision": "Merkittiin tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\ntoimialajohtaja Jari Saarinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkittiin tiedoksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "yleisten palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Yleisten palveluiden lautakunta merkitsee osavuosikatsauksen tiedoksi.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 42, lautakunnan erityistehtävät kohta 4\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Yleisten palveluiden toimialan osavuosikatsaus tammi-elokuu 2025\n\nValmistelu\nHyvinvointialueen vuoden 2025 toinen osavuosikatsaus on laadittu tammi-elokuulta. Toimialan johdon katsaus on esityslistan oheisaineistona. Katsaus sisältää lyhyet kuvaukset toiminnasta, talouden toteumasta ja sisäisestä valvonnasta sekä seurattavista mittareista."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Osavuosikatsaus 1-8_2025, Yleiset palvelut",
+     "url": "https://pshva.oncloudos.com/kokous/2025820-4-209407.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "117",
+   "title": "Talousarvio 2026, Yleiset palvelut",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025820-5",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025820-5.PDF",
+   "diary_number": "3354/02.02.00/2025",
+   "preparer": null,
+   "presenter": "yleisten palveluiden toimialajohtaja",
+   "proposal": "Yleisten palveluiden lautakunta hyväksyy yleisten palveluiden toimialan talousarvion 2026 ja esittää sen hyväksymistä osana hyvinvointialuejohtajan talousarvioesitystä aluehallitukselle ja edelleen aluevaltuustolle\n\nEnnakkovaikutusten arviointi\n\nKuvattu erillisessä liitteessä\n\nToimivallan peruste\nHallintosääntö § 42, kohta 3 ja 4\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Talousarvio 2025, Yleiset palvelut\n\n- Erityispalvelut mittarit TA2026\n\n- Peruspalvelut mittarit TA2026\n\n- Vaikutusten arviointi, TA2026\n\nValmistelu\nAluevaltuuston on kunkin vuoden loppuun mennessä hyväksyttävä hyvinvointialueelle talousarvio, jossa otetaan huomioon hyvinvointi- aluekonsernin talouden vastuut ja velvoitteet. Tässä yhteydessä aluevaltuusto hyväksyy myös hyvinvointialueen taloussuunnitelman, jossa hyväksytään hyvinvointialueen ja hyvinvointialuekonsernin toiminnan ja talouden tavoitteet. Tavoitteiden tulisi toteuttaa hyvin- vointialueelle suunniteltua strategiaa. Talousarviossa on hyvinvointi- alueen tehtävien ja toiminnan tavoitteiden edellyttämät määrärahat ja tuloarviot. Taloussuunnitelma sisältää käyttötalous- ja tulos- laskelmat sekä investointi- ja rahoitusosan.\n\nAluehallitus on hyväksynyt 9.6.2025 raamin Pohjois-Savon hyvinvointialueen talousarvioon 2026 ja taloussuunnitelman 2026–2028 lähtökohdat.\n\nYleisten palveluiden toimialan talousarvio on laadittu annettuun raamiin. Talouden tasapaino vuonna 2026 edellyttää muutoksia toiminnassa ja henkilöstön resurssoinnissa sekä onnistumista niissä. Raamiin pääsemiseksi on talousarvioon sisällytetty palvelujärjestelmä uudistuksessa aikataulutettuja muutoksia sekä aluevaltuustossa kesäkuussa 2024 päätetystä Vastaanottotoiminnan, alueellisen erikoissairaanhoidon ja aikuissosiaalityön sekä osastohoidon, asumisen ja kotiin vietävien palveluiden uudistusta (R1 ja R2) ja aluevaltuustossa toukokuussa 2025 päätetystä Yliopistosairaalan ja erikoissairaanhoidon rakenneuudistuksesta (R4). Talousarviossa on myös leikattu ostopalveluista sekä tukipalveluista tavoitteena oman toiminnan tehostaminen ja lisääminen. Talousarvio ei sisällä tulevia mahdollisia hinnankorotuksia tai palvelutarpeen muutoksesta johtuvia tasokorotuksia. Toimialan talousarvioesitys sisältää riskin, ettei lakisääteisiä palveluita pystytä järjestämään ja tuottamaan palvelutarpeen mukaisesti ja lakisääteisissä määräajoissa.",
+   "decision": "Merkitään pöytäkirjaan, että Sami Remes ja Riitta Raatikainen liittyivät kokoukseen klo 10.15.\n\nPeruspalveluiden mittarit liitteeseen tehdään seuraavat tekniset korjaukset:\n\n• henkilöstömittarit kohdasta poistetaan sairauspoissaoloprosentit\n\n• lisätään suunterveydenhuollon hoitotakuun toteutuminen mittaristoon\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJari Saarinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että Sami Remes ja Riitta Raatikainen liittyivät kokoukseen klo 10.15.\n\nPeruspalveluiden mittarit liitteeseen tehdään seuraavat tekniset korjaukset:\n\n• henkilöstömittarit kohdasta poistetaan sairauspoissaoloprosentit\n\n• lisätään suunterveydenhuollon hoitotakuun toteutuminen mittaristoon\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "yleisten palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Yleisten palveluiden lautakunta hyväksyy yleisten palveluiden toimialan talousarvion 2026 ja esittää sen hyväksymistä osana hyvinvointialuejohtajan talousarvioesitystä aluehallitukselle ja edelleen aluevaltuustolle\n\nEnnakkovaikutusten arviointi\n\nKuvattu erillisessä liitteessä\n\nToimivallan peruste\nHallintosääntö § 42, kohta 3 ja 4\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Talousarvio 2025, Yleiset palvelut\n\n- Erityispalvelut mittarit TA2026\n\n- Peruspalvelut mittarit TA2026\n\n- Vaikutusten arviointi, TA2026\n\nValmistelu\nAluevaltuuston on kunkin vuoden loppuun mennessä hyväksyttävä hyvinvointialueelle talousarvio, jossa otetaan huomioon hyvinvointi- aluekonsernin talouden vastuut ja velvoitteet. Tässä yhteydessä aluevaltuusto hyväksyy myös hyvinvointialueen taloussuunnitelman, jossa hyväksytään hyvinvointialueen ja hyvinvointialuekonsernin toiminnan ja talouden tavoitteet. Tavoitteiden tulisi toteuttaa hyvin- vointialueelle suunniteltua strategiaa. Talousarviossa on hyvinvointi- alueen tehtävien ja toiminnan tavoitteiden edellyttämät määrärahat ja tuloarviot. Taloussuunnitelma sisältää käyttötalous- ja tulos- laskelmat sekä investointi- ja rahoitusosan.\n\nAluehallitus on hyväksynyt 9.6.2025 raamin Pohjois-Savon hyvinvointialueen talousarvioon 2026 ja taloussuunnitelman 2026–2028 lähtökohdat.\n\nYleisten palveluiden toimialan talousarvio on laadittu annettuun raamiin. Talouden tasapaino vuonna 2026 edellyttää muutoksia toiminnassa ja henkilöstön resurssoinnissa sekä onnistumista niissä. Raamiin pääsemiseksi on talousarvioon sisällytetty palvelujärjestelmä uudistuksessa aikataulutettuja muutoksia sekä aluevaltuustossa kesäkuussa 2024 päätetystä Vastaanottotoiminnan, alueellisen erikoissairaanhoidon ja aikuissosiaalityön sekä osastohoidon, asumisen ja kotiin vietävien palveluiden uudistusta (R1 ja R2) ja aluevaltuustossa toukokuussa 2025 päätetystä Yliopistosairaalan ja erikoissairaanhoidon rakenneuudistuksesta (R4). Talousarviossa on myös leikattu ostopalveluista sekä tukipalveluista tavoitteena oman toiminnan tehostaminen ja lisääminen. Talousarvio ei sisällä tulevia mahdollisia hinnankorotuksia tai palvelutarpeen muutoksesta johtuvia tasokorotuksia. Toimialan talousarvioesitys sisältää riskin, ettei lakisääteisiä palveluita pystytä järjestämään ja tuottamaan palvelutarpeen mukaisesti ja lakisääteisissä määräajoissa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Talousarvio 2026, Yleiset palvelut",
+     "url": "https://pshva.oncloudos.com/kokous/2025820-5-211011.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Vaikutusten ennakkoarviointi, TA2026 Yleiset palvelut",
+     "url": "https://pshva.oncloudos.com/kokous/2025820-5-209984.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Erityispalvelut mittarit TA2026",
+     "url": "https://pshva.oncloudos.com/kokous/2025820-5-210092.PDF"
+    },
+    {
+     "title": "Oheismateriaali 4 Peruspalvelut mittarit TA2026",
+     "url": "https://pshva.oncloudos.com/kokous/2025820-5-210095.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "118",
+   "title": "Perusterveydenhuollon viikonloppuvastaanottojen lopettaminen Pielaveden sotekeskuksessa",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025820-6",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025820-6.PDF",
+   "diary_number": "4577/00.01.02.00/2024",
+   "preparer": "peruspalveluiden toimilinjajohtaja Eija Jestola",
+   "presenter": "yleisten palveluiden toimialajohtaja",
+   "proposal": "Yleisten palveluiden lautakunta päättää lakkauttaa Pielaveden viikonloppujen ja arkipyhien kiirevastaanottotoiminnan 1.2.2025 alkaen.",
+   "decision": "Kokoustauko klo 10.22-11.09.\n\nKari Haring teki esityksen, että: Yleisten palveluiden lautakunta päättää palauttaa asian uudelleen valmisteltavaksi. Valmistelun aikana on selvitettävä, miten Pielaveden alueen peruspalveluja arkipäivien aikana parannetaan ja liikkuvalla sairaalalla/kotisairaalalla ja digipalveluilla turvataan luotettavasti ja kattavasti palvelut, jos viikonloppujen ja arkipyhien kiirevastaanottotoiminta lopetetaan.\n\nTerttu Ruotsalainen kannatti esitystä.\n\nPuheenjohtaja totesi, että koska asiassa on tehty esittelijän esityksestä poikkeava vastaesitys, suoritetaan asiassa äänestys.\n\nÄänestyksessä JAA on pohjaesitys ja EI Kari Haringin vastaesitys.\n\nÄänestyksessä annettiin ääniä seuraavasti:\n\nJAA-ääniä: 4\n\nEI-ääniä: 7\n\nJAA-ääniä antoivat: Tuija Martikainen, Outi Peltola, Teija Airaksinen ja Olli-Pekka Ryynänen\n\nEI-ääniä antoivat: Kari Loponen, Pia Hedman, Matti Kärkkäinen, Kari Haring, Marjaana Pitkänen, Terttu Ruotsalainen ja Petteri Häyrinen\n\nPäätökseksi tuli Kari Haringin vastaesitys.\n\nÄänestyspöytäkirja on pöytäkirjan liitteenä.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nperuspalveluiden toimilinjajohtaja Eija Jestola\n\n\n\nperuspalveluiden palvelualuejohtaja Pertti Lipponen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että Jouni Kurola poistui klo 11.40.\n\nKari Haring teki vastaesityksen: Yleisten palveluiden lautakunta palauttaa asian uudelleen valmisteltavaksi. Valmistelun aikana on selvitettävä, miten Pielaveden alueen peruspalvelujen hoitaja- ja lääkäriresurssit vastaavat mahdollisesti viikonlopuilta arkipäiviin siirtyvien kiirevastaanottopotilaiden hoidon tarpeeseen ja onko henkilöstöresurssi muutenkaan riittävä ottaen huomioon Keiteleen sote-aseman osa-aikaistamisen.\n\nEsitys raukesi kannattamattomana.\n\nPäätösehdotus hyväksyttiin.\n\nKari Haring jätti eriävän mielipiteen, perusteluna vastaesitykseen kirjatut asiat."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "yleisten palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Yleisten palveluiden lautakunta päättää lakkauttaa Pielaveden viikonloppujen ja arkipyhien kiirevastaanottotoiminnan 8.11.2025 alkaen.\n\nEnnakkovaikutusten arviointi\n\nVaikutusten arviointi kuvattu erillisessä liitteessä\n\nToimivallan peruste\nhallintosääntö 42 §, lautakunnan yleiset tehtävät kohta 2\n\nhallintosääntö 42 §, lautakunnan erityistehtävät kohta 1, 2 ja 4\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- ennakkovaikutusten arviointi\n\nValmistelu\nPohjois-Savon hyvinvointialueen palvelujärjestelmäuudistus on hyväksytty hyvinvointialueen aluevaltuustossa 17.06.2024 §47. Palvelujärjestelmäuudistuksen toimeenpanosta vastaa yleisten palveluiden lautakunta, joka on kokouksessaan 10.10.2024 §94 päättänyt muuttaa Pielaveden osaston määräaikaisesti hoivaosastoksi ajalle 1.11. - 31.12.2024 sekä samalla päättänyt lopettaa Pielaveden osastotoiminnan terveydenhuollon yksikkönä 1.1.2025 alkaen. Viikonloppuaikaista kiirevastaanoton toimintaa on tarpeen tarkastella osastotoiminnan lakkautuessa terveydenhuollon yksikkönä.\n\nPielaveden kiirevastaanotto toimii tällä hetkellä terveysasemalla lauantaisin, sunnuntaisin ja arkipyhinä klo 9–15 välisenä aikana. Tammi-syyskuussa 2024 potilaskäyntejä on ollut lääkärillä keskimäärin 7,8/päivä, hoitajalla 1,4/päivä. Käynneistä arviolta\n\n1–2/päivä on ollut kiireellisiä eli saman päivän aikana hoidettavia potilaita. Muut asiat ovat olleet puolikiireellisiä ja olisivat tulleet hoidetuiksi virka-aikaan tapahtuvalla vastaanotolla.\n\nYleisten palveluiden lautakunnassa 16.1.2025 (§5) oli esityksenä Pielaveden terveysasemalla järjestettävien arkipyhä- ja viikonloppuvastaanottojen lakkauttaminen. Yleisten palveluiden lautakunta päätti jatkaa Pielaveden viikonloppujen ja arkipyhien kiirevastaanottotoimintaa. Korvaavien palvelujen järjestämisestä on oltava riittävän pitkä seurantajakso, jotta vasta sen jälkeen voidaan arvioida ja tehdä erillispäätös Pielaveden perusterveydenhuollon viikonloppujen ja arkipyhien kiirevastaanottotoiminnan lakkauttamisesta.\n\nLiikkuvan sairaalan Pielaveden yksikkö on aloittanut toiminnan 5.5.2025 ja siirtynyt kaksivuorotyöhön 26.5.2025. Liikkuva sairaala on lääkärijohtoista, kotiin tuotavaa vaativaa ja osastohoitoa korvaavaa sairaanhoitoa tilanteissa, joissa perinteinen vuodeosastohoito on epätarkoituksenmukaista tai joissa hoitoa ei voida toteuttaa polikliinisiin palveluihin tukeutuen.\n\nPielaveden liikkuva sairaala on hoitanut touko-syyskuussa 174 potilasta, joista Pielaveden kunnan asukkaita on ollut 34 %.\n\nKotiutus- ja arviointiyksikön toiminta on käynnistynyt Pielaveden, Keiteleen, Tervon, Vesannon, Karttulan, Suonenjoen ja Rautalammin alueella 11.8.2025. Yksikkö tuottaa alueelle sekä tuetun kotiutumisen että kuntouttavan arviointijakson (ARVI) palveluita. Kotiutusyksikköön ohjaudutaan terveydenhuollon ammattihenkilön, esim. kotiutushoitaja, yhteydenoton kautta. Toiminta on kahdessa vuorossa klo 7-21 välillä.\n\nPielaveden kotiutusyksikkö on hoitanut elo-syyskuun aikana 26 potilasta, joista Pielaveden kunnan asukkaita on noin neljäsosa (23 %).\n\nVuoden 2025 talousarvioon ei ole varattu erillistä määrärahaa Pielaveden viikonloppuvastaanottotoiminnan ylläpitämiseen . Viikonlopun kiirevastaanottotoiminnan järjestäminen vaatii erityisesti hoitajaresursointia omasta työvoimasta ja se on siten poissa arkivastaanottotoiminnasta. Lääkärityöpanos on tuotettu osin omilla virkalääkäreillä ja osin ostopalvelua käyttäen. Hoitaja- ja lääkäriresurssin saaminen toiminnan turvaamiseksi on ollut ajoittain haastavaa.\n\nViikonlopun kiirevastaanottotoiminnan varsinaisten päivystyspotilaiden hoito toteutuu asianmukaisissa päivystysyksiköissä ensihoidon resurssien tukemana. Puolikiireellisen hoidon tuottaminen viikonloppuisin on hoidollisesti vähäistä terveyshyötyä tuottavaa toimintaa. Toimintaan käytettävä resurssi on terveyshyödyn näkökulmasta paremmin perusteltavissa päiväaikaisen toiminnan riittävällä resursoinnilla.\n\nYleisltk 16.01.2025 § 5\n\nValmistelija(t)\nperuspalveluiden toimilinjajohtaja Eija Jestola\n\n\n\nperuspalveluiden palvelualuejohtaja Pertti Lipponen\n\n, sotekeskuspalveluiden palveluyksikköjohtaja Ritva Vitri"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Terttu Ruotsalainen teki esityksen, että: Yleisten palveluiden lautakunta päättää jatkaa Pielaveden viikonloppujen ja arkipyhien kiirevastaanottotoimintaa. Korvaavien palvelujen järjestämisestä on laadittava yksityiskohtainen suunnitelma, vastuutahot on määrättävä ja korvaavien palvelujen toimintamalli on testattava. Korvaavien palvelujen järjestämisestä on oltava riittävän pitkä seurantajakso, jotta vasta sen jälkeen voidaan arvioida ja tehdä erillispäätös Pielaveden perusterveydenhuollon viikonloppujen ja arkipyhien kiirevastaanottotoiminnan lakkauttamisesta.\n\nKari Haring, Simo Kokko, Pia Hedman ja Kari Loponen kannattivat Terttu Ruotsalaisen esitystä.\n\nPuheenjohtaja totesi, että koska asiassa on tehty esittelijän esityksestä poikkeava vastaesitys, suoritetaan asiassa äänestys.\n\nÄänestyksessä JAA on pohjaesitys ja EI Terttu Ruostalaisen vastaesitys.\n\nÄänestyksessä annettiin ääniä seuraavasti:\n\nJAA-ääniä: 3\n\nEI-ääniä: 6\n\nTyhjiä: 1\n\nJAA-ääniä antoivat: Tuija Martikainen, Olli-Pekka Ryynänen ja Heli Norja\n\nEI-ääniä antoivat: Matti Kärkkäinen, Terttu Ruotsalainen, Kari Haring, Kari Loponen, Pia Hedman ja Simo Kokko\n\nTYHJÄ-ääniä antoivat: Marjaana Pitkänen\n\nPuheenjohtaja totesi, että päätökseksi tuli Terttu Ruotsalaisen vastaesitys.\n\nEsittelijä jätti eriävän mielipiteen.\n\nÄänestyspöytäkirja on pöytäkirjan liitteenä."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "yleisten palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Yleisten palveluiden lautakunta päättää lakkauttaa Pielaveden viikonloppujen ja arkipyhien kiirevastaanottotoiminnan 1.3.2025 alkaen.\n\nEnnakkovaikutusten arviointi\n\nVaikutusten arviointi on kuvattu erillisessä liitteessä.\n\nToimivallan peruste\nhallintosääntö 42 §, lautakunnan yleiset tehtävät kohta 2\n\nhallintosääntö 42 §, lautakunnan erityistehtävät kohta 1, 2 ja 4\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- ennakkovaikutusten arviointi\n\nValmistelu\nYleisten palveluiden lautakunnassa 14.11.2024 (§105) oli esityksenä Pielaveden terveysasemalla järjestettävien arkipyhä- ja viikonloppuvastaanottojen lakkauttaminen. Yleisten palveluiden lautakunta päätti palauttaa asian uudelleen valmisteltavaksi. Valmistelun aikana pyydettiin selvitystä, miten Pielaveden alueen terveysaseman peruspalveluja parannetaan arkipäivien aikana ja miten liikkuvalla sairaalalla/kotisairaalalla ja digipalveluilla turvataan luotettavasti ja kattavasti palvelut, jos viikonloppujen ja arkipyhien kiirevastaanottotoiminta lopetetaan.\n\nPielavedellä järjestettävien arkipyhä- ja viikonloppuvastaanottojen osalta vapautuu noin kahden (2) sairaanhoitajan resurssia yhteensä 0,62 htv käytettäväksi ns. virka-aikaiseen työhön.\n\nPohjois-Savon hyvinvointialueen vastaanottopalveluiden merkittävä vaje lääkäriresursseissa tarkoittaa, että eri ammattiryhmien osaamisen hyödyntäminen entistä tehokkaammin on tärkeää. Sairaanhoitajilla on iso rooli virka-aikaisessa palvelutuotannossa paitsi itsenäisen hoitajan akuuttivastaanoton tuottamisessa, myös pitkäaikaissairauksien seurannassa ja ennaltaehkäisyssä. Lisäksi uutena toimintana käynnistyvä digitaalinen sotekeskus tulee laajentuessaan tarvitsemaan lisääntyvässä määrin hoitajaresurssia sujuvan palvelutuotannon varmistamiseksi. Pielaveden viikonloppu-vastaanoton lakkauttamisella saavutettavalla 0,62 htv lisäyksellä pystytään osaltaan vastaamaan palvelutuotannon tarpeisiin muuttuvassa toimintaympäristössä.\n\nDigitaalinen sotekeskus käynnistyy tammikuussa 2025. Alkuvaiheessa tuotetaan chat- ja videovastaanottopalvelua ja palveluita laajennetaan asteittain vuoden 2025 aikana. Digitaalinen sotekeskus lähtee liikkeelle ns. virka-aikaisella toiminnalla, joten arkipyhien ja viikonloppujen palvelutarpeeseen ei digipalveluilla ainakaan alkuvaiheessa pystytä vastaamaan.\n\nLiikkuvan sairaalan ja kotisairaalan palvelut ovat siirtymässä ikääntyneiden palveluiden toimialalta yleisten palveluiden toimialalle Akuutti palveluyksikköön. Muutos toteutetaan 1.3.2025 alkaen. Uudessa toimintamallissa Pielaveden alueelle on suunniteltu liikkuvan sairaalan yksikkö, joka pystyy vastaamaan potilaiden palvelutarpeisiin esimerkiksi päivittäin toteutettavien iv-antibiootti-hoitojen osalta."
+    },
+    {
+     "heading": "Valmistelijan päätösehdotus",
+     "text": "Yleisten palveluiden lautakunta päättää lakkauttaa Pielaveden viikonloppujen ja arkipyhien kiirevastaanottotoiminnan 1.3.2025 alkaen.\n\nYleisltk 14.11.2024 § 105\n\nValmistelija: peruspalveluiden toimilinjajohtaja Eija Jestola\n\n\n\nperuspalveluiden palvelualuejohtaja Pertti Lipponen\n\n, sotekeskuspalveluiden palveluyksikköjohtaja Ritva Vitri\n\n\n\nPohjois-Savon hyvinvointialueen palvelujärjestelmäuudistus on hyväksytty hyvinvointialueen aluevaltuustossa 17.06.2024 §47. Palvelujärjestelmäuudistuksen toimeenpanosta vastaa yleisten palveluiden lautakunta, joka on kokouksessaan 10.10.2024 §94 päättänyt muuttaa Pielaveden osaston määräaikaisesti hoivaosastoksi ajalle 1.11. - 31.12.2024 sekä samalla päättänyt lopettaa Pielaveden osastotoiminnan terveydenhuollon yksikkönä 1.1.2025 alkaen. Viikonloppuaikaista kiirevastaanoton toimintaa on tarpeen tarkastella osastotoiminnan lakkautuessa terveydenhuollon yksikkönä.\n\nPielaveden kiirevastaanotto toimii tällä hetkellä terveysasemalla lauantaisin, sunnuntaisin ja arkipyhinä klo 9–15 välisenä aikana. Tammi-syyskuussa 2024 potilaskäyntejä on ollut lääkärillä keskimäärin 7,8/päivä, hoitajalla 1,4/päivä. Käynneistä arviolta\n\n1–2/päivä on ollut kiireellisiä eli saman päivän aikana hoidettavia potilaita. Muut asiat ovat olleet puolikiireellisiä ja olisivat tulleet hoidetuiksi virka-aikaan tapahtuvalla vastaanotolla.\n\nPielavedellä ja Keiteleellä on merkittävä virkalääkäriresurssivaje eikä ulkopuoliselta palveluntuottajalta hankitulla lääkäriresurssilla ole ollut päivystysvelvoitetta. Viikonloppuvastaanotolla on työskennellyt myös hyvinvointialueen muiden toimipisteiden virkalääkäreitä. Viikonloppuvastaanottoa on jouduttu muuttamaan välillä pelkäksi hoitajavastaanotoksi, koska lääkäriä ei ole saatu järjestettyä viikonloppuvuoroihin. Henkilöstön riittävyyden turvaamiseksi myös hoitohenkilökuntaa muista toimipisteistä on työskennellyt Pielaveden kiirevastaanotolla.\n\nViikonloppuvastaanoton lakkauttamisella pystytään turvaamaan hoitohenkilöstön riittävyys virka-aikaiseen toimintaan Pielavedellä. Esitetyllä toiminnan muutoksella saadaan säästöä lääkäri- ja hoitohenkilöstön palkkakustannuksissa noin 120 000 €/ vuosi, jonka lisäksi säästöä saadaan tukipalveluostoissa.\n\nHenkilöstön ennakoiva kuuleminen palvelutoiminnan muutoksesta päättyi yhteisymmärrykseen 31.10.2024.\n\nKiireellistä hoitoa tarvitsevat asiakkaat voivat käyttää tarvittaessa viikonloppuisin muita hyvinvointialueen kiirevastaanottoja.\n\nEsityslistan oheisaineistona:\n\n- ennakkovaikutusten arviointi"
+    },
+    {
+     "heading": "Valmistelijan päätösehdotus",
+     "text": "Yleisten palveluiden lautakunta päättää lakkauttaa Pielaveden viikonloppujen ja arkipyhien kiirevastaanottotoiminnan 1.2.2025 alkaen.\n\nEnnakkovaikutusten arviointi\n\nVaikutusten arviointi on kuvattu erillisessä liitteessä.\n\nToimivallan peruste\nhallintosääntö 42 §, lautakunnan yleiset tehtävät kohta 2\n\nhallintosääntö 42 §, lautakunnan erityistehtävät kohta 1, 2 ja 4"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "yleisten palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Yleisten palveluiden lautakunta päättää lakkauttaa Pielaveden viikonloppujen ja arkipyhien kiirevastaanottotoiminnan 1.2.2025 alkaen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokoustauko klo 10.22-11.09.\n\nKari Haring teki esityksen, että: Yleisten palveluiden lautakunta päättää palauttaa asian uudelleen valmisteltavaksi. Valmistelun aikana on selvitettävä, miten Pielaveden alueen peruspalveluja arkipäivien aikana parannetaan ja liikkuvalla sairaalalla/kotisairaalalla ja digipalveluilla turvataan luotettavasti ja kattavasti palvelut, jos viikonloppujen ja arkipyhien kiirevastaanottotoiminta lopetetaan.\n\nTerttu Ruotsalainen kannatti esitystä.\n\nPuheenjohtaja totesi, että koska asiassa on tehty esittelijän esityksestä poikkeava vastaesitys, suoritetaan asiassa äänestys.\n\nÄänestyksessä JAA on pohjaesitys ja EI Kari Haringin vastaesitys.\n\nÄänestyksessä annettiin ääniä seuraavasti:\n\nJAA-ääniä: 4\n\nEI-ääniä: 7\n\nJAA-ääniä antoivat: Tuija Martikainen, Outi Peltola, Teija Airaksinen ja Olli-Pekka Ryynänen\n\nEI-ääniä antoivat: Kari Loponen, Pia Hedman, Matti Kärkkäinen, Kari Haring, Marjaana Pitkänen, Terttu Ruotsalainen ja Petteri Häyrinen\n\nPäätökseksi tuli Kari Haringin vastaesitys.\n\nÄänestyspöytäkirja on pöytäkirjan liitteenä."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Vaikutusten ennakkoarviointi Pielaveden viikonloppuvastaanottojen lakkauttaminen, ltk 9.10.2025",
+     "url": "https://pshva.oncloudos.com/kokous/2025820-6-210771.PDF"
+    }
+   ],
+   "votes": [
+    {
+     "counts": {
+      "jaa": 4,
+      "ei": 7
+     },
+     "context": "Äänestyksessä annettiin ääniä seuraavasti:\nJAA-ääniä: 4\nEI-ääniä: 7",
+     "provisional": true,
+     "names": {}
+    }
+   ],
+   "redacted": false
+  },
+  {
+   "number": "119",
+   "title": "Pohjois-Savon hyvinvointialueen silmänpohjakuvausten kilpailuttaminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025820-7",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025820-7.PDF",
+   "diary_number": "5269/02.08.01/2025",
+   "preparer": null,
+   "presenter": "yleisten palveluiden toimialajohtaja",
+   "proposal": "Yleisten palveluiden lautakunta päätää käynnistää silmänpohjakuvausten kilpailutuksen ja valtuuttaa hankintayksikkö Sansian kilpailuttamaan palvelun, tekemään hankintapäätöksen ja sopimukset.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä\n\nToimivallan peruste\nHallintosääntö § 93\n\nLiitteet ja oheisaineisto\n\n-\n\nValmistelu\nSilmänpohjien kuvaaminen kuuluu diabetespotilaiden vakiintuneen käytännön mukaiseen seurantaan, jolla voidaan ehkäistä ennenaikaista näön heikkenemistä ja näön menetystä.\n\nEnnen Pohjois-Savon hyvinvointialueen toiminnan käynnistymistä kunnat ja kuntayhtymät ovat laatineet omat sopimukset ulkopuolisen palvelutuottajan kanssa kuvausten järjestämiseksi. Tehdyt sopimukset siirtyivät sellaisenaan Pohjois- Savon hyvinvointialueelle. Pohjois-Savon hyvinvointialue on hankkinut silmänpohjakuvaukset kunnissa aiemmin tehtyjen sopimusten perusteella ulkopuoliselta palveluntuottajalta. Eteläinen alue (Varkaus, Joroinen) poikkeaa edellä mainitusta, jossa sotekeskuksen oma henkilöstö osallistuu silmänpohjaseulontoihin. Hyvinvointialueelle on tarkoituksenmukaista saada yksi yhtenäinen palvelusopimus silmänpohjakuvauksiin.\n\nUlkopuolinen palveluntuottaja on tehnyt Pohjois-Savon hyvinvointialueella silmänpohjakuvauksia vuosina 2023 ja 2024 yhteensä noin 6 800 kuvausta/vuosi, joista kustannus on ollut noin 250 000 euroa vuodessa. Vuonna 2024 omana toimintana tehtyjä kuvauksia eteläisellä alueella on ollut noin 950 kpl. Henkilökustannukset/-resurssi, joka on ollut eteläisellä alueella noin yksi (1) henkilötyövuosi, keskisellä alueella 0,1 henkilötyövuotta ja pohjoisella alueella 0,1 henkilötyövuotta, ei sisälly edellä mainittuihin vuosikustannuksiin.\n\nSilmänpohjakuvauksia tehdään Kaavilla, Kuopiossa, Nilsiässä, Tuusniemellä, Juankoskella, Iisalmessa, Keiteleellä, Kiuruvedellä, Lapinlahdella, Pielavedellä, Rautavaaralla, Siilinjärvellä, Sonkajärvellä, Varpaisjärvellä, Leppävirralla, Suonenjoella, Tervossa, Vesannolla ja Rautalammilla. Voimassa olevien sopimusten kuvauskustannukset/kuvaus ovat korkeammat pienemmillä paikkakunnilla. Nykyisten sopimusten irtisanomisaika vaihtelee kolmesta kuuteen kuukauteen (3–6 kk). Tyypillisesti seulontakuvauksia tehdään yhden kahden (1–2) vuoden välein, ennen kuin potilaat siirtyvät yksilöllisen tarpeen mukaiseen seurantaan silmätautien erikoisalalle.\n\nToiminnan yhdenmukaistaminen, selkeyttäminen ja kustannusten hallinta on hyvinvointialueella tärkeää. Perus- ja erityispalvelujen asiantuntijoista koostunut työryhmä esittää, että kyseinen toiminta kilpailutetaan uudelleen koskemaan koko hyvinvointialuetta. Kuvaukset tullaan keskittämään jatkossa Iisalmeen, Varkauteen ja\n\nKuopioon. Palvelun keskittäminen niihin toimintayksiköihin, joissa järjestetään silmätautien erikoisalan palveluja tällä hetkellä, mahdollistaa tulevaisuudessa sujuvan kuvaustoiminnan siirtämisen omaksi toiminnaksi myöhemmin joko erityispalveluiden ja/tai peruspalveluiden tuottamana.\n\nHankinnan arvo on noin 300 000 euroa vuodessa (huomioiden koko hyvinvointialueen kustannus). Neljän vuoden hankintakautena kustannus on yhteensä noin 1 200 000 euroa.",
+   "decision": "Esittelijä veti asian pois listalta.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nEija Jestola\n\nJouni Kurola\n\nPertti Lipponen, Minna Rautinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Esittelijä veti asian pois listalta."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "yleisten palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Yleisten palveluiden lautakunta päätää käynnistää silmänpohjakuvausten kilpailutuksen ja valtuuttaa hankintayksikkö Sansian kilpailuttamaan palvelun, tekemään hankintapäätöksen ja sopimukset.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä\n\nToimivallan peruste\nHallintosääntö § 93\n\nLiitteet ja oheisaineisto\n\n-\n\nValmistelu\nSilmänpohjien kuvaaminen kuuluu diabetespotilaiden vakiintuneen käytännön mukaiseen seurantaan, jolla voidaan ehkäistä ennenaikaista näön heikkenemistä ja näön menetystä.\n\nEnnen Pohjois-Savon hyvinvointialueen toiminnan käynnistymistä kunnat ja kuntayhtymät ovat laatineet omat sopimukset ulkopuolisen palvelutuottajan kanssa kuvausten järjestämiseksi. Tehdyt sopimukset siirtyivät sellaisenaan Pohjois- Savon hyvinvointialueelle. Pohjois-Savon hyvinvointialue on hankkinut silmänpohjakuvaukset kunnissa aiemmin tehtyjen sopimusten perusteella ulkopuoliselta palveluntuottajalta. Eteläinen alue (Varkaus, Joroinen) poikkeaa edellä mainitusta, jossa sotekeskuksen oma henkilöstö osallistuu silmänpohjaseulontoihin. Hyvinvointialueelle on tarkoituksenmukaista saada yksi yhtenäinen palvelusopimus silmänpohjakuvauksiin.\n\nUlkopuolinen palveluntuottaja on tehnyt Pohjois-Savon hyvinvointialueella silmänpohjakuvauksia vuosina 2023 ja 2024 yhteensä noin 6 800 kuvausta/vuosi, joista kustannus on ollut noin 250 000 euroa vuodessa. Vuonna 2024 omana toimintana tehtyjä kuvauksia eteläisellä alueella on ollut noin 950 kpl. Henkilökustannukset/-resurssi, joka on ollut eteläisellä alueella noin yksi (1) henkilötyövuosi, keskisellä alueella 0,1 henkilötyövuotta ja pohjoisella alueella 0,1 henkilötyövuotta, ei sisälly edellä mainittuihin vuosikustannuksiin.\n\nSilmänpohjakuvauksia tehdään Kaavilla, Kuopiossa, Nilsiässä, Tuusniemellä, Juankoskella, Iisalmessa, Keiteleellä, Kiuruvedellä, Lapinlahdella, Pielavedellä, Rautavaaralla, Siilinjärvellä, Sonkajärvellä, Varpaisjärvellä, Leppävirralla, Suonenjoella, Tervossa, Vesannolla ja Rautalammilla. Voimassa olevien sopimusten kuvauskustannukset/kuvaus ovat korkeammat pienemmillä paikkakunnilla. Nykyisten sopimusten irtisanomisaika vaihtelee kolmesta kuuteen kuukauteen (3–6 kk). Tyypillisesti seulontakuvauksia tehdään yhden kahden (1–2) vuoden välein, ennen kuin potilaat siirtyvät yksilöllisen tarpeen mukaiseen seurantaan silmätautien erikoisalalle.\n\nToiminnan yhdenmukaistaminen, selkeyttäminen ja kustannusten hallinta on hyvinvointialueella tärkeää. Perus- ja erityispalvelujen asiantuntijoista koostunut työryhmä esittää, että kyseinen toiminta kilpailutetaan uudelleen koskemaan koko hyvinvointialuetta. Kuvaukset tullaan keskittämään jatkossa Iisalmeen, Varkauteen ja\n\nKuopioon. Palvelun keskittäminen niihin toimintayksiköihin, joissa järjestetään silmätautien erikoisalan palveluja tällä hetkellä, mahdollistaa tulevaisuudessa sujuvan kuvaustoiminnan siirtämisen omaksi toiminnaksi myöhemmin joko erityispalveluiden ja/tai peruspalveluiden tuottamana.\n\nHankinnan arvo on noin 300 000 euroa vuodessa (huomioiden koko hyvinvointialueen kustannus). Neljän vuoden hankintakautena kustannus on yhteensä noin 1 200 000 euroa."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "120",
+   "title": "Lymfaterapian palvelusetelisääntökirja 1.1.2026 alkaen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025820-8",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025820-8.PDF",
+   "diary_number": "368/00.01.02.00/2022",
+   "preparer": null,
+   "presenter": "yleisten palveluiden toimialajohtaja",
+   "proposal": "Yleisten palveluiden lautakunta päättää hyväksyä lymfaterapian palvelusetelisääntökirjan muutokset 1.1.2026 alkaen.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä\n\nToimivallan peruste\nHallintosääntö § 42, lautakunnan erityistehtävät kohta 10\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Lymfaterapien palvelusetelisääntökirja 1.1.2026 alkaen\n\n- Liite 1, Palveluseteliarvot\n\n- Liite 2, Osto- ja palvelusetelipalveluiden arkistointiohje\n\n- Liite 3, WHODAS 2.0 arviointimenetelmän kysely\n\nValmistelu\nLymfaterapiaa myönnetään palvelusetelillä erityispalveluista ja peruspalveluista. Lymfaterapian palvelusetelisääntökirja on hyväksytty yleisten palveluiden lautakunnassa 17.8.2023 § 87. Palvelusetelisääntökirjoissa luodaan ehdot ja vähimmäisvaatimukset palveluiden tuottamiselle ja palvelun myöntämisperusteet. Palvelusetelisääntökirjoja tarkastellaan vuosittain. Tarkastelun yhteydessä esiintyi tarve päivittää lymfaterapian sääntökirjan sisältöä.\n\nSääntökirjan muutoksia ehdotetaan seuraavasti:\n\n- Tarkennettu myöntämisperusteita ja korostettu kompressiotuotteiden käytön ja itsehoidon edellytystä palvelun myöntämiselle.\n\n- Lymfaterapiaa toteutetaan tiiviinä hoitojaksoina.\n\n- Palvelua tuotetaan ensisijaisesti omana tuotantona, mutta niissä tilanteissa, kun itsetuotettu palvelu ei ole mahdollista, palveluseteli on vaihtoehto palvelun järjestämiselle.\n\n- WHODAS 2.0 arviointimenetelmän käyttöönotto ennen ja jälkeen palvelun toteuttamisen.\n\n- Hyvinvointialueen ostopalvelu- ja palvelusetelituottajien arkistointiohjeen lisäys palvelukohtaisen sääntökirjan erilliseksi liitteeksi.\n\n- Palveluseteliarvot erilliseksi liitteeksi sääntökirjan lisäksi (palveluseteliarvoihin ei haeta muutoksia).",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nKuntoutuksen vastaava ylilääkäri Janne Pesonen\n\n\n\nKuntoutuksen kuntoutusylilääkäri Hanna Kaijankoski\n\n\n\nKeskinen sotekeskus, palveluesihenkilö Aku Kolari\n\n\n\nHankintojen asiakasvastaava Riikka Kilpeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "yleisten palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Yleisten palveluiden lautakunta päättää hyväksyä lymfaterapian palvelusetelisääntökirjan muutokset 1.1.2026 alkaen.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä\n\nToimivallan peruste\nHallintosääntö § 42, lautakunnan erityistehtävät kohta 10\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Lymfaterapien palvelusetelisääntökirja 1.1.2026 alkaen\n\n- Liite 1, Palveluseteliarvot\n\n- Liite 2, Osto- ja palvelusetelipalveluiden arkistointiohje\n\n- Liite 3, WHODAS 2.0 arviointimenetelmän kysely\n\nValmistelu\nLymfaterapiaa myönnetään palvelusetelillä erityispalveluista ja peruspalveluista. Lymfaterapian palvelusetelisääntökirja on hyväksytty yleisten palveluiden lautakunnassa 17.8.2023 § 87. Palvelusetelisääntökirjoissa luodaan ehdot ja vähimmäisvaatimukset palveluiden tuottamiselle ja palvelun myöntämisperusteet. Palvelusetelisääntökirjoja tarkastellaan vuosittain. Tarkastelun yhteydessä esiintyi tarve päivittää lymfaterapian sääntökirjan sisältöä.\n\nSääntökirjan muutoksia ehdotetaan seuraavasti:\n\n- Tarkennettu myöntämisperusteita ja korostettu kompressiotuotteiden käytön ja itsehoidon edellytystä palvelun myöntämiselle.\n\n- Lymfaterapiaa toteutetaan tiiviinä hoitojaksoina.\n\n- Palvelua tuotetaan ensisijaisesti omana tuotantona, mutta niissä tilanteissa, kun itsetuotettu palvelu ei ole mahdollista, palveluseteli on vaihtoehto palvelun järjestämiselle.\n\n- WHODAS 2.0 arviointimenetelmän käyttöönotto ennen ja jälkeen palvelun toteuttamisen.\n\n- Hyvinvointialueen ostopalvelu- ja palvelusetelituottajien arkistointiohjeen lisäys palvelukohtaisen sääntökirjan erilliseksi liitteeksi.\n\n- Palveluseteliarvot erilliseksi liitteeksi sääntökirjan lisäksi (palveluseteliarvoihin ei haeta muutoksia)."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Lymfaterapian palvelusetelisääntökirja 1.1.2026 alkaen",
+     "url": "https://pshva.oncloudos.com/kokous/2025820-8-209491.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 LIITE 1 Lymfaterapian palveluseteliarvot",
+     "url": "https://pshva.oncloudos.com/kokous/2025820-8-209492.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 LIITE 2 Osto- ja palvelusetelipalveluiden arkistointiohje",
+     "url": "https://pshva.oncloudos.com/kokous/2025820-8-209493.PDF"
+    },
+    {
+     "title": "Oheismateriaali 4 LIITE 3 WHODAS 2.0 arviointimenetelmän kysely",
+     "url": "https://pshva.oncloudos.com/kokous/2025820-8-209508.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "121",
+   "title": "Aikuisten jalkahoidon ja jalkaterapian palvelusetelisääntökirja 1.1.2026 alkaen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025820-9",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025820-9.PDF",
+   "diary_number": "368/00.01.02.00/2022",
+   "preparer": null,
+   "presenter": "yleisten palveluiden toimialajohtaja",
+   "proposal": "Yleisten palveluiden lautakunta päättää hyväksyä aikuisten jalkaterapian ja jalkojenhoidon palvelusetelisääntökirjan muutokset 1.1.2026 alkaen\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 42, lautakunnan erityistehtävät kohta 10\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Aikuisten jalkojenhoidon ja jalkaterapian palvelusetelisääntökirja 1.1.2026 alkaen\n\n- Liite 1: Aikuisten jalkojenhoidon ja jalkaterapian palveluseteliarvot\n\n- Liite 2: Osto- ja palvelusetelipalveluiden arkistointiohje (palveluntuottajille)\n\nValmistelu\nJalkaterapiaa ja jalkojenhoitoa myönnetään palvelusetelillä erityispalveluista ja peruspalveluista. Aikuisten jalkaterapian ja jalkojenhoidon palvelukohtainen palvelusetelisääntökirja on hyväksytty 13.6.2024 §63. Palvelusetelisääntökirjoissa luodaan ehdot ja vähimmäisvaatimukset palveluiden tuottamiselle ja palvelun myöntämisperusteet. Palvelusetelisääntökirjoja tarkastellaan vuosittain. Tarkastelun yhteydessä esiintyi tarve päivittää jalkaterapian ja jalkojenhoidon sääntökirjan sisältöä. Sääntökirjan valmistelussa on ollut mukana hyvinvointialueen oman tuotannon jalkaterapeutit ja yksiköiden erikoislääkäreitä.\n\nSääntökirjaan ehdotetut muutokset:\n\n- Tukipohjallisterapia eroteltu pois palvelusetelistä. Tukipohjallisiin myönnetään tällä hetkellä sopimustoimittajien kautta maksusitoumuksia. Käytönnön mahdollisuus myös palveluseteliin.\n\n- Palvelun piiriin kuuluvien potilaiden myöntämisen perusteiden selventämistä.\n\n- Asiakkuuden prosessiin liittyen lisätty riskiluokan mukaiset myöntämisen palvelukerrat (palvelu myönnetään aina potilaskohtaisesti).\n\n- Palveluseteliarvot kirjattu erilliselle liitteelle (palveluseteliarvoihin ei tule muutoksia).\n\n- Ostopalveluvaltuutusta hyödynnetään rekisterinpitäjän tiedosiirron osalta mahdollisuuksien mukaan jatkossa.\n\n- Palvelukohtainen arkistointiohje erilliseksi liitteeksi.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nAsiakasvastaava Riikka Kilpeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "yleisten palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Yleisten palveluiden lautakunta päättää hyväksyä aikuisten jalkaterapian ja jalkojenhoidon palvelusetelisääntökirjan muutokset 1.1.2026 alkaen\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 42, lautakunnan erityistehtävät kohta 10\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Aikuisten jalkojenhoidon ja jalkaterapian palvelusetelisääntökirja 1.1.2026 alkaen\n\n- Liite 1: Aikuisten jalkojenhoidon ja jalkaterapian palveluseteliarvot\n\n- Liite 2: Osto- ja palvelusetelipalveluiden arkistointiohje (palveluntuottajille)\n\nValmistelu\nJalkaterapiaa ja jalkojenhoitoa myönnetään palvelusetelillä erityispalveluista ja peruspalveluista. Aikuisten jalkaterapian ja jalkojenhoidon palvelukohtainen palvelusetelisääntökirja on hyväksytty 13.6.2024 §63. Palvelusetelisääntökirjoissa luodaan ehdot ja vähimmäisvaatimukset palveluiden tuottamiselle ja palvelun myöntämisperusteet. Palvelusetelisääntökirjoja tarkastellaan vuosittain. Tarkastelun yhteydessä esiintyi tarve päivittää jalkaterapian ja jalkojenhoidon sääntökirjan sisältöä. Sääntökirjan valmistelussa on ollut mukana hyvinvointialueen oman tuotannon jalkaterapeutit ja yksiköiden erikoislääkäreitä.\n\nSääntökirjaan ehdotetut muutokset:\n\n- Tukipohjallisterapia eroteltu pois palvelusetelistä. Tukipohjallisiin myönnetään tällä hetkellä sopimustoimittajien kautta maksusitoumuksia. Käytönnön mahdollisuus myös palveluseteliin.\n\n- Palvelun piiriin kuuluvien potilaiden myöntämisen perusteiden selventämistä.\n\n- Asiakkuuden prosessiin liittyen lisätty riskiluokan mukaiset myöntämisen palvelukerrat (palvelu myönnetään aina potilaskohtaisesti).\n\n- Palveluseteliarvot kirjattu erilliselle liitteelle (palveluseteliarvoihin ei tule muutoksia).\n\n- Ostopalveluvaltuutusta hyödynnetään rekisterinpitäjän tiedosiirron osalta mahdollisuuksien mukaan jatkossa.\n\n- Palvelukohtainen arkistointiohje erilliseksi liitteeksi."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Aikuisten jalkojenhoidon ja jalkaterapian palvelusetelisääntökirja 1.1.2025 alkaen",
+     "url": "https://pshva.oncloudos.com/kokous/2025820-9-210316.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 LIITE 1 Aikuisten jalkaterapian ja jalkojenhoidon palveluseteliarvot",
+     "url": "https://pshva.oncloudos.com/kokous/2025820-9-210355.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 LIITE 2 Osto- ja palvelusetelipalveluiden arkistointiohje (palveluntuottajille)",
+     "url": "https://pshva.oncloudos.com/kokous/2025820-9-210356.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "122",
+   "title": "Pohjois-Savon hyvinvointialueen työikäisten sosiaalipalveluiden kuntouttavan työtoiminnan palvelusetelin palvelukohtainen sääntökirja 1.1.2026 alkaen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025820-10",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025820-10.PDF",
+   "diary_number": "368/00.01.02.00/2022",
+   "preparer": null,
+   "presenter": "yleisten palveluiden toimialajohtaja",
+   "proposal": "Yleisten palveluiden lautakunta päättää vahvistaa työikäisten sosiaalipalveluiden palvelusetelin palvelukohtaisen sääntökirjan kuntouttavan työtoiminnan osalta. Palvelukohtainen sääntökirja tulee voimaan 1.1.2026 alkaen.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 42, lautakunnan erityistehtävä kohta 10\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Työikäisten sosiaalipalveluiden kuntouttavan työtoiminnan palvelusetelin sääntökirja 1.1.2026 alkaen\n\n- Arkistointiohje palveluntuottajille\n\n- Kuntouttavan työtoiminnan palveluseteleiden hinnat 1.1.2024 alkaen\n\nValmistelu\nYleisten palveluiden lautakunta on vahvistanut 17.08.2023 § 85 työikäisten sosiaalipalveluiden kuntouttavan työtoiminnan palvelusetelin palvelukohtaisen sääntökirjan ja palveluseteliarvot 1.1.2024 alkaen. Työikäisten sosiaalipalveluiden kuntouttavan työtoiminnan palvelusetelin palvelukohtaista sääntökirjaa on tarve tarkentaa palveluntuottajan rekisteröinnin, tiedottamisen, arkistoinnin, palvelun aloittamisen, palvelusetelituottajan valinnan ja matkakustannuskorvausten osalta 1.1.2026 alkaen.\n\nKeskeiset muutokset:\n\n- palveluntuottajan tulee olla rekisteröitynä Valviran ylläpitämässä valtakunnallisessa palveluntuottajien rekisterissä (Soteri) palvelualaluokituksen mukaisesti (kuntouttava työtoiminta)\n\n- palveluntuottajan velvollisuutta tiedottaa sosiaalihuollon omatyöntekijää asiakkaan tilanteessa tapahtuneista muutoksista on tarkennettu\n\n- arkistointia koskeva ohje on lisätty sääntökirjaan ja arkistointiohje on lisätty palvelukohtaisen sääntökirjan liitteeksi\n\n- palvelun aloittamiseen ja ryhmävalmennukseen liittyvää ohjeistusta on tarkennettu\n\n- asiakkaan palveluseteli palveluntuottajan valintaa koskevaa ohjeistusta on tarkennettu\n\n- lisätty tarkennus sosiaalihuollon omatyöntekijän mahdollisuudesta harkita matkakustannusten korvausta asiakkaan palveluun osallistumisen tukemiseksi",
+   "decision": "Liitteeseen 2 tehdään tekninen korjaus otsikon päivämäärään: Kuntouttavan työtoiminnan palveluseteleiden hinnat 1.1.2026 alkaen.\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nSari Räsänen, alue-esihenkilö, pohjoinen ja eteläinen alue\n\nVirpi Kilpeläinen, palveluesihenkilö\n\nHeli Pärnänen, palveluyksikköjohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Liitteeseen 2 tehdään tekninen korjaus otsikon päivämäärään: Kuntouttavan työtoiminnan palveluseteleiden hinnat 1.1.2026 alkaen.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "yleisten palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Yleisten palveluiden lautakunta päättää vahvistaa työikäisten sosiaalipalveluiden palvelusetelin palvelukohtaisen sääntökirjan kuntouttavan työtoiminnan osalta. Palvelukohtainen sääntökirja tulee voimaan 1.1.2026 alkaen.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 42, lautakunnan erityistehtävä kohta 10\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Työikäisten sosiaalipalveluiden kuntouttavan työtoiminnan palvelusetelin sääntökirja 1.1.2026 alkaen\n\n- Arkistointiohje palveluntuottajille\n\n- Kuntouttavan työtoiminnan palveluseteleiden hinnat 1.1.2024 alkaen\n\nValmistelu\nYleisten palveluiden lautakunta on vahvistanut 17.08.2023 § 85 työikäisten sosiaalipalveluiden kuntouttavan työtoiminnan palvelusetelin palvelukohtaisen sääntökirjan ja palveluseteliarvot 1.1.2024 alkaen. Työikäisten sosiaalipalveluiden kuntouttavan työtoiminnan palvelusetelin palvelukohtaista sääntökirjaa on tarve tarkentaa palveluntuottajan rekisteröinnin, tiedottamisen, arkistoinnin, palvelun aloittamisen, palvelusetelituottajan valinnan ja matkakustannuskorvausten osalta 1.1.2026 alkaen.\n\nKeskeiset muutokset:\n\n- palveluntuottajan tulee olla rekisteröitynä Valviran ylläpitämässä valtakunnallisessa palveluntuottajien rekisterissä (Soteri) palvelualaluokituksen mukaisesti (kuntouttava työtoiminta)\n\n- palveluntuottajan velvollisuutta tiedottaa sosiaalihuollon omatyöntekijää asiakkaan tilanteessa tapahtuneista muutoksista on tarkennettu\n\n- arkistointia koskeva ohje on lisätty sääntökirjaan ja arkistointiohje on lisätty palvelukohtaisen sääntökirjan liitteeksi\n\n- palvelun aloittamiseen ja ryhmävalmennukseen liittyvää ohjeistusta on tarkennettu\n\n- asiakkaan palveluseteli palveluntuottajan valintaa koskevaa ohjeistusta on tarkennettu\n\n- lisätty tarkennus sosiaalihuollon omatyöntekijän mahdollisuudesta harkita matkakustannusten korvausta asiakkaan palveluun osallistumisen tukemiseksi"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Palvelusetelin sääntökirja, Kuntouttava työtoiminta 1.1.2026 alkaen",
+     "url": "https://pshva.oncloudos.com/kokous/2025820-10-210035.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Palveluseteli- ja ostopalveluiden arkistointiohje (palveluntuottajille)",
+     "url": "https://pshva.oncloudos.com/kokous/2025820-10-210038.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Kuntouttavan työtoiminnan setelihinnat 1.1.2026 alkaen",
+     "url": "https://pshva.oncloudos.com/kokous/2025820-10-210039.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "123",
+   "title": "Pohjois-Savon hyvinvointialueen työikäisten sosiaalipalveluiden sosiaalisen kuntoutuksen palvelusetelin palvelukohtaisen sääntökirjan päivittäminen 1.1.2026 alkaen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025820-11",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025820-11.PDF",
+   "diary_number": "368/00.01.02.00/2022",
+   "preparer": null,
+   "presenter": "yleisten palveluiden toimialajohtaja",
+   "proposal": "Yleisten palveluiden lautakunta päättää vahvistaa työikäisten sosiaalipalveluiden palvelusetelin palvelukohtaisen sääntökirjan sosiaalisen kuntoutuksen osalta. Palvelukohtainen sääntökirja tulee voimaan 1.1.2026 alkaen.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä\n\nToimivallan peruste\nHallintosääntö § 42, lautakunnan erityistehtävät kohta 10\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Työikäisten sosiaalipalveluiden sosiaalisen kuntoutuksen palvelusetelin sääntökirja 1.1.2026 alkaen\n\n- Arkistointiohje palveluntuottajille\n\n- Sosiaalisen kuntoutuksen palveluseteleiden hinnat 1.5.2024 alkaen\n\nValmistelu\nYleisten palveluiden lautakunta on vahvistanut 08.02.2024 § 13 työikäisten sosiaalipalveluiden sosiaalisen kuntoutuksen palvelukohtaisen sääntökirjan ja palveluseteliarvot 1.5.2024 alkaen. Työikäisten sosiaalipalveluiden sosiaalisen kuntoutuksen palvelukohtaista sääntökirjaa on tarve tarkentaa palveluntuottajan rekisteröinnin, tilojen, tiedottamisen, arkistoinnin, vastuuohjaajan nimeämisen ja palvelusetelituottajan valinnan osalta 1.1.2026 alkaen.\n\nKeskeiset muutokset:\n\n- palveluntuottajan tulee olla rekisteröitynä Valviran ylläpitämässä valtakunnallisessa palveluntuottajien rekisterissä (Soteri) palvelualaluokituksen mukaisesti (työikäisten sosiaalipalvelut ja / tai päihde- ja riippuvuus- sekä mielenterveysongelmiin vastaava sosiaalityö ja -ohjaus)\n\n- palveluntuottajalla tulee olla käytössään asiakkaille soveltuvat tilat sähköisen asioinnin opetteluun.\n\n- palveluntuottajan velvollisuutta tiedottaa sosiaalihuollon omatyöntekijää asiakkaan tilanteessa tapahtuneista muutoksista on tarkennettu\n\n- arkistointia koskeva ohje on lisätty sääntökirjaan ja arkistointiohje on lisätty palvelukohtaisen sääntökirjan liitteeksi\n\n- palveluntuottajan tulee nimetä asiakkaalle vastuuohjaaja palvelun käynnistyessä\n\n- palveluseteli palveluntuottajan valintaa koskevaa asiakohtaa on tarkennettu siten, että asiakas voi ensisijaisesti valita sellaisen palveluseteli palveluntuottajan, jonka toimipiste tai palveluntuottajan työntekijän työskentelypaikka sijaitsee 0-20 km:n päässä asiakkaan asuinpaikasta.",
+   "decision": "Liitteeseen 2 tehdään tekninen korjaus otsikon päivämäärään: Kuntouttavan työtoiminnan palveluseteleiden hinnat 1.1.2026 alkaen.\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nSari Räsänen, alue-esihenkilö, pohjoinen ja eteläinen alue\n\nVirpi Kilpeläinen, palveluesihenkilö\n\nHeli Pärnänen, palveluyksikköjohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Liitteeseen 2 tehdään tekninen korjaus otsikon päivämäärään: Kuntouttavan työtoiminnan palveluseteleiden hinnat 1.1.2026 alkaen.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "yleisten palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Yleisten palveluiden lautakunta päättää vahvistaa työikäisten sosiaalipalveluiden palvelusetelin palvelukohtaisen sääntökirjan sosiaalisen kuntoutuksen osalta. Palvelukohtainen sääntökirja tulee voimaan 1.1.2026 alkaen.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä\n\nToimivallan peruste\nHallintosääntö § 42, lautakunnan erityistehtävät kohta 10\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Työikäisten sosiaalipalveluiden sosiaalisen kuntoutuksen palvelusetelin sääntökirja 1.1.2026 alkaen\n\n- Arkistointiohje palveluntuottajille\n\n- Sosiaalisen kuntoutuksen palveluseteleiden hinnat 1.5.2024 alkaen\n\nValmistelu\nYleisten palveluiden lautakunta on vahvistanut 08.02.2024 § 13 työikäisten sosiaalipalveluiden sosiaalisen kuntoutuksen palvelukohtaisen sääntökirjan ja palveluseteliarvot 1.5.2024 alkaen. Työikäisten sosiaalipalveluiden sosiaalisen kuntoutuksen palvelukohtaista sääntökirjaa on tarve tarkentaa palveluntuottajan rekisteröinnin, tilojen, tiedottamisen, arkistoinnin, vastuuohjaajan nimeämisen ja palvelusetelituottajan valinnan osalta 1.1.2026 alkaen.\n\nKeskeiset muutokset:\n\n- palveluntuottajan tulee olla rekisteröitynä Valviran ylläpitämässä valtakunnallisessa palveluntuottajien rekisterissä (Soteri) palvelualaluokituksen mukaisesti (työikäisten sosiaalipalvelut ja / tai päihde- ja riippuvuus- sekä mielenterveysongelmiin vastaava sosiaalityö ja -ohjaus)\n\n- palveluntuottajalla tulee olla käytössään asiakkaille soveltuvat tilat sähköisen asioinnin opetteluun.\n\n- palveluntuottajan velvollisuutta tiedottaa sosiaalihuollon omatyöntekijää asiakkaan tilanteessa tapahtuneista muutoksista on tarkennettu\n\n- arkistointia koskeva ohje on lisätty sääntökirjaan ja arkistointiohje on lisätty palvelukohtaisen sääntökirjan liitteeksi\n\n- palveluntuottajan tulee nimetä asiakkaalle vastuuohjaaja palvelun käynnistyessä\n\n- palveluseteli palveluntuottajan valintaa koskevaa asiakohtaa on tarkennettu siten, että asiakas voi ensisijaisesti valita sellaisen palveluseteli palveluntuottajan, jonka toimipiste tai palveluntuottajan työntekijän työskentelypaikka sijaitsee 0-20 km:n päässä asiakkaan asuinpaikasta."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Palvelusetelin sääntökirja, Sosiaalinen kuntoutus 1.1.2026 alkaen",
+     "url": "https://pshva.oncloudos.com/kokous/2025820-11-210161.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Palveluseteli- ja ostopalveluiden arkistointiohje (palveluntuottajille)",
+     "url": "https://pshva.oncloudos.com/kokous/2025820-11-210168.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Sosiaalisen kuntoutuksen palveluseteleiden hinnat 1.1.2026 alkaen",
+     "url": "https://pshva.oncloudos.com/kokous/2025820-11-210171.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "124",
+   "title": "Ajankohtaiset asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025820-12",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025820-12.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "yleisten palveluiden toimialajohtaja",
+   "proposal": "Yleisten palveluiden lautakunta merkitsee asiat tiedoksi.\n\nYleisten palveluiden toimialan katsaus ajankohtaisiin ja\n\nvalmistelussa oleviin asioihin.",
+   "decision": "- Valviran uhkasakko\n\n- Soteasemien sulut syksy ja joulu 2025\n\n- Hoidonodotus tilanne erikoisaloittain\n\nMerkittiin tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Ajankohtaiset asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "- Valviran uhkasakko\n\n- Soteasemien sulut syksy ja joulu 2025\n\n- Hoidonodotus tilanne erikoisaloittain\n\nMerkittiin tiedoksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "yleisten palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Yleisten palveluiden lautakunta merkitsee asiat tiedoksi.\n\nYleisten palveluiden toimialan katsaus ajankohtaisiin ja\n\nvalmistelussa oleviin asioihin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "125",
+   "title": "Viranhaltijapäätösten tarkastaminen, yleisten palveluiden ltk 9.10.2025",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025820-13",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025820-13.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Toimielimen puheenjohtaja",
+   "proposal": "Lautakunta ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Lautakunta hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 58 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava lautakunnalle niistä päätöksistä, jotka voidaan ottaa lautakunnan käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava lautakunnan alaisten viranhaltijoiden osalta lautakunnalle.\n\nLautakunnan alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa lautakunnan puheenjohtajalle ja esittelijälle.\n\nLautakunnalle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 8.9.2025 - 30.9.2025",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Viranhaltijapäätösten tarkastaminen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Toimielimen puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Lautakunta ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Lautakunta hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 58 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava lautakunnalle niistä päätöksistä, jotka voidaan ottaa lautakunnan käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava lautakunnan alaisten viranhaltijoiden osalta lautakunnalle.\n\nLautakunnan alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa lautakunnan puheenjohtajalle ja esittelijälle.\n\nLautakunnalle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 8.9.2025 - 30.9.2025"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Päätösluettelo 8-30.9.2025 otsikot",
+     "url": "https://pshva.oncloudos.com/kokous/2025820-13-210128.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "126",
+   "title": "Tiedoksi saatettavat asiat 9.10.2025",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025820-14",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025820-14.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "yleisten palveluiden toimialajohtaja",
+   "proposal": "Yleisten palveluiden lautakunta merkitsee asiat tiedoksi.\n\nAluehallintovirasto:\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 26.8.2025, Metabolic Solutions Oy\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 28.8.2025, LaserLumo\n\nPäätös palveluyksikön muutosten rekisteröinnistä 28.8.2025, Kuopion Työterveys Oy\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 29.8.2025, Beautymed Pro Oy\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 1.9.2025, Jalkahoitola Balance\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 1.9.2025, Psykoterapia-Psykologipalvelu Tammi\n\nPäätös palveluyksikön rekisteröinnistä 2.9.2025, Hammaslääkäri Martti Kainulainen\n\nPäätös palveluyksikön muutosten rekisteröinnistä 2.9.2025, NN Palvelut\n\nIlmoitus palveluntuottajan rekisteristä poistamisesta 2.9.2025, HHH Heikin Hoitava Hieronta\n\nPäätös palveluyksikön rekisteröinnistä 3.9.2025, Fysioksanen\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 3.9.2025, Toiminimi Heli Kettunen\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 8.9.2025, Kivelä Martta Selina\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 9.9.2025, Fysioterapeutti Markus Kokkonen\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 2.9.2025, VirkaSmile Oy\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 10.9.2025, Setlementti Ukonhattu ry\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 12.9.2025, HieroJani Soininen\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 12.9.2025, Rentootus Helén\n\nPäätös palveluyksikön rekisteröinnistä 15.9.2025, Johanna Masar\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 16.9.2025, Psykologipalvelu Saara Rytkönen\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 16.9.2025, Päihdepalvelusäätiö sr\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 16.9.2025, Longbeach Oy\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 19.9.2025, Tmi Tanja Hautamäki\n\nAluehallintovirasto Etelä-Suomi:\n\nMuutosilmoitus tartuntautien vastustamistyössä tarvittavien laboratoriotutkimusten ja tehtävien suorittamiseen 1.9.2025, SYNLAB Suomi Oy\n\nMuutosilmoitus tartuntatautien vastustamistyössä tarvittavien laboratoriotutkimusten ja tehtävien suorittamiseen 1.9.2025, SYNLAB Suomi Oy, Terveystalo Kuopio\n\nValvira:\n\nPäätös palveluyksikön rekisteröinnistä 26.8.2025, Kristiinan Klinikka Oy\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 27.8.2025, Mesimarjasi Oy\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 27.8.2025, Korpitohtori Oy\n\nPalvelupisteen poistaminen rekisteristä 27.8.2025, Coronaria Diagnostiikka Oy\n\nKirje palvelupisteen lisäyksestä rekisteriin 28.8.2025, Psykologipalvelu Miia Rissanen\n\nPäätös palveluntuottajan ja palveluyksiköiden rekisteröinnistä 28.8.2025, Tyyni Hoiva Suomi Oy\n\nPäätös palveluyksikön rekisteröinnistä 29.8.2025, 9Lives Ensihoito Oy\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 24.9.2025, Puheterapia Hanna Vanari\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 1.9.2025, Psykiatri- ja terapiapalvelu Kastanja Oy\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 1.9.2025, Fysios Mehiläinen Oy\n\nPäätös palveluyksiköiden muutosten rekisteröinnistä 1.9.2025, Mehiläinen Oy\n\nKirje palveluntuottajan ja palveluyksiköiden rekisteristä poistamisesta 2.9.2025, Minsos Oy\n\nKirje Palveluyksikön palvelupisteiden lisäyksestä rekisteriin sekä palvelupisteiden rekisteristä poistaminen 2.9.2025, Oivallusvaara Oy\n\nIlmoitus palveluyksikön palvelupisteen muutosta uusiin tiloihin sekä potilastietojärjestelmän muutoksesta 3.9.2025, Fysios Mehiläinen Oy\n\nKirje palveluyksikön ja -pisteiden uudelleenjärjestelystä 3.9.2025, Coronaria Uniklinikka Oy\n\nPäätös palveluyksiköiden muutoksen rekisteröinnistä ja palveluyksiköiden ja -pisteiden uudelleenjärjestely 4.9.2025, Suomen Rokotepiste Oy\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 5.9.2025, Revival Bodyworks Helsinki\n\nPäätös palveluyksiköiden muutoksen rekisteröinnistä 5.9.2025, Suomen Rokotepiste Oy\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 8.9.2025, Macaco Verde Oy\n\nPäätös palveluyksikön siirron rekisteröinnistä 25.9.2025, Coronaria Oy\n\nPalvelupisteen lisäys rekisteriin ja palvelupisteen muutto 9.9.2025, JL Consulting & Capital Oy\n\nPäätös palveluyksiköiden muutoksen rekisteröinnistä 5.9.2025, Oral Hammaslääkärit Oy\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 10.9.2025, FysioPT Henna\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 10.9.2025, Suomen Työterveys Oy\n\nPäätös palveluyksiköiden muutosten rekisteröinnistä 12.9.2025, Aava ja Pikkujätti Oy\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 12.9.2025, Farmania Oy\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 12.9.2025, OmaPartners Oy\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 17.9.2025, Anecare Oy\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 17.9.2025, Hoivarc Oy\n\nPäätös palveluyksikön rekisteröinnistä ja palveluyksiköiden rekisteröinnin muutoksista 18.9.2025, Coronaria Contextia Oy\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 19.9.2025, Premius Kuntoutus Oy\n\nPalveluyksikön palvelupisteiden lisäys rekisteriin 19.9.2025, Mehiläinen Terveyspalvelut Oy\n\nIlmoitus palveluyksikön ja palvelupisteen muutosta uusiin tiloihin 21.9.2025, Psykologipalvelu Miia Rissanen\n\nPalveluyksikön palvelupisteiden lisäys rekisteriin 23.9.2025, Mehiläinen Terveyspalvelut Oy\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 23.9.2025, OmaPartners Oy",
+   "decision": "Merkittiin tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Tiedoksi saatettavat asiat 9.10.2025"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkittiin tiedoksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "yleisten palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Yleisten palveluiden lautakunta merkitsee asiat tiedoksi.\n\nAluehallintovirasto:\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 26.8.2025, Metabolic Solutions Oy\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 28.8.2025, LaserLumo\n\nPäätös palveluyksikön muutosten rekisteröinnistä 28.8.2025, Kuopion Työterveys Oy\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 29.8.2025, Beautymed Pro Oy\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 1.9.2025, Jalkahoitola Balance\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 1.9.2025, Psykoterapia-Psykologipalvelu Tammi\n\nPäätös palveluyksikön rekisteröinnistä 2.9.2025, Hammaslääkäri Martti Kainulainen\n\nPäätös palveluyksikön muutosten rekisteröinnistä 2.9.2025, NN Palvelut\n\nIlmoitus palveluntuottajan rekisteristä poistamisesta 2.9.2025, HHH Heikin Hoitava Hieronta\n\nPäätös palveluyksikön rekisteröinnistä 3.9.2025, Fysioksanen\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 3.9.2025, Toiminimi Heli Kettunen\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 8.9.2025, Kivelä Martta Selina\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 9.9.2025, Fysioterapeutti Markus Kokkonen\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 2.9.2025, VirkaSmile Oy\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 10.9.2025, Setlementti Ukonhattu ry\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 12.9.2025, HieroJani Soininen\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 12.9.2025, Rentootus Helén\n\nPäätös palveluyksikön rekisteröinnistä 15.9.2025, Johanna Masar\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 16.9.2025, Psykologipalvelu Saara Rytkönen\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 16.9.2025, Päihdepalvelusäätiö sr\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 16.9.2025, Longbeach Oy\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 19.9.2025, Tmi Tanja Hautamäki\n\nAluehallintovirasto Etelä-Suomi:\n\nMuutosilmoitus tartuntautien vastustamistyössä tarvittavien laboratoriotutkimusten ja tehtävien suorittamiseen 1.9.2025, SYNLAB Suomi Oy\n\nMuutosilmoitus tartuntatautien vastustamistyössä tarvittavien laboratoriotutkimusten ja tehtävien suorittamiseen 1.9.2025, SYNLAB Suomi Oy, Terveystalo Kuopio\n\nValvira:\n\nPäätös palveluyksikön rekisteröinnistä 26.8.2025, Kristiinan Klinikka Oy\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 27.8.2025, Mesimarjasi Oy\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 27.8.2025, Korpitohtori Oy\n\nPalvelupisteen poistaminen rekisteristä 27.8.2025, Coronaria Diagnostiikka Oy\n\nKirje palvelupisteen lisäyksestä rekisteriin 28.8.2025, Psykologipalvelu Miia Rissanen\n\nPäätös palveluntuottajan ja palveluyksiköiden rekisteröinnistä 28.8.2025, Tyyni Hoiva Suomi Oy\n\nPäätös palveluyksikön rekisteröinnistä 29.8.2025, 9Lives Ensihoito Oy\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 24.9.2025, Puheterapia Hanna Vanari\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 1.9.2025, Psykiatri- ja terapiapalvelu Kastanja Oy\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 1.9.2025, Fysios Mehiläinen Oy\n\nPäätös palveluyksiköiden muutosten rekisteröinnistä 1.9.2025, Mehiläinen Oy\n\nKirje palveluntuottajan ja palveluyksiköiden rekisteristä poistamisesta 2.9.2025, Minsos Oy\n\nKirje Palveluyksikön palvelupisteiden lisäyksestä rekisteriin sekä palvelupisteiden rekisteristä poistaminen 2.9.2025, Oivallusvaara Oy\n\nIlmoitus palveluyksikön palvelupisteen muutosta uusiin tiloihin sekä potilastietojärjestelmän muutoksesta 3.9.2025, Fysios Mehiläinen Oy\n\nKirje palveluyksikön ja -pisteiden uudelleenjärjestelystä 3.9.2025, Coronaria Uniklinikka Oy\n\nPäätös palveluyksiköiden muutoksen rekisteröinnistä ja palveluyksiköiden ja -pisteiden uudelleenjärjestely 4.9.2025, Suomen Rokotepiste Oy\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 5.9.2025, Revival Bodyworks Helsinki\n\nPäätös palveluyksiköiden muutoksen rekisteröinnistä 5.9.2025, Suomen Rokotepiste Oy\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 8.9.2025, Macaco Verde Oy\n\nPäätös palveluyksikön siirron rekisteröinnistä 25.9.2025, Coronaria Oy\n\nPalvelupisteen lisäys rekisteriin ja palvelupisteen muutto 9.9.2025, JL Consulting & Capital Oy\n\nPäätös palveluyksiköiden muutoksen rekisteröinnistä 5.9.2025, Oral Hammaslääkärit Oy\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 10.9.2025, FysioPT Henna\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 10.9.2025, Suomen Työterveys Oy\n\nPäätös palveluyksiköiden muutosten rekisteröinnistä 12.9.2025, Aava ja Pikkujätti Oy\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 12.9.2025, Farmania Oy\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 12.9.2025, OmaPartners Oy\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 17.9.2025, Anecare Oy\n\nPäätös palveluntuottajan ja palveluyksikön rekisteröinnistä 17.9.2025, Hoivarc Oy\n\nPäätös palveluyksikön rekisteröinnistä ja palveluyksiköiden rekisteröinnin muutoksista 18.9.2025, Coronaria Contextia Oy\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 19.9.2025, Premius Kuntoutus Oy\n\nPalveluyksikön palvelupisteiden lisäys rekisteriin 19.9.2025, Mehiläinen Terveyspalvelut Oy\n\nIlmoitus palveluyksikön ja palvelupisteen muutosta uusiin tiloihin 21.9.2025, Psykologipalvelu Miia Rissanen\n\nPalveluyksikön palvelupisteiden lisäys rekisteriin 23.9.2025, Mehiläinen Terveyspalvelut Oy\n\nPäätös palveluyksikön muutoksen rekisteröinnistä 23.9.2025, OmaPartners Oy"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "127",
+   "title": "Muut asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025820-15",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025820-15.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Muita asioita ei ollut.\n\nPuheenjohtaja päätti kokouksen klo 12.15",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Muita asioita ei ollut.\n\nPuheenjohtaja päätti kokouksen klo 12.15"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "128",
+   "title": "Mielenterveyspalvelujen ostopalvelulääkärihankinta Varkauden ja Iisalmen alueille",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025820-16",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025820-16.PDF",
+   "diary_number": "15782/02.08.01/2023",
+   "preparer": null,
+   "presenter": "yleisten palveluiden toimialajohtaja",
+   "proposal": "Yleisten palveluiden lautakunta päättää hankkia mielenterveyspalvelujen avohoidon lääkäripalvelut Varkauden ja Iisalmen alueille Mehiläinen Terveyspalvelut Oy:ltä. Hankinnan kokonaisarvo vuodelle 2026 on 1 804 320 €.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 93\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Sansia Oy, hankintapäätös 466362\n\nValmistelu\nMielenterveyspalvelut kilpailutti vuonna 2023 psykiatrian lääkäripalvelut Sansia Oy:n toimesta. Osa-alue 1 koskee aikuispsykiatrian erikoislääkäripalvelua ja osa-alue 2 aikuispsykiatriaan perehtyneen lääkärin palvelua.\n\nOsa-alueille 1 ja 2 valittiin kuusi sopimustoimittajaa, joista ykkössijalle valittiin Mehiläinen Terveyspalvelut Oy. Mehiläinen Terveyspalvelut Oy ylsi osa-alue 1:ssä hintapisteille 40 ja laatupisteille 60, saaden kokonaispisteiksi 100 pistettä. Seuraavaksi tullut Terveystalo Julkiset Palvelut Oy sai kokonaispisteet 79,7. Hintavertailu kilpailutuksessa on Mehiläisen eduksi, vertailuhinta 179 €/h ja Terveystalolla 250 €/h. Coronaria on neljännellä sijalla, vertailuhinta 249 €/h.\n\nPsykiatrian lääkäripalvelut Varkauteen on tuotettu Mehiläinen Terveyspalvelut Oy:n kautta jo maaliskuusta 2023 alkaen. Alkuperäisessä kilpailutuksessa Mehiläinen ei tarjonnut lääkäripalvelua Iisalmen alueelle. Iisalmeen tehtiin tilaus Coronarian ja Terveystalon kautta. Tilaus on tällä hetkellä voimassa 31.12.2025 asti.\n\nVarkaudessa ja Iisalmessa ei ole yhtään kokoaikaista aikuispsykiatrisen avohoidon virkalääkäriä. Iisalmessa aloittaa virkalääkäri 2 päivää viikossa 1.12.2025 alkaen. Tästä syystä lääkäripalvelu joudutaan hankkimaan molemmille alueille lähes kokonaisuudessaan ostolääkäritoimintana.\n\nKilpailutukseen liittyvä optiovuosi käynnistyy 1.1.2026. Seuraava vuosi 2027 on mahdollinen jatko-optiovuosi. Mielenterveyspalvelujen ostopalvelulääkäritarve on päivitetty ja kokonaiskustannukset laskettu. Koska Mehiläinen Terveyspalvelut Oy:n tuntihinta alittaa selvästi toiselle ja neljännelle sijalle sijoittuneet Terveystalo Julkiset Palvelut Oy:n sekä Coronarian, Varkauden lisäksi päädytään hankkimaan myös Iisalmen seudun ostopalvelulääkärit Mehiläinen Terveyspalvelut Oy:n kautta.\n\nKarsittu lääkäritarvetilaus Mehiläiselle.\n\nVarkaus:8,5 pv/vk\n\n8,5\n\n1,7\n\nJoroinen:0,5 päivä/vk\n\n0,5\n\n0,1\n\nLeppävirta: 1,5 päivä/vk\n\n1,5\n\n0,3\n\nSuonenjoki: 2 päivää/vk\n\n2\n\n0,4\n\nRautalampi: (2 päivää/kk) 0,5 päivää/vk\n\n0,5\n\n0,1\n\nVesanto: (1 päivä/kk) 0,25 päivää/vk\n\n0,25\n\n0,05\n\nTervo: (1 päivä/kk) 0,25 päivää/vk\n\n0,25\n\n0,05\n\nYhteensä max 13,5 päivää/vk\n\n13,5\n\n2,7fte/htv\n\nIisalmi: 8,5 (+2 päivää virkalääkäri)\n\n8,5\n\n1,7\n\nKiuruvesi: 1,25 päivä/vk\n\n1,25\n\n0,25\n\nVieremä: (2 päivää/kk) 0,5 päivää/vk\n\n0,5\n\n0,1\n\nSonkajärvi: (1 päivä/kk) 0,25 päivää/vk\n\n0,25\n\n0,05\n\nLapinlahti: 1 päivä/vk (Varpaisjärvi 1 päivä/kk)\n\n+ 0,25 päivää/vk\n\n1,25\n\n0,25\n\nPielavesi: (2 päivää/kk) 0,5 päivää/vk\n\n0,5\n\n0,1\n\nKeitele: (1 päivä/kk) 0,25 päivää/vk\n\n0,25\n\n0,05\n\nRautavaara: (1 päivä/kk) 0,25 päivää/vk\n\n0,25\n\n0,05\n\nYhteensä max 12,75 päivää/vk\n\n(+ 2 päivää virkalääkäri)\n\n12,75\n\n2,55fte/htv\n\nPalvelukokonaisuuden (=Varkaus ja Iisalmi yhteensä) kiinteä kuukausiveloitus on (5,25fte x 160h x 179€ =) 150 360 €/kk.\n\nVarkaus ja Iisalmi ympäristökuntineen yhteensä 1 804 320 euroa/vuosi\n\nTilauksen ehdoiksi sisällytetään Sansian sopimusehtojen lisäksi toiminnan käynnistymisen varmistus ja loma-aikainen lääkäripalvelu. Lisäksi tilaukseen sisältyy tilaajan puolelta kahden (2) kuukauden muutosaika käsittäen tilauksen vähentämisen mikäli virkalääkäreitä saadaan rekrytoitua.",
+   "decision": "Merja Jalkala ilmoitti olevansa esteellinen (HL 28.1 kohta 5) ja poistui klo 11.57- 12.03 asian käsittelyn ja päätöksenteon ajaksi.\n\nMerkitään pöytäkirjaan, että Juha Eskelinen poistui klo 11.58.\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nPalveluyksikköjohtaja Teijamari Laasonen-Balk"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merja Jalkala ilmoitti olevansa esteellinen (HL 28.1 kohta 5) ja poistui klo 11.57- 12.03 asian käsittelyn ja päätöksenteon ajaksi.\n\nMerkitään pöytäkirjaan, että Juha Eskelinen poistui klo 11.58.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "yleisten palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Yleisten palveluiden lautakunta päättää hankkia mielenterveyspalvelujen avohoidon lääkäripalvelut Varkauden ja Iisalmen alueille Mehiläinen Terveyspalvelut Oy:ltä. Hankinnan kokonaisarvo vuodelle 2026 on 1 804 320 €.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 93\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Sansia Oy, hankintapäätös 466362\n\nValmistelu\nMielenterveyspalvelut kilpailutti vuonna 2023 psykiatrian lääkäripalvelut Sansia Oy:n toimesta. Osa-alue 1 koskee aikuispsykiatrian erikoislääkäripalvelua ja osa-alue 2 aikuispsykiatriaan perehtyneen lääkärin palvelua.\n\nOsa-alueille 1 ja 2 valittiin kuusi sopimustoimittajaa, joista ykkössijalle valittiin Mehiläinen Terveyspalvelut Oy. Mehiläinen Terveyspalvelut Oy ylsi osa-alue 1:ssä hintapisteille 40 ja laatupisteille 60, saaden kokonaispisteiksi 100 pistettä. Seuraavaksi tullut Terveystalo Julkiset Palvelut Oy sai kokonaispisteet 79,7. Hintavertailu kilpailutuksessa on Mehiläisen eduksi, vertailuhinta 179 €/h ja Terveystalolla 250 €/h. Coronaria on neljännellä sijalla, vertailuhinta 249 €/h.\n\nPsykiatrian lääkäripalvelut Varkauteen on tuotettu Mehiläinen Terveyspalvelut Oy:n kautta jo maaliskuusta 2023 alkaen. Alkuperäisessä kilpailutuksessa Mehiläinen ei tarjonnut lääkäripalvelua Iisalmen alueelle. Iisalmeen tehtiin tilaus Coronarian ja Terveystalon kautta. Tilaus on tällä hetkellä voimassa 31.12.2025 asti.\n\nVarkaudessa ja Iisalmessa ei ole yhtään kokoaikaista aikuispsykiatrisen avohoidon virkalääkäriä. Iisalmessa aloittaa virkalääkäri 2 päivää viikossa 1.12.2025 alkaen. Tästä syystä lääkäripalvelu joudutaan hankkimaan molemmille alueille lähes kokonaisuudessaan ostolääkäritoimintana.\n\nKilpailutukseen liittyvä optiovuosi käynnistyy 1.1.2026. Seuraava vuosi 2027 on mahdollinen jatko-optiovuosi. Mielenterveyspalvelujen ostopalvelulääkäritarve on päivitetty ja kokonaiskustannukset laskettu. Koska Mehiläinen Terveyspalvelut Oy:n tuntihinta alittaa selvästi toiselle ja neljännelle sijalle sijoittuneet Terveystalo Julkiset Palvelut Oy:n sekä Coronarian, Varkauden lisäksi päädytään hankkimaan myös Iisalmen seudun ostopalvelulääkärit Mehiläinen Terveyspalvelut Oy:n kautta.\n\nKarsittu lääkäritarvetilaus Mehiläiselle.\n\nVarkaus:8,5 pv/vk\n\n8,5\n\n1,7\n\nJoroinen:0,5 päivä/vk\n\n0,5\n\n0,1\n\nLeppävirta: 1,5 päivä/vk\n\n1,5\n\n0,3\n\nSuonenjoki: 2 päivää/vk\n\n2\n\n0,4\n\nRautalampi: (2 päivää/kk) 0,5 päivää/vk\n\n0,5\n\n0,1\n\nVesanto: (1 päivä/kk) 0,25 päivää/vk\n\n0,25\n\n0,05\n\nTervo: (1 päivä/kk) 0,25 päivää/vk\n\n0,25\n\n0,05\n\nYhteensä max 13,5 päivää/vk\n\n13,5\n\n2,7fte/htv\n\nIisalmi: 8,5 (+2 päivää virkalääkäri)\n\n8,5\n\n1,7\n\nKiuruvesi: 1,25 päivä/vk\n\n1,25\n\n0,25\n\nVieremä: (2 päivää/kk) 0,5 päivää/vk\n\n0,5\n\n0,1\n\nSonkajärvi: (1 päivä/kk) 0,25 päivää/vk\n\n0,25\n\n0,05\n\nLapinlahti: 1 päivä/vk (Varpaisjärvi 1 päivä/kk)\n\n+ 0,25 päivää/vk\n\n1,25\n\n0,25\n\nPielavesi: (2 päivää/kk) 0,5 päivää/vk\n\n0,5\n\n0,1\n\nKeitele: (1 päivä/kk) 0,25 päivää/vk\n\n0,25\n\n0,05\n\nRautavaara: (1 päivä/kk) 0,25 päivää/vk\n\n0,25\n\n0,05\n\nYhteensä max 12,75 päivää/vk\n\n(+ 2 päivää virkalääkäri)\n\n12,75\n\n2,55fte/htv\n\nPalvelukokonaisuuden (=Varkaus ja Iisalmi yhteensä) kiinteä kuukausiveloitus on (5,25fte x 160h x 179€ =) 150 360 €/kk.\n\nVarkaus ja Iisalmi ympäristökuntineen yhteensä 1 804 320 euroa/vuosi\n\nTilauksen ehdoiksi sisällytetään Sansian sopimusehtojen lisäksi toiminnan käynnistymisen varmistus ja loma-aikainen lääkäripalvelu. Lisäksi tilaukseen sisältyy tilaajan puolelta kahden (2) kuukauden muutosaika käsittäen tilauksen vähentämisen mikäli virkalääkäreitä saadaan rekrytoitua."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Pitkänen Marjaana",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Aholainen Anne",
+   "role": "varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Collan Andersin Paula",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Eskelinen Juha",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Haring Kari",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Jalkala Merja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kumpusalo-Vauhkonen Anne",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Marttila Jari",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Ryynänen Olli-Pekka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Stenström Marja-Leena",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hytönen Minna",
+   "role": "vammaisneuvoston edustaja",
+   "group": "other"
+  },
+  {
+   "name": "Saarinen Jari",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Jestola Eija",
+   "role": "toimilinjajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kurola Jouni",
+   "role": "palvelualuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Lipponen Pertti",
+   "role": "palvelualuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Mykkänen Minna",
+   "role": "johtaja ylihoitaja",
+   "group": "other"
+  },
+  {
+   "name": "Raatikainen Riitta",
+   "role": "aluehallituksen puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Remes Sami",
+   "role": "toimilinjajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Pärnänen Heli",
+   "role": "sosiaalihuollon johtava viranhaltija",
+   "group": "other"
+  },
+  {
+   "name": "Miettinen Tiina Sinikka",
+   "role": "johdon assistentti",
+   "group": "other"
+  },
+  {
+   "name": "Turunen Riikka",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025820",
+  "fetched_at": "2026-10-14T18:28:25+00:00",
+  "content_hash": "7d27a4740d7af164",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T18:28:25+00:00"
+ }
+}

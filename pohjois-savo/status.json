@@ -1,0 +1,15 @@
+{
+ "region": "pohjois-savo",
+ "started_at": "2026-10-15T01:36:51+00:00",
+ "parser_version": "0.1.0",
+ "fetched": 41,
+ "changed": 0,
+ "unchanged": 192,
+ "removed": 0,
+ "errors": [],
+ "complete": true,
+ "result": "ok",
+ "requests": 532,
+ "finished_at": "2026-10-15T01:45:43+00:00",
+ "meetings_total": 233
+}

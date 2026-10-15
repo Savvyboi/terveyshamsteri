@@ -1,0 +1,1214 @@
+{
+ "id": "aluehallitus/2026-06-01",
+ "region": "pohjois-savo",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2026-06-01",
+ "stage": "minutes",
+ "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261044",
+ "pdf_url": "https://pshva.oncloudos.com/kokous/20261044.PDF",
+ "time": "09:00 - 13:58",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "181",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-1",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.",
+   "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen laillisuus ja päätösvaltaisuus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokous todettiin lailliseksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "182",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-2",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Heikki Miettinen ja Juha Pitkänen.",
+   "decision": "Pöytäkirjantarkastajaksi valittiin Heikki Miettinen ja Juha Pitkänen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pöytäkirjantarkastajien valinta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajaksi valittiin Heikki Miettinen ja Juha Pitkänen."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Heikki Miettinen ja Juha Pitkänen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "183",
+   "title": "Asioiden käsittelyjärjestys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-3",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asioiden käsittelyjärjestys"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "184",
+   "title": "Johtamisjärjestelmän uudistaminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-4",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-4.PDF",
+   "diary_number": "1489/01.00.03/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää käynnistää Pohjois-Savon hyvinvointialueen operatiivisen johtamisjärjestelmän uudistamiseen liittyvän yhteistoimintamenettelyn I vaiheen, joka päättyy aluehallituksen kokoukseen 1.6.2026 mennessä.\n\nEnnakkovaikutusten arviointi\n\nValmistelulla on vaikutusta henkilöstöön, organisaatio- ja johtamisrakenteisiin ja toimivaltaan. Yt-menettelyn I-vaiheessa on kyseessä organisaatio- ja johtamisrakenteet ja YT-menettelyn II-vaiheessa henkilökohtaiseen asemaan kohdistuvat vaikutukset.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- etenemisen tiekartta\n\nValmistelu\n\nYhteistoimintamenettelyä koskevan lain 4 §:n mukaan yhteistoiminnassa on käsiteltävä mm. henkilöstön asemaan merkittävästi vaikuttavia muutoksia työn organisoinnissa. Ko. lain 5 §:n mukaan yksittäistä työntekijää koskeva asia käsitellään ensisijaisesti tämän ja työnantajan välillä.\n\nAluehallitus on päättänyt 20.10.2025 § 393 hyväksyä yhteistoimintaneuvotteluiden neuvottelutuloksen. Neuvottelutulokseen on kirjattu johtamisrakenteen muutosten osalta seuraavaa:\n\nToimielin- ja johtamisrakennemuutokset vuonna 2026 Pohjois-Savon hyvinvointialueen kannalta keskeinen kysymys on, että mitä tavoitteita hyvinvointialue asettaa toimielinjärjestelmälleen ja millainen toimielinratkaisu tukee taloudellisuus- ja tuottavuustavoitteiden toteutumista. Muutoksilla voi olla vaikutusta myös toimialojen johtamisrakenteeseen. Poliittisesti on linjattu, että toimielinjärjestelmän muutokset toteutetaan seuraavan vaalikauden käynnistyessä ja valmistellaan kuluvan vaalikauden lopussa. Operatiivisen johtamis- ja esihenkilörakenteen arviointi toteutetaan erillisneuvotteluina vuonna 2026. Johtamisrakenteen muutos koskee koko organisaatiota ja uusi järjestelmä on tarkoitus toimeenpanna 1.1.2027 alkaen.\n\nValmistelussa on tarkoitus kartoittaa kolme vaihtoehtoista mallia, joista valinta yksityiskohtaisempaan valmisteluun tehdään. Tarkempi valmistelu toteutetaan hallintosäännön toimivaltuuksien mukaisesti.\n\nJohtamisjärjestelmän uudistamisen päätavoitteet:\n\n• Selkeä, tehokas ja tarkoituksenmukainen johtamismalli, jota strategia ohjaa vahvasti\n\n• Johtamisjärjestelmä tukee integraation vahvistamista.\n\n• Valta ja vastuu on selkeästi määritelty jo htamisjärjestelmän mukaan hallintosäännössä\n\n• Yhtenäinen johtamiskulttuuri\n\nPainotuksina ovat erityisesti (ei tyhjentävä eikä poissulkeva luettelo)\n\n• Yhtenäinen luotettava tieto toiminnan ja päätöksenteon pohjana\n\n• Digitaaliset palvelut ja asiakkuus\n\n• Järjestelmäympäristö tukee strategista ohjausta, operatiivista toimintaa sekä kyvykkyyttä häiriötilanteissa\n\n• Yliopistosairaalan johtamisen uudistaminen sisältyy koko organisaation tarkasteluun\n\n• YTA-alueen vahvistaminen\n\n• Valmius ja varautuminen\n\nJohtamisrakenteen muutoksen valmistelua johtaa aluehallituksen nimeämä ohjausryhmä. Aluehallitukselle esitetyn aikataulun mukaisesti valmistelu tapahtuu kevään 2026 aikana siten, että aluehallituksen suunnittelukokouksessa 15.4.2026 linjataan valmisteluvaiheeseen etenevä vaihtoehto tai vaihtoehdot. Tämän jälkeen käynnistyy valitun linjauksen tarkempi valmistelu sekä mm. yhteistoimintaelimen lausuntovaihe ja mahdolliset muut organisaation sisäiset lausunnot ennen varsinaista päätöksentekoa.\n\nAluehallitus päättää johtamisjärjestelmästä 1.6.2026. Tämän jälkeen aluehallitus toimeenpanee päätöksen ja käynnistää YT-menettelyn II vaiheen eli henkilökohtaisen YT- menettelyn niiden henkilöiden osalta, joiden nykyinen tehtävä muuttuu. Toimeenpanovaiheen tarkempi aikataulu mahdollisine valintaprosesseineen vahvistetaan ko. päätöksen yhteydessä.\n\nJohtamisjärjestelmän muutokset vaikuttavat myös hallintosääntöön, jonka valmistelu käynnistyy aluehallituksen päätöksen toimeenpanon yhteydessä. Hallintosäännön muutokset käsitellään 2026 vuoden loppuun mennessä.",
+   "decision": "Merkitään pöytäkirjaan, että:\n\n- Mari Antikainen, Antti Hedman, Kari Janhonen, Eija Jestola, Kati Kantanen, Mikko Korhonen, Jussi Lampi, Minna Mykkänen, Kirsi Solmari, Sami Remes, Anne Kettunen, Tuomo Pekkarinen, Jari Saarinen, Jukka Koponen, Janne Niemeläinen ja Henna Räsänen ilmoittivat olevansa esteellisiä (HL 28.1. kohta 1 ja 7) ja poistuivat kokouksesta asian käsittelyn ajaksi klo 9.14-9.36.\n\n-Merja Rautiainen ja Juha Pitkänen ilmoittivat olevansa esteellisiä (HL 28.1. kohta 1) ja poistuivat kokouksesta asian käsittelyn ajaksi klo 9.14-9.36.\n\n-Terhi Räsänen ja Adam Al-Sawad olivat läsnä kokouksessa asian käsittelyn ja päätöksenteon ajan klo 9.14-9.36.\n\n- pöytäkirjanpitäjänä toimii Virpi Kauppinen asian käsittelyn ajan.\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nLeila Pekkanen\n\n\n\nMarko Korhonen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan:\n\n- Merja Rautiainen, Janne Niemeläinen, Henna Räsänen, Jussi Lampi, Jari Saarinen, Mari Antikainen, Kati Kantanen, Eija Jestola, Sami Remes, Antti Hedman, Kirsi Solmari, Janhonen, Mikko Korhonen, Jukka Koponen, Anne Kettunen, Minna Mykkänen ja Tuomo Pekkarinen ilmoittivat olevansa esteellisiä (HallL 28 § kohta 1) ja poistuivat asian käsittelyn ja päätöksenteon ajaksi klo 9.04-11.02\n\n- Terhi Räsänen liittyi kokoukseen klo 9.04\n\n- Virpi Kauppinen toimii pöytäkirjanpitäjänä\n\n- Karoliina Partanen saapui klo 9.11\n\n- Terhi Räsänen poistui klo 11.02 päätöksenteon jälkeen.\n\nPäätösehdotus hyväksyttiin.\n\nLisäksi aluehallitus valtuuttaa hyvinvointialuejohtajan tekemään neuvottelukutsuun ja siihen liittyvään oheisaineistoon aluehallituksen sopimat muutokset. Neuvottelupäällikkö valtuutetaan tekemään tekniset korjaukset. Ohjausryhmä jatkaa työskentelyä Yt-prosessin ajan."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\nkäynnistää Pohjois-Savon hyvinvointialueella lakisääteisen yhteistoimintaneuvottelun koskien hyvinvointialueen nykyistä johtamisrakennetta ja johtotehtäviä tasoilla 1 ja 2 (toimialajohto ja palvelualuejohto sekä asiantuntijajohto) ja\n\nantaa yhteistoimintalain mukaisen neuvottelukutsun henkilöstöjärjestöille 2.6.2026 siten, että neuvottelut käydään lakisääteisenä vähintään kuuden viikon aikana.\n\nEnnakkovaikutusten arviointi\n\nValmistelulla on vaikutusta henkilöstöön, organisaatio- ja johtamisrakenteisiin ja toimivaltaan. Yt-menettelyn I-vaiheessa on kyseessä organisaatio- ja johtamisrakenteet ja YT-menettelyn II-vaiheessa henkilökohtaiseen asemaan kohdistuvat vaikutukset.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- neuvottelukutsu henkilöstöjärjestöille (ei julkinen)\n\nValmistelu\nPohjois-Savon hyvinvointialue on aloittanut uutena työnantajana 1.1.2023 alkaen noin 12 500 työntekijällä. Pohjois-Savon hyvinvointialueelle on aloitusvaiheessa vahvistettu uuden työnantajan mukainen organisaatio ja johtamisrakenne: toimialat, palvelualueet, palveluyksiköt ja toimintayksiköt sekä yksiköt, joten johtamisrakenteessa on tällä hetkellä 5 tasoa ja johtaminen on perustunut linjajohtamiseen. Hyvinvointialueella on nyt toimintakokemusta yli kolmen vuoden ajalta ja on tarkoituksenmukaista arvioida myös johtamisrakennetta uudelleen.\n\nAluehallitus käynnisti maaliskuussa johtamisrakenteen uudistukseen liittyvän prosessin, josta tiedotettiin yhteistoiminnallisesti yhteistoimielimessä. Muutosten ennakoidaan kuitenkin olevan sen laajuisia, että sekä johtamisrakenne että johdon työtehtävät muuttuvat olennaisesti, joten on tarkoituksenmukaista avata lakisääteiset yhteistoimintaneuvottelut ylimmän johtamisrakenteen eli tasojen 1 ja 2 tehtävien osalta.\n\nYhteistoimintamenettelyn kautta turvataan henkilöstön vaikutusmahdollisuudet lain piirissä olevissa työnantajan päätösasioissa. Lain hengen mukaisesti muutokset suunnitellaan vuoropuhelussa henkilöstöjärjestöjen edustajien kanssa. Tilanteen johdosta on tarpeen avata lakisääteiset yhteistoimintaneuvottelut myös, koska hyvinvointialueella on taloudellisin ja tuotannollisin syin tarve neuvotella henkilöstösäästöistä. Neuvottelut voivat sisältää siten taloudellisista tai tuotannollisista syistä tai toiminnan uudelleenjärjestelyistä johtuen toimeenpantavaa osa-aikaistamisia, lomauttamisia tai irtisanomisia. Yhteistoimintamenettelyt on käynnistettävä, kun työnantaja harkitsee toimenpiteitä, jotka saattavat johtaa yhden tai useamman työntekijän irtisanomiseen, lomauttamiseen tai osa-aikaistamiseen taloudellisin tai tuotannollisin perustein tai toiminnan uudelleenjärjestelyistä johtuen. Tasoilla 1 ja 2 sekä asiantuntijajohtamisessa on yhteensä 28 viranhaltijaa, jotka ovat yhteistoimintamenettelyn piirissä. Lisäksi samanaikaisesti ennakoidaan neuvoteltavan henkilöstösäästöistä hyvinvointialueella.\n\nJohtamisrakenteen uudistus ulottuu vaiheittain koskemaan koko Pohjois-Savon hyvinvointialueen johtamisrakennetta ml. poliittinen johtamisrakenne. Suunnitelmat toimielinjärjestelmän muutoksista valmistellaan kuluvan vaalikauden lopussa.\n\nOperatiivisen johtamis- ja esihenkilörakenteen uudistus on suunniteltu neuvoteltavan vuoden 2026 aikana, jolloin uusi johtamisjärjestelmä voitaisiin ottaa käyttöön 1.1.2027 alkaen. Tässä ensimmäisessä vaiheessa tarkastellaan nykyisiä johtamistasoja 1 ja 2 sekä asiantuntijajohtajarakennetta (toimialajohto, palvelualuejohto ja asiantuntijajohtajat) ja valmistellaan johtamisrakenteen päämalli. Päärakenteen mallin hyväksymisen jälkeen mahdollisesti käynnistyy seuraavien tasojen valmistelu.\n\nUudistuksen tavoitteena on luoda selkeä, tehokas ja strategialähtöinen johtamismalli, joka vahvistaa palveluiden integraatiota, tukee taloudellisuutta ja tuottavuutta sekä yhtenäistää johtamiskulttuuria koko organisaatiossa.\n\nValmistelussa on alustavasti tarkasteltu useita vaihtoehtoisia johtamismalleja, joista aluehallitus on valinnut neuvottelujen pohjaksi ns. vahvan integroitumisen ja asiakkuuden mallin. Uudistusta on alustavasti valmisteltu vaiheittain poliittisen ohjausryhmän johdolla, ja siihen on sisältynyt sekä infotilaisuuksia, esihenkilökysely sekä kaksi osallistavaa työpajaa.\n\nUudistuksessa painotetaan asiakaslähtöisyyttä, palvelukokonai-suuksien integraatiota, tiedolla johtamista, digitaalisia palveluja sekä varautumista ja yhteistyötä YTA-alueella. Lisäksi muun muassa yliopistosairaalan johtaminen ja keskeiset palvelukokonaisuudet tarkastellaan osana kokonaisuutta.\n\nJohtamisjärjestelmän muutokset edellyttävät myös hallintosäännön uudistamista, joka valmistellaan johtamisrakenteen uudistamisen yhteydessä ja vahvistetaan samanaikaisesti tavoitteena uusi hallintosääntö 1.1.2027 alkaen.\n\nMikäli uudella johtamisrakenteella on vaikutuksia seuraaviin johtamisrakenteisiin, avataan neuvottelut seuraavien tasojen uudistamiseen ylimmän johdon ja keskijohdon rakenteiden päätöksen jälkeen.\n\nNeuvottelun tavoitteet:\n\nneuvotellaan siirtymiseksi nykyisestä linjaorganisaatiomallista matriisi/prosessi-organisaatioon 1.1.2027 alkaen.\n\nneuvotellaan uudesta johtamisrakenteesta 1.1.2027 alkaen\n\nneuvotellaan henkilöstövaikutuksista, jotka ovat arviolta enintään 10 htv. Kustannusvaikutuksina arviolta noin 1,2 miljoonaa euroa. Muutoksissa huomioidaan luonnollisen poistuman ja lähtövaihtuvuuden vaikutukset.\n\nAhall 20.04.2026 § 150\n\nValmistelija(t)\nLeila Pekkanen\n\n, Marko Korhonen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyvinvointialuejohtaja muutti kokouksessa päätösehdotustaan seuraavasti:\n\nAluehallitus päättää, että:\n\n1) valitaan johtamisen rakenteen päämalli liitteessä esitetyn mukaisesti.\n\nJatkovalmistelussa toteutetaan seuraavat:\n\n2) johtamiseen mallinnetaan tukirakenteet, kuten johtoryhmätyöskentely, mahdolliset kumppanuusmallit sekä johtamisen periaatteet.\n\n3) Valmistellaan päärakenteen päätöksen yhteydessä vahvistettavat reunaehdot palvelutuotannon jatkovalmistelulle.\n\n4) Tuotetaan arvio johtamisjärjestelmän HTV-(henkilötyövuosi) ja talousvaikutuksista sekä riskiarvio.\n\nMerkitään pöytäkirjaan, että:\n\nVirpi Kauppinen toimi pöytäkirjanpitäjänä\n\nLeila Pekkanen oli läsnä kokouksessa asian esittelyn ajan klo 13.20-14.38\n\nMinna Pellikka poistui klo 13.58\n\nVirpi Kauppinen poistui päätöksenteon jälkeen klo 14.42 ja Marko Korhonen poistui klo 14.43."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää, että:\n\n1) valitaan johtamisen rakenteen päämallin (tasot 1-2). Esitys annetaan kokouksessa.\n\n2) Jatkovalmistelussa toteutetaan seuraavat: johtamiseen mallinnetaan tukirakenteet, kuten johtoryhmätyöskentely, mahdolliset kumppanuusmallit sekä johtamisen periaatteet.\n\n3) Valmistellaan päärakenteen päätöksen yhteydessä vahvistettavat reunaehdot palvelutuotannon jatkovalmistelulle.\n\n4) Tuotetaan arvio johtamisjärjestelmän HTV-(henkilötyövuosi) ja talousvaikutuksista sekä riskiarvio.\n\nEnnakkovaikutusten arviointi\n\nValmistelulla on vaikutusta henkilöstöön, organisaatio- ja johtamisrakenteisiin ja toimivaltaan. Yt-menettelyn I-vaiheessa on kyseessä organisaatio- ja johtamisrakenteet ja YT-menettelyn II-vaiheessa henkilökohtaiseen asemaan kohdistuvat vaikutukset\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Johtamismallien vaihtoehdot\n\nEsityslistan oheisaineistona:\n\n- Yhteenveto työpajojen valmistelusta ja kyselyn yhteenveto\n\nValmistelu\nAluehallitus on hyväksynyt uudistamisen tiekartan ja aikataulun, jonka mukaan järjestelmän hyväksyminen johtamisrakenteen päämallin osalta tehdään 1.6.2026. Uudistus koskee operatiivisen toiminnan johtamisrakennetta. Poliittisen päätöksenteon toimielinrakenne uudistetaan kuluvan vaalikauden lopulla. Hallintosäännön uudistaminen käynnistyy aluehallituksen 1.6.2026 päätöksen jälkeen.\n\nAluehallituksen (15.4.2026 ja 13.5.2026) ja aluevaltuuston (4.5.2026) suunnittelukokouksissa käsitellään valmistelun etenemistä. Yhteistoimintaelin on käsitellyt johtamisjärjestelmän uudistamista kokouksissaan 18.3 ja 15.4. Yhteistoimintaelin antaa lausuntonsa valmistelusta 20.5.2026 kokouksessaan.\n\nOhjausryhmä on järjestänyt kaksi työpajaa, joihin on osallistunut johtamistason 1 ja 2 viranhaltijat ja ohjausryhmän jäsenet. Lisäksi esihenkilöille on suunnattu kysely nykyisestä johtamisjärjestelmän toimivuudesta.\n\nJohtamisrakenteen vaihtoehdot\n\nJohtamisrakenteen uudistamisen malleja on rakennettu työpajojen valmistelun perusteella seuraavilla ohjaavilla periaatteilla koskien johtamistasoja 1 ja 2 (nykyinen toimialajohto ja palvelualuejohto)\n\n• Johtamisrakenne tukee integraation vahvistamista.\n\n• Asiakkuuden strateginen johtaminen, tukee\n\nasiakaslähtöisyyttä.\n\n• Palvelukokonaisuuksien integraatio.\n\n• Yliopistosairaalan johtamisen uudistaminen.\n\n• YTA-alueen vahvistaminen ja koordinaatio.\n\n• Valmius ja varautuminen yhtenäistetään.\n\n• Strategia- ja konsernipalveluiden yhdistäminen yhdeksi\n\nkokonaisuudeksi sekä toimintakokonaisuuksien uudistaminen.\n\nOrganisaatiomallit perustuvat matriisiorganisaatioon, jossa on horisontaalisesti organisaation läpileikkaavia toimintoja ja linja- organisaatioon pohjautuvia palvelukokonaisuuksia. Palvelutuotannon osalta edellytetään jatkovalmistelussa avainprosessien mallintamista ja omistajuuden sekä johtamisvastuiden määrittelemistä. Palvelutoiminnan tarkemmat yksityiskohdat valmistellaan, kun päämalli on hyväksytty.\n\nValmistelulle asetettujen tavoitteiden toteutuminen\n\nAsiakaslähtöisyys: Asiakkuusjohtaja, strateginen taso.\n\nPalvelutuotannon tasolla asiakkuuden hallinta, neuvonta, ohjaus jne. jatkovalmisteluun.\n\nIntegraatio ja ongelmakohtien ratkaiseminen: Sosiaali-\n\nja terveydenhuollossa toteutetaan perus- ja erityistason\n\nmatalan kynnyksen palveluiden sekä sote-keskuksen\n\nvahvistaminen palvelukokonaisuuksia uudistamalla\n\nYliopistosairaala: Keskittyy erityisten vaativaan\n\nerikoissairaanhoitoon huomioiden YTA- ja kansalliset\n\nvastuut.\n\nPelastustoimen ensivastetoiminnan integroituminen\n\nterveyspalveluihin ja lisäksi yhdyspintoja on mm.\n\nkotihoitoon. Nämä tarkentuvat jatkovalmistelussa.\n\nSosiaalihuollon palveluissa perhe- ja sosiaalityön\n\nkokonaisuuteen siirretään työikäisten sosiaalityö\n\nsotekeskuksista.\n\nYTA-alueen yhteistyörakenteet sisältyvät strategia- ja\n\nkehittämisen palveluihin. Sisällöt tarkentuvat jatkovalmistelussa.\n\nLääkäriresurssin hallinta keskitetään lääkäripooliin\n\nresurssiyksikköön, jossa voi olla myös muita ammattiryhmiä. Malli rakentuu tarkemmin jatkovalmistelussa.\n\nMielenterveys- ja päihdepalveluiden ja lastensuojelun\n\nyhtenäisrakenteen valmistelu jatkotyön yhteydessä.\n\nJatkovalmistelu aluehallituksen linjausten jälkeen:\n\n• Valittuun malliin / malleihin liittyvät tarkennukset ennen\n\npäätöksentekoa huomioiden myös YT-elimen käsittely ja lausunto.\n\n• Valittuun mallin/malleihin liittyvät johtamisen periaatteet\n\nja tukirakenteet valmisteluun\n\nJohtamistasojen 1 ja 2 rakenteen päätöksen jälkeen tapahtuvan jatkovalmistelun reunaehtojen valmistelu\n\n• Esihenkilöiden ja henkilöstön kuuleminen ennen\n\nvarsinaista päätöksentekoa joko suunnatulla kyselyllä, toimialojen itsenäisellä työskentelyllä tai muulla sovittavalla tavalla.\n\nAhall 09.03.2026 § 71\n\nValmistelija(t)\nMarko Korhonen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n- Mari Antikainen, Antti Hedman, Kari Janhonen, Eija Jestola, Kati Kantanen, Mikko Korhonen, Jussi Lampi, Minna Mykkänen, Kirsi Solmari, Sami Remes, Anne Kettunen, Tuomo Pekkarinen, Jari Saarinen, Jukka Koponen, Janne Niemeläinen ja Henna Räsänen ilmoittivat olevansa esteellisiä (HL 28.1. kohta 1 ja 7) ja poistuivat kokouksesta asian käsittelyn ajaksi klo 9.14-9.36.\n\n-Merja Rautiainen ja Juha Pitkänen ilmoittivat olevansa esteellisiä (HL 28.1. kohta 1) ja poistuivat kokouksesta asian käsittelyn ajaksi klo 9.14-9.36.\n\n-Terhi Räsänen ja Adam Al-Sawad olivat läsnä kokouksessa asian käsittelyn ja päätöksenteon ajan klo 9.14-9.36.\n\n- pöytäkirjanpitäjänä toimii Virpi Kauppinen asian käsittelyn ajan.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää käynnistää Pohjois-Savon hyvinvointialueen operatiivisen johtamisjärjestelmän uudistamiseen liittyvän yhteistoimintamenettelyn I vaiheen, joka päättyy aluehallituksen kokoukseen 1.6.2026 mennessä.\n\nEnnakkovaikutusten arviointi\n\nValmistelulla on vaikutusta henkilöstöön, organisaatio- ja johtamisrakenteisiin ja toimivaltaan. Yt-menettelyn I-vaiheessa on kyseessä organisaatio- ja johtamisrakenteet ja YT-menettelyn II-vaiheessa henkilökohtaiseen asemaan kohdistuvat vaikutukset.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- etenemisen tiekartta\n\nValmistelu\n\nYhteistoimintamenettelyä koskevan lain 4 §:n mukaan yhteistoiminnassa on käsiteltävä mm. henkilöstön asemaan merkittävästi vaikuttavia muutoksia työn organisoinnissa. Ko. lain 5 §:n mukaan yksittäistä työntekijää koskeva asia käsitellään ensisijaisesti tämän ja työnantajan välillä.\n\nAluehallitus on päättänyt 20.10.2025 § 393 hyväksyä yhteistoimintaneuvotteluiden neuvottelutuloksen. Neuvottelutulokseen on kirjattu johtamisrakenteen muutosten osalta seuraavaa:\n\nToimielin- ja johtamisrakennemuutokset vuonna 2026 Pohjois-Savon hyvinvointialueen kannalta keskeinen kysymys on, että mitä tavoitteita hyvinvointialue asettaa toimielinjärjestelmälleen ja millainen toimielinratkaisu tukee taloudellisuus- ja tuottavuustavoitteiden toteutumista. Muutoksilla voi olla vaikutusta myös toimialojen johtamisrakenteeseen. Poliittisesti on linjattu, että toimielinjärjestelmän muutokset toteutetaan seuraavan vaalikauden käynnistyessä ja valmistellaan kuluvan vaalikauden lopussa. Operatiivisen johtamis- ja esihenkilörakenteen arviointi toteutetaan erillisneuvotteluina vuonna 2026. Johtamisrakenteen muutos koskee koko organisaatiota ja uusi järjestelmä on tarkoitus toimeenpanna 1.1.2027 alkaen.\n\nValmistelussa on tarkoitus kartoittaa kolme vaihtoehtoista mallia, joista valinta yksityiskohtaisempaan valmisteluun tehdään. Tarkempi valmistelu toteutetaan hallintosäännön toimivaltuuksien mukaisesti.\n\nJohtamisjärjestelmän uudistamisen päätavoitteet:\n\n• Selkeä, tehokas ja tarkoituksenmukainen johtamismalli, jota strategia ohjaa vahvasti\n\n• Johtamisjärjestelmä tukee integraation vahvistamista.\n\n• Valta ja vastuu on selkeästi määritelty jo htamisjärjestelmän mukaan hallintosäännössä\n\n• Yhtenäinen johtamiskulttuuri\n\nPainotuksina ovat erityisesti (ei tyhjentävä eikä poissulkeva luettelo)\n\n• Yhtenäinen luotettava tieto toiminnan ja päätöksenteon pohjana\n\n• Digitaaliset palvelut ja asiakkuus\n\n• Järjestelmäympäristö tukee strategista ohjausta, operatiivista toimintaa sekä kyvykkyyttä häiriötilanteissa\n\n• Yliopistosairaalan johtamisen uudistaminen sisältyy koko organisaation tarkasteluun\n\n• YTA-alueen vahvistaminen\n\n• Valmius ja varautuminen\n\nJohtamisrakenteen muutoksen valmistelua johtaa aluehallituksen nimeämä ohjausryhmä. Aluehallitukselle esitetyn aikataulun mukaisesti valmistelu tapahtuu kevään 2026 aikana siten, että aluehallituksen suunnittelukokouksessa 15.4.2026 linjataan valmisteluvaiheeseen etenevä vaihtoehto tai vaihtoehdot. Tämän jälkeen käynnistyy valitun linjauksen tarkempi valmistelu sekä mm. yhteistoimintaelimen lausuntovaihe ja mahdolliset muut organisaation sisäiset lausunnot ennen varsinaista päätöksentekoa.\n\nAluehallitus päättää johtamisjärjestelmästä 1.6.2026. Tämän jälkeen aluehallitus toimeenpanee päätöksen ja käynnistää YT-menettelyn II vaiheen eli henkilökohtaisen YT- menettelyn niiden henkilöiden osalta, joiden nykyinen tehtävä muuttuu. Toimeenpanovaiheen tarkempi aikataulu mahdollisine valintaprosesseineen vahvistetaan ko. päätöksen yhteydessä.\n\nJohtamisjärjestelmän muutokset vaikuttavat myös hallintosääntöön, jonka valmistelu käynnistyy aluehallituksen päätöksen toimeenpanon yhteydessä. Hallintosäännön muutokset käsitellään 2026 vuoden loppuun mennessä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "185",
+   "title": "Yhteistoimintaneuvottelut, talousarvio 2027",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-5",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-5.PDF",
+   "diary_number": "3123/01.00.03/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää:\n\nkäynnistää Pohjois-Savon hyvinvointialueella lakisääteisen yhteistoimintaneuvottelun koko henkilöstöä koskien asiaselosteen mukaisesti osana talousarviovalmistelua vuodelle 2027 ja\n\nantaa yhteistoimintalain mukaisen neuvottelukutsun talousarviosta 2027 henkilöstöjärjestöille 2.6.2026 siten, että neuvottelut käydään lakisääteisenä vähintään kuuden viikon aikana 10.6.2026 alkaen.\n\nEnnakkovaikutusten arviointi\n\nAlijäämän kattamisvelvoite hyvinvointialueiden järjestämislain 115 §.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona neuvottelukutsu, neuvotteluteemat ja työllistämistä edistävä suunnitelma.\n\nValmistelu\nTalousarviovalmistelu vuodelle 2027\n\nTaloussuunnitelma on laadittava siten, että hyvinvointialueen talous on tasapainossa tai ylijäämäinen hyvinvointialueen rahoiutuslain mukaisesti. Hyvinvointialueen taseeseen kertynyt alijäämä tulee kattaa enintään kahden vuoden kuluessa tilinpäätöksen vahvistamista seuraavan vuoden alusta lukien. Aluevaltuuston linjauksen mukaan hyvinvointialueen alijäämät katetaan viimeistään vuoden 2029 tilinpäätöksessä.\n\nPohjois-Savon hyvinvointialueen talousarvion raami annettiin 18.5.2026. Taloussuunnitelmassa hyväksytään hyvinvointialueen ja hyvinvointialuekonsernin toiminnan ja talouden tavoitteet, joiden on toteutettava hyvinvointialuestrategiaa.\n\nHenkilöstöön kohdentuvina talouden sopeuttamistoimina talousarviossa 2027 kohdentuu arviolta noin 18,5 miljoonaa euroa. Säästötavoite on niin mittava, että neuvottelujen ehdotetaan koskevan koko henkilöstöä.\n\nJohtamisrakenteesta käynnistetään ja neuvotellaan yhteistoiminnallinen neuvottelu erikseen, joten ko. neuvottelun taloudelliset tavoitteet eivät ole tässä neuvottelussa mukana.\n\nPohjois-Savon hyvinvointialueella taloudellinen tilanne sekä toiminnan uudelleen organisoiminen ohjaavat siihen, että on tarvetta käynnistää yhteistoimintalain mukaiset tuotannolliset ja taloudelliset yhteistoimintaneuvottelut.\n\nYhteistoimintalain mukaan, jos hyvinvointialueen talousarvioehdotuksessa edellytetään sellaisia toimenpiteitä, joiden toteuttaminen todennäköisesti aiheuttaisi useita irtisanomisia, osa-aikaistamisia, lomautuksia taikka merkittäviä heikennyksiä palvelussuhteiden ehdoissa, toimenpiteitä on käsiteltävä yhteistoimintamenettelyssä ennen kuin aluehallitus tekee aluevaltuustolle lopullisen talousarvioehdotuksen.\n\nMuutosten suunnittelussa huolehditaan siitä, että vaikutuksilla ei kuitenkaan vaarannettaisi asiakas- ja potilasturvallisuutta sekä huolehdittaisi asianmukaisesti lakisääteisestä palvelutuotannosta.\n\nYhteistoimintaneuvottelun tavoitteet vuodelle 2027\n\nYhteistoimintaneuvottelun yhteydessä tarkastellaan muun muassa seuraavia asioita:\n\n• lähtövaihtuvuuden hyödyntäminen (eläköityminen, määräaikaiset, luonnollinen muu poistuma)\n\n• irtisanomiset, osa-aikaistamiset ja lomautukset\n\n• taloudellisuus- ja tuottavuusohjelma ja sen henkilöstövaikutukset\n\n• rakenteelliset muutokset ja rakenneohjelmien vaikutukset ml. integraatiomuutokset ja automatisaatiomuutokset sekä muut mahdolliset henkilöstövaikutukset.\n\nPohjois-Savon hyvinvointialueen talouden tasapainottamiseksi haetaan yhdessä henkilöstön ja henkilöstöjärjestöjen kanssa pitkävaikutteisia rakenteellisia ja toiminnallisia muutoksia sekä uudistuksia, joilla on taloudellisesti säästävä vaikutus.\n\nViranhaltijavalmisteluna esitetään käynnistettäväksi työnantajan ja henkilöstön välisestä yhteistoiminnasta annetun lain 4 § 1-4 kohtien mukaiset neuvottelut osana vuoden 2027 talousarviota henkilöstöjärjestöjen kanssa.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nMari Antikainen, henkilöstöjohtaja\n\n, Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\nkäynnistää Pohjois-Savon hyvinvointialueella lakisääteisen yhteistoimintaneuvottelun koko henkilöstöä koskien asiaselosteen mukaisesti osana talousarviovalmistelua vuodelle 2027 ja\n\nantaa yhteistoimintalain mukaisen neuvottelukutsun talousarviosta 2027 henkilöstöjärjestöille 2.6.2026 siten, että neuvottelut käydään lakisääteisenä vähintään kuuden viikon aikana 10.6.2026 alkaen.\n\nEnnakkovaikutusten arviointi\n\nAlijäämän kattamisvelvoite hyvinvointialueiden järjestämislain 115 §.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona neuvottelukutsu, neuvotteluteemat ja työllistämistä edistävä suunnitelma.\n\nValmistelu\nTalousarviovalmistelu vuodelle 2027\n\nTaloussuunnitelma on laadittava siten, että hyvinvointialueen talous on tasapainossa tai ylijäämäinen hyvinvointialueen rahoiutuslain mukaisesti. Hyvinvointialueen taseeseen kertynyt alijäämä tulee kattaa enintään kahden vuoden kuluessa tilinpäätöksen vahvistamista seuraavan vuoden alusta lukien. Aluevaltuuston linjauksen mukaan hyvinvointialueen alijäämät katetaan viimeistään vuoden 2029 tilinpäätöksessä.\n\nPohjois-Savon hyvinvointialueen talousarvion raami annettiin 18.5.2026. Taloussuunnitelmassa hyväksytään hyvinvointialueen ja hyvinvointialuekonsernin toiminnan ja talouden tavoitteet, joiden on toteutettava hyvinvointialuestrategiaa.\n\nHenkilöstöön kohdentuvina talouden sopeuttamistoimina talousarviossa 2027 kohdentuu arviolta noin 18,5 miljoonaa euroa. Säästötavoite on niin mittava, että neuvottelujen ehdotetaan koskevan koko henkilöstöä.\n\nJohtamisrakenteesta käynnistetään ja neuvotellaan yhteistoiminnallinen neuvottelu erikseen, joten ko. neuvottelun taloudelliset tavoitteet eivät ole tässä neuvottelussa mukana.\n\nPohjois-Savon hyvinvointialueella taloudellinen tilanne sekä toiminnan uudelleen organisoiminen ohjaavat siihen, että on tarvetta käynnistää yhteistoimintalain mukaiset tuotannolliset ja taloudelliset yhteistoimintaneuvottelut.\n\nYhteistoimintalain mukaan, jos hyvinvointialueen talousarvioehdotuksessa edellytetään sellaisia toimenpiteitä, joiden toteuttaminen todennäköisesti aiheuttaisi useita irtisanomisia, osa-aikaistamisia, lomautuksia taikka merkittäviä heikennyksiä palvelussuhteiden ehdoissa, toimenpiteitä on käsiteltävä yhteistoimintamenettelyssä ennen kuin aluehallitus tekee aluevaltuustolle lopullisen talousarvioehdotuksen.\n\nMuutosten suunnittelussa huolehditaan siitä, että vaikutuksilla ei kuitenkaan vaarannettaisi asiakas- ja potilasturvallisuutta sekä huolehdittaisi asianmukaisesti lakisääteisestä palvelutuotannosta.\n\nYhteistoimintaneuvottelun tavoitteet vuodelle 2027\n\nYhteistoimintaneuvottelun yhteydessä tarkastellaan muun muassa seuraavia asioita:\n\n• lähtövaihtuvuuden hyödyntäminen (eläköityminen, määräaikaiset, luonnollinen muu poistuma)\n\n• irtisanomiset, osa-aikaistamiset ja lomautukset\n\n• taloudellisuus- ja tuottavuusohjelma ja sen henkilöstövaikutukset\n\n• rakenteelliset muutokset ja rakenneohjelmien vaikutukset ml. integraatiomuutokset ja automatisaatiomuutokset sekä muut mahdolliset henkilöstövaikutukset.\n\nPohjois-Savon hyvinvointialueen talouden tasapainottamiseksi haetaan yhdessä henkilöstön ja henkilöstöjärjestöjen kanssa pitkävaikutteisia rakenteellisia ja toiminnallisia muutoksia sekä uudistuksia, joilla on taloudellisesti säästävä vaikutus.\n\nViranhaltijavalmisteluna esitetään käynnistettäväksi työnantajan ja henkilöstön välisestä yhteistoiminnasta annetun lain 4 § 1-4 kohtien mukaiset neuvottelut osana vuoden 2027 talousarviota henkilöstöjärjestöjen kanssa."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "186",
+   "title": "Palvelujärjestelmän uudistaminen - R4 uudistusohjelma, erikoissairaanhoidon ja yliopistollisen sairaalan uudistus, toimeenpanosuunnitelma",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-6",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-6.PDF",
+   "diary_number": "1095/00.01.02.00/2025",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Yleisten palveluiden lautakunta hyväksyy R4 uudistusohjelman toimeenpanosuunnitelman ja esittää sitä edelleen aluehallitukselle hyväksyttäväksi.\n\nEnnakkovaikutusten arviointi\n\nKuvattu erillisessä liitteessä\n\nToimivallan peruste\nHallintosääntö § 42\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- toimeenpanosuunnitelma\n\n- ennakkovaikutusten arviointi\n\nValmistelu\nTausta: Aluevaltuuston päätös 5.5.2025\n\nPohjois-Savon hyvinvointialueen aluevaltuusto päätti erikoissairaanhoidon ja yliopistollisen sairaalan uudistuksesta 5.5.2025. Uudistamisohjelman kustannusvaikutukset kohdentuivat avohoitoon, leikkaustoimintaan, päivystystoimintaan, tutkimukseen ja opetukseen. Osaa säästöistä ei kohdennettu. Uudistamisohjelman kustannusvaikutus on yhteensä 20,6 miljoonaa euroa. Aluevaltuuston hyväksymä päätös sisältää noin 5 miljoonan euron säästöt, jotka toteutetaan vähentämällä määräaikaisten työntekijöiden ja sijaisten työpanosta sekä kohdentamalla henkilöstöä uudelleen.\n\nAluevaltuusto edellyttää, että uudistusohjelman toteuttamiseksi laaditaan toimeenpanosuunnitelma. Suunnitelman tueksi tehdään erillinen toiminnan tietoselvitys. Tietoselvityksessä tarkastellaan erikoisaloittain poliklinikkapalveluja ja leikkaustoimintaa. Selvityksessä kuvataan käyntimäärät, bruttokustannukset ja poliklinikkakäyntien hinnat Kuopion yliopistollisessa sairaalassa (KYS), Iisalmen sairaalassa ja Varkauden sairaalassa vuosilta 2023–2024. Lisäksi selvitetään osastotoiminta, potilasvirrat ja potilasmäärät sekä niiden yhteys perusterveyden-huollon sairaalakapasiteettiin ja akuuttiin vuodeosastotoimintaan. Näitten tietojen pohjalta laaditaan toimeenpanosuunnitelma erikoisaloittain, jossa kuvataan mm. sisäiset toiminnot ja prosessit sekä kehittämisen tavoitteet ja painopistealueet. Tavoitteena on saada aikaan säästöjä erikoisairaanhoidossa.Perusterveydenhuoltoa vahvistetaan ja tuetaan parhaiten, kun Iisalmen ja Varkauden sairaaloiden vajaalla käytöllä olevat ajanmukaiset toimitilat ovat erityispalveluiden tehokkaassa käytössä.\n\nR4 toimeenpanosuunnitelman tietopohjaa täsmennettiin yleisten palveluiden lautakunnan päätöksellä 22.01.2026 § 6:\n\n- R4-sairaaluudistuksen erikoisalakohtaisen toimeenpano-suunnitelman varsinainen tietopohja rajataan alkamaan vuodesta 2025, käytännössä OMNI-potilastietojärjestelmän käyttöönotosta alkaen, jolloin analyysi perustuu yhtenäisiin kirjaamiskäytäntöihin ja vertailukelpoiseen alueelliseen tietoon.\n\n- Vuosien 2023–2024 tiedot hyödynnetään toimeenpano-suunnitelmassa taustatrendinä ja kehityssuunnan kuvauksena, mutta niitä ei käytetä erikoisalakohtaisen toiminnan ensisijaisena ohjaus- ja mitoitusperustana.\n\n- Vuoden 2025 tietopohja kootaan siten, että se yhdistää erikoisalakohtaisesti poliklinikkatoiminnan, leikkaustoiminnan ja osastohoidon volyymit, kustannus- ja henkilöstötiedot sekä keskeiset prosessi- ja saatavuusmittarit KYSin, Iisalmen sairaalan ja Varkauden sairaalan osalta.\n\nTällä rajauksella toimeenpanosuunnitelma tukee valtakunnallista tavoitekauden 2025–2029 ohjausta, resurssiviisasta valmistelua sekä R4-sairaalauudistuksen vaikuttavaa ja ennakoivaa toteutusta\n\nToimeenpanosuunnitelman ydinsisällöt\n\nPohjois-Savon yliopistollinen hyvinvointialue vastaa Itä-Suomen YTA-alueen palveluiden tuottamisesta lainsäädännön ja YTA sopimuksen mukaisesti. Palveluissa tavoitellaan jonottomuutta, joka edellyttää tuottavuuden kasvattamista erikoissairaanhoidon tuottamissa avopalveluissa, leikkaustoiminnassa sekä osastotoiminnassa.\n\nToimeenpanosuunnittelun edetessä on tunnistettu tuottavuus- sekä kustannusvaikutuksia sisältäviksi osa-alueiksi osasto- ja heräämöhoito sekä YTA-alueen potilasvirrat.\n\nAvohoitopalveluiden uudistaminen edellyttää palvelustrategian mukaisesti asiakaslähtöisten digitaalisten palvelujen täysimääräistä käyttöönottoa sekä potilasprosessien uudistumista yhdessä perusterveydenhuollon kanssa.\n\nLeikkaustoiminnassa jatketaan lyhytjälkihoitoisen kirurgian lisäämistä sekä vahvistetaan 23h-heräämöhoitoa, joka vapauttaa osastopaikkoja osastopalveluista.\n\nOsastohoitoa kevennetään perustamalla päiväsairaala-yksikkö, johon jatkossa ohjautuu potilaita useilta erikoisaloilta eri potilasprosesseista.\n\nIisalmen ja Varkauden somaattinen erikoissairaanhoidon toimenpide- ja avohoitotoiminta jatkuu ja sitä uudistetaan samoilla periaatteilla kuin muutakin erikoissairaanhoitoa.\n\nHoitotyön tuottavuutta parannetaan päivittämällä toimintatavat vastaamaan uudistuvia toimintaprosesseja ja kohdentamalla hoitohenkilöstöresurssit dynaamisesti potilaiden hoidon tarpeen mukaan. Tavoitteena on varmistaa, että osaaminen ja hoitohenkilöstön työpanos kohdennetaan optimaalisesti.\n\nToiminnalliset uudistukset, niiden onnistunut toimeenpano sekä erilaisten lisä- ja hälytystyökorvausten sekä jononpurkutyön vähentäminen, vähentävät tarvetta kaikkia ammattiryhmiä koskeville vakituiseen henkilöstöön kohdentuville henkilöstövähennyksille.\n\nUudistusten toimeenpano edellyttää henkilöstön uudelleenkohdentamista, mikä tarkentuu toimeenpanon aikana.\n\nTuotannon kasvupotentiaali ja roolin vahvistuminen YTA-alueella\n\nSeuraavien vuosien ennakoidaan tuovan merkittäviä muutoksia erikoissairaanhoidon toimintaan. YTA-alueella tehtävä yhteistyö, erittäin vaativan ja keskitetyn erikoissairaanhoidon muutokset edellyttävät yliopistollisen sairaalan tuotannollisen kyvyn varmistamista huomioiden tuottavuuden lisäyksen kautta saavutettava hintakilpailukyky.\n\nHoitojonojen poistaminen on talouden ja potilaslähtöisen toiminnan edellytys, mikä on jo käynnissä. Kun jonot poistuvat, ostopalveluiden käyttötarve ja muille hyvinvointialueille hoitoon hakeutuminen vähenevät Pohjois-Savon asukkaiden osalta.\n\nToiminnan tehostuessa resursseja vapautuu oman hyvinvointialueen ja Itä-Suomen YTA-alueen potilaiden hoitoon. Tämä mahdollistaa nykyistä laajemman vastuun ottamisen koko YTA-alueen erittäin vaativien potilaiden hoidosta. \n\nSydänkirurgia ja neurokirurgia pystyvät lisäämään muille hyvinvointialueille tarjottavaa potilashoitoa jo vuoden 2026 sisällä.\n\nTuotantomäärien kasvattaminen edellyttää sisäisesti osasto- ja heräämökapasiteetin uudelleenjärjestelyä. Toiminnallisen muutosvalmiuden parantaminen mahdollistaa jatkossa uusien potilaiden hoitamisen nykyistä nopeammin. Suunnittelussa huomioidaan lisäksi osaamisen kehittäminen ja profilointi suhteessa palvelutarpeen ennusteisiin.\n\nToiminnan suunnittelussa huomioidaan YTA-alueen yhteistyön kehittäminen sekä sopimuksen mukainen potilaiden ohjaus erikoisaloille ja heidän hoitonsa YTA alueen sisällä. Joillakin erikoisaloilla kysyntää on myös valtakunnallisesti ja palveluita on keskitetty vähempään kuin viiteen yliopistolliseen sairaalaan.\n\nMuutoksessa onnistuminen edellyttää yhteistä tietoon perustuvaa suunnittelua ja toiminnan johtamista. Prosesseja tarkastellaan läpileikkaavasti sekä erityispalveluiden sisällä että yhdessä perusterveydenhuollon ja ikääntyneiden palveluiden kanssa. YTA- alueella tarve suunnitella erikoisalojen toimintaa yhdessä kasvaa tulevina vuosina.\n\nTarkempi kuvaus erikoissairaanhoidon uudistuksen etenemisestä ja toimeenpanosuunnitelmasta, sekä uudistuksen muutosvaikutukset, on kuvattu liitteenä olevassa toimeenpanosuunnitelmassa.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJari Saarinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä R4 - erikoissairaanhoidon ja yliopistollisen sairaalan uudistusohjelman toimeenpanosuunnitelman.\n\nEnnakkovaikutusten arviointi\n\nKuvattu erillisessä liitteessä\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- toimeenpanosuunnitelma\n\n- ennakkovaikutusten arviointi\n\nValmistelu\nAluevaltuuston 5.5.2025 päätöksen mukaisesti terveydenhuollon erityispalveluiden uudistuksessa pääpaino on nykyisen toiminnan tehostamisessa. Hyvinvointialueen erikoissairaanhoitoa toteuttaa yliopistosairaala KYS, jolla on toimipaikat Kuopiossa, Iisalmessa ja Varkaudessa. Sairaaloita, sotekeskuksia ja soteasemia tarkastellaan verkostona, joka muodostaa toiminnallisen kokonaisuuden.\n\nUudistuksen sisällöt jakaantuvat viiteen toiminnalliseen kokonaisuuteen, joita ovat Avohoito, Leikkaustoiminta, Osasto- ja heräämöhoito sekä päivystystoiminta. Opetus ja tutkimus läpileikkaavat toiminnalliset kokonaisuudet. Keskeisenä muutoksena on tarkennettu YTA-alueen muutossuuntien kuvausta ja vaikutuksia erikoissairaanhoidon toimintaan Pohjois-Savossa.\n\nUudistuksen toimeenpanosuunnitelma on käsitelty yleisten palveluiden lautakunnassa 13.5.2026. Terveydenhuollon erityispalveluiden kustannusvaikutustavoitteet, 20,6 miljoonaa euroa, jyvittyvät vuosille 2026-2029.\n\nYleisltk 13.05.2026 § 47\n\nValmistelija(t)\nJari Saarinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "yleisten palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Yleisten palveluiden lautakunta hyväksyy R4 uudistusohjelman toimeenpanosuunnitelman ja esittää sitä edelleen aluehallitukselle hyväksyttäväksi.\n\nEnnakkovaikutusten arviointi\n\nKuvattu erillisessä liitteessä\n\nToimivallan peruste\nHallintosääntö § 42\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- toimeenpanosuunnitelma\n\n- ennakkovaikutusten arviointi\n\nValmistelu\nTausta: Aluevaltuuston päätös 5.5.2025\n\nPohjois-Savon hyvinvointialueen aluevaltuusto päätti erikoissairaanhoidon ja yliopistollisen sairaalan uudistuksesta 5.5.2025. Uudistamisohjelman kustannusvaikutukset kohdentuivat avohoitoon, leikkaustoimintaan, päivystystoimintaan, tutkimukseen ja opetukseen. Osaa säästöistä ei kohdennettu. Uudistamisohjelman kustannusvaikutus on yhteensä 20,6 miljoonaa euroa. Aluevaltuuston hyväksymä päätös sisältää noin 5 miljoonan euron säästöt, jotka toteutetaan vähentämällä määräaikaisten työntekijöiden ja sijaisten työpanosta sekä kohdentamalla henkilöstöä uudelleen.\n\nAluevaltuusto edellyttää, että uudistusohjelman toteuttamiseksi laaditaan toimeenpanosuunnitelma. Suunnitelman tueksi tehdään erillinen toiminnan tietoselvitys. Tietoselvityksessä tarkastellaan erikoisaloittain poliklinikkapalveluja ja leikkaustoimintaa. Selvityksessä kuvataan käyntimäärät, bruttokustannukset ja poliklinikkakäyntien hinnat Kuopion yliopistollisessa sairaalassa (KYS), Iisalmen sairaalassa ja Varkauden sairaalassa vuosilta 2023–2024. Lisäksi selvitetään osastotoiminta, potilasvirrat ja potilasmäärät sekä niiden yhteys perusterveyden-huollon sairaalakapasiteettiin ja akuuttiin vuodeosastotoimintaan. Näitten tietojen pohjalta laaditaan toimeenpanosuunnitelma erikoisaloittain, jossa kuvataan mm. sisäiset toiminnot ja prosessit sekä kehittämisen tavoitteet ja painopistealueet. Tavoitteena on saada aikaan säästöjä erikoisairaanhoidossa.Perusterveydenhuoltoa vahvistetaan ja tuetaan parhaiten, kun Iisalmen ja Varkauden sairaaloiden vajaalla käytöllä olevat ajanmukaiset toimitilat ovat erityispalveluiden tehokkaassa käytössä.\n\nR4 toimeenpanosuunnitelman tietopohjaa täsmennettiin yleisten palveluiden lautakunnan päätöksellä 22.01.2026 § 6:\n\n- R4-sairaaluudistuksen erikoisalakohtaisen toimeenpano-suunnitelman varsinainen tietopohja rajataan alkamaan vuodesta 2025, käytännössä OMNI-potilastietojärjestelmän käyttöönotosta alkaen, jolloin analyysi perustuu yhtenäisiin kirjaamiskäytäntöihin ja vertailukelpoiseen alueelliseen tietoon.\n\n- Vuosien 2023–2024 tiedot hyödynnetään toimeenpano-suunnitelmassa taustatrendinä ja kehityssuunnan kuvauksena, mutta niitä ei käytetä erikoisalakohtaisen toiminnan ensisijaisena ohjaus- ja mitoitusperustana.\n\n- Vuoden 2025 tietopohja kootaan siten, että se yhdistää erikoisalakohtaisesti poliklinikkatoiminnan, leikkaustoiminnan ja osastohoidon volyymit, kustannus- ja henkilöstötiedot sekä keskeiset prosessi- ja saatavuusmittarit KYSin, Iisalmen sairaalan ja Varkauden sairaalan osalta.\n\nTällä rajauksella toimeenpanosuunnitelma tukee valtakunnallista tavoitekauden 2025–2029 ohjausta, resurssiviisasta valmistelua sekä R4-sairaalauudistuksen vaikuttavaa ja ennakoivaa toteutusta\n\nToimeenpanosuunnitelman ydinsisällöt\n\nPohjois-Savon yliopistollinen hyvinvointialue vastaa Itä-Suomen YTA-alueen palveluiden tuottamisesta lainsäädännön ja YTA sopimuksen mukaisesti. Palveluissa tavoitellaan jonottomuutta, joka edellyttää tuottavuuden kasvattamista erikoissairaanhoidon tuottamissa avopalveluissa, leikkaustoiminnassa sekä osastotoiminnassa.\n\nToimeenpanosuunnittelun edetessä on tunnistettu tuottavuus- sekä kustannusvaikutuksia sisältäviksi osa-alueiksi osasto- ja heräämöhoito sekä YTA-alueen potilasvirrat.\n\nAvohoitopalveluiden uudistaminen edellyttää palvelustrategian mukaisesti asiakaslähtöisten digitaalisten palvelujen täysimääräistä käyttöönottoa sekä potilasprosessien uudistumista yhdessä perusterveydenhuollon kanssa.\n\nLeikkaustoiminnassa jatketaan lyhytjälkihoitoisen kirurgian lisäämistä sekä vahvistetaan 23h-heräämöhoitoa, joka vapauttaa osastopaikkoja osastopalveluista.\n\nOsastohoitoa kevennetään perustamalla päiväsairaala-yksikkö, johon jatkossa ohjautuu potilaita useilta erikoisaloilta eri potilasprosesseista.\n\nIisalmen ja Varkauden somaattinen erikoissairaanhoidon toimenpide- ja avohoitotoiminta jatkuu ja sitä uudistetaan samoilla periaatteilla kuin muutakin erikoissairaanhoitoa.\n\nHoitotyön tuottavuutta parannetaan päivittämällä toimintatavat vastaamaan uudistuvia toimintaprosesseja ja kohdentamalla hoitohenkilöstöresurssit dynaamisesti potilaiden hoidon tarpeen mukaan. Tavoitteena on varmistaa, että osaaminen ja hoitohenkilöstön työpanos kohdennetaan optimaalisesti.\n\nToiminnalliset uudistukset, niiden onnistunut toimeenpano sekä erilaisten lisä- ja hälytystyökorvausten sekä jononpurkutyön vähentäminen, vähentävät tarvetta kaikkia ammattiryhmiä koskeville vakituiseen henkilöstöön kohdentuville henkilöstövähennyksille.\n\nUudistusten toimeenpano edellyttää henkilöstön uudelleenkohdentamista, mikä tarkentuu toimeenpanon aikana.\n\nTuotannon kasvupotentiaali ja roolin vahvistuminen YTA-alueella\n\nSeuraavien vuosien ennakoidaan tuovan merkittäviä muutoksia erikoissairaanhoidon toimintaan. YTA-alueella tehtävä yhteistyö, erittäin vaativan ja keskitetyn erikoissairaanhoidon muutokset edellyttävät yliopistollisen sairaalan tuotannollisen kyvyn varmistamista huomioiden tuottavuuden lisäyksen kautta saavutettava hintakilpailukyky.\n\nHoitojonojen poistaminen on talouden ja potilaslähtöisen toiminnan edellytys, mikä on jo käynnissä. Kun jonot poistuvat, ostopalveluiden käyttötarve ja muille hyvinvointialueille hoitoon hakeutuminen vähenevät Pohjois-Savon asukkaiden osalta.\n\nToiminnan tehostuessa resursseja vapautuu oman hyvinvointialueen ja Itä-Suomen YTA-alueen potilaiden hoitoon. Tämä mahdollistaa nykyistä laajemman vastuun ottamisen koko YTA-alueen erittäin vaativien potilaiden hoidosta. \n\nSydänkirurgia ja neurokirurgia pystyvät lisäämään muille hyvinvointialueille tarjottavaa potilashoitoa jo vuoden 2026 sisällä.\n\nTuotantomäärien kasvattaminen edellyttää sisäisesti osasto- ja heräämökapasiteetin uudelleenjärjestelyä. Toiminnallisen muutosvalmiuden parantaminen mahdollistaa jatkossa uusien potilaiden hoitamisen nykyistä nopeammin. Suunnittelussa huomioidaan lisäksi osaamisen kehittäminen ja profilointi suhteessa palvelutarpeen ennusteisiin.\n\nToiminnan suunnittelussa huomioidaan YTA-alueen yhteistyön kehittäminen sekä sopimuksen mukainen potilaiden ohjaus erikoisaloille ja heidän hoitonsa YTA alueen sisällä. Joillakin erikoisaloilla kysyntää on myös valtakunnallisesti ja palveluita on keskitetty vähempään kuin viiteen yliopistolliseen sairaalaan.\n\nMuutoksessa onnistuminen edellyttää yhteistä tietoon perustuvaa suunnittelua ja toiminnan johtamista. Prosesseja tarkastellaan läpileikkaavasti sekä erityispalveluiden sisällä että yhdessä perusterveydenhuollon ja ikääntyneiden palveluiden kanssa. YTA- alueella tarve suunnitella erikoisalojen toimintaa yhdessä kasvaa tulevina vuosina.\n\nTarkempi kuvaus erikoissairaanhoidon uudistuksen etenemisestä ja toimeenpanosuunnitelmasta, sekä uudistuksen muutosvaikutukset, on kuvattu liitteenä olevassa toimeenpanosuunnitelmassa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 R4 erikoissairaanhoidon uudistus, toimeenpanosuunnitelma, Ahall 01062026",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-6-259371.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 R4 vaikutustenarviointi yhteenveto, Ahall 01062026",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-6-175632.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "187",
+   "title": "Lastensuojeluyksikkö rakennushankkeen hankesuunnitelma, Perhepalvelut",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-7",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-7.PDF",
+   "diary_number": "2663/00.01.05/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Perhe- ja vammaispalveluiden lautakunta esittää aluehallitukselle, että se päättää:\n\nhyväksyä lastensuojeluyksikön rakennushankkeen hankesuunnitelman\n\nkäynnistää rakennushankkeen kilpailutuksen KVR-urakkana omaan taseeseen\n\nettä kilpailutuksen perusteella valittava toimija tuodaan erikseen päätettäväksi.\n\nToimivallan peruste\nHallintosääntö § 41, lautakunnan erityistehtävät kohta 6.\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\nLastensuojeluyksikön hankesuunnitelma\n\nLastensuojeluyksikön hankesuunnitelman liite\n\nValmistelu\nPerhe- ja vammaispalveluiden uudistuksen (R3) keskeisenä tavoitteena lastensuojelupalveluissa on oman palvelutuotannon vahvistaminen sekä ostopalvelujen hallittu vähentäminen. Oman tuotannon lisääminen tukee palveluiden sisällöllistä kehittämistä, parantaa palveluprosessien sujuvuutta ja yhteensovittamista sekä vahvistaa asiakaskokemusta. Tavoitteena on hyödyntää omat laitospalvelut täysimääräisesti ja siirtää osa ostopalveluina hankittavasta laitoshoidosta omaan tuotantoon.\n\nSamalla turvataan henkilöstön saatavuus ja palvelutuotannon pitkäjänteinen kehittäminen. Palveluverkon tarkastelun yhteydessä on tunnistettu tarve lisätä omaa laitospalvelukapasiteettia. Esitetty uusi lastensuojeluyksikkö vastaa tähän tarpeeseen ja on arvioitu välttämättömäksi sekä kiireelliseksi asiakkaiden palvelujen turvaamiseksi ja hyvinvointialueen oman tuotannon vahvistamiseksi.\n\nHankkeen perusteluna ovat myös nykyisten käytössä olevien tilojen puutteet. Tilojen kunto, toiminnallinen epäkäytännöllisyys ja kustannustehottomuus eivät mahdollista nykyaikaista, turvallista ja laadukasta lastensuojelutyötä. Toimintojen sijoittaminen tilatehokkaasti suunniteltuun uudisrakennukseen on kokonaisuutena perusteltua.\n\nLastensuojeluyksikön rakennushankkeen hankesuunnitelmassa esitetään rakennettavaksi 21-paikkainen lastensuojelun laitoshoidon uudisrakennus hyvinvointialueen keskiselle alueelle Kuopioon, Haapaniemen kaupunginosaan osoitteeseen Tasavallankatu 6. Rakennuksen suunniteltu laajuus on noin 1 260 m².\n\nHankkeen suunnittelussa on huomioitu palvelutuotannon tarpeet, Pohjois-Savon hyvinvointialueen strategia sekä kiinteistö- ja toimitilastrategiset linjaukset. Rakennushanke sisältyy vuosien 2026–2028 investointisuunnitelmaan, ja hankkeelle on myönnetty 6,5 miljoonan euron lainanottovaltuus. Hankesuunnitteluvaiheessa arvioitu alustava kustannusarvio on noin 4 miljoonaa euroa, ja kustannukset tarkentuvat kilpailutuksen yhteydessä.\n\nTavoitteena on käynnistää hankkeen kilpailutus vuoden 2026 aikana KVR-urakkana omaan taseeseen toteutettavaksi. Rakentamisen on tarkoitus alkaa vuosien 2026–2027 aikana, ja yksikön tavoitteellinen käyttöönotto on vuonna 2028.",
+   "decision": "Merkitään pöytäkirjaan, että: Menna Kärnä ja Petri Pyy olivat paikalla klo 9.06 - 9.40.\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nPetri Pyy, Menna Kärnä, Kati Kantanen, Minna Pitkänen, Katja Rautiainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\nhyväksyä lastensuojeluyksikön rakennushankkeen hankesuunnitelman\n\nkäynnistää rakennushankkeen kilpailutuksen KVR-urakkana omaan taseeseen\n\nettä kilpailutuksen perusteella valittava toimija tuodaan erikseen päätettäväksi.\n\nEnnakkovaikutusten arviointi\n\nHankkeella turvataan lastensuojelun laitospalveluiden omatuotannon riittävyys ja tarpeita vastaava toiminta sekä toteutetaan R3-mukaisten toimenpiteiden mukaista oman tuotannon kehittämistä.\n\nToimivallan peruste\nHallintosääntö § 36 ja § 93\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\nLastensuojeluyksikön hankesuunnitelma\n\nLastensuojeluyksikön hankesuunnitelman liite\n\nValmistelu\nPerhe- ja vammaispalveluiden uudistuksen (R3) keskeisenä tavoitteena lastensuojelupalveluissa on oman palvelutuotannon vahvistaminen sekä ostopalvelujen hallittu vähentäminen. Oman tuotannon lisääminen tukee palveluiden sisällöllistä kehittämistä, parantaa palveluprosessien sujuvuutta ja yhteensovittamista sekä vahvistaa asiakaskokemusta. Tavoitteena on hyödyntää omat laitospalvelut täysimääräisesti ja siirtää osa ostopalveluina hankittavasta laitoshoidosta omaan tuotantoon.\n\nSamalla turvataan henkilöstön saatavuus ja palvelutuotannon pitkäjänteinen kehittäminen. Palveluverkon tarkastelun yhteydessä on tunnistettu tarve lisätä omaa laitospalvelukapasiteettia. Esitetty uusi lastensuojeluyksikkö vastaa tähän tarpeeseen ja on arvioitu välttämättömäksi sekä kiireelliseksi asiakkaiden palvelujen turvaamiseksi ja hyvinvointialueen oman tuotannon vahvistamiseksi.\n\nHankkeen perusteluna ovat myös nykyisten käytössä olevien tilojen puutteet. Tilojen kunto, toiminnallinen epäkäytännöllisyys ja kustannustehottomuus eivät mahdollista nykyaikaista, turvallista ja laadukasta lastensuojelutyötä. Toimintojen sijoittaminen tilatehokkaasti suunniteltuun uudisrakennukseen on kokonaisuutena perusteltua.\n\nLastensuojeluyksikön rakennushankkeen hankesuunnitelmassa esitetään rakennettavaksi 21-paikkainen lastensuojelun laitoshoidon uudisrakennus hyvinvointialueen keskiselle alueelle Kuopioon, Haapaniemen kaupunginosaan osoitteeseen Tasavallankatu 6. Rakennuksen suunniteltu laajuus on noin 1 260 m².\n\nHankkeen suunnittelussa on huomioitu palvelutuotannon tarpeet, Pohjois-Savon hyvinvointialueen strategia sekä kiinteistö- ja toimitilastrategiset linjaukset. Rakennushanke sisältyy vuosien 2026–2028 investointisuunnitelmaan, ja hankkeelle on myönnetty 6,5 miljoonan euron lainanottovaltuus. Hankesuunnitteluvaiheessa arvioitu alustava kustannusarvio on noin 4 miljoonaa euroa, ja kustannukset tarkentuvat kilpailutuksen yhteydessä.\n\nTavoitteena on käynnistää hankkeen kilpailutus vuoden 2026 aikana KVR-urakkana omaan taseeseen toteutettavaksi. Rakentamisen on tarkoitus alkaa vuosien 2026–2027 aikana, ja yksikön tavoitteellinen käyttöönotto on vuonna 2028.\n\nPevamltk 12.05.2026 § 52\n\nValmistelija(t)\nkiinteistöjohtaja Petri Pyy, hankepäällikkö Menna Kärnä\n\n, toimialajohtaja Kati Kantanen, palvelualuejohtaja Minna Pitkänen, palveluyksikköjohtaja Katja Rautiainen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että: Menna Kärnä ja Petri Pyy olivat paikalla klo 9.06 - 9.40.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "perhe- ja vammaispalveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Perhe- ja vammaispalveluiden lautakunta esittää aluehallitukselle, että se päättää:\n\nhyväksyä lastensuojeluyksikön rakennushankkeen hankesuunnitelman\n\nkäynnistää rakennushankkeen kilpailutuksen KVR-urakkana omaan taseeseen\n\nettä kilpailutuksen perusteella valittava toimija tuodaan erikseen päätettäväksi.\n\nToimivallan peruste\nHallintosääntö § 41, lautakunnan erityistehtävät kohta 6.\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\nLastensuojeluyksikön hankesuunnitelma\n\nLastensuojeluyksikön hankesuunnitelman liite\n\nValmistelu\nPerhe- ja vammaispalveluiden uudistuksen (R3) keskeisenä tavoitteena lastensuojelupalveluissa on oman palvelutuotannon vahvistaminen sekä ostopalvelujen hallittu vähentäminen. Oman tuotannon lisääminen tukee palveluiden sisällöllistä kehittämistä, parantaa palveluprosessien sujuvuutta ja yhteensovittamista sekä vahvistaa asiakaskokemusta. Tavoitteena on hyödyntää omat laitospalvelut täysimääräisesti ja siirtää osa ostopalveluina hankittavasta laitoshoidosta omaan tuotantoon.\n\nSamalla turvataan henkilöstön saatavuus ja palvelutuotannon pitkäjänteinen kehittäminen. Palveluverkon tarkastelun yhteydessä on tunnistettu tarve lisätä omaa laitospalvelukapasiteettia. Esitetty uusi lastensuojeluyksikkö vastaa tähän tarpeeseen ja on arvioitu välttämättömäksi sekä kiireelliseksi asiakkaiden palvelujen turvaamiseksi ja hyvinvointialueen oman tuotannon vahvistamiseksi.\n\nHankkeen perusteluna ovat myös nykyisten käytössä olevien tilojen puutteet. Tilojen kunto, toiminnallinen epäkäytännöllisyys ja kustannustehottomuus eivät mahdollista nykyaikaista, turvallista ja laadukasta lastensuojelutyötä. Toimintojen sijoittaminen tilatehokkaasti suunniteltuun uudisrakennukseen on kokonaisuutena perusteltua.\n\nLastensuojeluyksikön rakennushankkeen hankesuunnitelmassa esitetään rakennettavaksi 21-paikkainen lastensuojelun laitoshoidon uudisrakennus hyvinvointialueen keskiselle alueelle Kuopioon, Haapaniemen kaupunginosaan osoitteeseen Tasavallankatu 6. Rakennuksen suunniteltu laajuus on noin 1 260 m².\n\nHankkeen suunnittelussa on huomioitu palvelutuotannon tarpeet, Pohjois-Savon hyvinvointialueen strategia sekä kiinteistö- ja toimitilastrategiset linjaukset. Rakennushanke sisältyy vuosien 2026–2028 investointisuunnitelmaan, ja hankkeelle on myönnetty 6,5 miljoonan euron lainanottovaltuus. Hankesuunnitteluvaiheessa arvioitu alustava kustannusarvio on noin 4 miljoonaa euroa, ja kustannukset tarkentuvat kilpailutuksen yhteydessä.\n\nTavoitteena on käynnistää hankkeen kilpailutus vuoden 2026 aikana KVR-urakkana omaan taseeseen toteutettavaksi. Rakentamisen on tarkoitus alkaa vuosien 2026–2027 aikana, ja yksikön tavoitteellinen käyttöönotto on vuonna 2028."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Hankesuunnitelma Kuopion lastensuojeluyksikön rakennushanke, Ahall 01062026",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-7-258469.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Lastensuojeluyksikön hankesuunnitelman liitteet, Ahall 01062026",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-7-258470.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "188",
+   "title": "Iisalmen asumispalveluhanke ikääntyneille",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-8",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-8.PDF",
+   "diary_number": "2872/00.01.05/2026",
+   "preparer": "Mikko Korhonen; Menna Kärnä; Petri Pyy",
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Ikäihmisten ja hoivapalveluiden lautakunta esittää aluehallitukselle päätettäväksi\n\n1. Iisalmen asumispalvelu rakennushankkeen hankesuunnitelman\n\n2. Rakennushankkeen kilpailutuksen aloittamisen KVR-urakkana omaan taseeseen\n\n3. Kilpailutuksen perusteella valittava toimija tuodaan erikseen päätettäväksi\n\nEnnakkovaikutusten arviointi\n\nVastaa ikääntyvien asumisen palvelutarpeeseen kun luovutaan epätarkoituksettomista tiloista.\n\nToimivallan peruste\nHallintosääntö § 43\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaneistona:\n\nIisalmen asumispalvelu rakennushankkeen hankesuunnitelma\n\nIisalmen asumispalvelu hankesuunnitelman liite\n\nValmistelu\nIisalmen alueelle tarvitaan ympärivuorokautisen palveluasumisen yksikkö, joista osa paikoista kohdentuu lyhytaikaiseen/tilapäiseen asumiseen. Keskittämisen tarve on lyhytaikaisen ympärivuorokautisen palveluasumisen paikoille.\n\nIisalmen palveluasumishanke korvaa nykyisistä kiinteistöistä Kirkonsalmen kiinteistön sekä Onnimannin kiinteistön ympärivuorokautisen palveluasumisen osalta. Kirkonsalmen kiinteistö ei tilojen osalta vastaa ympärivuorokautiselle palveluasumiselle asetettuja vaatimuksia ja kiinteistö ikänsä puolesta vaatisi myös rakennus- että taloteknisiä korjauksia. Lyhytaikaishoidon osalta Sonkajärven Tuulikanteleen lyhytaikaispaikat on kannattavaa keskittää tulevaisuudessa Iisalmeen.\n\nHuomioiden palvelutarpeen kasvu Iisalmessa vuoteen 2040 mennessä ja väestöennuste alueella, on nykyiset Kirkonsalmen kiinteistön ja Onnimannin kiinteistön korvaava rakennushanke välttämätön. Suunnittelussa huomioidaan myös lähialueiden Sonkajärven, Kiuruveden ja Vieremän palvelutarpeet. Nykyisten vaatimusten mukaisesti iäkkäiden asiakkaiden käytössä olevat toimitilat tulee olla riittävät, turvalliset, esteettömät, kodikkaat sekä muutenkin olosuhteiltaan sopivat heidän tarpeisiinsa nähden. Kirkonsalmen ja Onnimannin kiinteistöt eivät täytä näitä tiloille asetettuja kriteereitä. Asiakkaiden sijoittaminen yhteen kiinteistöön on tehokkaampaa taloudellisesta sekä henkilöstöresurssien näkökulmasta.\n\nHankesuunnitelmassa esitetään rakennettavaksi ikääntyvien ympärivuorokautisen palveluasumisen 65 paikkainen uudisrakennus. Lisäksi rakennukseen esitetään sijoitettavaksi ikääntyvien asukasohjauksen ja kotiin annettavien palveluiden tiloja. Siirtyvät palvelut sijaitsevat nykyisin Kirkonsalmen kiinteistössä ja Iisalmessa vuokratiloissa. Uudisrakennuksen myötä saadaan kustannussäästöjä luopumalla vuokratiloista ja saavutetaan synergiaetuja ikääntyvien palveluiden läheisestä sijainnista Iisalmen kampus Vireeseen. Uudisrakennus esitetään rakennettavaksi Iisalmen Riistakadulle kampus Vireen läheisyyteen.\n\nRakennuksen suunniteltu laajuus on n. 3750 m². Hankkeen suunnittelussa on huomioitu mm. palvelutuotannon tarpeet, Pohjois-Savon hyvinvointialueen strategia ja kiinteistö- ja toimitilastrategiset tavoitteet ja linjaukset. Rakennushanke on hyväksytty investointisuunnitelmaan 2026 ja lainanottovaltuus saatu 11 miljoonan euron taseinvestoinnille, joka toteutetaan vuosien 2026-2028 aikana. Hankesuuunnitteluvaiheessa arvioitu alustava rakentamisen kustannusarvio on 10,7 miljoonaa euroa. Hankkeen kustannukset tarkentuvat toteuttajan kilpailutuksen jälkeen. Tavoitteena on, että rakennushankkeen toteuttaja kilpailutetaan vuoden 2026 aikana ja, että rakentaminen aloitetaan vuosien 2026–2027 aikana ja rakennus otetaan käyttöön vuonna 2028.",
+   "decision": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että Petri Pyy ja Menna Kärnä poistuivat klo 13.32.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelijat",
+     "text": "Mikko Korhonen\n\nMenna Kärnä\n\nPetri Pyy"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n-Pekka Taipale ilmoitti olevansa esteellinen (HL 28.1. kohta 5) ja poistui asian käsittelyn ja päätöksenteon ajaksi klo poistui klo 12.03-12.05.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä:\n\nIisalmen asumispalvelu rakennushankkeen hankesuunnitelman\n\nrakennushankkeen kilpailutuksen aloittamisen KVR-urakkana omaan taseeseen\n\n3. kilpailutuksen perusteella valittava toimija tuodaan erikseen päätettäväksi\n\nEnnakkovaikutusten arviointi\n\nVastaa ikääntyvien asumisen palvelutarpeeseen kun luovutaan epätarkoituksettomista tiloista.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\n- Iisalmen asumispalvelu rakennushankkeen hankesuunnitelma\n\n- Iisalmen asumispalvelu hankesuunnitelman liite\n\nValmistelu\n\nIkaholtk 21.05.2026 § 43"
+    },
+    {
+     "heading": "Valmistelijat",
+     "text": "toimialajohtaja Mikko Korhonen\n\nhankepäällikkö Menna Kärnä\n\nkiinteistöjohtaja Petri Pyy"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että Petri Pyy ja Menna Kärnä poistuivat klo 13.32."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "ikääntyvien palveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Ikäihmisten ja hoivapalveluiden lautakunta esittää aluehallitukselle päätettäväksi\n\n1. Iisalmen asumispalvelu rakennushankkeen hankesuunnitelman\n\n2. Rakennushankkeen kilpailutuksen aloittamisen KVR-urakkana omaan taseeseen\n\n3. Kilpailutuksen perusteella valittava toimija tuodaan erikseen päätettäväksi\n\nEnnakkovaikutusten arviointi\n\nVastaa ikääntyvien asumisen palvelutarpeeseen kun luovutaan epätarkoituksettomista tiloista.\n\nToimivallan peruste\nHallintosääntö § 43\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaneistona:\n\nIisalmen asumispalvelu rakennushankkeen hankesuunnitelma\n\nIisalmen asumispalvelu hankesuunnitelman liite\n\nValmistelu\nIisalmen alueelle tarvitaan ympärivuorokautisen palveluasumisen yksikkö, joista osa paikoista kohdentuu lyhytaikaiseen/tilapäiseen asumiseen. Keskittämisen tarve on lyhytaikaisen ympärivuorokautisen palveluasumisen paikoille.\n\nIisalmen palveluasumishanke korvaa nykyisistä kiinteistöistä Kirkonsalmen kiinteistön sekä Onnimannin kiinteistön ympärivuorokautisen palveluasumisen osalta. Kirkonsalmen kiinteistö ei tilojen osalta vastaa ympärivuorokautiselle palveluasumiselle asetettuja vaatimuksia ja kiinteistö ikänsä puolesta vaatisi myös rakennus- että taloteknisiä korjauksia. Lyhytaikaishoidon osalta Sonkajärven Tuulikanteleen lyhytaikaispaikat on kannattavaa keskittää tulevaisuudessa Iisalmeen.\n\nHuomioiden palvelutarpeen kasvu Iisalmessa vuoteen 2040 mennessä ja väestöennuste alueella, on nykyiset Kirkonsalmen kiinteistön ja Onnimannin kiinteistön korvaava rakennushanke välttämätön. Suunnittelussa huomioidaan myös lähialueiden Sonkajärven, Kiuruveden ja Vieremän palvelutarpeet. Nykyisten vaatimusten mukaisesti iäkkäiden asiakkaiden käytössä olevat toimitilat tulee olla riittävät, turvalliset, esteettömät, kodikkaat sekä muutenkin olosuhteiltaan sopivat heidän tarpeisiinsa nähden. Kirkonsalmen ja Onnimannin kiinteistöt eivät täytä näitä tiloille asetettuja kriteereitä. Asiakkaiden sijoittaminen yhteen kiinteistöön on tehokkaampaa taloudellisesta sekä henkilöstöresurssien näkökulmasta.\n\nHankesuunnitelmassa esitetään rakennettavaksi ikääntyvien ympärivuorokautisen palveluasumisen 65 paikkainen uudisrakennus. Lisäksi rakennukseen esitetään sijoitettavaksi ikääntyvien asukasohjauksen ja kotiin annettavien palveluiden tiloja. Siirtyvät palvelut sijaitsevat nykyisin Kirkonsalmen kiinteistössä ja Iisalmessa vuokratiloissa. Uudisrakennuksen myötä saadaan kustannussäästöjä luopumalla vuokratiloista ja saavutetaan synergiaetuja ikääntyvien palveluiden läheisestä sijainnista Iisalmen kampus Vireeseen. Uudisrakennus esitetään rakennettavaksi Iisalmen Riistakadulle kampus Vireen läheisyyteen.\n\nRakennuksen suunniteltu laajuus on n. 3750 m². Hankkeen suunnittelussa on huomioitu mm. palvelutuotannon tarpeet, Pohjois-Savon hyvinvointialueen strategia ja kiinteistö- ja toimitilastrategiset tavoitteet ja linjaukset. Rakennushanke on hyväksytty investointisuunnitelmaan 2026 ja lainanottovaltuus saatu 11 miljoonan euron taseinvestoinnille, joka toteutetaan vuosien 2026-2028 aikana. Hankesuuunnitteluvaiheessa arvioitu alustava rakentamisen kustannusarvio on 10,7 miljoonaa euroa. Hankkeen kustannukset tarkentuvat toteuttajan kilpailutuksen jälkeen. Tavoitteena on, että rakennushankkeen toteuttaja kilpailutetaan vuoden 2026 aikana ja, että rakentaminen aloitetaan vuosien 2026–2027 aikana ja rakennus otetaan käyttöön vuonna 2028."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Hankesuunnitelma Iisalmen asumispalvelu hanke, Ahall 01062026",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-8-264412.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Liite; Iisalmen asumispalvelu hankesuunnitelma, Ahall 01062026",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-8-259753.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "189",
+   "title": "Kuopion pelastusasemien ostot",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-9",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-9.PDF",
+   "diary_number": "2349/02.07.00/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Kokonaisturvallisuuslautakunta päättää esittää aluehallitukselle, että:\n\nKuopion kuusi pelastusaseman rakennukset maa-alueineen ostetaan Kuopion kaupungilta esittelytekstin ja oheisaineiston mukaisesti kokonaishintaan 4.732.500,00 €.\n\nKuopion kaupungin omistamat pelastusasemat rakennuksineen ja maa-alueineen siirtyy hyvinvointialueen omistukseen 1.7.2026 alkaen.\n\nValtuutetaan valtuuttaa kiinteistöjohtaja Petri Pyy allekirjoittamaan kauppakirjat ja sopimaan tarvittavista yksityiskohdista kauppaan liittyen.\n\nEnnakkovaikutusten arviointi\n\nToiminnan kannalta keskeisten pelastusasemien osto omaan taseeseen.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\nKuopion kaupunkirakennelautakunnan päätösesitys\n\nMyytävät pelastusasemat\n\nValmistelu\nPohjois-Savon investointisuunnitelmaan 2026 on hyväksytty kuuden Kuopiossa sijaitsevan pelastusasemien ostot. Investointisuunnitelmaan varattu summa on 5,25 M€. Pelastusemien kauppa on tarkoitus toteuttaa vuoden 2026 aikana, johon sisältyy rakennukset maa-alueineen.\n\nOsana investointisuunnittelua 2026 pelastusasemien ostamisesta on tehty ulkopuolinen taloudellinen arviointi, jonka mukaisesti Kuopion pelastusasemat on taloudellisesti kannattava ostaa. Rakennuksista on tehty Kuopion kaupungin toimesta erilliset arviokirjat sekä kiinteistöauditointiraportit, jotka on huomioitu ulkopuolista arviointia tehtäessä.\n\nKuopion kaupungin kanssa on alustavasti sovittu, että varsinainen omaisuuden siirtoajankohta olisi 1.7.2026 ja kauppakirjat allekirjoitettaisiin kesäkuussa, kun päätökset puolin ja toisin ovat saaneet lainvoiman.\n\nKuopion kaupunki on käsitellyt pelastusasemien myyntiä hyvinvointialueelle kaupunkirakennelautakunnassa 6.5.2026 seuraavasti:\n\n Kuopion Tilapalvelut on neuvotellut Pohjois-Savon hyvinvointialueen kanssa kuuden pelastusaseman sekä näiden yhteydessä olevien kolmen varastorakennuksen kaupasta. Myytävät pelastusasemakiinteistöt ovat Nilsiän pelastusasema Riistaveden pelastusasema, Vehmersalmen pelastusasema, Juankosken pelastusasema, Karttulan pelastusasema ja Maaningan pelastusasema.\n\n Kuuden pelastusasemakiinteistön kokonaiskauppahinta on 4 732 500 euroa maapohjineen. Kokonaiskauppahinta muodostuu rakennusten yhteenlasketusta tasearvosta 4 657 000 e ja maapohjien arvosta 75 500 e. Kaupunki on määritellyt rakennuskohtaiset kauppahinnat edellä mainittujen tasearvojen perusteella siten, ettei rakennusten myynnistä kokonaisuutena synny myyntivoittoa eikä -tappiota. Kaupunki on maaliskuussa 2025 saanut pelastusasemien markkina-arvoista ulkopuolisen arvioitsijan laatimat arviokirjat, joiden mukaan kiinteistöjen kokonaiskauppahinta jää hieman kiinteistöarvioiden arviointitarkkuuksien alarajojen mukaan laskettua markkina-arvoa alhaisemmaksi.\n\n Kuntaliitoksia edeltäneet kunnat ja Kuopion kaupunki Nilsiän pelastusaseman osalta ovat saaneet nyt myytävien pelastusasemien rakentamiseen, korjaamiseen ja laajentamiseen tarkoitettuja palosuojelurahaston avustuksia. Palosuojelurahastosta saadun tiedon mukaan valtionavustuksia voidaan periä takaisin, jos avustuksia saaneen pelastusasemakiinteistön käyttötarkoitus muuttuu. Saadun tiedon mukaan kiinteistöjen myynti Kuopion kaupungilta Pohjois-Savon hyvinvointialueelle ei aiheuta takaisinperintää. Takaisinperintä voi olla aiheellinen, jos hyvinvointialue joskus luopuisi pelastusasemakiinteistöstä ja luovuttaisi sen johonkin muuhun käyttöön. Kauppakirjaan on tämän varalta sisällytettävä ehto, jonka mukaan Pohjois-Savon hyvinvointialue vastaa takaisin perittävien avustusten maksamisesta luovuttaessaan pelastusasemia muuhun käyttöön.\n\nRakennukset kirjataan taseeseen hyvinvointialueen poistosuunnitelman mukaisesti.",
+   "decision": "Merkitään pöytäkirjaan, että:\n\nPetri Pyy oli läsnä kokouksessa asian käsittelyn ajan klo 15.20-15.49.\n\nTeknisenä korjauksena päätösehdotuksen kohdasta 3. poistetaan sana \"valtuuttaa\".\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nPetri Pyy, Anne Halttunen, Jukka Koponen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n-Hilkka Kontiainen ilmoitti olevansa esteellinen (HL 28.1. kohta 5) ja poistui asian käsittelyn ja päätöksenteon ajaksi klo poistui klo 12.06- 12.07.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\n1. ostaa Kuopion kaupungilta kuuden (6) pelastusaseman rakennukset maa-alueineen esittelytekstin ja oheisaineiston mukaisesti kokonaishintaan 4.732.500,00 €\n\n2. todeta, että Kuopion kaupungin omistamat pelastusasemat rakennuksineen ja maa-alueineen siirtyvät hyvinvointialueen omistukseen 1.7.2026 alkaen.\n\n3. valtuuttaa kiinteistöjohtaja Petri Pyy allekirjoittamaan kauppakirjat ja sopimaan tarvittavista yksityiskohdista kauppaan liittyen.\n\nEnnakkovaikutusten arviointi\n\nToiminnan kannalta keskeisten pelastusasemien osto omaan taseeseen.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\nKuopion kaupunkirakennelautakunnan päätösesitys\n\nMyytävät pelastusasemat\n\nKokoltk 21.05.2026 § 40\n\nValmistelija(t)\nPetri Pyy, Anne Halttunen, Jukka Koponen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\nPetri Pyy oli läsnä kokouksessa asian käsittelyn ajan klo 15.20-15.49.\n\nTeknisenä korjauksena päätösehdotuksen kohdasta 3. poistetaan sana \"valtuuttaa\".\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "pelastustoimi- ja turvallisuuspalveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Kokonaisturvallisuuslautakunta päättää esittää aluehallitukselle, että:\n\nKuopion kuusi pelastusaseman rakennukset maa-alueineen ostetaan Kuopion kaupungilta esittelytekstin ja oheisaineiston mukaisesti kokonaishintaan 4.732.500,00 €.\n\nKuopion kaupungin omistamat pelastusasemat rakennuksineen ja maa-alueineen siirtyy hyvinvointialueen omistukseen 1.7.2026 alkaen.\n\nValtuutetaan valtuuttaa kiinteistöjohtaja Petri Pyy allekirjoittamaan kauppakirjat ja sopimaan tarvittavista yksityiskohdista kauppaan liittyen.\n\nEnnakkovaikutusten arviointi\n\nToiminnan kannalta keskeisten pelastusasemien osto omaan taseeseen.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\nKuopion kaupunkirakennelautakunnan päätösesitys\n\nMyytävät pelastusasemat\n\nValmistelu\nPohjois-Savon investointisuunnitelmaan 2026 on hyväksytty kuuden Kuopiossa sijaitsevan pelastusasemien ostot. Investointisuunnitelmaan varattu summa on 5,25 M€. Pelastusemien kauppa on tarkoitus toteuttaa vuoden 2026 aikana, johon sisältyy rakennukset maa-alueineen.\n\nOsana investointisuunnittelua 2026 pelastusasemien ostamisesta on tehty ulkopuolinen taloudellinen arviointi, jonka mukaisesti Kuopion pelastusasemat on taloudellisesti kannattava ostaa. Rakennuksista on tehty Kuopion kaupungin toimesta erilliset arviokirjat sekä kiinteistöauditointiraportit, jotka on huomioitu ulkopuolista arviointia tehtäessä.\n\nKuopion kaupungin kanssa on alustavasti sovittu, että varsinainen omaisuuden siirtoajankohta olisi 1.7.2026 ja kauppakirjat allekirjoitettaisiin kesäkuussa, kun päätökset puolin ja toisin ovat saaneet lainvoiman.\n\nKuopion kaupunki on käsitellyt pelastusasemien myyntiä hyvinvointialueelle kaupunkirakennelautakunnassa 6.5.2026 seuraavasti:\n\n Kuopion Tilapalvelut on neuvotellut Pohjois-Savon hyvinvointialueen kanssa kuuden pelastusaseman sekä näiden yhteydessä olevien kolmen varastorakennuksen kaupasta. Myytävät pelastusasemakiinteistöt ovat Nilsiän pelastusasema Riistaveden pelastusasema, Vehmersalmen pelastusasema, Juankosken pelastusasema, Karttulan pelastusasema ja Maaningan pelastusasema.\n\n Kuuden pelastusasemakiinteistön kokonaiskauppahinta on 4 732 500 euroa maapohjineen. Kokonaiskauppahinta muodostuu rakennusten yhteenlasketusta tasearvosta 4 657 000 e ja maapohjien arvosta 75 500 e. Kaupunki on määritellyt rakennuskohtaiset kauppahinnat edellä mainittujen tasearvojen perusteella siten, ettei rakennusten myynnistä kokonaisuutena synny myyntivoittoa eikä -tappiota. Kaupunki on maaliskuussa 2025 saanut pelastusasemien markkina-arvoista ulkopuolisen arvioitsijan laatimat arviokirjat, joiden mukaan kiinteistöjen kokonaiskauppahinta jää hieman kiinteistöarvioiden arviointitarkkuuksien alarajojen mukaan laskettua markkina-arvoa alhaisemmaksi.\n\n Kuntaliitoksia edeltäneet kunnat ja Kuopion kaupunki Nilsiän pelastusaseman osalta ovat saaneet nyt myytävien pelastusasemien rakentamiseen, korjaamiseen ja laajentamiseen tarkoitettuja palosuojelurahaston avustuksia. Palosuojelurahastosta saadun tiedon mukaan valtionavustuksia voidaan periä takaisin, jos avustuksia saaneen pelastusasemakiinteistön käyttötarkoitus muuttuu. Saadun tiedon mukaan kiinteistöjen myynti Kuopion kaupungilta Pohjois-Savon hyvinvointialueelle ei aiheuta takaisinperintää. Takaisinperintä voi olla aiheellinen, jos hyvinvointialue joskus luopuisi pelastusasemakiinteistöstä ja luovuttaisi sen johonkin muuhun käyttöön. Kauppakirjaan on tämän varalta sisällytettävä ehto, jonka mukaan Pohjois-Savon hyvinvointialue vastaa takaisin perittävien avustusten maksamisesta luovuttaessaan pelastusasemia muuhun käyttöön.\n\nRakennukset kirjataan taseeseen hyvinvointialueen poistosuunnitelman mukaisesti."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "190",
+   "title": "Leppävirran kunnan tilojen vuokraus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-10",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-10.PDF",
+   "diary_number": "2588/02.07.00/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää hyväksyä Leppävirran kunnan kanssa tehtävät vuokrasopimukset esittelytekstin mukaisesti.\n\nEnnakkovaikutusten arviointi\n\nHyvinvointialueen tarvitsemien toimitilojen vuokraaminen vuokrausperiaatteiden mukaisesti\n\nToimivallan peruste\nHallintosääntö § 93\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nLeppävirran kunnan kanssa on käyty vuokrasopimusneuvottelut syksyn 2026 ja alkuvuoden 2027 aikana uusien tehtävien vuokrasopimusten osalta.\n\nVuokrasopimusneuvotteluja on käyty 16.9.2024 aluehallituksen lin-jaamien periaatteiden mukaisesti. Vuokrasopimukset tehdään tois-taiseksi voimassa olevina enintään 12 kk irtisanomisajalla. Neuvotte-lut käydään pääomavuokran tasosta ja ylläpitovuokran sitomisesta todellisiin kustannuksiin. Tavoitteena on neuvotella vuokrakustannukset nykyisiä vuokrakustannuksia pienemmäksi.\n\nLeppävirran kunta on toimittanut hyvinvointialueelle vuokraesityksen vuokrattavien kohteiden vuokratasoista vuoden 2026 alusta lähtien.\n\nHyvinvointialue on teettänyt kunnan esittämistä pääomavuokratasoista ulkopuolisen arvioinnin auktorisoidun kiinteistöarvioijan toimesta. Arvioinnissa on huomioitu mm. vuokrattavien kohteiden kunto, sijainti, vertailu alueen ja vieruskuntien vuokratasoihin. Arviointi on tehty kohteittain neljään eri asteikkoon, joita ovat edullinen, tavanomainen, kallis ja huomattavan kallis. Hyvinvointialue on tehnyt vastaesityksen kunnalle pääomavuokran tasosta arvioinnin perusteella.\n\nKunnan kanssa on saatu neuvoteltua yhteinen näkemys vuokratta-vista kohteista ja vuokratasoista seuraavasti:\n\n- Terveyskeskus, vuokra-ala 3063,40m2, vuokra 241 265,76 € /v\n\n- Kunnantalo, vuokra-ala 284,5m2, vuokra 47 158,68 € /v\n\n- Virrankoti, vuokra-ala 3888m2, vuokra 833 353,32 €/v\n\n- Leppäkertun koulu, vuokra-ala 38m2, vuokra 11 052,72 €/v\n\n- Riihikoti, vuokra-ala 424m2, vuokra 71 562,36 € /v\n\n- Timolan liikuntatalo, vuokra-ala 30,5m2, vuokra 8 354,64 €/v\n\n- Kivelän koulu, vuokra-ala 16m2, vuokra 2 123,4 €/v\n\n- Oravikosken koulu, vuokra-ala 13,6m2, vuokra 3 661,2 €/v\n\n- Pelastusasema(vanha), vuokra-ala 674m2, vuokra 4 2340,56 €/v\n\n- Pelastusasema väistötila, vuokra-ala 106m2, vuokra 32 779,44€/v\n\n- Öljynpuomivarasto, vuokra-ala 46m2, vuokra 3 015,12 €/v\n\nLeppävirralla luovutaan vanhan pelastusaseman tiloista uuden pelastusaseman valmistuttua. Terveyskeskuksen osalta luovutaan kahden ylimmän kerroksen vuokrauksesta. Hyvinvoinitalue vuokraa terveyskeskuksen ja pelastusaseman tiloja eikä niistä peritä pääomavuokraa.\n\nKaikkien kohteiden pääomavuokra yhteensä on 588 892,2 €/v ja 49 074,35 €/kk. Ylläpitovuokra kaikkien kohteiden osalta on arvioitu yhteensä 691 139,16 €/v ja 57 594,93 €/kk. Siivous osan kohteiden osalta on 16 147,92€/v ja 1386,32 €/kk. Kokonaisvuokra yhteensä 1 296 667,20 € /v ja 5 186 668,80 €/ 4 vuotta.\n\nVuokrasopimukset tehdään osapuolten välillä kohdekohtaisesti ja sopimuksissa sovitaan tarkemmin osapuolten välisestä vastuujaosta. Kaikki sopimukset tehdään toistaiseksi voimassa olevina 12 kk irtisanomisajalla pl. terveyskeskuksen osalta 6kk irtisanomisaika. Kokonaisvuokrissa ylläpitovuokran osuus on arvioitu ja ne määrittyvät toteutuvien kustannusten mukaisesti.",
+   "decision": "Merkitään pöytäkirjaan, että:\n\n-Petri Pyy oli läsnä kokouksessa asian ajan klo 12.15 - 12.19.\n\nHyvinvointialuejohtaja muutti kokouksessa päätösehdotustaan seuraavasti:\n\nAluehallitus päättää hyväksyä Leppävirran kunnan kanssa tehtävät vuokrasopimukset muutoin esittelytekstin mukaisesti, mutta Riihikodin osalta kunnalle esitetään 6kk irtisanomisaikaa.\n\nPäätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että:\n\n-Karoliina Partanen poistui kokouksesta asian käsittelyn jälkeen klo 12.24\n\n-Kokoustauko klo 12.24-12.50",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nPetri Pyy\n\nHannu Lahti, Saara Damski\n\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n-Petri Pyy oli läsnä kokouksessa asian ajan klo 12.15 - 12.19.\n\nHyvinvointialuejohtaja muutti kokouksessa päätösehdotustaan seuraavasti:\n\nAluehallitus päättää hyväksyä Leppävirran kunnan kanssa tehtävät vuokrasopimukset muutoin esittelytekstin mukaisesti, mutta Riihikodin osalta kunnalle esitetään 6kk irtisanomisaikaa.\n\nPäätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että:\n\n-Karoliina Partanen poistui kokouksesta asian käsittelyn jälkeen klo 12.24\n\n-Kokoustauko klo 12.24-12.50"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä Leppävirran kunnan kanssa tehtävät vuokrasopimukset esittelytekstin mukaisesti.\n\nEnnakkovaikutusten arviointi\n\nHyvinvointialueen tarvitsemien toimitilojen vuokraaminen vuokrausperiaatteiden mukaisesti\n\nToimivallan peruste\nHallintosääntö § 93\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nLeppävirran kunnan kanssa on käyty vuokrasopimusneuvottelut syksyn 2026 ja alkuvuoden 2027 aikana uusien tehtävien vuokrasopimusten osalta.\n\nVuokrasopimusneuvotteluja on käyty 16.9.2024 aluehallituksen lin-jaamien periaatteiden mukaisesti. Vuokrasopimukset tehdään tois-taiseksi voimassa olevina enintään 12 kk irtisanomisajalla. Neuvotte-lut käydään pääomavuokran tasosta ja ylläpitovuokran sitomisesta todellisiin kustannuksiin. Tavoitteena on neuvotella vuokrakustannukset nykyisiä vuokrakustannuksia pienemmäksi.\n\nLeppävirran kunta on toimittanut hyvinvointialueelle vuokraesityksen vuokrattavien kohteiden vuokratasoista vuoden 2026 alusta lähtien.\n\nHyvinvointialue on teettänyt kunnan esittämistä pääomavuokratasoista ulkopuolisen arvioinnin auktorisoidun kiinteistöarvioijan toimesta. Arvioinnissa on huomioitu mm. vuokrattavien kohteiden kunto, sijainti, vertailu alueen ja vieruskuntien vuokratasoihin. Arviointi on tehty kohteittain neljään eri asteikkoon, joita ovat edullinen, tavanomainen, kallis ja huomattavan kallis. Hyvinvointialue on tehnyt vastaesityksen kunnalle pääomavuokran tasosta arvioinnin perusteella.\n\nKunnan kanssa on saatu neuvoteltua yhteinen näkemys vuokratta-vista kohteista ja vuokratasoista seuraavasti:\n\n- Terveyskeskus, vuokra-ala 3063,40m2, vuokra 241 265,76 € /v\n\n- Kunnantalo, vuokra-ala 284,5m2, vuokra 47 158,68 € /v\n\n- Virrankoti, vuokra-ala 3888m2, vuokra 833 353,32 €/v\n\n- Leppäkertun koulu, vuokra-ala 38m2, vuokra 11 052,72 €/v\n\n- Riihikoti, vuokra-ala 424m2, vuokra 71 562,36 € /v\n\n- Timolan liikuntatalo, vuokra-ala 30,5m2, vuokra 8 354,64 €/v\n\n- Kivelän koulu, vuokra-ala 16m2, vuokra 2 123,4 €/v\n\n- Oravikosken koulu, vuokra-ala 13,6m2, vuokra 3 661,2 €/v\n\n- Pelastusasema(vanha), vuokra-ala 674m2, vuokra 4 2340,56 €/v\n\n- Pelastusasema väistötila, vuokra-ala 106m2, vuokra 32 779,44€/v\n\n- Öljynpuomivarasto, vuokra-ala 46m2, vuokra 3 015,12 €/v\n\nLeppävirralla luovutaan vanhan pelastusaseman tiloista uuden pelastusaseman valmistuttua. Terveyskeskuksen osalta luovutaan kahden ylimmän kerroksen vuokrauksesta. Hyvinvoinitalue vuokraa terveyskeskuksen ja pelastusaseman tiloja eikä niistä peritä pääomavuokraa.\n\nKaikkien kohteiden pääomavuokra yhteensä on 588 892,2 €/v ja 49 074,35 €/kk. Ylläpitovuokra kaikkien kohteiden osalta on arvioitu yhteensä 691 139,16 €/v ja 57 594,93 €/kk. Siivous osan kohteiden osalta on 16 147,92€/v ja 1386,32 €/kk. Kokonaisvuokra yhteensä 1 296 667,20 € /v ja 5 186 668,80 €/ 4 vuotta.\n\nVuokrasopimukset tehdään osapuolten välillä kohdekohtaisesti ja sopimuksissa sovitaan tarkemmin osapuolten välisestä vastuujaosta. Kaikki sopimukset tehdään toistaiseksi voimassa olevina 12 kk irtisanomisajalla pl. terveyskeskuksen osalta 6kk irtisanomisaika. Kokonaisvuokrissa ylläpitovuokran osuus on arvioitu ja ne määrittyvät toteutuvien kustannusten mukaisesti."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "191",
+   "title": "Pohjois-Savon hyvinvointialueen taloustilanne 2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-11",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-11.PDF",
+   "diary_number": "384/02.02.02/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallituksen päättää:\n\n1) todeta, että alijäämien kattamisen vuoksi on välttämätöntä, että hyvinvointialueen vuoden 2026 taloudellinen tulos muodostuu budjetin mukaisesti ylijäämäiseksi\n\n2) velvoittaa kaikkia tilivelvollisia viranhaltijoita ja toimielimiä ryhtymään tarvittaviin ja riittäviin toimenpiteisiin ylijäämäisen tuloksen varmistamiseksi ja toimenpiteistä raportoidaan aluehallitukselle kuukausittain.\n\nEnnakkovaikutusten arviointi\n\nVuoden 2026 aikana toimeenpantavilla talouden sopeutuksilla on olennainen vaikutus tulevien vuosien alijäämien kattamiselle.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nValtiovarainministeriön 30.04.2026 julkaisema vuoden 2027 rahoituslaskelma osoitti, että Pohjois-Savon hyvinvointialue valtion rahoitus pysyy samana kuin vuonna 2026, mikä merkitsee entisestään kiristyvää taloustilannetta. Myös vuosien 2028 – 2029 rahoitus tulee olenaan varsin kireä.\n\nNiukasta valtion rahoituksesta huolimatta hyvinvointialue suunnittelee kattavansa vuosina 2023 ja 2024 syntyneet alijäämät vuoteen 2029 mennessä.\n\nAlijäämien kattamiseksi vuoden 2026 talouteen joudutaan kiinnittämään erityistä huomiota ja mahdollisuuksien mukaan aikaistamaan suunniteltuja talouden sopeutuksia.\n\nEduskuntakäsittelyssä olevan lakimuutoksen mukaan hyvinvointialueet saisivat hakemuksesta lisäaikaa alijäämien kattamiseen vuoteen 2029 saakka.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nKari Janhonen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallituksen päättää:\n\n1) todeta, että alijäämien kattamisen vuoksi on välttämätöntä, että hyvinvointialueen vuoden 2026 taloudellinen tulos muodostuu budjetin mukaisesti ylijäämäiseksi\n\n2) velvoittaa kaikkia tilivelvollisia viranhaltijoita ja toimielimiä ryhtymään tarvittaviin ja riittäviin toimenpiteisiin ylijäämäisen tuloksen varmistamiseksi ja toimenpiteistä raportoidaan aluehallitukselle kuukausittain.\n\nEnnakkovaikutusten arviointi\n\nVuoden 2026 aikana toimeenpantavilla talouden sopeutuksilla on olennainen vaikutus tulevien vuosien alijäämien kattamiselle.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nValtiovarainministeriön 30.04.2026 julkaisema vuoden 2027 rahoituslaskelma osoitti, että Pohjois-Savon hyvinvointialue valtion rahoitus pysyy samana kuin vuonna 2026, mikä merkitsee entisestään kiristyvää taloustilannetta. Myös vuosien 2028 – 2029 rahoitus tulee olenaan varsin kireä.\n\nNiukasta valtion rahoituksesta huolimatta hyvinvointialue suunnittelee kattavansa vuosina 2023 ja 2024 syntyneet alijäämät vuoteen 2029 mennessä.\n\nAlijäämien kattamiseksi vuoden 2026 talouteen joudutaan kiinnittämään erityistä huomiota ja mahdollisuuksien mukaan aikaistamaan suunniteltuja talouden sopeutuksia.\n\nEduskuntakäsittelyssä olevan lakimuutoksen mukaan hyvinvointialueet saisivat hakemuksesta lisäaikaa alijäämien kattamiseen vuoteen 2029 saakka."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "192",
+   "title": "Pohjois-Savon hyvinvointialueen talousennuste toimintalukujen pohjalta 1-4⁄2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-12",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-12.PDF",
+   "diary_number": "384/02.02.02/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää todeta tammi-huhtikuun tietojen pohjalta laaditun talousennusteen 2026 tietoon saatetuksi ja esittää sen edelleen tiedoksi aluevaltuustolle.\n\nEnnakkovaikutusten arviointi\n\n<aloita_tästä>\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nEnnuste valmistuu 26.5.2026 mennessä. Talouden ennuste esitellään kokouksessa.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nKari Janhonen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää todeta tammi-huhtikuun tietojen pohjalta laaditun talousennusteen 2026 tietoon saatetuksi ja esittää sen edelleen tiedoksi aluevaltuustolle.\n\nEnnakkovaikutusten arviointi\n\n<aloita_tästä>\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nEnnuste valmistuu 26.5.2026 mennessä. Talouden ennuste esitellään kokouksessa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Talousennuste 1-4⁄2026, Ahall 01062026",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-12-264332.PDF"
+    },
+    {
+     "title": "Liite 2 Talousennuste 1-4⁄2026 selitykset, Ahall 01062026",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-12-264333.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "193",
+   "title": "Pohjois-Savon hyvinvointialueen osavuosikatsaus tammi-huhtikuu 2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-13",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-13.PDF",
+   "diary_number": "384/02.02.02/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää merkitä tiedoksi hyvinvointialueen osavuosikatsauksen tammi-huhtikuulta 2026 ja esittää sen edelleen tiedoksi aluevaltuustolle.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Pohjois-Savon hyvinvointialueen osavuosikatsaus tammi-huhtikuu 2026.\n\nValmistelu\nOsavuosikatsaus sisältää henkilöstökatsauksen sekä katsauksen investoinneista, sisäisestä valvonnasta ja riskien hallinnasta että sisäisestä tarkastuksesta. Lisäksi osavuosikatsauksessa on toimialojen näkemys toiminnasta ja taloudesta.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nKari Janhonen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää merkitä tiedoksi hyvinvointialueen osavuosikatsauksen tammi-huhtikuulta 2026 ja esittää sen edelleen tiedoksi aluevaltuustolle.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Pohjois-Savon hyvinvointialueen osavuosikatsaus tammi-huhtikuu 2026.\n\nValmistelu\nOsavuosikatsaus sisältää henkilöstökatsauksen sekä katsauksen investoinneista, sisäisestä valvonnasta ja riskien hallinnasta että sisäisestä tarkastuksesta. Lisäksi osavuosikatsauksessa on toimialojen näkemys toiminnasta ja taloudesta."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Osavuosikatsaus tammikuu-huhtikuu_2026_270526",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-13-264415.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "194",
+   "title": "Pohjois-Savon hyvinvointialueen talousarviomuutos 2026, valtion rahoituksen tarkentuminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-14",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-14.PDF",
+   "diary_number": "647/02.02.00/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää esittää aluevaltuustolle, että:\n\nVuoden 2026 talousarvion valtion rahoituksen määrärahaa korotetaan 2 717 249 eurolla.\n\nValtion rahoituksen kokonaismääräksi vahvistetaan 1 331 700 508 euroa.\n\nMuutos huomioidaan talousarvion rahoitusosassa.\n\nEnnakkovaikutusten arviointi\n\nValtion rahoituksen tarkentuminen lisää Pohjois-Savon hyvinvointialueen vuoden 2026 rahoitusta 2 717 249 eurolla. Muutos parantaa talousarvion rahoitusasemaa ja pienentää vastaavasti alijäämäpainetta. Muutoksella ei ole vaikutusta toimintakatteen määrärahoihin, vaan se kohdistuu talousarvion rahoitusosaan.\n\nToimivallan peruste\nHallintosääntö § 35\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Tuloslaskelma 2026\n\nValmistelu\nPohjois-Savon hyvinvointialueen aluevaltuusto on hyväksynyt vuoden 2026 talousarvion 22.12.2025, jossa valtion rahoitus on perustunut Valtiovarainministeriön 22.9.2025 rahoituslaskelmaan (1 328 983 259 euroa).\n\nValtiovarainministeriö on 18.12.2025 julkaissut päivitetyt hyvinvointialueiden rahoituslaskelmat, joiden perusteella Pohjois-Savon hyvinvointialueen valtion rahoitus kasvaa 2 717 249 euroa vuodelle 2026. Päivitetty valtion rahoitus Pohjois-Savon hyvinvointialueelle vuodelle 2026 on 1 331 700 508 euroa.\n\nTalousarviota esitetään muutettavaksi rahoituksen tarkentumisen mukaiseksi. Valtion rahoitus määräytyy hyvinvointialueiden rahoituksesta annetun lain mukaisesti ja tarkentuu valtion talousarvion käsittelyn sekä myöhempien laskelmien perusteella.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nKari Janhonen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää esittää aluevaltuustolle, että:\n\nVuoden 2026 talousarvion valtion rahoituksen määrärahaa korotetaan 2 717 249 eurolla.\n\nValtion rahoituksen kokonaismääräksi vahvistetaan 1 331 700 508 euroa.\n\nMuutos huomioidaan talousarvion rahoitusosassa.\n\nEnnakkovaikutusten arviointi\n\nValtion rahoituksen tarkentuminen lisää Pohjois-Savon hyvinvointialueen vuoden 2026 rahoitusta 2 717 249 eurolla. Muutos parantaa talousarvion rahoitusasemaa ja pienentää vastaavasti alijäämäpainetta. Muutoksella ei ole vaikutusta toimintakatteen määrärahoihin, vaan se kohdistuu talousarvion rahoitusosaan.\n\nToimivallan peruste\nHallintosääntö § 35\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Tuloslaskelma 2026\n\nValmistelu\nPohjois-Savon hyvinvointialueen aluevaltuusto on hyväksynyt vuoden 2026 talousarvion 22.12.2025, jossa valtion rahoitus on perustunut Valtiovarainministeriön 22.9.2025 rahoituslaskelmaan (1 328 983 259 euroa).\n\nValtiovarainministeriö on 18.12.2025 julkaissut päivitetyt hyvinvointialueiden rahoituslaskelmat, joiden perusteella Pohjois-Savon hyvinvointialueen valtion rahoitus kasvaa 2 717 249 euroa vuodelle 2026. Päivitetty valtion rahoitus Pohjois-Savon hyvinvointialueelle vuodelle 2026 on 1 331 700 508 euroa.\n\nTalousarviota esitetään muutettavaksi rahoituksen tarkentumisen mukaiseksi. Valtion rahoitus määräytyy hyvinvointialueiden rahoituksesta annetun lain mukaisesti ja tarkentuu valtion talousarvion käsittelyn sekä myöhempien laskelmien perusteella."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Talousarviomuutos 2026, Valtion rahoitus, Ahall 01062026",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-14-264335.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "195",
+   "title": "Omavalvontaohjelman seurantaraportti 1⁄2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-15",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-15.PDF",
+   "diary_number": "3030/06.00.01/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Asiakaskokemusjaosto merkitsee raportin tiedoksi ja lähettää sen edelleen tiedoksi aluehallitukselle.\n\nEnnakkovaikutusten arviointi\n\nOmavalvontaohjelman seuranta tuottaa asukkaille, päättäjille ja henkilöstölle ajantasaista tietoa hyvinvointialueen toiminnasta ja laadusta. Palvelujen järjestäjien osavuosikatsaukset kertovat palvelukohtaisesta toiminnasta tarkemmalla tasolla. Omavalvontaohjelman seuranta on tärkeää, jotta toiminnan riskit ja muutostarpeet tunnistetaan jo ennakolta, ja niihin voidaan vaikuttaa.\n\nToimivallan peruste\nHallintosääntö § 39\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nOmavalvonnalla tarkoitetaan niitä keinoja ja toimia, joilla palvelunjärjestäjä ja palveluntuottaja valvovat, seuraavat ja arvioivat toimintaansa. Omavalvonnalla varmistetaan asiakkaiden yhdenvertaisuus sekä palvelujen saatavuus, jatkuvuus, turvallisuus ja laatu.\n\nOmavalvonta on valvonnan ensisijaisin muoto. Omavalvonnalla varmistetaan, että toimintaa toteutetaan lainmukaisesti ja sopimuksia noudattaen. Omavalvonta on ennakoivaa ja aktiivista toimintaa, ja siihen kuuluu riskitilanteiden tunnistaminen ja epäkohtiin puuttuminen.\n\nPalvelunjärjestäjän ja -tuottajan tekemän omavalvonnan lisäksi jokaisella sosiaali- ja terveydenhuollon ammattihenkilöllä on velvollisuus toimia turvallisesti työssään sekä ilmoittaa havaitsemistaan riskeistä tai epäkohdista työnantajalleen.\n\nPalvelunjärjestäjän pitää kehittää laadukkaat, turvalliset ja vaikuttavat prosessit, palveluketjut ja toimintatavat. Tämä edellyttää keskeisten prosessien ja hoito- ja palveluketjujen tunnistamista, määrittelyä, kuvaamista sekä jatkuvaa kehittämistä.\n\nPalvelunjärjestäjä määrittelee keskeiset turvallisuutta edistävät linjaukset ja ohjeistukset sekä tarvittavan resursoinnin toiminnan kehittämiseen ja jatkuvaan parantamiseen. Prosesseihin liittyvät riskit pitää tunnistaa ja prosesseja suojaavat toimenpiteet määritellä.\n\nProsessien kehittämisessä on huomioitava moniammatillinen yhteistyö ja toiminnan arvioinnissa teknisen turvallisuuden lisäksi asiakas- ja potilaskokemus.\n\nHyvinvointialueet järjestävät sosiaali- ja terveydenhuollon palvelut alueellaan. Niiden laajaan omavalvontavelvoitteeseen kuuluu oman järjestämistehtävänsä ja oman palvelutuotantonsa valvonnan lisäksi yksityisten palveluntuottajien valvonta.",
+   "decision": "Päätösehdotus hyväksyttiin. Merkitään pöytäkirjaan, että Säde Rytkönen poistui asian käsittelyn ja päätöksenteon jälkeen klo 10.34",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nPäivi Eskelinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää merkitä asian tietoon saatetuksi.\n\nEnnakkovaikutusten arviointi\n\nOmavalvontaohjelman seuranta tuottaa asukkaille, päättäjille ja henkilöstölle ajantasaista tietoa hyvinvointialueen toiminnasta ja laadusta. Palvelujen järjestäjien osavuosikatsaukset kertovat palvelukohtaisesta toiminnasta tarkemmalla tasolla. Omavalvontaohjelman seuranta on tärkeää, jotta toiminnan riskit ja muutostarpeet tunnistetaan jo ennakolta, ja niihin voidaan vaikuttaa.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Hyvänvoimaa Pohjois-Savosta omavalvontaohjelman seurantaraportti 1-4/2026, Ahall \n\nValmistelu\n\nAsiakaja 13.05.2026 § 126\n\nValmistelija(t)\nPalvelualuepäällikkö Päivi Eskelinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin. Merkitään pöytäkirjaan, että Säde Rytkönen poistui asian käsittelyn ja päätöksenteon jälkeen klo 10.34"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto merkitsee raportin tiedoksi ja lähettää sen edelleen tiedoksi aluehallitukselle.\n\nEnnakkovaikutusten arviointi\n\nOmavalvontaohjelman seuranta tuottaa asukkaille, päättäjille ja henkilöstölle ajantasaista tietoa hyvinvointialueen toiminnasta ja laadusta. Palvelujen järjestäjien osavuosikatsaukset kertovat palvelukohtaisesta toiminnasta tarkemmalla tasolla. Omavalvontaohjelman seuranta on tärkeää, jotta toiminnan riskit ja muutostarpeet tunnistetaan jo ennakolta, ja niihin voidaan vaikuttaa.\n\nToimivallan peruste\nHallintosääntö § 39\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nOmavalvonnalla tarkoitetaan niitä keinoja ja toimia, joilla palvelunjärjestäjä ja palveluntuottaja valvovat, seuraavat ja arvioivat toimintaansa. Omavalvonnalla varmistetaan asiakkaiden yhdenvertaisuus sekä palvelujen saatavuus, jatkuvuus, turvallisuus ja laatu.\n\nOmavalvonta on valvonnan ensisijaisin muoto. Omavalvonnalla varmistetaan, että toimintaa toteutetaan lainmukaisesti ja sopimuksia noudattaen. Omavalvonta on ennakoivaa ja aktiivista toimintaa, ja siihen kuuluu riskitilanteiden tunnistaminen ja epäkohtiin puuttuminen.\n\nPalvelunjärjestäjän ja -tuottajan tekemän omavalvonnan lisäksi jokaisella sosiaali- ja terveydenhuollon ammattihenkilöllä on velvollisuus toimia turvallisesti työssään sekä ilmoittaa havaitsemistaan riskeistä tai epäkohdista työnantajalleen.\n\nPalvelunjärjestäjän pitää kehittää laadukkaat, turvalliset ja vaikuttavat prosessit, palveluketjut ja toimintatavat. Tämä edellyttää keskeisten prosessien ja hoito- ja palveluketjujen tunnistamista, määrittelyä, kuvaamista sekä jatkuvaa kehittämistä.\n\nPalvelunjärjestäjä määrittelee keskeiset turvallisuutta edistävät linjaukset ja ohjeistukset sekä tarvittavan resursoinnin toiminnan kehittämiseen ja jatkuvaan parantamiseen. Prosesseihin liittyvät riskit pitää tunnistaa ja prosesseja suojaavat toimenpiteet määritellä.\n\nProsessien kehittämisessä on huomioitava moniammatillinen yhteistyö ja toiminnan arvioinnissa teknisen turvallisuuden lisäksi asiakas- ja potilaskokemus.\n\nHyvinvointialueet järjestävät sosiaali- ja terveydenhuollon palvelut alueellaan. Niiden laajaan omavalvontavelvoitteeseen kuuluu oman järjestämistehtävänsä ja oman palvelutuotantonsa valvonnan lisäksi yksityisten palveluntuottajien valvonta."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Hyvänvoimaa Pohjois-Savosta omavalvontaohjelman seurantaraportti 1-4⁄2026, Ahall 01062026",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-15-259819.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "196",
+   "title": "Palvelujärjestelmän uudistuksen toimeenpano, Ahall 01062026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-16",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-16.PDF",
+   "diary_number": "6213/00.01.02.00/2024",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää merkitä tilannekatsauksen tiedoksi.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nPohjois-Savon hyvinvointialue rakentui yhdistämällä aiemman kuntapohjaisen sosiaali- ja terveydenhuollon ja pelastustoimen järjestäjien toiminta. Hyvinvointialueen toiminnassa integroituu sosiaali- ja terveydenhuolto sekä pelastustoimi aina erityisen vaativista palveluista perustason palveluihin. Sosiaali- ja terveydenhuollon palveluiden järjestämistä haastaa voimakkaasti henkilöstön saatavuuden ongelmat, väestön ikääntymisestä johtuva palvelutarpeen kasvu ja kustannustason nousu. Toiminnan uudistaminen on välttämätöntä, jotta voimme rakentaa taloudellisesti ja toiminnallisesti kestävän palvelujärjestelmän. Palvelujärjestelmän kokonaisuudistus koskee kaikkia hyvinvointialueen palveluita ja toimialoja.\n\nUudistusten valmistelua ohjaa Pohjois-Savon hyvinvointialueen sote-palvelustrategia (Avalt 19.06.2023 § 34) ja uudistukset ovat keskeinen osa tuottavuus- ja taloudellisuusohjelmaa (Ahall 01.11.2023 § 366; Avalt 05.05.2025 § 28). Sote-palvelustrategian ja tuottavuus- ja taloudellisuusohjelman mukaisesti palvelujärjestelmän ja -verkon uudistaminen aloitettiin syksyllä 2023. Hyvinvointialueen johtoryhmä johtaa työskentelyä.\n\nPalvelujärjestelmän uudistamisohjelmalla pyritään kokonaisuudessaan saavuttamaan n. 50 M€ vuotuinen kustannusvaikutus (Ahall 19.06.2024 § 218), joka toteutuessaan tasapainoittasi hyvinvointialueen taloutta merkittävästi. Ohjelmien toimeenpano toteutetaan vuosien 2024 - 2029 aikana. Palvelujärjestelmän uudistamisohjelma koostuu viisi kokonaisuudistusta:\n\nR1. Vastaanottotoiminnan ja alueellisen erikoissairaanhoidon sekä aikuissosiaalityön uudistus\n\nToimeenpanossa; Avalt 17.6.2024 § 47\n\nR2. Osastohoidon, asumisen ja kotiin vietävien palveluiden uudistus\n\nToimeenpanossa; Avalt 17.6.2024 § 47\n\nR3. Perhe- ja vammaispalveluiden uudistus\n\nToimeenpanossa; Avalt 16.12.2024 § 80\n\nR4. Erikoissairaanhoidon ja yliopistollisen sairaalan uudistus\n\nToimeenpanossa; Avalt 05.05.2025 § 29\n\nR5. Mielenterveys- ja päihdepalveluiden uudistus\n\nToimeenpanossa; Avalt 23.03.2026 § 4\n\nLisäksi palvelujärjestelmän uudistusta läpi leikkaa erityisesti\n\nAsiakas- ja potilastietojärjestelmien käyttöönotto, ja\n\nPalvelujärjestelmän uudistukseen liittyvät toimitilaverkon muutokset\n\nKoska palvelujärjestelmän uudistus on keskeinen osa hyvinvointialueen tuottavuus- ja taloudellisuusohjelman, talousarvion ja strategian toimeenpanoa, uudistuksen etenemistä raportoidaan säännöllisesti aluehallitukselle (liite).",
+   "decision": "Hyvinvointialuejohtaja muutti kokouksessa päätösehdotustaan seuraavasti:\n\nAluehallitus päättää merkitä tilannekatsauksen tiedoksi ja saattaa sen edelleen aluevaltuustolle tiedoksi.\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJussi Lampi"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyvinvointialuejohtaja muutti kokouksessa päätösehdotustaan seuraavasti:\n\nAluehallitus päättää merkitä tilannekatsauksen tiedoksi ja saattaa sen edelleen aluevaltuustolle tiedoksi.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää merkitä tilannekatsauksen tiedoksi.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nPohjois-Savon hyvinvointialue rakentui yhdistämällä aiemman kuntapohjaisen sosiaali- ja terveydenhuollon ja pelastustoimen järjestäjien toiminta. Hyvinvointialueen toiminnassa integroituu sosiaali- ja terveydenhuolto sekä pelastustoimi aina erityisen vaativista palveluista perustason palveluihin. Sosiaali- ja terveydenhuollon palveluiden järjestämistä haastaa voimakkaasti henkilöstön saatavuuden ongelmat, väestön ikääntymisestä johtuva palvelutarpeen kasvu ja kustannustason nousu. Toiminnan uudistaminen on välttämätöntä, jotta voimme rakentaa taloudellisesti ja toiminnallisesti kestävän palvelujärjestelmän. Palvelujärjestelmän kokonaisuudistus koskee kaikkia hyvinvointialueen palveluita ja toimialoja.\n\nUudistusten valmistelua ohjaa Pohjois-Savon hyvinvointialueen sote-palvelustrategia (Avalt 19.06.2023 § 34) ja uudistukset ovat keskeinen osa tuottavuus- ja taloudellisuusohjelmaa (Ahall 01.11.2023 § 366; Avalt 05.05.2025 § 28). Sote-palvelustrategian ja tuottavuus- ja taloudellisuusohjelman mukaisesti palvelujärjestelmän ja -verkon uudistaminen aloitettiin syksyllä 2023. Hyvinvointialueen johtoryhmä johtaa työskentelyä.\n\nPalvelujärjestelmän uudistamisohjelmalla pyritään kokonaisuudessaan saavuttamaan n. 50 M€ vuotuinen kustannusvaikutus (Ahall 19.06.2024 § 218), joka toteutuessaan tasapainoittasi hyvinvointialueen taloutta merkittävästi. Ohjelmien toimeenpano toteutetaan vuosien 2024 - 2029 aikana. Palvelujärjestelmän uudistamisohjelma koostuu viisi kokonaisuudistusta:\n\nR1. Vastaanottotoiminnan ja alueellisen erikoissairaanhoidon sekä aikuissosiaalityön uudistus\n\nToimeenpanossa; Avalt 17.6.2024 § 47\n\nR2. Osastohoidon, asumisen ja kotiin vietävien palveluiden uudistus\n\nToimeenpanossa; Avalt 17.6.2024 § 47\n\nR3. Perhe- ja vammaispalveluiden uudistus\n\nToimeenpanossa; Avalt 16.12.2024 § 80\n\nR4. Erikoissairaanhoidon ja yliopistollisen sairaalan uudistus\n\nToimeenpanossa; Avalt 05.05.2025 § 29\n\nR5. Mielenterveys- ja päihdepalveluiden uudistus\n\nToimeenpanossa; Avalt 23.03.2026 § 4\n\nLisäksi palvelujärjestelmän uudistusta läpi leikkaa erityisesti\n\nAsiakas- ja potilastietojärjestelmien käyttöönotto, ja\n\nPalvelujärjestelmän uudistukseen liittyvät toimitilaverkon muutokset\n\nKoska palvelujärjestelmän uudistus on keskeinen osa hyvinvointialueen tuottavuus- ja taloudellisuusohjelman, talousarvion ja strategian toimeenpanoa, uudistuksen etenemistä raportoidaan säännöllisesti aluehallitukselle (liite)."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Palvelujärjestelmän uudistuksen toimeenpanon seuranta, Ahall 01062026",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-16-263627.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "197",
+   "title": "Sosiaali- ja terveydenhuollon asiakasmaksujen alentaminen ja perimättä jättäminen Pohjois-Savon hyvinvointialueella",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-17",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-17.PDF",
+   "diary_number": "3226/00.01.02.00/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää esittää aluevaltuustolle, että se\n\nhyväksyy dokumentin \"Sosiaali- ja terveydenhuollon asiakasmaksujen alentaminen ja perimättä jättäminen Pohjois-Savon hyvinvointialueella\" noudatettavaksi päätöksenteossa\n\nvaltuuttaa talousjohtajan tekemään liitteenä olevaan asiakirjaan mahdolliset teknisluonteiset korjaukset.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Sosiaali- ja terveydenhuollon asiakasmaksujen alentaminen ja perimättä jättäminen -asiakirja\n\nValmistelu\nAluevaltuusto on 22.12.2025 § 97 hyväksynyt ”Asiakasmaksujen huojennusohje” -asiakirjan. Asiakirja on ollut tarpeen tehdä laajemmaksi asiakirjaksi ja on sen vuoksi valmisteltu uudelleen.\n\nUudistettu asiakirja ”Sosiaali- ja terveydenhuollon asiakasmaksujen alentaminen ja perimättä jättäminen Pohjois-Savon hyvinvointialueella” on termistöltään ja sisältörakenteeltaan ajantasainen ja noudattaa muiden hyvinvointialueiden vastaavien dokumenttien sisältöä. Dokumentti antaa aiempaa selkeämmän ja yksityiskohtaisemman kuvauksen alentamisen ja perimättä jättämisen ehdoista ja käsittelyprosessista, mikä hyödyttää alennusta hakevaa asiakasta ja asiakkaiden kanssa toimivia Pohjois-Savon hyvinvointialueen työntekijöitä.\n\nAsiakirja esittää uusia työkaluja kaikkein vaikeimmassa asemassa olevien asiakkaiden tukemiseen. Keinoina ovat mm.\n\nJos alennus myönnetään laskusta, joka on osaltaan vaikuttanut maksukaton täyttymiseen, maksukatto jätetään tästä huolimatta voimaan asiakkaan edun mukaisesti.\n\nJos maksun alentamisen jälkeen asiakkaalle lähetettävän laskun arvoksi jää alle 5 euroa, maksua ei peritä asiakkaalta lainkaan.\n\nKelan myöntämä toimeentulotuki tai Ulosottolaitoksen toteama varattomuus toimivat todisteena asiakkaan toimeentulon vaarantumisesta.\n\nAsiakirja tehostaa alennushakemuksia käsittelevien sihteereiden toimintaa esim. karsimalla päällekkäistä työtä Kelan kanssa. Se myös vähentää asiakkaiden työmäärää määrittämällä tilanteita, joissa tarvitaan vähemmän liitteitä esim. asiakkaan verotiedot saadaan käsittelyyn suoraan Verosovelluksen kautta.\n\nKaikkien asiakkaiden kohdalla tehdään kokonaistaloudellinen ja asiakkaan tilanteessa voidaan käyttää harkintaa sosiaalialan ammattihenkilön puoltavalla arviolla. Hyvinvointialueen asiakasmaksujen alentaminen ja perimättä jättäminen erottautuu aiempaa selkeämmin omaksi erilaiseksi prosessikseen suhteessa Kelan vastaavaan toimeentulon vaarantumisen laskennan prosessiin.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nKari Janhonen\n\nTiina Roininen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää esittää aluevaltuustolle, että se\n\nhyväksyy dokumentin \"Sosiaali- ja terveydenhuollon asiakasmaksujen alentaminen ja perimättä jättäminen Pohjois-Savon hyvinvointialueella\" noudatettavaksi päätöksenteossa\n\nvaltuuttaa talousjohtajan tekemään liitteenä olevaan asiakirjaan mahdolliset teknisluonteiset korjaukset.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Sosiaali- ja terveydenhuollon asiakasmaksujen alentaminen ja perimättä jättäminen -asiakirja\n\nValmistelu\nAluevaltuusto on 22.12.2025 § 97 hyväksynyt ”Asiakasmaksujen huojennusohje” -asiakirjan. Asiakirja on ollut tarpeen tehdä laajemmaksi asiakirjaksi ja on sen vuoksi valmisteltu uudelleen.\n\nUudistettu asiakirja ”Sosiaali- ja terveydenhuollon asiakasmaksujen alentaminen ja perimättä jättäminen Pohjois-Savon hyvinvointialueella” on termistöltään ja sisältörakenteeltaan ajantasainen ja noudattaa muiden hyvinvointialueiden vastaavien dokumenttien sisältöä. Dokumentti antaa aiempaa selkeämmän ja yksityiskohtaisemman kuvauksen alentamisen ja perimättä jättämisen ehdoista ja käsittelyprosessista, mikä hyödyttää alennusta hakevaa asiakasta ja asiakkaiden kanssa toimivia Pohjois-Savon hyvinvointialueen työntekijöitä.\n\nAsiakirja esittää uusia työkaluja kaikkein vaikeimmassa asemassa olevien asiakkaiden tukemiseen. Keinoina ovat mm.\n\nJos alennus myönnetään laskusta, joka on osaltaan vaikuttanut maksukaton täyttymiseen, maksukatto jätetään tästä huolimatta voimaan asiakkaan edun mukaisesti.\n\nJos maksun alentamisen jälkeen asiakkaalle lähetettävän laskun arvoksi jää alle 5 euroa, maksua ei peritä asiakkaalta lainkaan.\n\nKelan myöntämä toimeentulotuki tai Ulosottolaitoksen toteama varattomuus toimivat todisteena asiakkaan toimeentulon vaarantumisesta.\n\nAsiakirja tehostaa alennushakemuksia käsittelevien sihteereiden toimintaa esim. karsimalla päällekkäistä työtä Kelan kanssa. Se myös vähentää asiakkaiden työmäärää määrittämällä tilanteita, joissa tarvitaan vähemmän liitteitä esim. asiakkaan verotiedot saadaan käsittelyyn suoraan Verosovelluksen kautta.\n\nKaikkien asiakkaiden kohdalla tehdään kokonaistaloudellinen ja asiakkaan tilanteessa voidaan käyttää harkintaa sosiaalialan ammattihenkilön puoltavalla arviolla. Hyvinvointialueen asiakasmaksujen alentaminen ja perimättä jättäminen erottautuu aiempaa selkeämmin omaksi erilaiseksi prosessikseen suhteessa Kelan vastaavaan toimeentulon vaarantumisen laskennan prosessiin."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Sosiaali- ja terveydenhuollon asiakasmaksujen alentaminen ja perimättä jättäminen Pohjois-Savon hyvinvointialueella",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-17-263327.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "198",
+   "title": "Valtuustoaloite, Paljon sosiaali- ja terveyspalveluita tarvitsevien ja käyttävien asiakkaiden tunnistamiseen ja hoidon koordinointiin ja järjestämiseen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-18",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-18.PDF",
+   "diary_number": "5649/00.01.00/2025",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää hyväksyä aloitteeseen annetun vastauksen ja vie sen edelleen aluevaltuustolle hyväksyttäväksi.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nValtuustoaloite\n\nValtuustoaloitteeseen annettu vastaus\n\nValmistelu\nSuvi Suutarinen ja Sosiaalidemokraattien aluevaltuustoryhmä on jättänyt valtuustoaloitteen Paljon sosiaali- ja terveyspalveluita tarvitsevien ja käyttävien asiakkaiden tunnistamiseen ja hoidon koordinointiin ja järjestämiseen: Esitämme, että Pohjois-Savon hyvinvointialue ottaa ilman tarpeetonta viivettä käyttöön toimintamallin, jonka tavoitteena on tunnistaa paljon sosiaali- ja terveyspalveluita tarvitsevat ja käyttävät asiakkaat, ja varmistaa heidän hoitotahtonsa koordinointi ja järjestäminen niin, että he saavat asiakkaan kokonaistilanne huomioiden tarkoituksenmukaiset palvelut.\n\nToimintamallissa on (i) määritettävä vastuutaho, jolla on paljon palveluita tarvitsevien ja käyttävien asiakkaiden hoidon ja palvelujen kokonaisvaltainen koordinointi.\n\nSiinä on määritettävä, (ii) miten tämän asiakaskunnan kohtaamisessa varmistetaan moniammatillinen osaaminen sosiaali- ja terveydenhuollosta yhdessä sairaanhoidon kanssa.\n\nSiinä on määritettävä myös, (iii) miten varmistetaan asiakkaan mahdollisuus osallistua hoitosuunnitelman päätöksen tekoon, ja (iv) miten toimien seuranta järjestetään, niin\n\nettä siinä yhdistyvät ammattilaisten ja asiakkaan oma arvio palveluista ja palvelutarpeista.\n\nVastaus valtuustoaloitteeseen (vastaus kokonaisuudessaan liitteenä):\n\nToimintamallissa on määriteltävä vastuutaho, jolla on paljon palveluita tarvitsevien ja käyttävien asiakkaiden hoidon ja palvelujen kokonaisvaltainen koordinointi.\n\nSotekeskuksissa käyttöön otettavassa omalääkäri- ja omahoitajamallissa korostuu henkilökohtaisen hoitosuhteen jatkuvuus. Omalääkäri vastaa hoidon suunnittelusta, terveys- ja hoitosuunnitelman täydentämisestä ja pääsääntöisesti potilaan hoidosta. Omahoitaja koordinoi paljon palveluita tarvitsevan hoitoa. Työssä korostuu kohtaava ja luottamusta rakentava yhteys potilaaseen, ennakoiva hoito, hoitotapaamisen valmistelu, hoidon koordinaatio ja yhteydenpito asiakkaaseen. Kiireettömässä hoidossa hoitaja hoitaa potilaita itsenäisellä vastaanotolla, ohjaa, neuvoo ja seuraa hoitoa suunnitelman mukaisesti päivittäen hoitosuunnitelmaa. Omahoitajan tehtävässä voidaan soveltaa kansallista Asiakasvastaava-toiminta pitkäaikaissairauksien terveyshyötymallissa (STM) – ohjetta.\n\nTieto oma-ammattilaisesta kirjautuu potilaan tietojärjestelmään, joka helpottaa potilaan ohjautumista omalle ammattilaiselle.\n\nIäkkäiden palveluissa olevalle asiakkaalle nimetään sosiaalihuollon omatyöntekijä, joka koordinoi asiakkaan kokonaisuutta yhteistyössä terveydenhuollon ammattilaisten kanssa. Lisäksi jokaisessa kotihoidon ja asumispalveluiden yksikössä on nimetyt sairaanhoitajat ja lääkäri turvaamassa lääketieteellisen hoidon oikea-aikaisuutta ja jatkuvuutta.\n\nMallissa on määritettävä, miten kohtaamisessa varmistetaan moniammatillinen osaaminen sosiaali- ja terveydenhuollosta yhdessä sairaanhoidon kanssa.\n\nSotekeskuksissa käyttöön otettavassa mallissa omalääkärin ja omahoitajan tukena toimii muita sosiaali- ja terveydenhuollon ammattilaisia. Pohjois-Savossa vahvistetaan erityisesti kuntoutuksen, sosiaalityön sekä mielenterveys- ja päihdetyön osaamista omalääkärin ja -hoitajan tukena. Koolle voidaan kutsua myös jo laajasti käytössä oleva MOTI-tiimi (monialaisen työn malli), kun on tarve selvittää ja sopia monialaisen tuen tarpeesta syvemmin. Hyvinvointialuetasoisesti edistetään erityispalveluiden ja peruspalveluiden välisiä konsultaatiomalleja.\n\nJokainen ammattiryhmä osallistuu terveys- ja hoitosuunnitelman laatimiseen omasta näkökulmastaan, täydentää ja päivittää sitä. Sähköisessä terveys- ja hoitosuunnitelmassa tieto liikkuu sujuvasti ammattilaisten sekä ammattilaisen ja potilaan välillä. Se avaa kokonaiskuvan potilaan tilanteesta. OMNI360 mahdollistaa viitteellisten muistutusten lähettämisen tiimin muistilistalle.\n\nMonialaisten vastaanottojen suunnittelussa on hyödynnetty asiakasraatia.\n\nIäkkäiden palveluissa sote –ammattilaisten integroitu monialainen toimintamalli toteutuu asiakastarpeen mukaisesti yhdessä kehitetyillä toimintamalleilla ilman, että asiakkaan täytyisi osata hakea eri palveluita itse.\n\nSiinä on määritettävä, miten varmistetaan asiakkaan mahdollisuus osallistua hoitosuunnitelman päätöksentekoon ja toimien seuranta niin, että siinä yhdistyvät ammattilaisten ja asiakkaan oma arvioi palvelusta ja palvelutarpeista.\n\nHoidon tarpeen arvio tehdään omahoitajan toimesta. Asioiden hoito alkaa ensimmäisessä yhteydenotossa. Tiedon jatkuvuuden varmistaa potilaan ja ammattilaisen yhdessä laatima, Kantaan integroituva rakenteinen terveys- ja hoitosuunnitelma, joka kokoaa keskeiset tiedot potilaan tilanteesta ja suunnitellusta hoidosta. Suunnitelma laaditaan kaikille, joiden hoito edellyttää koordinointia ja jotka hyötyvät omahoidon toteuttamisesta ja hoidon suunnitelmallisuudesta.\n\nPotilaan hoidon tukena toimivat myös digihoitopolut (valtimotauti- ja diabetespotilaat), jotka mahdollistavat yhteydenpidon ja tiedon siirtymisen sujuvasti oma-ammattilaisen ja potilaan välillä. Lisäksi ne tukevat potilaan omahoitoa. Sujuvuutta hoidon järjestämiseen ja seurantaan tuovat myös etähoitomahdollisuudet.\n\nYhtenäiseen hoidon tarpeen arviointiin ja terveys- ja hoitosuunnitelman laadintaan on henkilöstölle käytössä verkkokoulutus.\n\nIäkkäiden palveluissa RAI-arvioinnin avulla seurataan, miten asiakas osallistuu oman asiakassuunnitelmansa tekemiseen. Keräämme jo nyt asiakaspalautetta ja olemme aloittamassa yksikkökohtaisen asiakaspalautteen systemaattista keräämistä. Lisäksi ylläpidämme ja hyödynnämme asiakasraatia osana palvelujen kehittämistä ja arviointia.\n\nValtuustoaloite on ollut kommentoitavana yleisten palvelujen, ml sosiaalipalvelut, perhe- ja vammaispalvelujen sekä ikääntyvien palvelujen toimialaoilla.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nEija Jestola\n\nMinna Rytkönen\n\nHeli Pärnänen\n\nKati Kantanen\n\nMikko Korhonen\n\nSami Remes\n\nAnu Ryynänen\n\nKirsi Solmari\n\nHeli Mattila\n\nJussi Lampi"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä aloitteeseen annetun vastauksen ja vie sen edelleen aluevaltuustolle hyväksyttäväksi.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nValtuustoaloite\n\nValtuustoaloitteeseen annettu vastaus\n\nValmistelu\nSuvi Suutarinen ja Sosiaalidemokraattien aluevaltuustoryhmä on jättänyt valtuustoaloitteen Paljon sosiaali- ja terveyspalveluita tarvitsevien ja käyttävien asiakkaiden tunnistamiseen ja hoidon koordinointiin ja järjestämiseen: Esitämme, että Pohjois-Savon hyvinvointialue ottaa ilman tarpeetonta viivettä käyttöön toimintamallin, jonka tavoitteena on tunnistaa paljon sosiaali- ja terveyspalveluita tarvitsevat ja käyttävät asiakkaat, ja varmistaa heidän hoitotahtonsa koordinointi ja järjestäminen niin, että he saavat asiakkaan kokonaistilanne huomioiden tarkoituksenmukaiset palvelut.\n\nToimintamallissa on (i) määritettävä vastuutaho, jolla on paljon palveluita tarvitsevien ja käyttävien asiakkaiden hoidon ja palvelujen kokonaisvaltainen koordinointi.\n\nSiinä on määritettävä, (ii) miten tämän asiakaskunnan kohtaamisessa varmistetaan moniammatillinen osaaminen sosiaali- ja terveydenhuollosta yhdessä sairaanhoidon kanssa.\n\nSiinä on määritettävä myös, (iii) miten varmistetaan asiakkaan mahdollisuus osallistua hoitosuunnitelman päätöksen tekoon, ja (iv) miten toimien seuranta järjestetään, niin\n\nettä siinä yhdistyvät ammattilaisten ja asiakkaan oma arvio palveluista ja palvelutarpeista.\n\nVastaus valtuustoaloitteeseen (vastaus kokonaisuudessaan liitteenä):\n\nToimintamallissa on määriteltävä vastuutaho, jolla on paljon palveluita tarvitsevien ja käyttävien asiakkaiden hoidon ja palvelujen kokonaisvaltainen koordinointi.\n\nSotekeskuksissa käyttöön otettavassa omalääkäri- ja omahoitajamallissa korostuu henkilökohtaisen hoitosuhteen jatkuvuus. Omalääkäri vastaa hoidon suunnittelusta, terveys- ja hoitosuunnitelman täydentämisestä ja pääsääntöisesti potilaan hoidosta. Omahoitaja koordinoi paljon palveluita tarvitsevan hoitoa. Työssä korostuu kohtaava ja luottamusta rakentava yhteys potilaaseen, ennakoiva hoito, hoitotapaamisen valmistelu, hoidon koordinaatio ja yhteydenpito asiakkaaseen. Kiireettömässä hoidossa hoitaja hoitaa potilaita itsenäisellä vastaanotolla, ohjaa, neuvoo ja seuraa hoitoa suunnitelman mukaisesti päivittäen hoitosuunnitelmaa. Omahoitajan tehtävässä voidaan soveltaa kansallista Asiakasvastaava-toiminta pitkäaikaissairauksien terveyshyötymallissa (STM) – ohjetta.\n\nTieto oma-ammattilaisesta kirjautuu potilaan tietojärjestelmään, joka helpottaa potilaan ohjautumista omalle ammattilaiselle.\n\nIäkkäiden palveluissa olevalle asiakkaalle nimetään sosiaalihuollon omatyöntekijä, joka koordinoi asiakkaan kokonaisuutta yhteistyössä terveydenhuollon ammattilaisten kanssa. Lisäksi jokaisessa kotihoidon ja asumispalveluiden yksikössä on nimetyt sairaanhoitajat ja lääkäri turvaamassa lääketieteellisen hoidon oikea-aikaisuutta ja jatkuvuutta.\n\nMallissa on määritettävä, miten kohtaamisessa varmistetaan moniammatillinen osaaminen sosiaali- ja terveydenhuollosta yhdessä sairaanhoidon kanssa.\n\nSotekeskuksissa käyttöön otettavassa mallissa omalääkärin ja omahoitajan tukena toimii muita sosiaali- ja terveydenhuollon ammattilaisia. Pohjois-Savossa vahvistetaan erityisesti kuntoutuksen, sosiaalityön sekä mielenterveys- ja päihdetyön osaamista omalääkärin ja -hoitajan tukena. Koolle voidaan kutsua myös jo laajasti käytössä oleva MOTI-tiimi (monialaisen työn malli), kun on tarve selvittää ja sopia monialaisen tuen tarpeesta syvemmin. Hyvinvointialuetasoisesti edistetään erityispalveluiden ja peruspalveluiden välisiä konsultaatiomalleja.\n\nJokainen ammattiryhmä osallistuu terveys- ja hoitosuunnitelman laatimiseen omasta näkökulmastaan, täydentää ja päivittää sitä. Sähköisessä terveys- ja hoitosuunnitelmassa tieto liikkuu sujuvasti ammattilaisten sekä ammattilaisen ja potilaan välillä. Se avaa kokonaiskuvan potilaan tilanteesta. OMNI360 mahdollistaa viitteellisten muistutusten lähettämisen tiimin muistilistalle.\n\nMonialaisten vastaanottojen suunnittelussa on hyödynnetty asiakasraatia.\n\nIäkkäiden palveluissa sote –ammattilaisten integroitu monialainen toimintamalli toteutuu asiakastarpeen mukaisesti yhdessä kehitetyillä toimintamalleilla ilman, että asiakkaan täytyisi osata hakea eri palveluita itse.\n\nSiinä on määritettävä, miten varmistetaan asiakkaan mahdollisuus osallistua hoitosuunnitelman päätöksentekoon ja toimien seuranta niin, että siinä yhdistyvät ammattilaisten ja asiakkaan oma arvioi palvelusta ja palvelutarpeista.\n\nHoidon tarpeen arvio tehdään omahoitajan toimesta. Asioiden hoito alkaa ensimmäisessä yhteydenotossa. Tiedon jatkuvuuden varmistaa potilaan ja ammattilaisen yhdessä laatima, Kantaan integroituva rakenteinen terveys- ja hoitosuunnitelma, joka kokoaa keskeiset tiedot potilaan tilanteesta ja suunnitellusta hoidosta. Suunnitelma laaditaan kaikille, joiden hoito edellyttää koordinointia ja jotka hyötyvät omahoidon toteuttamisesta ja hoidon suunnitelmallisuudesta.\n\nPotilaan hoidon tukena toimivat myös digihoitopolut (valtimotauti- ja diabetespotilaat), jotka mahdollistavat yhteydenpidon ja tiedon siirtymisen sujuvasti oma-ammattilaisen ja potilaan välillä. Lisäksi ne tukevat potilaan omahoitoa. Sujuvuutta hoidon järjestämiseen ja seurantaan tuovat myös etähoitomahdollisuudet.\n\nYhtenäiseen hoidon tarpeen arviointiin ja terveys- ja hoitosuunnitelman laadintaan on henkilöstölle käytössä verkkokoulutus.\n\nIäkkäiden palveluissa RAI-arvioinnin avulla seurataan, miten asiakas osallistuu oman asiakassuunnitelmansa tekemiseen. Keräämme jo nyt asiakaspalautetta ja olemme aloittamassa yksikkökohtaisen asiakaspalautteen systemaattista keräämistä. Lisäksi ylläpidämme ja hyödynnämme asiakasraatia osana palvelujen kehittämistä ja arviointia.\n\nValtuustoaloite on ollut kommentoitavana yleisten palvelujen, ml sosiaalipalvelut, perhe- ja vammaispalvelujen sekä ikääntyvien palvelujen toimialaoilla."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Valtuustoaloite, Paljon sosiaali- ja terveyspalveluita tarvitsevien ja käyttävien asiakkaiden tunnistamiseen ja hoidon koordinointiin ja järjestämiseen",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-18-213340.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Vastaus valtuustoaloiteeseen paljon sosiaali- ja terveyspalveluita tarvitsevien ja käyttävien asiakkaiden tunnistamiseen ja hoidon koordinointiin ja järjestämiseen",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-18-263396.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "199",
+   "title": "Itä-Suomen yhteistyöalueen alueellisen lääketieteellisen tutkimuseettisen toimikunnan kokoonpanon muutos ja uusien jäsenten sidonnaisuusilmoitukset",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-19",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-19.PDF",
+   "diary_number": "774/00.00.01/2023",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää Itä-Suomen yhteistyöalueen alueellisen lääketieteellisen tutkimuseettisen toimikunnan kokoonpanosta esityksen mukaisesti.\n\nEnnakkovaikutusten arviointi\n\nToimivallan peruste\nHallintosääntö § 36, kohta 19\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Itä-Suomen yhteistyöalueen alueellisen lääketieteellisen tutkimuseettisen toimikunnan kokoonpano 1.6.2026-31.5.2029\n\n- Sidonnaisuusilmoitus Rönkä Aino\n\n- Sidonnaisuusilmoitus Tiainen Satu\n\n- Sidonnaisuusilmoitus Valkonen Mari\n\nValmistelu\n\nItä-Suomen yhteistyöalueen alueellinen lääketieteellinen tutkimuseettinen toimikunta esittää jäsenmuutoksia 1.6.2026 alkaen seuraavasti:\n\nJäsen Hanna Siiskonen on ilmoittanut eroavansa Itä-Suomen yhteistyöalueen alueellisen lääketieteellisen tutkimuseettisen toimikunnan jäsenyydestä. Toimikunta esittää eron myöntämistä.\n\nToimikunnan uusiksi jäseniksi toimikunta esittää LT, dosentti Aino Rönkää, LT Satu Tiaista ja LT Mari Valkosta.\n\nMaallikkojäseneksi toimikunta esittää maallikkovarajäsen FT, dosentti Santtu Mikkosta.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nKirsi Luoto, erityisasiantuntija"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää Itä-Suomen yhteistyöalueen alueellisen lääketieteellisen tutkimuseettisen toimikunnan kokoonpanosta esityksen mukaisesti.\n\nEnnakkovaikutusten arviointi\n\nToimivallan peruste\nHallintosääntö § 36, kohta 19\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Itä-Suomen yhteistyöalueen alueellisen lääketieteellisen tutkimuseettisen toimikunnan kokoonpano 1.6.2026-31.5.2029\n\n- Sidonnaisuusilmoitus Rönkä Aino\n\n- Sidonnaisuusilmoitus Tiainen Satu\n\n- Sidonnaisuusilmoitus Valkonen Mari\n\nValmistelu\n\nItä-Suomen yhteistyöalueen alueellinen lääketieteellinen tutkimuseettinen toimikunta esittää jäsenmuutoksia 1.6.2026 alkaen seuraavasti:\n\nJäsen Hanna Siiskonen on ilmoittanut eroavansa Itä-Suomen yhteistyöalueen alueellisen lääketieteellisen tutkimuseettisen toimikunnan jäsenyydestä. Toimikunta esittää eron myöntämistä.\n\nToimikunnan uusiksi jäseniksi toimikunta esittää LT, dosentti Aino Rönkää, LT Satu Tiaista ja LT Mari Valkosta.\n\nMaallikkojäseneksi toimikunta esittää maallikkovarajäsen FT, dosentti Santtu Mikkosta."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "200",
+   "title": "Ajankohtaiset asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-20",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-20.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus merkitsee asiat tiedoksi.\n\n Omasavo -tilannekatsaus, Anu Ryynänen",
+   "decision": "Merkitään pöytäkirjaan, että:\n\n-OmaSavo asia siirtyy seuraavaan kokoukseen.\n\n-Sassa Suna ja Pia Hedman poistuivat kokouksesta asian käsittelyn aikana klo 13.46\n\nMuut asiat:\n\n-YTA tilannekatsaus ja hyvinvointialueiden valtakunnallinen tilanne, Marko Korhonen\n\nAluehallitus merkitsee asiat tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Ajankohtaiset asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n-OmaSavo asia siirtyy seuraavaan kokoukseen.\n\n-Sassa Suna ja Pia Hedman poistuivat kokouksesta asian käsittelyn aikana klo 13.46\n\nMuut asiat:\n\n-YTA tilannekatsaus ja hyvinvointialueiden valtakunnallinen tilanne, Marko Korhonen\n\nAluehallitus merkitsee asiat tiedoksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus merkitsee asiat tiedoksi.\n\n Omasavo -tilannekatsaus, Anu Ryynänen"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "201",
+   "title": "Aluehallitukselle tiedoksi annettavat lausuntopyynnöt ja lausunnot",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-21",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-21.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus merkitsee saapuneet lausuntopyynnöt ja annetut lausunnot tiedoksi.\n\nToimivallan peruste\nhallintosääntö 36 §\n\nValmistelu\nAluehallituksen 2.10.2023 § 308 mukaisesti aluehallitus päättää hallintosäännön määräyksiä noudattaen, että merkittävät lausunnot esim. hyvinvointialueiden rahoitukseen, lainsäädäntöön liittyvät ja niihin rinnasteiset lausunnot antaa aluehallitus. Lausunnon merkittävyys arvioidaan asian valmistelussa.\n\nPohjois-Savon hyvinvointialueen hallintosäännön määräykset lausuntojen antamisesta antavat mahdollisuuden viranhaltijoille antaa lausuntoja tietyissä rajoissa. Mikäli annettavat lausunnot eivät ole viranhaltijoiden toimivallassa, antaa niistä lausunnot aluehallitus.\n\nLausuntopyyntöihin vastaamiselle annettu määräaika on yleensä niin lyhyt, ettei lausuntojen käsittely aluehallituksessa ole mahdollista.\n\nSaapuneet lausuntopyynnöt:\n\n- Oikeusministeriön lausuntopyyntö Oikeuspalveluviraston ehdotuksesta organisaatiorakenteen ja toimipaikkaverkoston muuttamiseksi\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö, luonnos hallituksen esitykseksi laeiksi sosiaali- ja terveydenhuollon valvonnasta annetun lain ja harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta valtioneuvoston asetukseksi toimeentulotuen tarpeellisen suuruisten asumismenojen määrästä annetun valtioneuvoston asetuksen 2 §:n ja liitteen muuttamisesta\n\n- Ympäristöministeriön lausuntopyyntö, Valtion tukemien vuokra-asuntojen asukasvalintaa ja asuntojen käyttöä koskevan sääntelyn kehittäminen\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö, luonnos Hallituksen esitykseksi eduskunnalle laeiksi sosiaali- ja terveydenhuollon järjestämisestä annetun lain ja terveydenhuoltolain 54 ja 57 §n muuttamisesta\n\nAnnetut lausunnot:\n\n- Pohjois-Savon hyvinvointialueen selvitys Lupa- ja valvontavirastolle kiireettömän erikoisairaanhoidon hoitoon pääsystä 30.4.2026\n\n- Lausunto luonnoksesta hallituksen esitykseksi eduskunnalle terveyden- ja sosiaalihuollon ammattihenkilöistä annetun lain muuttamiseksi\n\n- Pohjois-Savon hyvinvointialueen lausunto taustatietoihin asiakasmaksujen säädösvalmisteluun VN/13449/2026\n\n- Pohjois-Savon hyvinvointialueen vastaus STM:n hyvinvointialue selvitykseen",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitukselle tiedoksi annettavat lausuntopyynnöt ja lausunnot\n\nValmistelija(t)\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus merkitsee saapuneet lausuntopyynnöt ja annetut lausunnot tiedoksi.\n\nToimivallan peruste\nhallintosääntö 36 §\n\nValmistelu\nAluehallituksen 2.10.2023 § 308 mukaisesti aluehallitus päättää hallintosäännön määräyksiä noudattaen, että merkittävät lausunnot esim. hyvinvointialueiden rahoitukseen, lainsäädäntöön liittyvät ja niihin rinnasteiset lausunnot antaa aluehallitus. Lausunnon merkittävyys arvioidaan asian valmistelussa.\n\nPohjois-Savon hyvinvointialueen hallintosäännön määräykset lausuntojen antamisesta antavat mahdollisuuden viranhaltijoille antaa lausuntoja tietyissä rajoissa. Mikäli annettavat lausunnot eivät ole viranhaltijoiden toimivallassa, antaa niistä lausunnot aluehallitus.\n\nLausuntopyyntöihin vastaamiselle annettu määräaika on yleensä niin lyhyt, ettei lausuntojen käsittely aluehallituksessa ole mahdollista.\n\nSaapuneet lausuntopyynnöt:\n\n- Oikeusministeriön lausuntopyyntö Oikeuspalveluviraston ehdotuksesta organisaatiorakenteen ja toimipaikkaverkoston muuttamiseksi\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö, luonnos hallituksen esitykseksi laeiksi sosiaali- ja terveydenhuollon valvonnasta annetun lain ja harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta valtioneuvoston asetukseksi toimeentulotuen tarpeellisen suuruisten asumismenojen määrästä annetun valtioneuvoston asetuksen 2 §:n ja liitteen muuttamisesta\n\n- Ympäristöministeriön lausuntopyyntö, Valtion tukemien vuokra-asuntojen asukasvalintaa ja asuntojen käyttöä koskevan sääntelyn kehittäminen\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö, luonnos Hallituksen esitykseksi eduskunnalle laeiksi sosiaali- ja terveydenhuollon järjestämisestä annetun lain ja terveydenhuoltolain 54 ja 57 §n muuttamisesta\n\nAnnetut lausunnot:\n\n- Pohjois-Savon hyvinvointialueen selvitys Lupa- ja valvontavirastolle kiireettömän erikoisairaanhoidon hoitoon pääsystä 30.4.2026\n\n- Lausunto luonnoksesta hallituksen esitykseksi eduskunnalle terveyden- ja sosiaalihuollon ammattihenkilöistä annetun lain muuttamiseksi\n\n- Pohjois-Savon hyvinvointialueen lausunto taustatietoihin asiakasmaksujen säädösvalmisteluun VN/13449/2026\n\n- Pohjois-Savon hyvinvointialueen vastaus STM:n hyvinvointialue selvitykseen"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Pohjois-Savon hyvinvointialueen selvitys Lupa- ja valvontavirastolle kiireettömän erikoisairaanhoidon hoitoon pääsystä 30.4.2026",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-21-260260.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Lausunto luonnoksesta hallituksen esitykseksi eduskunnalle terveyden- ja sosiaalihuollon ammattihenkilöistä annetun lain muuttamiseksi",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-21-261348.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Pohjois-Savon hyvinvointialueen lausunto taustatietoihin asiakasmaksujen säädösvalmisteluun VN_13449_2026 (1)",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-21-262719.PDF"
+    },
+    {
+     "title": "Oheismateriaali 4 Lausuntopyyntö Oikeuspalveluviraston ehdotuksesta organisaatiorakenteen ja toimipaikkaverkoston muuttamiseksi",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-21-261050.PDF"
+    },
+    {
+     "title": "Oheismateriaali 5 Lausuntopyyntö, luonnos hallituksen esitykseksi laeiksi sosiaali- ja terveydenhuollon valvonnasta annetun lain ja harmaan talouden selvitysyksiköstä annetun lain 6 §:n muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-21-261444.PDF"
+    },
+    {
+     "title": "Oheismateriaali 6 Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta valtioneuvoston asetukseksi toimeentulotuen tarpeellisen suuruisten asumismenojen määrästä annetun valtioneuvoston asetuksen 2 §:n ja liitteen muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-21-261921.PDF"
+    },
+    {
+     "title": "Oheismateriaali 7 Lausuntopyyntö, Valtion tukemien vuokra-asuntojen asukasvalintaa ja asuntojen käyttöä koskevan sääntelyn kehittäminen, Ympäristöministeriö",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-21-262401.PDF"
+    },
+    {
+     "title": "Oheismateriaali 8 Sosiaali- ja terveysministeriön lausuntopyyntö, luonnos Hallituksen esitykseksi eduskunnalle laeiksi sosiaali- ja terveydenhuollon järjestämisestä annetun lain ja terveydenhuoltolain 54 ja 57 §n muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-21-263767.PDF"
+    },
+    {
+     "title": "Oheismateriaali 9 Pohjois-Savon hyvinvointialueen selvitys 2026, STM",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-21-264331.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "202",
+   "title": "Viranhaltijapäätösten tarkastaminen 11.5. - 25.5.2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-22",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-22.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Toimielimen puheenjohtaja",
+   "proposal": "Aluehallitus ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Aluehallitus hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 57 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava aluehallitukselle niistä päätöksistä, jotka voidaan ottaa aluehallituksen käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava aluehallituksen alaisten viranhaltijoiden osalta aluehallitukselle.\n\nAluehallituksen alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa aluehallituksen puheenjohtajalle ja hyvinvointialuejohtajalle.\n\nAluehallitukselle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 11.5. - 25.5.2026",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Viranhaltijapäätösten tarkastaminen 11.5. - 25.5.2026"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Toimielimen puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Aluehallitus hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 57 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava aluehallitukselle niistä päätöksistä, jotka voidaan ottaa aluehallituksen käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava aluehallituksen alaisten viranhaltijoiden osalta aluehallitukselle.\n\nAluehallituksen alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa aluehallituksen puheenjohtajalle ja hyvinvointialuejohtajalle.\n\nAluehallitukselle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 11.5. - 25.5.2026"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Viranhaltijapäätösluettelo 11.5.-25.5.2026",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-22-263990.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "203",
+   "title": "Lautakuntien ja jaostojen päätösten tarkistaminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-23",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-23.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Toimielimen puheenjohtaja",
+   "proposal": "Aluehallitus ei käytä otto-oikeutta toimielinten päätöksiin. Aluehallitus hyväksyy pöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nPohjois-Savon hyvinvointialueen hallintosäännössä § 57-59 on määritelty otto-oikeuden käytöstä seuraavaa:\n\nAsian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nAluehallituksella ei ole otto-oikeutta hyvinvointialueiden yhteisen toimielimen tekemiin päätöksiin.\n\nAsia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nYlemmän toimielimen käsiteltäväksi ei kuitenkaan saa ottaa:\n\n1) lain tai asetuksen mukaisia lupa-, ilmoitus- tai valvontamenettelyä koskevia asioita\n\n2) yksilöön kohdistuvia terveydenhuollon tai sosiaalitoimen asioita\n\n3) hyvinvointialuelain 54 §:ssä tarkoitetulle hyvinvointialueiden yhteiselle toimielimelle siirrettyjä asioita, jos asianomaiset hyvinvointialueet niin sopiva\n\nAsia voidaan hyvinvointialuelain 97 §:n mukaisesti ottaa lautakunnan käsiteltäväksi, jollei ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nAsian ottamisesta lautakunnan käsiteltäväksi voi päättää lautakunta, lautakunnan puheenjohtaja ja lautakunnan esittelijä.\n\nAluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan. Ilmoitus tehdään sähköisesti aluehallituksen puheenjohtajalle ja esittelijälle.\n\nPäätökset niissä asioissa, joista ei tarvitse ilmoittaa, voidaan otto-oikeuden estämättä panna täytäntöön, jollei yksittäistapauksessa ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nEsityslistan lisäaineistona jaetaan pöytäkirjat:\n\n- Ikäihmisten ja hoivapalveluiden lautakunta\n\n- Perhe- ja vammaispalveluiden lautakunta, 12.5.2026\n\n- Yleisten palveluiden lautakunta, 13.5.2026\n\n- Kokonaisturvallisuuslautakunta 21.5.2026\n\n- Asiakaskokemusjaosto 13.5.2026\n\n- Tulevaisuus- ja strategiajaosto 22.5.2026\n\n- Omistajaohjaus- ja talousjaosto 12.5.2026",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Lautakuntien ja jaostojen päätösten tarkistaminen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Toimielimen puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus ei käytä otto-oikeutta toimielinten päätöksiin. Aluehallitus hyväksyy pöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nPohjois-Savon hyvinvointialueen hallintosäännössä § 57-59 on määritelty otto-oikeuden käytöstä seuraavaa:\n\nAsian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nAluehallituksella ei ole otto-oikeutta hyvinvointialueiden yhteisen toimielimen tekemiin päätöksiin.\n\nAsia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nYlemmän toimielimen käsiteltäväksi ei kuitenkaan saa ottaa:\n\n1) lain tai asetuksen mukaisia lupa-, ilmoitus- tai valvontamenettelyä koskevia asioita\n\n2) yksilöön kohdistuvia terveydenhuollon tai sosiaalitoimen asioita\n\n3) hyvinvointialuelain 54 §:ssä tarkoitetulle hyvinvointialueiden yhteiselle toimielimelle siirrettyjä asioita, jos asianomaiset hyvinvointialueet niin sopiva\n\nAsia voidaan hyvinvointialuelain 97 §:n mukaisesti ottaa lautakunnan käsiteltäväksi, jollei ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nAsian ottamisesta lautakunnan käsiteltäväksi voi päättää lautakunta, lautakunnan puheenjohtaja ja lautakunnan esittelijä.\n\nAluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan. Ilmoitus tehdään sähköisesti aluehallituksen puheenjohtajalle ja esittelijälle.\n\nPäätökset niissä asioissa, joista ei tarvitse ilmoittaa, voidaan otto-oikeuden estämättä panna täytäntöön, jollei yksittäistapauksessa ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nEsityslistan lisäaineistona jaetaan pöytäkirjat:\n\n- Ikäihmisten ja hoivapalveluiden lautakunta\n\n- Perhe- ja vammaispalveluiden lautakunta, 12.5.2026\n\n- Yleisten palveluiden lautakunta, 13.5.2026\n\n- Kokonaisturvallisuuslautakunta 21.5.2026\n\n- Asiakaskokemusjaosto 13.5.2026\n\n- Tulevaisuus- ja strategiajaosto 22.5.2026\n\n- Omistajaohjaus- ja talousjaosto 12.5.2026"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Omistajaohjaus- ja talousjaosto 12.5.2026 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-23-264019.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 perhe- ja vammaispalveluiden lautakunta 12.5.2026 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-23-261274.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Asiakaskokemusjaosto 13.5.2026 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-23-264021.PDF"
+    },
+    {
+     "title": "Oheismateriaali 4 Yleisten palveluiden lautakunta 13.5.2026 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-23-261272.PDF"
+    },
+    {
+     "title": "Oheismateriaali 5 Kokonaisturvallisuuslautakunta 21.5.2026 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/20261044-23-264020.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "204",
+   "title": "Muut asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-24",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-24.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ei muita asioita.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ei muita asioita."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "205",
+   "title": "Testamentin vastaanottaminen, JK (JulkL 24 §, kohta 25)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261044-25",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261044-25.PDF",
+   "diary_number": "2397/02.07.01/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Merkitään pöytäkirjaan, että:\n\n-Antti Hedman poistui kokouksesta asian käsittelyn aikana klo 13.56\n\nPuheenjohtaja päätti kokouksen klo 13.58\n\nValmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Raatikainen Riitta",
+   "role": "aluehallituksen puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Hedman Pia",
+   "role": "aluehallituksen 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Rossi Markku",
+   "role": "aluehallituksen 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kanniainen Aino",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lötjönen Vesa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Miettinen Heikki",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pitkänen Juha",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Rautiainen Merja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Suna Sassa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Taipale Pekka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Vornanen Ahti-Pekka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Åhman Kati",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kontiainen Hilkka",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Räsänen Terhi",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kokki Hannu",
+   "role": "aluevaltuuston puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Partanen Karoliina",
+   "role": "aluevaltuuston 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Korhonen Marko",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Niemeläinen Janne",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Antikainen Mari",
+   "role": "henkilöstöjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Hedman Antti",
+   "role": "vastaava lääkäri",
+   "group": "other"
+  },
+  {
+   "name": "Janhonen Kari",
+   "role": "talousjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Jestola Eija",
+   "role": "toimilinjajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kantanen Kati",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kettunen Anne",
+   "role": "viestintä- ja markkinointijohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Koponen Jukka",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Korhonen Mikko",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Lampi Jussi",
+   "role": "strategiajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Mykkänen Minna",
+   "role": "johtaja ylihoitaja",
+   "group": "other"
+  },
+  {
+   "name": "Pekkarinen Tuomo",
+   "role": "tietohallintojohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Remes Sami",
+   "role": "toimilinjajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Saarinen Jari",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Solmari Kirsi",
+   "role": "sosiaalihuollon asiantuntijajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kauppinen Virpi",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Räsänen Henna",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Pyy Petri",
+   "role": "asiantuntija",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261044",
+  "fetched_at": "2026-10-14T18:01:53+00:00",
+  "content_hash": "7e20dd674a31042d",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T18:01:53+00:00"
+ }
+}

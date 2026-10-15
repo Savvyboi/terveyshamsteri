@@ -1,0 +1,825 @@
+{
+ "id": "aluehallitus/2025-06-24",
+ "region": "keski-suomi",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2025-06-24",
+ "stage": "minutes",
+ "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025241",
+ "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241.PDF",
+ "time": "14:34 - 18:01",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "201",
+   "title": "Laillisuus ja päätösvaltaisuus",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025241-1",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokouksen laillisuus ja päätösvaltaisuus.",
+   "decision": "Puheenjohtaja totesi kokouksen laillisesti koolle kutsutuksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvointialuelain 108 § mukaan muu toimielin kuin aluevaltuusto on päätösvaltainen, kun yli puolet jäsenistä on läsnä. Läsnäoleviksi katsotaan myös ne toimielimen jäsenet, jotka osallistuvat kokoukseen sähköisesti.\n\nTästä kokouksesta on annettu tieto hallintosäännön 149 ja 150 §:n mukaisesti.\n\nKirjallinen kutsu on toimitettu sähköisesti aluehallituksen jäsenille 19.6.2025."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokouksen laillisuus ja päätösvaltaisuus."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja totesi kokouksen laillisesti koolle kutsutuksi ja päätösvaltaiseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "202",
+   "title": "Pöytäkirjan tarkastus",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025241-2",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus valitsee kaksi pöytäkirjantarkastajaa; Jouni Flyktman ja Jukka Haaparanta, varalle Irma Hirsjärvi ja Elma Hyöky.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvointialueesta annetun lain 95 §:n mukaan pöytäkirjan tarkastamisesta annetaan tarpeelliset määräykset hallintosäännössä.\n\nHallintosäännön 168 §:n mukaan pöytäkirja tarkastetaan toimielimen päättämällä tavalla. Pöytäkirja voidaan tarkastaa ja allekirjoittaa sähköisesti.\n\nPöytäkirja allekirjoitetaan ja tarkastetaan 30.6.2025 mennessä."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus valitsee kaksi pöytäkirjantarkastajaa; Jouni Flyktman ja Jukka Haaparanta, varalle Irma Hirsjärvi ja Elma Hyöky."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "203",
+   "title": "Työjärjestyksen hyväksyminen",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025241-3",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Hyväksytään työjärjestys esityksen mukaisesti.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Käsiteltävät asiat ilmoitetaan ennalta jaetussa kokouskutsussa ja sen mukana seuranneessa esityslistassa.\n\nAsiat käsitellään esityslistan mukaisessa järjestyksessä, jollei toimielin toisin päätä."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Hyväksytään työjärjestys esityksen mukaisesti."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "204",
+   "title": "Viranhaltijapäätökset",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025241-4",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää, ettei se käytä hyvinvointialuelain 97 §:n mukaista otto-oikeuttaan esitettyihin viranhaltijoiden päätöksiin. Aluehallitus merkitsee tiedoksi viranhaltijapäätökset, joiden otto-oikeusaika on päättynyt.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Viranhaltijoiden päätökset ovat nähtävillä hyvinvointialueen verkkosivuilla Hyvinvointialue > Päätöksenteko > Viranhaltijapäätökset.\n\nHallintosäännön § 25 mukaan ylemmälle toimielimelle ei ilmoiteta seuraavia päätöksiä:\n\n- henkilöstöä koskevat päätökset, lukuun ottamatta valintaa vakinaiseen virkasuhteeseen;\n\n- tilojen vuokraaminen ulkopuolisille tilapäiseen käyttöön;\n\n- hankintapäätökset, joiden kokonaisarvo jää alle kansallisen kynnysarvon;\n\n- alle 2000 euron vahingonkorvaukset;\n\n- operatiiviset päätökset, joilla ei ole välittömiä talousvaikutuksia.\n\nHenkilötietoja sisältävät päätökset poistetaan yleisestä tietoverkosta henkilötietojen käsittelyä koskevan lainsäädännön nojalla päätöksen muutoksenhakuajan päätyttyä tai kun päätös on lainvoimainen."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää, ettei se käytä hyvinvointialuelain 97 §:n mukaista otto-oikeuttaan esitettyihin viranhaltijoiden päätöksiin. Aluehallitus merkitsee tiedoksi viranhaltijapäätökset, joiden otto-oikeusaika on päättynyt."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "205",
+   "title": "Muutostukiprojektin loppuraportti",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025241-5",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-5.PDF",
+   "diary_number": "1136/00.04.00/2025",
+   "preparer": "erityisavustaja Erkki Nikkilä",
+   "presenter": "Hyvinvointialuejohtaja Tollet Jan",
+   "proposal": "Aluehallitus merkitsee tiedoksi valtiovarainministeriön koordinoiman hyvinvointialueiden muutostukiprojektin loppuraportin ja siihen sisältyvän Keski-Suomen hyvinvointialueen tilannekatsauksen.\n\nLisäksi aluehallitus päättää, että hyvinvointialuejohtajalle annetaan valtuudet käynnistää Länsi-Uudenmaan tietopohjaisen johtamismallin käyttöönottoprojektin valmistelu.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "erityisavustaja Erkki Nikkilä"
+    },
+    {
+     "heading": "Selostus asiasta",
+     "text": "Yleistä\n\nKeski-Suomen hyvinvointialue osallistui vuosina 2024–2025 valtioneuvoston käynnistämään muutostukiprojektiin, jonka tavoitteena oli tarjota tukea talouden tasapainottamiseen ja toiminnan kehittämiseen niille hyvinvointialueille, joilla oli suurimmat haasteet rahoituksen ja rakenteiden osalta. Projektiin osallistuminen oli vapaaehtoista ja sen ensisijaisena tarkoituksena oli vahvistaa alueen tiedolla johtamista ja päätöksenteon tietopohjaa.\n\nKeski-Suomen hyvinvointialueen osalta projektissa käytiin läpi seuraavat teemat:\n\nTalouden ja toiminnan johtaminen: Projektin yhteydessä esiteltiin Länsi-Uudenmaan tietopohjainen johtamismalli, johon sisältyy mm. Tahti-kuukausiraportointi. Esittelyn jälkeen tuohon malliin on perehdytty paremmin ja 17.6.2025 Länsi-Uudenmaan hyvinvointialueen tuotantojohtaja Matias Pälve esitteli mallia aluehallitukselle ja virkamiesjohdolle.\n\nIkääntyneiden palvelut: Alueella ikäihmisten palvelujen peittävyys on valtakunnan keskitasoa korkeampi ja palvelurakenne on raskas. Palvelurakenteen keventämistä pidettiin välttämättömänä erityisesti Jyväskylän seudulla.\n\nLastensuojelu: Lyhytaikaisten sijoitusten määrä on kasvanut ja ostopalveluiden kustannukset ovat nousseet. Painopisteen siirtoa varhaiseen tukeen ja oman tuotannon vahvistamiseen pidettiin perusteltuna.\n\nYksikkökustannukset ja erikoissairaanhoidon tuottavuus: Hyvinvointialueelle tuotettiin Power BI -näkymiä ja THL:n aineistoihin pohjautuvia raportteja, joiden avulla voidaan syventää kustannus- ja tuottavuusanalyysiä.\n\nProjektin lopputulemana tunnistettiin alueella vahva kehittämistahto, mutta samalla hajanaisuus hidastaa vaikuttavien toimien toimeenpanoa. Muutostuki ei tarjonnut valmiita ratkaisuja, mutta tuki kriittisten kehittämiskohteiden tunnistamista ja tulevaa strategiatyötä. Erityisesti korostui tarve kohdistaa seuraavalla valtuustokaudella toimet kustannustason sopeuttamiseksi rahoituksen tasolle. Tämä edellyttää tarkastelua palveluverkon, palvelutason ja ei-lakisääteisten palveluiden osalta.\n\nProjektin vaikutuksia tarkastellaan laajemmin vuoden 2025 syksyn hyvinvointialueneuvotteluissa."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja Tollet Jan"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus merkitsee tiedoksi valtiovarainministeriön koordinoiman hyvinvointialueiden muutostukiprojektin loppuraportin ja siihen sisältyvän Keski-Suomen hyvinvointialueen tilannekatsauksen.\n\nLisäksi aluehallitus päättää, että hyvinvointialuejohtajalle annetaan valtuudet käynnistää Länsi-Uudenmaan tietopohjaisen johtamismallin käyttöönottoprojektin valmistelu."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Hyvinvointialueiden muutostukiprojektin loppuraportti 27.5.2025, VN/29405/2024)",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-5-56620.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "206",
+   "title": "Keski-Suomen hyvinvointialueen toiminnan ja talouden raportointi- ja seurantamallin kehittäminen",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025241-6",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-6.PDF",
+   "diary_number": "1173/02.00.02/2025",
+   "preparer": "Erityisavustaja Erkki Nikkilä",
+   "presenter": "Hyvinvointialuejohtaja Tollet Jan",
+   "proposal": "Aluehallitus päättää, että hyvinvointialueen toiminnan ja talouden seuranta- ja raportointimalli vuodelle 2026 uudistetaan. Tavoitteena on rakentaa vaiheittain toimiva, hyvinvointialueen johtamisen tarpeisiin sovitettu kokonaisuus, joka tukee talouden ja toiminnan integraatiota, parantaa johtamisen laatua ja vahvistaa luottamusta tiedolla tehtävään päätöksentekoon.\n\nValmistelussa huomioidaan muun muassa:\n\n- tietojen luotettavuuden ja käsittelyrakenteiden kehittäminen\n\n- controller- ja business intelligence -toimintojen roolin vahvistaminen\n\n- toimintayksiköiden vertailtavuus ja seurannassa käytettävän mittariston tiivistäminen (KPI)\n\n- kokous- ja raportointikäytännöt, jotka tukevat jatkuvaa seurantaa ja reagointia sekä\n\n- organisaatiotason sitoutuminen tiedolla johtamisen kulttuuriin.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Erityisavustaja Erkki Nikkilä"
+    },
+    {
+     "heading": "Selostus asiasta",
+     "text": "Yleistä\n\nAluehallitus päätti vuoden 2025 toiminnan ja talouden raportointikäytännöstä ja raportointimallista kokouksessaan 4.2.2025. Vuoden 2025 toiminnasta ja taloudesta raportoidaan aluehallitukselle ja aluevaltuustolle siten, että:\n\n1) neljännesvuosikatsaukset käsitellään päätösasioina aluehallituksessa ja aluevaltuustossa.\n\n2) tuottavuusohjelman toimenpiteiden ja muiden talouden tasapainottamistoimenpiteiden toteutumisesta raportoidaan neljännesvuosikatsausten yhteydessä.\n\n3) kuukausiraportit toimitetaan aluehallitukselle tiedoksi portaaliin kuukausittain.\n\nLisäksi hyvinvointialueen johtoryhmässä seurataan talouden toteumaa ja ennustetta sekä tuottavuusohjelman toimenpiteiden ja muiden talouden tasapainottamistoimenpiteiden etenemistä kuukausittain. Talouden seurantaa ja raportointia tehdään kuukausittain myös muilla organisaatiotasoilla.\n\nKeski-Suomen hyvinvointialue osallistui vuosina 2024–2025 valtioneuvoston käynnistämään vapaaehtoiseen muutostukiprojektiin, jonka tavoitteena oli tukea erityisesti talouden ja rakenteiden näkökulmasta haastavassa asemassa olevia hyvinvointialueita. Hankkeen keskeisenä tavoitteena oli vahvistaa alueiden tiedolla johtamisen kyvykkyyttä ja päätöksenteon tietopohjaa.\n\nOsana muutostukiprosessia Keski-Suomen hyvinvointialueella perehdyttiin Länsi-Uudenmaan hyvinvointialueen kehittämään tietopohjaiseen johtamismalliin, jota on pidetty yhtenä valtakunnallisesti edistyksellisimmistä kokonaisuuksista. Mallin keskiössä on Tahti-kuukausiraportointi, joka mahdollistaa kustannusten, suoritteiden, henkilöstöresurssien ja palveluiden saatavuuden systemaattisen seurannan palvelualueittain ja yksikkötasolla. Tahti-raportointi on Länsi-Uudellamaalla vakiintunut operatiivisen johtamisen ja luottamushenkilöpäätöksenteon tueksi, ja se on osoittautunut tehokkaaksi työkaluksi muun muassa talouden tasapainottamisessa, palvelujen saatavuuden parantamisessa sekä henkilöstöjohtamisessa. Mallin esittelyssä korostui sen kyky tukea päätöksenteon läpinäkyvyyttä, vertailukelpoisuutta ja vaikuttavuusseurantaa sekä sen strukturoidut käytännöt tiedon käsittelyyn ja kokouskäytäntöihin. Malli on rakenteeltaan selkeä, ja se tukee sekä arjen johtamista että strategista ohjausta.\n\nToiminnan ja talouden johtamisen toimintamallien ja seurantakäytäntöjen kehittämistyö Keski-Suomen hyvinvointialueella on käynnissä. Vuodelle 2026 toiminnan ja talouden seuranta- ja raportointimallia uudistetaan, jotta se tukee paremmin johtamista. Kehittämistyössä huomioidaan Länsi-Uudenmaan hyvinvointialueen toimintamallista tunnistetut hyvät käytännöt. Kehittämistyötä tehdään niin tietotuotannon ja raportointivälineiden kuin toimintamallin osalta. Toiminnan seurannassa ja johtamisessa käytettävät tunnusluvut valmistellaan osana vuoden 2026 talousarvion laadintaa. Uusi toimintamalli otetaan käyttöön vuoden 2026 toiminnan ja talouden raportointiin ja sitä pilotoidaan loppuvuonna 2025. Raportointi- ja seurantamallin valmistelun ohjausryhmänä toimii hyvinvointialueen johtoryhmä.\n\nVaikutusten ennakkoarviointi\n\nEnnakkoarviointia ei tarvitse tehdä koska asia liittyy hallinnon sisäiseen järjestelyyn."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 17 §"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja Tollet Jan"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää, että hyvinvointialueen toiminnan ja talouden seuranta- ja raportointimalli vuodelle 2026 uudistetaan. Tavoitteena on rakentaa vaiheittain toimiva, hyvinvointialueen johtamisen tarpeisiin sovitettu kokonaisuus, joka tukee talouden ja toiminnan integraatiota, parantaa johtamisen laatua ja vahvistaa luottamusta tiedolla tehtävään päätöksentekoon.\n\nValmistelussa huomioidaan muun muassa:\n\n- tietojen luotettavuuden ja käsittelyrakenteiden kehittäminen\n\n- controller- ja business intelligence -toimintojen roolin vahvistaminen\n\n- toimintayksiköiden vertailtavuus ja seurannassa käytettävän mittariston tiivistäminen (KPI)\n\n- kokous- ja raportointikäytännöt, jotka tukevat jatkuvaa seurantaa ja reagointia sekä\n\n- organisaatiotason sitoutuminen tiedolla johtamisen kulttuuriin."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "207",
+   "title": "Hyvinvointialuestrategian päivittäminen, sosiaali- ja terveydenhuollon palvelustrategian laatimisen käynnistäminen sekä sosiaali- ja terveydenhuollon palveluverkkotyön toisen vaiheen käynnistäminen",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025241-7",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-7.PDF",
+   "diary_number": "1163/00.01.01.04/2025",
+   "preparer": "strategiajohtaja Anu Pihl",
+   "presenter": "Hyvinvointialuejohtaja Tollet Jan",
+   "proposal": "Aluehallitus päättää\n\n1) käynnistää hyvinvointialuestrategian päivittämisen\n\n2) käynnistää sosiaali- ja terveyspalveluita koskevan palvelustrategian laatimisen sekä\n\n3) käynnistää sosiaali- ja terveydenhuollon palveluverkkotyön toisen vaiheen edellä kuvatuilla periaatteilla.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "strategiajohtaja Anu Pihl"
+    },
+    {
+     "heading": "Selostus asiasta",
+     "text": "Hyvinvointialuestrategian päivittäminen\n\nHyvinvointialuelain 41 §:n mukaan hyvinvointialueella on oltava strategia, jossa hyvinvointialueen aluevaltuusto päättää toiminnan ja talouden pitkän aikavälin tavoitteista. Hyvinvointialueen strategian tulee perustua arvioon hyvinvointialueen tilanteesta strategian laatimishetkellä sekä tulevista toimintaympäristön muutoksista ja niiden vaikutuksista hyvinvointialueen tehtävien toteuttamiseen.\n\nKeski-Suomen hyvinvointialueen aluevaltuusto hyväksyi 14.6.2022 § 63 Keski-Suomen hyvinvointialueen ensimmäisen strategian, joka ulottuu vuoteen 2030. Strategiassa on päätetty hyvinvointialueen visiosta, missiosta, arvoista, tavoitteista sekä menestystekijöistä.  \n\nHyvinvointialuelain 41 §:n mukaan strategia tarkistetaan vähintään kerran aluevaltuuston toimikaudessa. Hyvinvointialuestrategian päivittämisen tarpeita on arvioitu 10.9.2024 -18.3.2025 toteutetussa strategian väliarvioinnissa. Väliarvioinnin tarkoitus on tukea uuden aluevaltuuston työskentelyn aloittamista tarjoamalla näkemys hyvinvointialueemme tulevaisuuden mahdollisuuksista, haasteista ja tarvittavista toimenpiteistä alkavalle valtuustokaudelle sekä tuoda esille mahdollisia strategian päivitystarpeita. Aluevaltuusto merkitsi 18.3.2025 kokouksessaan tiedoksi strategian väliarvioinnin ja siihen liittyvän tulevaisuuskatsauksen, sekä saattoi ne seuraavalle aluevaltuustolle huomioon otettavaksi strategian päivittämistä varten.\n\nTehdyssä strategian väliarvioinnissa todettiin, että Keski-Suomen hyvinvointialuestrategiaan on oltu pääosin tyytyväisiä. Arvioinnissa todettiin huomiona kuitenkin, että kaksi ja puoli vuotta on ollut varsin lyhyt aika strategian toteuttamiselle. Strategian todettiin pääosin palvelevan edelleen tässä ajassa, vaikka maailmantilanne onkin muuttunut oleellisesti ja tulevaisuuden erilaisia epävarmuuksia tunnistettiin laajasti osana tulevaisuuskatsauksen laatimista. Hyvinvointialueen taloustilanne ja talouden reunaehdot olivat yleinen esiin noussut huolenaihe ja arvioinnin aikana käytiin runsaasti keskusteluja siitä, onko tässä taloudellisessa tilanteessa mahdollisuus toteuttaa strategiaa nykyisellä tavalla. Toinen usein esille noussut teema oli varautuminen ja sen nostaminen näkyvämmin strategiaan. Arvioinnin tekemisen jälkeen talouden tilanne on edelleen heikentynyt.\n\nStrategian väliarvioinnista nousseet päivittämisen tarpeet strategian toimeenpano-ohjelmaan\n\nStrategian väliarviointi ei varsinaisesti kohdistunut strategian toimeenpano-ohjelmaan, mutta läheinen yhteys strategiaan toi esiin kehittämistarpeita myös siinä. Toimeenpano-ohjelman seuranta ja raportointi on ollut haastavaa eikä se ole saadun palautteen mukaan palvellut tarkoitustaan parhaalla mahdollisella tavalla. Toimeenpano-ohjelmia seuraamalla ei ole pystytty seuraamaan strategian etenemistä toivotulla tavalla.\n\nStrategian väliarvioinnissa nousi esiin tarve tiivistää toiminnan ja talouden yhteyttä sekä helpottaa raportointia ja seurantaa selkeyttämisen, yksinkertaistamisen ja konkretisoinnin kautta.\n\nArvioinnin valmisteluajankohtaan nähden edelleen heikentynyt talouden tilanne vahvistaa tarvetta yksinkertaistaa ohjaavia asiakirjoja, selkeyttää ja tarkentaa tavoitteita ja sopeuttaa myös sitä kautta toimintaa käytettävissä olevaan rahoitukseen.\n\nSosiaali- ja terveydenhuollon järjestämisen linjaukset ovat olleet osa toimeenpano-ohjelmaa. Ne ovat osaltaan täyttäneet sosiaali- ja terveydenhuollon järjestämislain 11 §:ssä tarkoitetun palvelustrategian tehtävää. Myös järjestämisen linjaukset ovat olleet nykyisellään haastavia seurata erityisesti toiminnan ja talouden rinnakkaisen seurannan näkökulmasta. Yksinkertaistamisen ja selkeyttämisen parantamiseksi esitetään, että hyvinvointialuestrategian tueksi laaditaan lain edellyttämä palvelustrategia, jolla on tiivis yhteys hyvinvoinnin, terveyden ja turvallisuuden edistämisen suunnitelma kokonaisuuteen.\n\nSeurannan ja raportoinnin selkeyttämiseksi esitetään, että strategian toteutumista ei enää seurata toimeenpano-ohjelman kautta. Sen sijaan seuranta kohdennetaan keskeisiin toiminnan, talouden ja henkilöstöön liittyviin indikaattoreihin, jotka johdetaan hyvinvointialuestrategiasta, laadittavaksi esitettävästä palvelustrategiasta sekä pelastustoimen palvelutasopäätöksestä.\n\nToimeenpano-ohjelmaan liittyneet muut suunnitelmat (esimerkiksi lakisääteiset hyvinvoinnin ja terveyden edistämisen suunnitelmat sekä henkilöstöohjelma) tullaan seuraamaan omina kokonaisuuksinaan.\n\nPalvelustrategiaan liittyvä lainsäädäntö\n\nKuten aiemmin todettiin, nykyisten sosiaali- ja terveydenhuollon järjestämisen linjausten tilalle esitetään laadittavaksi sosiaali- ja terveydenhuollon järjestämislain mukainen palvelustrategia. Sosiaali- ja terveydenhuollon järjestämislain 11 § edellyttää hyvinvointialuetta laatimaan taloutensa ja toimintansa suunnittelua ja johtamista varten sosiaali- ja terveydenhuollon palvelustrategian osana hyvinvointialuestrategiaa.\n\nPalvelustrategia on osa hyvinvointialuestrategiaa ja siinä on huomioitava myös järjestämislain 22 §:n mukaisesti sosiaali- ja terveydenhuollon valtakunnalliset tavoitteet, jotka koostuvat toimintaa ja toimintaedellytyksiä koskevista tavoitteista. Uudistetut valtakunnalliset tavoitteet ovat tulleet voimaan toukokuussa 2025, jotka koskevat sekä sosiaali- ja terveydenhuoltoa että pelastustoimea.\n\nPalvelustrategialla hyvinvointialue päättää lain mukaan järjestämisvastuulleen kuuluvan sosiaali- ja terveydenhuollon pitkän aikavälin tavoitteet huomioiden hyvinvointialueen asukkaiden tarpeet, paikalliset olosuhteet, palvelujen saatavuus ja saavutettavuus sekä kustannusvaikuttavuus. Palvelustrategian laadintaan osallistamisesta säädetään hyvinvointialueesta annetun lain 29 §:ssä. Palvelustrategia on lain mukaan julkaistava julkisessa tietoverkossa.\n\nPalvelustrategian laatimisen periaatteet\n\nPalvelustrategian laadintaa ohjaisivat tiivistetysti seuraavat periaatteet:\n\n1. Kokonaisuuden valmistelu: Hyvinvointialuestrategia ja sosiaali- ja terveydenhuollon palvelustrategia sekä palveluverkkotyön toinen vaihe ovat toisiaan tukeva kokonaisuus, joita valmistellaan rinnakkain ja kokonaisuutena talousarvion kanssa.\n\n2. Talouden vahva yhteys: Palvelustrategia tukee Keski-Suomen hyvinvointialueen strategiassa asetettujen tavoitteiden toteuttamista sekä auttaa sopeuttamaan toimintaa käytettävissä olevaan rahoitukseen. Talousarvion ja talouden tasapainottamisen sisällöt ovat linjassa palvelustrategian kanssa ja ohjaavat sen toimeenpanoa. Valtiolta tulevan rahoituksen taso huomioidaan palvelustrategian valmistelussa.\n\n3. Yksinkertaistaminen ja konkretisointi: Palvelustrategia tarkentaa hyvinvointialuestrategian käytännön toimeenpanoa konkreettisin tavoittein ja toimenpitein, joita voidaan myös seurata.\n\n4. Kansallisen ohjauksen huomioiminen osana prosessia.\n\nHyvinvointialueen saama kansallinen ohjaus muutostukikeskusteluissa ja hyvinvointialueneuvotteluissa\n\nHyvinvointialueen ja ministeriöiden välisissä hyvinvointialuelain (§ 13a) mukaisissa neuvotteluissa joulukuussa 2024 hyvinvointialue sai ohjausta suositusten muodossa. Ministeriö ohjaa hyvinvointialuetta seuraavasti:\n\n1. Alueen on määrätietoisesti jatkettava palveluiden uudistamista ja varmistettava taloutta tasapainottavien toimenpiteiden toteutuminen aikataulussa.\n\n2. Alueen on jatkettava ikääntyneiden palvelurakenteen ripeää keventämistä.\n\nLisäksi Keski-Suomen hyvinvointialue kutsuttiin vuoden 2024 lopulla vapaaehtoisiin muutostukikeskusteluun, jonka loppuraportissa todetaan, että Keski-Suomen hyvinvointialueen “Kertynyt alijäämä on kasvanut niin korkeaksi, että seuraavalla valtuustokaudella huomio tulee keskittää siihen, miten kustannustaso sopeutetaan rahoituksen tasolle. Tarkastella tulee niin palveluverkkolinjauksia, ei-lakisääteisiä palveluita kuin palvelutasoakin.”\n\nLoppuraportissa todetaan lisäksi että “Keski-Suomen palveluverkkolinjaukset vaikeuttavat ikääntyneiden palveluiden kehittämistä. Tässä tilanteessa kehittäminen jää helposti pistemäiseksi, jolloin myös talousvaikutukset jäävät kohtalaisen vähäisiksi. Alueen tulisi monipuolistaa palveluvalikoimaa ja panostaa mm. kotona asumista tukeviin palveluihin. Tätä voitaisiin toteuttaa esim. vuodeosastoverkkoa karsimalla ja kohdentamalla resursseja uudelleen.” Lisäksi muutostukiraportissa todetaan, että THL:n ja ministeriön edustajat pitivät oikeansuuntaisena hyvinvointialueen tavoitetta lastensuojelun osalta, että ”Pidemmällä aikavälillä tavoitteena on painopisteen siirtäminen varhaisen tuen palveluihin sekä pitkäaikaisen lastensuojelun laitoshoidon lisääminen omana tuotantona”.\n\nPalvelustrategian – ja erityisesti siihen sisältyvän palveluverkkotyön toisen vaiheen – valmistelussa otetaan huomioon hyvinvointialueen saama kansallinen ohjaus sekä käynnistyneessä arviointiemenettelyssä esiin tulevat asiat. Lisäksi hyvinvointialue saa kansallista ohjausta esimerkiksi valtioneuvoston hyväksymien valtakunnallisten tavoitteiden muodossa, joiden huomioiminen työssä on tärkeää.\n\nSosiaali- ja terveydenhuollon palveluverkkotyön toisen vaiheen käynnistäminen\n\nHyvinvointialueen palvelutuotanto perustuu monikanavaiseen palveluverkkoon, joka muodostuu digitaalisista, liikkuvista, kotiin vietävistä palveluista sekä palveluista fyysisissä toimipisteissä. Palveluverkkotyön tavoitteina on turvata asukkaiden palvelujen saatavuus ja jatkuvuus, huomioiden taloudelliset reunaehdot ja henkilöstön saatavuus. \n\nLaki sosiaali- ja terveydenhuollon järjestämisestä (612/2021) edellyttää, että hyvinvointialueen on suunniteltava ja toteutettava “sosiaali- ja terveydenhuolto sisällöltään, laajuudeltaan ja laadultaan sellaisena kuin asiakkaiden tarve edellyttää. Palvelut on lisäksi toteutettava yhdenvertaisesti, yhteensovitettuina palvelukokonaisuuksina sekä hyvinvointialueen väestön tarpeet huomioon ottaen lähellä asiakkaita. Palveluja voidaan koota hyvinvointialueen alueella suurempiin kokonaisuuksiin silloin, kun palvelujen saatavuus ja laadun turvaaminen edellyttävät erityisosaamista tai kalliita investointeja tai kun palvelujen tarkoituksenmukainen, kustannusvaikuttava ja tehokas toteuttaminen edellyttävät sitä.”  \n\nPalveluverkkotyön ensimmäinen vaihe\n\nKeski-Suomen hyvinvointialueen aluehallitus käynnisti 7.11.2023 § 340 sosiaali- ja terveyspalveluiden palveluverkkotyön ensimmäisen vaiheen. Suunnittelun perustana olivat sosiaali- ja terveydenhuollon järjestämisenlinjaukset sekä uudistumis- ja tuottavuusohjelmat. Tarkastelun kohteena olivat ns. kivijalka-, liikkuvat ja digitaaliset palvelut sekä niiden keskinäinen suhde ja tavoitetila. Aluevaltuusto hyväksyi linjausten mukaisen ensimmäisen vaiheen palveluverkon ja sen periaatteet 11.6.2024 § 38. \n\nEnsimmäisen vaiheen palveluverkkotyössä tarkasteltiin järjestämislinjausten palveluverkkomääritelmän mukaisia palveluita: soteasemia, alueellista osastotoimintaa, ympärivuorokautista asumista, perhekeskuspalveluita sekä ikääntyneiden päivätoimintaa. Muiden sosiaali- ja terveyspalveluiden osalta palveluverkkoesityksessä oli kaikkien palveluiden osalta tiivistetty kuvaus palveluiden saatavuudesta ja saavutettavuudesta sekä palveluverkon kehittämisestä. \n\nEnsimmäisen vaiheen palveluverkkopäätöksessä linjattiin, että sote-palveluita tuotetaan eri kokoisissa ja palveluiltaan sekä aukioloajoiltaan eri laajuisissa toimipisteissä. Laajemmissa toimipisteissä (alueelliset sote-keskukset ja seudulliset sote-asemat) moniammatilliset palvelut ovat kattavammat. Sote-palvelupisteillä tuetaan palveluiden saatavuutta pitkien etäisyyksien vuoksi. \n\nEnsimmäisessä vaiheessa korostuivat: \n\n- toiminnan uudistaminen \n\n- toimintavarmuuden parantaminen \n\n- henkilöstön saatavuuden turvaaminen \n\nTämä ensimmäinen vaihe toimi myös lähtökohtana vuoden 2024 vuokrasopimusneuvotteluille. Valmistelu toteutettiin kaksivaiheisesti laajalla osallistamisella. Mukana oli hyvinvointialueen työntekijöitä, toimielimiä, kuntia, asukkaita, sidosryhmiä ja kumppaneita. Lisäksi tehtiin laaja vaikutusten ennakkoarviointi ja hyödynnettiin NHG:n (Nordic Healthcare Group) asiantuntijatukea.  Ensimmäisen vaiheen toimeenpanon osalta tähän mennessä on toteutettu esimerkiksi kiirevastaanottouudistus ja suljettu ikääntyneiden ympärivuorokautisen yksiköitä. Ensimmäisen vaiheen palveluverkkopäätökseen sisältynyt Jokilaakson sairaalan erikoissairaanhoidon toiminta ja päivystys päättyy 1.9.2025 alkaen.\n\nPalveluverkkotyön toinen vaihe \n\nPalveluverkkotyön toisessa vaiheessa on tarkoitus tehdä palveluverkkosuunnitelma vuosille 2026–2030. Palveluverkkotyön ensimmäisessä vaiheessa linjattiin, että toinen vaihe aloitettaisiin keväällä 2026, jolloin tehtäisiin “päätöksiä vuodelle 2027 ja tarkennuksia palveluverkkosuunnitelmaan vuoteen 2030 asti.” \n\nHyvinvointialueen heikentynyt taloustilanne on lisännyt painetta aikaistaa toisen vaiheen valmistelua. Myös vuoden 2025 talousarviossa todetaan, että toimenpiteet vuokratyövoiman hallinnassa, tilakustannusten vähentämisessä sekä henkilöstön riittävyyden varmistamisessa voivat edellyttää suunnittelun nopeuttamista. \n\nJotta palveluverkkotyön toisen vaiheen toimeenpano voi alkaa vuoden 2026 alusta, valmistelu on tehtävä vuoden 2026 talousarvion laadinnan yhteydessä.\n\nPalveluverkkotyön tavoitteet ja periaatteet toisessa vaiheessa \n\nPalveluverkkotyön toisessa vaiheessa tavoitteena on järjestää asukkaiden palvelut siten, että kustannustaso sopeutetaan rahoituksen tasolle niin kiinteistöjen kuin toiminnankin näkökulmasta.\n\nTavoitteena on varmistaa, että palvelut vastaavat asukkaiden palvelutarpeeseen ja ovat taloudellisesti ja toiminnallisesti kestäviä sekä valtakunnallisen ohjauksen mukaisia ja näiden kautta luodaan edellytykset laadukkaalle, saavutettavalle ja vaikuttavalle palveluverkolle koko Keski-Suomessa. Palveluverkkotyön toisen vaiheen periaatteet voidaan tiivistää:\n\nTaloudellisesti kestävä ja tietoon perustuva palveluverkko\n\n- Kustannus- ja palvelutason sopeuttaminen käytettävissä olevaan rahoitukseen.\n\n- Palveluverkon ja palvelutuotannon uudistaminen.\n\n- Kaikissa palveluissa tunnistetaan kustannustehokkaat ja vaikuttavat tuotantotavat.\n\n- Muutokset toimintaympäristössä, lainsäädännössä tai rahoituksessa voivat vaikuttaa palveluverkon linjauksiin, jolloin niiden vaikutukset tulee arvioida ja tarvittaessa viedä uudelleen päätöksentekoon.\n\n- Palvelutarpeen muutoksiin varaudutaan ennakoivasti.\n\n- käytettävissä oleva tieto yksikkökustannustannuksista ja laadusta päätöksenteon tukena\n\nUudistuva, monikanavainen toiminta eri aluetasoilla\n\n- Toimintamallien uudistamista jatketaan osana palveluverkon kehittämistä: Palveluverkkotyö pohjautuu toiminnan ja toimintamallien uudistamiseen ja kehittämiseen\n\n- Monikanavaisuus: Palveluja tuotetaan joustavasti fyysisissä toimipisteissä, kotiin vietävinä, liikkuvina sekä digitaalisina palveluina. Liikkuvien palvelujen konseptia täsmennetään.\n\n- Eri aluetasot: Palvelujen saatavuutta ja saavutettavuutta arvioidaan alue-, seutu- ja paikallistasolla sekä yksittäisten toimipisteiden mutta myös liikkuvien palvelujen näkökulmasta. Toimipisteet vaihtelevat kooltaan ja palvelutarjonnaltaan.\n\nKansallinen ohjaus\n\n- Valtion antama ohjaus (esimerkiksi muutostukikeskustelu, vuosittaiset hyvinvoitialueneuvottelut, valtakunnalliset tavoitteet), esimerkiksi ikääntyneiden palveluiden ja vuodeosastopalveluiden osalta sekä lastensuojelun osalta otetaan huomioon sekä palvelustrategian että palveluverkkotyön valmistelussa.\n\nTilojen turvallisuus ja tehokas käyttö\n\n- Tilojen käyttöä optimoidaan, yhteiskäyttöä lisätään edelleen mahdollisuuksien mukaan ja tarpeettomista tai toimintaan soveltumattomista tiloista luovutaan.\n\n- Tilasuunnittelussa varmistetaan turvalliset ja tarkoituksenmukaiset tilat sekä henkilöstölle että asukkaille.\n\nOsallisuus ja vaikutusten arviointi\n\nHyvinvointialuestrategian osalta arviointityöhön on osallistettu laajasti niin henkilöstö, luottamushenkilöt sekä asukkaatkin. Syntynyttä materiaalia ja saatua palautetta voidaan hyödyntää myös palvelustrategian laadinnassa.\n\nPalveluverkkotyön toisessa vaiheessa ja palvelustragegian laadinnassa tullaan osallistamaan asianmukaisia tahoja, kuten kuntia ja muita sidosryhmiä sekä henkilöstöä. Lisäksi siinä hyödynnetään ensimmäisen vaiheen palveluverkkotyöstä saatua laajaa palautetta ja materiaalia ja edellä mainittua strategian väliarviointia ja siihen liittynyttä tulevaisuuskatsausta.\n\nPalvelustrategiasta ja erityisesti palveluverkkoesityksestä tehdään myös vaikutusten ennakkoarviointi niiden esitysten osalta, joita ei ole arvioitu aiemmin tai joissa esitys on merkittävästi muuttunut. \n\nTyöskentely ja aikataulu \n\nProjektikokonaisuuden poliittisesta ohjauksesta vastaa aluehallitus. Projektin etenemisestä raportoidaan kuukausittain. Viranhaltijavalmistelun ohjauksesta vastaa hyvinvointialueen johtoryhmä. Projektin etenemisestä raportoidaan viikoittain lisäksi sosiaali- ja terveyspalveluiden johtoryhmässä sekä erityisesti sosiaali- ja terveyspalveluiden eri vastuualueiden johtoryhmissä. Valmistelukokonaisuuksille perustetaan tarpeen mukaan myös pienempiä projektiryhmiä.\n\nHyvinvointialuestrategian päivittämisestä ja palvelustrategian laatimisen projekteista vastaa strategiajohtaja ja palveluverkkotyöstä sosiaali- ja terveyspalveluiden toimialajohtaja. Projektikokonaisuus toteutetaan hyvinvointialueen omilla resursseilla.\n\nHyvinvointialueen strategian, palvelustrategian ja sosiaali- ja terveyspalveluiden palveluverkkotyön toisen vaiheen viranhaltijaesitys tehdään samaan aikaan Hyvinvointialuejohtajan talousarvioesityksen kanssa, 8.10.2025 ja kokonaisuus on tarkoitus olla aluevaltuuston päätöksenteossa 9.12.2025."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 16 §\n\nLaki hyvinvointialueesta 43 §"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja Tollet Jan"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää\n\n1) käynnistää hyvinvointialuestrategian päivittämisen\n\n2) käynnistää sosiaali- ja terveyspalveluita koskevan palvelustrategian laatimisen sekä\n\n3) käynnistää sosiaali- ja terveydenhuollon palveluverkkotyön toisen vaiheen edellä kuvatuilla periaatteilla."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Valmistelutyön käynnistämissuunnitelma 24.6.2025",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-7-58912.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "208",
+   "title": "Talousarvion 2026 ja toiminta- ja taloussuunnitelman 2027–2030 laadintaohje",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025241-8",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-8.PDF",
+   "diary_number": "1161/02.00.00/2025",
+   "preparer": "talousjohtaja Aija Suntioinen; taloussuunnittelupäällikkö Tiina Högnabba",
+   "presenter": "Hyvinvointialuejohtaja Tollet Jan",
+   "proposal": "Aluehallitus päättää:\n\n1) hyväksyä liitteenä olevan talousarvion 2026 ja toiminta- ja taloussuunnitelman 2027–2030 laadintaohjeen ja suunnittelukehyksen valmistelua ohjaaviksi periaatteiksi;\n\n2) hyväksyä, että taseeseen kertynyttä alijäämää ei suunnitella katettavaksi hyvinvointialuelain 115 §:n 2 momentin edellyttämällä tavalla viimeistään vuonna 2026, koska alijäämien kattaminen lain vaatimassa aikataulussa edellyttäisi sellaisia talouden sopeuttamistoimenpiteitä, jotka vaarantaisivat riittävien sosiaali- ja terveyspalveluiden sekä pelastustoimen palveluiden järjestämisen;\n\n3) asettaa tavoitteeksi, että\n\n- taseeseen kertynyt alijäämä katetaan viimeistään vuonna 2030;\n\n- uutta alijäämää ei kerry vuosina 2026–2030;\n\n4) valtuuttaa hyvinvointialuejohtajan käynnistämään prosessin vuoden 2026 lainanottovaltuuden muuttamiseksi;\n\n5) että talousarvion valmistelun yhteydessä laaditaan suunnitelma mahdollisesta rahoituslain 11 §:n mukaisesta lisärahoituksen hakemisesta vuodelle 2026.\n\nAsian kokouskäsittely:\n\nHyvinvointialuejohtaja teki kokouksessa seuraavan muutoksen päätösehdotuksensa kohtaan 2:\n\n”2) Aluehallitus päättää hyväksyä, että taseeseen kertynyttä alijäämää ei suunnitella katettavaksi hyvinvointialuelain 115 §:n 2 momentin edellyttämällä tavalla viimeistään vuonna 2026, koska alijäämien kattaminen lain vaatimassa aikataulussa edellyttäisi sellaisia talouden sopeuttamistoimenpiteitä, jotka vaarantaisivat riittävien ja lakisääteisten sosiaali- ja terveyspalveluiden sekä pelastustoimen palveluiden järjestämisen.”",
+   "decision": "Muutettu päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "talousjohtaja Aija Suntioinen\n\ntaloussuunnittelupäällikkö Tiina Högnabba"
+    },
+    {
+     "heading": "Selostus asiasta",
+     "text": "Hyvinvointialueen hallintosäännön 72 §:n mukaan aluehallitus hyväksyy suunnittelukehykset sekä talousarvion ja taloussuunnitelman laadintaohjeet.\n\nKeski-Suomen hyvinvointialueen talousarvion 2026 ja toiminta- ja taloussuunnitelman 2027–2030 valmistelu on käynnistynyt. Suunnitelma sisältää talouden tasapainottamisohjelman. Aluehallituksessa on käyty evästyskeskustelua talousarvion valmisteluprosessista ja valmistelun periaatteista iltakouluissa 27.5.2025 sekä 17.6.2025. Taloussuunnitelmavuosien ja talouden tasapainottamisohjelman valmistelua ohjaavat periaatteet on koottu liitteenä olevaan vuosien 2026–2030 talous- ja toimintasuunnitelman laadintaohjeeseen.\n\nVuoden 2026 talousarviovalmistelun pohjana käytetään valtiovarainministeriön huhtikuussa 2025 julkaisemaa ennakollista rahoituslaskelmaa vuoden 2026 yleiskatteisesta valtion rahoituksesta sekä painelaskelmaa vuosille 2026–2029. Suunnittelukehystä ohjaa talouden tasapainottamisvaade sekä alijäämien kattamisvelvoite.\n\nKeski-Suomen hyvinvointialueen talousarvio ja taloussuunnitelma laaditaan ajalle 2026–2030. Taloussuunnitelma laaditaan siten, että hyvinvointialueen kumulatiivinen alijäämä tulee katettua suunnitelmakauden lopussa eli vuoden 2030 aikana. Tällä varmistetaan, ettei alijäämien kattaminen vaaranna riittävien sosiaali- terveyspalveluiden sekä pelastustoimen palveluiden järjestämistä. Aikataulu poikkeaa hyvinvointialuelain 115 §:n vaatimuksesta kattaa taseeseen kertynyt alijäämä enintään kahden vuoden kuluessa tilinpäätöksen vahvistamista seuraavan vuoden alusta lukien. Keski-Suomen hyvinvointialueen taloussuunnitelmassa on huomioitava vuosina 2023 ja 2024 kertyneen alijäämän kattaminen 255 miljoonaa euroa. Sen lisäksi on huomioitava talousarviovuodelle 2025 suunniteltu 43 miljoonan euron alijäämä.\n\nValtioneuvosto on päättänyt vuoden 2026 lainanottovaltuudesta 8.5.2025. Keski-Suomen hyvinvointialueen lainanottovaltuuden määrä vuodelle 2026 on päätöksen mukaisesti nolla euroa, joten esitettyjen investointien rahoitus on osoitettava tulorahoituksesta tai muista rahoituseristä. Välttämättömien investointien rahoituksen turvaamiseksi on käynnistettävä lainanottovaltuuden muutosprosessi hyvinvointialuelain 15 §:n mukaisesti.\n\nRahoituslaskelmia ja arviota Keski-Suomen hyvinvointialueen rahoituksesta vuonna 2026 kuvataan tarkemmin liitteenä olevassa laadintaohjeessa. Laadintaohjeessa on kuvattu myös muita talousarvion ja toiminta- ja taloussuunnitelmavuosien valmistelua ohjaavia tekijöitä sekä valmisteluprosessin teknistä toteutusta."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja Tollet Jan"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\n1) hyväksyä liitteenä olevan talousarvion 2026 ja toiminta- ja taloussuunnitelman 2027–2030 laadintaohjeen ja suunnittelukehyksen valmistelua ohjaaviksi periaatteiksi;\n\n2) hyväksyä, että taseeseen kertynyttä alijäämää ei suunnitella katettavaksi hyvinvointialuelain 115 §:n 2 momentin edellyttämällä tavalla viimeistään vuonna 2026, koska alijäämien kattaminen lain vaatimassa aikataulussa edellyttäisi sellaisia talouden sopeuttamistoimenpiteitä, jotka vaarantaisivat riittävien sosiaali- ja terveyspalveluiden sekä pelastustoimen palveluiden järjestämisen;\n\n3) asettaa tavoitteeksi, että\n\n- taseeseen kertynyt alijäämä katetaan viimeistään vuonna 2030;\n\n- uutta alijäämää ei kerry vuosina 2026–2030;\n\n4) valtuuttaa hyvinvointialuejohtajan käynnistämään prosessin vuoden 2026 lainanottovaltuuden muuttamiseksi;\n\n5) että talousarvion valmistelun yhteydessä laaditaan suunnitelma mahdollisesta rahoituslain 11 §:n mukaisesta lisärahoituksen hakemisesta vuodelle 2026.\n\nAsian kokouskäsittely:\n\nHyvinvointialuejohtaja teki kokouksessa seuraavan muutoksen päätösehdotuksensa kohtaan 2:\n\n”2) Aluehallitus päättää hyväksyä, että taseeseen kertynyttä alijäämää ei suunnitella katettavaksi hyvinvointialuelain 115 §:n 2 momentin edellyttämällä tavalla viimeistään vuonna 2026, koska alijäämien kattaminen lain vaatimassa aikataulussa edellyttäisi sellaisia talouden sopeuttamistoimenpiteitä, jotka vaarantaisivat riittävien ja lakisääteisten sosiaali- ja terveyspalveluiden sekä pelastustoimen palveluiden järjestämisen.”"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Muutettu päätösehdotus hyväksyttiin."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Talousarvio 2026 ja -suunnitelma 2027-2030 laadintaohje 24.6.2025",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-8-58648.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "209",
+   "title": "Valtiovarainministeriön päätös Keski-Suomen hyvinvointialueen vuoden 2025 valtion rahoituksen oikaisuvaatimuksesta VN/34112/2024",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025241-9",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-9.PDF",
+   "diary_number": "3004/02.01.01.02/2024",
+   "preparer": "talousjohtaja Aija Suntioinen",
+   "presenter": "Hyvinvointialuejohtaja Tollet Jan",
+   "proposal": "Aluehallitus päättää\n\n1) että Keski-Suomen hyvinvointialue hakee muutosta valtiovarainministeriön 5.6.2025 tekemään päätökseen Hämeenlinnan hallinto-oikeudelta sekä\n\n2) valtuuttaa hyvinvointialuejohtajan laatimaan kirjallisen valituksen ja toimittamaan sen Hämeenlinnan hallinto-oikeuteen.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "talousjohtaja Aija Suntioinen"
+    },
+    {
+     "heading": "Selostus asiasta",
+     "text": "Valtiovarainministeriö on 5.6.2025 tehnyt päätöksen (VN/34112/2024) Keski-Suomen hyvinvointialueen vuoden 2025 valtion rahoituksen oikaisuvaatimuksesta.\n\nPäätöksen mukaan Keski-Suomen hyvinvointialueen oikaisuvaatimus valtiovarainministeriön päätöksestä 20.12.2024 (VN/34112/2024) hyvinvointialueille maksettavasta vuoden 2025 rahoituksesta hylätään, koska päätös on tehty hyvinvointialueiden rahoituksesta annetun lain (617/2021) mukaisesti.\n\nPäätöksen valitusosoituksen mukaan päätökseen saa hakea muutosta Hämeenlinnan hallinto-oikeudelta kirjallisella valituksella. Valitus on tehtävä 30 päivän kuluessa päätöksen tiedoksisaannista."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja Tollet Jan"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää\n\n1) että Keski-Suomen hyvinvointialue hakee muutosta valtiovarainministeriön 5.6.2025 tekemään päätökseen Hämeenlinnan hallinto-oikeudelta sekä\n\n2) valtuuttaa hyvinvointialuejohtajan laatimaan kirjallisen valituksen ja toimittamaan sen Hämeenlinnan hallinto-oikeuteen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Valtiovarainministeriön päätös Keski-Suomen hyvinvointialueen oikaisuvaatimukseen hyvinvointialueiden vuoden 2025 rahoituksesta annetusta päätöksestä, VN/34112/2024, 5.6.2025",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-9-58697.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "210",
+   "title": "Valtiovarainministeriön päätös Keski-Suomen hyvinvointialueen arviointimenettelyn käynnistämisestä VN/19137/2025",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025241-10",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-10.PDF",
+   "diary_number": "1156/00.04.00/2025",
+   "preparer": "talousjohtaja Aija Suntioinen",
+   "presenter": "Hyvinvointialuejohtaja Tollet Jan",
+   "proposal": "Aluehallitus\n\n1) merkitsee tiedoksi valtiovarainministeriön päätöksen arviointimenettelyn käynnistämisestä;\n\n2) nimeää Keski-Suomen hyvinvointialueen edustajaksi arviointiryhmään hyvinvointialuejohtajan sekä\n\n3) hyväksyy osaltaan, että arviointiryhmän puheenjohtajaksi valitaan LT Jaakko Herrala.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "talousjohtaja Aija Suntioinen"
+    },
+    {
+     "heading": "Selostus asiasta",
+     "text": "Valtiovarainministeriö on 17.6.2025 tehnyt päätöksen Keski-Suomen hyvinvointialueen arviointimenettelyn käynnistämisestä (VN/19137/2025).\n\nValtiovarainministeriö on käynnistänyt arviointimenettelyn hyvinvointialuelaissa säädetyin taloudellisin perustein. Keski-Suomen hyvinvointialueella täyttyvät vuoden 2024 tilinpäätösten perusteella hyvinvointialuelain 123 §:ssä säädetyt menettelyn käynnistämisen edellytykset vuosikatteen ja poistojen suhteeseen sekä laskennalliseen lainanhoitokatteeseen liittyen. Lisäksi hyvinvointialueelle on myönnetty hyvinvointialuelain tarkoittama lainanottovaltuuden korotus vuodelle 2024 ja 2025.\n\nArviointimenettelyn etenemisestä on säädetty hyvinvointialuelain 122 §:ssä. Arviointimenettelyä varten valtiovarainministeriö asettaa arviointiryhmän, johon nimetään jäsenet hyvinvointialueelta, valtiovarainministeriöstä, sosiaali- ja terveysministeriöstä ja sisäministeriöstä. Valtiovarainministeriö nimeää hyvinvointialuetta kuultuaan ryhmän puheenjohtajaksi hyvinvointialueesta ja ministeriöistä riippumattoman henkilön. Arviointiryhmä tekee ehdotuksen hyvinvointialueen talouden tervehdyttämiseksi sekä sosiaali- ja terveyspalvelujen ja pelastustoimen palvelujen järjestämisen edellytysten turvaamiseksi tarvittavista toimista. Arviointiryhmä nimetään elokuun lopulla 2025 ja se aloittaa työnsä syyskuun 2025 aikana. Tavoitteena on, että arviointiryhmien työ saadaan päätökseen kesän 2026 alussa.\n\nAluevaltuuston on käsiteltävä arviointiryhmän toimenpide-ehdotukset ja saatettava niitä koskeva päätös valtiovarainministeriön tietoon mahdollisia jatkotoimenpiteitä varten. Talousarvio ja -suunnitelma on laadittava siten, että ne toteuttavat aluevaltuuston päätöksiä toimenpiteistä. Toimenpiteistä raportoidaan neljännesvuosittain osavuosikatsausten ja tilinpäätöksen yhteydessä sekä hyvinvointialuelain 13 a §:ssä tarkoitetussa hyvinvointialueneuvottelussa. Toimintakertomuksessa on esitettävä selvitys toimenpiteiden toteutumisesta ja riittävyydestä tilikaudella. Hyvinvointialueen on saatettava selvitys valtiovarainministeriön tietoon tilikautta seuraavan vuoden kesäkuun loppuun mennessä.\n\nArviointiryhmän tulee ottaa työssään kantaa aluejakoselvityksen käynnistämiseen. Mahdollinen aluejakoselvitys on arviointimenettelystä erillinen prosessi, jonka käynnistämisestä valtiovarainministeriö päättää tarvittaessa erikseen arviointiryhmän työn päätyttyä.\n\nArviointimenettelyn käynnistäminen rajoittaa hyvinvointialueen päätösvaltaa. Hyvinvointialuelain 124 §:n mukaan hyvinvointialue ei voi arviointimenettelyn aikana tehdä päätöstä, jolla olisi merkittäviä, pitkäaikaisia vaikutuksia hyvinvointialueen talouteen tai joka olisi arviointiryhmän toimenpide-ehdotusten vastainen. Tällaisia päätöksiä voi tehdä vain, jos päätöstä ei välttämättömistä syistä ja asian kiireellisyyden vuoksi voida lykätä. Rajoitusten tarkoituksena on estää alueen taloudellisen tilanteen heikentyminen arviointiryhmän työn aikana ja varmistaa, että arviointiryhmän toimenpide-ehdotuksia noudatetaan koko toimenpideohjelman ajan.\n\nValtiovarainministeriö on pyytänyt hyvinvointialuetta nimeämään jäsenen arviointiryhmään ja antamaan lausunnon ehdotuksesta ryhmän puheenjohtajaksi. Valtiovarainministeriö esittää arviointiryhmän puheenjohtajaksi LT Jaakko Herralaa."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja Tollet Jan"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus\n\n1) merkitsee tiedoksi valtiovarainministeriön päätöksen arviointimenettelyn käynnistämisestä;\n\n2) nimeää Keski-Suomen hyvinvointialueen edustajaksi arviointiryhmään hyvinvointialuejohtajan sekä\n\n3) hyväksyy osaltaan, että arviointiryhmän puheenjohtajaksi valitaan LT Jaakko Herrala."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Valtiovarainministeriön päätös Keski-Suomen hyvinvointialueen arviointimenettelyn käynnistämisestä, VN/19137/2025-VM-1, 17.6.2025",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-10-58689.PDF"
+    },
+    {
+     "title": "Jäsenen nimeäminen Keski-Suomen hyvinvointialueen arviointiryhmään ja lausunto arviointiryhmän puheenjohtajan nimeämisestä, VN/19137/2025-VM-2, 17.6.2025",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-10-58690.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "211",
+   "title": "Lausunto ja selvitys koskien kantelua Länsi- ja Sisä-Suomen aluehallintovirastolle asiassa LSSAVI/10725/2025",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025241-11",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-11.PDF",
+   "diary_number": "1045/03.03/2025",
+   "preparer": "vs. toimialajohtaja, sosiaali- ja terveyspalvelut Tuija Koivisto; toimialajohtaja, konsernipalvelut Lasse Leppä",
+   "presenter": "Hyvinvointialuejohtaja Tollet Jan",
+   "proposal": "Aluehallitus päättää antaa asiassa liitteen mukaisen lausunnon ja selvityksen Länsi- ja Sisä-Suomen aluehallintovirastolle.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "vs. toimialajohtaja, sosiaali- ja terveyspalvelut Tuija Koivisto\n\n\n\ntoimialajohtaja, konsernipalvelut Lasse Leppä"
+    },
+    {
+     "heading": "Selostus asiasta",
+     "text": "Länsi- ja Sisä-Suomen aluehallintovirasto on pyytänyt 30.5.2025 Keski-Suomen hyvinvointialueen aluehallitukselta lausuntoa ja selvitystä koskien kantelua Keski-Suomen hyvinvointialueen päätöksestä Joutsan ja Luhangan yhteisen terveysaseman sulkemisesta ajaksi 23.6.-27.7.2025. Kantelun mukaan Keski-Suomen hyvinvointialue aikoo sulkea juhannuksesta alkaen 5-6 viikoksi 30 terveysasemaa eikä asiasta löydy päätöstä hyvinvointialueen päättävien toimielinten tai viranhaltijoiden päätöksistä.\n\nAluehallintovirasto pyytää aluehallitusta antamaan oman lausuntonsa menettelyn laillisuudesta. Selvitystä pyydetään erityisesti seuraavista:\n\n- Onko hyvinvointialueen hallintosäännössä määrätty päätöksentekomenettelystä ja päätöksentekijästä kantelussa tarkoitetussa asiassa?\n\n- Onko asiasta hyvinvointialueella hallintosäännön lisäksi muuta ohjausta?\n\n- Onko asiassa toimittu hyvinvointialueesta annetun lain ja muiden lakien sekä hyvinvointialueen hallintosäännön mukaisesti?\n\n- Mitä terveysasemien kesäsulusta on tosiasiassa päätetty ja mikä taho asiasta on päättänyt?\n\n- Onko asia annettu tiedoksi aluehallitukselle asianmukaisesti?\n\nSelvitykseen pyydetään liittämään jäljennökset kaikista asiaan liittyvistä asikirjoista elleivät ne jo ole kantelun liitteenä. Lausunto ja selvitys pyydetään toimittamaan 31.7.2025 mennessä.\n\nPäätöksen liitteenä on luonnos aluehallituksen lausunnoksi ja selvitykseksi pyydetyssä asiassa. Lausunnon ohessa aluehallintovirastolle toimitetaan liitteessä mainitut asiakirjat."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja Tollet Jan"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää antaa asiassa liitteen mukaisen lausunnon ja selvityksen Länsi- ja Sisä-Suomen aluehallintovirastolle."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Lausunto koskien lausunto- ja selvityspyyntöä LSSAVI/10725/2025",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-11-57974.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "212",
+   "title": "Aluehallituksen edustajien valinta Keski-Suomen hyvinvointialueen muihin toimielimiin toimikaudeksi 2025-2027",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025241-12",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-12.PDF",
+   "diary_number": "1160/00.00.01/2025",
+   "preparer": "hallintopalvelupäällikkö Ella Kauppinen",
+   "presenter": "Hyvinvointialuejohtaja Tollet Jan",
+   "proposal": "Aluehallitus päättää valita edustajansa seuraaviin toimielimiin toimikaudeksi 2025-2027:\n\n1) hyvinvoinnin ja terveyden lautakuntaan\n\n2) turvallisuuslautakuntaan\n\n3) vammaisneuvostoon\n\n4) vanhusneuvostoon\n\n5) nuorisovaltuustoon\n\nLisäksi aluehallitus päättää, ettei se nimeä edustajaa alaisiinsa jaostoihin.",
+   "decision": "Aluehallitus päätti valita edustajansa seuraaviin toimielimiin toimikaudeksi 2025-2027 seuraavasti:\n\n1) hyvinvoinnin ja terveyden lautakuntaan Elma Hyökyn\n\n2) turvallisuuslautakuntaan Irma Hirsjärven\n\n3) vammaisneuvostoon Marika Visakorpi-Kemppaisen\n\n4) vanhusneuvostoon Jouko Nykäsen\n\n5) nuorisovaltuustoon Tuula Peltosen\n\nLisäksi aluehallitus päätti, ettei se nimeä edustajaa alaisiinsa jaostoihin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "hallintopalvelupäällikkö Ella Kauppinen"
+    },
+    {
+     "heading": "Selostus asiasta",
+     "text": "Yleistä\n\nKesk-Suomen hyvinvointialueen hallintosäännön 156 §:n mukaan aluehallitus voi määrätä muihin toimielimiin edustajansa, jolla on läsnäolo- ja puheoikeus toimielimen kokouksessa. Edustajaksi voidaan määrätä myös aluehallituksen varajäsen tai hyvinvointialuejohtaja.\n\nAluehallitus ei voi määrätä edustajaansa tarkastuslautakuntaan, aluevaltuuston tilapäiseen valiokuntaan eikä vaalilaissa säädettyihin vaalitoimielimiin. Aluehallitus ei ole myöskään aikaisemmin nimennyt edustajaa sen alaisiin jaostoihin.\n\nHallintosäännön 155 §:n mukaan aluehallituksen puheenjohtajalla ja hyvinvointialuejohtajalla on läsnäolo- ja puheoikeus muiden toimielinten kokouksissa, ei kuitenkaan tarkastuslautakunnan eikä aluevaltuuston tilapäisen valiokunnan kokouksessa eikä vaalilaissa säädettyjen vaalitoimielinten kokouksissa. Lisäksi aluehallituksen kokouksessa läsnäolo- ja puheoikeus on aluevaltuuston puheenjohtajalla ja varapuheenjohtajilla.Muilta osin toimielin päättää muiden henkilöiden läsnäolo- ja puheoikeudesta kokouksissaan.\n\nEdustajille maksetaan kokoukseen osallistumisesta kyseisen toimielimen jäsenen kokouspalkkio hallintosäännön 177 ja 181 §:n mukaisesti.\n\nVaikutusten ennakkoarviointi\n\nVaikutusten ennakkoarviointia ei ole tarpeen tehdä, koska kyseessä on henkilövalinta."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 156 §"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja Tollet Jan"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää valita edustajansa seuraaviin toimielimiin toimikaudeksi 2025-2027:\n\n1) hyvinvoinnin ja terveyden lautakuntaan\n\n2) turvallisuuslautakuntaan\n\n3) vammaisneuvostoon\n\n4) vanhusneuvostoon\n\n5) nuorisovaltuustoon\n\nLisäksi aluehallitus päättää, ettei se nimeä edustajaa alaisiinsa jaostoihin."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti valita edustajansa seuraaviin toimielimiin toimikaudeksi 2025-2027 seuraavasti:\n\n1) hyvinvoinnin ja terveyden lautakuntaan Elma Hyökyn\n\n2) turvallisuuslautakuntaan Irma Hirsjärven\n\n3) vammaisneuvostoon Marika Visakorpi-Kemppaisen\n\n4) vanhusneuvostoon Jouko Nykäsen\n\n5) nuorisovaltuustoon Tuula Peltosen\n\nLisäksi aluehallitus päätti, ettei se nimeä edustajaa alaisiinsa jaostoihin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "213",
+   "title": "Aluehallituksen kokoukset kesä- ja syyskaudella 2025",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025241-13",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-13.PDF",
+   "diary_number": "2317/00.02.01/2024",
+   "preparer": "lakiasiainjohtaja Johanna Aalto; hallintopalvelupäällikkö Ella Kauppinen",
+   "presenter": "Hyvinvointialuejohtaja Tollet Jan",
+   "proposal": "Aluehallitus hyväksyy aluehallituksen syyskaudella 2025 seminaari- ja kokouspäivämääriksi seuraavat ajankohdat:\n\n- tiistai 12.8.2025 klo 12\n\n- tiistai 26.8.2025 klo 14\n\n- tiistai 2.9.2025 klo 13\n\n- tiistai 16.9.2025 klo 13\n\n- tiistai 7.10.2025 klo 13\n\n- tiistai 28.10.2025 klo 13\n\n- tiistai 11.11.2025 klo 13\n\n- tiistai 25.11.2025 klo 9 ja keskiviikko 26.11.2025 klo 9 (talousarvioseminaari ja kokous)\n\n- tiistai 2.12.2025 klo 13\n\n- tiistai 16.12.2025 klo 13\n\nSeminaarin ja kokouksen paikka ilmoitetaan kokouskutsussa.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 17.06.2025 § 197"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "lakiasiainjohtaja Johanna Aalto\n\nhallintopalvelupäällikkö Ella Kauppinen"
+    },
+    {
+     "heading": "Selostus asiasta",
+     "text": "Keski-Suomen hyvinvointialueen hallintosäännön 149 §:n mukaan toimielin päättää kokoustensa ajan ja paikan. Kokous pidetään myös, mikäli puheenjohtaja katsoo kokouksen tarpeelliseksi tai enemmistö toimielimen jäsenistä tekee puheenjohtajalle esityksen kokouksen pitämisestä ilmoittamansa asian käsittelyä varten. Tällöin puheenjohtaja määrää kokousajan. Puheenjohtaja voi perustellusta syystä myös peruuttaa kokouksen.\n\nAluehallituksen seminaari- ja kokouspäivä on ollut perinteisesti tiistai klo 14 alkaen ja aluehallitus on kokoontunut pääsääntöisesti Viitaniemen valtuustosalissa (Viitaniementie 1A, 40720 Jyväskylä) sekä etäyhteydellä. Kokouksen alkamisaikaa esitetään muutettavaksi klo 12. Poikkeavista aikatauluista ilmoitetaan erikseen.\n\nLisäksi on noussut tarve pitää kokous myös tiistaina 24.6.2025.\n\nVaikutusten ennakkoarviointi\n\nVaikutusten ennakkoarviointia ei ole tarpeen tehdä, koska kyseessä on hallinnon sisäinen järjestely."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 149 §"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja Tollet Jan"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus hyväksyy aluehallituksen kesä- ja syyskaudella 2025 seminaari- ja kokouspäivämääriksi seuraavat ajankohdat:\n\n- tiistai 24.6.2025 klo 14\n\n- tiistai 12.8.2025 klo 12\n\n- tiistai 26.8.2025 klo 12\n\n- tiistai 2.9.2025 klo 12\n\n- tiistai 16.9.2025 klo 12\n\n- tiistai 7.10.2025 klo 12\n\n- tiistai 28.10.2025 klo 12\n\n- tiistai 11.11.2025 klo 12\n\n- tiistai 25.11.2025 klo 12 ja keskiviikko 26.11.2025 klo 12 (talousarvioseminaari ja kokous)\n\n- tiistai 2.12.2025 klo 12\n\n- tiistai 16.12.2025 klo 12\n\nSeminaarin ja kokouksen paikka ilmoitetaan kokouskutsussa.\n\nAsian kokouskäsittely:\n\nHyvinvointialuejohtaja teki kokouksessa seuraavan muutetun päätösehdotuksen:\n\n”Aluehallitus päättää aluehallituksen kokouspäivämääräksi tiistain 24.6.2025 klo 14. Muilta osin aluehallitus palauttaa asian valmisteluun.”"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Muutettu päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Selostus asiasta",
+     "text": "Aluehallituksen kokousaikatauluun toivottiin muutosta kokouksen aloitusajan suhteen. Päätösehdotusta on päivitetty niin, että kokoukset esitetään alkavan syyskaudella 2025 pääsääntöisesti klo 13."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja Tollet Jan"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus hyväksyy aluehallituksen syyskaudella 2025 seminaari- ja kokouspäivämääriksi seuraavat ajankohdat:\n\n- tiistai 12.8.2025 klo 12\n\n- tiistai 26.8.2025 klo 14\n\n- tiistai 2.9.2025 klo 13\n\n- tiistai 16.9.2025 klo 13\n\n- tiistai 7.10.2025 klo 13\n\n- tiistai 28.10.2025 klo 13\n\n- tiistai 11.11.2025 klo 13\n\n- tiistai 25.11.2025 klo 9 ja keskiviikko 26.11.2025 klo 9 (talousarvioseminaari ja kokous)\n\n- tiistai 2.12.2025 klo 13\n\n- tiistai 16.12.2025 klo 13\n\nSeminaarin ja kokouksen paikka ilmoitetaan kokouskutsussa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "214",
+   "title": "Valtuustoaloite perusoikeudet ja työrauha kuuluvat kaikille",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025241-14",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-14.PDF",
+   "diary_number": "1108/00.05.01/2025",
+   "preparer": "hallinnon asiantuntija Ella Sofia Aniranta",
+   "presenter": "Hyvinvointialuejohtaja Tollet Jan",
+   "proposal": "Aluehallitus antaa valtuustoaloitteen edelleen ikääntyneiden ja vammaisten vastuualuejohtaja Tuija Koiviston, HR-johtaja Eija-Liisa Heikkilän ja ikääntyneiden koti- ja asumispalveluiden palvelujohtaja Maarit Raappanan valmisteltavaksi.",
+   "decision": "Päätösehdotus hyväksyttiin.\n\nTauko ajalla 17.02-17.06.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "hallinnon asiantuntija Ella Sofia Aniranta"
+    },
+    {
+     "heading": "Selostus asiasta",
+     "text": "Yleistä\n\nAluevaltuuston 10.6.2025 kokouksessa jätettiin liitteenä oleva valtuustoaloite perusoikeudet ja työrauha kuuluvat kaikille (Sirpa Martins ja allekirjoittaneet).\n\nAluevaltuusto lähetti valtuustoaloitteen aluehallituksen valmisteltavaksi."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "hallintosääntö 143 §"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja Tollet Jan"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus antaa valtuustoaloitteen edelleen ikääntyneiden ja vammaisten vastuualuejohtaja Tuija Koiviston, HR-johtaja Eija-Liisa Heikkilän ja ikääntyneiden koti- ja asumispalveluiden palvelujohtaja Maarit Raappanan valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin.\n\nTauko ajalla 17.02-17.06."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Valtuustoaloite 10.6.2025 / Perusoikeudet ja työrauha kuuluvat kaikille",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-14-57558.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "215",
+   "title": "Hyvinvointialuejohtajan tilannekatsaus",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025241-15",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-15.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Hyvinvointialuejohtaja Tollet Jan",
+   "proposal": "Merkitään tilannekatsaus tiedoksi.\n\nAsian kokouskäsittely:\n\nJouni Flyktman poistui kokouksesta klo 17.24 ja Irma Hirsjärvi klo 17.52 tämän pykälän käsittelyn aikana.\n\nPöytäkirjantarkastajana tästä pykälästä lähtien toimi Elma Hyöky.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "1) Yhteenveto hyvinvointialueneuvottelukunnan kokouksesta (sisältää VM:n katsauksen hyvinvointialueiden talouteen 2025)\n\n2) YT-neuvottelujen tilannekatsaus – päivitys"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja Tollet Jan"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Merkitään tilannekatsaus tiedoksi.\n\nAsian kokouskäsittely:\n\nJouni Flyktman poistui kokouksesta klo 17.24 ja Irma Hirsjärvi klo 17.52 tämän pykälän käsittelyn aikana.\n\nPöytäkirjantarkastajana tästä pykälästä lähtien toimi Elma Hyöky."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "216",
+   "title": "Ajankohtaiset yhtiöasiat",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025241-16",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-16.PDF",
+   "diary_number": "2908/00.01.00.02/2024",
+   "preparer": "hallintosihteeri Henna Karttunen",
+   "presenter": "Hyvinvointialuejohtaja Tollet Jan",
+   "proposal": "Aluehallitus\n\n1) merkitsee tiedoksi saapuneen osakaskokouskutsun ja\n\n2) antaa kokousedustajalle tarvittavan evästyksen kokoukseen.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "hallintosihteeri Henna Karttunen"
+    },
+    {
+     "heading": "Selostus asiasta",
+     "text": "Hyvinvointialueyhtiö Hyvil Oy:n osakaskokous 11.8.2025\n\nHyvinvointialueyhtiö Hyvil Oy on toimittanut Keski-Suomen hyvinvointialueelle kutsun osakaskokoukseen 11.8.2025. Kokous kutsutaan koolle poikkeuksellisesti aluevaalien jälkeen jaettavien kansallisten luottamustoimipaikkojen jakoa varten hyvinvointialueiden edustuksen osalta. Päätösesitys perustuu puolueiden kunnallissihteerikoalition valmistelemaan ja sopimaan ehdokaslistaukseen.\n\nYhtiön kokouksissa (ml. osakaskokoukset) on toiminut edustajana konsernipalveluiden toimialajohtaja Lasse Leppä."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 40 §"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja Tollet Jan"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus\n\n1) merkitsee tiedoksi saapuneen osakaskokouskutsun ja\n\n2) antaa kokousedustajalle tarvittavan evästyksen kokoukseen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "217",
+   "title": "Ilmoitusasiat",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025241-17",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-17.PDF",
+   "diary_number": "2982/00.02.01/2024",
+   "preparer": null,
+   "presenter": "Hyvinvointialuejohtaja Tollet Jan",
+   "proposal": "Merkitään ilmoitusasiat tiedoksi.",
+   "decision": "Päätösehdotus hyväksyttiin.\n\nPuheenjohtaja päätti kokouksen klo 18.01.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Länsi- ja Sisä-Suomen aluehallintoviraston valvontapäätös 9.6.2025 (LSSAVI/25895/2024); Keski-Suomen hyvinvointialueen valvonta-asia/ikä-ihmisten ympärivuorokautisen palveluasumisen henkilöstömitoitus sekä omavalvonnan toteuttaminen\n\nTietojohtamisen palvelujohtajan viranhaltijapäätös 13.6.2025 § 7; Päätös hakea terveyden edistämisen määrärahaa järjestöjen tieto osaksi hyvinvointijohtamista -hankkeelle\n\nValtioneuvoston katsaus 12.6.2025; Hyvinvointialueiden tilanne 2-/2025"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja Tollet Jan"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Merkitään ilmoitusasiat tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin.\n\nPuheenjohtaja päätti kokouksen klo 18.01."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Valvontapäätös, Keski- Suomen hyvinvointialueen valvonta-asia/ ikäihmisten ympärivuorokautisen palveluasumisen henkilöstömitoitus sekä omavalvonnan toteuttaminen, LSSAVI/25895/2024, 9.6.2025",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-17-57217.PDF"
+    },
+    {
+     "title": "Päätös hakea terveyden edistämisen määrärahaa järjestöjen tieto osaksi hyvinvointijohtamista -hankkeelle",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-17-56165.PDF"
+    },
+    {
+     "title": "Hyvinvointialueiden ajankohtainen tilanne 2-2025, 12.6.2025",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2025241-17-58815.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Aula Maria Kaisa",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Ahola Lotta",
+   "role": "1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Rantanen Riikka",
+   "role": "2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Flyktman Jouni",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Haaparanta Jukka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hirsjärvi Irma",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hyöky Elma",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Mikkonen Ilkka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Nykänen Jouko",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Peltonen Tuula",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Vanhala Mauno",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Visakorpi-Kemppainen Marika",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hovila Sari",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Melville Tony",
+   "role": "aluevaltuuston puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Ylälehto Jani",
+   "role": "aluevaltuuston 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Tiainen Eila",
+   "role": "aluevaltuuston 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Tollet Jan",
+   "role": "esittelijä, hyvinvointialuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kauppinen Ella",
+   "role": "pöytäkirjanpitäjä, hallintopalvelupäällikkö",
+   "group": "other"
+  },
+  {
+   "name": "Koivisto Tuija",
+   "role": "vs. toimialajohtaja, sosiaali- ja terveyspalvelut",
+   "group": "other"
+  },
+  {
+   "name": "Koponen Sanna-Riikka",
+   "role": "vs. viestintäjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Leppä Lasse",
+   "role": "toimialajohtaja, konsernipalvelut",
+   "group": "other"
+  },
+  {
+   "name": "Mensala Ville",
+   "role": "pelastusjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Suntioinen Aija",
+   "role": "talousjohtaja",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025241",
+  "fetched_at": "2026-10-14T17:25:09+00:00",
+  "content_hash": "9beb3cdb5eff3805",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T17:25:09+00:00"
+ }
+}

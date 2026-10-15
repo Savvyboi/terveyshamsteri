@@ -1,0 +1,835 @@
+[
+ {
+  "id": "etela-karjala",
+  "name": {
+   "fi": "Etelä-Karjalan hyvinvointialue",
+   "sv": "Södra Karelens välfärdsområde"
+  },
+  "short": {
+   "fi": "Etelä-Karjala",
+   "sv": "Södra Karelen"
+  },
+  "homepage": "https://ekhva.fi",
+  "enabled": false,
+  "platforms": [],
+  "sources": [],
+  "since": "2025-06-01",
+  "notes": {
+   "fi": "Pöytäkirjojen julkaisujärjestelmä selvittämättä."
+  },
+  "meetings": 0,
+  "status": null
+ },
+ {
+  "id": "etela-pohjanmaa",
+  "name": {
+   "fi": "Etelä-Pohjanmaan hyvinvointialue",
+   "sv": "Södra Österbottens välfärdsområde"
+  },
+  "short": {
+   "fi": "Etelä-Pohjanmaa",
+   "sv": "Södra Österbotten"
+  },
+  "homepage": "https://www.hyvaep.fi",
+  "enabled": false,
+  "platforms": [
+   "pdfsite"
+  ],
+  "sources": [
+   {
+    "platform": "pdfsite",
+    "url": "https://www.hyvaep.fi",
+    "valid_from": null,
+    "valid_to": null
+   }
+  ],
+  "since": "2025-06-01",
+  "notes": {
+   "fi": "Pöytäkirjat PDF-tiedostoina alueen omilla sivuilla; vaatii oman PDF-sovittimen."
+  },
+  "meetings": 0,
+  "status": null
+ },
+ {
+  "id": "etela-savo",
+  "name": {
+   "fi": "Etelä-Savon hyvinvointialue",
+   "sv": "Södra Savolax välfärdsområde"
+  },
+  "short": {
+   "fi": "Etelä-Savo",
+   "sv": "Södra Savolax"
+  },
+  "homepage": "https://etelasavonha.fi",
+  "enabled": true,
+  "platforms": [
+   "dynasty"
+  ],
+  "sources": [
+   {
+    "platform": "dynasty",
+    "url": "https://etela-savonhva.oncloudos.com",
+    "valid_from": null,
+    "valid_to": null
+   }
+  ],
+  "since": "2025-06-01",
+  "notes": {},
+  "meetings": 79,
+  "status": {
+   "region": "etela-savo",
+   "started_at": "2026-10-15T01:26:19+00:00",
+   "parser_version": "0.1.0",
+   "fetched": 13,
+   "changed": 0,
+   "unchanged": 66,
+   "removed": 0,
+   "errors": [],
+   "complete": true,
+   "result": "ok",
+   "requests": 150,
+   "finished_at": "2026-10-15T01:28:50+00:00",
+   "meetings_total": 79
+  }
+ },
+ {
+  "id": "ita-uusimaa",
+  "name": {
+   "fi": "Itä-Uudenmaan hyvinvointialue",
+   "sv": "Östra Nylands välfärdsområde"
+  },
+  "short": {
+   "fi": "Itä-Uusimaa",
+   "sv": "Östra Nyland"
+  },
+  "homepage": "https://itauusimaa.fi",
+  "enabled": true,
+  "platforms": [
+   "cloudnc"
+  ],
+  "sources": [
+   {
+    "platform": "cloudnc",
+    "url": "https://itauusimaa.cloudnc.fi",
+    "valid_from": null,
+    "valid_to": null
+   }
+  ],
+  "since": "2025-06-01",
+  "notes": {
+   "fi": "Kaksikielinen alue."
+  },
+  "meetings": 79,
+  "status": {
+   "region": "ita-uusimaa",
+   "started_at": "2026-10-15T01:26:21+00:00",
+   "parser_version": "0.1.0",
+   "fetched": 9,
+   "changed": 0,
+   "unchanged": 70,
+   "removed": 0,
+   "errors": [
+    "fetch_meeting https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_432026: HTTPError('404 Client Error: Not Found for url: https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_432026/Arviointisuunnitelman_ja_arviointivuoden(28442)')"
+   ],
+   "complete": true,
+   "result": "partial",
+   "requests": 123,
+   "finished_at": "2026-10-15T01:28:25+00:00",
+   "meetings_total": 79
+  }
+ },
+ {
+  "id": "kainuu",
+  "name": {
+   "fi": "Kainuun hyvinvointialue",
+   "sv": "Kajanalands välfärdsområde"
+  },
+  "short": {
+   "fi": "Kainuu",
+   "sv": "Kajanaland"
+  },
+  "homepage": "https://hyvinvointialue.kainuu.fi",
+  "enabled": true,
+  "platforms": [
+   "cloudnc"
+  ],
+  "sources": [
+   {
+    "platform": "cloudnc",
+    "url": "https://kainuunhyvinvointialue.cloudnc.fi",
+    "valid_from": null,
+    "valid_to": null
+   }
+  ],
+  "since": "2025-06-01",
+  "notes": {},
+  "meetings": 58,
+  "status": {
+   "region": "kainuu",
+   "started_at": "2026-10-15T01:26:14+00:00",
+   "parser_version": "0.1.0",
+   "fetched": 10,
+   "changed": 0,
+   "unchanged": 48,
+   "removed": 0,
+   "errors": [],
+   "complete": true,
+   "result": "ok",
+   "requests": 127,
+   "finished_at": "2026-10-15T01:28:22+00:00",
+   "meetings_total": 58
+  }
+ },
+ {
+  "id": "kanta-hame",
+  "name": {
+   "fi": "Kanta-Hämeen hyvinvointialue",
+   "sv": "Egentliga Tavastlands välfärdsområde"
+  },
+  "short": {
+   "fi": "Kanta-Häme",
+   "sv": "Egentliga Tavastland"
+  },
+  "homepage": "https://omahame.fi",
+  "enabled": true,
+  "platforms": [
+   "dynasty"
+  ],
+  "sources": [
+   {
+    "platform": "dynasty",
+    "url": "https://kantahameenhva.oncloudos.com",
+    "valid_from": null,
+    "valid_to": null
+   }
+  ],
+  "since": "2025-06-01",
+  "notes": {},
+  "meetings": 122,
+  "status": {
+   "region": "kanta-hame",
+   "started_at": "2026-10-15T01:26:15+00:00",
+   "parser_version": "0.1.0",
+   "fetched": 16,
+   "changed": 0,
+   "unchanged": 106,
+   "removed": 0,
+   "errors": [],
+   "complete": true,
+   "result": "ok",
+   "requests": 206,
+   "finished_at": "2026-10-15T01:29:41+00:00",
+   "meetings_total": 122
+  }
+ },
+ {
+  "id": "keski-pohjanmaa",
+  "name": {
+   "fi": "Keski-Pohjanmaan hyvinvointialue",
+   "sv": "Mellersta Österbottens välfärdsområde"
+  },
+  "short": {
+   "fi": "Keski-Pohjanmaa",
+   "sv": "Mellersta Österbotten"
+  },
+  "homepage": "https://soite.fi",
+  "enabled": true,
+  "platforms": [
+   "dynasty"
+  ],
+  "sources": [
+   {
+    "platform": "dynasty",
+    "url": "https://kpshp-hva.oncloudos.com",
+    "valid_from": null,
+    "valid_to": null
+   }
+  ],
+  "since": "2025-06-01",
+  "notes": {
+   "fi": "Soite."
+  },
+  "meetings": 120,
+  "status": {
+   "region": "keski-pohjanmaa",
+   "started_at": "2026-10-15T01:28:39+00:00",
+   "parser_version": "0.1.0",
+   "fetched": 25,
+   "changed": 0,
+   "unchanged": 95,
+   "removed": 0,
+   "errors": [],
+   "complete": true,
+   "result": "ok",
+   "requests": 314,
+   "finished_at": "2026-10-15T01:33:53+00:00",
+   "meetings_total": 120
+  }
+ },
+ {
+  "id": "keski-suomi",
+  "name": {
+   "fi": "Keski-Suomen hyvinvointialue",
+   "sv": "Mellersta Finlands välfärdsområde"
+  },
+  "short": {
+   "fi": "Keski-Suomi",
+   "sv": "Mellersta Finland"
+  },
+  "homepage": "https://www.hyvaks.fi",
+  "enabled": true,
+  "platforms": [
+   "dynasty"
+  ],
+  "sources": [
+   {
+    "platform": "dynasty",
+    "url": "https://hyvaks-d10julk.oncloudos.com",
+    "valid_from": null,
+    "valid_to": null
+   }
+  ],
+  "since": "2025-06-01",
+  "notes": {
+   "fi": "Pilottialue (Dynasty)."
+  },
+  "meetings": 108,
+  "status": {
+   "region": "keski-suomi",
+   "started_at": "2026-10-15T01:28:46+00:00",
+   "parser_version": "0.1.0",
+   "fetched": 17,
+   "changed": 0,
+   "unchanged": 91,
+   "removed": 0,
+   "errors": [],
+   "complete": true,
+   "result": "ok",
+   "requests": 242,
+   "finished_at": "2026-10-15T01:32:49+00:00",
+   "meetings_total": 108
+  }
+ },
+ {
+  "id": "keski-uusimaa",
+  "name": {
+   "fi": "Keski-Uudenmaan hyvinvointialue",
+   "sv": "Mellersta Nylands välfärdsområde"
+  },
+  "short": {
+   "fi": "Keski-Uusimaa",
+   "sv": "Mellersta Nyland"
+  },
+  "homepage": "https://www.keusote.fi",
+  "enabled": true,
+  "platforms": [
+   "cloudnc"
+  ],
+  "sources": [
+   {
+    "platform": "cloudnc",
+    "url": "https://keuh.cloudnc.fi",
+    "valid_from": null,
+    "valid_to": null
+   }
+  ],
+  "since": "2025-06-01",
+  "notes": {
+   "fi": "Keusote."
+  },
+  "meetings": 102,
+  "status": {
+   "region": "keski-uusimaa",
+   "started_at": "2026-10-15T01:29:08+00:00",
+   "parser_version": "0.1.0",
+   "fetched": 14,
+   "changed": 0,
+   "unchanged": 88,
+   "removed": 0,
+   "errors": [],
+   "complete": true,
+   "result": "ok",
+   "requests": 140,
+   "finished_at": "2026-10-15T01:31:29+00:00",
+   "meetings_total": 102
+  }
+ },
+ {
+  "id": "kymenlaakso",
+  "name": {
+   "fi": "Kymenlaakson hyvinvointialue",
+   "sv": "Kymmenedalens välfärdsområde"
+  },
+  "short": {
+   "fi": "Kymenlaakso",
+   "sv": "Kymmenedalen"
+  },
+  "homepage": "https://kymenhva.fi",
+  "enabled": false,
+  "platforms": [],
+  "sources": [],
+  "since": "2025-06-01",
+  "notes": {
+   "fi": "Pöytäkirjojen julkaisujärjestelmä selvittämättä."
+  },
+  "meetings": 0,
+  "status": null
+ },
+ {
+  "id": "lansi-uusimaa",
+  "name": {
+   "fi": "Länsi-Uudenmaan hyvinvointialue",
+   "sv": "Västra Nylands välfärdsområde"
+  },
+  "short": {
+   "fi": "Länsi-Uusimaa",
+   "sv": "Västra Nyland"
+  },
+  "homepage": "https://www.luvn.fi",
+  "enabled": true,
+  "platforms": [
+   "dynasty"
+  ],
+  "sources": [
+   {
+    "platform": "dynasty",
+    "url": "https://luhva-d10julk.oncloudos.com",
+    "valid_from": null,
+    "valid_to": null
+   }
+  ],
+  "since": "2025-06-01",
+  "notes": {
+   "fi": "Kaksikielinen alue."
+  },
+  "meetings": 169,
+  "status": {
+   "region": "lansi-uusimaa",
+   "started_at": "2026-10-15T01:29:55+00:00",
+   "parser_version": "0.1.0",
+   "fetched": 21,
+   "changed": 0,
+   "unchanged": 148,
+   "removed": 0,
+   "errors": [],
+   "complete": true,
+   "result": "ok",
+   "requests": 305,
+   "finished_at": "2026-10-15T01:35:00+00:00",
+   "meetings_total": 169
+  }
+ },
+ {
+  "id": "lappi",
+  "name": {
+   "fi": "Lapin hyvinvointialue",
+   "sv": "Lapplands välfärdsområde"
+  },
+  "short": {
+   "fi": "Lappi",
+   "sv": "Lappland"
+  },
+  "homepage": "https://lapha.fi",
+  "enabled": false,
+  "platforms": [
+   "tweb"
+  ],
+  "sources": [
+   {
+    "platform": "tweb",
+    "url": "https://lapinhva-julkaisu.triplancloud.fi",
+    "valid_from": "2026-01-01",
+    "valid_to": null
+   },
+   {
+    "platform": "tweb",
+    "url": "https://lapha-julkaisu.tweb.fi",
+    "valid_from": null,
+    "valid_to": "2025-12-31"
+   }
+  ],
+  "since": "2025-06-01",
+  "notes": {
+   "fi": "Ennen vuotta 2026 osoitteessa lapha-julkaisu.tweb.fi. Tweb estää robotit (robots.txt)."
+  },
+  "meetings": 0,
+  "status": null
+ },
+ {
+  "id": "paijat-hame",
+  "name": {
+   "fi": "Päijät-Hämeen hyvinvointialue",
+   "sv": "Päijänne-Tavastlands välfärdsområde"
+  },
+  "short": {
+   "fi": "Päijät-Häme",
+   "sv": "Päijänne-Tavastland"
+  },
+  "homepage": "https://paijatha.fi",
+  "enabled": false,
+  "platforms": [
+   "tweb"
+  ],
+  "sources": [
+   {
+    "platform": "tweb",
+    "url": "https://phhyky-julkaisu.tweb.fi",
+    "valid_from": null,
+    "valid_to": null
+   }
+  ],
+  "since": "2025-06-01",
+  "notes": {
+   "fi": "Pilottialue (Tweb). Palvelun robots.txt estää automaattisen haun; tarvitaan alueen lupa tai tiedostovienti."
+  },
+  "meetings": 0,
+  "status": null
+ },
+ {
+  "id": "pirkanmaa",
+  "name": {
+   "fi": "Pirkanmaan hyvinvointialue",
+   "sv": "Birkalands välfärdsområde"
+  },
+  "short": {
+   "fi": "Pirkanmaa",
+   "sv": "Birkaland"
+  },
+  "homepage": "https://www.pirha.fi",
+  "enabled": true,
+  "platforms": [
+   "cloudnc"
+  ],
+  "sources": [
+   {
+    "platform": "cloudnc",
+    "url": "https://pirha.cloudnc.fi",
+    "valid_from": null,
+    "valid_to": null
+   }
+  ],
+  "since": "2025-06-01",
+  "notes": {
+   "fi": "Pilottialue (CloudNC)."
+  },
+  "meetings": 165,
+  "status": {
+   "region": "pirkanmaa",
+   "started_at": "2026-10-15T01:31:44+00:00",
+   "parser_version": "0.1.0",
+   "fetched": 23,
+   "changed": 0,
+   "unchanged": 142,
+   "removed": 0,
+   "errors": [],
+   "complete": true,
+   "result": "ok",
+   "requests": 300,
+   "finished_at": "2026-10-15T01:36:45+00:00",
+   "meetings_total": 165
+  }
+ },
+ {
+  "id": "pohjanmaa",
+  "name": {
+   "fi": "Pohjanmaan hyvinvointialue",
+   "sv": "Österbottens välfärdsområde"
+  },
+  "short": {
+   "fi": "Pohjanmaa",
+   "sv": "Österbotten"
+  },
+  "homepage": "https://pohjanmaanhyvinvointi.fi",
+  "enabled": true,
+  "platforms": [
+   "dynasty"
+  ],
+  "sources": [
+   {
+    "platform": "dynasty",
+    "url": "https://ovph-d10julk.oncloudos.com",
+    "valid_from": null,
+    "valid_to": null
+   },
+   {
+    "platform": "dynasty",
+    "url": "https://ovph-d10julk-swe.oncloudos.com",
+    "valid_from": null,
+    "valid_to": null
+   }
+  ],
+  "since": "2025-06-01",
+  "notes": {
+   "fi": "Kaksikielinen: ruotsinkielinen Dynasty-palvelu erikseen (-swe)."
+  },
+  "meetings": 83,
+  "status": {
+   "region": "pohjanmaa",
+   "started_at": "2026-10-15T01:33:09+00:00",
+   "parser_version": "0.1.0",
+   "fetched": 15,
+   "changed": 0,
+   "unchanged": 68,
+   "removed": 0,
+   "errors": [],
+   "complete": true,
+   "result": "ok",
+   "requests": 207,
+   "finished_at": "2026-10-15T01:36:36+00:00",
+   "meetings_total": 83
+  }
+ },
+ {
+  "id": "pohjois-karjala",
+  "name": {
+   "fi": "Pohjois-Karjalan hyvinvointialue",
+   "sv": "Norra Karelens välfärdsområde"
+  },
+  "short": {
+   "fi": "Pohjois-Karjala",
+   "sv": "Norra Karelen"
+  },
+  "homepage": "https://www.siunsote.fi",
+  "enabled": true,
+  "platforms": [
+   "dynasty"
+  ],
+  "sources": [
+   {
+    "platform": "dynasty",
+    "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk",
+    "valid_from": null,
+    "valid_to": null
+   }
+  ],
+  "since": "2025-06-01",
+  "notes": {
+   "fi": "Siun sote."
+  },
+  "meetings": 118,
+  "status": {
+   "region": "pohjois-karjala",
+   "started_at": "2026-10-15T01:34:10+00:00",
+   "parser_version": "0.1.0",
+   "fetched": 18,
+   "changed": 0,
+   "unchanged": 100,
+   "removed": 0,
+   "errors": [],
+   "complete": true,
+   "result": "ok",
+   "requests": 237,
+   "finished_at": "2026-10-15T01:38:07+00:00",
+   "meetings_total": 118
+  }
+ },
+ {
+  "id": "pohjois-pohjanmaa",
+  "name": {
+   "fi": "Pohjois-Pohjanmaan hyvinvointialue",
+   "sv": "Norra Österbottens välfärdsområde"
+  },
+  "short": {
+   "fi": "Pohjois-Pohjanmaa",
+   "sv": "Norra Österbotten"
+  },
+  "homepage": "https://pohde.fi",
+  "enabled": true,
+  "platforms": [
+   "cloudnc",
+   "tweb"
+  ],
+  "sources": [
+   {
+    "platform": "cloudnc",
+    "url": "https://pohde.cloudnc.fi",
+    "valid_from": "2025-06-01",
+    "valid_to": null
+   },
+   {
+    "platform": "tweb",
+    "url": "https://tweb.ppshp.fi",
+    "valid_from": null,
+    "valid_to": "2025-05-31"
+   }
+  ],
+  "since": "2025-06-01",
+  "notes": {
+   "fi": "31.5.2025 asti Tweb-palvelussa tweb.ppshp.fi."
+  },
+  "meetings": 165,
+  "status": {
+   "region": "pohjois-pohjanmaa",
+   "started_at": "2026-10-15T01:35:15+00:00",
+   "parser_version": "0.1.0",
+   "fetched": 26,
+   "changed": 0,
+   "unchanged": 139,
+   "removed": 0,
+   "errors": [],
+   "complete": true,
+   "result": "ok",
+   "requests": 309,
+   "finished_at": "2026-10-15T01:40:24+00:00",
+   "meetings_total": 165
+  }
+ },
+ {
+  "id": "pohjois-savo",
+  "name": {
+   "fi": "Pohjois-Savon hyvinvointialue",
+   "sv": "Norra Savolax välfärdsområde"
+  },
+  "short": {
+   "fi": "Pohjois-Savo",
+   "sv": "Norra Savolax"
+  },
+  "homepage": "https://pshyvinvointialue.fi",
+  "enabled": true,
+  "platforms": [
+   "dynasty"
+  ],
+  "sources": [
+   {
+    "platform": "dynasty",
+    "url": "https://pshva.oncloudos.com",
+    "valid_from": null,
+    "valid_to": null
+   }
+  ],
+  "since": "2025-06-01",
+  "notes": {},
+  "meetings": 233,
+  "status": {
+   "region": "pohjois-savo",
+   "started_at": "2026-10-15T01:36:51+00:00",
+   "parser_version": "0.1.0",
+   "fetched": 41,
+   "changed": 0,
+   "unchanged": 192,
+   "removed": 0,
+   "errors": [],
+   "complete": true,
+   "result": "ok",
+   "requests": 532,
+   "finished_at": "2026-10-15T01:45:43+00:00",
+   "meetings_total": 233
+  }
+ },
+ {
+  "id": "satakunta",
+  "name": {
+   "fi": "Satakunnan hyvinvointialue",
+   "sv": "Satakunta välfärdsområde"
+  },
+  "short": {
+   "fi": "Satakunta",
+   "sv": "Satakunta"
+  },
+  "homepage": "https://www.satakunnanhyvinvointialue.fi",
+  "enabled": true,
+  "platforms": [
+   "cloudnc"
+  ],
+  "sources": [
+   {
+    "platform": "cloudnc",
+    "url": "https://sata.cloudnc.fi",
+    "valid_from": null,
+    "valid_to": null
+   }
+  ],
+  "since": "2025-06-01",
+  "notes": {},
+  "meetings": 109,
+  "status": {
+   "region": "satakunta",
+   "started_at": "2026-10-15T01:37:02+00:00",
+   "parser_version": "0.1.0",
+   "fetched": 19,
+   "changed": 0,
+   "unchanged": 90,
+   "removed": 0,
+   "errors": [],
+   "complete": true,
+   "result": "ok",
+   "requests": 494,
+   "finished_at": "2026-10-15T01:45:17+00:00",
+   "meetings_total": 109
+  }
+ },
+ {
+  "id": "vantaa-kerava",
+  "name": {
+   "fi": "Vantaan ja Keravan hyvinvointialue",
+   "sv": "Vanda och Kervo välfärdsområde"
+  },
+  "short": {
+   "fi": "Vantaa ja Kerava",
+   "sv": "Vanda och Kervo"
+  },
+  "homepage": "https://vakehyva.fi",
+  "enabled": true,
+  "platforms": [
+   "cloudnc"
+  ],
+  "sources": [
+   {
+    "platform": "cloudnc",
+    "url": "https://vakehyva.cloudnc.fi",
+    "valid_from": null,
+    "valid_to": null
+   }
+  ],
+  "since": "2025-06-01",
+  "notes": {
+   "fi": "Kaksikielinen alue."
+  },
+  "meetings": 113,
+  "status": {
+   "region": "vantaa-kerava",
+   "started_at": "2026-10-15T01:38:25+00:00",
+   "parser_version": "0.1.0",
+   "fetched": 20,
+   "changed": 0,
+   "unchanged": 93,
+   "removed": 0,
+   "errors": [],
+   "complete": true,
+   "result": "ok",
+   "requests": 229,
+   "finished_at": "2026-10-15T01:42:17+00:00",
+   "meetings_total": 113
+  }
+ },
+ {
+  "id": "varsinais-suomi",
+  "name": {
+   "fi": "Varsinais-Suomen hyvinvointialue",
+   "sv": "Egentliga Finlands välfärdsområde"
+  },
+  "short": {
+   "fi": "Varsinais-Suomi",
+   "sv": "Egentliga Finland"
+  },
+  "homepage": "https://www.varha.fi",
+  "enabled": false,
+  "platforms": [
+   "tweb"
+  ],
+  "sources": [
+   {
+    "platform": "tweb",
+    "url": "https://varha-julkaisu.triplancloud.fi",
+    "valid_from": null,
+    "valid_to": null
+   }
+  ],
+  "since": "2025-06-01",
+  "notes": {
+   "fi": "Triplan cloud, todennäköisesti Tweb."
+  },
+  "meetings": 0,
+  "status": null
+ }
+]

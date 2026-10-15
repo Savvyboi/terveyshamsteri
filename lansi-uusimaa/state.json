@@ -1,0 +1,1526 @@
+{
+ "meetings": {
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026755": {
+   "id": "tarkastuslautakunta/2026-10-07",
+   "date": "2026-10-07",
+   "stage": "minutes",
+   "hash": "2e8e3e33e37179e2",
+   "fetched_at": "2026-10-14T17:13:49+00:00",
+   "first_seen": "2026-10-14T17:13:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026759": {
+   "id": "aluevaltuusto/2026-10-06",
+   "date": "2026-10-06",
+   "stage": "minutes",
+   "hash": "5377e9a6aebf92a4",
+   "fetched_at": "2026-10-15T01:03:30+00:00",
+   "first_seen": "2026-10-14T17:14:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026760": {
+   "id": "valfardsomradesfullmaktige/2026-10-06",
+   "date": "2026-10-06",
+   "stage": "agenda",
+   "hash": "3c478a107af28376",
+   "fetched_at": "2026-10-15T01:03:53+00:00",
+   "first_seen": "2026-10-14T17:14:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026752": {
+   "id": "aluehallitus/2026-10-05",
+   "date": "2026-10-05",
+   "stage": "minutes",
+   "hash": "a7ea370ab0313440",
+   "fetched_at": "2026-10-15T01:04:01+00:00",
+   "first_seen": "2026-10-14T17:14:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026751": {
+   "id": "valfardsomradesstyrelsen/2026-10-05",
+   "date": "2026-10-05",
+   "stage": "agenda",
+   "hash": "51089c679017cb8e",
+   "fetched_at": "2026-10-15T01:04:09+00:00",
+   "first_seen": "2026-10-14T17:14:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026732": {
+   "id": "aluehallitus/2026-09-21",
+   "date": "2026-09-21",
+   "stage": "minutes",
+   "hash": "edcd50719126df7f",
+   "fetched_at": "2026-10-15T01:04:32+00:00",
+   "first_seen": "2026-10-14T17:15:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026733": {
+   "id": "valfardsomradesstyrelsen/2026-09-21",
+   "date": "2026-09-21",
+   "stage": "agenda",
+   "hash": "353ea4cf8e2f3aac",
+   "fetched_at": "2026-10-14T17:15:38+00:00",
+   "first_seen": "2026-10-14T17:15:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026721": {
+   "id": "aldreradet/2026-09-10",
+   "date": "2026-09-10",
+   "stage": "minutes",
+   "hash": "b87bec1c23e5d7b9",
+   "fetched_at": "2026-10-14T17:15:48+00:00",
+   "first_seen": "2026-10-14T17:15:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026720": {
+   "id": "vanhusneuvosto/2026-09-10",
+   "date": "2026-09-10",
+   "stage": "minutes",
+   "hash": "76ba2b573b715872",
+   "fetched_at": "2026-10-14T17:15:59+00:00",
+   "first_seen": "2026-10-14T17:15:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026736": {
+   "id": "kansalliskielilautakunta/2026-09-09",
+   "date": "2026-09-09",
+   "stage": "minutes",
+   "hash": "2bed13028098dbc4",
+   "fetched_at": "2026-10-14T17:16:07+00:00",
+   "first_seen": "2026-10-14T17:16:07+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026737": {
+   "id": "nationalspraksnamnden/2026-09-09",
+   "date": "2026-09-09",
+   "stage": "minutes",
+   "hash": "31d84742896c15b6",
+   "fetched_at": "2026-10-14T17:16:15+00:00",
+   "first_seen": "2026-10-14T17:16:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026734": {
+   "id": "tulevaisuus-ja-kehittamislautakunta/2026-09-08",
+   "date": "2026-09-08",
+   "stage": "minutes",
+   "hash": "89ed78dea81b8b2a",
+   "fetched_at": "2026-10-14T17:16:23+00:00",
+   "first_seen": "2026-10-14T17:16:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026728": {
+   "id": "palvelut-ja-henkilosto-lautakunta/2026-09-03",
+   "date": "2026-09-03",
+   "stage": "minutes",
+   "hash": "e034026cce4d383e",
+   "fetched_at": "2026-10-14T17:16:32+00:00",
+   "first_seen": "2026-10-14T17:16:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026735": {
+   "id": "valmius-ja-turvallisuuslautakunta/2026-09-03",
+   "date": "2026-09-03",
+   "stage": "minutes",
+   "hash": "f5a23c6892563b2f",
+   "fetched_at": "2026-10-14T17:16:41+00:00",
+   "first_seen": "2026-10-14T17:16:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026719": {
+   "id": "radet-for-personer-med-funktionsnedsattning/2026-09-03",
+   "date": "2026-09-03",
+   "stage": "minutes",
+   "hash": "6c221f2c8ee40aef",
+   "fetched_at": "2026-10-14T17:16:55+00:00",
+   "first_seen": "2026-10-14T17:16:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026718": {
+   "id": "vammaisneuvosto/2026-09-03",
+   "date": "2026-09-03",
+   "stage": "minutes",
+   "hash": "4435481b6b564047",
+   "fetched_at": "2026-10-14T17:17:09+00:00",
+   "first_seen": "2026-10-14T17:17:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026716": {
+   "id": "nuorisovaltuusto/2026-09-01",
+   "date": "2026-09-01",
+   "stage": "minutes",
+   "hash": "779597207a0f4ee3",
+   "fetched_at": "2026-10-14T17:17:18+00:00",
+   "first_seen": "2026-10-14T17:17:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026717": {
+   "id": "ungdomsfullmaktige/2026-09-01",
+   "date": "2026-09-01",
+   "stage": "minutes",
+   "hash": "86e35f248cc64c0d",
+   "fetched_at": "2026-10-14T17:17:27+00:00",
+   "first_seen": "2026-10-14T17:17:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026730": {
+   "id": "tarkastuslautakunta/2026-08-26",
+   "date": "2026-08-26",
+   "stage": "minutes",
+   "hash": "6faf46ed98f1e819",
+   "fetched_at": "2026-10-14T17:17:35+00:00",
+   "first_seen": "2026-10-14T17:17:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026726": {
+   "id": "aluehallitus/2026-08-24",
+   "date": "2026-08-24",
+   "stage": "minutes",
+   "hash": "95c529530b1bef75",
+   "fetched_at": "2026-10-15T01:07:19+00:00",
+   "first_seen": "2026-10-14T17:18:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026727": {
+   "id": "valfardsomradesstyrelsen/2026-08-24",
+   "date": "2026-08-24",
+   "stage": "minutes",
+   "hash": "af9543fd812f6a7b",
+   "fetched_at": "2026-10-15T01:07:45+00:00",
+   "first_seen": "2026-10-14T17:18:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026712": {
+   "id": "aluehallitus/2026-06-15",
+   "date": "2026-06-15",
+   "stage": "minutes",
+   "hash": "d7da3d30e7d95df6",
+   "fetched_at": "2026-10-14T17:18:59+00:00",
+   "first_seen": "2026-10-14T17:18:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026713": {
+   "id": "valfardsomradesstyrelsen/2026-06-15",
+   "date": "2026-06-15",
+   "stage": "minutes",
+   "hash": "73392e9c85dcc0a7",
+   "fetched_at": "2026-10-14T17:19:31+00:00",
+   "first_seen": "2026-10-14T17:19:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026687": {
+   "id": "radet-for-personer-med-funktionsnedsattning/2026-06-11",
+   "date": "2026-06-11",
+   "stage": "minutes",
+   "hash": "1e530601d167773c",
+   "fetched_at": "2026-10-14T17:19:46+00:00",
+   "first_seen": "2026-10-14T17:19:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026684": {
+   "id": "vammaisneuvosto/2026-06-11",
+   "date": "2026-06-11",
+   "stage": "minutes",
+   "hash": "2375c7dd28adefa1",
+   "fetched_at": "2026-10-14T17:20:01+00:00",
+   "first_seen": "2026-10-14T17:20:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026683": {
+   "id": "nuorisovaltuusto/2026-06-10",
+   "date": "2026-06-10",
+   "stage": "minutes",
+   "hash": "b4f2a703b202716c",
+   "fetched_at": "2026-10-14T17:20:10+00:00",
+   "first_seen": "2026-10-14T17:20:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026686": {
+   "id": "ungdomsfullmaktige/2026-06-10",
+   "date": "2026-06-10",
+   "stage": "minutes",
+   "hash": "1919446ac6f709aa",
+   "fetched_at": "2026-10-14T17:20:19+00:00",
+   "first_seen": "2026-10-14T17:20:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026722": {
+   "id": "aluevaltuusto/2026-06-09",
+   "date": "2026-06-09",
+   "stage": "minutes",
+   "hash": "65c50f8178a6bfa5",
+   "fetched_at": "2026-10-14T17:20:38+00:00",
+   "first_seen": "2026-10-14T17:20:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026723": {
+   "id": "valfardsomradesfullmaktige/2026-06-09",
+   "date": "2026-06-09",
+   "stage": "minutes",
+   "hash": "3bb9f96ff7e3f48e",
+   "fetched_at": "2026-10-14T17:20:56+00:00",
+   "first_seen": "2026-10-14T17:20:56+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026685": {
+   "id": "aldreradet/2026-06-04",
+   "date": "2026-06-04",
+   "stage": "minutes",
+   "hash": "78357152cb5da5c9",
+   "fetched_at": "2026-10-14T17:21:03+00:00",
+   "first_seen": "2026-10-14T17:21:03+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026682": {
+   "id": "vanhusneuvosto/2026-06-04",
+   "date": "2026-06-04",
+   "stage": "minutes",
+   "hash": "209990b8419a528a",
+   "fetched_at": "2026-10-14T17:21:11+00:00",
+   "first_seen": "2026-10-14T17:21:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026715": {
+   "id": "kansalliskielilautakunta/2026-05-27",
+   "date": "2026-05-27",
+   "stage": "minutes",
+   "hash": "3b3a84fad8628ea6",
+   "fetched_at": "2026-10-14T17:21:17+00:00",
+   "first_seen": "2026-10-14T17:21:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026714": {
+   "id": "nationalspraksnamnden/2026-05-27",
+   "date": "2026-05-27",
+   "stage": "minutes",
+   "hash": "67e9d618a0881278",
+   "fetched_at": "2026-10-14T17:21:23+00:00",
+   "first_seen": "2026-10-14T17:21:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026699": {
+   "id": "tarkastuslautakunta/2026-05-27",
+   "date": "2026-05-27",
+   "stage": "minutes",
+   "hash": "505d99e82f48bca8",
+   "fetched_at": "2026-10-14T17:21:31+00:00",
+   "first_seen": "2026-10-14T17:21:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026711": {
+   "id": "tulevaisuus-ja-kehittamislautakunta/2026-05-26",
+   "date": "2026-05-26",
+   "stage": "minutes",
+   "hash": "26d9cac67d14266b",
+   "fetched_at": "2026-10-14T17:21:39+00:00",
+   "first_seen": "2026-10-14T17:21:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026705": {
+   "id": "aluehallitus/2026-05-25",
+   "date": "2026-05-25",
+   "stage": "minutes",
+   "hash": "ef4736aa91df9a00",
+   "fetched_at": "2026-10-14T17:22:01+00:00",
+   "first_seen": "2026-10-14T17:22:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026708": {
+   "id": "valfardsomradesstyrelsen/2026-05-25",
+   "date": "2026-05-25",
+   "stage": "minutes",
+   "hash": "cd4c2bbf1a6428b6",
+   "fetched_at": "2026-10-14T17:22:23+00:00",
+   "first_seen": "2026-10-14T17:22:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026710": {
+   "id": "valmius-ja-turvallisuuslautakunta/2026-05-21",
+   "date": "2026-05-21",
+   "stage": "minutes",
+   "hash": "dd1306700c856f69",
+   "fetched_at": "2026-10-14T17:22:31+00:00",
+   "first_seen": "2026-10-14T17:22:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026704": {
+   "id": "radet-for-personer-med-funktionsnedsattning/2026-05-20",
+   "date": "2026-05-20",
+   "stage": "minutes",
+   "hash": "b1084be4c09a4dc4",
+   "fetched_at": "2026-10-14T17:22:42+00:00",
+   "first_seen": "2026-10-14T17:22:42+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026703": {
+   "id": "vammaisneuvosto/2026-05-20",
+   "date": "2026-05-20",
+   "stage": "minutes",
+   "hash": "d4fa278c5303a680",
+   "fetched_at": "2026-10-14T17:22:53+00:00",
+   "first_seen": "2026-10-14T17:22:53+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026706": {
+   "id": "palvelut-ja-henkilosto-lautakunta/2026-05-19",
+   "date": "2026-05-19",
+   "stage": "minutes",
+   "hash": "033d9f5e3c694f44",
+   "fetched_at": "2026-10-14T17:22:59+00:00",
+   "first_seen": "2026-10-14T17:22:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026679": {
+   "id": "aluehallitus/2026-05-11",
+   "date": "2026-05-11",
+   "stage": "minutes",
+   "hash": "38e263cff91a9239",
+   "fetched_at": "2026-10-14T17:23:16+00:00",
+   "first_seen": "2026-10-14T17:23:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026680": {
+   "id": "valfardsomradesstyrelsen/2026-05-11",
+   "date": "2026-05-11",
+   "stage": "minutes",
+   "hash": "ce9f5006ac2a1cb9",
+   "fetched_at": "2026-10-14T17:23:33+00:00",
+   "first_seen": "2026-10-14T17:23:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026654": {
+   "id": "aldreradet/2026-05-07",
+   "date": "2026-05-07",
+   "stage": "minutes",
+   "hash": "8b93f44748da9cf9",
+   "fetched_at": "2026-10-14T17:23:42+00:00",
+   "first_seen": "2026-10-14T17:23:42+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026653": {
+   "id": "vanhusneuvosto/2026-05-07",
+   "date": "2026-05-07",
+   "stage": "minutes",
+   "hash": "b7b3eb6695ec46cd",
+   "fetched_at": "2026-10-14T17:23:51+00:00",
+   "first_seen": "2026-10-14T17:23:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026690": {
+   "id": "tarkastuslautakunta/2026-05-06",
+   "date": "2026-05-06",
+   "stage": "minutes",
+   "hash": "f1965dedb0844514",
+   "fetched_at": "2026-10-14T17:23:56+00:00",
+   "first_seen": "2026-10-14T17:23:56+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026692": {
+   "id": "aluevaltuusto/2026-04-28",
+   "date": "2026-04-28",
+   "stage": "minutes",
+   "hash": "7f5d958f2351804f",
+   "fetched_at": "2026-10-14T17:24:17+00:00",
+   "first_seen": "2026-10-14T17:24:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026693": {
+   "id": "valfardsomradesfullmaktige/2026-04-28",
+   "date": "2026-04-28",
+   "stage": "minutes",
+   "hash": "2cdb1b7ec0047b46",
+   "fetched_at": "2026-10-14T17:24:38+00:00",
+   "first_seen": "2026-10-14T17:24:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026652": {
+   "id": "radet-for-personer-med-funktionsnedsattning/2026-04-23",
+   "date": "2026-04-23",
+   "stage": "minutes",
+   "hash": "f983e335fdf79997",
+   "fetched_at": "2026-10-14T17:24:49+00:00",
+   "first_seen": "2026-10-14T17:24:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026649": {
+   "id": "vammaisneuvosto/2026-04-23",
+   "date": "2026-04-23",
+   "stage": "minutes",
+   "hash": "2276b52ae9a53362",
+   "fetched_at": "2026-10-14T17:25:00+00:00",
+   "first_seen": "2026-10-14T17:25:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026675": {
+   "id": "nuorisovaltuusto/2026-04-21",
+   "date": "2026-04-21",
+   "stage": "minutes",
+   "hash": "cae9d0863b3e7ed0",
+   "fetched_at": "2026-10-14T17:25:12+00:00",
+   "first_seen": "2026-10-14T17:25:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026676": {
+   "id": "ungdomsfullmaktige/2026-04-21",
+   "date": "2026-04-21",
+   "stage": "minutes",
+   "hash": "ca98b34a3be68e07",
+   "fetched_at": "2026-10-14T17:25:24+00:00",
+   "first_seen": "2026-10-14T17:25:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026691": {
+   "id": "aluehallitus/2026-04-20",
+   "date": "2026-04-20",
+   "stage": "minutes",
+   "hash": "3ab74c7e53cccc57",
+   "fetched_at": "2026-10-14T17:25:29+00:00",
+   "first_seen": "2026-10-14T17:25:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026694": {
+   "id": "valfardsomradesstyrelsen/2026-04-20",
+   "date": "2026-04-20",
+   "stage": "minutes",
+   "hash": "cb0413a4f59da289",
+   "fetched_at": "2026-10-14T17:25:34+00:00",
+   "first_seen": "2026-10-14T17:25:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026672": {
+   "id": "kansalliskielilautakunta/2026-04-15",
+   "date": "2026-04-15",
+   "stage": "minutes",
+   "hash": "1383655ba0adf8df",
+   "fetched_at": "2026-10-14T17:25:41+00:00",
+   "first_seen": "2026-10-14T17:25:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026671": {
+   "id": "nationalspraksnamnden/2026-04-15",
+   "date": "2026-04-15",
+   "stage": "minutes",
+   "hash": "f09abbe908433e22",
+   "fetched_at": "2026-10-14T17:25:48+00:00",
+   "first_seen": "2026-10-14T17:25:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026681": {
+   "id": "tarkastuslautakunta/2026-04-15",
+   "date": "2026-04-15",
+   "stage": "minutes",
+   "hash": "3086999e17b369fb",
+   "fetched_at": "2026-10-14T17:25:54+00:00",
+   "first_seen": "2026-10-14T17:25:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026659": {
+   "id": "aluehallitus/2026-04-13",
+   "date": "2026-04-13",
+   "stage": "minutes",
+   "hash": "e7877a62ef1c35d4",
+   "fetched_at": "2026-10-14T17:26:22+00:00",
+   "first_seen": "2026-10-14T17:26:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026660": {
+   "id": "valfardsomradesstyrelsen/2026-04-13",
+   "date": "2026-04-13",
+   "stage": "minutes",
+   "hash": "f235e5c0695c8f7b",
+   "fetched_at": "2026-10-14T17:26:50+00:00",
+   "first_seen": "2026-10-14T17:26:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026673": {
+   "id": "tarkastuslautakunta/2026-04-01",
+   "date": "2026-04-01",
+   "stage": "minutes",
+   "hash": "f10ab11ca1685345",
+   "fetched_at": "2026-10-14T17:26:56+00:00",
+   "first_seen": "2026-10-14T17:26:56+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026630": {
+   "id": "aluehallitus/2026-03-30",
+   "date": "2026-03-30",
+   "stage": "minutes",
+   "hash": "9916d900ba665199",
+   "fetched_at": "2026-10-14T17:27:14+00:00",
+   "first_seen": "2026-10-14T17:27:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026658": {
+   "id": "valfardsomradesstyrelsen/2026-03-30",
+   "date": "2026-03-30",
+   "stage": "minutes",
+   "hash": "d3256c242521fc10",
+   "fetched_at": "2026-10-14T17:27:32+00:00",
+   "first_seen": "2026-10-14T17:27:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026648": {
+   "id": "tarkastuslautakunta/2026-03-25",
+   "date": "2026-03-25",
+   "stage": "minutes",
+   "hash": "ff7d71e9ac3562b9",
+   "fetched_at": "2026-10-14T17:27:38+00:00",
+   "first_seen": "2026-10-14T17:27:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026661": {
+   "id": "tarkastuslautakunta/2026-03-19",
+   "date": "2026-03-19",
+   "stage": "minutes",
+   "hash": "c26eec3a83f319d8",
+   "fetched_at": "2026-10-14T17:27:43+00:00",
+   "first_seen": "2026-10-14T17:27:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026651": {
+   "id": "aldreradet/2026-03-19",
+   "date": "2026-03-19",
+   "stage": "minutes",
+   "hash": "e1982baa58478fd5",
+   "fetched_at": "2026-10-14T17:27:52+00:00",
+   "first_seen": "2026-10-14T17:27:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026650": {
+   "id": "vanhusneuvosto/2026-03-19",
+   "date": "2026-03-19",
+   "stage": "minutes",
+   "hash": "1c357a26f831c488",
+   "fetched_at": "2026-10-14T17:28:01+00:00",
+   "first_seen": "2026-10-14T17:28:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026642": {
+   "id": "valmius-ja-turvallisuuslautakunta/2026-03-12",
+   "date": "2026-03-12",
+   "stage": "minutes",
+   "hash": "0da940a871ee3b0c",
+   "fetched_at": "2026-10-14T17:28:09+00:00",
+   "first_seen": "2026-10-14T17:28:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026643": {
+   "id": "palvelut-ja-henkilosto-lautakunta/2026-03-10",
+   "date": "2026-03-10",
+   "stage": "minutes",
+   "hash": "aaffe3754524cf6c",
+   "fetched_at": "2026-10-14T17:28:18+00:00",
+   "first_seen": "2026-10-14T17:28:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026647": {
+   "id": "radet-for-personer-med-funktionsnedsattning/2026-03-05",
+   "date": "2026-03-05",
+   "stage": "minutes",
+   "hash": "6e05a6fa99745441",
+   "fetched_at": "2026-10-14T17:28:34+00:00",
+   "first_seen": "2026-10-14T17:28:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026646": {
+   "id": "vammaisneuvosto/2026-03-05",
+   "date": "2026-03-05",
+   "stage": "minutes",
+   "hash": "8023ff50f84546c2",
+   "fetched_at": "2026-10-14T17:28:50+00:00",
+   "first_seen": "2026-10-14T17:28:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026619": {
+   "id": "kansalliskielilautakunta/2026-03-04",
+   "date": "2026-03-04",
+   "stage": "minutes",
+   "hash": "25bb50092070d671",
+   "fetched_at": "2026-10-14T17:28:57+00:00",
+   "first_seen": "2026-10-14T17:28:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026620": {
+   "id": "nationalspraksnamnden/2026-03-04",
+   "date": "2026-03-04",
+   "stage": "minutes",
+   "hash": "90d9dbddb618b8db",
+   "fetched_at": "2026-10-14T17:29:04+00:00",
+   "first_seen": "2026-10-14T17:29:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026631": {
+   "id": "tarkastuslautakunta/2026-03-04",
+   "date": "2026-03-04",
+   "stage": "minutes",
+   "hash": "1e5ad2c13347fa96",
+   "fetched_at": "2026-10-14T17:29:09+00:00",
+   "first_seen": "2026-10-14T17:29:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026641": {
+   "id": "tulevaisuus-ja-kehittamislautakunta/2026-03-03",
+   "date": "2026-03-03",
+   "stage": "minutes",
+   "hash": "8218de01aaa9018a",
+   "fetched_at": "2026-10-14T17:29:16+00:00",
+   "first_seen": "2026-10-14T17:29:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026644": {
+   "id": "nuorisovaltuusto/2026-03-03",
+   "date": "2026-03-03",
+   "stage": "minutes",
+   "hash": "6f2ca93e4a2ede3e",
+   "fetched_at": "2026-10-14T17:29:28+00:00",
+   "first_seen": "2026-10-14T17:29:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026645": {
+   "id": "ungdomsfullmaktige/2026-03-03",
+   "date": "2026-03-03",
+   "stage": "minutes",
+   "hash": "2d068e578cefbbff",
+   "fetched_at": "2026-10-14T17:29:40+00:00",
+   "first_seen": "2026-10-14T17:29:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026640": {
+   "id": "aluevaltuusto/2026-02-24",
+   "date": "2026-02-24",
+   "stage": "minutes",
+   "hash": "88827ec279028564",
+   "fetched_at": "2026-10-14T17:29:54+00:00",
+   "first_seen": "2026-10-14T17:29:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026639": {
+   "id": "valfardsomradesfullmaktige/2026-02-24",
+   "date": "2026-02-24",
+   "stage": "minutes",
+   "hash": "1e5119befb9813da",
+   "fetched_at": "2026-10-14T17:30:08+00:00",
+   "first_seen": "2026-10-14T17:30:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026628": {
+   "id": "tulevaisuus-ja-kehittamislautakunta/2026-02-11",
+   "date": "2026-02-11",
+   "stage": "minutes",
+   "hash": "258bab753a4a5262",
+   "fetched_at": "2026-10-14T17:30:14+00:00",
+   "first_seen": "2026-10-14T17:30:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026614": {
+   "id": "aluehallitus/2026-02-09",
+   "date": "2026-02-09",
+   "stage": "minutes",
+   "hash": "0fb3059b9af53afc",
+   "fetched_at": "2026-10-14T17:30:42+00:00",
+   "first_seen": "2026-10-14T17:30:42+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026615": {
+   "id": "valfardsomradesstyrelsen/2026-02-09",
+   "date": "2026-02-09",
+   "stage": "minutes",
+   "hash": "7e6f69b218828cdd",
+   "fetched_at": "2026-10-14T17:31:10+00:00",
+   "first_seen": "2026-10-14T17:31:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026626": {
+   "id": "radet-for-personer-med-funktionsnedsattning/2026-02-05",
+   "date": "2026-02-05",
+   "stage": "minutes",
+   "hash": "31119e7f5d122dc8",
+   "fetched_at": "2026-10-14T17:31:20+00:00",
+   "first_seen": "2026-10-14T17:31:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026625": {
+   "id": "vammaisneuvosto/2026-02-05",
+   "date": "2026-02-05",
+   "stage": "minutes",
+   "hash": "a4331f4f6c5558be",
+   "fetched_at": "2026-10-14T17:31:30+00:00",
+   "first_seen": "2026-10-14T17:31:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026623": {
+   "id": "nuorisovaltuusto/2026-02-03",
+   "date": "2026-02-03",
+   "stage": "minutes",
+   "hash": "1ab1b4af58f4e615",
+   "fetched_at": "2026-10-14T17:31:39+00:00",
+   "first_seen": "2026-10-14T17:31:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026624": {
+   "id": "ungdomsfullmaktige/2026-02-03",
+   "date": "2026-02-03",
+   "stage": "minutes",
+   "hash": "1cb5e0350bf7df26",
+   "fetched_at": "2026-10-14T17:31:48+00:00",
+   "first_seen": "2026-10-14T17:31:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026622": {
+   "id": "aldreradet/2026-01-29",
+   "date": "2026-01-29",
+   "stage": "minutes",
+   "hash": "82747a6f88ec6d86",
+   "fetched_at": "2026-10-14T17:31:59+00:00",
+   "first_seen": "2026-10-14T17:31:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026621": {
+   "id": "vanhusneuvosto/2026-01-29",
+   "date": "2026-01-29",
+   "stage": "minutes",
+   "hash": "faec2c355a92b47d",
+   "fetched_at": "2026-10-14T17:32:10+00:00",
+   "first_seen": "2026-10-14T17:32:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026627": {
+   "id": "tarkastuslautakunta/2026-01-28",
+   "date": "2026-01-28",
+   "stage": "minutes",
+   "hash": "a6988466784c00db",
+   "fetched_at": "2026-10-14T17:32:17+00:00",
+   "first_seen": "2026-10-14T17:32:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025610": {
+   "id": "aluehallitus/2025-12-15",
+   "date": "2025-12-15",
+   "stage": "minutes",
+   "hash": "88ef1be80f236826",
+   "fetched_at": "2026-10-14T17:32:36+00:00",
+   "first_seen": "2026-10-14T17:32:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025611": {
+   "id": "valfardsomradesstyrelsen/2025-12-15",
+   "date": "2025-12-15",
+   "stage": "minutes",
+   "hash": "663503402c02a945",
+   "fetched_at": "2026-10-14T17:32:55+00:00",
+   "first_seen": "2026-10-14T17:32:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025609": {
+   "id": "aldreradet/2025-12-11",
+   "date": "2025-12-11",
+   "stage": "minutes",
+   "hash": "0bc9142f14fd25f0",
+   "fetched_at": "2026-10-14T17:33:05+00:00",
+   "first_seen": "2026-10-14T17:33:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025608": {
+   "id": "vanhusneuvosto/2025-12-11",
+   "date": "2025-12-11",
+   "stage": "minutes",
+   "hash": "c2d5ffde3ed746ea",
+   "fetched_at": "2026-10-14T17:33:15+00:00",
+   "first_seen": "2026-10-14T17:33:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025606": {
+   "id": "nuorisovaltuusto/2025-12-10",
+   "date": "2025-12-10",
+   "stage": "minutes",
+   "hash": "6afdca67e349f0e0",
+   "fetched_at": "2026-10-14T17:33:26+00:00",
+   "first_seen": "2026-10-14T17:33:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025607": {
+   "id": "ungdomsfullmaktige/2025-12-10",
+   "date": "2025-12-10",
+   "stage": "minutes",
+   "hash": "ff63ef7d5afb0a9a",
+   "fetched_at": "2026-10-14T17:33:37+00:00",
+   "first_seen": "2026-10-14T17:33:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025602": {
+   "id": "aluevaltuusto/2025-12-09",
+   "date": "2025-12-09",
+   "stage": "minutes",
+   "hash": "c24f35e38ba0ebef",
+   "fetched_at": "2026-10-14T17:33:52+00:00",
+   "first_seen": "2026-10-14T17:33:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025603": {
+   "id": "valfardsomradesfullmaktige/2025-12-09",
+   "date": "2025-12-09",
+   "stage": "minutes",
+   "hash": "25896e06a4c093b0",
+   "fetched_at": "2026-10-14T17:34:07+00:00",
+   "first_seen": "2026-10-14T17:34:07+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025605": {
+   "id": "radet-for-personer-med-funktionsnedsattning/2025-12-04",
+   "date": "2025-12-04",
+   "stage": "minutes",
+   "hash": "60ce8ec831315257",
+   "fetched_at": "2026-10-14T17:34:24+00:00",
+   "first_seen": "2026-10-14T17:34:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025604": {
+   "id": "vammaisneuvosto/2025-12-04",
+   "date": "2025-12-04",
+   "stage": "minutes",
+   "hash": "c1df7f2d73f728d1",
+   "fetched_at": "2026-10-14T17:34:41+00:00",
+   "first_seen": "2026-10-14T17:34:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025600": {
+   "id": "kansalliskielilautakunta/2025-12-03",
+   "date": "2025-12-03",
+   "stage": "minutes",
+   "hash": "19333df9e9fbe174",
+   "fetched_at": "2026-10-14T17:34:49+00:00",
+   "first_seen": "2026-10-14T17:34:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025599": {
+   "id": "nationalspraksnamnden/2025-12-03",
+   "date": "2025-12-03",
+   "stage": "minutes",
+   "hash": "02a295e0e2f55af4",
+   "fetched_at": "2026-10-14T17:34:57+00:00",
+   "first_seen": "2026-10-14T17:34:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025594": {
+   "id": "tarkastuslautakunta/2025-11-25",
+   "date": "2025-11-25",
+   "stage": "minutes",
+   "hash": "7006e69e5fba14b5",
+   "fetched_at": "2026-10-14T17:35:05+00:00",
+   "first_seen": "2026-10-14T17:35:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025591": {
+   "id": "aluehallitus/2025-11-24",
+   "date": "2025-11-24",
+   "stage": "minutes",
+   "hash": "1accf94e0b53caa2",
+   "fetched_at": "2026-10-14T17:35:33+00:00",
+   "first_seen": "2026-10-14T17:35:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025592": {
+   "id": "valfardsomradesstyrelsen/2025-11-24",
+   "date": "2025-11-24",
+   "stage": "minutes",
+   "hash": "a527e897892a7ee4",
+   "fetched_at": "2026-10-14T17:36:01+00:00",
+   "first_seen": "2026-10-14T17:36:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025597": {
+   "id": "aldreradet/2025-11-20",
+   "date": "2025-11-20",
+   "stage": "minutes",
+   "hash": "5c8b3702eec80808",
+   "fetched_at": "2026-10-14T17:36:12+00:00",
+   "first_seen": "2026-10-14T17:36:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025596": {
+   "id": "vanhusneuvosto/2025-11-20",
+   "date": "2025-11-20",
+   "stage": "minutes",
+   "hash": "7e1b3e4dac815cf7",
+   "fetched_at": "2026-10-14T17:36:23+00:00",
+   "first_seen": "2026-10-14T17:36:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025589": {
+   "id": "nuorisovaltuusto/2025-11-18",
+   "date": "2025-11-18",
+   "stage": "minutes",
+   "hash": "bc0a6fef67ede2c2",
+   "fetched_at": "2026-10-14T17:36:33+00:00",
+   "first_seen": "2026-10-14T17:36:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025590": {
+   "id": "ungdomsfullmaktige/2025-11-18",
+   "date": "2025-11-18",
+   "stage": "minutes",
+   "hash": "ad101541ea47f14d",
+   "fetched_at": "2026-10-14T17:36:43+00:00",
+   "first_seen": "2026-10-14T17:36:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025598": {
+   "id": "radet-for-personer-med-funktionsnedsattning/2025-11-13",
+   "date": "2025-11-13",
+   "stage": "minutes",
+   "hash": "c889da916ccde302",
+   "fetched_at": "2026-10-14T17:36:52+00:00",
+   "first_seen": "2026-10-14T17:36:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025595": {
+   "id": "vammaisneuvosto/2025-11-13",
+   "date": "2025-11-13",
+   "stage": "minutes",
+   "hash": "5b142ae9879c866b",
+   "fetched_at": "2026-10-14T17:37:01+00:00",
+   "first_seen": "2026-10-14T17:37:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025576": {
+   "id": "tulevaisuus-ja-kehittamislautakunta/2025-10-30",
+   "date": "2025-10-30",
+   "stage": "minutes",
+   "hash": "bcf03c844e7c46b8",
+   "fetched_at": "2026-10-14T17:37:11+00:00",
+   "first_seen": "2026-10-14T17:37:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025582": {
+   "id": "valmius-ja-turvallisuuslautakunta/2025-10-30",
+   "date": "2025-10-30",
+   "stage": "minutes",
+   "hash": "298d9eafb145870e",
+   "fetched_at": "2026-10-14T17:37:19+00:00",
+   "first_seen": "2026-10-14T17:37:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025588": {
+   "id": "aldreradet/2025-10-30",
+   "date": "2025-10-30",
+   "stage": "minutes",
+   "hash": "411a0356e7d5c8af",
+   "fetched_at": "2026-10-14T17:37:32+00:00",
+   "first_seen": "2026-10-14T17:37:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025586": {
+   "id": "vanhusneuvosto/2025-10-30",
+   "date": "2025-10-30",
+   "stage": "minutes",
+   "hash": "f0fec8a76eae98b6",
+   "fetched_at": "2026-10-14T17:37:45+00:00",
+   "first_seen": "2026-10-14T17:37:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025580": {
+   "id": "kansalliskielilautakunta/2025-10-29",
+   "date": "2025-10-29",
+   "stage": "minutes",
+   "hash": "e54a892a631791e2",
+   "fetched_at": "2026-10-14T17:37:53+00:00",
+   "first_seen": "2026-10-14T17:37:53+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025581": {
+   "id": "nationalspraksnamnden/2025-10-29",
+   "date": "2025-10-29",
+   "stage": "minutes",
+   "hash": "0fb2163f6f344a73",
+   "fetched_at": "2026-10-14T17:38:01+00:00",
+   "first_seen": "2026-10-14T17:38:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025587": {
+   "id": "radet-for-personer-med-funktionsnedsattning/2025-10-29",
+   "date": "2025-10-29",
+   "stage": "minutes",
+   "hash": "4cf1f328ec944e50",
+   "fetched_at": "2026-10-14T17:38:15+00:00",
+   "first_seen": "2026-10-14T17:38:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025585": {
+   "id": "vammaisneuvosto/2025-10-29",
+   "date": "2025-10-29",
+   "stage": "minutes",
+   "hash": "8e966c3a525755bb",
+   "fetched_at": "2026-10-14T17:38:29+00:00",
+   "first_seen": "2026-10-14T17:38:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025573": {
+   "id": "nuorisovaltuusto/2025-10-28",
+   "date": "2025-10-28",
+   "stage": "minutes",
+   "hash": "bb8d5a3fcc2f86ee",
+   "fetched_at": "2026-10-14T17:38:37+00:00",
+   "first_seen": "2026-10-14T17:38:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025574": {
+   "id": "ungdomsfullmaktige/2025-10-28",
+   "date": "2025-10-28",
+   "stage": "minutes",
+   "hash": "25acc78e0f9fcc50",
+   "fetched_at": "2026-10-14T17:38:45+00:00",
+   "first_seen": "2026-10-14T17:38:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025577": {
+   "id": "aluehallitus/2025-10-27",
+   "date": "2025-10-27",
+   "stage": "minutes",
+   "hash": "f0e2eaa98a40effd",
+   "fetched_at": "2026-10-14T17:38:58+00:00",
+   "first_seen": "2026-10-14T17:38:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025578": {
+   "id": "valfardsomradesstyrelsen/2025-10-27",
+   "date": "2025-10-27",
+   "stage": "minutes",
+   "hash": "9418bd88a10f4cb6",
+   "fetched_at": "2026-10-14T17:39:11+00:00",
+   "first_seen": "2026-10-14T17:39:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025579": {
+   "id": "palvelut-ja-henkilosto-lautakunta/2025-10-27",
+   "date": "2025-10-27",
+   "stage": "minutes",
+   "hash": "921aea80608b64ba",
+   "fetched_at": "2026-10-14T17:39:21+00:00",
+   "first_seen": "2026-10-14T17:39:21+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025571": {
+   "id": "tarkastuslautakunta/2025-10-22",
+   "date": "2025-10-22",
+   "stage": "minutes",
+   "hash": "700b50c58651f458",
+   "fetched_at": "2026-10-14T17:39:26+00:00",
+   "first_seen": "2026-10-14T17:39:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025557": {
+   "id": "tarkastuslautakunta/2025-10-08",
+   "date": "2025-10-08",
+   "stage": "minutes",
+   "hash": "3242a80a9efdaf6f",
+   "fetched_at": "2026-10-14T17:39:32+00:00",
+   "first_seen": "2026-10-14T17:39:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025555": {
+   "id": "aluevaltuusto/2025-10-07",
+   "date": "2025-10-07",
+   "stage": "minutes",
+   "hash": "826c11cd9d68dfa2",
+   "fetched_at": "2026-10-14T17:39:58+00:00",
+   "first_seen": "2026-10-14T17:39:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025556": {
+   "id": "valfardsomradesfullmaktige/2025-10-07",
+   "date": "2025-10-07",
+   "stage": "minutes",
+   "hash": "ac4118d86f5dbe3d",
+   "fetched_at": "2026-10-14T17:40:24+00:00",
+   "first_seen": "2026-10-14T17:40:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025568": {
+   "id": "aluehallitus/2025-10-02",
+   "date": "2025-10-02",
+   "stage": "minutes",
+   "hash": "58181867773e1fcb",
+   "fetched_at": "2026-10-14T17:40:36+00:00",
+   "first_seen": "2026-10-14T17:40:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025569": {
+   "id": "valfardsomradesstyrelsen/2025-10-02",
+   "date": "2025-10-02",
+   "stage": "minutes",
+   "hash": "8e206ff6c9e6115d",
+   "fetched_at": "2026-10-14T17:40:48+00:00",
+   "first_seen": "2026-10-14T17:40:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025563": {
+   "id": "palvelut-ja-henkilosto-lautakunta/2025-10-01",
+   "date": "2025-10-01",
+   "stage": "minutes",
+   "hash": "6d1604eaca297af6",
+   "fetched_at": "2026-10-14T17:40:57+00:00",
+   "first_seen": "2026-10-14T17:40:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025565": {
+   "id": "aluehallitus/2025-09-29",
+   "date": "2025-09-29",
+   "stage": "minutes",
+   "hash": "ba634383408b654a",
+   "fetched_at": "2026-10-14T17:41:06+00:00",
+   "first_seen": "2026-10-14T17:41:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025566": {
+   "id": "valfardsomradesstyrelsen/2025-09-29",
+   "date": "2025-09-29",
+   "stage": "minutes",
+   "hash": "265a5a04b39854f9",
+   "fetched_at": "2026-10-14T17:41:15+00:00",
+   "first_seen": "2026-10-14T17:41:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025561": {
+   "id": "tulevaisuus-ja-kehittamislautakunta/2025-09-25",
+   "date": "2025-09-25",
+   "stage": "minutes",
+   "hash": "609673878e7a855f",
+   "fetched_at": "2026-10-14T17:41:24+00:00",
+   "first_seen": "2026-10-14T17:41:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025559": {
+   "id": "kansalliskielilautakunta/2025-09-24",
+   "date": "2025-09-24",
+   "stage": "minutes",
+   "hash": "8d779905b08c07e7",
+   "fetched_at": "2026-10-14T17:41:31+00:00",
+   "first_seen": "2026-10-14T17:41:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025560": {
+   "id": "nationalspraksnamnden/2025-09-24",
+   "date": "2025-09-24",
+   "stage": "minutes",
+   "hash": "0de718b5b569ef51",
+   "fetched_at": "2026-10-14T17:41:38+00:00",
+   "first_seen": "2026-10-14T17:41:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025562": {
+   "id": "valmius-ja-turvallisuuslautakunta/2025-09-23",
+   "date": "2025-09-23",
+   "stage": "minutes",
+   "hash": "5ab044f6f1cece7a",
+   "fetched_at": "2026-10-14T17:41:46+00:00",
+   "first_seen": "2026-10-14T17:41:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025552": {
+   "id": "aluehallitus/2025-09-15",
+   "date": "2025-09-15",
+   "stage": "minutes",
+   "hash": "101da49b92fd8a91",
+   "fetched_at": "2026-10-14T17:42:07+00:00",
+   "first_seen": "2026-10-14T17:42:07+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025554": {
+   "id": "valfardsomradesstyrelsen/2025-09-15",
+   "date": "2025-09-15",
+   "stage": "minutes",
+   "hash": "8b56ad35433692f9",
+   "fetched_at": "2026-10-14T17:42:28+00:00",
+   "first_seen": "2026-10-14T17:42:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025537": {
+   "id": "radet-for-personer-med-funktionsnedsattning/2025-09-11",
+   "date": "2025-09-11",
+   "stage": "minutes",
+   "hash": "9018345695aad35c",
+   "fetched_at": "2026-10-14T17:42:39+00:00",
+   "first_seen": "2026-10-14T17:42:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025534": {
+   "id": "vammaisneuvosto/2025-09-11",
+   "date": "2025-09-11",
+   "stage": "minutes",
+   "hash": "159304a466928866",
+   "fetched_at": "2026-10-14T17:42:50+00:00",
+   "first_seen": "2026-10-14T17:42:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025551": {
+   "id": "tarkastuslautakunta/2025-09-10",
+   "date": "2025-09-10",
+   "stage": "minutes",
+   "hash": "5aa455c7300fc0bf",
+   "fetched_at": "2026-10-14T17:42:57+00:00",
+   "first_seen": "2026-10-14T17:42:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025536": {
+   "id": "aldreradet/2025-09-04",
+   "date": "2025-09-04",
+   "stage": "minutes",
+   "hash": "6ae7d28e6c8b340a",
+   "fetched_at": "2026-10-14T17:43:08+00:00",
+   "first_seen": "2026-10-14T17:43:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025533": {
+   "id": "vanhusneuvosto/2025-09-04",
+   "date": "2025-09-04",
+   "stage": "minutes",
+   "hash": "73c942a49bd3b8c7",
+   "fetched_at": "2026-10-14T17:43:19+00:00",
+   "first_seen": "2026-10-14T17:43:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025532": {
+   "id": "nuorisovaltuusto/2025-09-02",
+   "date": "2025-09-02",
+   "stage": "minutes",
+   "hash": "b00bc60d8c5587fe",
+   "fetched_at": "2026-10-14T17:43:31+00:00",
+   "first_seen": "2026-10-14T17:43:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025535": {
+   "id": "ungdomsfullmaktige/2025-09-02",
+   "date": "2025-09-02",
+   "stage": "minutes",
+   "hash": "c7a15cecafe66657",
+   "fetched_at": "2026-10-14T17:43:43+00:00",
+   "first_seen": "2026-10-14T17:43:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025545": {
+   "id": "tulevaisuus-ja-kehittamislautakunta/2025-08-28",
+   "date": "2025-08-28",
+   "stage": "minutes",
+   "hash": "e558da2130479c70",
+   "fetched_at": "2026-10-14T17:43:49+00:00",
+   "first_seen": "2026-10-14T17:43:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025542": {
+   "id": "kansalliskielilautakunta/2025-08-27",
+   "date": "2025-08-27",
+   "stage": "minutes",
+   "hash": "6cf61d2d54602757",
+   "fetched_at": "2026-10-14T17:43:55+00:00",
+   "first_seen": "2026-10-14T17:43:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025543": {
+   "id": "nationalspraksnamnden/2025-08-27",
+   "date": "2025-08-27",
+   "stage": "minutes",
+   "hash": "28b0466cff7ae259",
+   "fetched_at": "2026-10-14T17:44:01+00:00",
+   "first_seen": "2026-10-14T17:44:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025546": {
+   "id": "valmius-ja-turvallisuuslautakunta/2025-08-26",
+   "date": "2025-08-26",
+   "stage": "minutes",
+   "hash": "d52c49f4f5c627bb",
+   "fetched_at": "2026-10-14T17:44:08+00:00",
+   "first_seen": "2026-10-14T17:44:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025540": {
+   "id": "aluehallitus/2025-08-25",
+   "date": "2025-08-25",
+   "stage": "minutes",
+   "hash": "f8cff6e5eafb52b5",
+   "fetched_at": "2026-10-14T17:44:23+00:00",
+   "first_seen": "2026-10-14T17:44:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025541": {
+   "id": "valfardsomradesstyrelsen/2025-08-25",
+   "date": "2025-08-25",
+   "stage": "minutes",
+   "hash": "1313f57e263c5257",
+   "fetched_at": "2026-10-14T17:44:38+00:00",
+   "first_seen": "2026-10-14T17:44:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025544": {
+   "id": "palvelut-ja-henkilosto-lautakunta/2025-08-25",
+   "date": "2025-08-25",
+   "stage": "minutes",
+   "hash": "91381026f9203d26",
+   "fetched_at": "2026-10-14T17:44:45+00:00",
+   "first_seen": "2026-10-14T17:44:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025539": {
+   "id": "tarkastuslautakunta/2025-08-20",
+   "date": "2025-08-20",
+   "stage": "minutes",
+   "hash": "e1b9d23703934d37",
+   "fetched_at": "2026-10-14T17:44:53+00:00",
+   "first_seen": "2026-10-14T17:44:53+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025518": {
+   "id": "aluehallitus/2025-08-18",
+   "date": "2025-08-18",
+   "stage": "minutes",
+   "hash": "14a81a510c0ecc6f",
+   "fetched_at": "2026-10-14T17:45:01+00:00",
+   "first_seen": "2026-10-14T17:45:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025521": {
+   "id": "valfardsomradesstyrelsen/2025-08-18",
+   "date": "2025-08-18",
+   "stage": "minutes",
+   "hash": "dd132395673f2720",
+   "fetched_at": "2026-10-14T17:45:09+00:00",
+   "first_seen": "2026-10-14T17:45:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025530": {
+   "id": "tulevaisuus-ja-kehittamislautakunta/2025-08-14",
+   "date": "2025-08-14",
+   "stage": "minutes",
+   "hash": "6128edd33225932a",
+   "fetched_at": "2026-10-14T17:45:16+00:00",
+   "first_seen": "2026-10-14T17:45:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025527": {
+   "id": "kansalliskielilautakunta/2025-08-13",
+   "date": "2025-08-13",
+   "stage": "minutes",
+   "hash": "d6947721d6849f49",
+   "fetched_at": "2026-10-14T17:45:23+00:00",
+   "first_seen": "2026-10-14T17:45:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025528": {
+   "id": "nationalspraksnamnden/2025-08-13",
+   "date": "2025-08-13",
+   "stage": "minutes",
+   "hash": "5aa0520a46304d01",
+   "fetched_at": "2026-10-14T17:45:30+00:00",
+   "first_seen": "2026-10-14T17:45:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025531": {
+   "id": "valmius-ja-turvallisuuslautakunta/2025-08-13",
+   "date": "2025-08-13",
+   "stage": "minutes",
+   "hash": "24899bec3597c832",
+   "fetched_at": "2026-10-14T17:45:37+00:00",
+   "first_seen": "2026-10-14T17:45:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025529": {
+   "id": "palvelut-ja-henkilosto-lautakunta/2025-08-11",
+   "date": "2025-08-11",
+   "stage": "minutes",
+   "hash": "3e60b9d593b2a32b",
+   "fetched_at": "2026-10-14T17:45:44+00:00",
+   "first_seen": "2026-10-14T17:45:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025511": {
+   "id": "aluehallitus/2025-06-16",
+   "date": "2025-06-16",
+   "stage": "minutes",
+   "hash": "b52e483e296dc652",
+   "fetched_at": "2026-10-14T17:46:06+00:00",
+   "first_seen": "2026-10-14T17:46:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025513": {
+   "id": "valfardsomradesstyrelsen/2025-06-16",
+   "date": "2025-06-16",
+   "stage": "minutes",
+   "hash": "08b864f074e3448d",
+   "fetched_at": "2026-10-14T17:46:28+00:00",
+   "first_seen": "2026-10-14T17:46:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025501": {
+   "id": "radet-for-personer-med-funktionsnedsattning/2025-06-12",
+   "date": "2025-06-12",
+   "stage": "minutes",
+   "hash": "61418e70cf55c49b",
+   "fetched_at": "2026-10-14T17:46:41+00:00",
+   "first_seen": "2026-10-14T17:46:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025500": {
+   "id": "vammaisneuvosto/2025-06-12",
+   "date": "2025-06-12",
+   "stage": "minutes",
+   "hash": "c52024fd461aebef",
+   "fetched_at": "2026-10-14T17:46:54+00:00",
+   "first_seen": "2026-10-14T17:46:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025509": {
+   "id": "aluevaltuusto/2025-06-10",
+   "date": "2025-06-10",
+   "stage": "minutes",
+   "hash": "a53b8ad5e432696a",
+   "fetched_at": "2026-10-14T17:47:11+00:00",
+   "first_seen": "2026-10-14T17:47:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025510": {
+   "id": "valfardsomradesfullmaktige/2025-06-10",
+   "date": "2025-06-10",
+   "stage": "minutes",
+   "hash": "9426922e608a9f1e",
+   "fetched_at": "2026-10-14T17:47:28+00:00",
+   "first_seen": "2026-10-14T17:47:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025491": {
+   "id": "aldreradet/2025-06-05",
+   "date": "2025-06-05",
+   "stage": "minutes",
+   "hash": "3e7a36f76af79094",
+   "fetched_at": "2026-10-14T17:47:38+00:00",
+   "first_seen": "2026-10-14T17:47:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025490": {
+   "id": "vanhusneuvosto/2025-06-05",
+   "date": "2025-06-05",
+   "stage": "minutes",
+   "hash": "ffe679e08213c479",
+   "fetched_at": "2026-10-14T17:47:48+00:00",
+   "first_seen": "2026-10-14T17:47:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025498": {
+   "id": "nuorisovaltuusto/2025-06-03",
+   "date": "2025-06-03",
+   "stage": "minutes",
+   "hash": "083e52a32874bc90",
+   "fetched_at": "2026-10-14T17:47:58+00:00",
+   "first_seen": "2026-10-14T17:47:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025499": {
+   "id": "ungdomsfullmaktige/2025-06-03",
+   "date": "2025-06-03",
+   "stage": "minutes",
+   "hash": "0a34b59d329c06de",
+   "fetched_at": "2026-10-14T17:48:08+00:00",
+   "first_seen": "2026-10-14T17:48:08+00:00",
+   "parser_version": "0.1.0"
+  }
+ },
+ "last_run": "2026-10-15T01:35:00+00:00"
+}

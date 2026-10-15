@@ -1,0 +1,93 @@
+[
+ {
+  "id": "aluehallitus",
+  "name": "Aluehallitus",
+  "type": "board",
+  "url": "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaalilautakunta",
+  "name": "Aluevaalilautakunta",
+  "type": "committee",
+  "url": "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluevaalilautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaltuusto",
+  "name": "Aluevaltuusto",
+  "type": "council",
+  "url": "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto",
+  "language": "fi"
+ },
+ {
+  "id": "ikaantyneet-ja-vammaiset-lautakunta",
+  "name": "Ikääntyneet ja vammaiset -lautakunta",
+  "type": "committee",
+  "url": "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneet_ja_vammaiset_lautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "kehittamis-ja-tulevaisuuslautakunta",
+  "name": "Kehittämis- ja tulevaisuuslautakunta",
+  "type": "committee",
+  "url": "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Kehittaumlmis_ja_tulevaisuuslautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "konsernijaosto",
+  "name": "Konsernijaosto",
+  "type": "section",
+  "url": "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Konsernijaosto",
+  "language": "fi"
+ },
+ {
+  "id": "lapset-nuoret-ja-tyoikaiset-lautakunta",
+  "name": "Lapset, nuoret ja työikäiset -lautakunta",
+  "type": "committee",
+  "url": "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Lapset_nuoret_ja_tyoumlikaumliset_lautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "nuorisovaltuusto",
+  "name": "Nuorisovaltuusto",
+  "type": "advisory",
+  "url": "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto",
+  "language": "fi"
+ },
+ {
+  "id": "palveluiden-jarjestamisen-lautakunta",
+  "name": "Palveluiden järjestämisen lautakunta",
+  "type": "committee",
+  "url": "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Palveluiden_jaumlrjestaumlmisen_lautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "rahoitus-ja-talousjaosto",
+  "name": "Rahoitus- ja talousjaosto",
+  "type": "section",
+  "url": "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Rahoitus_ja_talousjaosto",
+  "language": "fi"
+ },
+ {
+  "id": "tarkastuslautakunta",
+  "name": "Tarkastuslautakunta",
+  "type": "committee",
+  "url": "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "vammaisneuvosto",
+  "name": "Vammaisneuvosto",
+  "type": "advisory",
+  "url": "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto",
+  "language": "fi"
+ },
+ {
+  "id": "vanhusneuvosto",
+  "name": "Vanhusneuvosto",
+  "type": "advisory",
+  "url": "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto",
+  "language": "fi"
+ }
+]

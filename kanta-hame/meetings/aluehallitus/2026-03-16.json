@@ -1,0 +1,662 @@
+{
+ "id": "aluehallitus/2026-03-16",
+ "region": "kanta-hame",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2026-03-16",
+ "stage": "minutes",
+ "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026204",
+ "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026204.PDF",
+ "time": "09:00 - 11:19",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "117",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026204-1",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026204-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää todeta kokouksen lailliseksi ja päätösvaltaiseksi.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen. Lisäksi aluehallitus päätti myöntää läsnäolo- ja puheoikeuden asian § 120 osalta palvelupäällikkö Tanja Kannonmaalle, tulosaluejohtaja Jaana Paasikankaalle ja tulosaluejohtaja Johanna Pulkkiselle; asian § 124 osalta projektijohtaja Tanja Kaarnalle.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallituksen kokouskutsusta on säädetty hallintosäännön 139 §:ssä. Hyvinvointialueesta annetun lain 108 §:n 2 momentin mukaan aluehallitus on päätösvaltainen, kun yli puolet jäsenistä on läsnä."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluehallitus päättää todeta kokouksen lailliseksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen. Lisäksi aluehallitus päätti myöntää läsnäolo- ja puheoikeuden asian § 120 osalta palvelupäällikkö Tanja Kannonmaalle, tulosaluejohtaja Jaana Paasikankaalle ja tulosaluejohtaja Johanna Pulkkiselle; asian § 124 osalta projektijohtaja Tanja Kaarnalle."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "118",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026204-2",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026204-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää valita kaksi jäsentä tarkastamaan tämän kokouksen pöytäkirjan.",
+   "decision": "Aluehallitus päätti valita pöytäkirjantarkastajiksi Tapani Hellsténin ja Aapo Reiman.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hallintosäännön 159 §:n mukaan pöytäkirja tarkastetaan toimielimen päättämällä tavalla. Pöytäkirja voidaan allekirjoittaa ja tarkastaa sähköisesti.\n\nAluehallituksen pöytäkirjan tarkastaa kaksi kullakin kerralla tähän tehtävään valittua hallituksen jäsentä, jollei aluehallitus jonkin asian kohdalla toisin päätä. Tällä kertaa tarkastusvuorossa ovat Aapo Reima ja Tapani Hellstén (varalla Helena Lehkonen)."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluehallitus päättää valita kaksi jäsentä tarkastamaan tämän kokouksen pöytäkirjan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti valita pöytäkirjantarkastajiksi Tapani Hellsténin ja Aapo Reiman."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "119",
+   "title": "Kokouksen työjärjestyksen hyväksyminen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026204-3",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026204-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää hyväksyä tämän kokouksen työjärjestyksen.",
+   "decision": "Aluehallitus päätti käsitellä asiat esityslistan mukaisessa järjestyksessä.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluehallitus päättää hyväksyä tämän kokouksen työjärjestyksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti käsitellä asiat esityslistan mukaisessa järjestyksessä."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "120",
+   "title": "Ilmoitusasiat",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026204-4",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026204-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä tiedoksi esitetyt ilmoitusasiat.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.\n\nPasi Honkanen poistui kokouksesta esteellisenä tämän asian käsittelyn aikana säätiöitä koskien asioiden käsittelyn ajaksi (yhteisöjäävi).",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallituksen aamukouluasiat\n\nSäätiöselvitys – tilannekatsaus / controller Mirella Bitter, palvelupäällikkö Tanja Kannonmaa, tulosaluejohtaja Jaana Paasikangas, tulosaluejohtaja Johanna Pulkkinen, hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä tiedoksi esitetyt ilmoitusasiat."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen.\n\nPasi Honkanen poistui kokouksesta esteellisenä tämän asian käsittelyn aikana säätiöitä koskien asioiden käsittelyn ajaksi (yhteisöjäävi)."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "121",
+   "title": "Hankintapäätös Ateria-, ruoka- ja laitoshuoltopalveluiden hankinnasta",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026204-5",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026204-5.PDF",
+   "diary_number": "226/02.08.03/2025",
+   "preparer": "hankintapäällikkö Mikko Tuomas, hankinnan erityisasiantuntija Sini Pennanen",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää\n\nmerkitä tiedoksi markkinaoikeuden päätöksen nro 677/2025 (27.11.2025) sekä korkeimman hallinto-oikeuden päätöksen 438/2026 (18.2.2026)\n\ntodeta, että hankinnasta on suoritettu markkinaoikeuden päätöksen mukainen uusi tarjousvertailu\n\nvalita ateria-, ruoka- ja laitoshuoltopalveluiden palveluntuottajaksi Palmia Oy:n, jonka tarjous on kokonaistaloudellisesti edullisin.\n\noikeuttaa konserni- ja tukipalvelun toimialan toimialajohtajan allekirjoittamaan valitun palveluntuottajan kanssa hankintaa koskevan sopimuksen ja tekemään siihen tarvittavat teknisluontoiset tarkennukset\n\ntarkastaa pöytäkirjan tämän asian osalta kokouksessa.",
+   "decision": "Aluehallitus hyväksyi hyvinvointialuejohtajan muutetun päätösesityksen.",
+   "discussion": "Hyvinvointialuejohtajan muutettu päätösesitys:\n\nAluehallitus päättää\n\nmerkitä tiedoksi markkinaoikeuden päätöksen nro 677/2025 (27.11.2025) sekä korkeimman hallinto-oikeuden päätöksen 438/2026 (18.2.2026)\n\nlisätä pöytäkirjan liitteeksi markkinaoikeuden päätöksen nro 677/2025 (27.11.2025) sekä korkeimman hallinto-oikeuden päätöksen 438/2026 (18.2.2026)\n\ntodeta, että hankinnasta on suoritettu markkinaoikeuden päätöksen mu-kainen uusi tarjousvertailu\n\nvalita ateria-, ruoka- ja laitoshuoltopalveluiden palveluntuottajaksi Pal-mia Oy:n, jonka tarjous on kokonaistaloudellisesti edullisin.\n\noikeuttaa konserni- ja tukipalvelun toimialan toimialajohtajan allekirjoit-tamaan valitun palveluntuottajan kanssa hankintaa koskevan sopimuk-sen ja tekemään siihen tarvittavat teknisluontoiset tarkennukset\n\ntarkastaa pöytäkirjan tämän asian osalta kokouksessa.",
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "hankintapäällikkö Mikko Tuomas, hankinnan erityisasiantuntija Sini Pennanen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Asian aikaisempi käsittely\n\nAluehallitus on päätöksellään § 475 (9.12.2024) valinnut ateria-, ruoka- ja laitoshuoltopalveluiden palveluntuottajaksi tarjouskilpailun voittajaksi Fodbar Oy:n ryhmittymän (Fodbar Oy, Feelia Oy ja Barona HoReCa Oy).\n\nHankintapäätöksestä valittivat markkinaoikeuteen Compass Group Finland Oy ja Palmia Oy.\n\nMarkkinaoikeus on antanut asiassa päätöksen nro 677/2025 (27.11.2025). Markkinaoikeus totesi ratkaisussaan, että hankinta-asiakirjoista ei ole käynyt ilmi, että tarjouskilpailuun olisi sovellettu hankintalain (1397/2016) 96 §:n mukaista poikkeuksellisen alhaisia tarjouksia koskevaa menettelyä eikä hankinta-asiakirjoissa ollut muutoin kuvattu tällaista menettelyä. Markkinaoikeus katsoi, että hankintayksikkö oli menetellyt hankintasäännösten vastaisesti hylätessään Palmia Oy:n tarjouksen hinnaltaan poikkeuksellisen alhaisena. Compass Group Finland Oy:n valitus hylättiin.\n\nMarkkinaoikeus katsoi, että hankintayksikön virheellinen menettely voidaan korjata vertailemalla tarjoukset uudelleen ja tekemällä asiassa uusi perusteltu hankintapäätös.\n\nHankintayksikkö haki asiassa valituslupaa korkeimmalta hallinto-oikeudelta. Korkein hallinto-oikeus on päätöksellään 438/2026 (18.2.2026) hylännyt valituslupahakemuksen äänin 2–1 eikä siten antanut ratkaisua valitukseen.\n\nAsian arviointi\n\nMarkkinaoikeuden päätöksen johdosta hankintayksikkö on suorittanut uuden tarjousvertailun siten, että Palmia Oy:n tarjous on otettu huomioon vertailussa.\n\nUuden tarjousvertailun perusteella Palmia Oy:n tarjous on kokonaistaloudellisesti edullisin tarjous tarjouspyynnössä asetettujen vertailuperusteiden mukaisesti.\n\nHankinnan laajuus ja sopimuskausi\n\nHankinta koskee jo ulkoistettuja ateria-, ruoka ja laitoshuoltopalveluita Hämeenlinnan ja Riihimäen seudulla. Hankinnan sopimuskausi on Sopimuksen allekirjoituksesta alkaen määräaikainen neljä (4) vuotta. Sopimus jatkuu määräaikaisen jakson jälkeen toistaiseksi voimassa olevana tilaajan kuuden (6) kuukauden ja palveluntuottajan 12 kuukauden irtisanomisajalla.\n\nHankinnan arvo\n\nSopimuksen arvo on tarjouksen vertailuhinnan perusteella 15 208 102,95 (alv. 0 %) euroa sopimuskaudella (laskennallisesti neljä (4) vuotta).\n\nHankinnan ennakoitu arvo oli 60 000 000 euroa, hankinta sisälsi option toiminnan laajentamisesta.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 10.5 §:n 7 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\nmerkitä tiedoksi markkinaoikeuden päätöksen nro 677/2025 (27.11.2025) sekä korkeimman hallinto-oikeuden päätöksen 438/2026 (18.2.2026)\n\ntodeta, että hankinnasta on suoritettu markkinaoikeuden päätöksen mukainen uusi tarjousvertailu\n\nvalita ateria-, ruoka- ja laitoshuoltopalveluiden palveluntuottajaksi Palmia Oy:n, jonka tarjous on kokonaistaloudellisesti edullisin.\n\noikeuttaa konserni- ja tukipalvelun toimialan toimialajohtajan allekirjoittamaan valitun palveluntuottajan kanssa hankintaa koskevan sopimuksen ja tekemään siihen tarvittavat teknisluontoiset tarkennukset\n\ntarkastaa pöytäkirjan tämän asian osalta kokouksessa."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Hyvinvointialuejohtajan muutettu päätösesitys:\n\nAluehallitus päättää\n\nmerkitä tiedoksi markkinaoikeuden päätöksen nro 677/2025 (27.11.2025) sekä korkeimman hallinto-oikeuden päätöksen 438/2026 (18.2.2026)\n\nlisätä pöytäkirjan liitteeksi markkinaoikeuden päätöksen nro 677/2025 (27.11.2025) sekä korkeimman hallinto-oikeuden päätöksen 438/2026 (18.2.2026)\n\ntodeta, että hankinnasta on suoritettu markkinaoikeuden päätöksen mu-kainen uusi tarjousvertailu\n\nvalita ateria-, ruoka- ja laitoshuoltopalveluiden palveluntuottajaksi Pal-mia Oy:n, jonka tarjous on kokonaistaloudellisesti edullisin.\n\noikeuttaa konserni- ja tukipalvelun toimialan toimialajohtajan allekirjoit-tamaan valitun palveluntuottajan kanssa hankintaa koskevan sopimuk-sen ja tekemään siihen tarvittavat teknisluontoiset tarkennukset\n\ntarkastaa pöytäkirjan tämän asian osalta kokouksessa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi hyvinvointialuejohtajan muutetun päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / hankintapäällikkö Mikko Tuomas, hankinnan erityisasiantuntija Sini Pennanen"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Hankintaoikaisu\n\nValitusosoitus markkinaoikeuteen"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Liite 1 vertailutaulukko siivous-, ateria- ja ruokapalvelut",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026204-5-400211.PDF"
+    },
+    {
+     "title": "Liite 2 Liite 2 Vertailun yhteenveto",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026204-5-400212.PDF"
+    },
+    {
+     "title": "Liite 3 Liite 2.1 Palvelukonsepti laatuvertailun yhteenveto",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026204-5-400216.PDF"
+    },
+    {
+     "title": "Liite 4 Liite 2.2 Tiimihaastattelu laatuvertailun yhteenveto",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026204-5-400217.PDF"
+    },
+    {
+     "title": "Liite 5 Liite 3 Tarjouspyynnön liite 13 Vertailuperusteet",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026204-5-400220.PDF"
+    },
+    {
+     "title": "Liite 6 Liite 3.1 Tarjouspyynnön liite 13.1 Asiakastyytyväisyyskysely (muokattu uusi liite)",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026204-5-400222.PDF"
+    },
+    {
+     "title": "Liite 7 Liite 3.2 Tarjouspyynnön liite 13.2 Palvelukonsepti laatuvertailu",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026204-5-400224.PDF"
+    },
+    {
+     "title": "Liite 8 Markkinaoikeuden päätös 677⁄2025 (27.11.2025)",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026204-5-401348.PDF"
+    },
+    {
+     "title": "Liite 9 Korkeimman hallinto-oikeuden päätös 438⁄2026 (18.2.2026)",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026204-5-401351.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "122",
+   "title": "Jäsenen nimeäminen Koivikkosäätiö sr:n hallitukseen sekä hallintoneuvostoon",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026204-6",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026204-6.PDF",
+   "diary_number": "3136/00.01.01/2026",
+   "preparer": "hallintojohtaja Katja Tommiska",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää nimetä\n\n1. jäsenen Koivikkosäätiö sr:n hallintoneuvostoon\n\n2. jäsenen Koivikkosäätiö sr:n hallitukseen.",
+   "decision": "Aluehallitus päätti yksimielisesti jättää asian pöydälle.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 09.03.2026 § 112"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Koivikkosäätiön tarkoituksena on edistää, ylläpitää ja kehittää parantumattomasti sairaiden henkilöiden elämän loppuvaiheen palliatiivista hoitoa ja saattohoitoa. Tarkoituksensa toteuttamiseksi säätiö tarjoaa hallitsemissaan tiloissa hoitoon liittyviä terveyden- ja sosiaalihuollon palveluja, tukee kotona tapahtuvaa palliatiivista- ja saattohoitoa sekä organisoi vapaaehtoistyötä potilaan läheisten kanssa. Tämän lisäksi säätiö voi ylläpitää erilaista tutkimus- ja kokeilu-, kehittämis- ja koulutustoimintaa.\n\nKoivikkosäätiö sr:n hallintoneuvosto\n\nSäätiön sääntöjen 5 kohdan Hallintoneuvosto mukaan\n\n”Hallintoneuvostoon kuuluu vähintään kuusi (6) jäsentä ja enintään kymmenen (10 jäsentä. Hallintoneuvoston jäsenen toimikausi on kolme (3) vuotta. Hallintoneuvosto valitsee tarvittaessa uusia jäseniä. Kesken toimikauden valitun uuden jäsenen toimikausi päättyy seuraavassa vuosikokouksessa.\n\nKanta-Hämeen hyvinvointialueella on oikeus valita yksi (1) jäsen säätiön hallintoneuvostoon. Valintaoikeus perustuu Kanta-Hämeen Hyvinvointialueen ja säätiön väliseen yhteistyösopimukseen. Hyvinvointialueen valitsemalla hallintoneuvoston jäsenellä on lojaalisuusvelvoite vain säätiötä kohtaan.”\n\nKoivikkosäätiö sr:n hallitus\n\nSäätiön sääntöjen kohdan 7 Hallitus mukaan:\n\n”Säätiön asioita ja sitä edustaa vuodeksi kerrallaan valittu hallitus. Säätiön hallitukseen kuuluu puheenjohtajan lisäksi vähintään neljä (4) ja enintään yhdeksän (9) jäsentä.\n\nHallintoneuvosto nimeää jäsenet vuodeksi kerrallaan. Kanta-Hämeen hyvinvointialueella on oikeus nimittää hallitukseen yksi (1) jäsen hyvinvointialueen ja säätiön väliseen yhteistyösopimukseen perustuen. Sairaanhoitopiirin valitsemalla hallituksen jäsenellä on lojaalisuusvelvoite vain säätiötä kohtaan.\n\nHallituksen uudeksi jäseneksi ei voida valita 75 vuotta täyttänyttä henkilöä. Hallituksen toimikausi alkaa valinnan suorittaneen hallintoneuvoston kokouksen päätyttyä.”\n\nKanta-Hämeen hyvinvointialueen hallintosäännön 35.2 §:n 10 kohdan mukaan aluehallitus nimeää hyvinvointialueen ehdokkaat tytäryhteisöjen hallituksiin ja 10.5 §:n 13 kohdan mukaan päättää edustajien nimeämisestä yksityisoikeudellisten yhteisöjen, säätiöiden ja laitosten toimielimiin.\n\nMeneillään olevana toimikautena Koivikkosäätiö sr:n hallituksessa on Kanta-Hämeen hyvinvointialueelta ollut Mirja Soinikoski.\n\nKoivikkosäätiö sr:n hallintoneuvostossa ei ole ollut meneillään olevana toimikautena edustajaa Kanta-Hämeen hyvinvointialueelta.\n\nHyvinvointialueen käyttäessä oikeuttaan nimetä jäsenet hallitukseen ja hallintoneuvostoon Koivikkosäätiö on pyytänyt ilmoittamaan tiedon valituista 30.3.2025 mennessä.\n\nKoivikkosäätiö sr:n säännöt ovat liitteenä.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 35.2 §:n 10 kohta ja 10.5 § 13 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää nimetä\n\njäsenen Koivikkosäätiö sr:n hallintoneuvostoon\n\njäsenen Koivikkosäätiö sr:n hallitukseen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti yksimielisesti jättää asian pöydälle."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluehallitus on 9.3.2026 päättänyt jättää tämän asian pöydälle.\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 35.2 §:n 10 kohta ja 10.5 § 13 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää nimetä\n\n1. jäsenen Koivikkosäätiö sr:n hallintoneuvostoon\n\n2. jäsenen Koivikkosäätiö sr:n hallitukseen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti yksimielisesti jättää asian pöydälle."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / Koivikkosäätiö Riikka Koivisto, hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Säätiön säännöt",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026204-6-399344.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "123",
+   "title": "Testamentin vastaanottaminen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026204-7",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026204-7.PDF",
+   "diary_number": "10457/02.07.02/2025",
+   "preparer": "riskienhallintapäällikkö Anu Junikka",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää\n\nhyväksyä testamentin ja merkitsee sen tiedoksi annetuksi sekä päättää vastaanottaa testamentilla lahjoitetut varat.\n\noikeuttaa riskienhallintapäällikön allekirjoittamaan testamentin tiedoksianto- ja hyväksymisilmoituksen.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "riskienhallintapäällikkö Anu Junikka"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hyvinvointialue on vastaanottanut 15.8.2025 liiteasiakirjoina olevan testamentin, perunkirjan ja kuolinpesän osakkaan allekirjoittaman testamentin tiedoksianto- ja moittimattomuustodistuksen. Testamentista käy ilmi, että 17.9.2024 kuollut ********************* on 7.1.2008 laaditulla testamentilla lahjoittanut hyvinvointialueelle asuntonsa myynnistä kertyneet ja kuolinpesän velkojen ja kulujen jälkeen jäljelle jääneet rahavarat käytettäväksi syöpää sairastavien lasten hoitoon.\n\nPerunkirjasta ilmenee, että kuolinpesän varat ja velat ovat maksettu, omaisuus realisoitu, ja testamentin 3.1.2025 päivätyn tiedoksiantotodistuksen perusteella kuolinpesän osakas on luopunut vaatimasta lakiosaansa tai moittimasta testamenttia. Edellä mainittujen selvitysten perusteella arvioituna testamentti on täytäntöönpanokelpoinen.\n\nLiitteenä olevat testamenttiin ja sen vastaanottamiseen liittyvät asiakirjat ovat salassa pidettäviä viranomaisten toiminnan julkisuudesta annetun lain (621/1999) 24.1 §:n 23 kohdan perusteella.\n\n(SA-K)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 10.5 § 31 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\nhyväksyä testamentin ja merkitsee sen tiedoksi annetuksi sekä päättää vastaanottaa testamentilla lahjoitetut varat.\n\noikeuttaa riskienhallintapäällikön allekirjoittamaan testamentin tiedoksianto- ja hyväksymisilmoituksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / testamentin tiedoksi antaja, riskienhallintapäällikkö Anu Junikka, taloushallinnon asiantuntija Tiia Forsell-Nopanen"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "124",
+   "title": "Maksuttoman pysäköinnin kriteerit",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026204-8",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026204-8.PDF",
+   "diary_number": "1659/00.01.02.00/2026",
+   "preparer": "rahoitus- ja investointijohtaja Petrus Kukkonen, projektijohtaja Tanja Kaarna",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää\n\nhyväksyä maksuttoman pysäköinnin kriteerit (liite)\n\nmyöntää dialyysiasiakasryhmälle oikeuden maksuttomaan pysäköintiin.",
+   "decision": "Aluehallitus päätti\n\nhyväksyä maksuttoman pysäköinnin kriteerit (liite)\n\nmyöntää dialyysiasiakasryhmälle oikeuden maksuttomaan pysäköintiin\n\nmyöntää hakemuksesta LE-tunnuksella oikeuden maksuttomaan pysäköintiin.",
+   "discussion": "Keskustelun aikana Tarja Filatov teki Aapo Reiman kannattamana muutosesityksen, että lisätään päätösesitykseen seuraava kohta ”3. myöntää hakemuksesta LE-tunnuksella oikeuden maksuttomaan pysäköintiin”.\n\nPuheenjohtaja totesi aluehallituksen kannattavan yksimielisesti Tarja Filatovin muutosesitystä.",
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 09.02.2026 § 49"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "rahoitus- ja investointijohtaja Petrus Kukkonen, projektijohtaja Tanja Kaarna"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aikaisempi käsittely\n\nAluehallitus 03.11.2025 § 362\n\nTaustaa\n\nKanta-Hämeen hyvinvointialueen aluevaltuusto päätti 3.11.2025, että pysäköinti on maksullista Assi-sairaalan, Ahveniston ja Viipurintien alueilla asiakkaille ja henkilöstölle esitetyillä pysäköintialueilla. Samalla päätettiin, että paljon palveluita käyttävien asiakasryhmien maksuhuojennuksista päätetään erikseen.\n\nHyvinvointialue päättää järjestää maksuttoman pysäköinnin niille asiakasryhmille, joiden osalta pysäköintimaksu muodostaisi tosiasiallisen esteen lakisääteisten sosiaali- ja terveyspalvelujen yhdenvertaiselle saavutettavuudelle. Maksutonta pysäköintiä esitetään asiakasryhmille (kriteerit), joilla toistuva, pysyvä ja pitkäaikainen hoito tai palvelujen käyttö aiheuttaisi kohtuuttomia kustannuksia.\n\nToimialat tekevät esitykset asiakkaiden yhdenvertaisuuden ja sovittujen kriteerien perusteella. Päätökset asiakasryhmien maksuttomasta pysäköinnistä tekee rahoitus- ja investointijohtaja.\n\n(SA-K)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 10.5 § 4 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää, että\n\nAssin, Ahveniston ja Viipurintien pysäköintialueilla oikeus maksuttomaan pysäköintiin on niillä asiakasryhmillä, joiden osalta pysäköintimaksu muodostaisi tosiasiallisen esteen lakisääteisten sosiaali- ja terveyspalvelujen yhdenvertaiselle saavutettavuudelle\n\nAssin, Ahveniston ja Viipurintien pysäköintialueilla maksuttomaan pysäköintiin oikeuttavasta asiakasryhmästä esityksen tekee toimiala ja päätöksen tekee rahoitus- ja investointijohtaja."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti siirtää asian käsittelyn seuraavaan kokoukseen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nAluehallitus 16.02.2026 § 69"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "rahoitus- ja investointijohtaja Petrus Kukkonen, projektijohtaja Tanja Kaarna"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluehallitus on päättänyt kokouksessaan 9.2.2026 siirtää tämän asian käsiteltäväksi seuraavassa kokouksessa.\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 10.5 § 4 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää, että\n\nAssin, Ahveniston ja Viipurintien pysäköintialueilla oikeus maksuttomaan pysäköintiin on niillä asiakasryhmillä, joiden osalta pysäköintimaksu muodostaisi tosiasiallisen esteen lakisääteisten sosiaali- ja terveyspalvelujen yhdenvertaiselle saavutettavuudelle\n\nAssin, Ahveniston ja Viipurintien pysäköintialueilla maksuttomaan pysäköintiin oikeuttavasta asiakasryhmästä esityksen tekee toimiala ja päätöksen tekee rahoitus- ja investointijohtaja."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti yksimielisesti, että\n\nAssin, Ahveniston ja Viipurintien pysäköintialueilla oikeus maksuttomaan pysäköintiin on niillä asiakasryhmillä, joiden osalta pysäköintimaksu muodostaisi tosiasiallisen esteen lakisääteisten sosiaali- ja terveyspalvelujen yhdenvertaiselle saavutettavuudelle\n\nAssin, Ahveniston ja Viipurintien pysäköintialueilla maksuttomaan pysäköintiin oikeuttavista asiakasryhmistä päätöksen tekee aluehallitus ja\n\ntarkemmat kriteerit tuodaan erikseen aluehallitukselle päätettäväksi."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "rahoitus- ja investointijohtaja Petrus Kukkonen, projektijohtaja Tanja Kaarna"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aikaisempi käsittely\n\nAluehallitus 03.11.2025 § 362\n\nAluehallitus 09.02.2026 § 49\n\nTaustaa\n\nKanta-Hämeen hyvinvointialueen aluehallitus päätti 3.11.2025, että pysäköinti on maksullista Assi-sairaalan, Ahveniston ja Viipurintien alueilla asiakkaille ja henkilöstölle. Samalla päätettiin, että paljon palveluita käyttävien asiakasryhmien maksuhuojennuksista päätetään erikseen.\n\nAluehallitus päätti 16.2.2025 § 49, että Assin, Ahveniston ja Viipurintien pysäköintialueilla oikeus maksuttomaan pysäköintiin on niillä asiakasryhmillä, joiden osalta pysäköintimaksu muodostaisi tosiasiallisen esteen lakisääteisten sosiaali- ja terveyspalvelujen yhdenvertaiselle saavutettavuudelle.\n\nMaksutonta pysäköintiä esitetään asiakasryhmille (kriteerit), joilla toistuva, pysyvä ja pitkäaikainen hoito tai palvelujen käyttö aiheuttaisi kohtuuttomia kustannuksia. Maksuttomuus ei ole yleinen etuus, vaan kohdennettu toimenpide tilanteisiin, joissa pysäköintimaksu muodostuisi tosiasialliseksi esteeksi palvelujen käyttöön.\n\nMaksuttoman pysäköinnin myöntämisen kriteerit on kuvattu liitteessä.\n\nDialyysiasiakasryhmä täyttää maksuttoman pysäköinnin myöntämisen kriteerit, joten asiakasryhmälle esitetään myönnettäväksi oikeus maksuttomaan pysäköintiin.\n\nLiitteenä on maksuttoman pysäköinnin kriteerit.\n\n(SA-K)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 10.5 § 4 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\nhyväksyä maksuttoman pysäköinnin kriteerit (liite)\n\nmyöntää dialyysiasiakasryhmälle oikeuden maksuttomaan pysäköintiin."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Keskustelun aikana Tarja Filatov teki Aapo Reiman kannattamana muutosesityksen, että lisätään päätösesitykseen seuraava kohta ”3. myöntää hakemuksesta LE-tunnuksella oikeuden maksuttomaan pysäköintiin”.\n\nPuheenjohtaja totesi aluehallituksen kannattavan yksimielisesti Tarja Filatovin muutosesitystä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti\n\nhyväksyä maksuttoman pysäköinnin kriteerit (liite)\n\nmyöntää dialyysiasiakasryhmälle oikeuden maksuttomaan pysäköintiin\n\nmyöntää hakemuksesta LE-tunnuksella oikeuden maksuttomaan pysäköintiin."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Asiaote / rahoitus- ja investointijohtaja Petrus Kukkonen, projektijohtaja Tanja Kaarna, toimialajohtajat Jarmo Lappalainen, Marika Paasikoski-Junninen ja Jorma Haapanen"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Liite AH maksuton pysäköinti kriteerit",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026204-8-397964.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "125",
+   "title": "Hyvinvointialueesta annetun lain 97 §:n mukaista ottomenettelyä varten saapuneet pöytäkirjat ja päätökset",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026204-9",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026204-9.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää, ettei se käytä otto-oikeutta edellä mainittuihin päätöksiin.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvointialueesta annetun lain 97 §:n mukaan aluehallitus, aluehallituksen puheenjohtaja, hyvinvointialuejohtaja ja hallintosäännössä määrätty hyvinvointialueen viranhaltija voivat ottaa aluehallituksen käsiteltäväksi asian, joka on tämän lain nojalla siirretty aluehallituksen alaisen viranomaisen tai aluehallituksen jaoston toimivaltaan ja jossa asianomainen viranomainen on tehnyt päätöksen.\n\nHyvinvointialueen hallintosäännön 32 §:n mukaan asian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nHallintosäännön 33 §:n mukaan aluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan.\n\nToimielimien pöytäkirjat ovat katsottavissa hyvinvointialueen verkkosivuilla osoitteessa: https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting_frames\n\nViranhaltijoiden päätösluettelo on liitteenä. Päätösasiakirjat ovat nähtävillä hyvinvointialueen verkkosivuilla osoitteessa: https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=official_frames"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää, ettei se käytä otto-oikeutta edellä mainittuihin päätöksiin."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Päätösluettelo 9.3.2026",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026204-9-400449.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "126",
+   "title": "Muut asiat",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026204-10",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026204-10.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä muut asiat tiedoksi.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kanta-Hämeen hyvinvointialueelle on saapunut seuraavat kirjeet:\n\n- Sosiaali- ja terveysministeriön päätös 3.3.2026: Hyvinvointialueen sosiaali- ja terveydenhuoltoa koskevan investointisuunnitelman osan\n\nhyväksyminen\n\n- Valtiovarainiministeriön lausuntopyyntö 6.3.2026: Lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laiksi julkisen hallinnon tiedonhallinnasta annetun lain 10 ja 11 §:n kumoamisesta sekä laiksi Kansallisarkistosta annetun lain 2 §:n muuttamisesta. Lausunnot pyydetään antamaan viimeistään 17.4.2026.\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 6.3.2026: Lausuntopyyntö sosiaali- ja terveydenhuollon valvonnasta annetun\n\nlain kehittämistarpeiden arviomuistiosta. Lausunnot pyydetään toimittamaan viimeistään 17.4.2026.\n\n- Ympäristöministeriön lausuntopyyntö 9.3.2026: Luonnos hallituksen esitykseksi yhdyskuntarakentamislaiksi sekä eräiksi siihen liittyviksi laeiksi. Lausunto pyydetään antamaan viimeistään 4.5.2026.\n\n- Ympäristöministeriön lausuntopyyntö 9.3.2026: Luonnos hallituksen esitykseksi yhdyskuntakehittämislaiksi sekä eräiksi siihen liittyviksi laeiksi. Lausunto pyydetään antamaan viimeistään 04.05.2026.\n\n- Oikeusministeriön lausuntopyyntö 9.3.2026: Lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laiksi vankeuslain muuttamisesta ja siihen liittyviksi laeiksi. Lausunto pyydetään antamaan viimeistään 24.4.2026.\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 10.3.2026: Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi tartuntatautilaiksi ja eräiksi siihen liittyviksi laeiksi. Lausunnot pyydetään antamaan 3.5.2026 mennessä."
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä muut asiat tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Lepola Kaisa",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Alijärvi Pirjo",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Bitter Riku",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Filatov Tarja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hellstén Tapani",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Honkanen Pasi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Häggman Johanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Jormanainen Lauri",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lehkonen Helena",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pura Eero",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Reima Aapo",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Saarenmaa Lotta",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Vanttaja Karri",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Isosuo Juha",
+   "role": "aluevaltuuston puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kylliäinen Kylli",
+   "role": "aluevaltuuston 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Ristavaara Heini",
+   "role": "aluevaltuuston 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Naukkarinen Olli",
+   "role": "esittelijä, hyvinvointialuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Savola Jussi",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Tommiska Katja",
+   "role": "pöytäkirjanpitäjä, hallintojohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Paasikangas Jaana",
+   "role": "tulosaluejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Pulkkinen Johanna",
+   "role": "tulosaluejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kannonmaa Tanja",
+   "role": "Palvelupäällikkö",
+   "group": "other"
+  },
+  {
+   "name": "Kaarna Tanja",
+   "role": "projektijohtaja",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026204",
+  "fetched_at": "2026-10-14T16:58:10+00:00",
+  "content_hash": "fbb0e280c5095f33",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T16:58:10+00:00"
+ }
+}

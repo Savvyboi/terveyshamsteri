@@ -1,0 +1,767 @@
+{
+ "id": "aluehallitus/2025-06-16",
+ "region": "pohjois-savo",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2025-06-16",
+ "stage": "minutes",
+ "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025781",
+ "pdf_url": "https://pshva.oncloudos.com/kokous/2025781.PDF",
+ "time": "15:00 - 16:12",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "271",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025781-1",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025781-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.",
+   "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen laillisuus ja päätösvaltaisuus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokous todettiin lailliseksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "272",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025781-2",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025781-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Aino Kanniainen ja Heikki Miettinen.",
+   "decision": "Pöytäkirjantarkastajiksi valittiin Aino Kanniainen ja Heikki Miettinen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pöytäkirjantarkastajien valinta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Aino Kanniainen ja Heikki Miettinen."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Aino Kanniainen ja Heikki Miettinen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "273",
+   "title": "Asioiden käsittelyjärjestys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025781-3",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025781-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asioiden käsittelyjärjestys"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "274",
+   "title": "Aluevaltuuston 16.6.2025 täytäntöönpanot",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025781-4",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025781-4.PDF",
+   "diary_number": "93/00.01.02.00/2022",
+   "preparer": null,
+   "presenter": "Päätösehdotus",
+   "proposal": "Aluehallitus päättää, että aluevaltuuston 16.6.2025 tekemiä päätöksiä ei ole tehty virheellisessä järjestyksessä eivätkä ne mene valtuuston toimivaltaa ulommaksi tai ei ole muutoin lainvastaisia sekä laittaa ne täytäntöön kokouksessa todetun mukaisesti.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nHyvinvointialueesta annetun lain 43 §:n mukaan aluehallituksen tulee vastata aluevaltuuston päätösten valmistelusta, täytäntöönpanosta ja laillisuuden valvonnasta.",
+   "decision": "Merkitään pöytäkirjaan, että:\n\n- Marko Korhonen, Hannu Kokki, Riitta Raatikainen, Aino Kanniainen, Merja Rautiainen ja Kati Åhman ilmoittivat olevansa esteellisiä (HL 28.1. kohta 1) ja poistuivat kokouksesta käsittelyn ja päätöksenteon ajaksi klo 15.32-15.34\n\n- Satu Pylkkönen ja Jenni Vaattovaara olivat läsnä asian käsittely ja päätöksenteon ajan klo 15.32-15.34\n\n- Pia Hedman toimi puheenjohtajana asian osalta.\n\n- Vesa Lötjönen toimi pöytäkirjantarkastajana asian osalta.\n\n- asian osalta esittelijänä vs. hyvinvointialuejohtaja\n\n- Asia käsiteltiin § 275 jälkeen.\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJanne Niemeläinen, epuh."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n- Marko Korhonen, Hannu Kokki, Riitta Raatikainen, Aino Kanniainen, Merja Rautiainen ja Kati Åhman ilmoittivat olevansa esteellisiä (HL 28.1. kohta 1) ja poistuivat kokouksesta käsittelyn ja päätöksenteon ajaksi klo 15.32-15.34\n\n- Satu Pylkkönen ja Jenni Vaattovaara olivat läsnä asian käsittely ja päätöksenteon ajan klo 15.32-15.34\n\n- Pia Hedman toimi puheenjohtajana asian osalta.\n\n- Vesa Lötjönen toimi pöytäkirjantarkastajana asian osalta.\n\n- asian osalta esittelijänä vs. hyvinvointialuejohtaja\n\n- Asia käsiteltiin § 275 jälkeen.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": ""
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää, että aluevaltuuston 16.6.2025 tekemiä päätöksiä ei ole tehty virheellisessä järjestyksessä eivätkä ne mene valtuuston toimivaltaa ulommaksi tai ei ole muutoin lainvastaisia sekä laittaa ne täytäntöön kokouksessa todetun mukaisesti.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nHyvinvointialueesta annetun lain 43 §:n mukaan aluehallituksen tulee vastata aluevaltuuston päätösten valmistelusta, täytäntöönpanosta ja laillisuuden valvonnasta."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "275",
+   "title": "Pohjois-Savon hyvinvointialueen investointisuunnitelma 2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025781-5",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025781-5.PDF",
+   "diary_number": "4609/02.02.00/2024",
+   "preparer": "Kari Janhonen, Anne Halttunen",
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää hyväksyä liitteen mukaisen Pohjois-Savon hyvinvointialueen alustavan investointisuunnitelman vuosille 2026 – 2029.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nKari Janhonen, Petri Pyy\n\n, Antti Hedman, Tuomo Pekkarinen, Jukka Koponen, Anne Halttunen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n- Riitta Raatikainen, Kati Åhman, Pia Hedman, Pekka Taipale, Merja Rautiainen, Ahti-Pekka Vornanen ja Juha Pitkänen ilmoittivat olevansa esteellisiä (HL 28.1. kohta 5) ja poistuivat kokouksesta käsittelyn ja päätöksenteon ajaksi klo 15.05 - 15.29\n\n- Jenni Vaattovaara, Adam Al-Sawad, Satu Pylkkönen ja Irja Sokka olivat läsnä kokouksessa asian käsittelyn ja päätöksenteon ajan klo 15.05 - 15.29.\n\n- Jarmo Muiniekka oli läsnä kokouksessa asian käsittelyn ja päätöksenteon ajan klo 15.10 - 15.29\n\n- Markku Rossi toimi puheenjohtajana asian osalta\n\n- Minna Mykkänen liittyi kokoukseen asian käsittelyn aikana klo 15.19.\n\nAluehallitus päätti yksimielisesti palauttaa asian valmisteluun."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\n1. hyväksyä liitteen mukaisen vuoden 2026 investointisuunnitelman\n\n2. hyväksyä liitteen mukaisen ulkoisen arvioinnin sekä pelastusasemien mahdollisen ostamisen Kuopion, Varkauden, Iisalmen, Tuusniemen ja Tervon osalta ja valtuuttaa kiinteistöjohtajan ja toimialajohtajan (pelastustoimi- ja turvallisuupalvelut) käymään tarkemmat neuvottelut ostoista syksyn 2025 aikana. Muiden pelastusasemien osalta arvioidaan kohteen kunnon ja taloudellisuuden perusteella tehtävän vuokrasopimuksen pituus, joka voi olla maksimissaan kymmenen vuotta.\n\n3. ettei muita kunnilta tulleita esityksiä sote-kohteiden ostoista tai sopimusten siirroista edistetä investointisuunnittelussa. Hyvinvointialue vuokraa sote-kohteet kiinteistöstrategisten linjausten ja aluehallituksen 16.9.2024 hyväksymien vuokrausperiaatteiden mukaan.\n\nEnnakkovaikutusten arviointi\n\nInvestointisuunnitelmalla varmistetaan hyvinvointialueen yhtenäinen investointikäytäntö. Investointien taloudelliset vaikutukset hyvinvointialueelle ovat yhteensä 120,1 M€, jolle määrälle tarvitaan valtioneuvoston myöntämä lainanottovaltuus. Investoinneilla turvataan lainsäädännössä edellytetyt palvelut ja hyvinvointialueen järjestämisvastuulle kuuluvien palveluiden tuottamisen jatkuvuus.\n\nToimivallan peruste\nHallintosääntö 36 §\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Investointisuunnitelma 2026\n\n- Pelastusasemien ulkoinen arviointi (Julk 24§, kohta 17)\n\nEsityslistan oheisaineistona:\n\n- Rakennushankkeiden toiminnalliset suunnitelmat:\n\no Ikääntyneiden ympärivuorokautinen palveluasumisen yksikkö, Iisalmi\n\no Lastensuojeluyksikkö 21-paikkaa, Kuopio\n\no Ikääntyneiden palveluasumisen yksikkö, Siilinjärvi\n\no Suonenjoen sote-keskus\n\no Leppävirran sote-asema\n\nValmistelu\n\nVuosien 2026–2029 investointisuunnitelma on käsitelty aluehallituksessa 18.12.2024 ja toimitettu ministeriöille 20.12.2024.\n\nInvestoinnin rahoitus on esitettävä kokonaisuudessaan investoinnin käynnistämisvuoden investointisuunnitelmassa. Käynnistämisvuoden lainanottovaltuuden ja muun rahoituksen tulee riittää koko hankkeen rahoittamiseen. Pitkäaikaista lainaa taseeseen tehtäviin investointeihin voi nostaa useamman tilikauden aikana.\n\nVuotta 2026 koskevassa investointisuunnitelmassa vuokravastuut, leasing-sopimukset yms. pitkäaikaiset sopimukset rinnastetaan investointeihin. Mikäli vuokrattavaan toimitilaan ei liity investointeja, vuokrasopimus voidaan valtioneuvoston investointioppaan mukaan tehdä ilman lainanottovaltuutta ja sen esittämistä investointisuunnitelmassa.\n\nValtioneuvosto päätti 8.5.2025, että Pohjois-Savon hyvinvointialueella ei ole lainanottovaltuutta vuodelle 2026.\n\nAluehallitus päätti 26.5.2025 hakea lisälainanottovaltuutta, koska Pohjois-Savon hyvinvointialue ei pysty toteuttamaan välttämättömiä investointeja ilman lainanottovaltuutta.\n\nLainanottovaltuudella voidaan toteuttaa investointeja, jotka ovat välttämättömiä hyvinvointialueen järjestämisvastuulle kuuluvien palvelujen tuottamisen jatkuvuuden kannalta tai lainsäädännössä edellytettyjen palvelujen turvaamiseksi eikä investointitarvetta voida kattaa muulla tavoin.\n\nMuutokset vuoden 2026 investointisuunnitelmaan\n\nVuoden 2026 investointisuunnitelma on kevään aikana tarkentunut aiemmin käsittelyssä olleeseen. Merkittävin lisäys on pelastusasemien hankinta omaan taseeseen. Aluehallitus on päättänyt 27.12.2024 kokouksessaan käynnistää neuvottelut kuntien kanssa pelastusasemien ostoista tai pitkäaikaisesta vuokraamisesta. Kuntia on informoitu aluehallituksen päätöksestä kuntajohdon tilaisuuksissa 27.1.2025 ja 14.4.2025 sekä investointisuunnittelun aikataulusta. Lisäksi kuntakohtaisissa neuvotteluissa tammi-huhtikuun aikana on keskusteltu asiasta kuntakohtaisesti.\n\nKesäkuun alkuun mennessä esityksiä pelastusasemien ostoista on tullut yhdeltätoista kunnalta. Kuntien esitykset on arvioitu auktorisoidun kiinteistöarvioijan toimesta sekä vertailtu ostamisen ja vuokraamisen taloudellisuutta hyvinvointialueen näkökulmasta. Investointisuunnitelmaan sisällytettävä varaus pelastusasemien ostoille on yhteensä 16,0 M€. Pelastusasemien ostoista on tarkoitus neuvotella tarkemmin syksyn 2025 aikana, jonka perusteella lopulliset esitykset ostoista tuodaan päätöksentekoon.\n\nRakennusten osalta muita muutoksia ovat siirrot investointeja vastaavista sopimuksista taseinvestoinneiksi seuraavien hankkeiden osalta:\n\n- Ikääntyneiden ympärivuorokautinen palveluasumisen yksikkö, Iisalmi 11,0 M€\n\n- Lastensuojeluyksikkö 21-paikkaa, Kuopio 6,5 M€ (aiempi kustannusarvio 5,5 M.€)\n\nPelastuslaitoksen ajonuevohankintojen osalta investointeja vastaavista sopimuksista taseinvestointina toteutettavaksi siirtyy 0,3 M€.\n\nVuoden 2023 investointisuunnitelmaan sisältyneelle Siilinjärven ikääntyneiden palveluasumisen yksikölle (7,0 M€) haetaan lainanottovaltuutta uudelleen valtioneuvoston investointioppaan ohjeen mukaan.\n\nVuoden 2024 investointisuunnitelmaan sisältyneille laitehankinnoille (2,1 M€) haetaan lainanottovaltuus uudelleen valtioneuvoston investointioppaan ohjeen mukaan. Hankinnat toteutetaan v. 2026.\n\nSuonenjoen sote-keskuksen kustannusarvio on tarkentunut 17,2 milj. euroon (lisättynä vuodeosastolla, aiempi kustannusarvio 12,0 M€ ei sisältänyt vuodeosastoa) ja Leppävirran sote-aseman kustannusarvio 10,4 milj.euroon (aiempi kustannusarvio 12,0 M€).\n\nSote ajoneuvoja koskevien sopimusten kustannusarvio on tarkentunut 4,1 milj. euroon (aiempi kustannusarvio 3,7 M€).\n\nVuoden 2026 hyvinvointialueen investointisuunnitelmassa omaan taseeseen tehtävät investoinnit ovat 85,2 M€, joista rakennusinvestoinnit 45,5 M€, laite- ja kalustohankinnat 21,8 M€ ja ICT-hankinnat 17,9 M€. Suunnitelma sisältää pelastuslaitoksen investointeja 2,4 M€.\n\nInvestointisuunnitelma sisältää Investointeja vastaavia sopimuksia vuonna 2026 yhteensä 35,0 M€, joista rakennusten osuus on 27,6 M€, laitteiden osuus 3,2 M€ ja ajoneuvojen osuus 4,1 M€. Pelastuslaitoksen osuus investointeja vastaavista sopimuksista on 0,03 M€.\n\nAhall 16.9.2024\n\nValmistelija: Kari Janhonen, Anne Halttunen\n\nHyvinvointialuelain 16 §:n mukaan hyvinvointialueen on vuosittain laadittava investointisuunnitelma seuraavaa tilikautta seuraavien neljän tilikauden aikana aloitettavista hyvinvointialuekonsernin investoinneista ja niiden rahoituksesta. Investointisuunnitelman tulee sisältää tiedot investoinneista ja investointia vastaavista sopimuksista. Lisäksi sen tulee sisältää tiedot hyvinvointialueen toimitiloja ja kiinteistöjen sekä muiden pitkävaikutteisten hyödykkeiden suunnitelluista luovutuksista. Investointisuunnitelma ei saa olla ristiriidassa hyvinvointialueen lainanottovaltuuden kanssa.\n\nInvestointisuunnitelma koostuu sosiaali- ja terveydenhuollon osasuunnitelmasta ja pelastustoimen osasuunnitelmasta. Vuosien 2026 – 2029 investointisuunnitelmaa koskeva esitys on toimitettava ministeriöille 31.12.2024 mennessä.\n\nSuunnitelmassa uudet, vuosina 2026 - 2029 aloitettavat taseinvestoinnit ovat 144,4 milj. euroa, josta rakennusten osuus on 27,2 milj. euroa, laitteiden ja kaluston osuus 84,5 milj. euroa ja ICT:n osuus 32,7 milj. euroa. Pelan osuus investoinneista on 8,1 milj. euroa.\n\nInvestointeja vastaavien sopimusten sitoumuksia aiotaan vuosina 2026 – 2029 toteuttaa yhteensä 81,9 milj. eurolla, josta rakennusten osuus on 55,4 milj. euroa ja laitteiden ja koneiden osuus 26,5 milj.euroa. Pelan osuus investointeja vastaavista sopimuksista on 1,4 milj. euroa.\n\nSuurimmat vuokrasopimuksella toteutettavat investointeja vastaavien sopimusten suunnitelmat ovat vuoden 2025 investointisuunnitelmaan alun perin esitetyt ja vuodelle 2026 siirtyneet Suonenjoen sotekeskus ja Leppävirran sotekeskus. Palvelujärjestelmäuudistamisen suunnittelu ja siinä tehtävät linjaukset tulevat vaikuttamaan näiden hankkeiden toteuttamiseen.\n\nInvestointisuunnitelmaan voi tulla muutoksia vuoden 2025 aikana.\n\nVuoden 2026 investointisuunnitelma käsitellään aluevaltuustossa, kun investointisuunnitelman valmistelu on edennyt ministeriöiden kanssa vuoden 2025 aikana\n\nEsityslistan liitteenä:\n\n- Alustava investointisuunnitelma 2026-2029, taulukko"
+    },
+    {
+     "heading": "Valmistelijan päätösehdotus",
+     "text": "Aluehallitus merkitsee tiedoksi investointisuunnitelman 2026 – 2029 valmistelutilanteen. Lopullinen esitys investointisuunnitelmasta tulee aluehallituksen käsittelyyn loppuvuodesta.\n\nTaloudellisuus-, tuottavuus- ja integraatiovaikutusten arviointi\n\nInvestoinnit tukevat hyvinvointialueen integraatiota.\n\nToimivallan peruste\nhallintosääntö 36 §"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää merkitä tiedoksi investointisuunnitelman 2026 – 2029 valmistelutilanteen. Lopullinen esitys investointisuunnitelmasta tulee aluehallituksen käsittelyyn loppuvuodesta."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n- Karoliina Partanen poistui kokouksesta klo 14.18.\n\n- Petri Pyy oli läsnä kokouksessa klo 14.19 - 14.30.\n\nPäätösehdotus hyväksyttiin.\n\nAhall 18.12.2024 § 417\n\nValmistelija: Kari Janhonen\n\nPetri Pyy\n\nAntti Hedman\n\nTuomo Pekkarinen\n\nJukka Koponen\n\nAnne Halttunen\n\nHyvinvointialuelain 16 §:n mukaan hyvinvointialueen on vuosittain laadittava investointisuunnitelma seuraavaa tilikautta seuraavien neljän tilikauden aikana aloitettavista hyvinvointialuekonsernin investoinneista ja niiden rahoituksesta. Investointisuunnitelman tulee sisältää tiedot investoinneista ja investointia vastaavista sopimuksista. Lisäksi sen tulee sisältää tiedot hyvinvointialueen toimitiloja ja kiinteistöjen sekä muiden pitkävaikutteisten hyödykkeiden suunnitelluista luovutuksista. Investointisuunnitelma ei saa olla ristiriidassa hyvinvointialueen lainanottovaltuuden kanssa.\n\nInvestointisuunnitelma koostuu sosiaali- ja terveydenhuollon osasuunnitelmasta ja pelastustoimen osasuunnitelmasta. Vuosien 2026 - 2029 investointisuunnitelmaa koskeva esitys on toimitettava ministeriöille 31.12.2024 mennessä.\n\nSuunnitelmassa uudet, vuosina 2026 - 2029 aloitettavat taseinvestoinnit ovat 121,1 milj. euroa, josta rakennusten osuus on 10,5 milj. euroa, laitteiden ja kaluston osuus 82,6 milj. euroa ja ICT:n osuus 28,0 milj. euroa. Pelan osuus investoinneista on 8,4 milj. euroa.\n\nInvestointeja vastaavien sopimusten sitoumuksia aiotaan vuosina 2026 – 2029 toteuttaa yhteensä 80,0 milj. eurolla, josta rakennusten osuus on 53,5 milj. euroa ja laitteiden ja kalustohankintojen osuus 26,5 milj.euroa. Pelan osuus investointeja vastaavista sopimuksista on 1,4 milj. euroa.\n\nSuurimmat vuokrasopimuksella toteutettavat investointeja vastaavien sopimusten suunnitelmat ovat vuoden 2025 investointisuunnitelmaan alun perin esitetyt ja vuodelle 2026 siirtyneet Suonenjoen sotekeskus ja Leppävirran sotekeskus sekä Iisalmen ikäihmisten asumispalveluyksikkö. Palvelujärjestelmäuudistamisen suunnittelu ja siinä tehtävät linjaukset tulevat vaikuttamaan näiden hankkeiden toteuttamiseen.\n\nInvestointisuunnitelmaan voi tulla muutoksia vuoden 2025 aikana.\n\nVuoden 2026 investointisuunnitelma käsitellään aluevaltuustossa, kun investointisuunnitelman valmistelu on edennyt ministeriöiden kanssa vuoden 2025 aikana.\n\nEsityslistan liitteenä:\n\n- Pohjois-Savon hyvinvointialueen investointisuunnitelma 2026 – 2029, tekstiosa\n\n- Investointisuunnitelma 2026-2029, taulukko"
+    },
+    {
+     "heading": "Valmistelijan päätösehdotus",
+     "text": "Aluehallitus hyväksyy liitteen mukaisen alustavan investointisuunnitelman vuosille 2026 – 2029.\n\nEnnakkovaikutusten arviointi\n\nInvestointisuunnitelmalla varmistetaan hyvinvointialueen yhtenäinen investointikäytäntö\n\nToimivallan peruste\nhallintosääntö 36 §, kohta 1"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä liitteen mukaisen Pohjois-Savon hyvinvointialueen alustavan investointisuunnitelman vuosille 2026 – 2029."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Vuoden 2026 investointisuunnitelma",
+     "url": "https://pshva.oncloudos.com/kokous/2025781-5-191201.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "276",
+   "title": "Pohjois-Savon hyvinvointialueen alustava investointisuunnitelma 2027-2030",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025781-6",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025781-6.PDF",
+   "diary_number": "3646/02.02.00/2025",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää hyväksyä liitteen mukaisen Pohjois-Savon hyvinvointialueen alustavan investointisuunnitelman vuosille 2027 - 2030.\n\nEnnakkovaikutusten arviointi\n\nInvestointisuunnitelmalla varmistetaan hyvinvointialueen yhtenäinen investointikäytäntö. Investointien taloudelliset vaikutukset hyvinvointialueelle alustavan investointisuunnitelman mukaan vuosina 2027-2030 ovat yhteensä 172,5 M€. Investoinneille tarvitaan valtioneuvoston vuosittain päättämä lainanottovaltuus. Investoinneilla turvataan lainsäädännössä edellytetyt palvelut ja hyvinvointialueen järjestämisvastuulle kuuluvien palveluiden tuottamisen jatkuvuus.\n\nToimivallan peruste\nHallintosääntö § 36, kohta 1\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Alustava investointisuunnitelma 2027 - 2030\n\nValmistelu\n\nHyvinvointialuelain 16 §:n mukaan hyvinvointialueen on vuosittain laadittava investointisuunnitelma seuraavaa tilikautta seuraavien neljän tilikauden aikana aloitettavista hyvinvointialuekonsernin investoinneista ja niiden rahoituksesta. Investointisuunnitelman tulee sisältää tiedot investoinneista ja investointia vastaavista sopimuksista. Lisäksi sen tulee sisältää tiedot hyvinvointialueen toimitiloja ja kiinteistöjen sekä muiden pitkävaikutteisten hyödykkeiden suunnitelluista luovutuksista. Investointisuunnitelma ei saa olla ristiriidassa hyvinvointialueen lainanottovaltuuden kanssa.\n\nInvestointisuunnitelma toimii talouden ja toiminnan suunnittelun apuvälineenä.\n\nInvestointisuunnitelma koostuu sosiaali- ja terveydenhuollon osasuunnitelmasta ja pelastustoimen osasuunnitelmasta.\n\nVuosien 2027 – 2030 investointisuunnitelmaa koskeva esitys on toimitettava ministeriöille 31.12.2025 mennessä.\n\nSuunnitelmassa uudet, vuosina 2027–2030 aloitettavat taseinvestoinnit ovat 142,2 milj. euroa, josta rakennusten osuus on 19,0 milj. euroa, laitteiden ja kaluston osuus 82,5 milj. euroa ja ICT:n osuus 40,7 milj. euroa. Pelan osuus investoinneista on 11,5 milj. euroa.\n\nInvestointeja vastaavien sopimusten sitoumuksia aiotaan vuosina 2027–2030 toteuttaa yhteensä 30,3 milj. eurolla, josta rakennusten osuus on 7,2 milj. euroa ja laitteiden ja koneiden osuus 23,1 milj. euroa. Pelan osuus investointeja vastaavista sopimuksista on 0,2 milj. euroa.\n\nRakennusten investointeja vastaava sopimus 7,2 milj. euroa on vuokrasopimuksella toteutettava uusi kehitysvammaisten 21-paikkainen yksikkö Kuopioon vuodella 2027.\n\nLopullinen Pohjois-Savon hyvinvointialueen investointisuunnitelma vuosille 2027–2030 hyväksytään syksyllä 2025.\n\nInvestointisuunnitelmaan voi tulla muutoksia vuoden 2026 aikana.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nKari Janhonen, Petri Pyy\n\n, Antti Hedman, Tuomo Pekkarinen, Jukka Koponen, Anne Halttunen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä liitteen mukaisen Pohjois-Savon hyvinvointialueen alustavan investointisuunnitelman vuosille 2027 - 2030.\n\nEnnakkovaikutusten arviointi\n\nInvestointisuunnitelmalla varmistetaan hyvinvointialueen yhtenäinen investointikäytäntö. Investointien taloudelliset vaikutukset hyvinvointialueelle alustavan investointisuunnitelman mukaan vuosina 2027-2030 ovat yhteensä 172,5 M€. Investoinneille tarvitaan valtioneuvoston vuosittain päättämä lainanottovaltuus. Investoinneilla turvataan lainsäädännössä edellytetyt palvelut ja hyvinvointialueen järjestämisvastuulle kuuluvien palveluiden tuottamisen jatkuvuus.\n\nToimivallan peruste\nHallintosääntö § 36, kohta 1\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Alustava investointisuunnitelma 2027 - 2030\n\nValmistelu\n\nHyvinvointialuelain 16 §:n mukaan hyvinvointialueen on vuosittain laadittava investointisuunnitelma seuraavaa tilikautta seuraavien neljän tilikauden aikana aloitettavista hyvinvointialuekonsernin investoinneista ja niiden rahoituksesta. Investointisuunnitelman tulee sisältää tiedot investoinneista ja investointia vastaavista sopimuksista. Lisäksi sen tulee sisältää tiedot hyvinvointialueen toimitiloja ja kiinteistöjen sekä muiden pitkävaikutteisten hyödykkeiden suunnitelluista luovutuksista. Investointisuunnitelma ei saa olla ristiriidassa hyvinvointialueen lainanottovaltuuden kanssa.\n\nInvestointisuunnitelma toimii talouden ja toiminnan suunnittelun apuvälineenä.\n\nInvestointisuunnitelma koostuu sosiaali- ja terveydenhuollon osasuunnitelmasta ja pelastustoimen osasuunnitelmasta.\n\nVuosien 2027 – 2030 investointisuunnitelmaa koskeva esitys on toimitettava ministeriöille 31.12.2025 mennessä.\n\nSuunnitelmassa uudet, vuosina 2027–2030 aloitettavat taseinvestoinnit ovat 142,2 milj. euroa, josta rakennusten osuus on 19,0 milj. euroa, laitteiden ja kaluston osuus 82,5 milj. euroa ja ICT:n osuus 40,7 milj. euroa. Pelan osuus investoinneista on 11,5 milj. euroa.\n\nInvestointeja vastaavien sopimusten sitoumuksia aiotaan vuosina 2027–2030 toteuttaa yhteensä 30,3 milj. eurolla, josta rakennusten osuus on 7,2 milj. euroa ja laitteiden ja koneiden osuus 23,1 milj. euroa. Pelan osuus investointeja vastaavista sopimuksista on 0,2 milj. euroa.\n\nRakennusten investointeja vastaava sopimus 7,2 milj. euroa on vuokrasopimuksella toteutettava uusi kehitysvammaisten 21-paikkainen yksikkö Kuopioon vuodella 2027.\n\nLopullinen Pohjois-Savon hyvinvointialueen investointisuunnitelma vuosille 2027–2030 hyväksytään syksyllä 2025.\n\nInvestointisuunnitelmaan voi tulla muutoksia vuoden 2026 aikana."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Investointisuunnitelma 2027-2030",
+     "url": "https://pshva.oncloudos.com/kokous/2025781-6-191574.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "277",
+   "title": "Talouden toteuma tammi-toukokuu 2025",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025781-7",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025781-7.PDF",
+   "diary_number": "244/02.02.02/2025",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää todeta tietoon saaduksi hyvinvointialueen talouden toteuman tammi-toukokuulta 2025 ja saattaa sen edelleen aluevaltuustolle tiedoksi.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 35\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n-Toteuma tammi-toukokuu 2025\n\nValmistelu\nAluehallituksen 23.4.2025 päättämän toiminnan ja talouden raportoinnin aikataulun mukaan aluehallitukselle raportoidaan tammi-toukokuun toteuma 16.6.2025.\n\nTammi-toukokuun talouden toteuma valmistuu 13.6.2025.\n\nTalouden toteuma esitellään kokouksessa.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nKari Janhonen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää todeta tietoon saaduksi hyvinvointialueen talouden toteuman tammi-toukokuulta 2025 ja saattaa sen edelleen aluevaltuustolle tiedoksi.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 35\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n-Toteuma tammi-toukokuu 2025\n\nValmistelu\nAluehallituksen 23.4.2025 päättämän toiminnan ja talouden raportoinnin aikataulun mukaan aluehallitukselle raportoidaan tammi-toukokuun toteuma 16.6.2025.\n\nTammi-toukokuun talouden toteuma valmistuu 13.6.2025.\n\nTalouden toteuma esitellään kokouksessa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Tammikuu-toukokuu toteuma 2025 Ahll16.6.2025",
+     "url": "https://pshva.oncloudos.com/kokous/2025781-7-192299.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "278",
+   "title": "Rahoitusmallin muutos, pelastuslaitoksen miehistö- ja henkilöautot",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025781-8",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025781-8.PDF",
+   "diary_number": "3579/02.05.03/2025",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää hyväksyä pelastuslaitoksen miehistö- ja henkilöautoja koskevan rahoitusmallin muutoksen.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nPohjois-Savon hyvinvointialueen investointisuunnitelman pelastustoimen osasuunnitelmaan on hyväksytty vuodelle 2025 investointeja vastaavaksi sopimukseksi pelastustoimen miehistöautojen ja tarkastusautojen hankintaan 339 435 € leasingrahoitussopimusta varten. Pohjois-Savon hyvinvointialueella ei ole voimassa olevaa sopimusta ajoneuvojen leasingrahoituksesta, eikä mitään muita hyvinvointialueen ajoneuvoja tällä hetkellä hankita leasing-rahoituksella. Ottaen huomioon tulevat leasingsopimuksen kilpailutuksen kustannukset ja leasingrahoituksen kulut, on hankinta omaan taseeseen kokonaistaloudellisesti edullisinta.\n\nEdellä mainitun perusteella pelastustoimen miehistöautot ja tarkastusautot esitetään hankittavaksi omaan omistukseen, joka tarkoittaa investointisuunnitelman näkökulmasta rahoitusmallin muutosta. Investointeja vastaaviin sopimuksiin varattu kustannusarvio 339 435 € esitetään siirrettäväksi taseinvestointeihin vuodelle 2025. Valtioneuvoston investointioppaan mukaisesti rahoitustavan muutoksen osalta riittää ilmoitus ministeriöille, mikäli hanke ei ole sisällöllisesti muuttumassa ja kustannukset pysyvät ennallaan. Ajoneuvojen osalta kustannukset pysyvät ennallaan, joten ministeriöiden informointi rahoitustavan muutokseen on riittävä.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\ntekninen päällikkö Risto-Matti Raatikainen, toimialajohtaja, pelastusjohtaja Jukka Koponen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä pelastuslaitoksen miehistö- ja henkilöautoja koskevan rahoitusmallin muutoksen.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nPohjois-Savon hyvinvointialueen investointisuunnitelman pelastustoimen osasuunnitelmaan on hyväksytty vuodelle 2025 investointeja vastaavaksi sopimukseksi pelastustoimen miehistöautojen ja tarkastusautojen hankintaan 339 435 € leasingrahoitussopimusta varten. Pohjois-Savon hyvinvointialueella ei ole voimassa olevaa sopimusta ajoneuvojen leasingrahoituksesta, eikä mitään muita hyvinvointialueen ajoneuvoja tällä hetkellä hankita leasing-rahoituksella. Ottaen huomioon tulevat leasingsopimuksen kilpailutuksen kustannukset ja leasingrahoituksen kulut, on hankinta omaan taseeseen kokonaistaloudellisesti edullisinta.\n\nEdellä mainitun perusteella pelastustoimen miehistöautot ja tarkastusautot esitetään hankittavaksi omaan omistukseen, joka tarkoittaa investointisuunnitelman näkökulmasta rahoitusmallin muutosta. Investointeja vastaaviin sopimuksiin varattu kustannusarvio 339 435 € esitetään siirrettäväksi taseinvestointeihin vuodelle 2025. Valtioneuvoston investointioppaan mukaisesti rahoitustavan muutoksen osalta riittää ilmoitus ministeriöille, mikäli hanke ei ole sisällöllisesti muuttumassa ja kustannukset pysyvät ennallaan. Ajoneuvojen osalta kustannukset pysyvät ennallaan, joten ministeriöiden informointi rahoitustavan muutokseen on riittävä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "279",
+   "title": "Pohjois-Savon hyvinvointialueen strategian päivitys 2025",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025781-9",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025781-9.PDF",
+   "diary_number": "3725/00.01.02.04/2025",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää käynnistää hyvinvointialueen strategian päivittämisen.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Pohjois-Savon hyvinvointialueen strategia\n\nValmistelu\nHyvinvointialuelain (611/2021) 41 § mukaisesti hyvinvointialueella on oltava strategia, jossa aluevaltuusto päättää hyvinvointialueen toiminnan ja talouden pitkän aikavälin tavoitteista.\n\nHyvinvointialueen strategiassa tulee ottaa huomioon:\n\n1) asukkaiden hyvinvoinnin edistäminen hyvinvointialueen tehtäväalalla;\n\n2) palveluiden järjestämistä ja tuottamista koskevat strategiset linjaukset;\n\n3) hyvinvointialueen tehtäviä koskevissa laeissa säädetyt palvelutavoitteet;\n\n4) omistajapolitiikka;\n\n5) henkilöstöpolitiikka;\n\n6) asukkaiden osallistumis- ja vaikuttamismahdollisuudet.\n\nHyvinvointialueen strategian tulee perustua arvioon hyvinvointialueen tilanteesta strategian laatimishetkellä sekä tulevista toimintaympäristön muutoksista ja niiden vaikutuksista hyvinvointialueen tehtävien toteuttamiseen. Strategiassa tulee määritellä myös sen toteutumisen arviointi ja seuranta.\n\nEm. lain 115 § mukaisesti talouden suunnittelun täytyy noudattaa hyvinvointialueen strategiaa. Järjestämislain (612/2021) 11 § mukaisesti hyvinvointialueen on laadittava taloutensa ja toimintansa suunnittelua ja johtamista varten sosiaali- ja terveydenhuollon palvelustrategia osana hyvinvointialuestrategiaa. Lisäksi pelastustoimen osalta on laadittava palvelutasopäätös.\n\nPohjois-Savon hyvinvointialueen strategian päivittäminen 2025\n\nPohjois-Savon hyvinvointialueen aluevaltuusto hyväksyi (22.12.2022; § 151; oheisaineisto) joulukuussa hyvinvointialueen strategian ja aluehallitus hyväksyi huhtikuussa 2024 strategian toimeenpanosuunnitelman (Ahall 24.04.2023 § 138). Strategia ei tehdä kiinteälle kaudelle vaan sitä tarkastellaan vuosittain strategiaprosessissa. Hyvinvointialuelain (611/2021) 41 § mukaisesti strategia tarkistetaan vähintään kerran aluevaltuuston toimikaudessa.\n\nPohjois-Savossa toimintaympäristön haasteet ovat hyvin samankaltaiset kuin toiminnan käynnistyessäkin(Avalt; 22.12.2022; § 151). Olemme korkean sairastavuuden hyvinvointialue, jolla on hyvinvointivajeita. Väestömme vähenee ja vanhenee, mistä aiheutuu haasteita nykyiselle palvelurakenteellemme. Hoitoon pääsyssä ja palveluiden saatavuudessa on haasteita. Väestön ikääntyminen näkyy myös sosiaali- ja terveydenhuollon sekä pelastustoimen henkilöstön eläköitymisenä. Meillä on pulaa ammattitaitoisesta henkilöstöstä. Talouttamme rasittavat menopaineet, kulurakenne ja ikääntymisestä aiheutuva palvelutarpeen kasvu.\n\nHyvinvointialuevaalit pidettiin huhtikuussa 2025 ja uusi valtuusto järjestäytyi 2.6.2025. Uuden valtuustokauden käynnistyessä on syytä tarkastella strategiaa ja päivittää sitä vastaamaan uuden valtuuston linjauksia strategisista tavoitteista. Päivitysprosessi pyritään toteuttamaan siten, että päivitetty strategia saadaan valtuuston päätöksentekoon lokakuussa 2025, jolloin se ohjaa vuoden 2026 talousarviovalmistelua. Päivitysprosessissa osallistetaan hyvinvointialueen valtuutettuja ja toimielinten jäseniä sekä henkilöstä, asukkaita ja keskeisiä sidosryhmiä mm. seuraavilla keinoilla:\n\nkyselyt\n\nvaltuustoseminaarit\n\ntoimielimille toteuttavat työpajat\n\nLisäksi päivitysprosessia varten kootaan laaja taustamateriaali toimintaympäristöstä ja nykytilan haasteista.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJussi Lampi"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää käynnistää hyvinvointialueen strategian päivittämisen.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Pohjois-Savon hyvinvointialueen strategia\n\nValmistelu\nHyvinvointialuelain (611/2021) 41 § mukaisesti hyvinvointialueella on oltava strategia, jossa aluevaltuusto päättää hyvinvointialueen toiminnan ja talouden pitkän aikavälin tavoitteista.\n\nHyvinvointialueen strategiassa tulee ottaa huomioon:\n\n1) asukkaiden hyvinvoinnin edistäminen hyvinvointialueen tehtäväalalla;\n\n2) palveluiden järjestämistä ja tuottamista koskevat strategiset linjaukset;\n\n3) hyvinvointialueen tehtäviä koskevissa laeissa säädetyt palvelutavoitteet;\n\n4) omistajapolitiikka;\n\n5) henkilöstöpolitiikka;\n\n6) asukkaiden osallistumis- ja vaikuttamismahdollisuudet.\n\nHyvinvointialueen strategian tulee perustua arvioon hyvinvointialueen tilanteesta strategian laatimishetkellä sekä tulevista toimintaympäristön muutoksista ja niiden vaikutuksista hyvinvointialueen tehtävien toteuttamiseen. Strategiassa tulee määritellä myös sen toteutumisen arviointi ja seuranta.\n\nEm. lain 115 § mukaisesti talouden suunnittelun täytyy noudattaa hyvinvointialueen strategiaa. Järjestämislain (612/2021) 11 § mukaisesti hyvinvointialueen on laadittava taloutensa ja toimintansa suunnittelua ja johtamista varten sosiaali- ja terveydenhuollon palvelustrategia osana hyvinvointialuestrategiaa. Lisäksi pelastustoimen osalta on laadittava palvelutasopäätös.\n\nPohjois-Savon hyvinvointialueen strategian päivittäminen 2025\n\nPohjois-Savon hyvinvointialueen aluevaltuusto hyväksyi (22.12.2022; § 151; oheisaineisto) joulukuussa hyvinvointialueen strategian ja aluehallitus hyväksyi huhtikuussa 2024 strategian toimeenpanosuunnitelman (Ahall 24.04.2023 § 138). Strategia ei tehdä kiinteälle kaudelle vaan sitä tarkastellaan vuosittain strategiaprosessissa. Hyvinvointialuelain (611/2021) 41 § mukaisesti strategia tarkistetaan vähintään kerran aluevaltuuston toimikaudessa.\n\nPohjois-Savossa toimintaympäristön haasteet ovat hyvin samankaltaiset kuin toiminnan käynnistyessäkin(Avalt; 22.12.2022; § 151). Olemme korkean sairastavuuden hyvinvointialue, jolla on hyvinvointivajeita. Väestömme vähenee ja vanhenee, mistä aiheutuu haasteita nykyiselle palvelurakenteellemme. Hoitoon pääsyssä ja palveluiden saatavuudessa on haasteita. Väestön ikääntyminen näkyy myös sosiaali- ja terveydenhuollon sekä pelastustoimen henkilöstön eläköitymisenä. Meillä on pulaa ammattitaitoisesta henkilöstöstä. Talouttamme rasittavat menopaineet, kulurakenne ja ikääntymisestä aiheutuva palvelutarpeen kasvu.\n\nHyvinvointialuevaalit pidettiin huhtikuussa 2025 ja uusi valtuusto järjestäytyi 2.6.2025. Uuden valtuustokauden käynnistyessä on syytä tarkastella strategiaa ja päivittää sitä vastaamaan uuden valtuuston linjauksia strategisista tavoitteista. Päivitysprosessi pyritään toteuttamaan siten, että päivitetty strategia saadaan valtuuston päätöksentekoon lokakuussa 2025, jolloin se ohjaa vuoden 2026 talousarviovalmistelua. Päivitysprosessissa osallistetaan hyvinvointialueen valtuutettuja ja toimielinten jäseniä sekä henkilöstä, asukkaita ja keskeisiä sidosryhmiä mm. seuraavilla keinoilla:\n\nkyselyt\n\nvaltuustoseminaarit\n\ntoimielimille toteuttavat työpajat\n\nLisäksi päivitysprosessia varten kootaan laaja taustamateriaali toimintaympäristöstä ja nykytilan haasteista."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Pohjois-Savon hyvinvointialueen strategia",
+     "url": "https://pshva.oncloudos.com/kokous/2025781-9-191089.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "280",
+   "title": "Ajankohtaiset asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025781-10",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025781-10.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus merkitsee asiat tiedoksi.\n\nHyvinvointialuejohtaja antaa ajankohtaiskatsauksen kokouksessa:\n\nHyvinvointialuejohtajien verkoston terveiset\n\nHVA neuvottelukunnan terveiset",
+   "decision": "Aluehallitus merkitsee asiat tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Ajankohtaiset asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus merkitsee asiat tiedoksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus merkitsee asiat tiedoksi.\n\nHyvinvointialuejohtaja antaa ajankohtaiskatsauksen kokouksessa:\n\nHyvinvointialuejohtajien verkoston terveiset\n\nHVA neuvottelukunnan terveiset"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "281",
+   "title": "Islab hyvinvointiyhtymän hallituksen ja tarkastuslautakunnan jäsenten ja varajäsenten nimeäminen 2025-2029",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025781-11",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025781-11.PDF",
+   "diary_number": "3589/00.04.02/2025",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää nimetä Pohjois-Savon hyvinvointialueen edustajiksi hyvinvointiyhtymän yhtymäkokoukselle seuraavasti:\n\n1) hallituksen jäsenet ja varajäsenet\n\n2) tarkastuslautakunnan jäsenen ja varajäsenen\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nHyvinvointialuelain (611/2021) 61 § mukaan hyvinvointiyhtymän päätösvaltaa käyttää yhtymävaltuusto tai yhtymäkokous. Hyvinvointialuelain 63 § mukaan yhtymäkokouksen tehtävänä on valita hyvinvointiyhtymän toimielimet. ISLAB hyvinvointiyhtymän yhtymäkokous on sovittu pidettäväksi 21.8.2025.\n\nHallituksen jäsenet\n\nISLAB hyvinvointiyhtymän perussopimuksen 7 §:n mukaan yhtymäkokous valitsee hallitukseen aluevaltuuston toimikaudeksi seitsemän (7) jäsentä ja kullekin henkilökohtaiset varajäsenet. Yhtymäkokous valitsee yhden (1) hallituksen jäsenistä puheenjohtajaksi ja yhden (1) varapuheenjohtajaksi.\n\nHallituksen jäsenet ja varajäsenet valitaan seuraavasti:\n\n- kolme (3) jäsenten edustajaa, yksi (1) edustaja kultakin\n\n- yksi (1) edustaja Itä-Suomen yliopistosta\n\n- kolme (3) muuta jäsentä.\n\nPerussopimuksen mukaan hallituksen jäsenillä on oltava yhtymän toimialan edellyttämä riittävä talouden ja hyvinvointiyhtymän johtamisen asiantuntemus sekä soveltuva hallitusammattilaiskoulutus.\n\nYhtymän jäsenten (Pohjois-Savon, Pohjois-Karjalan ja Etelä-Savon hyvinvointialueiden) tulisi nimetä ehdokkaansa hallitukseen tasa-arvolaki huomioiden:\n\n- yksi (1) edustaja kultakin jäseneltä\n\n- kolme (3) muuta jäsentä\n\nItä-Suomen yliopiston edustajaehdokkaan nimeää yliopisto itse.\n\nTarkastuslautakunnan jäsenet\n\nPerussopimuksen mukaan yhtymäkokous valitsee hyvinvointialueiden esityksestä tarkastuslautakuntaan puheenjohtajan (1) ja varapuheenjohtajan (1) sekä kolme (3) muuta jäsentä, sekä kullekin henkilökohtaisen varajäsenen.\n\nYhtymän jäsenten (Pohjois-Savon, Pohjois-Karjalan ja Etelä-Savon hyvinvointialueiden) tulisi nimetä ehdokkaansa tarkastuslautakuntaan tasa-arvolaki huomioiden:\n\n- Puheenjohtaja\n\n- Varapuheenjohtaja\n\n- yksi (1) edustaja kultakin jäseneltä",
+   "decision": "Aluehallitus päätti yksimielisesti jättää asian pöydälle",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nAnne Halttunen, erityisasiantuntija, rahoitus ja omistajaohjaus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti yksimielisesti jättää asian pöydälle"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää nimetä Pohjois-Savon hyvinvointialueen edustajiksi hyvinvointiyhtymän yhtymäkokoukselle seuraavasti:\n\n1) hallituksen jäsenet ja varajäsenet\n\n2) tarkastuslautakunnan jäsenen ja varajäsenen\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nHyvinvointialuelain (611/2021) 61 § mukaan hyvinvointiyhtymän päätösvaltaa käyttää yhtymävaltuusto tai yhtymäkokous. Hyvinvointialuelain 63 § mukaan yhtymäkokouksen tehtävänä on valita hyvinvointiyhtymän toimielimet. ISLAB hyvinvointiyhtymän yhtymäkokous on sovittu pidettäväksi 21.8.2025.\n\nHallituksen jäsenet\n\nISLAB hyvinvointiyhtymän perussopimuksen 7 §:n mukaan yhtymäkokous valitsee hallitukseen aluevaltuuston toimikaudeksi seitsemän (7) jäsentä ja kullekin henkilökohtaiset varajäsenet. Yhtymäkokous valitsee yhden (1) hallituksen jäsenistä puheenjohtajaksi ja yhden (1) varapuheenjohtajaksi.\n\nHallituksen jäsenet ja varajäsenet valitaan seuraavasti:\n\n- kolme (3) jäsenten edustajaa, yksi (1) edustaja kultakin\n\n- yksi (1) edustaja Itä-Suomen yliopistosta\n\n- kolme (3) muuta jäsentä.\n\nPerussopimuksen mukaan hallituksen jäsenillä on oltava yhtymän toimialan edellyttämä riittävä talouden ja hyvinvointiyhtymän johtamisen asiantuntemus sekä soveltuva hallitusammattilaiskoulutus.\n\nYhtymän jäsenten (Pohjois-Savon, Pohjois-Karjalan ja Etelä-Savon hyvinvointialueiden) tulisi nimetä ehdokkaansa hallitukseen tasa-arvolaki huomioiden:\n\n- yksi (1) edustaja kultakin jäseneltä\n\n- kolme (3) muuta jäsentä\n\nItä-Suomen yliopiston edustajaehdokkaan nimeää yliopisto itse.\n\nTarkastuslautakunnan jäsenet\n\nPerussopimuksen mukaan yhtymäkokous valitsee hyvinvointialueiden esityksestä tarkastuslautakuntaan puheenjohtajan (1) ja varapuheenjohtajan (1) sekä kolme (3) muuta jäsentä, sekä kullekin henkilökohtaisen varajäsenen.\n\nYhtymän jäsenten (Pohjois-Savon, Pohjois-Karjalan ja Etelä-Savon hyvinvointialueiden) tulisi nimetä ehdokkaansa tarkastuslautakuntaan tasa-arvolaki huomioiden:\n\n- Puheenjohtaja\n\n- Varapuheenjohtaja\n\n- yksi (1) edustaja kultakin jäseneltä"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "282",
+   "title": "Aluehallituksen edustajan valinta hyvinvointialueen nuorisovaltuustoon",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025781-12",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025781-12.PDF",
+   "diary_number": "2357/00.01.02.00/2023",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus nimeää edustajan aluehallituksen jäsenistä nuorisovaltuustoon toimikauden ajaksi.\n\nToimivallan peruste\nHallintosääntö 22§\n\nValmistelu\nHallintosäännön 22 §:n mukaan aluehallitus asettaa nuorisovaltuuston, jonka toiminta on tarkemmin määrätty toimintasäännössä. Nuorisovaltuustoon kuuluu 25 jäsentä. Näistä 19 jäsentä tulee kunnan vastaavista toimielimistä ja kuusi avoimella haulla. Aluehallitus nimeää edustajansa sekä palvelualueen edustajan nuorisovaltuustoon. Nuorisovaltuusto nimeää edustajansa aluevaltuustoon sekä perhe- ja vammaispalveluiden asioita käsittelevään lautakuntaan puhe- ja läsnäolo-oikeudella.\n\nAluehallitus on 29.1.2025 kokouksessaan (§ 31) nimittänyt uuden nuorisovaltuuston kokoonpanon toimikaudelle 2025-2026.\n\nAluehallituksen edustajana nuorisovaltuustossa on edellisen valtuustokauden aikana ollut Karoliina Partanen (01/23-09/23) ja Kari Ojala (9/23-05/25). Uuden valtuustokauden alettua, nuorisovaltuusto pyytää aluehallitusta nimeämään aluehallituksen jäsenistä edustajan nuorisovaltuustoon toimikauden ajaksi.",
+   "decision": "Aluehallitus päättää nimetä aluehallituksen edustajaksi nuorisovaltuustoon Markku Rossin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nTiia Hartikainen\n\nJuho Juvenius"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päättää nimetä aluehallituksen edustajaksi nuorisovaltuustoon Markku Rossin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus nimeää edustajan aluehallituksen jäsenistä nuorisovaltuustoon toimikauden ajaksi.\n\nToimivallan peruste\nHallintosääntö 22§\n\nValmistelu\nHallintosäännön 22 §:n mukaan aluehallitus asettaa nuorisovaltuuston, jonka toiminta on tarkemmin määrätty toimintasäännössä. Nuorisovaltuustoon kuuluu 25 jäsentä. Näistä 19 jäsentä tulee kunnan vastaavista toimielimistä ja kuusi avoimella haulla. Aluehallitus nimeää edustajansa sekä palvelualueen edustajan nuorisovaltuustoon. Nuorisovaltuusto nimeää edustajansa aluevaltuustoon sekä perhe- ja vammaispalveluiden asioita käsittelevään lautakuntaan puhe- ja läsnäolo-oikeudella.\n\nAluehallitus on 29.1.2025 kokouksessaan (§ 31) nimittänyt uuden nuorisovaltuuston kokoonpanon toimikaudelle 2025-2026.\n\nAluehallituksen edustajana nuorisovaltuustossa on edellisen valtuustokauden aikana ollut Karoliina Partanen (01/23-09/23) ja Kari Ojala (9/23-05/25). Uuden valtuustokauden alettua, nuorisovaltuusto pyytää aluehallitusta nimeämään aluehallituksen jäsenistä edustajan nuorisovaltuustoon toimikauden ajaksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "283",
+   "title": "Aluehallitukselle tiedoksi annettavat lausuntopyynnöt ja lausunnot",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025781-13",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025781-13.PDF",
+   "diary_number": null,
+   "preparer": "Janne Niemeläinen",
+   "presenter": "Hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus merkitsee saapuneet lausuntopyynnöt ja annetut lausunnot tiedoksi.\n\nToimivallan peruste\nhallintosääntö 36 §\n\nValmistelu\nAluehallituksen 2.10.2023 § 308 mukaisesti aluehallitus päättää hallintosäännön määräyksiä noudattaen, että merkittävät lausunnot esim. hyvinvointialueiden rahoitukseen, lainsäädäntöön liittyvät ja niihin rinnasteiset lausunnot antaa aluehallitus. Lausunnon merkittävyys arvioidaan asian valmistelussa.\n\nPohjois-Savon hyvinvointialueen hallintosäännön määräykset lausuntojen antamisesta antavat mahdollisuuden viranhaltijoille antaa lausuntoja tietyissä rajoissa. Mikäli annettavat lausunnot eivät ole viranhaltijoiden toimivallassa, antaa niistä lausunnot aluehallitus.\n\nLausuntopyyntöihin vastaamiselle annettu määräaika on yleensä niin lyhyt, ettei lausuntojen käsittely aluehallituksessa ole mahdollista.\n\nSaapuneet lausuntopyynnöt:\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö, hallituksen esitykseksi eduskunnalle laiksi elatustukilain, lapsen elatuksesta annetun lain sekä tulotietojärjestelmästä annetun lain muuttamisesta\n\nAnnetut lausunnot:\n\n- Lausunto luonnoksesta hallituksen esitykseksi sosiaalihuoltolain, vanhuspalvelulain ja asiakasmaksulain muuttamisesta",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitukselle tiedoksi annettavat lausuntopyynnöt ja lausunnot\n\nValmistelija(t)\nValmistelija: Janne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus merkitsee saapuneet lausuntopyynnöt ja annetut lausunnot tiedoksi.\n\nToimivallan peruste\nhallintosääntö 36 §\n\nValmistelu\nAluehallituksen 2.10.2023 § 308 mukaisesti aluehallitus päättää hallintosäännön määräyksiä noudattaen, että merkittävät lausunnot esim. hyvinvointialueiden rahoitukseen, lainsäädäntöön liittyvät ja niihin rinnasteiset lausunnot antaa aluehallitus. Lausunnon merkittävyys arvioidaan asian valmistelussa.\n\nPohjois-Savon hyvinvointialueen hallintosäännön määräykset lausuntojen antamisesta antavat mahdollisuuden viranhaltijoille antaa lausuntoja tietyissä rajoissa. Mikäli annettavat lausunnot eivät ole viranhaltijoiden toimivallassa, antaa niistä lausunnot aluehallitus.\n\nLausuntopyyntöihin vastaamiselle annettu määräaika on yleensä niin lyhyt, ettei lausuntojen käsittely aluehallituksessa ole mahdollista.\n\nSaapuneet lausuntopyynnöt:\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö, hallituksen esitykseksi eduskunnalle laiksi elatustukilain, lapsen elatuksesta annetun lain sekä tulotietojärjestelmästä annetun lain muuttamisesta\n\nAnnetut lausunnot:\n\n- Lausunto luonnoksesta hallituksen esitykseksi sosiaalihuoltolain, vanhuspalvelulain ja asiakasmaksulain muuttamisesta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Sosiaali- ja terveysministeriön lausuntopyyntö, hallituksen esitykseksi eduskunnalle laiksi elatustukilain, lapsen elatuksesta annetun lain sekä tulotietojärjestelmästä annetun lain muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/2025781-13-190540.PDF"
+    },
+    {
+     "title": "Lausunto luonnoksesta hallituksen esitykseksi sosiaalihuoltolain, vanhuspalvelulain ja asiakasmaksulain muuttamisesta, 04062025",
+     "url": "https://pshva.oncloudos.com/kokous/2025781-13-190902.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "284",
+   "title": "Viranhaltijapäätösten tarkastaminen 3.6.-10.6.2025",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025781-14",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025781-14.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Toimielimen puheenjohtaja",
+   "proposal": "Aluehallitus ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Aluehallitus hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 57 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava aluehallitukselle niistä päätöksistä, jotka voidaan ottaa aluehallituksen käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava aluehallituksen alaisten viranhaltijoiden osalta aluehallitukselle.\n\nAluehallituksen alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa aluehallituksen puheenjohtajalle ja hyvinvointialuejohtajalle.\n\nAluehallitukselle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 3.6.2025 – 10.6.2025",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Viranhaltijapäätösten tarkastaminen 3.6.-10.6.2025"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Toimielimen puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Aluehallitus hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 57 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava aluehallitukselle niistä päätöksistä, jotka voidaan ottaa aluehallituksen käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava aluehallituksen alaisten viranhaltijoiden osalta aluehallitukselle.\n\nAluehallituksen alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa aluehallituksen puheenjohtajalle ja hyvinvointialuejohtajalle.\n\nAluehallitukselle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 3.6.2025 – 10.6.2025"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "viranhaltijapäätösluettelo 3.6.-10.6.2025 otsikot",
+     "url": "https://pshva.oncloudos.com/kokous/2025781-14-191458.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "285",
+   "title": "Muut asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025781-15",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025781-15.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Merkitään pöytäkirjaan, että:\n\n- asia käsiteltiin § 289 jälkeen.\n\n1) Esteellisyysperusteet, Janne Niemeläinen\n\nPuheenjohtaja päätti kokouksen klo 16.12.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n- asia käsiteltiin § 289 jälkeen.\n\n1) Esteellisyysperusteet, Janne Niemeläinen\n\nPuheenjohtaja päätti kokouksen klo 16.12."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "286",
+   "title": "Hyvinvointialueelle myönnetyt tutkimusrahoitukset 1.1.2025-31.5.2025 (JulkL 24 §, kohta 21)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025781-16",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025781-16.PDF",
+   "diary_number": "1245/02.05.01/2023",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Päätös",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Raatikainen Riitta",
+   "role": "aluehallituksen puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Hedman Pia",
+   "role": "aluehallituksen 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Rossi Markku",
+   "role": "aluehallituksen 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kanniainen Aino",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lötjönen Vesa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Miettinen Heikki",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pitkänen Juha",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Rautiainen Merja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Suna Sassa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Taipale Pekka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Vornanen Ahti-Pekka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Väätäinen Tuula",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Åhman Kati",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kokki Hannu",
+   "role": "aluevaltuuston puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Pellikka Minna",
+   "role": "aluevaltuuston 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Partanen Karoliina",
+   "role": "aluevaltuuston 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Korhonen Marko",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Niemeläinen Janne",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Antikainen Mari",
+   "role": "henkilöstöjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Hedman Antti",
+   "role": "vastaava lääkäri",
+   "group": "other"
+  },
+  {
+   "name": "Janhonen Kari",
+   "role": "talousjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Jestola Eija",
+   "role": "toimilinjajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kantanen Kati",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kettunen Anne",
+   "role": "viestintä- ja markkinointijohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Koponen Jukka",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Korhonen Mikko",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Lampi Jussi",
+   "role": "strategiajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Saarinen Jari",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Räsänen Henna",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Mykkänen Minna",
+   "role": "johtaja ylihoitaja",
+   "group": "other"
+  },
+  {
+   "name": "Al-Sawad Adam",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Muiniekka Jarmo",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pylkkönen Satu",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Sokka Irja",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Vaattovaara Jenni",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Räsänen Mirka",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025781",
+  "fetched_at": "2026-10-14T18:37:21+00:00",
+  "content_hash": "5b424b56cfb418c8",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T18:37:21+00:00"
+ }
+}

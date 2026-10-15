@@ -1,0 +1,607 @@
+{
+ "id": "asiakaskokemusjaosto/2026-04-15",
+ "region": "pohjois-savo",
+ "body_id": "asiakaskokemusjaosto",
+ "body_name": "Asiakaskokemusjaosto",
+ "date": "2026-04-15",
+ "stage": "minutes",
+ "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261030",
+ "pdf_url": "https://pshva.oncloudos.com/kokous/20261030.PDF",
+ "time": "08:30 - 10:09",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "87",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-1",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen laillisuus ja päätösvaltaisuus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "88",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-2",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Hämäläinen Vuokko ja Koistinen Minna.",
+   "decision": "Pöytäkirjantarkastajiksi valittiin Hämäläinen Vuokko ja Koistinen Minna.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pöytäkirjantarkastajien valinta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Hämäläinen Vuokko ja Koistinen Minna."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Hämäläinen Vuokko ja Koistinen Minna."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "89",
+   "title": "Asioiden käsittelyjärjestys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-3",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asioiden käsittelyjärjestys"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "90",
+   "title": "Ajankohtaiset asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-4",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto merkitsee tiedoksi ajankohtaiset asiat.\n\nvammaispalvelulain uudistus, ajankohtaiskatsaus\n\nKokousaikataulu 2026",
+   "decision": "Asiakaskokemusjaosto merkitsi ajankohtaiset asiat tiedoksi.\n\nMerkitään pöytäkirjaan, että Kati Kantanen poistui klo 9.29",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Ajankohtaiset asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Asiakaskokemusjaosto merkitsi ajankohtaiset asiat tiedoksi.\n\nMerkitään pöytäkirjaan, että Kati Kantanen poistui klo 9.29"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto merkitsee tiedoksi ajankohtaiset asiat.\n\nvammaispalvelulain uudistus, ajankohtaiskatsaus\n\nKokousaikataulu 2026"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "91",
+   "title": "Tiedoksisaatettavat asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-5",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-5.PDF",
+   "diary_number": "1322/00.01.02.00/2026",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto merkitsee tiedoksisaattettavat asiat tiedosi.\n\nTiedoksisaatettavat asiat:\n\n- Asiakaskokemusjaoston lausunto Itä-Suomen hallinto-oikeuden lausuntopyyntöön Kumppanuusavustushakemukset, Haku 2026, Lapsen kengissä ry.\n\nLiitteet ja oheistaineistot\n\n- Asiakaskokemusjaoston lausunto Itä-Suomen hao lausuntopyyntöön",
+   "decision": "Esittelijä esitti kokouksessa muutosehdosuksen kuulumaan seuraavasti:\n\nAsiakaskokemusjaosto merkitsee tiedoksi asiakaskokemusjaoston lausunnon asiassa ja välittää sen edelleen tiedoksi aluehallitukselle.\n\nMuutettu päätösehdotus hyväksyttiin yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Päätös",
+     "text": "Esittelijä esitti kokouksessa muutosehdosuksen kuulumaan seuraavasti:\n\nAsiakaskokemusjaosto merkitsee tiedoksi asiakaskokemusjaoston lausunnon asiassa ja välittää sen edelleen tiedoksi aluehallitukselle.\n\nMuutettu päätösehdotus hyväksyttiin yksimielisesti."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto merkitsee tiedoksisaattettavat asiat tiedosi.\n\nTiedoksisaatettavat asiat:\n\n- Asiakaskokemusjaoston lausunto Itä-Suomen hallinto-oikeuden lausuntopyyntöön Kumppanuusavustushakemukset, Haku 2026, Lapsen kengissä ry.\n\nLiitteet ja oheistaineistot\n\n- Asiakaskokemusjaoston lausunto Itä-Suomen hao lausuntopyyntöön"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Asiakaskokemusjaoston lausunto Itä-Suomen hao lausuntopyyntöön",
+     "url": "https://pshva.oncloudos.com/kokous/20261030-5-253593.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "92",
+   "title": "Järjestöavustusten jako vuodelle 2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-6",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-6.PDF",
+   "diary_number": "2479/02.05.01/2026",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto päättää toimeenpanna aiemmassa kokouksessaan 14.1.2026 § 4-59 tehdyt päätökset.\n\nEnnakkovaikutusten arviointi\n\nJärjestöavustusten toimeenpanon viivästyttäminen vaikeuttaa hyvinvointialueen strategisten painopisteiden toteuttamista, sillä järjestöjen kanssa tehtävä yhteistyö on yksi tapa tuottaa palveluja ja ennalta ehkäistä raskaampien palvelujen tarvetta. Tällä päätöksellä voi olla vaikutusta siihen, että palvelualueen talousarvio tulee ylittymään, mutta sen on arvioitu olevan pienempi haitta kuin se, että toiminnat eivät pääse alkamaan.\n\nToimivallan peruste\nHallintosääntö § 39, kohta 13\n\nLiitteet ja oheisaineisto\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen asiakaskokemusjaosto on päättänyt kokouksessaan 14.1.2026 § 4–59 yleishyödyllisten yhteisöjen avustusten jaosta vuodelle 2026. Päätöksistä hyvinvointialueelle saapui neljä oikaisuvaatimusta, jotka käsiteltiin asiakaskokemusjaoston kokouksessa 18.2.2026. Kaikki oikaisuvaatimukset hylättiin. Yksi oikaisuvaatimuksen tekijöistä valitti 18.2.2026 päätöksestä Itä-Suomen hallinto-oikeuteen ja vaatii kaikkien päätösten kumoamista ja palauttamista uudelleen käsittelyyn.\n\nMyönteisen avustuspäätöksen saaneiden ja jatkettavien kumppanuusavustusten järjestöjen kannalta tilanne on tällä hetkellä vaikea. He eivät voi aloittaa suunniteltuja toimintoja, joihin heille on myönnetty avustus. Osassa järjestöissä joudutaan lomauttamaan tai irtisanomaan työntekijöitä tai koko toiminta lakkaa. Järjestötoimijat tukevat hyvinvointialueen strategisten painopisteiden toteuttamista ja ovat tärkeitä kumppaneita, jotka täydentävät ja tukevat hyvinvointialueen palveluja.\n\nPohjois-Savon hyvinvointialueen talousarvioon on varattu määrärahaa 850 000 € vuodessa järjestöavustuksiin. Asiakaskokemusjaoston 14.1.2026 kokouksessa koko määräraha jaettiin uusiin kumppanuusavustuksiin, innovaatioavustuksiin ja jatkettaviin kumppanuusavustuksiin. Nyt hallinto-oikeuteen valittaneen järjestön avustushakemus on 35 200 € vuodessa, haettuna 3 vuodelle kumppanuusavustuksena.\n\nPäätöksien täytäntöönpanon viivytyksellä on suuremmat haitat, kuin sillä, että valituksen menestyessä siitä voi aiheutua hyvinvointialueelle 35 200 € lisäkustannus vuodelle 2026.\n\nHyte- ja osallisuusyksikkö on arvioinut haitat sille, mikäli järjestöjen toiminta lakkaa kokonaisuudessaan tai osittain.\n\nMyönteisen avustuspäätöksen saaneet järjestöt tuottavat matalan kynnyksen, ennaltaehkäisevää, jalkautuvaa ja osallisuutta vahvistavaa toimintaa, joka täydentää hyvinvointialueen järjestämisvastuulla olevia palveluja. Toiminta kohdistuu erityisesti lapsiperheisiin, nuoriin, työikäisiin mielenterveys‑ ja päihdekuntoutujiin ja ikäihmisiin.\n\nJärjestöjen tuottaman digituen puuttuminen heikentää hyvinvointialueen digipalvelujen hyödyntämistä ja digipalveluiden saavutettavuutta. Digipalveluiden saatavuus vaarantuu erityisesti ikääntyneillä, heikot digitaaliset taidot osaavilla ja haavoittuvassa asemassa olevilla. Tällöin palvelujen saaminen viivästyy tai estyy ja paine kasvaa muihin asiointikanaviin ja voi pahimmillaan ruuhkauttaa sote-keskuksia. Henkilökohtainen digiohjaustarve siirtyy enemmän hyvinvointialueen omalle henkilöstölle.\n\nTäytäntöönpanon viivästyminen heikentää erityisesti varhaisen tuen ja ennaltaehkäisevän työn jatkuvuutta. Kun järjestöjen tarjoama matalan kynnyksen tuki puuttuu, asiakkaat voivat ohjautuvat raskaampiin ja kustannuksiltaan kalliimpiin hyvinvointialueen palveluihin tai jäävät kokonaan palvelujen ulkopuolelle, jolloin ongelmat kasaantuvat ja ilmenevät myöhemmin akuuteissa kriisitilanteissa. Tämä lisää hyvinvointialueen kustannuksia sekä kuormittaa henkilöstöä.\n\nAvustusten täytäntöönpanon viivästyminen heikentää myös hyvinvointialueen ja yleishyödyllisten yhteisöjen välistä luottamusta, jota ei voida nopeasti palauttaa, vaikka rahoitus myöhemmin varmistuisi. Tämä heikentää hyvinvointialueen strategisten kumppanuuksien pysyvyyttä ja uskottavuutta.\n\nKokonaisuutena arvioiden täytäntöönpanon viivästymisestä aiheutuvat haitat hyvinvointialueen asukkaille, palvelujärjestelmälle, riskille kustannusten kasvulle ja strategisten tavoitteiden toteutumiselle ovat merkittävät. Järjestötoiminnan korvaaminen hyvinvointialueen omalla tuotannolla olisi moninkertaisesti kalliimpaa.\n\nHyvinvointialuelain 148 §:n mukaan päätös voidaan panna täytäntöön ennen kuin se on saanut lainvoiman. Täytäntöönpanoon ei kuitenkaan saa ryhtyä, jos oikaisuvaatimus tai valitus käy täytäntöönpanon johdosta hyödyttömäksi taikka jos oikaisuvaatimuksen käsittelevä toimielin tai viranhaltija taikka valitusviranomainen kieltää täytäntöönpanon.\n\nOttaen huomioon täytäntöönpanon viivästymisestä avustusta saaneille tahoille ja hyvinvointialueelle itselleen aiheutuvat merkittävät haitat ja vahingot, on päätöksien täytäntöönpano perusteltua lainvoimaa vailla olevana. Nyt puheena oleva valitus ei käy hyödyttömäksi täytäntöönpanojen vuoksi eikä valittajan oikeusturva vaarannu.",
+   "decision": "Päätösehdotus hyväksyttiin. Merkitään pöytäkirjaan, että Riitta Raatikainen poistui asian käsittelyn jälkeen klo 9.57",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nPalvelualuepäällikkö Päivi Eskelinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin. Merkitään pöytäkirjaan, että Riitta Raatikainen poistui asian käsittelyn jälkeen klo 9.57"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto päättää toimeenpanna aiemmassa kokouksessaan 14.1.2026 § 4-59 tehdyt päätökset.\n\nEnnakkovaikutusten arviointi\n\nJärjestöavustusten toimeenpanon viivästyttäminen vaikeuttaa hyvinvointialueen strategisten painopisteiden toteuttamista, sillä järjestöjen kanssa tehtävä yhteistyö on yksi tapa tuottaa palveluja ja ennalta ehkäistä raskaampien palvelujen tarvetta. Tällä päätöksellä voi olla vaikutusta siihen, että palvelualueen talousarvio tulee ylittymään, mutta sen on arvioitu olevan pienempi haitta kuin se, että toiminnat eivät pääse alkamaan.\n\nToimivallan peruste\nHallintosääntö § 39, kohta 13\n\nLiitteet ja oheisaineisto\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen asiakaskokemusjaosto on päättänyt kokouksessaan 14.1.2026 § 4–59 yleishyödyllisten yhteisöjen avustusten jaosta vuodelle 2026. Päätöksistä hyvinvointialueelle saapui neljä oikaisuvaatimusta, jotka käsiteltiin asiakaskokemusjaoston kokouksessa 18.2.2026. Kaikki oikaisuvaatimukset hylättiin. Yksi oikaisuvaatimuksen tekijöistä valitti 18.2.2026 päätöksestä Itä-Suomen hallinto-oikeuteen ja vaatii kaikkien päätösten kumoamista ja palauttamista uudelleen käsittelyyn.\n\nMyönteisen avustuspäätöksen saaneiden ja jatkettavien kumppanuusavustusten järjestöjen kannalta tilanne on tällä hetkellä vaikea. He eivät voi aloittaa suunniteltuja toimintoja, joihin heille on myönnetty avustus. Osassa järjestöissä joudutaan lomauttamaan tai irtisanomaan työntekijöitä tai koko toiminta lakkaa. Järjestötoimijat tukevat hyvinvointialueen strategisten painopisteiden toteuttamista ja ovat tärkeitä kumppaneita, jotka täydentävät ja tukevat hyvinvointialueen palveluja.\n\nPohjois-Savon hyvinvointialueen talousarvioon on varattu määrärahaa 850 000 € vuodessa järjestöavustuksiin. Asiakaskokemusjaoston 14.1.2026 kokouksessa koko määräraha jaettiin uusiin kumppanuusavustuksiin, innovaatioavustuksiin ja jatkettaviin kumppanuusavustuksiin. Nyt hallinto-oikeuteen valittaneen järjestön avustushakemus on 35 200 € vuodessa, haettuna 3 vuodelle kumppanuusavustuksena.\n\nPäätöksien täytäntöönpanon viivytyksellä on suuremmat haitat, kuin sillä, että valituksen menestyessä siitä voi aiheutua hyvinvointialueelle 35 200 € lisäkustannus vuodelle 2026.\n\nHyte- ja osallisuusyksikkö on arvioinut haitat sille, mikäli järjestöjen toiminta lakkaa kokonaisuudessaan tai osittain.\n\nMyönteisen avustuspäätöksen saaneet järjestöt tuottavat matalan kynnyksen, ennaltaehkäisevää, jalkautuvaa ja osallisuutta vahvistavaa toimintaa, joka täydentää hyvinvointialueen järjestämisvastuulla olevia palveluja. Toiminta kohdistuu erityisesti lapsiperheisiin, nuoriin, työikäisiin mielenterveys‑ ja päihdekuntoutujiin ja ikäihmisiin.\n\nJärjestöjen tuottaman digituen puuttuminen heikentää hyvinvointialueen digipalvelujen hyödyntämistä ja digipalveluiden saavutettavuutta. Digipalveluiden saatavuus vaarantuu erityisesti ikääntyneillä, heikot digitaaliset taidot osaavilla ja haavoittuvassa asemassa olevilla. Tällöin palvelujen saaminen viivästyy tai estyy ja paine kasvaa muihin asiointikanaviin ja voi pahimmillaan ruuhkauttaa sote-keskuksia. Henkilökohtainen digiohjaustarve siirtyy enemmän hyvinvointialueen omalle henkilöstölle.\n\nTäytäntöönpanon viivästyminen heikentää erityisesti varhaisen tuen ja ennaltaehkäisevän työn jatkuvuutta. Kun järjestöjen tarjoama matalan kynnyksen tuki puuttuu, asiakkaat voivat ohjautuvat raskaampiin ja kustannuksiltaan kalliimpiin hyvinvointialueen palveluihin tai jäävät kokonaan palvelujen ulkopuolelle, jolloin ongelmat kasaantuvat ja ilmenevät myöhemmin akuuteissa kriisitilanteissa. Tämä lisää hyvinvointialueen kustannuksia sekä kuormittaa henkilöstöä.\n\nAvustusten täytäntöönpanon viivästyminen heikentää myös hyvinvointialueen ja yleishyödyllisten yhteisöjen välistä luottamusta, jota ei voida nopeasti palauttaa, vaikka rahoitus myöhemmin varmistuisi. Tämä heikentää hyvinvointialueen strategisten kumppanuuksien pysyvyyttä ja uskottavuutta.\n\nKokonaisuutena arvioiden täytäntöönpanon viivästymisestä aiheutuvat haitat hyvinvointialueen asukkaille, palvelujärjestelmälle, riskille kustannusten kasvulle ja strategisten tavoitteiden toteutumiselle ovat merkittävät. Järjestötoiminnan korvaaminen hyvinvointialueen omalla tuotannolla olisi moninkertaisesti kalliimpaa.\n\nHyvinvointialuelain 148 §:n mukaan päätös voidaan panna täytäntöön ennen kuin se on saanut lainvoiman. Täytäntöönpanoon ei kuitenkaan saa ryhtyä, jos oikaisuvaatimus tai valitus käy täytäntöönpanon johdosta hyödyttömäksi taikka jos oikaisuvaatimuksen käsittelevä toimielin tai viranhaltija taikka valitusviranomainen kieltää täytäntöönpanon.\n\nOttaen huomioon täytäntöönpanon viivästymisestä avustusta saaneille tahoille ja hyvinvointialueelle itselleen aiheutuvat merkittävät haitat ja vahingot, on päätöksien täytäntöönpano perusteltua lainvoimaa vailla olevana. Nyt puheena oleva valitus ei käy hyödyttömäksi täytäntöönpanojen vuoksi eikä valittajan oikeusturva vaarannu."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "93",
+   "title": "Oikaisuvaatimus, ympärivuorokautinen palveluasumisen kuukausimaksu, ikääntyneiden palvelut",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-7",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-7.PDF",
+   "diary_number": "7009/05.17.01/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "94",
+   "title": "Oikaisuvaatimus, laitoshoidon hoitomaksu, ikääntyneiden palvelut",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-8",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-8.PDF",
+   "diary_number": "5236/05.17.01/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "95",
+   "title": "Oikaisuvaatimus, laitoshoidon hoitomaksu, Ikääntyneiden palvelut",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-9",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-9.PDF",
+   "diary_number": "7042/05.17.01/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "96",
+   "title": "Oikaisuvaatimus, laskutus, suun terveydenhuolto",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-10",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-10.PDF",
+   "diary_number": "701/06.03.02/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "97",
+   "title": "Oikaisuvaatimus, terveydenhuollon todistusmaksu",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-11",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-11.PDF",
+   "diary_number": "1289/02.05.00.01/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "98",
+   "title": "Oikaisuvaatimus, asiakaslasku, peruspalvelut",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-12",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-12.PDF",
+   "diary_number": "6271/06.03.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "99",
+   "title": "Oikaisuvaatimus, laskutus, suun terveydenhuollon lasku",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-13",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-13.PDF",
+   "diary_number": "1595/06.03.02/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "100",
+   "title": "Oikaisuvaatimus, laskutus, suun terveydenhuollon lasku",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-14",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-14.PDF",
+   "diary_number": "1769/06.03.02/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "101",
+   "title": "Oikaisuvaatimus, asiakaslasku, peruspalvelut",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-15",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-15.PDF",
+   "diary_number": "1947/06.03.02/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "102",
+   "title": "Oikaisuvaatimus, terveydenhuollon maksut",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-16",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-16.PDF",
+   "diary_number": "792/06.03.02/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "103",
+   "title": "Oikaisuvaatimus, asiakaslaskut, peruspalvelut",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-17",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-17.PDF",
+   "diary_number": "6415/06.03.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "104",
+   "title": "Oikaisuvaatimus, ympärivuorokautinen palveluasuminen ylläpitomaksu",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-18",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-18.PDF",
+   "diary_number": "3595/05.17.01/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "105",
+   "title": "Oikaisuvaatimus, asiakasmaksun alentaminen tai perimättä jättäminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-19",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-19.PDF",
+   "diary_number": "1049/02.05.00.01/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "106",
+   "title": "Oikaisuvaatimus, laskutus, suun terveydenhuollon maksu",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-20",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-20.PDF",
+   "diary_number": "1644/06.03.02/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "107",
+   "title": "Oikaisuvaatimus, kotihoidon asiakasmaksut, ikääntyneiden palvelut",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-21",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-21.PDF",
+   "diary_number": "1609/05.17.01/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "108",
+   "title": "Muut asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261030-22",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261030-22.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Puheenjohtaja päätti kokouksen klo 10.09",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja päätti kokouksen klo 10.09"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Rossi Markku",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Miettinen Heikki",
+   "role": "varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Ahokas Jarkko",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hämäläinen Vuokko",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Koistinen Minna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pitkänen Eveliina",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Väätäinen Jenna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Eskelinen Päivi",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Hiltunen Miia",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Raatikainen Riitta",
+   "role": "aluehallituksen puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kantanen Kati",
+   "role": "toimialajohtaja",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261030",
+  "fetched_at": "2026-10-14T18:07:47+00:00",
+  "content_hash": "6eb0ee961dba6f3a",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T18:07:47+00:00"
+ }
+}

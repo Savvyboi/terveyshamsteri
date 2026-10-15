@@ -1,0 +1,685 @@
+{
+ "id": "aluehallitus/2026-03-02",
+ "region": "kanta-hame",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2026-03-02",
+ "stage": "minutes",
+ "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026185",
+ "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026185.PDF",
+ "time": "09:07 - 12:46",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "89",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026185-1",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026185-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää todeta kokouksen lailliseksi ja päätösvaltaiseksi.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen. Lisäksi aluehallitus päätti myöntää läsnäolo- ja puheoikeuden asian § 92 osalta rahoitus- ja investointijohtaja Petrus Kukkoselle, toimialajohtaja Jarmo Lappalaiselle, tulosaluejohtaja Tiina Merivuorelle ja tulosaluejohtaja Paula Turuselle; asian § 93 osalta projektijohtaja Eeva Rikkilä-Kettuselle sekä asian § 95 osalta toimialajohtaja Jorma Haapaselle ja toimialajohtaja Marika Paasikoski-Junniselle.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallituksen kokouskutsusta on säädetty hallintosäännön 139 §:ssä. Hyvinvointialueesta annetun lain 108 §:n 2 momentin mukaan aluehallitus on päätösvaltainen, kun yli puolet jäsenistä on läsnä."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluehallitus päättää todeta kokouksen lailliseksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen. Lisäksi aluehallitus päätti myöntää läsnäolo- ja puheoikeuden asian § 92 osalta rahoitus- ja investointijohtaja Petrus Kukkoselle, toimialajohtaja Jarmo Lappalaiselle, tulosaluejohtaja Tiina Merivuorelle ja tulosaluejohtaja Paula Turuselle; asian § 93 osalta projektijohtaja Eeva Rikkilä-Kettuselle sekä asian § 95 osalta toimialajohtaja Jorma Haapaselle ja toimialajohtaja Marika Paasikoski-Junniselle."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "90",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026185-2",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026185-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää valita kaksi jäsentä tarkastamaan tämän kokouksen pöytäkirjan.",
+   "decision": "Aluehallitus päätti valita pöytäkirjantarkastajiksi Lotta Saarenmaan ja Karri Vanttajan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hallintosäännön 159 §:n mukaan pöytäkirja tarkastetaan toimielimen päättämällä tavalla. Pöytäkirja voidaan allekirjoittaa ja tarkastaa sähköisesti.\n\nAluehallituksen pöytäkirjan tarkastaa kaksi kullakin kerralla tähän tehtävään valittua hallituksen jäsentä, jollei aluehallitus jonkin asian kohdalla toisin päätä. Tällä kertaa tarkastusvuorossa ovat Lotta Saarenmaa ja Karri Vanttaja (varalla Johanna Häggman)."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluehallitus päättää valita kaksi jäsentä tarkastamaan tämän kokouksen pöytäkirjan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti valita pöytäkirjantarkastajiksi Lotta Saarenmaan ja Karri Vanttajan."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "91",
+   "title": "Kokouksen työjärjestyksen hyväksyminen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026185-3",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026185-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää hyväksyä tämän kokouksen työjärjestyksen.",
+   "decision": "Aluehallitus päätti käsitellä asiat esityslistan mukaisessa järjestyksessä.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluehallitus päättää hyväksyä tämän kokouksen työjärjestyksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti käsitellä asiat esityslistan mukaisessa järjestyksessä."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "92",
+   "title": "Ilmoitusasiat",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026185-4",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026185-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä tiedoksi esitetyt ilmoitusasiat.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.\n\nAluehallitus piti tämän asian käsittelyn aikana kokoustauon klo 11.20 – 11.28.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallituksen aamukouluasiat\n\n- Kanta-Hämeen hyvinvointialueen palveluverkkosuunnitelman päivittäminen mielenterveys- ja päihdepalveluiden osalta: selviämisasema / tuloaluejohtaja Paula Turunen, toimialajohtaja Jarmo Lappalainen ja rahoitus- ja investointijohtaja Petrus Kukkonen.\n\n- Kanta-Hämeen hyvinvointialueen palveluverkkosuunnitelman päivittäminen terveyspalvelujen osalta: palvelupiste Parola / tulosaluejohtaja Tiina Merivuori, toimialajohtaja Jarmo Lappalainen ja rahoitus- ja investointijohtaja Petrus Kukkonen."
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä tiedoksi esitetyt ilmoitusasiat."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen.\n\nAluehallitus piti tämän asian käsittelyn aikana kokoustauon klo 11.20 – 11.28."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "93",
+   "title": "Ahveniston sairaala -hankkeen vuosiraportti 2025",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026185-5",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026185-5.PDF",
+   "diary_number": "2019/00.01.05/2026",
+   "preparer": "rahoitus- ja investointjohtaja Petrus Kukkonen, projektijohtaja Eeva Rikkilä-Kettunen, puh., riskienhallintapäällikkö Anu Junikka, projektijohtaja Harri Halinen, rakennuttajapäällikkö Liisa Haakana, rahoituspäällikkö Anna-Liisa Gullstén",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä Ahveniston sairaalahankkeen 2025 vuosiraportin tiedoksi ja toimittaa raportin tiedoksi aluevaltuustolle.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "rahoitus- ja investointjohtaja Petrus Kukkonen, projektijohtaja Eeva Rikkilä-Kettunen, puh., riskienhallintapäällikkö Anu Junikka, projektijohtaja Harri Halinen, rakennuttajapäällikkö Liisa Haakana, rahoituspäällikkö Anna-Liisa Gullstén"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Ahveniston sairaalahankkeen edistymistä raportoidaan säännöllisesti hyvinvointialueen aluehallitukselle ja aluevaltuustolle.\n\nVuosiraporttiin 2025 on koottu hankkeen keskeisten osakokonaisuudet\n\n- Rakentaminen\n\n- Tilaajan kalustamis- ja varustamisvaihe\n\n- Hankkeen aikataulu\n\n- Rakentamisen valvonta\n\n- Muutosten hallinta\n\n- Allianssin hankinnat\n\n- Tilaajan laite – ja kalustehankinnat\n\n- Tilaajan ICT-hankinnat\n\n- Hankkeen rahoitus\n\n- Riskien hallinta\n\n- Kustannusten seuranta ja kokonaiskustannusennuste\n\nLiitteenä on Ahveniston sairaala -hankkeen vuosiraportti 2025.\n\n(SA-K)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 66 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä Ahveniston sairaalahankkeen 2025 vuosiraportin tiedoksi ja toimittaa raportin tiedoksi aluevaltuustolle."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösesitys / aluevaltuusto\n\nPäätösote / rahoitus- ja investointijohtaja Petrus Kukkonen, projektijohtaja Eeva Rikkilä-Kettunen"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Vuosiraportti 2025",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026185-5-395573.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "94",
+   "title": "Kanta-Hämeen hyvinvointialueen palvelustrategia",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026185-6",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026185-6.PDF",
+   "diary_number": "3697/00.01.02.00/2025",
+   "preparer": "strategia- ja integraatiopäällikkö Teija Suorsa-Salonen, asiakkuusjohtaja Heli Aalto, kehitys- ja ict-johtaja Toni Suihko, toimialajohtaja Satu Ala-Kokko",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää\n\n1. lähettää palvelustrategian luonnoksen lausuttavaksi elämänkaarilautakunnalle, terveyden ja toimintakyvyn edistämisen lautakunnalle, turvallisuuslautakunnalle, integraatiovaliokunnalle, vaikuttamistoimielimille sekä Kanta-Hämeen hyvinvointialueen sidosryhmille liitteenä olevan lausuntopyyntökirjeen jakelulistan mukaisesti\n\n2. valtuuttaa strategia- ja integraatiopäällikön tekemään vähäisiä muutoksia lausuntopyyntökirjeeseen.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.\n\nRiku Bitter poistui kokouksesta tämän asian käsittelyn aikana ennen päätöksentekoa.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "strategia- ja integraatiopäällikkö Teija Suorsa-Salonen, asiakkuusjohtaja Heli Aalto, kehitys- ja ict-johtaja Toni Suihko, toimialajohtaja Satu Ala-Kokko"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Uuden strategiakauden valmistelu\n\nUuden strategiakauden valmistelu aloitettiin alkuvuodesta 2025 aiemman strategian arvioinnilla ja toimintaympäristöanalyysillä (AV 27.5.2025 § 42). Tämän jälkeen strategian valmistelu eteni siten, että aluevaltuusto vahvisti hyvinvointialueen arvot ja merkityksen sekä päätti uusista strategisista painopisteissä lokakuussa 2025. (AV 28.10.2025 § 93)\n\nAluevaltuuston lokakuun päätöksen jälkeen prosessia on jatkettu palvelustrategian valmistelulla. Valmistelua toteutetaan yhteistyössä poliittisten päättäjien, asukkaiden, henkilöstön ja sidosryhmien kanssa. Palvelustrategia valmistellaan päätöksentekoon kevään 2026 aikana.\n\nPalvelustrategian lainsäädännöllinen perusta\n\nPalvelustrategiasta säädetään sosiaali- ja terveydenhuollon järjestämisestä annetussa laissa. Hyvinvointialueen on laadittava taloutensa ja toimintansa suunnittelua ja johtamista varten sosiaali- ja terveydenhuollon palvelustrategia osana hyvinvointialuestrategiaa. Palvelustrategiassa on otettava huomioon hyvinvointialueesta annetun lain mukaiset sosiaali- ja terveydenhuollon valtakunnalliset tavoitteet.\n\nPalvelustrategiassa hyvinvointialue päättää järjestämisvastuulleen kuuluvan sosiaali- ja terveydenhuollon pitkän aikavälin tavoitteet. Lisäksi hyvinvointialue asettaa palvelustrategiassa tavoitteet sille, miten sosiaali- ja terveydenhuollon palvelut toteutetaan ottaen huomioon hyvinvointialueen asukkaiden tarpeet, paikalliset olosuhteet, palvelujen saatavuus ja saavutettavuus sekä kustannusvaikuttavuus.\n\nHyvinvointialueen asukkaiden ja palvelujen käyttäjien osallistumis- ja vaikuttamismahdollisuuksista palvelustrategian laadinnassa säädetään hyvinvointialueesta annetussa laissa. Hyvinvointialueen on julkaistava palvelustrategiansa julkisessa tietoverkossa.\n\nKanta-Hämeen hyvinvointialueen palvelustrategia\n\nKanta-Hämeen hyvinvointialueen palvelustrategian sisältö jakaantuu luonnosvaiheessa karkeasti kahteen kokonaisuuteen. Ensimmäinen kokonaisuus koostuu palvelustrategian laadintaa ohjaavista reunaehdoista ja palveluiden nykytilan kuvauksesta (luvut 1-3) sekä hyvinvointialueen strategian perustasta (luku 4).\n\nLuvussa 4 kuvatut hyvinvointialueen arvot, merkitys ja strategiset painopisteet muodostavat perustan palvelustrategialle. Vaikuttavuus läpileikkaa ja sisältyy kaikkiin strategisiin painopisteisiin. Vaikuttavuuden määritelmä Kanta-Hämeen hyvinvointialueen strategiassa tarkennetaan valmistelun edetessä kevään aikana.\n\nToinen palvelustrategian sisältökokonaisuus koostuu luvusta 5, eli strategisten painopisteiden kuvauksista ja niiden alle kootuista ohjaavista sisällöistä sekä periaatteista painopisteittäin. Luku 5 muodostaa palvelustrategian keskeisimmän sisällön lausuntopyynnön näkökulmasta.\n\nLisäksi palvelustrategian luonnoksessa kuvataan toimeenpanoa tukevia ohjelmia ja suunnitelmia (luku 7). Palvelustrategian lopussa tullaan kuvaamaan toimeenpanon, seurannan ja arvioinnin kannalta keskeiset asiat. Em. kuvaukset kirjoitetaan valmistelun edetessä (luku 8).\n\nPalvelustrategian valmistelun eteneminen\n\nPalvelustrategian valmistelussa on otettu laajasti huomioon eri sidosryhmien näkemyksiä, hyödyntämällä esimerkiksi eri yhteyksissä tehtyjen kyselyjen vastauksia tai muulla tavoin kerättyä tietoa. Lisäksi hyvinvointialueen aluevaltuustolle, lautakunnille ja vaikuttamistoimielimille sekä henkilöstön edustajille on järjestetty palvelustrategiatyöhön liittyviä seminaareja tai työpajoja.\n\nSeuraavaksi palvelustrategian luonnos on mahdollista lähettää käsiteltäväksi ja lausuttavaksi hyvinvointialueen omille toimielimille sekä hyvinvointialueen eri sidosryhmille. Lausuntoaikana asukkailta kerätään näkemyksiä palvelustrategian jatkovalmisteluun Ota kantaa -verkkopalvelun kautta. Lautakunnat tekevät palvelustrategiasta ennakkovaikutusten arvioinnin.\n\nLuonnos ei ole valmis asiakirja, vaan palvelustrategian valmistelua jatketaan lausuntokierroksen aikana sekä sen jälkeen lausuntokierroksella saadun palautteen perusteella. Aluevaltuusto käsittelee palvelustrategian luonnosta huhtikuun lopussa olevassa seminaarissa. Tavoitteena on tuoda esitys palvelustrategiasta aluehallitukselle siten, että aluevaltuusto voi päättää palvelustrategiasta toukokuussa.\n\nLiitteenä on Palvelustrategialuonnos 2026 – 2030 ja lausuntopyyntö.\n\n(SA-K)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 9.3 § 1 kohta ja 10.4 § 2 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\n1. lähettää palvelustrategian luonnoksen lausuttavaksi elämänkaarilautakunnalle, terveyden ja toimintakyvyn edistämisen lautakunnalle, turvallisuuslautakunnalle, integraatiovaliokunnalle, vaikuttamistoimielimille sekä Kanta-Hämeen hyvinvointialueen sidosryhmille liitteenä olevan lausuntopyyntökirjeen jakelulistan mukaisesti\n\n2. valtuuttaa strategia- ja integraatiopäällikön tekemään vähäisiä muutoksia lausuntopyyntökirjeeseen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen.\n\nRiku Bitter poistui kokouksesta tämän asian käsittelyn aikana ennen päätöksentekoa."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "päätösote/ elämänkaarilautakunta, terveyden ja toimintakyvyn edistämisen lautakunta, turvallisuuslautakunta, integraatiovaliokunta, vanhusneuvosto, vammaisneuvosto, nuorisovaltuusto, Kanta-Hämeen hyvinvointialueen sidosryhmät liitteen mukaisesti"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Lausuntopyyntö",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026185-6-397743.PDF"
+    },
+    {
+     "title": "Liite 2 Palvelustrategialuonnos aluehallitukseen 02032026",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026185-6-398045.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "95",
+   "title": "Tulosaluemuutokset ikäihmisten sekä perhe- sosiaali- ja vammaispalveluiden toimialoilla",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026185-7",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026185-7.PDF",
+   "diary_number": "2714/01.00.02/2026",
+   "preparer": "toimialajohtaja Marika Paasikoski-Junninen, henkilöstöjohtaja Johanna Bjerregård Madsen, toimialajohtaja Jorma Haapanen",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää\n\n1. lakkauttaa ikäihmisten palveluiden toimialan asiakasohjauksen tulosalueen ja perhe- sosiaali- ja vammaispalveluiden toimialan vammaispalveluiden tulosalueen 31.3.2026\n\n2. perustaa perhe-, sosiaali- ja vammaispalveluiden toimialalle ikääntyneiden asiakasohjauksen ja vammaissosiaalityön tulosalueen 1.4.2026 alkaen\n\n3. perustaa liitteenä olevan esityksen mukaisesti perhe-, sosiaali- ja vammaispalveluiden toimialalle ikääntyneiden asiakasohjauksen ja vammaissosiaalityön tulosalueen tulosaluejohtajan viran 1.4.2026 alkaen.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.\n\nKaisa Lepola poistui kokouksesta tämän asian käsittelyn ajaksi (osallisuusjäävi).\n\nHelena Lehkonen toimi puheenjohtajana tämän asian käsittelyn ajan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "toimialajohtaja Marika Paasikoski-Junninen, henkilöstöjohtaja Johanna Bjerregård Madsen, toimialajohtaja Jorma Haapanen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hyvinvointialueen toiminta on kehittynyt monessa suhteessa kolmen ensimmäisen toimintavuoden aikana ja on ilmennyt tarvetta uudistaa kahden toimialan tulosaluerakenteita, jotta ne vastaisivat nykyistä paremmin uusia toimintamalleja ja asiakkaiden tarpeita.\n\nTämän vuoksi esitetään, että ikäihmisten toimialan asiakasohjauksen tulosalue ja perhe-, sosiaali- ja vammaispalveluiden toimialan vammaispalveluiden tulosalue lakkautetaan 31.3.2026. Lisäksi esitetään, että perhe-, sosiaali- ja vammaispalveluiden toimialalle perustetaan 1.4.2026 alkaen kokonaan uusi tulosalue, johon lakkautettavien tulosalueiden toimintoja siirretään. Lakkautettavan vammaispalveluiden tulosalueen alaisista palveluista vammaisten asumisen palvelut, työ- ja päivätoiminta sekä asumista koskevat ostopalvelut liitetään ikäihmisten toimialan asumisen palveluiden tulosalueeseen 1.4.2026 alkaen.\n\nOrganisaatiomuutoksen yhteydessä on tarpeen perustaa uusi tulosaluejohtajan virka perhe-, sosiaali- ja vammaispalveluihin. Tulosaluejohtaja vastaa uuden tulosalueen toiminnan, talouden ja henkilöstön johtamisesta. Uuteen perustettavaan virkaan valitaan viranhaltija ensisijaisesti uudelleensijoitettavista, kelpoisuusehdot täyttävistä viranhaltijoista. Sovellettavat lain säännökset taloudellisista ja tuotannollisista syistä irtisanotun viranhaltijan ottaminen toiseen virkasuhteeseen ilman julkista hakumenettelyä löytyvät kunnan ja hyvinvointialueen viranhaltijasta annetusta laista (304/2003), jonka 4 §:n 3 momentin mukaan:\n\n”Virkasuhteeseen voidaan 1 momentista poiketen ottaa ilman hakumenettelyä, kun kysymyksessä on sijaiseksi tai avoinna olevaan virkasuhteeseen ottaminen määräajaksi, taloudellisista ja tuotannollista syistä irtisanotun viranhaltijan ottaminen toiseen virkasuhteeseen, 22 §:ssä tarkoitettu virkasuhteen tarjoaminen osa-aikaiselle viranhaltijalle, 24 §:ssä tarkoitettu tai muussa laissa säädetty viranhaltijan siirtäminen toiseen virkasuhteeseen, muun työnantajan palveluksessa olevan henkilön ottaminen virkasuhteeseen lain tai sopimuksen nojalla tapahtuvan toiminnan siirtämisen yhteydessä taikka muu näihin rinnastettava hallintosäännössä määrätty peruste. (29.6.2021/627)”\n\nIrtisanomisuhan alaisten tulosaluejohtajien virat voidaan lakkauttaa irtisanomisajan päätyttyä.\n\nTausta\n\nIkäihmisten toimialan ja perhe-, sosiaali- ja vammaispalveluiden toimialojen välillä yhteistyö on lisääntynyt erityisesti vuoden 2025 aikana. On useita toimintoja, joiden kohdalla myös organisaatioiden toisenlaisella rakenteella on mahdollista parantaa asiakkaiden palvelua sekä parantaa toiminnan tuottavuutta. Organisaatioiden rakenteellisella yhdistämisellä ja yhdenmukaisella johtamisella voidaan saavuttaa merkittäviä hyötyjä yhdenmukaistamalla toimintamalleja. Muutoksella saadaan myös tiivistettyä tulosaluejohtajarakennetta.\n\nVammaispalveluiden ja ikäihmisten asumispalveluilla on asiakasryhmien eroista huolimatta paljon yhteneväisyyttä, joten niiden johtamisella ja kehittämisellä yhtenä kokonaisuutena saavutetaan merkittäviä hyötyjä. Lisähyötyjä on mahdollista saada myös asumisen tilojen ja tukipalveluiden osalta. Vammaispalveluiden asumispalveluiden sekä päivä- ja työtoiminnan siirtymisen yhteydessä ikäihmisten toimialalle siirtyy 234 työntekijää ja 12 lähijohtajaa sekä toimintaa johtava päällikkö. Oman tuotannon asumisyksiköitä siirtyy 18 sekä lisäksi kaksi työtoiminnan ja kuusi päivätoiminnan yksikköä. Työ- ja päivätoiminnan henkilöstöstä osa työskentelee myös asumisen yksiköissä.\n\nIkäihmisten asiakasohjauksen ja vammaissosiaalityön ja palveluohjauksen yhdistämisellä voidaan yhteensovittaa asiakkaan palveluita paremmin sekä huolehtia sosiaalihuoltolain ensisijaisuudesta sekä saada tuottavuushyötyjä prosessien tehostuessa ja yhdenmukaistuessa. Syksyllä käynnistynyt asiakasohjauksen kehittämisprojekti on jo tähän mennessä osoittanut, että toimintamalleissa on merkittäviä eroja ja toiminnassa päällekkäisyyksiä. Toimialoilla on yhteisiä asiakkaita mm. vammaispalveluissa ja kotihoidossa, joten näiden asiakkaiden palveluohjauksen yhdistämisellä voidaan saada asiakkaiden palveluihin nykyistä parempi jatkuvuus ja palvelukokonaisuus. Omaishoidon, perhehoidon ja liikkumista tukevien palveluiden kohdalla toimintamallit voidaan yhdenmukaistaa asiakasryhmästä riippumatta. Myös ensilinjojen yhteistyöllä voidaan parantaa asiakaspalvelua. Uuteen tulosalueeseen sisältyy ikäihmisiä koskeva palveluohjaus, gerontologinen sosiaalityö, vammaissosiaalityö, henkilökohtaisen avun palvelut, omais- ja perhehoito sekä muita tukipalveluita asiakkaille.\n\nIkäihmisten asiakasohjauksen asiakasmaksupäätöksistä vastaava sihteeritiimi yhdistettiin vuoden 2026 alussa taloushallinnon asiakasmaksuyksikköön, joka vastaa tämän koko hyvinvointialueen asiakasmaksuista. Jäljelle jäävä ikäihmisten asiakasohjauksen tulosalueen henkilöstömäärä on noin 70 ja perhe-, sosiaali- ja vammaispalveluiden vammaissosiaalityön henkilöstöä on noin 40, joten yhdistämisen kautta uudesta tulosalueesta saadaan henkilöstömäärältään toimivampi ja paremmin vastaamaan henkilöstömäärältään hyvinvointialueen muita tulosalueita.\n\nSiirtymisen jälkeen tarvittavia muutoksia tehdään henkilöstöä valmisteluun osallistaen.\n\nHallintosäännön 10.5 §:n 3 kohdan mukaan aluehallitus päättää toimialojen ja tulosalueiden jakautumisesta ja tehtäväjaosta ja 38.2 §:n mukaan virkojen perustamisesta.\n\nLiitteenä on esitys uuden viran perustamisesta.\n\n(M P-J, JH)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 10.5 § 3 kohta ja 38.2 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\n1. lakkauttaa ikäihmisten palveluiden toimialan asiakasohjauksen tulosalueen ja perhe- sosiaali- ja vammaispalveluiden toimialan vammaispalveluiden tulosalueen 31.3.2026\n\n2. perustaa perhe-, sosiaali- ja vammaispalveluiden toimialalle ikääntyneiden asiakasohjauksen ja vammaissosiaalityön tulosalueen 1.4.2026 alkaen\n\n3. perustaa liitteenä olevan esityksen mukaisesti perhe-, sosiaali- ja vammaispalveluiden toimialalle ikääntyneiden asiakasohjauksen ja vammaissosiaalityön tulosalueen tulosaluejohtajan viran 1.4.2026 alkaen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen.\n\nKaisa Lepola poistui kokouksesta tämän asian käsittelyn ajaksi (osallisuusjäävi).\n\nHelena Lehkonen toimi puheenjohtajana tämän asian käsittelyn ajan."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "päätösote / toimialajohtaja Marika Paasikoski-Junninen, toimialajohtaja Jorma Haapanen, henkilöstöjohtaja Johanna Bjerregård Madsen, HR-erityisasiantuntija Pilvi Rounala"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Esitys uuden viran perustamisesta",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026185-7-397891.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "96",
+   "title": "Viran perustaminen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026185-8",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026185-8.PDF",
+   "diary_number": "2465/01.01.00/2026",
+   "preparer": "Erityisasiantuntija Pilvi Rounala",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää perustaa psykologin viran.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Erityisasiantuntija Pilvi Rounala"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Terveydenhuollon toimialalle Kuntoutuspalveluihin esitetään perustettavaksi psykologin virka. Kuntoutuspalvelujen psykologin työpanosta tarvitaan kehitysvammaisten erityishuollosta annetun lain 23 §:n mukaisessa päätöksiä tekevässä vaativan moniammatillisen tuen asiantuntijaryhmässä. Työnantajan näkemyksen mukaan moniammatillisessa asiantuntijaryhmässä asiantuntija käyttävät julkista valtaa, ja siksi psykologin työsuhde tulisi muuttaa viraksi. Kyseessä on toimen muuttaminen viraksi, jolla ei ole kustannusvaikutuksia.\n\nHyvinvointialueen hallintosäännön 38 §:n mukaan aluehallitus päättää virkojen perustamisesta muiden kuin hyvinvointialueen johtajan viran osalta.\n\nLiitteenä on esitys uuden viran perustamisesta.\n\n(JL)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 38 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää perustaa psykologin viran."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "päätösote/tulosaluejohtaja Virpi Kröger, erityisasiantuntija Pilvi Rounala"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Uuden viran perustaminen_psykologi_kuntoutus",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026185-8-397090.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "97",
+   "title": "Nimeämispyyntö Maakuntien tilakeskus Oy:n hallituksen jäseniksi",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026185-9",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026185-9.PDF",
+   "diary_number": "1558/00.04.02/2026",
+   "preparer": "hallintojohtaja Katja Tommiska",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää, että Kanta-Hämeen hyvinvointialue ei nimeä omaa jäsenehdokasta Maakuntien tilakeskus Oy:n hallitukseen.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Maakuntien tilakeskus Oy:n varsinainen yhtiökokous pidetään huhtikuussa 2026. Yhtiökokousta varten osakkeenomistajia on pyydetty nimeämään ehdokkaat yhtiön hallituksen jäseniksi ja puheenjohtajaksi/varapuheenjohtajaksi osakassopimuksen ja alla olevan mukaisesti.\n\nHallituksen varsinaiset jäsenet\n\nOsakassopimuksen mukaisesti yhtiöllä on hallitus, johon kuuluu kahdeksan varsinaista jäsentä. Jäsenten toimikausi on yksivuotinen ja päättyy seuraavan varsinaisen yhtiökokouksen päättyessä.\n\nOsakassopimuksen mukaisesti Suomen valtio saa nimetä hallitukseen kaksi (2) jäsentä. Hyvinvointialueet, Helsingin kaupunki ja HUS-yhtymä saavat nimetä osakassopimuksessa kuvatulla tavalla sosiaali- ja terveyden huollon yhteistyöalueittain yhteensä kuusi (6) jäsentä.\n\nHallituksen puheenjohtaja ja varapuheenjohtaja\n\nOsakassopimuksen mukaisesti kuhunkin sosiaali- ja terveydenhuollon yhteistyöalueeseen kuuluvat hyvinvointialueet, Helsingin kaupunki ja HUS-yhtymä saavat yhdessä nimetä vuorollaan, alkaen aakkosjärjestyksessä ensimmäisestä yhteistyöalueesta, hallituksen puheenjohtajan hallitukseen valituista jäsenistä.\n\nOsakassopimuksen mukaisesti hallituksen varapuheenjohtajana toimii valtion nimeämä hallituksen jäsen. Osakassopimuksen mukaisesti nykyinen hallituskokoonpano on yksittäisiä jäsenmuutoksia lukuun ottamatta toiminut kolme vuotta (2023 - varsinainen yhtiökokous 2026).\n\nOsakkeenomistajia pyydetään nimeämään ehdokkaansa yhtiön hallitukseen vuoden 2027 varsinaiseen yhtiökokoukseen asti seuraavasti:\n\nEteläinen yhteistyöalue, kaksi (2) ehdokasta\n\nItäinen yhteistyöalue, yksi (1) ehdokas\n\nLänsi-Suomen yhteistyöalue, yksi (1) ehdokas\n\nPohjois-Suomen yhteistyöalue, yksi (1) ehdokas\n\nSisä-Suomen yhteistyöalue, yksi (1) ehdokas\n\nSuomen valtio, kaksi (2) ehdokasta\n\nKanta-Hämeen hyvinvointialue ei ole nimennyt nyt päättyvälle kolmen vuoden kaudelle (2023 – yhtiökokous 2026) jäsenehdokasta Maakuntien tilakeskus Oy:n hallitukseen.\n\nKanta-Hämeen hyvinvointialueen hallintosäännön 35.2 §:n 10 kohdan mukaan aluehallitus nimeää hyvinvointialueen ehdokkaat tytäryhteisöjen hallituksiin.\n\nNimeämispyyntö on liitteenä.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 35.2 § 10 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää, että Kanta-Hämeen hyvinvointialue ei nimeä omaa jäsenehdokasta Maakuntien tilakeskus Oy:n hallitukseen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / toimialajohtaja Satu Ala-Kokko, Maakuntien tilakeskus Oy"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Maakuntien tilakeskus Nimeämispyyntö yhtiökokoukseen 2026",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026185-9-395697.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "98",
+   "title": "Merkittävien hankintojen hankintaprosessin kehittäminen (KOPA⁄STING-toimialat)",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026185-10",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026185-10.PDF",
+   "diary_number": "15548/02.08.00/2025",
+   "preparer": "toimialajohtaja Jussi Savola",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää konserni- ja tukipalvelujen ja strategia ja integraatio toimialojen osalta seuraavasti:\n\n1. kaikki yli 10 M€ arvoiset hankinnat ovat hankintaohjeessa tarkoitettuja erityisen merkittäviä hankintoja;\n\n2. kaikista yli 10 M€ arvoisista hankinnoista tulee jatkossa laatia erillinen esitys aluehallitukselle ennen hankintamenettelyn käynnistämistä;\n\n3. esityksessä tulee kuvata mm. hankinnan strateginen merkitys, toteuttamistapa, keskeiset periaatteet ja tarjousten alustavat vertailuperusteet, alustava kustannusarvio ja vaikutukset toimintaan ja talouteen;\n\n4. hankintamenettely voidaan käynnistää vasta sen jälkeen, kun aluehallitus on hyväksynyt tällaisen hankinnan periaatteet ja suuntaviivat ja\n\nAluehallitus toteaa, että linjauksen tarkoituksena on vahvistaa aluehallituksen roolia hankintaprosessissa, parantaa ennakoivaa päätöksentekoa sekä varmistaa merkittävien hankintojen johdonmukaisuus hyvinvointialueen strategisten ja taloudellisten tavoitteiden kanssa.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "toimialajohtaja Jussi Savola"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Kanta-Hämeen hyvinvointialueen hallintosäännön 10 §:n 5 momentin 15-kohdan mukaan aluehallitus päättää hankinnoissa noudatettavista yleisistä periaatteista ja hyväksyy kalenterivuodelle hankintasuunnitelman. Kuluvaa vuotta koskeva hankintasuunnitelma on hyväksytty aluehallituksessa 15.12.2025 § 453. Hankintasuunnitelmassa hankinnoista esitetään hankinnan kohteen lyhyt kuvaus sekä arvio hankintalain mukaisesta kokonaisarvosta, joka on laskettu neljän vuoden ennakoidun kokonaisarvon perusteella.\n\nHankintasuunnitelman hyväksymistä koskevassa päätöksessä on edelleen todettu, että hankintasuunnitelmaa päivitetään tarvittaessa ja että aluehallitus päättää, mitä hankintasuunnitelman sisältämiä hankintoja se haluaa erityisesti seurata tai mitkä hankinnat tulee tuoda aluehallitukselle erikseen tarkempaan käsittelyyn. Näitä hankintoja koskevat esitykset valmistellaan toimialoilla ja tuodaan aluehallituksen käsiteltäväksi.\n\nAluehallitus on hyväksynyt 15.12.2025 § 454 hankintaohjeen, jossa on linjattu, että aluehallitus hyväksyy vuosittain hankintasuunnitelman ja että hyväksytyn hankintasuunnitelman mukaisia hankintoja ei tuoda erikseen aluehallituksen käsiteltäväksi, lukuun ottamatta erityisen merkittäviä hankintoja, ellei aluehallitus toisin päätä. Hankintaohje jättää siten aluehallitukselle harkintavallan määritellä, mitkä hankinnat ovat erityisen merkittäviä ja edellyttävät erillistä ja laajempaa ohjausta.\n\nHallintosäännössä hankintoja koskeva toimivalta on jaettu euromääräisesti siten, että:\n\n• aluehallitus päättää yli 10 M€ arvoisista tavara- ja palveluhankinnoista\n\n• hyvinvointialuejohtaja päättää enintään 10 M€ arvoisista tavara- ja palveluhankinnoista ja\n\n• toimialajohtajat päättävät enintään 1 M€ arvoisista tavara- ja palveluhankinnoista.\n\nNykyisen ohjeistuksen perusteella tilanne on käytännössä se, että jos yli 10 M€ arvoinen hankinta sisältyy hyväksyttyyn hankintasuunnitelmaan, aluehallitus ei ilman erillistä päätöstä osallistu kyseiseen hankintaprosessiin, vaan sen rooli painottuu hankintapäätöksen tekemiseen. Tällöin aluehallituksen rooli ja asema jää pitkälti muodolliseksi päätöksentekijäksi, vaikka kyse on hyvinvointialueen talouden, toiminnan ja palvelurakenteen kannalta kaikkein merkittävimmistä hankinnoista.\n\nHankinnat muodostavat merkittävän osan hyvinvointialueen taloudenhoitoa ja vaikuttavat keskeisesti palvelutuotannon rakenteeseen, kustannuskehitykseen, markkinoiden toimintaan sekä pitkän aikavälin sitoumuksiin. Tämän vuoksi on perusteltua vahvistaa aluehallituksen roolia hankintaprosessissa kaikkein suurimmissa ja vaikutuksiltaan merkittävimmissä hankinnoissa.\n\nYli 10 M€ arvoisia hankintoja on hyvinvointialueen hankintatoimessa lukumäärällisesti rajallinen määrä. Tämän vuoksi niiden käsitteleminen aluehallituksessa jo valmisteluvaiheessa on hallinnollisesti toteuttamiskelpoinen ja tarkoituksenmukainen ratkaisu. Samalla se mahdollistaa sen, että aluehallitus voi aidosti osallistua hankintaprosessiin eikä ainoastaan muodollisesti hyväksyä valmisteltuja ratkaisuja.\n\nTässä yhteydessä on perusteltua linjata, että kaikki konserni- ja tukipalvelujen ja strategia ja integraatio toimialoilla valmisteltavat yli 10 M€ arvoiset hankinnat ovat hankintaohjeessa tarkoitettuja erityisen merkittäviä hankintoja. Näin hankintaohjeen ja hallintosäännön välinen suhde täsmennetään johdonmukaisella tavalla ja aluehallituksen rooli hankintaprosessissa vahvistuu. Tällä muutoksella ei ole tarkoitus muuttaa lautakuntien asemaa ja roolia substanssitoimialojen hankintojen käsittelyssä.\n\nKäytännössä tämä tarkoittaa, että KOPA- ja STING-toimialojen tulee valmistella kaikista yli 10 M€ arvoisista hankinnoista erillinen esitys, jossa kuvataan mm.:\n\n• hankinnan tavoitteet ja strateginen merkitys\n\n• keskeiset periaatteet ja toteuttamistapa\n\n• alustava aikataulu ja kustannusarvio\n\n• vaikutukset toimintaan, talouteen ja palvelurakenteeseen.\n\nTämä esitys tuodaan aluehallituksen käsiteltäväksi ennen hankintamenettelyn käynnistämistä. Hankintamenettely voidaan käynnistää vasta sen jälkeen, kun aluehallitus on hyväksynyt hankinnan keskeiset periaatteet ja suuntaviivat.\n\nMenettely vahvistaa aluehallituksen roolia hankinnoissa, parantaa päätöksenteon läpinäkyvyyttä ja varmistaa, että merkittävät hankinnat ovat alusta lähtien linjassa hyvinvointialueen strategisten ja taloudellisten tavoitteiden kanssa.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 10.5 § 15 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää konserni- ja tukipalvelujen ja strategia ja integraatio toimialojen osalta seuraavasti:\n\n1. kaikki yli 10 M€ arvoiset hankinnat ovat hankintaohjeessa tarkoitettuja erityisen merkittäviä hankintoja;\n\n2. kaikista yli 10 M€ arvoisista hankinnoista tulee jatkossa laatia erillinen esitys aluehallitukselle ennen hankintamenettelyn käynnistämistä;\n\n3. esityksessä tulee kuvata mm. hankinnan strateginen merkitys, toteuttamistapa, keskeiset periaatteet ja tarjousten alustavat vertailuperusteet, alustava kustannusarvio ja vaikutukset toimintaan ja talouteen;\n\n4. hankintamenettely voidaan käynnistää vasta sen jälkeen, kun aluehallitus on hyväksynyt tällaisen hankinnan periaatteet ja suuntaviivat ja\n\nAluehallitus toteaa, että linjauksen tarkoituksena on vahvistaa aluehallituksen roolia hankintaprosessissa, parantaa ennakoivaa päätöksentekoa sekä varmistaa merkittävien hankintojen johdonmukaisuus hyvinvointialueen strategisten ja taloudellisten tavoitteiden kanssa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "päätösote/toimialajohtajat Jussi Savola ja Satu Ala-Kokko, hankinta- ja laadunhallintajohtaja Jouni Sakomaa, hankintapäällikkö Mikko Tuomas"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "99",
+   "title": "Hyvinvointialueesta annetun lain 97 §:n mukaista ottomenettelyä varten saapuneet pöytäkirjat ja päätökset",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026185-11",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026185-11.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää, ettei se käytä otto-oikeutta edellä mainittuihin päätöksiin.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvointialueesta annetun lain 97 §:n mukaan aluehallitus, aluehallituksen puheenjohtaja, hyvinvointialuejohtaja ja hallintosäännössä määrätty hyvinvointialueen viranhaltija voivat ottaa aluehallituksen käsiteltäväksi asian, joka on tämän lain nojalla siirretty aluehallituksen alaisen viranomaisen tai aluehallituksen jaoston toimivaltaan ja jossa asianomainen viranomainen on tehnyt päätöksen.\n\nHyvinvointialueen hallintosäännön 32 §:n mukaan asian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nHallintosäännön 33 §:n mukaan aluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan.\n\nPöytäkirjat:\n\n- Elämänkaarilautakunta 21.1.2026\n\n- Terveyden- ja toimintakyvyn edistämisen lautakunta 10.2.2026\n\nToimielimien pöytäkirjat ovat katsottavissa hyvinvointialueen verkkosivuilla osoitteessa: https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting_frames\n\nViranhaltijoiden päätösluettelo on liitteenä. Päätösasiakirjat ovat nähtävillä hyvinvointialueen verkkosivuilla osoitteessa: https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=official_frames"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää, ettei se käytä otto-oikeutta edellä mainittuihin päätöksiin."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Päätösluettelo 23.2.2026,",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026185-11-398159.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "100",
+   "title": "Muut asiat",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026185-12",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026185-12.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä muut asiat tiedoksi.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kanta-Hämeen hyvinvointialueelle on saapunut seuraavat kirjeet:\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 16.2.2026: Lausuntopyyntö terveydenhuollon palveluvalikoimaneuvoston päätös oireettoman henkilön tietokonetomografia- ja positroniemissiotomografiatutkimukseen pääsyn kriteerit hoidetun imusolmukesyövän jälkeen imusolmukesyövän varhaiseksi toteamiseksi.Lausunto pyydetään antamaan viimeistään 7.4.2026.\n\n- Sosiaali- ja terveysvaliokunnan lausuntopyyntö 17.2.2026: Hallituksen esitys eduskunnalle laiksi hyvinvointialueesta annetun lain muuttamisesta ja väliaikaisesta muuttamisesta. Kirjallinen asiantuntijalausunto pyydetään toimittamaan 23.2.2026 klo 12.00 mennessä.\n\n- Korkein hallinto-oikeus, päätös 18.2.2026: Julkista hankintaa koskeva valituslupahakemus.\n\n- Valtiovarainministeriön lausuntopyyntö 18.2.2026: Luonnos hallituksen esitykseksi digipalvelulain 6 a §:n muuttamisesta (tekoäly neuvonnassa). Kirjallinen lausunto pyydetään toimittamaan viimeistään 10.4.2026 klo 16.15 mennessä.\n\n- Sosiaali- ja terveysalan tietolupaviranomainen Findatan lausuntopyyntö 24.2.2026: Tietolupapäätöksen ja tietopyyntöpäätöksen tietosisällöt ja tietorakenteet: luonnos Tietolupaviranomaisen määräykseksi. Vastaukset pyydetään lähettämään Lausuntopalvelu.fi-portaalin kautta. Vastausaika päättyy 16.3.2026.\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 24.2.2026: Lausuntopyyntö luonnoksesta hallituksen esitykseksi terveydenhuoltolain, vankeuslain ja tutkintavankeuslain muuttamisesta (saattohoito ja eräät muut muutokset). Lausunnot pyydetään toimittamaan viimeistään 7.4.2026.\n\n- Riihimäen kaupngin teknisen lautakunnan päätösote 24.2.2026: Mäkikujan perhekeskus -nimisen rakennuksen myyminen\n\nKanta-Hämeen hyvinvointialueen antamat lausunnot:\n\n- Kanta-Hämeen hyvinvointialueen lausunto STM:lle 11.2.20326:\n\nLausunto alkoholilain muuttamisesta\n\n- Kanta-Hämeen hyvinvointialueen lausunto STM:lle 23.2.2026: Lausunto rahapelien haittariskien ja haittojen arviointiryhmän suosituksesta rahapelilakiin perustuvasta pelaajien suojelusta."
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä muut asiat tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Terveydenhuollon palveluvalikoimaneuvoston päätös oireettoman henkilön tietokonetomografia- ja positroniemissiotomografiatutkimukseen pääsyn kriteeri",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026185-12-397094.PDF"
+    },
+    {
+     "title": "Liite 2 Lausuntopyyntö Sosiaali- ja terveysvaliokunta",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026185-12-397095.PDF"
+    },
+    {
+     "title": "Liite 3 Korkein hallinto-oikeus päätös 18.2.26",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026185-12-397180.PDF"
+    },
+    {
+     "title": "Liite 4 Luonnos hallituksen esitykseksi digipalvelulain 6 a §_n muuttamisesta (tekoäly neuvonnassa)",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026185-12-397423.PDF"
+    },
+    {
+     "title": "Liite 5 Tietolupapäätöksen ja tietopyyntöpäätöksen tietosisällöt ja tietorakenteet_ luonnos Tietolupaviranomaisen määräykseksi",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026185-12-398197.PDF"
+    },
+    {
+     "title": "Liite 6 Lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laiksi alkoholilain muuttamisesta (panimoiden tislaamoiden ja viinitilojen ulosmyyntioikeuden",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026185-12-398013.PDF"
+    },
+    {
+     "title": "Liite 7 Lausunto HVA",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026185-12-397882.PDF"
+    },
+    {
+     "title": "Liite 8 Lausuntopyyntö luonnoksesta hallituksen esitykseksi terveydenhuoltolain vankeuslain ja tutkintavankeuslain muuttamisesta (saattohoito ja eräät muut m",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026185-12-398219.PDF"
+    },
+    {
+     "title": "Liite 9 Päätösote 24.2.26 Riihimäen kaupunki",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026185-12-398221.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Lepola Kaisa",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Alijärvi Pirjo",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Bitter Riku",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Filatov Tarja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hellstén Tapani",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Honkanen Pasi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Häggman Johanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Jormanainen Lauri",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lehkonen Helena",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pura Eero",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Reima Aapo",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Saarenmaa Lotta",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Vanttaja Karri",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Isosuo Juha",
+   "role": "aluevaltuuston puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Ristavaara Heini",
+   "role": "aluevaltuuston 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Naukkarinen Olli",
+   "role": "esittelijä, hyvinvointialuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Savola Jussi",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Tommiska Katja",
+   "role": "pöytäkirjanpitäjä, hallintojohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Turunen Paula",
+   "role": "tulosaluejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Lappalainen Jarmo",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kukkonen Petrus",
+   "role": "rahoitus- ja investointijohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Merivuori Tiina",
+   "role": "tulosaluejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Rikkilä-Kettunen Eeva",
+   "role": "projektijohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Paasikoski-Junninen Marika",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Haapanen Jorma",
+   "role": "toimialajohtaja",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026185",
+  "fetched_at": "2026-10-14T16:58:39+00:00",
+  "content_hash": "fef3852cd7b08d02",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T16:58:39+00:00"
+ }
+}

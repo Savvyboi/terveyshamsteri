@@ -1,0 +1,1078 @@
+{
+ "id": "aluehallitus/2026-09-21",
+ "region": "pohjois-savo",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2026-09-21",
+ "stage": "minutes",
+ "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261130",
+ "pdf_url": "https://pshva.oncloudos.com/kokous/20261130.PDF",
+ "time": "09:00 - 11:20",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "285",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-1",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.",
+   "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen laillisuus ja päätösvaltaisuus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokous todettiin lailliseksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "286",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-2",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Heikki Miettinen ja Juha Pitkänen.",
+   "decision": "Pöytäkirjantarkastajiksi valittiin Heikki Miettinen ja Juha Pitkänen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pöytäkirjantarkastajien valinta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Heikki Miettinen ja Juha Pitkänen."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Heikki Miettinen ja Juha Pitkänen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "287",
+   "title": "Asioiden käsittelyjärjestys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-3",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asioiden käsittelyjärjestys"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "288",
+   "title": "Talouden toteuma tammi-elokuu 2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-4",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-4.PDF",
+   "diary_number": "384/02.02.02/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää todeta tietoon saaduksi hyvinvointialueen talouden toteuman tammi-elokuulta 2026 ja saattaa sen edelleen aluevaltuustolle tiedoksi.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 95\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Talouden toteuma 1-8/2026\n\nValmistelu\nToimintatuottojen kertymä tammi-elokuulta oli 64,0 % talousarviosta. Edelliseen vuoteen verrattuna toimintatuotot pienenivät 1,1 % (n. 2,06 miljoonaa euroa). Laskutus muilta hyvinvointialueilta oli 63,7 miljoonaa euroa (59,7 % talousarviosta), joka oli 4,23 % (2,59 miljoonaa euroa) suurempi verrattuna edelliseen vuoteen.\n\nToimintakulujen kertymä oli 66,2 % tammi-elokuulta talousarviosta. Toimintakulut olivat 2,9 % (28,8 miljoonaa euroa) suuremmat edelliseen vuoteen verrattuna. Asiakaspalveluostot olivat 203,9 miljoonaa euroa (72 % talousarviosta), joka oli 7,3 % suuremmat\n\n2025 asiakaspalveluostoihin verrattuna.\n\nTammi-elokuun taloudellinen tulos 7,4 miljoonaa euroa ylijäämäinen, kun edellisvuonna vastaavana ajankohtana tulos oli 13,7 miljoonaa euroa ylijäämäinen. Vertailtavuus edellisvuoden vastaavaan ajankohtaan nähden ei ole kaikilta osin mahdollista jaksotuksiin sekä kirjanpidon aikatauluun tehtyjen muutosten vuoksi, mikä tulee ottaa huomioon vertailua tulkittaessa.\n\nKuukauden ylijäämä 7,4 miljoonaa euroa 0,69 % kokonaiskuluista.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nKari Janhonen\n\nUlla Heide"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää todeta tietoon saaduksi hyvinvointialueen talouden toteuman tammi-elokuulta 2026 ja saattaa sen edelleen aluevaltuustolle tiedoksi.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 95\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Talouden toteuma 1-8/2026\n\nValmistelu\nToimintatuottojen kertymä tammi-elokuulta oli 64,0 % talousarviosta. Edelliseen vuoteen verrattuna toimintatuotot pienenivät 1,1 % (n. 2,06 miljoonaa euroa). Laskutus muilta hyvinvointialueilta oli 63,7 miljoonaa euroa (59,7 % talousarviosta), joka oli 4,23 % (2,59 miljoonaa euroa) suurempi verrattuna edelliseen vuoteen.\n\nToimintakulujen kertymä oli 66,2 % tammi-elokuulta talousarviosta. Toimintakulut olivat 2,9 % (28,8 miljoonaa euroa) suuremmat edelliseen vuoteen verrattuna. Asiakaspalveluostot olivat 203,9 miljoonaa euroa (72 % talousarviosta), joka oli 7,3 % suuremmat\n\n2025 asiakaspalveluostoihin verrattuna.\n\nTammi-elokuun taloudellinen tulos 7,4 miljoonaa euroa ylijäämäinen, kun edellisvuonna vastaavana ajankohtana tulos oli 13,7 miljoonaa euroa ylijäämäinen. Vertailtavuus edellisvuoden vastaavaan ajankohtaan nähden ei ole kaikilta osin mahdollista jaksotuksiin sekä kirjanpidon aikatauluun tehtyjen muutosten vuoksi, mikä tulee ottaa huomioon vertailua tulkittaessa.\n\nKuukauden ylijäämä 7,4 miljoonaa euroa 0,69 % kokonaiskuluista."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Toteuma _Tammi-elokuu 2026_PSHVA",
+     "url": "https://pshva.oncloudos.com/kokous/20261130-4-286681.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "289",
+   "title": "Virkojen perustaminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-5",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-5.PDF",
+   "diary_number": "638/01.01.00/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää:\n\nperustaa strategia- ja asiakkuusjohtajan viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa strategista ajattelukykyä, johtamiskokemusta strategiatyöstä, muutosjohtamisesta, kehittämistehtävistä ja johtamiskoulutusta. Lisäksi edellytetään riittävää perehtyneisyyttä asiakkuus- ja palveluverkon kehittämistehtäviin, sekä käytännössä osoitettua kokemusta tiedolla johtamisesta ja vaikuttavuusarvioinnista sekä laajojen sidosryhmäverkostojen johtamisesta ja yhteistyöstä.\n\nperustaa konsernin tukipalveluiden johtajan viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa tuntemusta laajojen hallinto- ja tukipalvelu- tai konsernipalvelukokonaisuuksien johtamisesta ja johtamiskoulutusta. Lisäksi edellytetään riittävää perehtyneisyyttä julkishallintoon ja hyvinvointialuelain-säädäntöön sekä käytännössä osoitettua kokemusta vaativista hallinnon ja tukipalvelukokonaisuuksien johtamistehtävistä ja kokemusta strategisesta johtamisesta sekä muutosjohtamisesta.\n\nperustaa kokonaisturvallisuusjohtajan viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja pelastustoimen päällystötutkinnon ja edellyttää vahvaa tuntemusta pelastustoimen ja väestönsuojelun tehtävistä sekä varautumisen ja turvallisuusjohtamisen tehtävistä ja johtamiskoulutusta. Virkaan edellytetään perusmuotoinen henkilöturvallisuusselvitys (turvallisuusselvityslaki 726/2014) ja B-luokan voimassa oleva ajokortti. Lisäksi edellytetään riittävää perehtyneisyyttä Pelastuslain, hyvinvointialuelain ja muun tehtäväalaan liittyvän sääntelyn tuntemusta sekä käytännössä osoitettua kokemusta vaativista pelastus- ja turvallisuusalan johtamis- ja kehittämistehtävistä ja muutosjohtamisesta.\n\nperustaa terveys- ja turvallisuusjohtajan viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa tuntemusta terveydenhuollon ja turvallisuus-, riskienhallinnan tai varautumiskokonaisuuksien johtamisesta, kokemusta vaativista johtamistehtävistä ja johtamiskoulutusta. Lisäksi edellytetään laaja-alaista hyvinvointialueen toiminnan, palvelujen ja toimintaympäristön tuntemusta, kykyä johtaa poikkihallinnollisia verkostoja sekä käytännössä osoitettua kokemusta vaativista johtamistehtävistä ja muutosjohtamisesta.\n\nperustaa hyvinvointi- ja hoivajohtajan viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa tuntemusta sosiaalihuollon palveluihin, erityisesti perhe- ja sosiaalityöhön, vammaispalveluihin sekä ikääntyneiden palveluihin sekä kokemusta vaativista johtamistehtävistä ja johtamiskoulutusta. Lisäksi edellytetään laaja-alaista hyvinvointialueen toiminnan, palvelujen ja toimintaympäristön tuntemusta, kykyä johtaa poikkihallinnollisia verkostoja sekä käytännössä osoitettua kokemusta vaativista johtamistehtävistä ja muutosjohtamisesta\n\nperustaa tietopäällikön viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa tuntemusta tiedolla johtamisen, analytiikan, raportoinnin ja tietohallinnon johtamis- ja kehittämistehtävistä. Lisäksi edellytetään kykyä hyödyntää tietoa strategisen ja operatiivisen päätöksenteon tukena sekä hyvää julkisen sektorin ja hyvinvointialueen toiminnan ja tietoperustan tuntemusta.\n\nperustaa asiakkuuspäällikön viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa tuntemusta sosiaali- ja terveydenhuollon sekä pelastustoimen palvelujen toimintaympäristöön ja kokemusta asiakkuuksien, palvelujen ja palveluprosessien kehittämisestä. Lisäksi edellytetään asiakaslähtöisen palvelujen kehittämisen osaamista ja kykyä analysoida asiakastarpeita sekä hyödyntää tietoja palveluiden kehittämisessä.\n\nhyväksyä perustettavien virkojen tehtäväkuvaukset tämän päätöksen liiteaineiston mukaisesti siten, että tehtäväkuvauksia voidaan myöhemmin tarkistaa hallintosäännön ja johtamisjärjestelmän jatkovalmistelun edellyttämällä tavalla.\n\nEnnakkovaikutusten arviointi\n\nToimivallan peruste\nHallintosääntö § 64 ja § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Johtamisjärjestelmän uudistus, virkajärjestelyt\n\nValmistelu\nAluehallitus on vahvistanut johtamisjärjestelmänorganisaation päärakenteen kokouksessaan 7.9.2026. Johtamisjärjestelmän muutos on koskenut nykyisten johtamistasoja 1 ja 2 (toimialajohtajat, palvelualuejohtajat sekä asiantuntijajohtajat).\n\nJohtamisjärjestelmän uudistaminen jatkuu palvelutoiminnan prosessiorganisaation valmistelulla. Virkojen perustaminen liittyy aluehallituksen hyväksymään johtamisjärjestelmäuudistukseen, jonka yhteydessä nykyisiä johtajavirkoja lakkautetaan, ja uuden johtamisjärjestelmän mukaiset virat perustetaan.\n\nVirkojen perustamista koskevat säännökset\n\nHallintosäännön 64 §:n mukaan aluevaltuusto päättää hyvinvointialuejohtajan viran perustamisesta, lakkauttamisesta sekä virkanimikkeen muuttamisesta. Muiden virkojen perustamisesta ja lakkauttamisesta päättää aluehallitus.\n\nLain kunnan ja hyvinvointialueen viranhaltijasta (304/2003) 3 §:n mukaan viranhaltija otetaan virkasuhteeseen joko toistaiseksi tai määräajaksi. Määräaikainen virkasuhde edellyttää lain mukaista perustetta.\n\nKuluvan valtuustokauden aikana arvioidaan lisäksi hyvinvointialueen poliittista johtamis- ja hallintomallia. Mahdollisilla muutoksilla voi olla vaikutuksia ylimmän johdon tehtäväkokonaisuuksiin, vastuualueisiin ja organisatoriseen asemaan.\n\nPerustettavien virkojen keskeiset tehtäväkokonaisuudet on määritelty liitteissä riittävällä tarkkuudella virkojen perustamista ja viranhaltijalain 24 §:n mukaisten siirtojen valmistelua varten. Tehtäväkuvauksia voidaan myöhemmin tarkentaa hallintosäännön ja toimintasääntöjen valmistelun yhteydessä.\n\nVirkojen täyttäminen on tarkoitus toteuttaa erillisillä kunnan ja hyvinvointialueen viranhaltijasta annetun lain 24 §:n mukaisilla siirtopäätöksillä tässä samassa aluehallituksen kokouksessa, kunkin viran täyttäminen omana päätöksenään.",
+   "decision": "Hyvinvointialuejohtaja täydensi päätösehdotustaan kohtien 6 ja 7 osalta:\n\nAluehallitus päättää:\n\n1. perustaa strategia- ja asiakkuusjohtajan viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa strategista ajattelukykyä, johtamiskokemusta strategiatyöstä, muutosjohtamisesta, kehittämistehtävistä ja johtamiskoulutusta. Lisäksi edellytetään riittävää perehtyneisyyttä asiakkuus- ja palveluverkon kehittämistehtäviin, sekä käytännössä osoitettua kokemusta tiedolla johtamisesta ja vaikuttavuusarvioinnista sekä laajojen sidosryhmäverkostojen johtamisesta ja yhteistyöstä.\n\n2. perustaa konsernin tukipalveluiden johtajan viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa tuntemusta laajojen hallinto- ja tukipalvelu- tai konsernipalvelukokonaisuuksien johtamisesta ja johtamiskoulutusta. Lisäksi edellytetään riittävää perehtyneisyyttä julkishallintoon ja hyvinvointialuelain-säädäntöön sekä käytännössä osoitettua kokemusta vaativista hallinnon ja tukipalvelukokonaisuuksien johtamistehtävistä ja kokemusta strategisesta johtamisesta sekä muutosjohtamisesta.\n\n3. perustaa kokonaisturvallisuusjohtajan viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja pelastustoimen päällystötutkinnon ja edellyttää vahvaa tuntemusta pelastustoimen ja väestönsuojelun tehtävistä sekä varautumisen ja turvallisuusjohtamisen tehtävistä ja johtamiskoulutusta. Virkaan edellytetään perusmuotoinen henkilöturvallisuusselvitys (turvallisuusselvityslaki 726/2014) ja B-luokan voimassa oleva ajokortti. Lisäksi edellytetään riittävää perehtyneisyyttä Pelastuslain, hyvinvointialuelain ja muun tehtäväalaan liittyvän sääntelyn tuntemusta sekä käytännössä osoitettua kokemusta vaativista pelastus- ja turvallisuusalan johtamis- ja kehittämistehtävistä ja muutosjohtamisesta.\n\n4. perustaa terveys- ja turvallisuusjohtajan viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa tuntemusta terveydenhuollon ja turvallisuus-, riskienhallinnan tai varautumiskokonaisuuksien johtamisesta, kokemusta vaativista johtamistehtävistä ja johtamiskoulutusta. Lisäksi edellytetään laaja-alaista hyvinvointialueen toiminnan, palvelujen ja toimintaympäristön tuntemusta, kykyä johtaa poikkihallinnollisia verkostoja sekä käytännössä osoitettua kokemusta vaativista johtamistehtävistä ja muutosjohtamisesta.\n\n5. perustaa hyvinvointi- ja hoivajohtajan viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa tuntemusta sosiaalihuollon palveluihin, erityisesti perhe- ja sosiaalityöhön, vammaispalveluihin sekä ikääntyneiden palveluihin sekä kokemusta vaativista johtamistehtävistä ja johtamiskoulutusta. Lisäksi edellytetään laaja-alaista hyvinvointialueen toiminnan, palvelujen ja toimintaympäristön tuntemusta, kykyä johtaa poikkihallinnollisia verkostoja sekä käytännössä osoitettua kokemusta vaativista johtamistehtävistä ja muutosjohtamisesta\n\n6. perustaa tietopäällikön viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa tuntemusta tiedolla johtamisen, analytiikan, raportoinnin ja tietohallinnon johtamis- ja kehittämistehtävistä. Lisäksi edellytetään kykyä hyödyntää tietoa strategisen ja operatiivisen päätöksenteon tukena, hyvää julkisen sektorin ja hyvinvointialueen toiminnan ja tietoperustan tuntemusta sekä kokemusta vaativista johtamistehtävistä ja johtamiskoulutusta.\n\n7. perustaa asiakkuuspäällikön viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa tuntemusta sosiaali- ja terveydenhuollon sekä pelastustoimen palvelujen toimintaympäristöön ja kokemusta asiakkuuksien, palvelujen ja palveluprosessien kehittämisestä. Lisäksi edellytetään asiakaslähtöisen palvelujen kehittämisen osaamista, kykyä analysoida asiakastarpeita ja hyödyntää tietoja palveluiden kehittämisessä sekä kokemusta vaativista johtamistehtävistä ja johtamiskoulutusta.\n\n8. hyväksyä perustettavien virkojen tehtäväkuvaukset tämän päätöksen liiteaineiston mukaisesti siten, että tehtäväkuvauksia voidaan myöhemmin tarkistaa hallintosäännön ja johtamisjärjestelmän jatkovalmistelun edellyttämällä tavalla.\n\nAluehallitus hyväksyi täydennetyn päätösehdotuksen.\n\nMerkitään pöytäkirjaan, että:\n\n- Janne Niemeläinen, Henna Räsänen, Jussi Lampi, Kati Kantanen, Eija Jestola, Jari Saarinen, Kirsi Solmari, Jukka Koponen, Sami Remes ja Tuomo Pekkarinen ilmoittivat olevansa esteellisiä (HL 28.1. kohta 1) ja poistuivat kokouksesta asian käsittelyn ja päätöksenteon ajaksi klo 10.00-10.15.\n\n- Kari Janhonen poistui ennen asian käsittelyä klo 10.00.\n\n- pöytäkirjanpitäjänä toimii Virpi Kauppinen",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nMarko Korhonen hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyvinvointialuejohtaja täydensi päätösehdotustaan kohtien 6 ja 7 osalta:\n\nAluehallitus päättää:\n\n1. perustaa strategia- ja asiakkuusjohtajan viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa strategista ajattelukykyä, johtamiskokemusta strategiatyöstä, muutosjohtamisesta, kehittämistehtävistä ja johtamiskoulutusta. Lisäksi edellytetään riittävää perehtyneisyyttä asiakkuus- ja palveluverkon kehittämistehtäviin, sekä käytännössä osoitettua kokemusta tiedolla johtamisesta ja vaikuttavuusarvioinnista sekä laajojen sidosryhmäverkostojen johtamisesta ja yhteistyöstä.\n\n2. perustaa konsernin tukipalveluiden johtajan viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa tuntemusta laajojen hallinto- ja tukipalvelu- tai konsernipalvelukokonaisuuksien johtamisesta ja johtamiskoulutusta. Lisäksi edellytetään riittävää perehtyneisyyttä julkishallintoon ja hyvinvointialuelain-säädäntöön sekä käytännössä osoitettua kokemusta vaativista hallinnon ja tukipalvelukokonaisuuksien johtamistehtävistä ja kokemusta strategisesta johtamisesta sekä muutosjohtamisesta.\n\n3. perustaa kokonaisturvallisuusjohtajan viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja pelastustoimen päällystötutkinnon ja edellyttää vahvaa tuntemusta pelastustoimen ja väestönsuojelun tehtävistä sekä varautumisen ja turvallisuusjohtamisen tehtävistä ja johtamiskoulutusta. Virkaan edellytetään perusmuotoinen henkilöturvallisuusselvitys (turvallisuusselvityslaki 726/2014) ja B-luokan voimassa oleva ajokortti. Lisäksi edellytetään riittävää perehtyneisyyttä Pelastuslain, hyvinvointialuelain ja muun tehtäväalaan liittyvän sääntelyn tuntemusta sekä käytännössä osoitettua kokemusta vaativista pelastus- ja turvallisuusalan johtamis- ja kehittämistehtävistä ja muutosjohtamisesta.\n\n4. perustaa terveys- ja turvallisuusjohtajan viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa tuntemusta terveydenhuollon ja turvallisuus-, riskienhallinnan tai varautumiskokonaisuuksien johtamisesta, kokemusta vaativista johtamistehtävistä ja johtamiskoulutusta. Lisäksi edellytetään laaja-alaista hyvinvointialueen toiminnan, palvelujen ja toimintaympäristön tuntemusta, kykyä johtaa poikkihallinnollisia verkostoja sekä käytännössä osoitettua kokemusta vaativista johtamistehtävistä ja muutosjohtamisesta.\n\n5. perustaa hyvinvointi- ja hoivajohtajan viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa tuntemusta sosiaalihuollon palveluihin, erityisesti perhe- ja sosiaalityöhön, vammaispalveluihin sekä ikääntyneiden palveluihin sekä kokemusta vaativista johtamistehtävistä ja johtamiskoulutusta. Lisäksi edellytetään laaja-alaista hyvinvointialueen toiminnan, palvelujen ja toimintaympäristön tuntemusta, kykyä johtaa poikkihallinnollisia verkostoja sekä käytännössä osoitettua kokemusta vaativista johtamistehtävistä ja muutosjohtamisesta\n\n6. perustaa tietopäällikön viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa tuntemusta tiedolla johtamisen, analytiikan, raportoinnin ja tietohallinnon johtamis- ja kehittämistehtävistä. Lisäksi edellytetään kykyä hyödyntää tietoa strategisen ja operatiivisen päätöksenteon tukena, hyvää julkisen sektorin ja hyvinvointialueen toiminnan ja tietoperustan tuntemusta sekä kokemusta vaativista johtamistehtävistä ja johtamiskoulutusta.\n\n7. perustaa asiakkuuspäällikön viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa tuntemusta sosiaali- ja terveydenhuollon sekä pelastustoimen palvelujen toimintaympäristöön ja kokemusta asiakkuuksien, palvelujen ja palveluprosessien kehittämisestä. Lisäksi edellytetään asiakaslähtöisen palvelujen kehittämisen osaamista, kykyä analysoida asiakastarpeita ja hyödyntää tietoja palveluiden kehittämisessä sekä kokemusta vaativista johtamistehtävistä ja johtamiskoulutusta.\n\n8. hyväksyä perustettavien virkojen tehtäväkuvaukset tämän päätöksen liiteaineiston mukaisesti siten, että tehtäväkuvauksia voidaan myöhemmin tarkistaa hallintosäännön ja johtamisjärjestelmän jatkovalmistelun edellyttämällä tavalla.\n\nAluehallitus hyväksyi täydennetyn päätösehdotuksen.\n\nMerkitään pöytäkirjaan, että:\n\n- Janne Niemeläinen, Henna Räsänen, Jussi Lampi, Kati Kantanen, Eija Jestola, Jari Saarinen, Kirsi Solmari, Jukka Koponen, Sami Remes ja Tuomo Pekkarinen ilmoittivat olevansa esteellisiä (HL 28.1. kohta 1) ja poistuivat kokouksesta asian käsittelyn ja päätöksenteon ajaksi klo 10.00-10.15.\n\n- Kari Janhonen poistui ennen asian käsittelyä klo 10.00.\n\n- pöytäkirjanpitäjänä toimii Virpi Kauppinen"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\nperustaa strategia- ja asiakkuusjohtajan viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa strategista ajattelukykyä, johtamiskokemusta strategiatyöstä, muutosjohtamisesta, kehittämistehtävistä ja johtamiskoulutusta. Lisäksi edellytetään riittävää perehtyneisyyttä asiakkuus- ja palveluverkon kehittämistehtäviin, sekä käytännössä osoitettua kokemusta tiedolla johtamisesta ja vaikuttavuusarvioinnista sekä laajojen sidosryhmäverkostojen johtamisesta ja yhteistyöstä.\n\nperustaa konsernin tukipalveluiden johtajan viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa tuntemusta laajojen hallinto- ja tukipalvelu- tai konsernipalvelukokonaisuuksien johtamisesta ja johtamiskoulutusta. Lisäksi edellytetään riittävää perehtyneisyyttä julkishallintoon ja hyvinvointialuelain-säädäntöön sekä käytännössä osoitettua kokemusta vaativista hallinnon ja tukipalvelukokonaisuuksien johtamistehtävistä ja kokemusta strategisesta johtamisesta sekä muutosjohtamisesta.\n\nperustaa kokonaisturvallisuusjohtajan viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja pelastustoimen päällystötutkinnon ja edellyttää vahvaa tuntemusta pelastustoimen ja väestönsuojelun tehtävistä sekä varautumisen ja turvallisuusjohtamisen tehtävistä ja johtamiskoulutusta. Virkaan edellytetään perusmuotoinen henkilöturvallisuusselvitys (turvallisuusselvityslaki 726/2014) ja B-luokan voimassa oleva ajokortti. Lisäksi edellytetään riittävää perehtyneisyyttä Pelastuslain, hyvinvointialuelain ja muun tehtäväalaan liittyvän sääntelyn tuntemusta sekä käytännössä osoitettua kokemusta vaativista pelastus- ja turvallisuusalan johtamis- ja kehittämistehtävistä ja muutosjohtamisesta.\n\nperustaa terveys- ja turvallisuusjohtajan viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa tuntemusta terveydenhuollon ja turvallisuus-, riskienhallinnan tai varautumiskokonaisuuksien johtamisesta, kokemusta vaativista johtamistehtävistä ja johtamiskoulutusta. Lisäksi edellytetään laaja-alaista hyvinvointialueen toiminnan, palvelujen ja toimintaympäristön tuntemusta, kykyä johtaa poikkihallinnollisia verkostoja sekä käytännössä osoitettua kokemusta vaativista johtamistehtävistä ja muutosjohtamisesta.\n\nperustaa hyvinvointi- ja hoivajohtajan viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa tuntemusta sosiaalihuollon palveluihin, erityisesti perhe- ja sosiaalityöhön, vammaispalveluihin sekä ikääntyneiden palveluihin sekä kokemusta vaativista johtamistehtävistä ja johtamiskoulutusta. Lisäksi edellytetään laaja-alaista hyvinvointialueen toiminnan, palvelujen ja toimintaympäristön tuntemusta, kykyä johtaa poikkihallinnollisia verkostoja sekä käytännössä osoitettua kokemusta vaativista johtamistehtävistä ja muutosjohtamisesta\n\nperustaa tietopäällikön viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa tuntemusta tiedolla johtamisen, analytiikan, raportoinnin ja tietohallinnon johtamis- ja kehittämistehtävistä. Lisäksi edellytetään kykyä hyödyntää tietoa strategisen ja operatiivisen päätöksenteon tukena sekä hyvää julkisen sektorin ja hyvinvointialueen toiminnan ja tietoperustan tuntemusta.\n\nperustaa asiakkuuspäällikön viran 1.1.2027 alkaen toistaiseksi voimassa olevaksi ja vahvistaa viran kelpoisuusehdoksi soveltuvan ylemmän korkeakoulututkinnon ja edellyttää vahvaa tuntemusta sosiaali- ja terveydenhuollon sekä pelastustoimen palvelujen toimintaympäristöön ja kokemusta asiakkuuksien, palvelujen ja palveluprosessien kehittämisestä. Lisäksi edellytetään asiakaslähtöisen palvelujen kehittämisen osaamista ja kykyä analysoida asiakastarpeita sekä hyödyntää tietoja palveluiden kehittämisessä.\n\nhyväksyä perustettavien virkojen tehtäväkuvaukset tämän päätöksen liiteaineiston mukaisesti siten, että tehtäväkuvauksia voidaan myöhemmin tarkistaa hallintosäännön ja johtamisjärjestelmän jatkovalmistelun edellyttämällä tavalla.\n\nEnnakkovaikutusten arviointi\n\nToimivallan peruste\nHallintosääntö § 64 ja § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Johtamisjärjestelmän uudistus, virkajärjestelyt\n\nValmistelu\nAluehallitus on vahvistanut johtamisjärjestelmänorganisaation päärakenteen kokouksessaan 7.9.2026. Johtamisjärjestelmän muutos on koskenut nykyisten johtamistasoja 1 ja 2 (toimialajohtajat, palvelualuejohtajat sekä asiantuntijajohtajat).\n\nJohtamisjärjestelmän uudistaminen jatkuu palvelutoiminnan prosessiorganisaation valmistelulla. Virkojen perustaminen liittyy aluehallituksen hyväksymään johtamisjärjestelmäuudistukseen, jonka yhteydessä nykyisiä johtajavirkoja lakkautetaan, ja uuden johtamisjärjestelmän mukaiset virat perustetaan.\n\nVirkojen perustamista koskevat säännökset\n\nHallintosäännön 64 §:n mukaan aluevaltuusto päättää hyvinvointialuejohtajan viran perustamisesta, lakkauttamisesta sekä virkanimikkeen muuttamisesta. Muiden virkojen perustamisesta ja lakkauttamisesta päättää aluehallitus.\n\nLain kunnan ja hyvinvointialueen viranhaltijasta (304/2003) 3 §:n mukaan viranhaltija otetaan virkasuhteeseen joko toistaiseksi tai määräajaksi. Määräaikainen virkasuhde edellyttää lain mukaista perustetta.\n\nKuluvan valtuustokauden aikana arvioidaan lisäksi hyvinvointialueen poliittista johtamis- ja hallintomallia. Mahdollisilla muutoksilla voi olla vaikutuksia ylimmän johdon tehtäväkokonaisuuksiin, vastuualueisiin ja organisatoriseen asemaan.\n\nPerustettavien virkojen keskeiset tehtäväkokonaisuudet on määritelty liitteissä riittävällä tarkkuudella virkojen perustamista ja viranhaltijalain 24 §:n mukaisten siirtojen valmistelua varten. Tehtäväkuvauksia voidaan myöhemmin tarkentaa hallintosäännön ja toimintasääntöjen valmistelun yhteydessä.\n\nVirkojen täyttäminen on tarkoitus toteuttaa erillisillä kunnan ja hyvinvointialueen viranhaltijasta annetun lain 24 §:n mukaisilla siirtopäätöksillä tässä samassa aluehallituksen kokouksessa, kunkin viran täyttäminen omana päätöksenään."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Johtamisjärjestelmän uudistus, virkajärjestelyt, Ahall 21092026",
+     "url": "https://pshva.oncloudos.com/kokous/20261130-5-286736.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "290",
+   "title": "Strategiajohtajan siirtäminen strategia- ja asiakkuusjohtajan virkaan",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-6",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-6.PDF",
+   "diary_number": "1489/01.00.03/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää siirtää Jussi Lammen strategiajohtajan virasta aluehallituksen perustamaan uuteen strategia- ja asiakkuusjohtajan virkaan viranhaltijalain 24 §:n nojalla 1.1.2027 lukien.\n\nToimivallan peruste\nHallintosääntö § 64, § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\n\nAluehallitus on hyväksynyt uuden johtamisen rakenteen päämallin kokouksessaan 7.9.2026 § 270 ja kokouksessaan 21.9.2026 perustanut virat § 289 sekä vahvistanut kunkin viran kelpoisuusehdot.\n\nAluehallituksen 7.9.2026 § 270 päätöksen johdosta nykyisiä johtajavirkoja tullaan lakkauttamaan.\n\nAluehallitus on vahvistanut johtamisjärjestelmän uudistamisen päärakennetta ja siihen liittyviä virkajärjestelyjä koskevan neuvottelutuloksen ja samalla kyseessä olevat nykyisen johtamisrakenteen tasojen 1 ja 2 virkojen täyttömenettelyn.\n\nViranhaltijalain määräykset koskien viranhaltijan siirtämistä toiseen virkasuhteeseen organisaatiomuutoksessa:\n\nKunnan ja hyvinvointialueen viranhaltijasta annetun lain (304/2003, viranhaltijalaki) 24 § mahdollistaa viranhaltijan siirtämisen toiseen virkasuhteeseen organisaatiomuutoksissa, joissa virkoja lakkautetaan ja tilalle perustetaan uusia. Viranhaltijalain 24 § mahdollistaa viranhaltijan siirtämisen uuteen virkaan ilman hänen suostumustaan, jos:\n\n- kelpoisuusvaatimukset täyttyvät;\n\n- virkaa voidaan pitää viranhaltijalle sopivana;\n\n- asema toistaiseksi virkaan otettuna viranhaltijana ei muutu;\n\n- perusteena on toiminnan tai tehtävien uudelleenjärjestely; ja\n\n- viranhaltijan varsinainen palkka ei alene.\n\nTällöin työnantaja voi arvioida, että kyseessä on sellainen organisaatiomuutokseen liittyvä tilanne, jossa viranhaltija voidaan siirtää uuteen virkaan viranhaltijalain 24 §:n nojalla. Viranhaltijan vastustus ei estä työnantajaa tekemästä lainmukaista päätöstä. Jos muutoksen edellytykset täyttyvät viranhaltijalain 24 §:n perusteella ja viranhaltijan kuuleminen on toteutettu, työnantaja voi tehdä päätöksen viranhaltijan kannasta huolimatta. Viranhaltijalla on tämän jälkeen käytettävissään normaalit muutoksenhakukeinot.\n\nJos uusi virka täytetään viranhaltijalain 24 §:n mukaisella siirrolla, virkaa ei voi julistaa haettavaksi.\n\nViranhaltijalain 24 § ei mahdollista siirtoa, jos virka on olennaisesti erilainen tai uuden, perustettavan viran palkka matalampi. Tällöin kyse ei olisi enää 24 §:n tarkoittamasta yksipuolisesta siirtotilanteesta, mutta viranhaltijan suostumuksen perusteella työnantaja voi siirtää uuteen virkaan.\n\nAluehallitus on samassa kokouksessa perustanut strategia- ja asiakkuusjohtajan viran 1.1.2027 lukien. Strategiajohtajan virka tulee lakkautettavaksi aluehallituksen päätöksen 7.9.2026 § 270 johdosta.\n\nJussi Lampi täyttää strategia- ja asiakkuusjohtajan viran kelpoisuusvaatimukset ja virkaa voidaan pitää hänelle sopivana hänen koulutuksensa, johtamiskokemuksensa sekä nykyisten tehtäviensä perusteella. Hänen asemansa toistaiseksi otettuna viranhaltijana ei muutu. Perusteena on organisaation johtamisjärjestelmän, toiminnan ja tehtävien uudelleenjärjestelyyn liittyvä perusteltu syy. Hänen varsinainen palkkansa ei alene. Suunnitellun siirron perusteena on johtamisjärjestelmän, toiminnan ja tehtävien uudelleenjärjestely. Työnantajan arvion mukaan viranhaltijalain 24 §:n edellytykset siirrolle täyttyvät.\n\nJos viranhaltijan virka lakkaa, ja jos häntä ei viranhaltijalain 24 §:n nojalla siirretä toiseen virkaan, viranhaltija tulisi irtisanottavaksi viranhaltijalain 37 §:n nojalla. Viranhaltijalain 37 §:n mukaisessa tilanteessa työnantajan tulee selvittää, onko viranhaltijalle tarjolla muuta virkasuhdetta tai työsuhteista tehtävää, johon hänet voidaan sijoittaa ottaen huomioon hänen koulutuksensa, ammattitaitonsa ja kokemuksensa. Jos viranhaltija hyväksyy uuden tarjotun tehtävän, asia ratkeaa käytännössä sijoittamalla hänet uuteen virkaan.\n\nEdellä esitetyn perusteella, siinäkin tapauksessa, että nyt käsiteltävänä olevaa viran täyttämistä ei toteutettaisi virkasiirrolla, hyvinvointialueen olisi tarjottava puheena olevaa virkaa viranhaltijalle korvaavana tehtävänä johtamisrakenteen muutosten johdosta.\n\nViranhaltija on antanut suostumuksensa virkasiirtoon. Viranhaltijalle on varattu kunnan ja hyvinvointialueen viranhaltijasta annetun lain 24 §:n mukainen tilaisuus tulla kuulluksi suunnitellusta virkasiirrosta ennen asian ratkaisemista. Viranhaltijalle on annettu mahdollisuus toimittaa kirjallinen lausuma 16.9.2026 klo 16.00 mennessä. Viranhaltija ei ole määräaikaan mennessä vastustanut siirtoa tai tuonut esille seikkoja, jotka antaisivat aihetta arvioida virkasiirtoa toisin.",
+   "decision": "Merkitään pöytäkirjaan, että:\n\n- Janne Niemeläinen, Henna Räsänen, Jussi Lampi, Kati Kantanen, Eija Jestola, Jari Saarinen, Kirsi Solmari, Jukka Koponen, Sami Remes ja Tuomo Pekkarinen ilmoittivat olevansa esteellisiä (HL 28.1. kohta 1) ja poistuivat kokouksesta asian käsittelyn ja päätöksenteon ajaksi klo 10.15-10.16.\n\n- pöytäkirjanpitäjänä toimii Virpi Kauppinen\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nMarko Korhonen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n- Janne Niemeläinen, Henna Räsänen, Jussi Lampi, Kati Kantanen, Eija Jestola, Jari Saarinen, Kirsi Solmari, Jukka Koponen, Sami Remes ja Tuomo Pekkarinen ilmoittivat olevansa esteellisiä (HL 28.1. kohta 1) ja poistuivat kokouksesta asian käsittelyn ja päätöksenteon ajaksi klo 10.15-10.16.\n\n- pöytäkirjanpitäjänä toimii Virpi Kauppinen\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää siirtää Jussi Lammen strategiajohtajan virasta aluehallituksen perustamaan uuteen strategia- ja asiakkuusjohtajan virkaan viranhaltijalain 24 §:n nojalla 1.1.2027 lukien.\n\nToimivallan peruste\nHallintosääntö § 64, § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\n\nAluehallitus on hyväksynyt uuden johtamisen rakenteen päämallin kokouksessaan 7.9.2026 § 270 ja kokouksessaan 21.9.2026 perustanut virat § 289 sekä vahvistanut kunkin viran kelpoisuusehdot.\n\nAluehallituksen 7.9.2026 § 270 päätöksen johdosta nykyisiä johtajavirkoja tullaan lakkauttamaan.\n\nAluehallitus on vahvistanut johtamisjärjestelmän uudistamisen päärakennetta ja siihen liittyviä virkajärjestelyjä koskevan neuvottelutuloksen ja samalla kyseessä olevat nykyisen johtamisrakenteen tasojen 1 ja 2 virkojen täyttömenettelyn.\n\nViranhaltijalain määräykset koskien viranhaltijan siirtämistä toiseen virkasuhteeseen organisaatiomuutoksessa:\n\nKunnan ja hyvinvointialueen viranhaltijasta annetun lain (304/2003, viranhaltijalaki) 24 § mahdollistaa viranhaltijan siirtämisen toiseen virkasuhteeseen organisaatiomuutoksissa, joissa virkoja lakkautetaan ja tilalle perustetaan uusia. Viranhaltijalain 24 § mahdollistaa viranhaltijan siirtämisen uuteen virkaan ilman hänen suostumustaan, jos:\n\n- kelpoisuusvaatimukset täyttyvät;\n\n- virkaa voidaan pitää viranhaltijalle sopivana;\n\n- asema toistaiseksi virkaan otettuna viranhaltijana ei muutu;\n\n- perusteena on toiminnan tai tehtävien uudelleenjärjestely; ja\n\n- viranhaltijan varsinainen palkka ei alene.\n\nTällöin työnantaja voi arvioida, että kyseessä on sellainen organisaatiomuutokseen liittyvä tilanne, jossa viranhaltija voidaan siirtää uuteen virkaan viranhaltijalain 24 §:n nojalla. Viranhaltijan vastustus ei estä työnantajaa tekemästä lainmukaista päätöstä. Jos muutoksen edellytykset täyttyvät viranhaltijalain 24 §:n perusteella ja viranhaltijan kuuleminen on toteutettu, työnantaja voi tehdä päätöksen viranhaltijan kannasta huolimatta. Viranhaltijalla on tämän jälkeen käytettävissään normaalit muutoksenhakukeinot.\n\nJos uusi virka täytetään viranhaltijalain 24 §:n mukaisella siirrolla, virkaa ei voi julistaa haettavaksi.\n\nViranhaltijalain 24 § ei mahdollista siirtoa, jos virka on olennaisesti erilainen tai uuden, perustettavan viran palkka matalampi. Tällöin kyse ei olisi enää 24 §:n tarkoittamasta yksipuolisesta siirtotilanteesta, mutta viranhaltijan suostumuksen perusteella työnantaja voi siirtää uuteen virkaan.\n\nAluehallitus on samassa kokouksessa perustanut strategia- ja asiakkuusjohtajan viran 1.1.2027 lukien. Strategiajohtajan virka tulee lakkautettavaksi aluehallituksen päätöksen 7.9.2026 § 270 johdosta.\n\nJussi Lampi täyttää strategia- ja asiakkuusjohtajan viran kelpoisuusvaatimukset ja virkaa voidaan pitää hänelle sopivana hänen koulutuksensa, johtamiskokemuksensa sekä nykyisten tehtäviensä perusteella. Hänen asemansa toistaiseksi otettuna viranhaltijana ei muutu. Perusteena on organisaation johtamisjärjestelmän, toiminnan ja tehtävien uudelleenjärjestelyyn liittyvä perusteltu syy. Hänen varsinainen palkkansa ei alene. Suunnitellun siirron perusteena on johtamisjärjestelmän, toiminnan ja tehtävien uudelleenjärjestely. Työnantajan arvion mukaan viranhaltijalain 24 §:n edellytykset siirrolle täyttyvät.\n\nJos viranhaltijan virka lakkaa, ja jos häntä ei viranhaltijalain 24 §:n nojalla siirretä toiseen virkaan, viranhaltija tulisi irtisanottavaksi viranhaltijalain 37 §:n nojalla. Viranhaltijalain 37 §:n mukaisessa tilanteessa työnantajan tulee selvittää, onko viranhaltijalle tarjolla muuta virkasuhdetta tai työsuhteista tehtävää, johon hänet voidaan sijoittaa ottaen huomioon hänen koulutuksensa, ammattitaitonsa ja kokemuksensa. Jos viranhaltija hyväksyy uuden tarjotun tehtävän, asia ratkeaa käytännössä sijoittamalla hänet uuteen virkaan.\n\nEdellä esitetyn perusteella, siinäkin tapauksessa, että nyt käsiteltävänä olevaa viran täyttämistä ei toteutettaisi virkasiirrolla, hyvinvointialueen olisi tarjottava puheena olevaa virkaa viranhaltijalle korvaavana tehtävänä johtamisrakenteen muutosten johdosta.\n\nViranhaltija on antanut suostumuksensa virkasiirtoon. Viranhaltijalle on varattu kunnan ja hyvinvointialueen viranhaltijasta annetun lain 24 §:n mukainen tilaisuus tulla kuulluksi suunnitellusta virkasiirrosta ennen asian ratkaisemista. Viranhaltijalle on annettu mahdollisuus toimittaa kirjallinen lausuma 16.9.2026 klo 16.00 mennessä. Viranhaltija ei ole määräaikaan mennessä vastustanut siirtoa tai tuonut esille seikkoja, jotka antaisivat aihetta arvioida virkasiirtoa toisin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "291",
+   "title": "Hallintojohtajan siirtäminen konsernin tukipalvelujohtajan virkaan",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-7",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-7.PDF",
+   "diary_number": "1489/01.00.03/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää siirtää Janne Niemeläisen hallintojohtajan virasta aluehallituksen perustamaan uuteen konsernin tukipalvelujohtajan virkaan viranhaltijalain 24 §:n nojalla 1.1.2027 lukien.\n\nToimivallan peruste\nHallintosääntö § 64, § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\n\nAluehallitus on hyväksynyt uuden johtamisen rakenteen päämallin kokouksessaan 7.9.2026 § 270 ja kokouksessaan 21.9.2026 perustanut virat § 289 sekä vahvistanut kunkin viran kelpoisuusehdot.\n\nAluehallituksen 7.9.2026 § 270 päätöksen johdosta nykyisiä johtajavirkoja tullaan lakkauttamaan.\n\nAluehallitus on vahvistanut johtamisjärjestelmän uudistamisen päärakennetta ja siihen liittyviä virkajärjestelyjä koskevan neuvottelutuloksen ja samalla kyseessä olevat nykyisen johtamisrakenteen tasojen 1 ja 2 virkojen täyttömenettelyn.\n\nViranhaltijalain määräykset koskien viranhaltijan siirtämistä toiseen virkasuhteeseen organisaatiomuutoksessa:\n\nKunnan ja hyvinvointialueen viranhaltijasta annetun lain (304/2003, viranhaltijalaki) 24 § mahdollistaa viranhaltijan siirtämisen toiseen virkasuhteeseen organisaatiomuutoksissa, joissa virkoja lakkautetaan ja tilalle perustetaan uusia. Viranhaltijalain 24 § mahdollistaa viranhaltijan siirtämisen uuteen virkaan ilman hänen suostumustaan, jos:\n\n- kelpoisuusvaatimukset täyttyvät;\n\n- virkaa voidaan pitää viranhaltijalle sopivana;\n\n- asema toistaiseksi virkaan otettuna viranhaltijana ei muutu;\n\n- perusteena on toiminnan tai tehtävien uudelleenjärjestely; ja\n\n- viranhaltijan varsinainen palkka ei alene.\n\nTällöin työnantaja voi arvioida, että kyseessä on sellainen organisaatiomuutokseen liittyvä tilanne, jossa viranhaltija voidaan siirtää uuteen virkaan viranhaltijalain 24 §:n nojalla. Viranhaltijan vastustus ei estä työnantajaa tekemästä lainmukaista päätöstä. Jos muutoksen edellytykset täyttyvät viranhaltijalain 24 §:n perusteella ja viranhaltijan kuuleminen on toteutettu, työnantaja voi tehdä päätöksen viranhaltijan kannasta huolimatta. Viranhaltijalla on tämän jälkeen käytettävissään normaalit muutoksenhakukeinot.\n\nJos uusi virka täytetään viranhaltijalain 24 §:n mukaisella siirrolla, virkaa ei voi julistaa haettavaksi.\n\nViranhaltijalain 24 § ei mahdollista siirtoa, jos virka on olennaisesti erilainen tai uuden, perustettavan viran palkka matalampi. Tällöin kyse ei olisi enää 24 §:n tarkoittamasta yksipuolisesta siirtotilanteesta, mutta viranhaltijan suostumuksen perusteella työnantaja voi siirtää uuteen virkaan.\n\nAluehallitus on samassa kokouksessa perustanut konsernin tukipalvelujohtajan viran 1.1.2027 lukien. Hallintojohtajan virka tulee lakkautettavaksi aluehallituksen päätöksen 7.9.2026 § 270 johdosta.\n\nJanne Niemeläinen täyttää konsernin tukipalvelujohtajan viran kelpoisuusvaatimukset ja virkaa voidaan pitää hänelle sopivana hänen koulutuksensa, johtamiskokemuksensa sekä nykyisten tehtäviensä perusteella. Hänen asemansa toistaiseksi otettuna viranhaltijana ei muutu. Perusteena on organisaation johtamisjärjestelmän, toiminnan ja tehtävien uudelleenjärjestelyyn liittyvä perusteltu syy. Hänen varsinainen palkkansa ei alene. Suunnitellun siirron perusteena on johtamisjärjestelmän, toiminnan ja tehtävien uudelleenjärjestely. Työnantajan arvion mukaan viranhaltijalain 24 §:n edellytykset siirrolle täyttyvät.\n\nJos viranhaltijan virka lakkaa, ja jos häntä ei viranhaltijalain 24 §:n nojalla siirretä toiseen virkaan, viranhaltija tulisi irtisanottavaksi viranhaltijalain 37 §:n nojalla. Viranhaltijalain 37 §:n mukaisessa tilanteessa työnantajan tulee selvittää, onko viranhaltijalle tarjolla muuta virkasuhdetta tai työsuhteista tehtävää, johon hänet voidaan sijoittaa ottaen huomioon hänen koulutuksensa, ammattitaitonsa ja kokemuksensa. Jos viranhaltija hyväksyy uuden tarjotun tehtävän, asia ratkeaa käytännössä sijoittamalla hänet uuteen virkaan.\n\nEdellä esitetyn perusteella, siinäkin tapauksessa, että nyt käsiteltävänä olevaa viran täyttämistä ei toteutettaisi virkasiirrolla, hyvinvointialueen olisi tarjottava puheena olevaa virkaa viranhaltijalle korvaavana tehtävänä johtamisrakenteen muutosten johdosta.\n\nViranhaltija on antanut suostumuksensa virkasiirtoon. Viranhaltijalle on varattu kunnan ja hyvinvointialueen viranhaltijasta annetun lain 24 §:n mukainen tilaisuus tulla kuulluksi suunnitellusta virkasiirrosta ennen asian ratkaisemista. Viranhaltijalle on annettu mahdollisuus toimittaa kirjallinen lausuma 16.9.2026 klo 16.00 mennessä. Viranhaltija ei ole määräaikaan mennessä vastustanut siirtoa tai tuonut esille seikkoja, jotka antaisivat aihetta arvioida virkasiirtoa toisin.",
+   "decision": "Merkitään pöytäkirjaan, että:\n\n- Janne Niemeläinen, Henna Räsänen, Jussi Lampi, Kati Kantanen, Eija Jestola, Jari Saarinen, Kirsi Solmari, Jukka Koponen, Sami Remes ja Tuomo Pekkarinen ilmoittivat olevansa esteellisiä (HL 28.1. kohta 1) ja poistuivat kokouksesta asian käsittelyn ja päätöksenteon ajaksi klo 10.16-10.17.\n\n- pöytäkirjanpitäjänä toimii Virpi Kauppinen\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nMarko Korhonen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n- Janne Niemeläinen, Henna Räsänen, Jussi Lampi, Kati Kantanen, Eija Jestola, Jari Saarinen, Kirsi Solmari, Jukka Koponen, Sami Remes ja Tuomo Pekkarinen ilmoittivat olevansa esteellisiä (HL 28.1. kohta 1) ja poistuivat kokouksesta asian käsittelyn ja päätöksenteon ajaksi klo 10.16-10.17.\n\n- pöytäkirjanpitäjänä toimii Virpi Kauppinen\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää siirtää Janne Niemeläisen hallintojohtajan virasta aluehallituksen perustamaan uuteen konsernin tukipalvelujohtajan virkaan viranhaltijalain 24 §:n nojalla 1.1.2027 lukien.\n\nToimivallan peruste\nHallintosääntö § 64, § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\n\nAluehallitus on hyväksynyt uuden johtamisen rakenteen päämallin kokouksessaan 7.9.2026 § 270 ja kokouksessaan 21.9.2026 perustanut virat § 289 sekä vahvistanut kunkin viran kelpoisuusehdot.\n\nAluehallituksen 7.9.2026 § 270 päätöksen johdosta nykyisiä johtajavirkoja tullaan lakkauttamaan.\n\nAluehallitus on vahvistanut johtamisjärjestelmän uudistamisen päärakennetta ja siihen liittyviä virkajärjestelyjä koskevan neuvottelutuloksen ja samalla kyseessä olevat nykyisen johtamisrakenteen tasojen 1 ja 2 virkojen täyttömenettelyn.\n\nViranhaltijalain määräykset koskien viranhaltijan siirtämistä toiseen virkasuhteeseen organisaatiomuutoksessa:\n\nKunnan ja hyvinvointialueen viranhaltijasta annetun lain (304/2003, viranhaltijalaki) 24 § mahdollistaa viranhaltijan siirtämisen toiseen virkasuhteeseen organisaatiomuutoksissa, joissa virkoja lakkautetaan ja tilalle perustetaan uusia. Viranhaltijalain 24 § mahdollistaa viranhaltijan siirtämisen uuteen virkaan ilman hänen suostumustaan, jos:\n\n- kelpoisuusvaatimukset täyttyvät;\n\n- virkaa voidaan pitää viranhaltijalle sopivana;\n\n- asema toistaiseksi virkaan otettuna viranhaltijana ei muutu;\n\n- perusteena on toiminnan tai tehtävien uudelleenjärjestely; ja\n\n- viranhaltijan varsinainen palkka ei alene.\n\nTällöin työnantaja voi arvioida, että kyseessä on sellainen organisaatiomuutokseen liittyvä tilanne, jossa viranhaltija voidaan siirtää uuteen virkaan viranhaltijalain 24 §:n nojalla. Viranhaltijan vastustus ei estä työnantajaa tekemästä lainmukaista päätöstä. Jos muutoksen edellytykset täyttyvät viranhaltijalain 24 §:n perusteella ja viranhaltijan kuuleminen on toteutettu, työnantaja voi tehdä päätöksen viranhaltijan kannasta huolimatta. Viranhaltijalla on tämän jälkeen käytettävissään normaalit muutoksenhakukeinot.\n\nJos uusi virka täytetään viranhaltijalain 24 §:n mukaisella siirrolla, virkaa ei voi julistaa haettavaksi.\n\nViranhaltijalain 24 § ei mahdollista siirtoa, jos virka on olennaisesti erilainen tai uuden, perustettavan viran palkka matalampi. Tällöin kyse ei olisi enää 24 §:n tarkoittamasta yksipuolisesta siirtotilanteesta, mutta viranhaltijan suostumuksen perusteella työnantaja voi siirtää uuteen virkaan.\n\nAluehallitus on samassa kokouksessa perustanut konsernin tukipalvelujohtajan viran 1.1.2027 lukien. Hallintojohtajan virka tulee lakkautettavaksi aluehallituksen päätöksen 7.9.2026 § 270 johdosta.\n\nJanne Niemeläinen täyttää konsernin tukipalvelujohtajan viran kelpoisuusvaatimukset ja virkaa voidaan pitää hänelle sopivana hänen koulutuksensa, johtamiskokemuksensa sekä nykyisten tehtäviensä perusteella. Hänen asemansa toistaiseksi otettuna viranhaltijana ei muutu. Perusteena on organisaation johtamisjärjestelmän, toiminnan ja tehtävien uudelleenjärjestelyyn liittyvä perusteltu syy. Hänen varsinainen palkkansa ei alene. Suunnitellun siirron perusteena on johtamisjärjestelmän, toiminnan ja tehtävien uudelleenjärjestely. Työnantajan arvion mukaan viranhaltijalain 24 §:n edellytykset siirrolle täyttyvät.\n\nJos viranhaltijan virka lakkaa, ja jos häntä ei viranhaltijalain 24 §:n nojalla siirretä toiseen virkaan, viranhaltija tulisi irtisanottavaksi viranhaltijalain 37 §:n nojalla. Viranhaltijalain 37 §:n mukaisessa tilanteessa työnantajan tulee selvittää, onko viranhaltijalle tarjolla muuta virkasuhdetta tai työsuhteista tehtävää, johon hänet voidaan sijoittaa ottaen huomioon hänen koulutuksensa, ammattitaitonsa ja kokemuksensa. Jos viranhaltija hyväksyy uuden tarjotun tehtävän, asia ratkeaa käytännössä sijoittamalla hänet uuteen virkaan.\n\nEdellä esitetyn perusteella, siinäkin tapauksessa, että nyt käsiteltävänä olevaa viran täyttämistä ei toteutettaisi virkasiirrolla, hyvinvointialueen olisi tarjottava puheena olevaa virkaa viranhaltijalle korvaavana tehtävänä johtamisrakenteen muutosten johdosta.\n\nViranhaltija on antanut suostumuksensa virkasiirtoon. Viranhaltijalle on varattu kunnan ja hyvinvointialueen viranhaltijasta annetun lain 24 §:n mukainen tilaisuus tulla kuulluksi suunnitellusta virkasiirrosta ennen asian ratkaisemista. Viranhaltijalle on annettu mahdollisuus toimittaa kirjallinen lausuma 16.9.2026 klo 16.00 mennessä. Viranhaltija ei ole määräaikaan mennessä vastustanut siirtoa tai tuonut esille seikkoja, jotka antaisivat aihetta arvioida virkasiirtoa toisin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "292",
+   "title": "Pelastustoimi ja turvallisuuspalveluiden toimialajohtajan (Pelastusjohtajan) siirtäminen kokonaisturvallisuusjohtajan virkaan",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-8",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-8.PDF",
+   "diary_number": "1489/01.00.03/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää siirtää Jukka Koposen pelastusjohtajan virasta aluehallituksen perustamaan uuteen kokonaisturvallisuusjohtajan virkaan viranhaltijalain 24 §:n nojalla 1.1.2027 lukien.\n\nToimivallan peruste\nHallintosääntö § 64, § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\n\nAluehallitus on hyväksynyt uuden johtamisen rakenteen päämallin kokouksessaan 7.9.2026 § 270 ja kokouksessaan 21.9.2026 perustanut virat § 289 sekä vahvistanut kunkin viran kelpoisuusehdot.\n\nAluehallituksen 7.9.2026 § 270 päätöksen johdosta nykyisiä johtajavirkoja tullaan lakkauttamaan.\n\nAluehallitus on vahvistanut johtamisjärjestelmän uudistamisen päärakennetta ja siihen liittyviä virkajärjestelyjä koskevan neuvottelutuloksen ja samalla kyseessä olevat nykyisen johtamisrakenteen tasojen 1 ja 2 virkojen täyttömenettelyn.\n\nViranhaltijalain määräykset koskien viranhaltijan siirtämistä toiseen virkasuhteeseen organisaatiomuutoksessa:\n\nKunnan ja hyvinvointialueen viranhaltijasta annetun lain (304/2003, viranhaltijalaki) 24 § mahdollistaa viranhaltijan siirtämisen toiseen virkasuhteeseen organisaatiomuutoksissa, joissa virkoja lakkautetaan ja tilalle perustetaan uusia. Viranhaltijalain 24 § mahdollistaa viranhaltijan siirtämisen uuteen virkaan ilman hänen suostumustaan, jos:\n\n- kelpoisuusvaatimukset täyttyvät;\n\n- virkaa voidaan pitää viranhaltijalle sopivana;\n\n- asema toistaiseksi virkaan otettuna viranhaltijana ei muutu;\n\n- perusteena on toiminnan tai tehtävien uudelleenjärjestely; ja\n\n- viranhaltijan varsinainen palkka ei alene.\n\nTällöin työnantaja voi arvioida, että kyseessä on sellainen organisaatiomuutokseen liittyvä tilanne, jossa viranhaltija voidaan siirtää uuteen virkaan viranhaltijalain 24 §:n nojalla. Viranhaltijan vastustus ei estä työnantajaa tekemästä lainmukaista päätöstä. Jos muutoksen edellytykset täyttyvät viranhaltijalain 24 §:n perusteella ja viranhaltijan kuuleminen on toteutettu, työnantaja voi tehdä päätöksen viranhaltijan kannasta huolimatta. Viranhaltijalla on tämän jälkeen käytettävissään normaalit muutoksenhakukeinot.\n\nJos uusi virka täytetään viranhaltijalain 24 §:n mukaisella siirrolla, virkaa ei voi julistaa haettavaksi.\n\nViranhaltijalain 24 § ei mahdollista siirtoa, jos virka on olennaisesti erilainen tai uuden, perustettavan viran palkka matalampi. Tällöin kyse ei olisi enää 24 §:n tarkoittamasta yksipuolisesta siirtotilanteesta, mutta viranhaltijan suostumuksen perusteella työnantaja voi siirtää uuteen virkaan.\n\nAluehallitus on samassa kokouksessa perustanut kokonaisturvallisuusjohtajan viran 1.1.2027 lukien. Pelastusjohtajan virka tulee lakkautettavaksi aluehallituksen päätöksen 7.9.2026 § 270 johdosta.\n\nJukka Koponen täyttää kokonaisturvallisuusjohtajan viran kelpoisuusvaatimukset ja virkaa voidaan pitää hänelle sopivana hänen koulutuksensa, johtamiskokemuksensa sekä nykyisten tehtäviensä perusteella. Hänen asemansa toistaiseksi otettuna viranhaltijana ei muutu. Perusteena on organisaation johtamisjärjestelmän, toiminnan ja tehtävien uudelleenjärjestelyyn liittyvä perusteltu syy. Hänen varsinainen palkkansa ei alene. Suunnitellun siirron perusteena on johtamisjärjestelmän, toiminnan ja tehtävien uudelleenjärjestely. Työnantajan arvion mukaan viranhaltijalain 24 §:n edellytykset siirrolle täyttyvät.\n\nJos viranhaltijan virka lakkaa, ja jos häntä ei viranhaltijalain 24 §:n nojalla siirretä toiseen virkaan, viranhaltija tulisi irtisanottavaksi viranhaltijalain 37 §:n nojalla. Viranhaltijalain 37 §:n mukaisessa tilanteessa työnantajan tulee selvittää, onko viranhaltijalle tarjolla muuta virkasuhdetta tai työsuhteista tehtävää, johon hänet voidaan sijoittaa ottaen huomioon hänen koulutuksensa, ammattitaitonsa ja kokemuksensa. Jos viranhaltija hyväksyy uuden tarjotun tehtävän, asia ratkeaa käytännössä sijoittamalla hänet uuteen virkaan.\n\nEdellä esitetyn perusteella, siinäkin tapauksessa, että nyt käsiteltävänä olevaa viran täyttämistä ei toteutettaisi virkasiirrolla, hyvinvointialueen olisi tarjottava puheena olevaa virkaa viranhaltijalle korvaavana tehtävänä johtamisrakenteen muutosten johdosta.\n\nViranhaltija on antanut suostumuksensa virkasiirtoon. Viranhaltijalle on varattu kunnan ja hyvinvointialueen viranhaltijasta annetun lain 24 §:n mukainen tilaisuus tulla kuulluksi suunnitellusta virkasiirrosta ennen asian ratkaisemista. Viranhaltijalle on annettu mahdollisuus toimittaa kirjallinen lausuma 16.9.2026 klo 16.00 mennessä. Viranhaltija ei ole määräaikaan mennessä vastustanut siirtoa tai tuonut esille seikkoja, jotka antaisivat aihetta arvioida virkasiirtoa toisin.",
+   "decision": "Merkitään pöytäkirjaan, että:\n\n- Janne Niemeläinen, Henna Räsänen, Jussi Lampi, Kati Kantanen, Eija Jestola, Jari Saarinen, Kirsi Solmari, Jukka Koponen, Sami Remes ja Tuomo Pekkarinen ilmoittivat olevansa esteellisiä (HL 28.1. kohta 1) ja poistuivat kokouksesta asian käsittelyn ja päätöksenteon ajaksi klo 10.18-10.23.\n\n- pöytäkirjanpitäjänä toimii Virpi Kauppinen\n\nHyvinvointialuejohtaja teki muutetun päätösehdotuksen:\n\nKorjataan otsikko Pelastustoimi ja turvallisuuspalveluiden toimialajohtajan (Pelastusjohtaja) siirtäminen kokonaisturvallisuusjohtajan virkaan.\n\nAluehallitus päättää siirtää Jukka Koposen Pelastustoimi ja turvallisuuspalveluiden toimialajohtajan (pelastusjohtajan) virasta aluehallituksen perustamaan uuteen kokonaisturvallisuusjohtajan virkaan viranhaltijalain 24 §:n nojalla 1.1.2027 lukien.\n\nAluehallitus hyväksyi muutetun päätösehdotuksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nMarko Korhonen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n- Janne Niemeläinen, Henna Räsänen, Jussi Lampi, Kati Kantanen, Eija Jestola, Jari Saarinen, Kirsi Solmari, Jukka Koponen, Sami Remes ja Tuomo Pekkarinen ilmoittivat olevansa esteellisiä (HL 28.1. kohta 1) ja poistuivat kokouksesta asian käsittelyn ja päätöksenteon ajaksi klo 10.18-10.23.\n\n- pöytäkirjanpitäjänä toimii Virpi Kauppinen\n\nHyvinvointialuejohtaja teki muutetun päätösehdotuksen:\n\nKorjataan otsikko Pelastustoimi ja turvallisuuspalveluiden toimialajohtajan (Pelastusjohtaja) siirtäminen kokonaisturvallisuusjohtajan virkaan.\n\nAluehallitus päättää siirtää Jukka Koposen Pelastustoimi ja turvallisuuspalveluiden toimialajohtajan (pelastusjohtajan) virasta aluehallituksen perustamaan uuteen kokonaisturvallisuusjohtajan virkaan viranhaltijalain 24 §:n nojalla 1.1.2027 lukien.\n\nAluehallitus hyväksyi muutetun päätösehdotuksen."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää siirtää Jukka Koposen pelastusjohtajan virasta aluehallituksen perustamaan uuteen kokonaisturvallisuusjohtajan virkaan viranhaltijalain 24 §:n nojalla 1.1.2027 lukien.\n\nToimivallan peruste\nHallintosääntö § 64, § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\n\nAluehallitus on hyväksynyt uuden johtamisen rakenteen päämallin kokouksessaan 7.9.2026 § 270 ja kokouksessaan 21.9.2026 perustanut virat § 289 sekä vahvistanut kunkin viran kelpoisuusehdot.\n\nAluehallituksen 7.9.2026 § 270 päätöksen johdosta nykyisiä johtajavirkoja tullaan lakkauttamaan.\n\nAluehallitus on vahvistanut johtamisjärjestelmän uudistamisen päärakennetta ja siihen liittyviä virkajärjestelyjä koskevan neuvottelutuloksen ja samalla kyseessä olevat nykyisen johtamisrakenteen tasojen 1 ja 2 virkojen täyttömenettelyn.\n\nViranhaltijalain määräykset koskien viranhaltijan siirtämistä toiseen virkasuhteeseen organisaatiomuutoksessa:\n\nKunnan ja hyvinvointialueen viranhaltijasta annetun lain (304/2003, viranhaltijalaki) 24 § mahdollistaa viranhaltijan siirtämisen toiseen virkasuhteeseen organisaatiomuutoksissa, joissa virkoja lakkautetaan ja tilalle perustetaan uusia. Viranhaltijalain 24 § mahdollistaa viranhaltijan siirtämisen uuteen virkaan ilman hänen suostumustaan, jos:\n\n- kelpoisuusvaatimukset täyttyvät;\n\n- virkaa voidaan pitää viranhaltijalle sopivana;\n\n- asema toistaiseksi virkaan otettuna viranhaltijana ei muutu;\n\n- perusteena on toiminnan tai tehtävien uudelleenjärjestely; ja\n\n- viranhaltijan varsinainen palkka ei alene.\n\nTällöin työnantaja voi arvioida, että kyseessä on sellainen organisaatiomuutokseen liittyvä tilanne, jossa viranhaltija voidaan siirtää uuteen virkaan viranhaltijalain 24 §:n nojalla. Viranhaltijan vastustus ei estä työnantajaa tekemästä lainmukaista päätöstä. Jos muutoksen edellytykset täyttyvät viranhaltijalain 24 §:n perusteella ja viranhaltijan kuuleminen on toteutettu, työnantaja voi tehdä päätöksen viranhaltijan kannasta huolimatta. Viranhaltijalla on tämän jälkeen käytettävissään normaalit muutoksenhakukeinot.\n\nJos uusi virka täytetään viranhaltijalain 24 §:n mukaisella siirrolla, virkaa ei voi julistaa haettavaksi.\n\nViranhaltijalain 24 § ei mahdollista siirtoa, jos virka on olennaisesti erilainen tai uuden, perustettavan viran palkka matalampi. Tällöin kyse ei olisi enää 24 §:n tarkoittamasta yksipuolisesta siirtotilanteesta, mutta viranhaltijan suostumuksen perusteella työnantaja voi siirtää uuteen virkaan.\n\nAluehallitus on samassa kokouksessa perustanut kokonaisturvallisuusjohtajan viran 1.1.2027 lukien. Pelastusjohtajan virka tulee lakkautettavaksi aluehallituksen päätöksen 7.9.2026 § 270 johdosta.\n\nJukka Koponen täyttää kokonaisturvallisuusjohtajan viran kelpoisuusvaatimukset ja virkaa voidaan pitää hänelle sopivana hänen koulutuksensa, johtamiskokemuksensa sekä nykyisten tehtäviensä perusteella. Hänen asemansa toistaiseksi otettuna viranhaltijana ei muutu. Perusteena on organisaation johtamisjärjestelmän, toiminnan ja tehtävien uudelleenjärjestelyyn liittyvä perusteltu syy. Hänen varsinainen palkkansa ei alene. Suunnitellun siirron perusteena on johtamisjärjestelmän, toiminnan ja tehtävien uudelleenjärjestely. Työnantajan arvion mukaan viranhaltijalain 24 §:n edellytykset siirrolle täyttyvät.\n\nJos viranhaltijan virka lakkaa, ja jos häntä ei viranhaltijalain 24 §:n nojalla siirretä toiseen virkaan, viranhaltija tulisi irtisanottavaksi viranhaltijalain 37 §:n nojalla. Viranhaltijalain 37 §:n mukaisessa tilanteessa työnantajan tulee selvittää, onko viranhaltijalle tarjolla muuta virkasuhdetta tai työsuhteista tehtävää, johon hänet voidaan sijoittaa ottaen huomioon hänen koulutuksensa, ammattitaitonsa ja kokemuksensa. Jos viranhaltija hyväksyy uuden tarjotun tehtävän, asia ratkeaa käytännössä sijoittamalla hänet uuteen virkaan.\n\nEdellä esitetyn perusteella, siinäkin tapauksessa, että nyt käsiteltävänä olevaa viran täyttämistä ei toteutettaisi virkasiirrolla, hyvinvointialueen olisi tarjottava puheena olevaa virkaa viranhaltijalle korvaavana tehtävänä johtamisrakenteen muutosten johdosta.\n\nViranhaltija on antanut suostumuksensa virkasiirtoon. Viranhaltijalle on varattu kunnan ja hyvinvointialueen viranhaltijasta annetun lain 24 §:n mukainen tilaisuus tulla kuulluksi suunnitellusta virkasiirrosta ennen asian ratkaisemista. Viranhaltijalle on annettu mahdollisuus toimittaa kirjallinen lausuma 16.9.2026 klo 16.00 mennessä. Viranhaltija ei ole määräaikaan mennessä vastustanut siirtoa tai tuonut esille seikkoja, jotka antaisivat aihetta arvioida virkasiirtoa toisin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "293",
+   "title": "Yleisten palveluiden toimialajohtajan siirtäminen terveys- ja turvallisuusjohtajan virkaan",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-9",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-9.PDF",
+   "diary_number": "1489/01.00.03/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää siirtää Jari Saarisen yleisten palveluiden toimialajohtajan virasta aluehallituksen perustamaan uuteen terveys- ja turvallisuusjohtajan virkaan viranhaltijalain 24 §:n nojalla 1.1.2027 lukien.\n\nToimivallan peruste\nHallintosääntö § 64, § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\n\nAluehallitus on hyväksynyt uuden johtamisen rakenteen päämallin kokouksessaan 7.9.2026 § 270 ja kokouksessaan 21.9.2026 perustanut virat § 289 sekä vahvistanut kunkin viran kelpoisuusehdot.\n\nAluehallituksen 7.9.2026 § 270 päätöksen johdosta nykyisiä johtajavirkoja tullaan lakkauttamaan.\n\nAluehallitus on vahvistanut johtamisjärjestelmän uudistamisen päärakennetta ja siihen liittyviä virkajärjestelyjä koskevan neuvottelutuloksen ja samalla kyseessä olevat nykyisen johtamisrakenteen tasojen 1 ja 2 virkojen täyttömenettelyn.\n\nViranhaltijalain määräykset koskien viranhaltijan siirtämistä toiseen virkasuhteeseen organisaatiomuutoksessa:\n\nKunnan ja hyvinvointialueen viranhaltijasta annetun lain (304/2003, viranhaltijalaki) 24 § mahdollistaa viranhaltijan siirtämisen toiseen virkasuhteeseen organisaatiomuutoksissa, joissa virkoja lakkautetaan ja tilalle perustetaan uusia. Viranhaltijalain 24 § mahdollistaa viranhaltijan siirtämisen uuteen virkaan ilman hänen suostumustaan, jos:\n\n- kelpoisuusvaatimukset täyttyvät;\n\n- virkaa voidaan pitää viranhaltijalle sopivana;\n\n- asema toistaiseksi virkaan otettuna viranhaltijana ei muutu;\n\n- perusteena on toiminnan tai tehtävien uudelleenjärjestely; ja\n\n- viranhaltijan varsinainen palkka ei alene.\n\nTällöin työnantaja voi arvioida, että kyseessä on sellainen organisaatiomuutokseen liittyvä tilanne, jossa viranhaltija voidaan siirtää uuteen virkaan viranhaltijalain 24 §:n nojalla. Viranhaltijan vastustus ei estä työnantajaa tekemästä lainmukaista päätöstä. Jos muutoksen edellytykset täyttyvät viranhaltijalain 24 §:n perusteella ja viranhaltijan kuuleminen on toteutettu, työnantaja voi tehdä päätöksen viranhaltijan kannasta huolimatta. Viranhaltijalla on tämän jälkeen käytettävissään normaalit muutoksenhakukeinot.\n\nJos uusi virka täytetään viranhaltijalain 24 §:n mukaisella siirrolla, virkaa ei voi julistaa haettavaksi.\n\nViranhaltijalain 24 § ei mahdollista siirtoa, jos virka on olennaisesti erilainen tai uuden, perustettavan viran palkka matalampi. Tällöin kyse ei olisi enää 24 §:n tarkoittamasta yksipuolisesta siirtotilanteesta, mutta viranhaltijan suostumuksen perusteella työnantaja voi siirtää uuteen virkaan.\n\nAluehallitus on samassa kokouksessa perustanut terveys- ja turvallisuusjohtajan viran 1.1.2027 lukien. Yleisten palveluiden toimialajohtajan virka tulee lakkautettavaksi aluehallituksen päätöksen 7.9.2026 § 270 johdosta.\n\nJari Saarinen täyttää terveys- ja turvallisuusjohtajan viran kelpoisuusvaatimukset ja virkaa voidaan pitää hänelle sopivana hänen koulutuksensa, johtamiskokemuksensa sekä nykyisten tehtäviensä perusteella. Hänen asemansa toistaiseksi otettuna viranhaltijana ei muutu. Perusteena on organisaation johtamisjärjestelmän, toiminnan ja tehtävien uudelleenjärjestelyyn liittyvä perusteltu syy. Hänen varsinainen palkkansa ei alene. Suunnitellun siirron perusteena on johtamisjärjestelmän, toiminnan ja tehtävien uudelleenjärjestely. Työnantajan arvion mukaan viranhaltijalain 24 §:n edellytykset siirrolle täyttyvät.\n\nJos viranhaltijan virka lakkaa, ja jos häntä ei viranhaltijalain 24 §:n nojalla siirretä toiseen virkaan, viranhaltija tulisi irtisanottavaksi viranhaltijalain 37 §:n nojalla. Viranhaltijalain 37 §:n mukaisessa tilanteessa työnantajan tulee selvittää, onko viranhaltijalle tarjolla muuta virkasuhdetta tai työsuhteista tehtävää, johon hänet voidaan sijoittaa ottaen huomioon hänen koulutuksensa, ammattitaitonsa ja kokemuksensa. Jos viranhaltija hyväksyy uuden tarjotun tehtävän, asia ratkeaa käytännössä sijoittamalla hänet uuteen virkaan.\n\nEdellä esitetyn perusteella, siinäkin tapauksessa, että nyt käsiteltävänä olevaa viran täyttämistä ei toteutettaisi virkasiirrolla, hyvinvointialueen olisi tarjottava puheena olevaa virkaa viranhaltijalle korvaavana tehtävänä johtamisrakenteen muutosten johdosta.\n\nViranhaltija on antanut suostumuksensa virkasiirtoon. Viranhaltijalle on varattu kunnan ja hyvinvointialueen viranhaltijasta annetun lain 24 §:n mukainen tilaisuus tulla kuulluksi suunnitellusta virkasiirrosta ennen asian ratkaisemista. Viranhaltijalle on annettu mahdollisuus toimittaa kirjallinen lausuma 16.9.2026 klo 16.00 mennessä. Viranhaltija ei ole määräaikaan mennessä vastustanut siirtoa tai tuonut esille seikkoja, jotka antaisivat aihetta arvioida virkasiirtoa toisin.",
+   "decision": "Merkitään pöytäkirjaan, että:\n\n- Janne Niemeläinen, Henna Räsänen, Jussi Lampi, Kati Kantanen, Eija Jestola, Jari Saarinen, Kirsi Solmari, Jukka Koponen, Sami Remes ja Tuomo Pekkarinen ilmoittivat olevansa esteellisiä (HL 28.1. kohta 1) ja poistuivat kokouksesta asian käsittelyn ja päätöksenteon ajaksi klo 10.23-10.24.\n\n- pöytäkirjanpitäjänä toimii Virpi Kauppinen\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nMarko Korhonen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n- Janne Niemeläinen, Henna Räsänen, Jussi Lampi, Kati Kantanen, Eija Jestola, Jari Saarinen, Kirsi Solmari, Jukka Koponen, Sami Remes ja Tuomo Pekkarinen ilmoittivat olevansa esteellisiä (HL 28.1. kohta 1) ja poistuivat kokouksesta asian käsittelyn ja päätöksenteon ajaksi klo 10.23-10.24.\n\n- pöytäkirjanpitäjänä toimii Virpi Kauppinen\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää siirtää Jari Saarisen yleisten palveluiden toimialajohtajan virasta aluehallituksen perustamaan uuteen terveys- ja turvallisuusjohtajan virkaan viranhaltijalain 24 §:n nojalla 1.1.2027 lukien.\n\nToimivallan peruste\nHallintosääntö § 64, § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\n\nAluehallitus on hyväksynyt uuden johtamisen rakenteen päämallin kokouksessaan 7.9.2026 § 270 ja kokouksessaan 21.9.2026 perustanut virat § 289 sekä vahvistanut kunkin viran kelpoisuusehdot.\n\nAluehallituksen 7.9.2026 § 270 päätöksen johdosta nykyisiä johtajavirkoja tullaan lakkauttamaan.\n\nAluehallitus on vahvistanut johtamisjärjestelmän uudistamisen päärakennetta ja siihen liittyviä virkajärjestelyjä koskevan neuvottelutuloksen ja samalla kyseessä olevat nykyisen johtamisrakenteen tasojen 1 ja 2 virkojen täyttömenettelyn.\n\nViranhaltijalain määräykset koskien viranhaltijan siirtämistä toiseen virkasuhteeseen organisaatiomuutoksessa:\n\nKunnan ja hyvinvointialueen viranhaltijasta annetun lain (304/2003, viranhaltijalaki) 24 § mahdollistaa viranhaltijan siirtämisen toiseen virkasuhteeseen organisaatiomuutoksissa, joissa virkoja lakkautetaan ja tilalle perustetaan uusia. Viranhaltijalain 24 § mahdollistaa viranhaltijan siirtämisen uuteen virkaan ilman hänen suostumustaan, jos:\n\n- kelpoisuusvaatimukset täyttyvät;\n\n- virkaa voidaan pitää viranhaltijalle sopivana;\n\n- asema toistaiseksi virkaan otettuna viranhaltijana ei muutu;\n\n- perusteena on toiminnan tai tehtävien uudelleenjärjestely; ja\n\n- viranhaltijan varsinainen palkka ei alene.\n\nTällöin työnantaja voi arvioida, että kyseessä on sellainen organisaatiomuutokseen liittyvä tilanne, jossa viranhaltija voidaan siirtää uuteen virkaan viranhaltijalain 24 §:n nojalla. Viranhaltijan vastustus ei estä työnantajaa tekemästä lainmukaista päätöstä. Jos muutoksen edellytykset täyttyvät viranhaltijalain 24 §:n perusteella ja viranhaltijan kuuleminen on toteutettu, työnantaja voi tehdä päätöksen viranhaltijan kannasta huolimatta. Viranhaltijalla on tämän jälkeen käytettävissään normaalit muutoksenhakukeinot.\n\nJos uusi virka täytetään viranhaltijalain 24 §:n mukaisella siirrolla, virkaa ei voi julistaa haettavaksi.\n\nViranhaltijalain 24 § ei mahdollista siirtoa, jos virka on olennaisesti erilainen tai uuden, perustettavan viran palkka matalampi. Tällöin kyse ei olisi enää 24 §:n tarkoittamasta yksipuolisesta siirtotilanteesta, mutta viranhaltijan suostumuksen perusteella työnantaja voi siirtää uuteen virkaan.\n\nAluehallitus on samassa kokouksessa perustanut terveys- ja turvallisuusjohtajan viran 1.1.2027 lukien. Yleisten palveluiden toimialajohtajan virka tulee lakkautettavaksi aluehallituksen päätöksen 7.9.2026 § 270 johdosta.\n\nJari Saarinen täyttää terveys- ja turvallisuusjohtajan viran kelpoisuusvaatimukset ja virkaa voidaan pitää hänelle sopivana hänen koulutuksensa, johtamiskokemuksensa sekä nykyisten tehtäviensä perusteella. Hänen asemansa toistaiseksi otettuna viranhaltijana ei muutu. Perusteena on organisaation johtamisjärjestelmän, toiminnan ja tehtävien uudelleenjärjestelyyn liittyvä perusteltu syy. Hänen varsinainen palkkansa ei alene. Suunnitellun siirron perusteena on johtamisjärjestelmän, toiminnan ja tehtävien uudelleenjärjestely. Työnantajan arvion mukaan viranhaltijalain 24 §:n edellytykset siirrolle täyttyvät.\n\nJos viranhaltijan virka lakkaa, ja jos häntä ei viranhaltijalain 24 §:n nojalla siirretä toiseen virkaan, viranhaltija tulisi irtisanottavaksi viranhaltijalain 37 §:n nojalla. Viranhaltijalain 37 §:n mukaisessa tilanteessa työnantajan tulee selvittää, onko viranhaltijalle tarjolla muuta virkasuhdetta tai työsuhteista tehtävää, johon hänet voidaan sijoittaa ottaen huomioon hänen koulutuksensa, ammattitaitonsa ja kokemuksensa. Jos viranhaltija hyväksyy uuden tarjotun tehtävän, asia ratkeaa käytännössä sijoittamalla hänet uuteen virkaan.\n\nEdellä esitetyn perusteella, siinäkin tapauksessa, että nyt käsiteltävänä olevaa viran täyttämistä ei toteutettaisi virkasiirrolla, hyvinvointialueen olisi tarjottava puheena olevaa virkaa viranhaltijalle korvaavana tehtävänä johtamisrakenteen muutosten johdosta.\n\nViranhaltija on antanut suostumuksensa virkasiirtoon. Viranhaltijalle on varattu kunnan ja hyvinvointialueen viranhaltijasta annetun lain 24 §:n mukainen tilaisuus tulla kuulluksi suunnitellusta virkasiirrosta ennen asian ratkaisemista. Viranhaltijalle on annettu mahdollisuus toimittaa kirjallinen lausuma 16.9.2026 klo 16.00 mennessä. Viranhaltija ei ole määräaikaan mennessä vastustanut siirtoa tai tuonut esille seikkoja, jotka antaisivat aihetta arvioida virkasiirtoa toisin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "294",
+   "title": "Perhe- ja vammaispalvelujen toimialajohtajan siirtäminen hyvinvointi- ja hoivajohtajan virkaan",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-10",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-10.PDF",
+   "diary_number": "1489/01.00.03/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää siirtää Kati Kantasen perhe- ja vammaispalveluiden toimialajohtajan virasta aluehallituksen perustamaan uuteen hyvinvointi- ja hoivajohtajan virkaan viranhaltijalain 24 §:n nojalla 1.1.2027 lukien.\n\nToimivallan peruste\nHallintosääntö § 64, § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\n\nAluehallitus on hyväksynyt uuden johtamisen rakenteen päämallin kokouksessaan 7.9.2026 § 270 ja kokouksessaan 21.9.2026 perustanut virat § 289 sekä vahvistanut kunkin viran kelpoisuusehdot.\n\nAluehallituksen 7.9.2026 § 270 päätöksen johdosta nykyisiä johtajavirkoja tullaan lakkauttamaan.\n\nAluehallitus on vahvistanut johtamisjärjestelmän uudistamisen päärakennetta ja siihen liittyviä virkajärjestelyjä koskevan neuvottelutuloksen ja samalla kyseessä olevat nykyisen johtamisrakenteen tasojen 1 ja 2 virkojen täyttömenettelyn.\n\nViranhaltijalain määräykset koskien viranhaltijan siirtämistä toiseen virkasuhteeseen organisaatiomuutoksessa:\n\nKunnan ja hyvinvointialueen viranhaltijasta annetun lain (304/2003, viranhaltijalaki) 24 § mahdollistaa viranhaltijan siirtämisen toiseen virkasuhteeseen organisaatiomuutoksissa, joissa virkoja lakkautetaan ja tilalle perustetaan uusia. Viranhaltijalain 24 § mahdollistaa viranhaltijan siirtämisen uuteen virkaan ilman hänen suostumustaan, jos:\n\n- kelpoisuusvaatimukset täyttyvät;\n\n- virkaa voidaan pitää viranhaltijalle sopivana;\n\n- asema toistaiseksi virkaan otettuna viranhaltijana ei muutu;\n\n- perusteena on toiminnan tai tehtävien uudelleenjärjestely; ja\n\n- viranhaltijan varsinainen palkka ei alene.\n\nTällöin työnantaja voi arvioida, että kyseessä on sellainen organisaatiomuutokseen liittyvä tilanne, jossa viranhaltija voidaan siirtää uuteen virkaan viranhaltijalain 24 §:n nojalla. Viranhaltijan vastustus ei estä työnantajaa tekemästä lainmukaista päätöstä. Jos muutoksen edellytykset täyttyvät viranhaltijalain 24 §:n perusteella ja viranhaltijan kuuleminen on toteutettu, työnantaja voi tehdä päätöksen viranhaltijan kannasta huolimatta. Viranhaltijalla on tämän jälkeen käytettävissään normaalit muutoksenhakukeinot.\n\nJos uusi virka täytetään viranhaltijalain 24 §:n mukaisella siirrolla, virkaa ei voi julistaa haettavaksi.\n\nViranhaltijalain 24 § ei mahdollista siirtoa, jos virka on olennaisesti erilainen tai uuden, perustettavan viran palkka matalampi. Tällöin kyse ei olisi enää 24 §:n tarkoittamasta yksipuolisesta siirtotilanteesta, mutta viranhaltijan suostumuksen perusteella työnantaja voi siirtää uuteen virkaan.\n\nAluehallitus on samassa kokouksessa perustanut hyvinvointi- ja hoivajohtajan viran 1.1.2027 lukien. Perhe- ja vammaispalveluiden toimialajohtajan virka tulee lakkautettavaksi aluehallituksen päätöksen 7.9.2026 § 270 johdosta.\n\nKati Kantanen täyttää hyvinvointi- ja hoivajohtajan viran kelpoisuusvaatimukset ja virkaa voidaan pitää hänelle sopivana hänen koulutuksensa, johtamiskokemuksensa sekä nykyisten tehtäviensä perusteella. Hänen asemansa toistaiseksi otettuna viranhaltijana ei muutu. Perusteena on organisaation johtamisjärjestelmän, toiminnan ja tehtävien uudelleenjärjestelyyn liittyvä perusteltu syy. Hänen varsinainen palkkansa ei alene. Suunnitellun siirron perusteena on johtamisjärjestelmän, toiminnan ja tehtävien uudelleenjärjestely. Työnantajan arvion mukaan viranhaltijalain 24 §:n edellytykset siirrolle täyttyvät.\n\nJos viranhaltijan virka lakkaa, ja jos häntä ei viranhaltijalain 24 §:n nojalla siirretä toiseen virkaan, viranhaltija tulisi irtisanottavaksi viranhaltijalain 37 §:n nojalla. Viranhaltijalain 37 §:n mukaisessa tilanteessa työnantajan tulee selvittää, onko viranhaltijalle tarjolla muuta virkasuhdetta tai työsuhteista tehtävää, johon hänet voidaan sijoittaa ottaen huomioon hänen koulutuksensa, ammattitaitonsa ja kokemuksensa. Jos viranhaltija hyväksyy uuden tarjotun tehtävän, asia ratkeaa käytännössä sijoittamalla hänet uuteen virkaan.\n\nEdellä esitetyn perusteella, siinäkin tapauksessa, että nyt käsiteltävänä olevaa viran täyttämistä ei toteutettaisi virkasiirrolla, hyvinvointialueen olisi tarjottava puheena olevaa virkaa viranhaltijalle korvaavana tehtävänä johtamisrakenteen muutosten johdosta.\n\nViranhaltija on antanut suostumuksensa virkasiirtoon. Viranhaltijalle on varattu kunnan ja hyvinvointialueen viranhaltijasta annetun lain 24 §:n mukainen tilaisuus tulla kuulluksi suunnitellusta virkasiirrosta ennen asian ratkaisemista. Viranhaltijalle on annettu mahdollisuus toimittaa kirjallinen lausuma 16.9.2026 klo 16.00 mennessä. Viranhaltija ei ole määräaikaan mennessä vastustanut siirtoa tai tuonut esille seikkoja, jotka antaisivat aihetta arvioida virkasiirtoa toisin.",
+   "decision": "Merkitään pöytäkirjaan, että:\n\n- Janne Niemeläinen, Henna Räsänen, Jussi Lampi, Kati Kantanen, Eija Jestola, Jari Saarinen, Kirsi Solmari, Jukka Koponen, Sami Remes ja Tuomo Pekkarinen ilmoittivat olevansa esteellisiä (HL 28.1. kohta 1) ja poistuivat kokouksesta asian käsittelyn ja päätöksenteon ajaksi klo 10.25-10.26.\n\n- pöytäkirjanpitäjänä toimii Virpi Kauppinen\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nMarko Korhonen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n- Janne Niemeläinen, Henna Räsänen, Jussi Lampi, Kati Kantanen, Eija Jestola, Jari Saarinen, Kirsi Solmari, Jukka Koponen, Sami Remes ja Tuomo Pekkarinen ilmoittivat olevansa esteellisiä (HL 28.1. kohta 1) ja poistuivat kokouksesta asian käsittelyn ja päätöksenteon ajaksi klo 10.25-10.26.\n\n- pöytäkirjanpitäjänä toimii Virpi Kauppinen\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää siirtää Kati Kantasen perhe- ja vammaispalveluiden toimialajohtajan virasta aluehallituksen perustamaan uuteen hyvinvointi- ja hoivajohtajan virkaan viranhaltijalain 24 §:n nojalla 1.1.2027 lukien.\n\nToimivallan peruste\nHallintosääntö § 64, § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\n\nAluehallitus on hyväksynyt uuden johtamisen rakenteen päämallin kokouksessaan 7.9.2026 § 270 ja kokouksessaan 21.9.2026 perustanut virat § 289 sekä vahvistanut kunkin viran kelpoisuusehdot.\n\nAluehallituksen 7.9.2026 § 270 päätöksen johdosta nykyisiä johtajavirkoja tullaan lakkauttamaan.\n\nAluehallitus on vahvistanut johtamisjärjestelmän uudistamisen päärakennetta ja siihen liittyviä virkajärjestelyjä koskevan neuvottelutuloksen ja samalla kyseessä olevat nykyisen johtamisrakenteen tasojen 1 ja 2 virkojen täyttömenettelyn.\n\nViranhaltijalain määräykset koskien viranhaltijan siirtämistä toiseen virkasuhteeseen organisaatiomuutoksessa:\n\nKunnan ja hyvinvointialueen viranhaltijasta annetun lain (304/2003, viranhaltijalaki) 24 § mahdollistaa viranhaltijan siirtämisen toiseen virkasuhteeseen organisaatiomuutoksissa, joissa virkoja lakkautetaan ja tilalle perustetaan uusia. Viranhaltijalain 24 § mahdollistaa viranhaltijan siirtämisen uuteen virkaan ilman hänen suostumustaan, jos:\n\n- kelpoisuusvaatimukset täyttyvät;\n\n- virkaa voidaan pitää viranhaltijalle sopivana;\n\n- asema toistaiseksi virkaan otettuna viranhaltijana ei muutu;\n\n- perusteena on toiminnan tai tehtävien uudelleenjärjestely; ja\n\n- viranhaltijan varsinainen palkka ei alene.\n\nTällöin työnantaja voi arvioida, että kyseessä on sellainen organisaatiomuutokseen liittyvä tilanne, jossa viranhaltija voidaan siirtää uuteen virkaan viranhaltijalain 24 §:n nojalla. Viranhaltijan vastustus ei estä työnantajaa tekemästä lainmukaista päätöstä. Jos muutoksen edellytykset täyttyvät viranhaltijalain 24 §:n perusteella ja viranhaltijan kuuleminen on toteutettu, työnantaja voi tehdä päätöksen viranhaltijan kannasta huolimatta. Viranhaltijalla on tämän jälkeen käytettävissään normaalit muutoksenhakukeinot.\n\nJos uusi virka täytetään viranhaltijalain 24 §:n mukaisella siirrolla, virkaa ei voi julistaa haettavaksi.\n\nViranhaltijalain 24 § ei mahdollista siirtoa, jos virka on olennaisesti erilainen tai uuden, perustettavan viran palkka matalampi. Tällöin kyse ei olisi enää 24 §:n tarkoittamasta yksipuolisesta siirtotilanteesta, mutta viranhaltijan suostumuksen perusteella työnantaja voi siirtää uuteen virkaan.\n\nAluehallitus on samassa kokouksessa perustanut hyvinvointi- ja hoivajohtajan viran 1.1.2027 lukien. Perhe- ja vammaispalveluiden toimialajohtajan virka tulee lakkautettavaksi aluehallituksen päätöksen 7.9.2026 § 270 johdosta.\n\nKati Kantanen täyttää hyvinvointi- ja hoivajohtajan viran kelpoisuusvaatimukset ja virkaa voidaan pitää hänelle sopivana hänen koulutuksensa, johtamiskokemuksensa sekä nykyisten tehtäviensä perusteella. Hänen asemansa toistaiseksi otettuna viranhaltijana ei muutu. Perusteena on organisaation johtamisjärjestelmän, toiminnan ja tehtävien uudelleenjärjestelyyn liittyvä perusteltu syy. Hänen varsinainen palkkansa ei alene. Suunnitellun siirron perusteena on johtamisjärjestelmän, toiminnan ja tehtävien uudelleenjärjestely. Työnantajan arvion mukaan viranhaltijalain 24 §:n edellytykset siirrolle täyttyvät.\n\nJos viranhaltijan virka lakkaa, ja jos häntä ei viranhaltijalain 24 §:n nojalla siirretä toiseen virkaan, viranhaltija tulisi irtisanottavaksi viranhaltijalain 37 §:n nojalla. Viranhaltijalain 37 §:n mukaisessa tilanteessa työnantajan tulee selvittää, onko viranhaltijalle tarjolla muuta virkasuhdetta tai työsuhteista tehtävää, johon hänet voidaan sijoittaa ottaen huomioon hänen koulutuksensa, ammattitaitonsa ja kokemuksensa. Jos viranhaltija hyväksyy uuden tarjotun tehtävän, asia ratkeaa käytännössä sijoittamalla hänet uuteen virkaan.\n\nEdellä esitetyn perusteella, siinäkin tapauksessa, että nyt käsiteltävänä olevaa viran täyttämistä ei toteutettaisi virkasiirrolla, hyvinvointialueen olisi tarjottava puheena olevaa virkaa viranhaltijalle korvaavana tehtävänä johtamisrakenteen muutosten johdosta.\n\nViranhaltija on antanut suostumuksensa virkasiirtoon. Viranhaltijalle on varattu kunnan ja hyvinvointialueen viranhaltijasta annetun lain 24 §:n mukainen tilaisuus tulla kuulluksi suunnitellusta virkasiirrosta ennen asian ratkaisemista. Viranhaltijalle on annettu mahdollisuus toimittaa kirjallinen lausuma 16.9.2026 klo 16.00 mennessä. Viranhaltija ei ole määräaikaan mennessä vastustanut siirtoa tai tuonut esille seikkoja, jotka antaisivat aihetta arvioida virkasiirtoa toisin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "295",
+   "title": "Strategisten ohjelmien valmistelu - Tutkimus-, koulutus-, kehittämis-, innovaatio- ja osaamistoiminnan (TKKIO) strateginen ohjelma",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-11",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-11.PDF",
+   "diary_number": "660/00.01.02.04/2022",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Tulevaisuus- ja strategiajaosto merkitsee tiedoksi katsauksen TKKIO-ohjelman valmistelusta.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 38\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nPohjois-Savon hyvinvointialueen aluevaltuusto hyväksyi lokakuussa 2025 hyvinvointialueen strategian (Avalt 06.10.2025 § 72 ). Vuoden 2026 aikana strategiatyö jatkui strategian toimeenpanosuunnitelman valmistelulla, jonka aluehallitus hyväksyi helmikuussa 2026 (Ahall 09.02.2026 § 42).\n\nStrategian toimeenpanosuunnitelma kuvasi hyvinvointialueen strategian seurannassa käytettävät mittarit ja sen toimeenpanoa varten suunniteltavat strategiset ohjelmat sekä strategian juurruttamisen ja viestinnän periaatteet.\n\nVuoden 2026 aikaan valmistellaan seuraavat strategista ohjelmaa:\n\n- SOTE-Palvelustrategia (päivitys)\n\n- Henkilöstöohjelma\n\n- Digitalisaation ja ICMT-palveluiden kehittämisen tiekartta\n\n- Tutkimus, kehitys, koulutus ja innovaatio (TKKI)\n\nTutkimus- ja innovaatiojohtaja Juha Töyräs antaa kokouksessa tilannekatsauksen TKKI-ohjelman valmisteluun.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJuha Töyräs\n\nJussi Lampi, strategiajohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä Tutkimus-, koulutus-, kehittämis-, innovaatio- ja osaamistoiminnan (TKKIO) strategisen ohjelman (liite) ja käynnistää sen toimeenpanon.\n\nEnnakkovaikutusten arviointi\n\nTKKIO-ohjelman reunaehdot ja riskit ovat kuvattu ohjelmassa (liite)\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- TKKIO-toiminnan strateginen ohjelma\n\nValmistelu\nTKKIO-toiminnan strategista ohjelmaa on valmisteltu Tutkimuksen palvelualueen ja Tutkimus- ja innovaatiojohtajan vetämänä tiiviissä yhteistyössä Koulutuksen palvelualueen sekä Hankevoimalan kanssa. Ohjelma linjautuu sekä Pohjois-Savon hyvinvointialueen strategiaan sekä parhaillaan valmistelussa olevaan Itä-Suomen yhteistyöalueen yhteistyösopimukseen ja sen TKKIO-osioon.\n\nStrategista ohjelmaa valmisteltaessa on kuultu Pohjois-Savon hyvinvointialueen TKKI-ohjausryhmää sekä Itä-Suomen YTA:n TKKI-yhteistyöryhmää, joissa keskeiset sidosryhmät ovat edustettuina. Tämän lisäksi valmistelussa hyödynnettiin henkilöstökyselyä. TKKIO-ohjelman luonnosta on esitelty tulevaisuus- ja strategiajaostossa, YT-toimielimessä, hyvinvointialueen johtoryhmässä sekä hyvinvointialueen hallituksen seminaarissa.\n\nTKKIO-ohjelma\n\nTKKIO-toiminnan strategisessa ohjelmassa (liite) esitetään 9 konkreettista tavoitetta ja niiden toimeenpanosuunnitelmat, joilla mahdollistetaan Pohjois-Savon hyvinvointialueen yliopistollisen statuksen vahvistuminen, veto- ja pitovoiman paraneminen, henkilöstön riittävyyden turvaaminen, tulopohjan merkittävä laajentuminen sekä alueellisen elinvoiman merkittävä kehittyminen.\n\nOhjelman keskeiset tavoitteet ovat:\n\nTavoite 1: Pohjois-Savon hyvinvointialueen nostaminen tieteellisesti heikoimman yliopistollisen hyvinvointialueen asemasta ja tieteellisen tutkimuksen levittäminen koko hyvinvointialueelle.\n\nTavoite 2: Tiedepalveluiden vahvistaminen ja kehittäminen.\n\nTavoite 3: Ulkoisen tutkimusrahoituksen määrän kaksinkertaistaminen ja tutkimusaktiivisuuden vakiinnuttaminen.\n\nTavoite 4: Yritysyhteistyön ja kliinisten lääketutkimusten määrän moninkertaistaminen.\n\nTavoite 5: Vaikuttavuustieto sosiaali- ja hyvinvointipalvelujen perustaksi: rekisteridatan tutkimuskäytön kaksinkertaistaminen.\n\nTavoite 6: Avoimen innovaatioekosysteemin perustaminen ja kaupallistamisen pysyvien rakenteiden luominen.\n\nTavoite 7: Henkilöstön osaamistarpeiden kartoitus ja osaamisen kehittämisen kokonaissuunnitelman laatiminen.\n\nTavoite 8: Tavoitteellisen ja monialaisen opiskelijatoiminnan kehittäminen: laadukkaat ja ohjatut oppimisympäristöt sekä vaikuttavat rekrytointi- ja urapolut.\n\nTavoite 9: Kehittämisen kyvykkyyden kasvattaminen ja kehittämistoiminnan tukeminen.\n\nTulstrja 20.08.2026 § 34\n\nValmistelija(t)\nJuha Töyräs\n\nJussi Lampi, strategiajohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "strategiajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Tulevaisuus- ja strategiajaosto merkitsee tiedoksi katsauksen TKKIO-ohjelman valmistelusta.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 38\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nPohjois-Savon hyvinvointialueen aluevaltuusto hyväksyi lokakuussa 2025 hyvinvointialueen strategian (Avalt 06.10.2025 § 72 ). Vuoden 2026 aikana strategiatyö jatkui strategian toimeenpanosuunnitelman valmistelulla, jonka aluehallitus hyväksyi helmikuussa 2026 (Ahall 09.02.2026 § 42).\n\nStrategian toimeenpanosuunnitelma kuvasi hyvinvointialueen strategian seurannassa käytettävät mittarit ja sen toimeenpanoa varten suunniteltavat strategiset ohjelmat sekä strategian juurruttamisen ja viestinnän periaatteet.\n\nVuoden 2026 aikaan valmistellaan seuraavat strategista ohjelmaa:\n\n- SOTE-Palvelustrategia (päivitys)\n\n- Henkilöstöohjelma\n\n- Digitalisaation ja ICMT-palveluiden kehittämisen tiekartta\n\n- Tutkimus, kehitys, koulutus ja innovaatio (TKKI)\n\nTutkimus- ja innovaatiojohtaja Juha Töyräs antaa kokouksessa tilannekatsauksen TKKI-ohjelman valmisteluun."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 TKKIO-ohjelma 2026, Ahall 21092026",
+     "url": "https://pshva.oncloudos.com/kokous/20261130-11-286732.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "296",
+   "title": "Strategisten ohjelmien valmistelu - Henkilöstöohjelma",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-12",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-12.PDF",
+   "diary_number": "660/00.01.02.04/2022",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Tulevaisuus ja strategiajaosto merkitsee tiedoksi katsauksen henkilöstöohjelman valmistelusta.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 38\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nPohjois-Savon hyvinvointialueen aluevaltuusto hyväksyi lokakuussa 2025 hyvinvointialueen strategian (Avalt 06.10.2025 § 72 ). Vuoden 2026 aikana strategiatyö jatkui strategian toimeenpanosuunnitelman valmistelulla, jonka aluehallitus hyväksyi helmikuussa 2026 (Ahall 09.02.2026 § 42).\n\nStrategian toimeenpanosuunnitelma kuvasi hyvinvointialueen strategian seurannassa käytettävät mittarit ja sen toimeenpanoa varten suunniteltavat strategiset ohjelmat sekä strategian juurruttamisen ja viestinnän periaatteet.\n\nVuoden 2026 aikaan valmistellaan seuraavat strategista ohjelmaa:\n\n- SOTE-Palvelustrategia (päivitys)\n\n- Henkilöstöohjelma\n\n- Digitalisaation ja ICMT-palveluiden kehittämisen tiekartta\n\n- Tutkimus, kehitys, koulutus ja innovaatio (TKKI)\n\nTyöyhteisövalmentaja Hanna Ripaoja antaa kokouksessa tilannekatsauksen henkilöstöohjelman valmisteluun.",
+   "decision": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että Juha Töyräs, Hanna Ripaoja ja Mervi Paakkinen poistuivat klo 11.15",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nMari Antikainen\n\nJussi Lampi, strategiajohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n- Mari Antikainen oli läsnä kokouksessa asian käsittelyn ja päätöksenteon ajan klo 10.34-10.45\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä strategisen henkilöstöohjelman 2026-2029 ja käynnistää sen toimeenpanon.\n\nEnnakkovaikutusten arviointi\n\nOhjelman seuranta ja arvionti on kuvattu liitteessä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä: Yhtä joukkuetta – henkilöstöohjelma vuosille 2026-2029\n\nValmistelu\nHR strategista ohjelmaa on valmisteltu yhteistyössä sekä eri sidosryhmien että henkilöstöjärjestöjen edustajien kanssa. Lisäksi henkilöstölle on suunnattu kysely heidän toiveistaan HR ohjelmaan tulevalle kaudelle.\n\nOhjelman tavoitteet on johdettu suoraan hyvinvointialueen uudesta strategiasta ja ohjelman rakentamisessa on huomioitu henkilöstöhallinnon kansalliset kehittämistrendit mm. raportointivelvoitteista.\n\nHenkilöstöohjelman luonnos on esitelty tulevaisuus- ja strategiajaostossa, YT-toimielimessä, hyvinvointialueen johtoryhmässä sekä hyvinvointialueen aluehallituksen seminaarissa.\n\nHenkilöstöohjelman keskeiset päätavoitteet\n\nHenkilöstöohjelmassa (liite) esitetään 5 konkreettista päätavoitetta. Päätavoitteille rakentuu erilliset toimeenpanosuunnitelmat, joilla mahdollistetaan Pohjois-Savon hyvinvointialueen henkilöstöpoliittisten toimien ja henkilöstövoimavarojen mahdollistuminen.\n\nOhjelman keskeiset strategiset päätavoitteet ovat:\n\nStrategiset päätavoitteet:\n\nHyvinvointi on joukkueemme perusvoimavara.\n\nVakiinnutamme yhdenmukaisen johtamisen ja valmentavan työkulttuurin.\n\nHenkilöstösuunnittelumme on ennakoivaa, systemaattista ja perustuu palvelutarvelähtöisyyteen.\n\nPohjois-Savon hyvinvointialueen oppimisen ja osaamisen ekosysteemi tukee jatkuvaa ja ennakoivaa osaamisen kehittämistä.\n\nHenkilöstötiedolla johtaminen perustuu tiedolla johtamiseen ja tuottaa vaikuttavia HR-toimintamallieja.\n\nTulstrja 20.08.2026 § 35\n\nValmistelija(t)\nMari Antikainen\n\nJussi Lampi, strategiajohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että Juha Töyräs, Hanna Ripaoja ja Mervi Paakkinen poistuivat klo 11.15"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "strategiajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Tulevaisuus ja strategiajaosto merkitsee tiedoksi katsauksen henkilöstöohjelman valmistelusta.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 38\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nPohjois-Savon hyvinvointialueen aluevaltuusto hyväksyi lokakuussa 2025 hyvinvointialueen strategian (Avalt 06.10.2025 § 72 ). Vuoden 2026 aikana strategiatyö jatkui strategian toimeenpanosuunnitelman valmistelulla, jonka aluehallitus hyväksyi helmikuussa 2026 (Ahall 09.02.2026 § 42).\n\nStrategian toimeenpanosuunnitelma kuvasi hyvinvointialueen strategian seurannassa käytettävät mittarit ja sen toimeenpanoa varten suunniteltavat strategiset ohjelmat sekä strategian juurruttamisen ja viestinnän periaatteet.\n\nVuoden 2026 aikaan valmistellaan seuraavat strategista ohjelmaa:\n\n- SOTE-Palvelustrategia (päivitys)\n\n- Henkilöstöohjelma\n\n- Digitalisaation ja ICMT-palveluiden kehittämisen tiekartta\n\n- Tutkimus, kehitys, koulutus ja innovaatio (TKKI)\n\nTyöyhteisövalmentaja Hanna Ripaoja antaa kokouksessa tilannekatsauksen henkilöstöohjelman valmisteluun."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Yhtä joukkuetta-henkilöstöohjelma 2026–2029, Ahall 21092026",
+     "url": "https://pshva.oncloudos.com/kokous/20261130-12-285972.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "297",
+   "title": "Oikaisuvaatimus rakentamislupa 26-0465-RL, Kiinteistö Oy Kuopion Opistokuja 4",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-13",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-13.PDF",
+   "diary_number": "5126/10.01/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää lähettää oheisen oikaisuvaatimuksen Kuopion kaupungin ympäristö- ja rakennuslautakunnalle koskien Kuopion kaupungin alueellisen rakennusvalvonnan päätöstä § 436.\n\nEnnakkovaikutusten arviointi\n\nJäädessään voimaan sellaisenaan, rakennusvalvonnan päätös § 436 vaikuttaisi välittömästi hyvinvointialueen velvollisuuteen järjestää ja tuottaa pelastustoimen palveluita.\n\nOikaisuvaatimuksella on mahdollinen vaikutus hyvinvointialueen pelastuslaitoksen mahdollisuuksiin toteuttaa lakisääteinen pelastustehtävä turvallisesti ja tarkoituksenmukaisesti sekä varmistaa, ettei uudisrakennusten henkilöturvallisuus perustu pelastuslaitoksen välittömään toimintavalmiuteen tilanteissa, joissa sitä ei voida kaikissa olosuhteissa taata.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Rakentamislupa 26-0465\n\n- Oikaisuvaatimus 26-0465 RL\n\nEsityslistan oheisaineistona:\n\nValmistelu\nKuopion kaupungin alueellinen rakennusvalvonta on 24.8.2026 myöntänyt rakentamisluvat kahdelle uudelle 8-kerroksiselle asuinkerrostalolle osoitteissa Opistokuja 2 (§ 437, lupatunnus 26-0466-RL) ja Opistokuja 4 (§ 436, lupatunnus 26-0465-RL). Molemmat rakennukset ovat P1-paloluokan asuinrakennuksia.\n\nHankkeessa on esitetty pelastusviranomaisen asiantuntijanäkemyksestä poikkeava vaihtoehtoinen poistumis- ja pelastautumisjärjestely (varatie). Rakennusvalvonnan päätöksen § 436 mukaan pelastuslaitos ei ole puoltanut esitettyä ratkaisua. Hakemusten yhteydessä on kuitenkin esitetty paloteknisten suunnittelijoiden lausuntoja, joiden perusteella rakennusvalvonta on katsonut ratkaisun täyttävän rakentamista koskevat paloturvallisuusvaatimukset ja myöntänyt rakentamisluvat.\n\nRakentamislain 32 § edellyttää, että rakennuksessa olevat voivat palon sattuessa poistua tai heidät voidaan pelastaa ja että myös pelastushenkilöstön turvallisuus otetaan huomioon. Asetuksen 848/2017 ja sen perustelumuistion mukaan myös pelastuslaitoksen toimenpiteisiin perustuva varatie on mahdollinen ratkaisu, mutta tällöin pelastuslaitoksen toimintaedellytykset on otettava huomioon varatien suunnittelussa ja rakentamisessa. Lisäksi poistumis- ja pelastamismahdollisuuksien riittävyys on arvioitava suhteessa vaarallisten palo-olosuhteiden kehittymiseen.\n\nHyvinvointialue ei puolla ratkaisua, jossa rakennuksen henkilöiden turvallinen pelastautuminen on olennaisilta osin riippuvainen pelastuslaitoksen nostolava- tai muun erityiskaluston käytöstä. Pelastuslaitoksen toimintavalmiuteen vaikuttavat muun muassa samanaikaiset kiireelliset tehtävät, henkilöstö- ja kalustoresurssit, kohteen saavutettavuus sekä kaluston tosiasiallinen käyttömahdollisuus. Korkealta pelastamiseen soveltuvan erityiskaluston välitöntä saatavuutta ei voida kaikissa tilanteissa taata.\n\nTämän vuoksi hyvinvointialue katsoo, että rakennuksen turvallisuusratkaisun tulee ensisijaisesti perustua rakennuksen omiin, luotettavasti toimiviin poistumis- ja pelastautumisjärjestelyihin. Pelastustoiminnan tulee täydentää rakennuksen turvallisuutta, ei muodostaa sen välttämätöntä edellytystä.\n\nAsiassa on lisäksi huomionarvoista, että alueen asemakaavan rto-2-määräyksen mukaan alueelle laadittua rakentamistapaohjetta on ehdottomasti noudatettava, ja rakentamistapaohjeessa todetaan, että asuntokohtainen pelastautuminen perustuu pelastusluukkuihin. Päätöksessä ei ole riittävästi perusteltu, millä perusteella on hyväksytty asemakaavan ja siihen liittyvän sitovan rakentamistapaohjeen vastainen järjestely.\n\nHyvinvointialueella katsotaan olevan rakennusvalvonnan päätökseen § 436 sen sisältämän oikaisuvaatimusohjeen mukainen oikaisuvaatimusoikeus, sillä kyseinen päätös vaikuttaa välittömästi hyvinvointialueen velvollisuuteen järjestää ja tuottaa pelastustoimen palveluita.\n\nOikaisuvaatimus on tehtävä 30 päivän kuluessa päätöksen tiedoksisaamisesta. Oikaisuvaatimus on toimitettava oikaisuvaatimusviranomaiselle määräajan viimeisenä päivänä ennen viranomaisen aukioloajan päättymistä.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nLauri Holappa"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää lähettää oheisen oikaisuvaatimuksen Kuopion kaupungin ympäristö- ja rakennuslautakunnalle koskien Kuopion kaupungin alueellisen rakennusvalvonnan päätöstä § 436.\n\nEnnakkovaikutusten arviointi\n\nJäädessään voimaan sellaisenaan, rakennusvalvonnan päätös § 436 vaikuttaisi välittömästi hyvinvointialueen velvollisuuteen järjestää ja tuottaa pelastustoimen palveluita.\n\nOikaisuvaatimuksella on mahdollinen vaikutus hyvinvointialueen pelastuslaitoksen mahdollisuuksiin toteuttaa lakisääteinen pelastustehtävä turvallisesti ja tarkoituksenmukaisesti sekä varmistaa, ettei uudisrakennusten henkilöturvallisuus perustu pelastuslaitoksen välittömään toimintavalmiuteen tilanteissa, joissa sitä ei voida kaikissa olosuhteissa taata.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Rakentamislupa 26-0465\n\n- Oikaisuvaatimus 26-0465 RL\n\nEsityslistan oheisaineistona:\n\nValmistelu\nKuopion kaupungin alueellinen rakennusvalvonta on 24.8.2026 myöntänyt rakentamisluvat kahdelle uudelle 8-kerroksiselle asuinkerrostalolle osoitteissa Opistokuja 2 (§ 437, lupatunnus 26-0466-RL) ja Opistokuja 4 (§ 436, lupatunnus 26-0465-RL). Molemmat rakennukset ovat P1-paloluokan asuinrakennuksia.\n\nHankkeessa on esitetty pelastusviranomaisen asiantuntijanäkemyksestä poikkeava vaihtoehtoinen poistumis- ja pelastautumisjärjestely (varatie). Rakennusvalvonnan päätöksen § 436 mukaan pelastuslaitos ei ole puoltanut esitettyä ratkaisua. Hakemusten yhteydessä on kuitenkin esitetty paloteknisten suunnittelijoiden lausuntoja, joiden perusteella rakennusvalvonta on katsonut ratkaisun täyttävän rakentamista koskevat paloturvallisuusvaatimukset ja myöntänyt rakentamisluvat.\n\nRakentamislain 32 § edellyttää, että rakennuksessa olevat voivat palon sattuessa poistua tai heidät voidaan pelastaa ja että myös pelastushenkilöstön turvallisuus otetaan huomioon. Asetuksen 848/2017 ja sen perustelumuistion mukaan myös pelastuslaitoksen toimenpiteisiin perustuva varatie on mahdollinen ratkaisu, mutta tällöin pelastuslaitoksen toimintaedellytykset on otettava huomioon varatien suunnittelussa ja rakentamisessa. Lisäksi poistumis- ja pelastamismahdollisuuksien riittävyys on arvioitava suhteessa vaarallisten palo-olosuhteiden kehittymiseen.\n\nHyvinvointialue ei puolla ratkaisua, jossa rakennuksen henkilöiden turvallinen pelastautuminen on olennaisilta osin riippuvainen pelastuslaitoksen nostolava- tai muun erityiskaluston käytöstä. Pelastuslaitoksen toimintavalmiuteen vaikuttavat muun muassa samanaikaiset kiireelliset tehtävät, henkilöstö- ja kalustoresurssit, kohteen saavutettavuus sekä kaluston tosiasiallinen käyttömahdollisuus. Korkealta pelastamiseen soveltuvan erityiskaluston välitöntä saatavuutta ei voida kaikissa tilanteissa taata.\n\nTämän vuoksi hyvinvointialue katsoo, että rakennuksen turvallisuusratkaisun tulee ensisijaisesti perustua rakennuksen omiin, luotettavasti toimiviin poistumis- ja pelastautumisjärjestelyihin. Pelastustoiminnan tulee täydentää rakennuksen turvallisuutta, ei muodostaa sen välttämätöntä edellytystä.\n\nAsiassa on lisäksi huomionarvoista, että alueen asemakaavan rto-2-määräyksen mukaan alueelle laadittua rakentamistapaohjetta on ehdottomasti noudatettava, ja rakentamistapaohjeessa todetaan, että asuntokohtainen pelastautuminen perustuu pelastusluukkuihin. Päätöksessä ei ole riittävästi perusteltu, millä perusteella on hyväksytty asemakaavan ja siihen liittyvän sitovan rakentamistapaohjeen vastainen järjestely.\n\nHyvinvointialueella katsotaan olevan rakennusvalvonnan päätökseen § 436 sen sisältämän oikaisuvaatimusohjeen mukainen oikaisuvaatimusoikeus, sillä kyseinen päätös vaikuttaa välittömästi hyvinvointialueen velvollisuuteen järjestää ja tuottaa pelastustoimen palveluita.\n\nOikaisuvaatimus on tehtävä 30 päivän kuluessa päätöksen tiedoksisaamisesta. Oikaisuvaatimus on toimitettava oikaisuvaatimusviranomaiselle määräajan viimeisenä päivänä ennen viranomaisen aukioloajan päättymistä."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 oikaisuvaatimus 26-0465-RL 21.9.2026",
+     "url": "https://pshva.oncloudos.com/kokous/20261130-13-285090.PDF"
+    },
+    {
+     "title": "Liite 2 rakentamislupa 26-0465 RL",
+     "url": "https://pshva.oncloudos.com/kokous/20261130-13-284843.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "298",
+   "title": "Oikaisuvaatimus rakentamislupa 26-0466-RL, Kiinteistö Oy Kuopion Opistokuja 2",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-14",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-14.PDF",
+   "diary_number": "5250/10.01/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää lähettää oheisen oikaisuvaatimuksen Kuopion kaupungin ympäristö- ja rakennuslautakunnalle koskien Kuopion kaupungin alueellisen rakennusvalvonnan päätöstä § 437.\n\nEnnakkovaikutusten arviointi\n\nJäädessään voimaan sellaisenaan, rakennusvalvonnan päätös § 437 vaikuttaisi välittömästi hyvinvointialueen velvollisuuteen järjestää ja tuottaa pelastustoimen palveluita.\n\nOikaisuvaatimuksella on mahdollinen vaikutus hyvinvointialueen pelastuslaitoksen mahdollisuuksiin toteuttaa lakisääteinen pelastustehtävä turvallisesti ja tarkoituksenmukaisesti sekä varmistaa, ettei uudisrakennusten henkilöturvallisuus perustu pelastuslaitoksen välittömään toimintavalmiuteen tilanteissa, joissa sitä ei voida kaikissa olosuhteissa taata.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Rakentamislupa 26-0466 RL\n\n- Oikaisuvaatimus 26-0466 RL\n\nEsityslistan oheisaineistona:\n\nValmistelu\nKuopion kaupungin alueellinen rakennusvalvonta on 24.8.2026 myöntänyt rakentamisluvat kahdelle uudelle 8-kerroksiselle asuinkerrostalolle osoitteissa Opistokuja 2 (§ 437, lupatunnus 26-0466-RL) ja Opistokuja 4 (§ 436, lupatunnus 26-0465-RL). Molemmat rakennukset ovat P1-paloluokan asuinrakennuksia.\n\nHankkeessa on esitetty pelastusviranomaisen asiantuntijanäkemyksestä poikkeava vaihtoehtoinen poistumis- ja pelastautumisjärjestely (varatie). Rakennusvalvonnan päätöksen § 437 mukaan pelastuslaitos ei ole puoltanut esitettyä ratkaisua. Hakemusten yhteydessä on kuitenkin esitetty paloteknisten suunnittelijoiden lausuntoja, joiden perusteella rakennusvalvonta on katsonut ratkaisun täyttävän rakentamista koskevat paloturvallisuusvaatimukset ja myöntänyt rakentamisluvat.\n\nRakentamislain 32 § edellyttää, että rakennuksessa olevat voivat palon sattuessa poistua tai heidät voidaan pelastaa ja että myös pelastushenkilöstön turvallisuus otetaan huomioon. Asetuksen 848/2017 ja sen perustelumuistion mukaan myös pelastuslaitoksen toimenpiteisiin perustuva varatie on mahdollinen ratkaisu, mutta tällöin pelastuslaitoksen toimintaedellytykset on otettava huomioon varatien suunnittelussa ja rakentamisessa. Lisäksi poistumis- ja pelastamismahdollisuuksien riittävyys on arvioitava suhteessa vaarallisten palo-olosuhteiden kehittymiseen.\n\nHyvinvointialue ei puolla ratkaisua, jossa rakennuksen henkilöiden turvallinen pelastautuminen on olennaisilta osin riippuvainen pelastuslaitoksen nostolava- tai muun erityiskaluston käytöstä. Pelastuslaitoksen toimintavalmiuteen vaikuttavat muun muassa samanaikaiset kiireelliset tehtävät, henkilöstö- ja kalustoresurssit, kohteen saavutettavuus sekä kaluston tosiasiallinen käyttömahdollisuus. Korkealta pelastamiseen soveltuvan erityiskaluston välitöntä saatavuutta ei voida kaikissa tilanteissa taata.\n\nTämän vuoksi hyvinvointialue katsoo, että rakennuksen turvallisuusratkaisun tulee ensisijaisesti perustua rakennuksen omiin, luotettavasti toimiviin poistumis- ja pelastautumisjärjestelyihin. Pelastustoiminnan tulee täydentää rakennuksen turvallisuutta, ei muodostaa sen välttämätöntä edellytystä.\n\nAsiassa on lisäksi huomionarvoista, että alueen asemakaavan rto-2-määräyksen mukaan alueelle laadittua rakentamistapaohjetta on ehdottomasti noudatettava, ja rakentamistapaohjeessa todetaan, että asuntokohtainen pelastautuminen perustuu pelastusluukkuihin. Päätöksessä ei ole riittävästi perusteltu, millä perusteella on hyväksytty asemakaavan ja siihen liittyvän sitovan rakentamistapaohjeen vastainen järjestely.\n\nHyvinvointialueella katsotaan olevan rakennusvalvonnan päätökseen § 436 sen sisältämän oikaisuvaatimusohjeen mukainen oikaisuvaatimusoikeus, sillä kyseinen päätös vaikuttaa välittömästi hyvinvointialueen velvollisuuteen järjestää ja tuottaa pelastustoimen palveluita.\n\nOikaisuvaatimus on tehtävä 30 päivän kuluessa päätöksen tiedoksisaamisesta. Oikaisuvaatimus on toimitettava oikaisuvaatimusviranomaiselle määräajan viimeisenä päivänä ennen viranomaisen aukioloajan päättymistä.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nLauri Holappa"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää lähettää oheisen oikaisuvaatimuksen Kuopion kaupungin ympäristö- ja rakennuslautakunnalle koskien Kuopion kaupungin alueellisen rakennusvalvonnan päätöstä § 437.\n\nEnnakkovaikutusten arviointi\n\nJäädessään voimaan sellaisenaan, rakennusvalvonnan päätös § 437 vaikuttaisi välittömästi hyvinvointialueen velvollisuuteen järjestää ja tuottaa pelastustoimen palveluita.\n\nOikaisuvaatimuksella on mahdollinen vaikutus hyvinvointialueen pelastuslaitoksen mahdollisuuksiin toteuttaa lakisääteinen pelastustehtävä turvallisesti ja tarkoituksenmukaisesti sekä varmistaa, ettei uudisrakennusten henkilöturvallisuus perustu pelastuslaitoksen välittömään toimintavalmiuteen tilanteissa, joissa sitä ei voida kaikissa olosuhteissa taata.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Rakentamislupa 26-0466 RL\n\n- Oikaisuvaatimus 26-0466 RL\n\nEsityslistan oheisaineistona:\n\nValmistelu\nKuopion kaupungin alueellinen rakennusvalvonta on 24.8.2026 myöntänyt rakentamisluvat kahdelle uudelle 8-kerroksiselle asuinkerrostalolle osoitteissa Opistokuja 2 (§ 437, lupatunnus 26-0466-RL) ja Opistokuja 4 (§ 436, lupatunnus 26-0465-RL). Molemmat rakennukset ovat P1-paloluokan asuinrakennuksia.\n\nHankkeessa on esitetty pelastusviranomaisen asiantuntijanäkemyksestä poikkeava vaihtoehtoinen poistumis- ja pelastautumisjärjestely (varatie). Rakennusvalvonnan päätöksen § 437 mukaan pelastuslaitos ei ole puoltanut esitettyä ratkaisua. Hakemusten yhteydessä on kuitenkin esitetty paloteknisten suunnittelijoiden lausuntoja, joiden perusteella rakennusvalvonta on katsonut ratkaisun täyttävän rakentamista koskevat paloturvallisuusvaatimukset ja myöntänyt rakentamisluvat.\n\nRakentamislain 32 § edellyttää, että rakennuksessa olevat voivat palon sattuessa poistua tai heidät voidaan pelastaa ja että myös pelastushenkilöstön turvallisuus otetaan huomioon. Asetuksen 848/2017 ja sen perustelumuistion mukaan myös pelastuslaitoksen toimenpiteisiin perustuva varatie on mahdollinen ratkaisu, mutta tällöin pelastuslaitoksen toimintaedellytykset on otettava huomioon varatien suunnittelussa ja rakentamisessa. Lisäksi poistumis- ja pelastamismahdollisuuksien riittävyys on arvioitava suhteessa vaarallisten palo-olosuhteiden kehittymiseen.\n\nHyvinvointialue ei puolla ratkaisua, jossa rakennuksen henkilöiden turvallinen pelastautuminen on olennaisilta osin riippuvainen pelastuslaitoksen nostolava- tai muun erityiskaluston käytöstä. Pelastuslaitoksen toimintavalmiuteen vaikuttavat muun muassa samanaikaiset kiireelliset tehtävät, henkilöstö- ja kalustoresurssit, kohteen saavutettavuus sekä kaluston tosiasiallinen käyttömahdollisuus. Korkealta pelastamiseen soveltuvan erityiskaluston välitöntä saatavuutta ei voida kaikissa tilanteissa taata.\n\nTämän vuoksi hyvinvointialue katsoo, että rakennuksen turvallisuusratkaisun tulee ensisijaisesti perustua rakennuksen omiin, luotettavasti toimiviin poistumis- ja pelastautumisjärjestelyihin. Pelastustoiminnan tulee täydentää rakennuksen turvallisuutta, ei muodostaa sen välttämätöntä edellytystä.\n\nAsiassa on lisäksi huomionarvoista, että alueen asemakaavan rto-2-määräyksen mukaan alueelle laadittua rakentamistapaohjetta on ehdottomasti noudatettava, ja rakentamistapaohjeessa todetaan, että asuntokohtainen pelastautuminen perustuu pelastusluukkuihin. Päätöksessä ei ole riittävästi perusteltu, millä perusteella on hyväksytty asemakaavan ja siihen liittyvän sitovan rakentamistapaohjeen vastainen järjestely.\n\nHyvinvointialueella katsotaan olevan rakennusvalvonnan päätökseen § 436 sen sisältämän oikaisuvaatimusohjeen mukainen oikaisuvaatimusoikeus, sillä kyseinen päätös vaikuttaa välittömästi hyvinvointialueen velvollisuuteen järjestää ja tuottaa pelastustoimen palveluita.\n\nOikaisuvaatimus on tehtävä 30 päivän kuluessa päätöksen tiedoksisaamisesta. Oikaisuvaatimus on toimitettava oikaisuvaatimusviranomaiselle määräajan viimeisenä päivänä ennen viranomaisen aukioloajan päättymistä."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 oikaisuvaatimus 26-0466-RL 21.9.2026",
+     "url": "https://pshva.oncloudos.com/kokous/20261130-14-285091.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 rakentamislupa 26-0466",
+     "url": "https://pshva.oncloudos.com/kokous/20261130-14-285647.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "299",
+   "title": "Pohjois-Savon alueellisen toimeentulotukiasioiden neuvottelukunnan asettaminen ajalle 1.1.2027 - 31.12.2030",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-15",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-15.PDF",
+   "diary_number": "5253/00.01.02.00/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää:\n\n1. hyväksyä Pohjois-Savon alueellisen toimeentulotukiasioiden neuvottelukunnan rakenteen\n\n2. pyytää ikäihmisten ja hoivapalveluiden, perhe- ja vammaispalveluiden (2 jäsentä) ja yleisten palveluiden lautakuntaa, Pohjois-Savon järjestöneuvostoa, hyvinvoinnin ja terveyden edistämisen neuvottelukuntaa ja Kansaneläkelaitoksen Itäistä vakuutuspiiriä nimeämään jäsenen ja varajäsenen toimeentulotuen alueelliseen neuvottelukuntaan vuosille 2027-2030. Nimeämiset pyydetään 31.10.2026 mennessä, jonka jälkeen aluehallitus asettaa Pohjois-Savon alueellisen toimeentulotukiasioiden neuvottelukunnan erillisellä päätöksellä. Toimeentulotukiasioiden neuvottelukunnan asettamispäätöksen yhteydessä nimetään puheenjohtaja ja varapuheenjohtaja. Puheenjohtajan tulee olla hyvinvointialueen viranhaltija. Aluehallitus päättää samassa yhteydessä neuvottelukunnan jäsenille, sihteerille sekä asiantuntijoille maksettavista palkkioista ja kustannusten korvaamisesta.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\n-\n\nValmistelu\nValtioneuvosto on antanut asetukset valtakunnallisesta sekä hyvinvointialueiden toimeentulotukiasioiden neuvottelukunnista (1197/2022). Neuvottelukuntien tehtävistä on säädetty 1.1.2023 voimaantulleessa toimeentulotukilaissa (1023/2022 §27e). \n\nAluehallitus on kokouksessaan 14.8.2023 § 235 asettanut Pohjois-Savon alueellisen toimeentulotukiasioiden neuvottelukunnan ajalle 1.10.2023-31.12.2026.\n\nHyvinvointialue asettaa alueellisen toimeentulotukiasioiden neuvottelukunnan, jonka tehtävänä on tehdä esityksiä ja antaa lausuntoja toimeentulotukiasioiden käsittelyn kehittämisestä sekä yhteistyön toteuttamista koskevista asioista alueellaan. Neuvottelukuntaan kuuluu Kansaneläkelaitoksen ja hyvinvointialueen sosiaalihuollon edustus. Neuvottelukunnan tehtävistä ja tarkemmasta kokoonpanosta säädetään valtioneuvoston asetuksella.\n\nValtioneuvoston asetuksen mukaan alueellisessa neuvottelukunnassa on puheenjohtaja, varapuheenjohtaja ja vähintään kuusi muuta jäsentä. Kullakin jäsenellä puheenjohtajaa ja varapuheenjohtajaa lukuun ottamatta on henkilökohtainen varajäsen. Neuvottelukunta koostuu hyvinvointialueella toimivien viranomaisten ja kansalaisyhteiskunnan edustajista sekä Kansaneläkelaitoksen edustajasta, jonka Kansaneläkelaitos ilmoittaa. Puheenjohtajan tulee olla hyvinvointialueen viranhaltija. Hyvinvointialue määrää puheenjohtajan ja varapuheenjohtajan sekä muut jäsenet ja varajäsenet neljäksi vuodeksi kerrallaan. Hyvinvointialue voi nimittää neuvottelukuntaan pysyviä asiantuntijoita.\n\nNeuvottelukunta voi tarpeen mukaan kuulla myös muita asiantuntijoita. Neuvottelukunta päättää toimintansa järjestämistä koskevista menettelytavoista. Neuvottelukunnalla voi olla jaostoja asioiden valmistelua varten. Neuvottelukunta raportoi toiminnastaan sosiaali- ja terveysministeriölle vuosittain. Neuvottelukunnan jäsenille, sihteerille sekä asiantuntijoille maksettavista palkkioista ja kustannusten korvaamisesta päättää hyvinvointialue.\n\nJos neuvottelukunnan puheenjohtaja, varapuheenjohtaja, muu jäsen tai varajäsen eroaa kesken toimikauden, hyvinvointialue määrää hänen tilalleen jäljellä olevaksi toimikaudeksi uuden henkilön.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nHeli Pärnänen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\n1. hyväksyä Pohjois-Savon alueellisen toimeentulotukiasioiden neuvottelukunnan rakenteen\n\n2. pyytää ikäihmisten ja hoivapalveluiden, perhe- ja vammaispalveluiden (2 jäsentä) ja yleisten palveluiden lautakuntaa, Pohjois-Savon järjestöneuvostoa, hyvinvoinnin ja terveyden edistämisen neuvottelukuntaa ja Kansaneläkelaitoksen Itäistä vakuutuspiiriä nimeämään jäsenen ja varajäsenen toimeentulotuen alueelliseen neuvottelukuntaan vuosille 2027-2030. Nimeämiset pyydetään 31.10.2026 mennessä, jonka jälkeen aluehallitus asettaa Pohjois-Savon alueellisen toimeentulotukiasioiden neuvottelukunnan erillisellä päätöksellä. Toimeentulotukiasioiden neuvottelukunnan asettamispäätöksen yhteydessä nimetään puheenjohtaja ja varapuheenjohtaja. Puheenjohtajan tulee olla hyvinvointialueen viranhaltija. Aluehallitus päättää samassa yhteydessä neuvottelukunnan jäsenille, sihteerille sekä asiantuntijoille maksettavista palkkioista ja kustannusten korvaamisesta.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\n-\n\nValmistelu\nValtioneuvosto on antanut asetukset valtakunnallisesta sekä hyvinvointialueiden toimeentulotukiasioiden neuvottelukunnista (1197/2022). Neuvottelukuntien tehtävistä on säädetty 1.1.2023 voimaantulleessa toimeentulotukilaissa (1023/2022 §27e). \n\nAluehallitus on kokouksessaan 14.8.2023 § 235 asettanut Pohjois-Savon alueellisen toimeentulotukiasioiden neuvottelukunnan ajalle 1.10.2023-31.12.2026.\n\nHyvinvointialue asettaa alueellisen toimeentulotukiasioiden neuvottelukunnan, jonka tehtävänä on tehdä esityksiä ja antaa lausuntoja toimeentulotukiasioiden käsittelyn kehittämisestä sekä yhteistyön toteuttamista koskevista asioista alueellaan. Neuvottelukuntaan kuuluu Kansaneläkelaitoksen ja hyvinvointialueen sosiaalihuollon edustus. Neuvottelukunnan tehtävistä ja tarkemmasta kokoonpanosta säädetään valtioneuvoston asetuksella.\n\nValtioneuvoston asetuksen mukaan alueellisessa neuvottelukunnassa on puheenjohtaja, varapuheenjohtaja ja vähintään kuusi muuta jäsentä. Kullakin jäsenellä puheenjohtajaa ja varapuheenjohtajaa lukuun ottamatta on henkilökohtainen varajäsen. Neuvottelukunta koostuu hyvinvointialueella toimivien viranomaisten ja kansalaisyhteiskunnan edustajista sekä Kansaneläkelaitoksen edustajasta, jonka Kansaneläkelaitos ilmoittaa. Puheenjohtajan tulee olla hyvinvointialueen viranhaltija. Hyvinvointialue määrää puheenjohtajan ja varapuheenjohtajan sekä muut jäsenet ja varajäsenet neljäksi vuodeksi kerrallaan. Hyvinvointialue voi nimittää neuvottelukuntaan pysyviä asiantuntijoita.\n\nNeuvottelukunta voi tarpeen mukaan kuulla myös muita asiantuntijoita. Neuvottelukunta päättää toimintansa järjestämistä koskevista menettelytavoista. Neuvottelukunnalla voi olla jaostoja asioiden valmistelua varten. Neuvottelukunta raportoi toiminnastaan sosiaali- ja terveysministeriölle vuosittain. Neuvottelukunnan jäsenille, sihteerille sekä asiantuntijoille maksettavista palkkioista ja kustannusten korvaamisesta päättää hyvinvointialue.\n\nJos neuvottelukunnan puheenjohtaja, varapuheenjohtaja, muu jäsen tai varajäsen eroaa kesken toimikauden, hyvinvointialue määrää hänen tilalleen jäljellä olevaksi toimikaudeksi uuden henkilön."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "300",
+   "title": "KYS Tutkimussäätiön sääntöjen muutos",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-16",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-16.PDF",
+   "diary_number": "4557/02.00/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Omistajaohjaus- ja talousjaosto lausuu kantanaan, että KYS tutkimussäätiön esittämät sääntömuutokset ovat edellytys KYS tutkimussäätiön sulauttamiselle Pohjois-Savon hyvinvointialueen tukisäätiöön ja esittää sääntömuutoksia aluehallituksen hyväksyttäväksi.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 32\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- KYS tutkimussäätiön voimassaolevat säännöt\n\n- KYS tutkimussäätiön muutetut säännöt, muutokset merkitty korostusvärillä\n\nValmistelu\nHallintosäännön 32 §:n mukaan omistajaohjaus- ja talousjaosto päättää lausunnon antamisesta säätiöiden sääntöehdotuksista sekä niiden muutosehdotuksista.\n\nKYS tutkimussäätiön hallitus teki kevätkokouksessaan 2026 periaatepäätöksen siitä, että KYS tutkimussäätiö sulautetaan Pohjois-Savon hyvinvointialueen tukisäätiöön ja kaikki tutkimussäätiön varat siirretään tukisäätiön käyttöön käytettäväksi Pohjois-Savon hyvinvointialueella apurahojen jakamiseen lahjoittajien toiveiden ja edellytysten mukaisesti. Sulautumissuunnitelman ja muiden asiakirjojen laatimisessa päätettiin käyttää BDO:n palveluja.\n\nBDO teki analyysin KYS tutkimussäätiön ja Pohjois-Savon hyvinvointialueen tukisäätiön sulautumisen edellytyksistä. Analyysin mukaan säätiöiden sääntöjä tulee muuttaa siten, että säätiöiden tarkoitukset ja tarkoitusten muuttamisen edellytykset ovat olennaisesti samankaltaiset.\n\nBDO:n analyysin johtopäätös nykyisistä säännöistä on seuraava:\n\nSulautuminen nykyisillä säännöillä on oikeudellisesti epävarma, ja sen rekisteröimistä PRH:ssa on pidettävä merkittävältä osin riskialttiina seuraavista syistä:\n\nTarkoitusten samankaltaisuus on tulkinnanvarainen KYS:n tutkimussäätiön kapea-alaisen tarkoituksen vuoksi, joskin rekisterikäytännön perusteella tämä este saattaisi olla mahdollisesti ylitettävissä.\n\nTarkoituksen muuttamisen edellytykset eivät ole olennaisesti samankaltaiset, koska Pohjois-Savon hyvinvointialueen tukisäätiöllä on sääntöihin kirjattu lisäedellytyksenä aluehallituksen suostumus sekä nimenomainen maininta sulautumisesta – KYS:n tutkimussäätiön säännöissä ei ole kumpaakaan.\n\nBDO suosittelee seuraavaa:\n\n Suosittelemme, että sulautumista ei toteuteta ennen sääntömuutosta.\n\n Suosittelemme, että molempien säätiöiden sääntöjä päivitettäisiin.\n\nBDO:n ehdotusten perusteella KYS tutkimussäätiön sääntöihin ehdotetaan seuraavia muutoksia (muutostekstit vahvennettuna):\n\n2 §\n\nSäätiön tarkoituksena on Kuopion yliopistollisessa sairaalassa ja Pohjois-Savon hyvinvointialueella (jäljempänä ”sairaala”) suoritettavan tieteellisen tutkimuksen tukeminen ja edistäminen sekä sairaalan tutkimustyön tunnetuksi tekeminen.\n\n11 §\n\nSäätiön sääntöjä voidaan muuttaa, mikäli vähintään 2/3 hallituksen jäsenistä sitä kannattaa. Säätiön sääntöjen muuttaminen edellyttää Pohjois-Savon hyvinvointialueen aluehallituksen suostumusta. Sääntömuutoksille haetaan Patentti- ja rekisterihallituksen vahvistus.\n\nSäätiön purkamisesta ja sulautumisesta päätetään samassa järjestyksessä.",
+   "decision": "Hyväksyttiin päätösehdotus.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nAnne Halttunen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä KYS tutkimussäätiön esittämät sääntömuutokset, jotka ovat edellytys KYS tutkimussäätiön sulauttamiselle Pohjois-Savon hyvinvointialueen tukisäätiöön.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 32\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- KYS tutkimussäätiön voimassaolevat säännöt\n\n- KYS tutkimussäätiön muutetut säännöt, muutokset merkitty korostusvärillä\n\nValmistelu\n\nOmohjtal 11.08.2026 § 80\n\nValmistelija(t)\nAnne Halttunen, erityisasiantuntija, rahoitus ja omistajaohjaus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin päätösehdotus."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "erityisasiantuntija, rahoitus ja omistajaohjaus"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Omistajaohjaus- ja talousjaosto lausuu kantanaan, että KYS tutkimussäätiön esittämät sääntömuutokset ovat edellytys KYS tutkimussäätiön sulauttamiselle Pohjois-Savon hyvinvointialueen tukisäätiöön ja esittää sääntömuutoksia aluehallituksen hyväksyttäväksi.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 32\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- KYS tutkimussäätiön voimassaolevat säännöt\n\n- KYS tutkimussäätiön muutetut säännöt, muutokset merkitty korostusvärillä\n\nValmistelu\nHallintosäännön 32 §:n mukaan omistajaohjaus- ja talousjaosto päättää lausunnon antamisesta säätiöiden sääntöehdotuksista sekä niiden muutosehdotuksista.\n\nKYS tutkimussäätiön hallitus teki kevätkokouksessaan 2026 periaatepäätöksen siitä, että KYS tutkimussäätiö sulautetaan Pohjois-Savon hyvinvointialueen tukisäätiöön ja kaikki tutkimussäätiön varat siirretään tukisäätiön käyttöön käytettäväksi Pohjois-Savon hyvinvointialueella apurahojen jakamiseen lahjoittajien toiveiden ja edellytysten mukaisesti. Sulautumissuunnitelman ja muiden asiakirjojen laatimisessa päätettiin käyttää BDO:n palveluja.\n\nBDO teki analyysin KYS tutkimussäätiön ja Pohjois-Savon hyvinvointialueen tukisäätiön sulautumisen edellytyksistä. Analyysin mukaan säätiöiden sääntöjä tulee muuttaa siten, että säätiöiden tarkoitukset ja tarkoitusten muuttamisen edellytykset ovat olennaisesti samankaltaiset.\n\nBDO:n analyysin johtopäätös nykyisistä säännöistä on seuraava:\n\nSulautuminen nykyisillä säännöillä on oikeudellisesti epävarma, ja sen rekisteröimistä PRH:ssa on pidettävä merkittävältä osin riskialttiina seuraavista syistä:\n\nTarkoitusten samankaltaisuus on tulkinnanvarainen KYS:n tutkimussäätiön kapea-alaisen tarkoituksen vuoksi, joskin rekisterikäytännön perusteella tämä este saattaisi olla mahdollisesti ylitettävissä.\n\nTarkoituksen muuttamisen edellytykset eivät ole olennaisesti samankaltaiset, koska Pohjois-Savon hyvinvointialueen tukisäätiöllä on sääntöihin kirjattu lisäedellytyksenä aluehallituksen suostumus sekä nimenomainen maininta sulautumisesta – KYS:n tutkimussäätiön säännöissä ei ole kumpaakaan.\n\nBDO suosittelee seuraavaa:\n\n Suosittelemme, että sulautumista ei toteuteta ennen sääntömuutosta.\n\n Suosittelemme, että molempien säätiöiden sääntöjä päivitettäisiin.\n\nBDO:n ehdotusten perusteella KYS tutkimussäätiön sääntöihin ehdotetaan seuraavia muutoksia (muutostekstit vahvennettuna):\n\n2 §\n\nSäätiön tarkoituksena on Kuopion yliopistollisessa sairaalassa ja Pohjois-Savon hyvinvointialueella (jäljempänä ”sairaala”) suoritettavan tieteellisen tutkimuksen tukeminen ja edistäminen sekä sairaalan tutkimustyön tunnetuksi tekeminen.\n\n11 §\n\nSäätiön sääntöjä voidaan muuttaa, mikäli vähintään 2/3 hallituksen jäsenistä sitä kannattaa. Säätiön sääntöjen muuttaminen edellyttää Pohjois-Savon hyvinvointialueen aluehallituksen suostumusta. Sääntömuutoksille haetaan Patentti- ja rekisterihallituksen vahvistus.\n\nSäätiön purkamisesta ja sulautumisesta päätetään samassa järjestyksessä."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 KYS tutkimussäätiön säännöt 2023",
+     "url": "https://pshva.oncloudos.com/kokous/20261130-16-277684.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 KYS tutkimussäätiön säännöt 2026",
+     "url": "https://pshva.oncloudos.com/kokous/20261130-16-277770.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "301",
+   "title": "Eropyyntö Pohjois-Savon hyvinvointialueen kokonaisturvallisuuslautakunnan jäsenyydestä ja puheenjohtajuudesta, Kati Hynninen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-17",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-17.PDF",
+   "diary_number": "3986/00.00.01/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää esittää aluevaltuustolle, että aluevaltuusto:\n\nmyöntää eron Kati Hynniselle kokonaisturvallisuuslautakunnan jäsenyydestä ja kokonaisturvallisuuslautakunnan puheenjohtajan tehtävästä\n\nvalitsee uuden jäsenen kokonaisturvallisuuslautakuntaan jäljellä olevaksi toimikaudeksi\n\nvalitsee puheenjohtajan kokonaisturvallisuuslautakuntaan jäljellä olevaksi toimikaudeksi\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 35\n\nLiitteet ja oheisaineisto\n\n-\n\nValmistelu\n\nKati Hynninen on pyytänyt eroa kokonaisturvallisuuslautakunnan jäsenyydestä ja puheenjohtajuudesta luottamushenkilöpaikkojen uudelleen jäsrjestelyn vuoksi.\n\nHyvinvointialuelain 75 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin.\n\nHyvinvointialuelain 22 §:n mukaan aluevaltuusto valitsee jäsenet toimielimiin.\n\nHallintosäännön 16 §:n mukaan kokonaisturvallisuuslautakunnassa on 11 jäsentä. Aluevaltuusto valitsee lautakunnan jäsenet ja henkilö-kohtaiset varajäsenet. Aluevaltuusto valitsee jäsenistä lautakunnan puheenjohtajan ja varapuheenjohtajan. Jokaisella jäsenellä on henkilökohtainen varajäsen.\n\nHyvinvointialuelain 84 §:n mukaan luottamushenkilö pysyy toimessaan sen ajan, joksi hänet on valittu, ja sen jälkeenkin siihen saakka, kunnes toimeen on valittu toinen. Kesken toimikautta avoimeksi tulleeseen luottamustoimeen on valittava jäljellä olevaksi toimikaudeksi uusi luottamushenkilö.\n\nToimeen valitun luottamushenkilön on myös hoidettava tointaan siihen saakka, kunnes asia on lopullisesti ratkaistu, jos:\n\n1) luottamushenkilövaalista tehdään valitus;\n\n2) eroa ei ole myönnetty; tai\n\n3) aluehallitus on 101 §:n nojalla jättänyt aluevaltuuston vaalipäätöksen täytäntöön panematta.",
+   "decision": "Merkitään pöytäkirjaan, että:\n\n- Kati Hynninen ilmoitti olevansa esteellinen (HL 28.1. kohta 1) ja poistui kokouksesta asian käsittelyn ja päätöksenteon ajaksi klo 11.14 - 11.15.\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n- Kati Hynninen ilmoitti olevansa esteellinen (HL 28.1. kohta 1) ja poistui kokouksesta asian käsittelyn ja päätöksenteon ajaksi klo 11.14 - 11.15.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää esittää aluevaltuustolle, että aluevaltuusto:\n\nmyöntää eron Kati Hynniselle kokonaisturvallisuuslautakunnan jäsenyydestä ja kokonaisturvallisuuslautakunnan puheenjohtajan tehtävästä\n\nvalitsee uuden jäsenen kokonaisturvallisuuslautakuntaan jäljellä olevaksi toimikaudeksi\n\nvalitsee puheenjohtajan kokonaisturvallisuuslautakuntaan jäljellä olevaksi toimikaudeksi\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 35\n\nLiitteet ja oheisaineisto\n\n-\n\nValmistelu\n\nKati Hynninen on pyytänyt eroa kokonaisturvallisuuslautakunnan jäsenyydestä ja puheenjohtajuudesta luottamushenkilöpaikkojen uudelleen jäsrjestelyn vuoksi.\n\nHyvinvointialuelain 75 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin.\n\nHyvinvointialuelain 22 §:n mukaan aluevaltuusto valitsee jäsenet toimielimiin.\n\nHallintosäännön 16 §:n mukaan kokonaisturvallisuuslautakunnassa on 11 jäsentä. Aluevaltuusto valitsee lautakunnan jäsenet ja henkilö-kohtaiset varajäsenet. Aluevaltuusto valitsee jäsenistä lautakunnan puheenjohtajan ja varapuheenjohtajan. Jokaisella jäsenellä on henkilökohtainen varajäsen.\n\nHyvinvointialuelain 84 §:n mukaan luottamushenkilö pysyy toimessaan sen ajan, joksi hänet on valittu, ja sen jälkeenkin siihen saakka, kunnes toimeen on valittu toinen. Kesken toimikautta avoimeksi tulleeseen luottamustoimeen on valittava jäljellä olevaksi toimikaudeksi uusi luottamushenkilö.\n\nToimeen valitun luottamushenkilön on myös hoidettava tointaan siihen saakka, kunnes asia on lopullisesti ratkaistu, jos:\n\n1) luottamushenkilövaalista tehdään valitus;\n\n2) eroa ei ole myönnetty; tai\n\n3) aluehallitus on 101 §:n nojalla jättänyt aluevaltuuston vaalipäätöksen täytäntöön panematta."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "302",
+   "title": "Vammaisneuvoston jäsenmuutos",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-18",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-18.PDF",
+   "diary_number": "1353/00.00.01/2025",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää myöntää Hanna Hurskaiselle eron hyvinvointialueen vammaisneuvoston varajäsenyydestä ja nimeää tilalle Arja Löytynojan.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 21\n\nValmistelu\nSiilinjärven kunnasta on saapunut 31.8.2026 sähköpostitse tieto, että Siilinjärven vanhus- ja vammaisneuvosto esittää Pohjois-Savon hyvinvointialueen vammaisneuvostoon Riitta Korhosen varajäseneksi Arja Löytynojaa varajäsenen tehtävästä eronneen Hanna Hurskaisen tilalle toimikauden loppuun.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nLaila Hytönen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää myöntää Hanna Hurskaiselle eron hyvinvointialueen vammaisneuvoston varajäsenyydestä ja nimeää tilalle Arja Löytynojan.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 21\n\nValmistelu\nSiilinjärven kunnasta on saapunut 31.8.2026 sähköpostitse tieto, että Siilinjärven vanhus- ja vammaisneuvosto esittää Pohjois-Savon hyvinvointialueen vammaisneuvostoon Riitta Korhosen varajäseneksi Arja Löytynojaa varajäsenen tehtävästä eronneen Hanna Hurskaisen tilalle toimikauden loppuun."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "303",
+   "title": "Ikäihmisten neuvoston jäsenmuutos",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-19",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-19.PDF",
+   "diary_number": "1353/00.00.01/2025",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää myöntää Leena Paldanille eron hyvinvointialueen ikäihmisten neuvoston varajäsenyydestä ja nimeää hänen tilalleen Irja Partasen.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 20\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nPielaveden vanhus- ja vammaisneuvosto on valinnut kokouksessaan 4.9.2026 hyvinvointialueen ikäihmisten neuvostoon varajäsen Leena Paldanin tilalle Irja Partasen.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nLaila Hytönen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää myöntää Leena Paldanille eron hyvinvointialueen ikäihmisten neuvoston varajäsenyydestä ja nimeää hänen tilalleen Irja Partasen.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 20\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nPielaveden vanhus- ja vammaisneuvosto on valinnut kokouksessaan 4.9.2026 hyvinvointialueen ikäihmisten neuvostoon varajäsen Leena Paldanin tilalle Irja Partasen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "304",
+   "title": "Nuorisovaltuuston edustajamuutokset",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-20",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-20.PDF",
+   "diary_number": "4627/00.00.01/2024",
+   "preparer": null,
+   "presenter": "Päätösehdotus",
+   "proposal": "Aluehallitus päättää:\n\nmyöntää eron Hilja Hoffrenille Pohjois- Savon nuorisovaltuustosta ja 2. varapuheenjohtajan tehtävästä.\n\nnimetä Kuopion edustajaksi Riitu Malisen ja hänen varaedustajaksi Helmi Hyppösen.\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nKuopion nuorisovaltuusto ilmoitti 10.9.2026 valinneensa Hilja Hoffrenin tilalle uudeksi edustajaksi Riitu Malisen ja hänen varaedustajakseen Helmi Hyppösen nuorisovaltuuston hallituksen kokouksessa 8.9.2026.\n\nHilja Hoffrenille haetaan eroa Pohjois- Savon nuorisovaltuustosta ja 2.varapuheenjohtajan tehtävästä.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nMarika Pihakumpu"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": ""
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\nmyöntää eron Hilja Hoffrenille Pohjois- Savon nuorisovaltuustosta ja 2. varapuheenjohtajan tehtävästä.\n\nnimetä Kuopion edustajaksi Riitu Malisen ja hänen varaedustajaksi Helmi Hyppösen.\n\nToimivallan peruste\nHallintosääntö § 36\n\nValmistelu\nKuopion nuorisovaltuusto ilmoitti 10.9.2026 valinneensa Hilja Hoffrenin tilalle uudeksi edustajaksi Riitu Malisen ja hänen varaedustajakseen Helmi Hyppösen nuorisovaltuuston hallituksen kokouksessa 8.9.2026.\n\nHilja Hoffrenille haetaan eroa Pohjois- Savon nuorisovaltuustosta ja 2.varapuheenjohtajan tehtävästä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "305",
+   "title": "Aluehallitukselle tiedoksi annettavat lausuntopyynnöt ja lausunnot",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-21",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-21.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus merkitsee saapuneet lausuntopyynnöt ja annetut lausunnot tiedoksi.\n\nToimivallan peruste\nhallintosääntö 36 §\n\nValmistelu\nAluehallituksen 2.10.2023 § 308 mukaisesti aluehallitus päättää hallintosäännön määräyksiä noudattaen, että merkittävät lausunnot esim. hyvinvointialueiden rahoitukseen, lainsäädäntöön liittyvät ja niihin rinnasteiset lausunnot antaa aluehallitus. Lausunnon merkittävyys arvioidaan asian valmistelussa.\n\nPohjois-Savon hyvinvointialueen hallintosäännön määräykset lausuntojen antamisesta antavat mahdollisuuden viranhaltijoille antaa lausuntoja tietyissä rajoissa. Mikäli annettavat lausunnot eivät ole viranhaltijoiden toimivallassa, antaa niistä lausunnot aluehallitus.\n\nLausuntopyyntöihin vastaamiselle annettu määräaika on yleensä niin lyhyt, ettei lausuntojen käsittely aluehallituksessa ole mahdollista.\n\nSaapuneet lausuntopyynnöt:\n\n- Puolustusministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle eräiden ympäristöasioiden käsittelystä Lupa- ja valvontavirastossa annetun lain muuttamisesta sekä siihen liittyviksi laeiksi\n\n- Ympäristöministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi laiksi rakennusten energiatodistustietojärjestelmästä annetun lain muuttamiseksi\n\nAnnetut lausunnot:\n\n- asiantuntijalausuntoa koskien HE 63/2026 Hallituksen esitys eduskunnalle laiksi lapsiin liittyvien rikosepäilyjen selvittämisessä avustavista terveydenhuollon yksiköistä",
+   "decision": "Merkittiin tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitukselle tiedoksi annettavat lausuntopyynnöt ja lausunnot\n\nValmistelija(t)\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkittiin tiedoksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus merkitsee saapuneet lausuntopyynnöt ja annetut lausunnot tiedoksi.\n\nToimivallan peruste\nhallintosääntö 36 §\n\nValmistelu\nAluehallituksen 2.10.2023 § 308 mukaisesti aluehallitus päättää hallintosäännön määräyksiä noudattaen, että merkittävät lausunnot esim. hyvinvointialueiden rahoitukseen, lainsäädäntöön liittyvät ja niihin rinnasteiset lausunnot antaa aluehallitus. Lausunnon merkittävyys arvioidaan asian valmistelussa.\n\nPohjois-Savon hyvinvointialueen hallintosäännön määräykset lausuntojen antamisesta antavat mahdollisuuden viranhaltijoille antaa lausuntoja tietyissä rajoissa. Mikäli annettavat lausunnot eivät ole viranhaltijoiden toimivallassa, antaa niistä lausunnot aluehallitus.\n\nLausuntopyyntöihin vastaamiselle annettu määräaika on yleensä niin lyhyt, ettei lausuntojen käsittely aluehallituksessa ole mahdollista.\n\nSaapuneet lausuntopyynnöt:\n\n- Puolustusministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle eräiden ympäristöasioiden käsittelystä Lupa- ja valvontavirastossa annetun lain muuttamisesta sekä siihen liittyviksi laeiksi\n\n- Ympäristöministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi laiksi rakennusten energiatodistustietojärjestelmästä annetun lain muuttamiseksi\n\nAnnetut lausunnot:\n\n- asiantuntijalausuntoa koskien HE 63/2026 Hallituksen esitys eduskunnalle laiksi lapsiin liittyvien rikosepäilyjen selvittämisessä avustavista terveydenhuollon yksiköistä"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Puolustusministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle eräiden ympäristöasioiden käsittelystä Lupa- ja valvontavirastossa annetun lain muuttamisesta sekä siihen liittyviksi laeiksi",
+     "url": "https://pshva.oncloudos.com/kokous/20261130-21-284241.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Lausuntopyyntö luonnoksesta hallituksen esitykseksi laiksi rakennusten energiatodistustietojärjestelmästä annetun lain muuttamiseksi, Ympäristöministeriö",
+     "url": "https://pshva.oncloudos.com/kokous/20261130-21-286953.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 HE 63.2026 vastaus Sotevaliokunnan lausuntopyyntöön",
+     "url": "https://pshva.oncloudos.com/kokous/20261130-21-285695.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "306",
+   "title": "Lautakuntien ja jaostojen päätösten tarkistaminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-22",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-22.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Toimielimen puheenjohtaja",
+   "proposal": "Aluehallitus ei käytä otto-oikeutta toimielinten päätöksiin. Aluehallitus hyväksyy pöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nPohjois-Savon hyvinvointialueen hallintosäännössä § 57-59 on määritelty otto-oikeuden käytöstä seuraavaa:\n\nAsian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nAluehallituksella ei ole otto-oikeutta hyvinvointialueiden yhteisen toimielimen tekemiin päätöksiin.\n\nAsia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nYlemmän toimielimen käsiteltäväksi ei kuitenkaan saa ottaa:\n\n1) lain tai asetuksen mukaisia lupa-, ilmoitus- tai valvontamenettelyä koskevia asioita\n\n2) yksilöön kohdistuvia terveydenhuollon tai sosiaalitoimen asioita\n\n3) hyvinvointialuelain 54 §:ssä tarkoitetulle hyvinvointialueiden yhteiselle toimielimelle siirrettyjä asioita, jos asianomaiset hyvinvointialueet niin sopiva\n\nAsia voidaan hyvinvointialuelain 97 §:n mukaisesti ottaa lautakunnan käsiteltäväksi, jollei ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nAsian ottamisesta lautakunnan käsiteltäväksi voi päättää lautakunta, lautakunnan puheenjohtaja ja lautakunnan esittelijä.\n\nAluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan. Ilmoitus tehdään sähköisesti aluehallituksen puheenjohtajalle ja esittelijälle.\n\nPäätökset niissä asioissa, joista ei tarvitse ilmoittaa, voidaan otto-oikeuden estämättä panna täytäntöön, jollei yksittäistapauksessa ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nEsityslistan lisäaineistona jaetaan pöytäkirjat:\n\n- Ikäihmisten ja hoivapalveluiden lautakunta\n\n- Perhe- ja vammaispalveluiden lautakunta 24.8.2026, 14.9.2026\n\n- Yleisten palveluiden lautakunta\n\n- Kokonaisturvallisuuslautakunta\n\n- Asiakaskokemusjaosto\n\n- Tulevaisuus- ja strategiajaosto\n\n- Omistajaohjaus- ja talousjaosto",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Lautakuntien ja jaostojen päätösten tarkistaminen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Toimielimen puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus ei käytä otto-oikeutta toimielinten päätöksiin. Aluehallitus hyväksyy pöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nPohjois-Savon hyvinvointialueen hallintosäännössä § 57-59 on määritelty otto-oikeuden käytöstä seuraavaa:\n\nAsian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nAluehallituksella ei ole otto-oikeutta hyvinvointialueiden yhteisen toimielimen tekemiin päätöksiin.\n\nAsia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nYlemmän toimielimen käsiteltäväksi ei kuitenkaan saa ottaa:\n\n1) lain tai asetuksen mukaisia lupa-, ilmoitus- tai valvontamenettelyä koskevia asioita\n\n2) yksilöön kohdistuvia terveydenhuollon tai sosiaalitoimen asioita\n\n3) hyvinvointialuelain 54 §:ssä tarkoitetulle hyvinvointialueiden yhteiselle toimielimelle siirrettyjä asioita, jos asianomaiset hyvinvointialueet niin sopiva\n\nAsia voidaan hyvinvointialuelain 97 §:n mukaisesti ottaa lautakunnan käsiteltäväksi, jollei ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nAsian ottamisesta lautakunnan käsiteltäväksi voi päättää lautakunta, lautakunnan puheenjohtaja ja lautakunnan esittelijä.\n\nAluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan. Ilmoitus tehdään sähköisesti aluehallituksen puheenjohtajalle ja esittelijälle.\n\nPäätökset niissä asioissa, joista ei tarvitse ilmoittaa, voidaan otto-oikeuden estämättä panna täytäntöön, jollei yksittäistapauksessa ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nEsityslistan lisäaineistona jaetaan pöytäkirjat:\n\n- Ikäihmisten ja hoivapalveluiden lautakunta\n\n- Perhe- ja vammaispalveluiden lautakunta 24.8.2026, 14.9.2026\n\n- Yleisten palveluiden lautakunta\n\n- Kokonaisturvallisuuslautakunta\n\n- Asiakaskokemusjaosto\n\n- Tulevaisuus- ja strategiajaosto\n\n- Omistajaohjaus- ja talousjaosto"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Perhe- ja vammaispalveluiden lautakunta 24.8.2026 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/20261130-22-286391.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Perhe- ja vammaispalveluiden lautakunta 14.9.2026 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/20261130-22-286483.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "307",
+   "title": "Viranhaltijapäätösten tarkastaminen 1.9.-14.9.2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-23",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-23.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Toimielimen puheenjohtaja",
+   "proposal": "Aluehallitus ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Aluehallitus hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 57 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava aluehallitukselle niistä päätöksistä, jotka voidaan ottaa aluehallituksen käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava aluehallituksen alaisten viranhaltijoiden osalta aluehallitukselle.\n\nAluehallituksen alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa aluehallituksen puheenjohtajalle ja hyvinvointialuejohtajalle.\n\nAluehallitukselle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 1.9.2026 – 14.9.2026",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Viranhaltijapäätösten tarkastaminen 1.9.-14.9.2026"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Toimielimen puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Aluehallitus hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 57 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava aluehallitukselle niistä päätöksistä, jotka voidaan ottaa aluehallituksen käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava aluehallituksen alaisten viranhaltijoiden osalta aluehallitukselle.\n\nAluehallituksen alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa aluehallituksen puheenjohtajalle ja hyvinvointialuejohtajalle.\n\nAluehallitukselle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 1.9.2026 – 14.9.2026"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Viranhaltijapäätösluettelo 1.9.-14.9.2026, otsikot",
+     "url": "https://pshva.oncloudos.com/kokous/20261130-23-286641.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "308",
+   "title": "Muut asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-24",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-24.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ei muita asioita.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ei muita asioita."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "309",
+   "title": "Oikaisuvaatimus tekohampaat (JulkL 24.1. § 25)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261130-25",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261130-25.PDF",
+   "diary_number": "3923/03.06.02/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Puheenjohtaja päätti kokouksen klo 11.20\n\nValmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Raatikainen Riitta",
+   "role": "aluehallituksen puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Hedman Pia",
+   "role": "aluehallituksen 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Rossi Markku",
+   "role": "aluehallituksen 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kanniainen Aino",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lötjönen Vesa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Miettinen Heikki",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pitkänen Juha",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Rautiainen Merja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Suna Sassa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Taipale Pekka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Vornanen Ahti-Pekka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Väätäinen Tuula",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Åhman Kati",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kokki Hannu",
+   "role": "aluevaltuuston puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Pellikka Minna",
+   "role": "aluevaltuuston 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Hynninen Kati",
+   "role": "aluevaltuuston 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Korhonen Marko",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Niemeläinen Janne",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Antikainen Mari",
+   "role": "henkilöstöjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Janhonen Kari",
+   "role": "talousjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Jestola Eija",
+   "role": "toimilinjajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kantanen Kati",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Koponen Jukka",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Lampi Jussi",
+   "role": "strategiajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Pekkarinen Tuomo",
+   "role": "tietohallintojohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Remes Sami",
+   "role": "toimilinjajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Saarinen Jari",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Solmari Kirsi",
+   "role": "sosiaalihuollon asiantuntijajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kauppinen Virpi",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Räsänen Henna",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261130",
+  "fetched_at": "2026-10-14T17:52:58+00:00",
+  "content_hash": "7c2a6171a182477d",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T17:52:58+00:00"
+ }
+}
