@@ -5,6 +5,7 @@ import L from '../components/L.astro';
 import Hamster from '../components/Hamster.astro';
 import MeetingTable from '../components/MeetingTable.astro';
 import VoteTable from '../components/VoteTable.astro';
+import { topicCounts } from '../lib/topics-count';
 import { bothViews, counted as isCounted, fmtDate, load, url, votesOf } from '../lib/data';
 
 const { regions, meetings, bodies, status } = load();
@@ -58,6 +59,13 @@ const updated = status.updated_at ? fmtDate(status.updated_at.slice(0, 10)) : nu
     <a class="stat" href={url('aanestykset')}><strong>{fi(voteCount)}</strong><span><T k="votesCount" /></span></a>
     <div class="stat"><strong>{fi(bodyCount)}</strong><span><T k="bodiesCount" /></span></div>
   </div>
+
+  <div class="section-head"><h2><T k="browseTopics" /></h2><a href={url('aiheet')}><T k="topics" /> →</a></div>
+  <ul class="topic-grid">
+    {topicCounts().map(({ topic, n }) => (
+      <li><a href={`${url('aiheet')}?topic=${topic.id}`}><L fi={topic.label.fi!} sv={topic.label.sv} en={topic.label.en} /> <span class="n">{fi(n)}</span></a></li>
+    ))}
+  </ul>
 
   {allVotes.length > 0 && (
     <>

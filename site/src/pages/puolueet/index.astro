@@ -40,7 +40,7 @@ const seatsIn = (region: string, party: string) => electionOf(region)!.parties.f
       </div>
 
       <h2><T k="seats" /> · <T k="regions" /></h2>
-      <div class="table-wrap">
+      <div class="table-wrap seat-matrix">
         <table class="data">
           <thead><tr><th><T k="region" /></th>{parties.map((p) => <th class="num"><abbr title={p.party}>{p.party}</abbr></th>)}</tr></thead>
           <tbody>
@@ -53,6 +53,18 @@ const seatsIn = (region: string, party: string) => electionOf(region)!.parties.f
           </tbody>
         </table>
       </div>
+      <ul class="seat-cards">
+        {regions.map((r) => { const e = electionOf(r.id)!; return (
+          <li>
+            <a class="t" href={url(r.id, 'valtuutetut')}><L fi={r.short.fi!} sv={r.short.sv} /></a>
+            <span class="note"> · {e.seats} <T k="seatsCount" /></span>
+            <SeatBar parties={e.parties} legend={false} />
+            <ul class="seat-legend">
+              {e.parties.filter((p) => p.seats > 0).sort((a, b) => b.seats - a.seats).map((p) => <li><PartyTag party={p.party} /> <strong>{p.seats}</strong></li>)}
+            </ul>
+          </li>
+        ); })}
+      </ul>
       <p class="note"><T k="source_statfin" /></p>
     </>
   )}

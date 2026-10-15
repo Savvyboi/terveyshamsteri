@@ -26,6 +26,7 @@
     var open = {}, shownIn = {};
     var form = {
       q: root.querySelector('[name=q]'), from: root.querySelector('[name=from]'), to: root.querySelector('[name=to]'),
+      topic: root.querySelector('[name=topic]'),
     };
     function t(k) { var s = cfg.ui[k]; return s ? (s[lang()] || s.fi) : k; }
     function regionName(id) { var r = cfg.regions[id] || {}; return r[lang()] || r.fi || id; }
@@ -33,12 +34,18 @@
       return Array.prototype.filter.call(root.querySelectorAll('[name=' + name + ']'), function (c) { return c.checked; })
         .map(function (c) { return c.value; });
     }
+    function topicName(id) { var x = (cfg.topics || {})[id] || {}; return x[lang()] || x.fi || id; }
+    // <option> cannot hold the per-language spans the rest of the page uses, so relabel it.
+    function labelTopics() {
+      if (!form.topic) return;
+      Array.prototype.forEach.call(form.topic.options, function (o) { o.textContent = o.value ? topicName(o.value) : t('allTopics'); });
+    }
     function sortKey() { var s = checked('sort'); return s[0] || 'newest'; }
 
     // ------------------------------------------------------------ URL state
     function readUrl() {
       var p = new URLSearchParams(location.search);
-      ['q', 'from', 'to'].forEach(function (k) { if (form[k] && p.get(k)) form[k].value = p.get(k); });
+      ['q', 'from', 'to', 'topic'].forEach(function (k) { if (form[k] && p.get(k)) form[k].value = p.get(k); });
       FILTERS.forEach(function (name) {
         if (!p.has(name)) return;
         var want = p.get(name) === '-' ? [] : p.get(name).split(',');
@@ -48,7 +55,7 @@
     }
     function writeUrl() {
       var p = new URLSearchParams(location.search);
-      ['q', 'from', 'to'].forEach(function (k) { if (form[k] && form[k].value) p.set(k, form[k].value); else p.delete(k); });
+      ['q', 'from', 'to', 'topic'].forEach(function (k) { if (form[k] && form[k].value) p.set(k, form[k].value); else p.delete(k); });
       FILTERS.forEach(function (name) {
         var all = root.querySelectorAll('[name=' + name + ']');
         var on = checked(name);
@@ -67,14 +74,16 @@
       FILTERS.forEach(function (name) { if (root.querySelector('[name=' + name + ']')) sets[name] = checked(name); });
       var field = { region: 'region', type: 'bodyType', stage: 'stage', party: 'party', status: 'status' };
       var from = form.from ? form.from.value : '', to = form.to ? form.to.value : '';
+      var topic = form.topic ? form.topic.value : '';
       // Meetings published in both languages: show the copy in the reader's language.
       var copy = lang() === 'sv' ? 'sv' : 'fi';
       filtered = rows.filter(function (r) {
         if (r.twin === 'dup' || (r.twin && r.twin !== copy)) return false;
         for (var name in sets) if (sets[name].indexOf(r[field[name]]) < 0) return false;
+        if (topic && (!r.topics || r.topics.indexOf(topic) < 0)) return false;
         if (from && r.date < from) return false;
         if (to && r.date > to) return false;
-        if (q && [r.title, r.body, r.name].every(function (v) { return !v || v.toLowerCase().indexOf(q) < 0; })) return false;
+        if (q && [r.title, r.body, r.name, r.jaaMeans, r.eiMeans].every(function (v) { return !v || v.toLowerCase().indexOf(q) < 0; })) return false;
         return true;
       });
       var s = sortKey();
@@ -99,6 +108,7 @@
     var HEAD = {
       meetings: [['date'], ['meeting'], ['items', 'num']],
       votes: [['date'], ['intro'], ['result']],
+      items: [['date'], ['intro']],
       people: [['councillors'], ['electionVotes', 'num'], ['councilAttendance', 'num']],
     };
     function header() {
@@ -147,9 +157,22 @@
             r.votes ? el('span', { class: 'sub' }, [el('span', { class: 'chip vote', text: r.votes + ' ' + t(r.votes === 1 ? 'voteOne' : 'votesCount') })]) : null]),
         ]);
       }
+      if (kind === 'items') {
+        return el('tr', {}, [
+          date,
+          el('td', {}, [el('a', { class: 't', href: r.url, text: (r.number ? '§ ' + r.number + ' ' : '') + r.title }),
+            el('span', { class: 'sub' }, [r.body + ' ',
+              r.stage === 'agenda' ? el('span', { class: 'chip agenda', text: t('agenda') }) : null, ' ',
+              r.votes ? el('span', { class: 'chip vote', text: r.votes + ' ' + t(r.votes === 1 ? 'voteOne' : 'votesCount') }) : null]),
+            el('span', { class: 'sub topic-chips' }, r.topics.map(function (id) {
+              return el('a', { class: 'topic-chip', href: '?topic=' + id, 'data-topic': id, text: topicName(id) });
+            }))]),
+        ]);
+      }
       return el('tr', {}, [
         date,
         el('td', {}, [el('a', { class: 't', href: r.url, text: r.title }),
+          r.jaaMeans && r.eiMeans ? el('span', { class: 'sub', text: t('jaa') + ': ' + r.jaaMeans + ' · ' + t('ei') + ': ' + r.eiMeans }) : null,
           el('span', { class: 'sub', text: [r.body, r.number ? '§ ' + r.number : ''].filter(Boolean).join(' · ') })]),
         el('td', { class: 'result' }, [voteBar(r)]),
       ]);
@@ -223,14 +246,24 @@
       });
     });
     root.querySelector('[data-reset]').addEventListener('click', function () {
-      ['q', 'from', 'to'].forEach(function (k) { if (form[k]) form[k].value = ''; });
+      ['q', 'from', 'to', 'topic'].forEach(function (k) { if (form[k]) form[k].value = ''; });
       root.querySelectorAll('input[type=checkbox]').forEach(function (c) { c.checked = c.defaultChecked; });
       apply();
     });
     root.querySelectorAll('[data-export]').forEach(function (b) {
       b.addEventListener('click', function () { exportRows(b.dataset.export); });
     });
-    document.addEventListener('langchange', apply);
+    document.addEventListener('langchange', function () { labelTopics(); apply(); });
+    // Topic chips in the rows and in the topic grid above the table pick that topic.
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest && e.target.closest('a[data-topic]');
+      if (!a || !form.topic || e.ctrlKey || e.metaKey) return;
+      e.preventDefault();
+      form.topic.value = a.dataset.topic;
+      apply();
+      root.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+    labelTopics();
     fetch(root.dataset.src).then(function (r) { return r.json(); }).then(function (data) { rows = data; apply(); })
       .catch(function () { count.textContent = '⚠ ' + root.dataset.src; });
   }

@@ -12,6 +12,6 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     <p class="lead"><T k="votesLead" /></p>
     <p class="note">⚠ <T k="provisional" /></p>
   </div>
-  <DataTable kind="votes" src={url('data') + 'votes.json'} sorts={['newest', 'oldest', 'closest']} />
+  <DataTable kind="votes" src={url('data') + 'votes.json'} sorts={['newest', 'oldest', 'closest']} topics />
   <script is:inline src={`${base}/table.js`} defer></script>
 </Layout>

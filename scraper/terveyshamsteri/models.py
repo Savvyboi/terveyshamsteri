@@ -28,6 +28,10 @@ class Vote:
     context: str                    # the sentence(s) the counts came from
     provisional: bool = True
     names: dict[str, list[str]] = field(default_factory=dict)  # voters by side, as written
+    # What each side stood for, from the chair's voting proposal: {"jaa": "esittelijän ehdotus",
+    # "ei": "Niina Immosen ehdotus"}. Empty when the minutes do not say.
+    question: dict[str, str] = field(default_factory=dict)
+    motion: str | None = None       # the counter-proposal that was voted on, as written
 
 
 @dataclass

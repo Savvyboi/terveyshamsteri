@@ -17,6 +17,7 @@ const { votes, showRegion } = Astro.props;
           <tr data-twin={m.twin}>
             <td class="date">{fmtDate(m.date)}</td>
             <td><a class="t" href={itemUrl(m, i)}>{it.title}</a>
+              {v.question?.jaa && v.question?.ei && <span class="sub"><T k="jaa" />: {v.question.jaa} · <T k="ei" />: {v.question.ei}</span>}
               <span class="sub">{showRegion && <><L fi={r.short.fi!} sv={r.short.sv} /> · </>}{m.body_name}{it.number && ` · § ${it.number}`}</span></td>
             <td class="result"><VoteBar vote={v} compact /></td>
           </tr>

@@ -1,0 +1,27 @@
+---
+import Layout from '../layouts/Layout.astro';
+import T from '../components/T.astro';
+import L from '../components/L.astro';
+import DataTable from '../components/DataTable.astro';
+import { url } from '../lib/data';
+import { topicCounts } from '../lib/topics-count';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const fi = (n: number) => n.toLocaleString('fi-FI');
+---
+<Layout title="Aiheet">
+  <div class="page-head">
+    <p class="kicker"><T k="kicker" /></p>
+    <h1><T k="topics" /></h1>
+    <p class="lead"><T k="topicsLead" /></p>
+  </div>
+  <ul class="topic-grid">
+    {topicCounts().map(({ topic, n }) => (
+      <li><a href={`${url('aiheet')}?topic=${topic.id}`} data-topic={topic.id}>
+        <L fi={topic.label.fi!} sv={topic.label.sv} en={topic.label.en} /> <span class="n">{fi(n)}</span>
+      </a></li>
+    ))}
+  </ul>
+  <p class="note"><T k="topicsHow" /> <a href={url('haku')}><T k="searchTitle" /> →</a></p>
+  <DataTable kind="items" src={url('data') + 'items.json'} sorts={['newest', 'oldest']} stageFilter topics />
+  <script is:inline src={`${base}/table.js`} defer></script>
+</Layout>

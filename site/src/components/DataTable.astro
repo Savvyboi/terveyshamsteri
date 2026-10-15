@@ -6,6 +6,7 @@ import L from './L.astro';
 import PartyTag from './PartyTag.astro';
 import { BODY_TYPES, load, partyMeta } from '../lib/data';
 import { strings, type Key } from '../lib/i18n';
+import { TOPICS } from '../lib/topics';
 
 interface Props {
   kind: 'meetings' | 'votes' | 'people';
@@ -17,14 +18,17 @@ interface Props {
   /** Regions to offer; defaults to those with minutes. */
   regionIds?: string[];
   parties?: string[];
+  /** Offer a topic menu (rows carry `topics`). */
+  topics?: boolean;
 }
-const { kind, src, sorts, stageFilter, people, regionIds, parties = [] } = Astro.props;
+const { kind, src, sorts, stageFilter, people, regionIds, parties = [], topics } = Astro.props;
 const regions = load().regions.filter((r) => (regionIds ? regionIds.includes(r.id) : r.meetings > 0));
 const regionNames = Object.fromEntries(regions.map((r) => [r.id, r.short]));
 const partyNames = Object.fromEntries(parties.map((p) => [p, partyMeta(p)]));
+const topicNames = Object.fromEntries(TOPICS.map((x) => [x.id, x.label]));
 const ui = strings([
   'date', 'region', 'body', 'meeting', 'items', 'result', 'intro', 'agenda', 'minutes', 'votes',
-  'jaa', 'ei', 'tyhja', 'poissa', 'showMore', 'councillors', 'electionVotes', 'councilAttendance', 'st_elected', 'st_deputy', 'incumbent', 'noResults', 'shown', 'outOf', 'loading', 'itemsCount', 'votesCount', 'voteOne',
+  'jaa', 'ei', 'tyhja', 'poissa', 'showMore', 'allTopics', 'councillors', 'electionVotes', 'councilAttendance', 'st_elected', 'st_deputy', 'incumbent', 'noResults', 'shown', 'outOf', 'loading', 'itemsCount', 'votesCount', 'voteOne',
   ...BODY_TYPES.map((t) => `type_${t}` as Key),
 ]);
 const paw = 'M12 13.2c-2.6 0-5.5 2.8-5.5 5.2 0 1.4 1 2.1 2.3 2.1 1.4 0 2.1-.8 3.2-.8s1.8.8 3.2.8c1.3 0 2.3-.7 2.3-2.1 0-2.4-2.9-5.2-5.5-5.2Zm-6.3-1.9c1.3-.4 1.8-2 1.2-3.6S4.8 5.9 3.5 6.3s-1.8 2-1.2 3.6 2.1 1.8 3.4 1.4Zm12.6 0c1.3.4 2.8-.3 3.4-1.4.6-1.6.1-3.2-1.2-3.6s-2.8.6-3.4 2.2c-.6 1.6-.1 3.3 1.2 2.8ZM9.2 8.6c1.5 0 2.6-1.5 2.6-3.3S10.7 2 9.2 2 6.6 3.5 6.6 5.3s1.1 3.3 2.6 3.3Zm5.6 0c1.5 0 2.6-1.5 2.6-3.3S16.3 2 14.8 2s-2.6 1.5-2.6 3.3 1.1 3.3 2.6 3.3Z';
@@ -39,6 +43,15 @@ const paw = 'M12 13.2c-2.6 0-5.5 2.8-5.5 5.2 0 1.4 1 2.1 2.3 2.1 1.4 0 2.1-.8 3.
           placeholder="Hae otsikosta tai toimielimestä" data-fi-placeholder="Hae otsikosta tai toimielimestä"
           data-sv-placeholder="Sök i rubrik eller organ" data-en-placeholder="Search title or body" />
       </label>
+      {topics && (
+        <label class="field">
+          <span><T k="topic" /></span>
+          <select name="topic">
+            <option value="">Kaikki aiheet</option>
+            {TOPICS.map((x) => <option value={x.id}>{x.label.fi}</option>)}
+          </select>
+        </label>
+      )}
       <fieldset class="field">
         <legend><T k="region" /> · <button type="button" class="linkish" data-all="region"><T k="all" /></button> / <button type="button" class="linkish" data-none="region"><T k="none" /></button></legend>
         <div class="checks">
@@ -104,5 +117,5 @@ const paw = 'M12 13.2c-2.6 0-5.5 2.8-5.5 5.2 0 1.4 1 2.1 2.3 2.1 1.4 0 2.1-.8 3.
   </div>
   <div class="groups"></div>
   <noscript><p class="note"><T k="needsJs" /></p></noscript>
-  <script type="application/json" class="dt-config" set:html={JSON.stringify({ regions: regionNames, parties: partyNames, ui })} />
+  <script type="application/json" class="dt-config" set:html={JSON.stringify({ regions: regionNames, parties: partyNames, topics: topicNames, ui })} />
 </div>

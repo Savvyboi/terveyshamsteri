@@ -12,5 +12,6 @@ const c = b.v.counts as Record<string, number | undefined>;
   <td><a class="t" href={itemUrl(b.m, b.i)}>{it.number && `§ ${it.number} `}{it.title}</a>
     <span class="sub">{b.m.body_name}{c.jaa != null && c.ei != null && <> · <T k="jaa" /> {c.jaa} – <T k="ei" /> {c.ei}</>}</span></td>
   <td class="num"><span class={`side-chip ${b.side}`}><T k={b.side} /></span>
+    {b.v.question?.[b.side] && <span class="sub">{b.v.question[b.side]}</span>}
     {against && <span class="sub against"><T k="againstParty" /></span>}</td>
 </tr>

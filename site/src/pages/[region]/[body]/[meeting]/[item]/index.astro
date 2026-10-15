@@ -5,7 +5,9 @@ import Breadcrumbs from '../../../../../components/Breadcrumbs.astro';
 import VoteBar from '../../../../../components/VoteBar.astro';
 import PartySplit from '../../../../../components/PartySplit.astro';
 import VoterList from '../../../../../components/VoterList.astro';
-import { counted, fmtDate, itemSlug, itemUrl, load, meetingSlug, meetingUrl, regionById, url, type Meeting } from '../../../../../lib/data';
+import L from '../../../../../components/L.astro';
+import { topicById, topicsOf } from '../../../../../lib/topics';
+import { counted, winner, fmtDate, itemSlug, itemUrl, load, meetingSlug, meetingUrl, regionById, url, type Meeting } from '../../../../../lib/data';
 
 export function getStaticPaths() {
   return load().meetings.flatMap((m) => m.items.map((_, i) => ({
@@ -21,6 +23,7 @@ const sections = it.sections.filter((s) => !hidden.has(s.heading.toLowerCase()) 
 const canonical = new URL(itemUrl(m, i), Astro.site).href;
 const citation = `${r.name.fi}, ${m.body_name} ${fmtDate(m.date)}${it.number ? ` § ${it.number}` : ''}: ${it.title}. ${it.source_url} (haettu ${new Date(m.provenance.fetched_at).toLocaleDateString('fi-FI')}; ${canonical})`;
 const citeId = `cite-${i}`;
+const topics = topicsOf(it.title).map((id) => topicById(id)!);
 ---
 <Layout title={`${it.number ? `§ ${it.number} ` : ''}${it.title}`} description={(it.decision ?? it.proposal ?? '').slice(0, 200)}>
   <Breadcrumbs trail={[
@@ -36,6 +39,7 @@ const citeId = `cite-${i}`;
     <span hidden data-pagefind-filter={`Toimielin:${m.body_name}`}></span>
     <span hidden data-pagefind-filter={`Vuosi:${m.date.slice(0, 4)}`}></span>
     {it.votes.length > 0 && <span hidden data-pagefind-filter="Äänestys:kyllä"></span>}
+    {topics.map((x) => <span hidden data-pagefind-filter={`Aihe:${x.label.fi}`}></span>)}
     <div class="page-head">
       <p class="kicker">{m.body_name}</p>
       <h1 data-pagefind-meta="title">{it.number && `§ ${it.number} `}{it.title}</h1>
@@ -45,6 +49,12 @@ const citeId = `cite-${i}`;
         {m.stage === 'agenda' ? <span class="chip agenda"><T k="agenda" /></span> : <span class="chip muted"><T k={m.stage === 'minutes-unverified' ? 'minutesUnverified' : 'minutes'} /></span>}
         {it.votes.length > 0 && <span class="chip vote"><T k="vote" /></span>}
       </p>
+      {topics.length > 0 && (
+        <p class="topic-chips" data-pagefind-ignore>
+          <span class="note"><T k="topics" />:</span>
+          {topics.map((x) => <a class="topic-chip" href={`${url('aiheet')}?topic=${x.id}`}><L fi={x.label.fi!} sv={x.label.sv} en={x.label.en} /></a>)}
+        </p>
+      )}
     </div>
 
     <div class="columns">
@@ -65,8 +75,27 @@ const citeId = `cite-${i}`;
         {it.votes.map((v, k) => (
           <section class="vote-card">
             <h3><T k="vote" />{it.votes.length > 1 && ` ${k + 1}`}</h3>
+            {v.question?.jaa && v.question?.ei ? (
+              <div class="vote-question">
+                <h4><T k="voteQuestion" /></h4>
+                <dl>
+                  {(['jaa', 'ei'] as const).map((s) => (
+                    <div class:list={[`vq-${s}`, { won: winner(v) === s }]}>
+                      <dt><i class={`dot seg-${s}`}></i><T k={s} /></dt>
+                      <dd>{v.question![s]}{winner(v) === s && <span class="won-chip"> ✓ <T k="won" /></span>}</dd>
+                    </div>
+                  ))}
+                </dl>
+                {v.motion && <p class="vote-motion"><span class="note"><T k="voteMotion" />:</span> {v.motion}</p>}
+              </div>
+            ) : (
+              <p class="note" data-pagefind-ignore><T k="noVoteQuestion" /></p>
+            )}
             <VoteBar vote={v} />
-            <p class="vote-context">{v.context}</p>
+            <details class="vote-context" open={!(v.question?.jaa && v.question?.ei)}>
+              <summary><T k="minutesText" /></summary>
+              <p>{v.context}</p>
+            </details>
             <VoterList m={m} v={v} />
             {v.names && Object.keys(v.names).length > 0 && <PartySplit m={m} v={v} />}
             {v.provisional && <p class="note">⚠ <T k="provisional" /></p>}
