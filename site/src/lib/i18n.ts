@@ -72,6 +72,7 @@ export const S = {
   error: { fi: 'Virhe haussa', sv: 'Fel vid hämtning', en: 'Fetch error' },
   agenda: { fi: 'Esityslista', sv: 'Föredragningslista', en: 'Agenda' },
   minutes: { fi: 'Pöytäkirja', sv: 'Protokoll', en: 'Minutes' },
+  minutesUnverified: { fi: 'Tarkastamaton pöytäkirja', sv: 'Ojusterat protokoll', en: 'Unverified minutes' },
   stage: { fi: 'Vaihe', sv: 'Skede', en: 'Stage' },
   decision: { fi: 'Päätös', sv: 'Beslut', en: 'Decision' },
   whatDecided: { fi: 'Mitä päätettiin', sv: 'Vad beslutades', en: 'What was decided' },

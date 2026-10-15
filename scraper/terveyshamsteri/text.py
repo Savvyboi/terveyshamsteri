@@ -150,7 +150,7 @@ SECTION_HEADINGS = {
                  r"[\wåäö-]+n päätösesitys"],
     "decision": [r"päätös", r"beslut"],
     "discussion": [r"kokouskäsittely", r"käsittely", r"behandling", r"behandling under mötet"],
-    "preparer": [r"valmistelija(?:t)?", r"beredning", r"beredare", r"lisätiedot"],
+    "preparer": [r"valmistelija(?:t)?", r"valmistelija(?:t)? ja lisätietojen antaja(?:t)?", r"beredning", r"beredare", r"lisätiedot"],
     "presenter": [r"esittelijä", r"föredragande"],
     "attachments": [r"liitteet", r"bilagor", r"oheismateriaali", r"oheisaineisto"],
     "appeal": [r"muutoksenhaku", r"muutoksenhakuohje", r"sökande av ändring", r"besvärsanvisning"],

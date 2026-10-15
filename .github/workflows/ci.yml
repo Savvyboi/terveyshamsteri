@@ -51,7 +51,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        region: [keski-suomi, pirkanmaa, kanta-hame]
+        region: [keski-suomi, pirkanmaa, kanta-hame, varsinais-suomi]
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -139,18 +139,6 @@ jobs:
               print(f"::notice title=ELECTIONS {p.stem}::seats={d['seats']} votes={d['votes_total']} "
                     f"parties={[(x['party'], x['seats']) for x in d['parties']]} people={len(d['people'])} first={d['people'][:2]}")
           PY
-
-  # Temporary: dumps STT Info pages for the Varha adapter.
-  sttinfo-probe:
-    runs-on: ubuntu-latest
-    continue-on-error: true
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - run: pip install -r scraper/requirements.txt pypdf==5.1.0
-      - run: python .github/probe/sttinfo.py
 
   finance-probe:
     runs-on: ubuntu-latest

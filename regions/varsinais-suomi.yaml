@@ -7,14 +7,18 @@ short:
   fi: Varsinais-Suomi
   sv: Egentliga Finland
 homepage: https://www.varha.fi
-enabled: false
+enabled: true
 since: 2025-06-01   # start of the current council term
 language: fi
 source_status: confirmed   # confirmed | inferred | unknown
 epochs:
-  - platform: tweb
-    base_url: https://varha-julkaisu.triplancloud.fi
-    entry_url: https://varha-julkaisu.triplancloud.fi/ktwebscr/pk_tek_tweb.htm
+  # Varha's own Tweb (varha-julkaisu.triplancloud.fi) disallows all robots, so minutes come
+  # from the press releases Varha sends to STT Info with the minutes PDF attached.
+  - platform: sttinfo
+    base_url: https://www.sttinfo.fi
+    entry_url: https://www.sttinfo.fi/uutishuone/69820130/varsinais-suomen-hyvinvointialue-varha
+    newsroom_url: https://www.sttinfo.fi/uutishuone/69820130/varsinais-suomen-hyvinvointialue-varha
+    publisher_id: 69820130
 notes:
-  fi: "Pöytäkirjat julkaistaan Tweb-palvelussa, jonka robots.txt estää kaikki robotit (tarkistettu 15.10.2026)."
-  sv: "Protokollen publiceras i Tweb, vars robots.txt förbjuder alla robotar (kontrollerat 15.10.2026)."
+  fi: "Varhan oma julkaisupalvelu (Tweb) estää robotit, joten pöytäkirjat haetaan Varhan STT Info -tiedotteiden liitteistä. Mukana ovat vain ne kokoukset, joiden pöytäkirja on julkaistu tiedotteena (lähinnä aluehallitus), ja ne ovat tarkastamattomia versioita."
+  sv: "Varhas egen publiceringstjänst (Tweb) förbjuder robotar, så protokollen hämtas från bilagorna till Varhas pressmeddelanden på STT Info. Med är bara möten vars protokoll publicerats som pressmeddelande (främst välfärdsområdesstyrelsen), och de är ojusterade versioner."
