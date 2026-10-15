@@ -1,13 +1,23 @@
-"""Temporary: names for the Y-tunnus of wellbeing-area reporters (PRH open data)."""
+"""Temporary: reporter names from the non-numeric fields of their reports."""
 import json, traceback, urllib.request
+R = "https://prodkuntarest.westeurope.cloudapp.azure.com/rest/v1/json"
 out = open("probe-out.txt", "w", encoding="utf-8")
-IDS = ['0201256-6', '1567535-0', '2126106-6', '2483868-4', '3221065-1', '3221304-3', '3221307-8', '3221308-6', '3221309-4', '3221311-5', '3221313-1', '3221315-8', '3221316-6', '3221317-4', '3221318-2', '3221323-8', '3221324-6', '3221325-4', '3221326-2', '3221331-8', '3221332-6', '3221339-3', '3221340-6', '3221347-3', '3221356-1']
-for y in IDS:
-    try:
-        req = urllib.request.Request(f"https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId={y}", headers={"User-Agent": "terveyshamsteri-probe"})
-        d = json.load(urllib.request.urlopen(req, timeout=60))
-        names = [n.get("name") for c in d.get("companies", []) for n in c.get("names", []) if not n.get("endDate")] or json.dumps(d, ensure_ascii=False)[:400]
-        print(y, names, file=out)
-    except Exception as e:
-        print(y, "ERR", repr(e)[:200], file=out)
+def get(u):
+    req = urllib.request.Request(u, headers={"User-Agent": "terveyshamsteri-probe"})
+    with urllib.request.urlopen(req, timeout=240) as r:
+        return json.loads(r.read().decode("utf-8-sig"))
+def items(d): return d if isinstance(d, list) else next(v for v in d.values() if isinstance(v, list))
+try:
+    listing = get(f"{R}/aineistot")["aineistot"]
+    ids = sorted({r["ytunnus"] for r in listing if r["raportointikokonaisuus"] == "HHKNR"})
+    for y in ids:
+        r = next(r for r in listing if r["ytunnus"] == y and r["raportointikokonaisuus"] == "HHKNR" and r["raportointikausi"] == "2025C12")
+        texts = []
+        for d in items(get(r["tunnusluvut"])):
+            a = d.get("arvo") or ""
+            try: float(a)
+            except ValueError: texts.append(f"{d['tunnusluku']}={a[:80]}")
+        print(y, texts[:12], file=out)
+except Exception:
+    print("CRASH", traceback.format_exc(), file=out)
 out.close()
