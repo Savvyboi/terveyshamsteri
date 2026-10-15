@@ -1,4 +1,4 @@
-# Etelä-Pohjanmaa: decision publishing source (confirmed).
+# Etelä-Pohjanmaa: decision publishing source (confirmed 15.10.2026).
 id: etela-pohjanmaa
 name:
   fi: Etelä-Pohjanmaan hyvinvointialue
@@ -12,7 +12,9 @@ since: 2025-06-01   # start of the current council term
 language: fi
 source_status: confirmed   # confirmed | inferred | unknown
 epochs:
-  - platform: pdfsite
-    base_url: https://www.hyvaep.fi
+  - platform: tweb
+    base_url: https://hyvaep-julkaisu.tweb.fi
+    entry_url: https://hyvaep-julkaisu.tweb.fi/ktwebscr/epj_tek_tweb.htm
 notes:
-  fi: "Pöytäkirjat PDF-tiedostoina alueen omilla sivuilla; vaatii oman PDF-sovittimen."
+  fi: "Pöytäkirjat julkaistaan Tweb-palvelussa, jonka robots.txt estää kaiken automaattisen haun (tarkistettu 15.10.2026). Tarvitaan alueen lupa tai tiedostovienti."
+  sv: "Protokollen publiceras i Tweb, vars robots.txt förbjuder all automatisk hämtning (kontrollerat 15.10.2026). Det behövs tillstånd från området eller en filexport."

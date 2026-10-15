@@ -189,10 +189,13 @@ def test_region_configs_load():
     from terveyshamsteri.config import load_regions
     regions = load_regions(Path(__file__).resolve().parents[2] / "regions")
     assert len(regions) == 21
+    unimplemented = {"mfiles"}   # documented sources we have no adapter for (robots.txt forbids)
     for r in regions.values():
         assert r["name"]["fi"] and r["name"]["sv"]
         for e in r.get("epochs", []):
-            assert e["platform"] in ADAPTERS or e["platform"] == "pdfsite"
+            assert e["platform"] in ADAPTERS or e["platform"] in unimplemented
+            if e["platform"] not in ADAPTERS:
+                assert not r["enabled"]
 
 
 def test_dynasty_newer_layout():
