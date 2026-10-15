@@ -1,4 +1,4 @@
-# Etelä-Karjala: decision publishing source (unknown).
+# Etelä-Karjala: decision publishing source (confirmed 15.10.2026).
 id: etela-karjala
 name:
   fi: Etelä-Karjalan hyvinvointialue
@@ -10,7 +10,11 @@ homepage: https://ekhva.fi
 enabled: false
 since: 2025-06-01   # start of the current council term
 language: fi
-source_status: unknown   # confirmed | inferred | unknown
-epochs: []
+source_status: confirmed   # confirmed | inferred | unknown
+epochs:
+  - platform: mfiles
+    base_url: https://mfiles.ekhva.fi
+    entry_url: https://mfiles.ekhva.fi/kokoukset/ekhva/
 notes:
-  fi: "Pöytäkirjojen julkaisujärjestelmä selvittämättä."
+  fi: "Esityslistat ja pöytäkirjat julkaistaan M-Files-kokouspalvelussa, jonka robots.txt estää kaiken automaattisen haun (tarkistettu 15.10.2026). Tarvitaan alueen lupa tai tiedostovienti."
+  sv: "Föredragningslistor och protokoll publiceras i M-Files mötestjänst, vars robots.txt förbjuder all automatisk hämtning (kontrollerat 15.10.2026). Det behövs tillstånd från området eller en filexport."
