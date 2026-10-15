@@ -17,6 +17,7 @@ from __future__ import annotations
 import io
 import logging
 import re
+import unicodedata
 from urllib.parse import urljoin
 
 from ..models import Body, Item, Meeting, MeetingRef, Participant
@@ -84,7 +85,8 @@ class SttInfoAdapter(Adapter):
             for r in releases:
                 fi = (r.get("versions") or {}).get("fi")
                 if fi and fi.get("title") and fi.get("url"):
-                    out.append((fi["title"], urljoin(SITE, fi["url"])))
+                    # Some titles arrive decomposed ("o" + combining diaeresis).
+                    out.append((unicodedata.normalize("NFC", fi["title"]), urljoin(SITE, fi["url"])))
             if not releases or min(r.get("date", "") for r in releases)[:10] < since:
                 break
         return out
@@ -96,8 +98,8 @@ class SttInfoAdapter(Adapter):
             releases = self._releases()
             for title, url in releases:
                 parsed = parse_release_title(title)
-                if not parsed and re.search(r"pöytäkirja", title, re.IGNORECASE):
-                    log.warning("minutes release title not understood: %r", title)
+                if not parsed and re.search(r"kirja|aluehallitu", title, re.IGNORECASE):
+                    log.warning("minutes release title not understood: %s", ascii(title))
                 if not parsed or url in seen:
                     continue
                 seen.add(url)
