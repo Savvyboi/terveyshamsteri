@@ -2,6 +2,7 @@
 import Layout from '../../../layouts/Layout.astro';
 import T from '../../../components/T.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import L from '../../../components/L.astro';
 import VoteBar from '../../../components/VoteBar.astro';
 import { fmtDate, itemUrl, load, url, votesOf, type Region } from '../../../lib/data';
 
@@ -13,8 +14,11 @@ const votes = votesOf(r.id);
 ---
 <Layout title={`Äänestykset – ${r.short.fi}`}>
   <Breadcrumbs trail={[{ href: url(r.id), fi: r.short.fi, sv: r.short.sv }, { fi: 'Äänestykset', sv: 'Omröstningar' }]} />
-  <h1><T k="votes" /></h1>
-  <p class="note">⚠ <T k="provisional" /></p>
+  <div class="page-head">
+    <p class="kicker"><L fi={r.short.fi!} sv={r.short.sv} /></p>
+    <h1><T k="votes" /></h1>
+    <p class="note">⚠ <T k="provisional" /></p>
+  </div>
   {votes.length === 0 && <p>—</p>}
   {votes.map(({ m, i, v }) => (
     <section class="vote-card">

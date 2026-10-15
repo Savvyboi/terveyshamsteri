@@ -1,6 +1,7 @@
 ---
 import Layout from '../../../layouts/Layout.astro';
 import T from '../../../components/T.astro';
+import L from '../../../components/L.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import { load, peopleOf, url, type Region } from '../../../lib/data';
 
@@ -15,12 +16,16 @@ const rate = (p: { present: number; absent: number }) => Math.round((p.present /
 ---
 <Layout title={`Henkilöt – ${r.short.fi}`}>
   <Breadcrumbs trail={[{ href: url(r.id), fi: r.short.fi, sv: r.short.sv }, { fi: 'Henkilöt', sv: 'Personer' }]} />
+  <div class="page-head">
+  <p class="kicker"><L fi={r.short.fi!} sv={r.short.sv} /></p>
   <h1><T k="people" /></h1>
   <p class="note">
     <span class="fi">Luettelo perustuu pöytäkirjojen osallistujatietoihin. Nimet ovat siinä muodossa kuin ne lähteessä on kirjoitettu.</span>
     <span class="sv">Förteckningen bygger på protokollens deltagaruppgifter. Namnen skrivs som i källan.</span>
+    <span class="en">The list is based on attendance in the minutes. Names are spelled as in the source.</span>
   </p>
-  <div class="filters"><input type="search" id="pfilter" placeholder="Suodata nimellä" data-fi-placeholder="Suodata nimellä" data-sv-placeholder="Filtrera på namn" /></div>
+  </div>
+  <div class="filters"><input type="search" id="pfilter" placeholder="Suodata nimellä" data-fi-placeholder="Suodata nimellä" data-sv-placeholder="Filtrera på namn" data-en-placeholder="Filter by name" /></div>
   <h2><T k="elected" /> ({elected.length})</h2>
   <ul class="list" data-filterable>
     {elected.map((p) => (
