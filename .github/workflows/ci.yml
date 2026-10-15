@@ -166,18 +166,21 @@ jobs:
                 f"cumulative={a.get('cumulative_surplus')} loans={a.get('loans')} population={pop}")
           PY
 
-  # Temporary: where do Etelä-Pohjanmaa and Etelä-Karjala publish minutes?
+  # Temporary: page structure of the Etelä-Pohjanmaa Tweb and the Etelä-Karjala M-Files service.
   site-probe:
     runs-on: ubuntu-latest
     continue-on-error: true
     strategy:
       fail-fast: false
       matrix:
-        start: ["https://www.hyvaep.fi", "https://ekhva.fi"]
+        urls:
+          - "https://hyvaep-julkaisu.tweb.fi/ktwebscr/epj_tek_tweb.htm"
+          - "https://mfiles.ekhva.fi/kokoukset/ekhva/ https://mfiles.ekhva.fi/Kokoukset/ekhva/22"
+          - "https://mfiles.ekhva.fi/Kokoukset/ekhva/22/389"
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - run: pip install -r scraper/requirements.txt
-      - run: python scraper/probes/site_probe.py "${{ matrix.start }}" 3
+      - run: python scraper/probes/raw_probe.py ${{ matrix.urls }}
