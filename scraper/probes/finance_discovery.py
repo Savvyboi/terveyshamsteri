@@ -6,7 +6,7 @@ for y in IDS:
     try:
         req = urllib.request.Request(f"https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId={y}", headers={"User-Agent": "terveyshamsteri-probe"})
         d = json.load(urllib.request.urlopen(req, timeout=60))
-        names = [n["name"] for c in d.get("companies", []) for n in c.get("names", []) if not n.get("endDate")]
+        names = [n.get("name") for c in d.get("companies", []) for n in c.get("names", []) if not n.get("endDate")] or json.dumps(d, ensure_ascii=False)[:400]
         print(y, names, file=out)
     except Exception as e:
         print(y, "ERR", repr(e)[:200], file=out)
