@@ -1,0 +1,86 @@
+---
+// Counties side by side: how much each meets and votes, how its councillors attend and vote,
+// how its initiatives fare and what its finances look like.
+import Layout from '../layouts/Layout.astro';
+import T from '../components/T.astro';
+import L from '../components/L.astro';
+import { bodyTypeOf, councillorsOf, financeRows, fmtDate, initiatives, load, meetingsOf, partyLine, url } from '../lib/data';
+import { eur, seur, tone } from '../lib/fmt';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const fin = new Map(financeRows().map((f) => [f.region, f]));
+const pct = (a: number, b: number) => (b ? Math.round((100 * a) / b) : null);
+const rows = load().regions.filter((r) => r.meetings > 0).map((r) => {
+  const ms = meetingsOf(r.id).filter((m) => m.stage !== 'agenda');
+  const council = ms.filter((m) => bodyTypeOf(r.id, m.body_id) === 'council');
+  const items = ms.reduce((a, m) => a + m.items.length, 0);
+  const voted = ms.reduce((a, m) => a + m.items.filter((it) => it.votes.length > 0).length, 0);
+  const votes = ms.reduce((a, m) => a + m.items.reduce((b, it) => b + it.votes.length, 0), 0);
+  const cs = councillorsOf(r.id).filter((p) => p.elected!.status === 'elected');
+  // Some minutes list only those present, so attendance is shown only where absences are recorded.
+  const recordsAbsence = council.some((m) => m.participants.some((x) => x.group === 'absent'));
+  const present = cs.reduce((a, p) => a + p.council.present, 0);
+  const seats = cs.reduce((a, p) => a + p.council.present + p.council.absent, 0);
+  let agree = 0, lineTotal = 0;
+  for (const p of cs) { const l = partyLine(r.id, p); if (l) { agree += l.agree; lineTotal += l.total; } }
+  const ini = initiatives().filter((g) => g.region === r.id && g.twin !== 'sv');
+  const f = fin.get(r.id);
+  return {
+    r, since: ms.at(-1)?.date ?? null, meetings: ms.length, council: council.length, items, votes, voted,
+    votedPct: pct(voted, items), attendance: recordsAbsence ? pct(present, seats) : null, line: lineTotal >= 20 ? pct(agree, lineTotal) : null,
+    lineTotal, ini: ini.length, iniAnswered: ini.filter((g) => g.status === 'answered').length,
+    expenses: f?.expenses_per_resident ?? null, cumulative: f?.cumulative_per_resident ?? null,
+  };
+}).sort((a, b) => (a.r.short.fi ?? '').localeCompare(b.r.short.fi ?? '', 'fi'));
+const missing = load().regions.filter((r) => r.meetings === 0);
+const fi = (n: number) => n.toLocaleString('fi-FI');
+const p = (n: number | null) => (n == null ? '–' : `${n} %`);
+---
+<Layout title="Vertailu">
+  <div class="page-head">
+    <p class="kicker"><T k="kicker" /></p>
+    <h1><T k="compareTitle" /></h1>
+    <p class="lead"><T k="compareLead" /></p>
+  </div>
+  <p class="note"><T k="sortHint" /></p>
+  <div class="table-wrap scroll">
+    <table class="data sortable compare-table">
+      <thead>
+        <tr>
+          <th data-sort="text" aria-sort="ascending"><T k="region" /></th>
+          <th class="num" data-sort="num"><T k="meetings" /><span class="sub"><T k="since" /></span></th>
+          <th class="num" data-sort="num"><T k="councilMeetings" /></th>
+          <th class="num" data-sort="num"><T k="votes" /></th>
+          <th class="num" data-sort="num"><T k="votedShare" /></th>
+          <th class="num" data-sort="num"><T k="avgAttendance" /></th>
+          <th class="num" data-sort="num"><T k="partyLine" /></th>
+          <th class="num" data-sort="num"><T k="initiatives" /><span class="sub"><T k="ini_answered" /></span></th>
+          <th class="num" data-sort="num"><T k="fin_expenses" /><span class="sub"><T k="perResident" /></span></th>
+          <th class="num" data-sort="num"><T k="fin_cumulative_surplus" /><span class="sub"><T k="perResident" /></span></th>
+        </tr>
+      </thead>
+      <tbody>
+        {rows.map((x) => (
+          <tr>
+            <td data-v={x.r.short.fi}><a class="t" href={url(x.r.id)}><L fi={x.r.short.fi!} sv={x.r.short.sv} /></a></td>
+            <td class="num" data-v={x.meetings}>{fi(x.meetings)}{x.since && <span class="sub">{fmtDate(x.since)}</span>}</td>
+            <td class="num" data-v={x.council}>{fi(x.council)}</td>
+            <td class="num" data-v={x.votes}><a href={url(x.r.id, 'aanestykset')}>{fi(x.votes)}</a></td>
+            <td class="num" data-v={x.votedPct ?? ''}>{p(x.votedPct)}<span class="sub">{fi(x.voted)}/{fi(x.items)}</span></td>
+            <td class="num" data-v={x.attendance ?? ''}>{x.attendance == null ? '–' : (
+              <span class="pct-cell"><span class="meter"><span style={`width:${x.attendance}%`}></span></span>{x.attendance} %</span>)}</td>
+            <td class="num" data-v={x.line ?? ''}>{p(x.line)}{x.line != null && <span class="sub">{fi(x.lineTotal)} <T k="ballotsLc" /></span>}</td>
+            <td class="num" data-v={x.ini}>{x.ini ? <a href={`${url('aloitteet')}?region=${x.r.id}`}>{fi(x.ini)}</a> : '0'}{x.ini > 0 && <span class="sub">{fi(x.iniAnswered)}</span>}</td>
+            <td class="num" data-v={x.expenses ?? ''}>{eur(x.expenses)}</td>
+            <td class:list={['num', tone(x.cumulative)]} data-v={x.cumulative ?? ''}>{seur(x.cumulative)}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p class="note" style="max-width:52rem"><T k="compareHow" /></p>
+  {missing.length > 0 && (
+    <p class="note" style="max-width:52rem"><T k="notCovered" />: {missing.map((r, k) => <>{k > 0 && ', '}<a href={url(r.id)}><L fi={r.short.fi!} sv={r.short.sv} /></a></>)}.</p>
+  )}
+  <script is:inline src={`${base}/sort.js`} defer></script>
+</Layout>

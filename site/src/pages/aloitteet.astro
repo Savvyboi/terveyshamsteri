@@ -1,0 +1,27 @@
+---
+import Layout from '../layouts/Layout.astro';
+import T from '../components/T.astro';
+import DataTable from '../components/DataTable.astro';
+import { initiatives, load, url } from '../lib/data';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const all = initiatives().filter((g) => g.twin !== 'sv');
+const answered = all.filter((g) => g.status === 'answered').length;
+const regionIds = [...new Set(all.map((g) => g.region))];
+const fi = (n: number) => n.toLocaleString('fi-FI');
+---
+<Layout title="Aloitteet">
+  <div class="page-head">
+    <p class="kicker"><T k="kicker" /></p>
+    <h1><T k="initiatives" /></h1>
+    <p class="lead"><T k="initiativesLead" /></p>
+  </div>
+  <div class="stats" style="margin-top:0">
+    <div class="stat"><strong>{fi(all.length)}</strong><span><T k="initiatives" /></span></div>
+    <div class="stat"><strong>{fi(answered)}</strong><span><T k="ini_answered" /></span></div>
+    <div class="stat"><strong>{fi(all.length - answered)}</strong><span><T k="ini_open" /></span></div>
+    <div class="stat"><strong>{regionIds.length}/{load().regions.filter((r) => r.meetings > 0).length}</strong><span><T k="regions" /></span></div>
+  </div>
+  <p class="note" style="max-width:52rem"><T k="initiativesHow" /></p>
+  <DataTable kind="initiatives" src={url('data') + 'initiatives.json'} sorts={['newest', 'oldest']} initiatives regionIds={regionIds} />
+  <script is:inline src={`${base}/table.js`} defer></script>
+</Layout>

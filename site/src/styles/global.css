@@ -374,7 +374,7 @@ details.section > div { padding: 0 18px 16px; }
   --pagefind-ui-border: var(--line); --pagefind-ui-tag: var(--blue-soft); --pagefind-ui-border-radius: 6px;
   --pagefind-ui-font: var(--sans); --pagefind-ui-scale: .9; }
 
-@media (max-width: 1400px) {
+@media (max-width: 1840px) {
   .nav { display: none; }
   .menu-button { display: inline-flex; margin-left: auto; }
 }
@@ -492,3 +492,19 @@ table.sortable th[aria-sort=descending]::after { content: ' ↓'; color: var(--i
 /* Wide numeric tables scroll sideways on phones instead of stacking. */
 .table-wrap.scroll { overflow-x: auto !important; }
 .table-wrap.scroll table.data { min-width: 640px; }
+
+/* Initiatives: the steps of one initiative, folded under its title */
+.ini-steps { margin-top: 4px; font-size: .88rem; }
+.ini-steps summary { cursor: pointer; color: var(--muted); }
+.ini-steps ol, ol.timeline { list-style: none; margin: 6px 0 0; padding: 0 0 0 14px; border-left: 2px solid var(--line); }
+.ini-steps li, ol.timeline li { position: relative; padding: 3px 0 3px 4px; }
+.ini-steps li::before, ol.timeline li::before { content: ''; position: absolute; left: -20px; top: .7em; width: 10px; height: 10px; border-radius: 50%; background: var(--surface); border: 2px solid var(--line); }
+.ini-steps li.step-answered::before, ol.timeline li.step-answered::before { background: var(--blue); border-color: var(--blue); }
+.ini-steps li.step-filed::before, ol.timeline li.step-filed::before { border-color: var(--blue); }
+ol.timeline li.current { font-weight: 700; }
+ol.timeline .note { display: block; font-weight: 400; }
+
+/* Open data page */
+pre.code { background: var(--surface-2); border: var(--border-w) solid var(--line); border-radius: 6px; padding: 10px 14px; overflow-x: auto; font-size: .85rem; }
+.feed-list { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 6px 16px; }
+table.data code { font-size: .82em; overflow-wrap: anywhere; }
