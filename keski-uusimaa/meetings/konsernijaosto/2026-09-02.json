@@ -1,0 +1,664 @@
+{
+ "id": "konsernijaosto/2026-09-02",
+ "region": "keski-uusimaa",
+ "body_id": "konsernijaosto",
+ "body_name": "Konsernijaosto",
+ "date": "2026-09-02",
+ "stage": "minutes",
+ "source_url": "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Konsernijaosto/Kokous_292026",
+ "pdf_url": "https://keuh.cloudnc.fi/download/noname/{2423bbbd-7574-4573-b27c-2fd80237d2e6}/56495",
+ "time": null,
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "59",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://keuh.cloudnc.fi/fi-FI/content/19770/13628",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Antti Nikkanen, tila- ja tukipalvelujohtaja",
+   "proposal": "Konsernijaosto päättää todeta kokouksen laillisesti koollekutsutuksi ja päätösvaltaiseksi.",
+   "decision": "Hyväksyttiin esityksen mukaan lisäyksellä, että käsittelyyn otetaan esityslistan mukaiset lisäpykälät 69 ja 70.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Perustelut",
+     "text": "Kokouskutsu on lähetettävä hallintosäännön § 146 mukaan 4 päivää ennen konsernijaoston kokousta kullekin jäsenelle sekä niille, joilla on kokouksessa läsnäolo-oikeus tai -velvollisuus.\n\nKutsu jäsenille on toimitettu 28.8.2026 ja esityslista on julkaistu Keski-Uudenmaan hyvinvointialueen verkkosivuilla. Pöytäkirja pidetään nähtävänä hyvinvointialueen verkkosivuilla tarkastamisen jälkeen.\n\nKonsernijaosto on päätösvaltainen, kun enemmän, kuin puolet jäsenistä on läsnä."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Konsernijaosto päättää todeta kokouksen laillisesti koollekutsutuksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Antti Nikkanen, tila- ja tukipalvelujohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan lisäyksellä, että käsittelyyn otetaan esityslistan mukaiset lisäpykälät 69 ja 70."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "60",
+   "title": "Pöytäkirjan tarkastaminen",
+   "source_url": "https://keuh.cloudnc.fi/fi-FI/content/19771/13628",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Antti Nikkanen, tila- ja tukipalvelujohtaja",
+   "proposal": "Konsernijaosto päättää valita pöytäkirjantarkastajiksi Jaakko Haapamäen ja Tiina Karhusen.",
+   "decision": "Hyväsyttiin esityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Perustelut",
+     "text": "Kokoukselle valitaan konsernijaoston jäsenistä kaksi pöytäkirjan tarkastajaa."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Konsernijaosto päättää valita pöytäkirjantarkastajiksi Jaakko Haapamäen ja Tiina Karhusen."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Antti Nikkanen, tila- ja tukipalvelujohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväsyttiin esityksen mukaan."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "61",
+   "title": "Tila- ja tukipalvelujohtajan ajankohtaiskatsaus",
+   "source_url": "https://keuh.cloudnc.fi/fi-FI/content/19775/13628",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Antti Nikkanen, tila- ja tukipalvelujohtaja",
+   "proposal": "Konsernijaosto merkitsee tiedoksi.",
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Perustelut",
+     "text": "Tila- ja tukipalvelujohtajan ajankohtaiskatsaus sekä hyvinvointialuejohtajan katsaus VM:n käynnistämästä ennakollisesta taloudellisesta ohjauksesta."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Konsernijaosto merkitsee tiedoksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Antti Nikkanen, tila- ja tukipalvelujohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "62",
+   "title": "Keski-Uudenmaan hyvinvointialueen ulkohyvinvointialue- ja vakuutusyhtiölaskutuksen hinnasto vuodelle 2026 ikääntyneiden sekä vammaisten palvelut",
+   "source_url": "https://keuh.cloudnc.fi/fi-FI/content/19776/13628",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Laura Aittola, laskentapäällikkö",
+   "presenter": "Antti Nikkanen, tila- ja tukipalvelujohtaja",
+   "proposal": "Konsernijaosto päättää ehdottaa aluehallitukselle, että se päättää hyväksyä palveluhinnaston vuodelle 2026 liitteen mukaisesti.",
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "KEUHDno-2026-4912"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Laura Aittola, laskentapäällikkö"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Ulkohyvinvointialuelaskutusta varten on valmisteltu liitteen mukainen hinnasto ikääntyneiden sekä vammaispalveluiden osalta. Hinnat on muodostettu Keski-Uudenmaan hyvinvointialueen tuotteistuksen yhteydessä. Hinnat perustuvat omakustannusarvoon eli määräytyvät oman tuotannon perusteella lasketuista keskimääräisistä kustannuksista mukaan lukien hallinnon vyörytykset. Tuotelaskennassa hinnat on muodostettu jakamalla kyseisestä palvelusta vuoden 2025 aikana aiheutuneet kustannukset, mukaan lukien vyörytyskustannukset, toteutuneella suoritemäärällä. Lasketut yksikkökustannukset ovat useiden palveluiden osalta matalammat edellisen vuoden laskettuihin hintoihin nähden. Tätä selittää pääosin hyvinvointialueella tehdyt sopeutus- ja säästötoimet. Hyvinvointialueen muiden palvelualueiden osalta tämän kierroksen tuotteistus on vielä kesken. Näiden osalta laskutushinnastona käytetään edellisen vuoden laskutushintaa, kunnes uusi tuotteistuskierros saadaan valmiiksi. Tuotteistuksen yhteydessä laskettuihin hintoihin on lisätty 3,25 prosentin korotus vastaamaan kustannusten nousua vuodesta 2025 vuoteen 2026 verrattuna, vuoden 2026 hyvinvointialueindeksin mukaisesti. Vakuutusyhtiölaskutuksessa hinnaston yksikköhintoihin lisätään asiakasmaksun osuus.\n\nLiitteenä muodostettu HVA-laskutushinnasto."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Konsernijaosto päättää ehdottaa aluehallitukselle, että se päättää hyväksyä palveluhinnaston vuodelle 2026 liitteen mukaisesti."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Antti Nikkanen, tila- ja tukipalvelujohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Osto- ja myyntilaskutiimi, talouspäälliköt"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Keusote hinnat 2026 IKVA.pdf (pdf, 54 kt)",
+     "url": "https://keuh.cloudnc.fi/download/noname/{9622e681-2e76-4cb2-9d82-74c9777b9126}/56498"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "63",
+   "title": "Omavelkaisen takauksen myöntäminen Uudenmaan Vammaispalvelut Oy:n lainalle",
+   "source_url": "https://keuh.cloudnc.fi/fi-FI/content/19779/13628",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Päivi Tarsia, rahoitus- ja talousjohtaja",
+   "presenter": "Annika Kokko",
+   "proposal": "Konsernijaosto päättää ehdottaa aluehallitukselle, että se ehdottaa edelleen aluevaltuustolle, että se päättää tarkentaa 28.5.2026 tehtyä Uudenmaan Vammaispalvelut Oy:n takauspäätöstä seuraavasti:\n\n100 % omavelkainen takaus myönnetään Uudenmaan Vammaispalvelut Oy:n Kuntarahoitukselta otettavalle lainalle, joka on pääomaltaan 4 100 000 euroa.\n\nLaina voidaan nostaa usealla velkakirjalla ja kunkin laina-aika voi olla enintään 30 vuotta. Lainan muista ehdoista (tarkempi laina-​aika,​ korkoperuste,​ lainan lyhennysohjelma) päätetään tarkemmin lainasopimuksessa.\n\nTakaus kattaa lainan pääoman lisäksi korot,​ viivästyskorot,​ kulut sekä muut mahdolliset lainan liitännäiskustannukset.\n\nTakaus on täysimääräisenä voimassa niin kauan,​ kunnes kaikki päävelkasitoumuksen mukaiset velallisen vastuut on lopullisesti maksettu luotonantajalle. Hyvinvointialueen takausvastuun vastavakuudeksi pyydetään kiinteistöyhtiön ottama pankkitakaus tai vastaava takaus",
+   "decision": "Päätettiin käsitellä asia puheenjohtajan ehdotuksesta.\n\nKonsernijaosto päätti ehdottaa aluehallitukselle, että se ehdottaa edelleen aluevaltuustolle, että se päättää tarkentaa 28.5.2026 tehtyä Uudenmaan Vammaispalvelut Oy:n takauspäätöstä seuraavasti:\n\n100 % omavelkainen takaus myönnetään Uudenmaan Vammaispalvelut Oy:n Kuntarahoitukselta otettavalle lainalle, joka on pääomaltaan 4 100 000 euroa.\n\nLaina voidaan nostaa usealla velkakirjalla ja kunkin laina-aika voi olla enintään 30 vuotta. Lainan muista ehdoista (tarkempi laina-​aika,​ korkoperuste,​ lainan lyhennysohjelma) päätetään tarkemmin lainasopimuksessa.\n\nTakaus kattaa lainan pääoman lisäksi korot,​ viivästyskorot,​ kulut sekä muut mahdolliset lainan liitännäiskustannukset.\n\nTakaus on täysimääräisenä voimassa niin kauan,​ kunnes kaikki päävelkasitoumuksen mukaiset velallisen vastuut on lopullisesti maksettu luotonantajalle. Hyvinvointialueen takausvastuun vastavakuudeksi pyydetään kiinteistöyhtiön ottama pankkitakaus tai vastaava takaus\n\nEsteellisyys\n\nAntti Nikkanen poistui kokoustilasta esteellisenä ajaksi klo 9.37-9.40 (HallintoL 5 luku 28 § 1 mom 5 kohta \"yhteisöjäävi\", hallituksen jäsen) eikä osallistunut asian käsittelyyn eikä päätöksentekoon.",
+   "discussion": "Koska esittelijä Antti Nikkanen ilmoitti esteellisyydestään, käsiteltiin asia puheenjohtajan ehdotuksesta hallintosäännön 160 § mukaisesti.",
+   "sections": [
+    {
+     "heading": "",
+     "text": "KEUHDno-2026-2526\n\nAikaisempi käsittely\n\nAluevaltuusto, 28.5.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Päivi Tarsia, rahoitus- ja talousjohtaja"
+    },
+    {
+     "heading": "Perustelut",
+     "text": ""
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluevaltuusto päättää myöntää Uudenmaan Vammaispalvelut Oy:n nostamalle lainalle omavelkaisen takauksen hankkeen toteuttamiskustannuksia varten seuraavilla ehdoilla:\n\nTakaus on enintään 4 100 000 euroa,​ mutta lainalle annettava takauksen määrä ei saa ylittää hankkeen toteuttamiskustannuksia.\n\nLainan laina-​aika saa olla korkeintaan 30 vuotta. Lainan muista ehdoista (tarkempi laina-​aika,​ korkoperuste,​ lainan lyhennysohjelma) päätetään tarkemmin lainasopimuksessa.\n\nTakaus kattaa lainan pääoman lisäksi korot,​ viivästyskorot,​ kulut sekä muut mahdolliset lainan liitännäiskustannukset.\n\nTakaus on täysimääräisenä voimassa niin kauan,​ kunnes kaikki päävelkasitoumuksen mukaiset velallisen vastuut on lopullisesti maksettu luotonantajalle. Hyvinvointialueen takausvastuun vastavakuudeksi pyydetään kiinteistöyhtiön ottama pankkitakaus tai vastaava takaus.\n\nTakaukselle maksettava takauspalkkio on 0,​5 % vuodessa (p.a.). Provisio lasketaan kunkin vuoden lopussa olevasta lainamäärästä ja provisio maksetaan seuraavan vuoden tammikuun loppuun mennessä.\n\nAluevaltuusto valtuuttaa rahoitus-​ ja talousjohtajan päättämään lainan tarkemmista ehdoista."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Päivi Tarsia, rahoitus- ja talousjohtaja"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Kuntarahoitus on edellyttänyt, että takauspäätöksen ensimmäinen kohta muutetaan muotoon: \"100 % omavelkainen takaus myönnetään Uudenmaan Vammaispalvelut Oy:n Kuntarahoitukselta otettavalle lainalle, joka on pääomaltaan 4 100 000 euroa”. Koska aluevaltuuston uusi käsittely ei ollut aikataulullisesti mahdollista lainan ensimmäistä nostoa varten, tilanne on ratkaistu seuraavasti:\n\nVäliaikainen järjestely:\n\nLaina jaetaan kahdelle eri velkakirjalle. Ensimmäisellä velkakirjalla nostetaan 3 800 000 euroa. Tätä varten rahoitus- ja talousjohtaja on tehnyt viranhaltijapäätöksen, jossa vahvistetaan, että 3 800 000 euron takaus on aluevaltuuston aiemman päätöksen mukainen eikä ylitä toteuttamiskustannuksia.\n\nLopullinen korjaus:\n\nTakauspäätöksen täsmennys koskien koko 4 100 000 euron lainapääomaa sekä liitännäiskustannuksia tuodaan aluevaltuuston päätettäväksi sen seuraavassa kokouksessa. Tässä päätöksessä tulee käydä ilmi, että laina voidaan nostaa usealla velkakirjalla ja kunkin laina-aika voi olla enintään 30 vuotta."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Konsernijaosto päättää ehdottaa aluehallitukselle, että se ehdottaa edelleen aluevaltuustolle, että se päättää tarkentaa 28.5.2026 tehtyä Uudenmaan Vammaispalvelut Oy:n takauspäätöstä seuraavasti:\n\n100 % omavelkainen takaus myönnetään Uudenmaan Vammaispalvelut Oy:n Kuntarahoitukselta otettavalle lainalle, joka on pääomaltaan 4 100 000 euroa.\n\nLaina voidaan nostaa usealla velkakirjalla ja kunkin laina-aika voi olla enintään 30 vuotta. Lainan muista ehdoista (tarkempi laina-​aika,​ korkoperuste,​ lainan lyhennysohjelma) päätetään tarkemmin lainasopimuksessa.\n\nTakaus kattaa lainan pääoman lisäksi korot,​ viivästyskorot,​ kulut sekä muut mahdolliset lainan liitännäiskustannukset.\n\nTakaus on täysimääräisenä voimassa niin kauan,​ kunnes kaikki päävelkasitoumuksen mukaiset velallisen vastuut on lopullisesti maksettu luotonantajalle. Hyvinvointialueen takausvastuun vastavakuudeksi pyydetään kiinteistöyhtiön ottama pankkitakaus tai vastaava takaus"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Annika Kokko"
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Koska esittelijä Antti Nikkanen ilmoitti esteellisyydestään, käsiteltiin asia puheenjohtajan ehdotuksesta hallintosäännön 160 § mukaisesti."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätettiin käsitellä asia puheenjohtajan ehdotuksesta.\n\nKonsernijaosto päätti ehdottaa aluehallitukselle, että se ehdottaa edelleen aluevaltuustolle, että se päättää tarkentaa 28.5.2026 tehtyä Uudenmaan Vammaispalvelut Oy:n takauspäätöstä seuraavasti:\n\n100 % omavelkainen takaus myönnetään Uudenmaan Vammaispalvelut Oy:n Kuntarahoitukselta otettavalle lainalle, joka on pääomaltaan 4 100 000 euroa.\n\nLaina voidaan nostaa usealla velkakirjalla ja kunkin laina-aika voi olla enintään 30 vuotta. Lainan muista ehdoista (tarkempi laina-​aika,​ korkoperuste,​ lainan lyhennysohjelma) päätetään tarkemmin lainasopimuksessa.\n\nTakaus kattaa lainan pääoman lisäksi korot,​ viivästyskorot,​ kulut sekä muut mahdolliset lainan liitännäiskustannukset.\n\nTakaus on täysimääräisenä voimassa niin kauan,​ kunnes kaikki päävelkasitoumuksen mukaiset velallisen vastuut on lopullisesti maksettu luotonantajalle. Hyvinvointialueen takausvastuun vastavakuudeksi pyydetään kiinteistöyhtiön ottama pankkitakaus tai vastaava takaus\n\nEsteellisyys\n\nAntti Nikkanen poistui kokoustilasta esteellisenä ajaksi klo 9.37-9.40 (HallintoL 5 luku 28 § 1 mom 5 kohta \"yhteisöjäävi\", hallituksen jäsen) eikä osallistunut asian käsittelyyn eikä päätöksentekoon."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Ote -Aluevaltuuston 28.5.2026 § 28 takauspäätöksen tarkentaminen (4) (1).pdf (pdf, 625 kt)",
+     "url": "https://keuh.cloudnc.fi/download/noname/{c26b5723-eb28-4e75-9f86-e946d9fc1b51}/56502"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "64",
+   "title": "Osavuosikatsaus ajalta 1.1.-30.6.2026",
+   "source_url": "https://keuh.cloudnc.fi/fi-FI/content/19777/13628",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Sanna Kaukua, talouspäällikkö",
+   "presenter": "Antti Nikkanen, tila- ja tukipalvelujohtaja",
+   "proposal": "Konsernijaosto esittää aluehallitukselle, että aluehallitus päättää esittää aluevaltuustolle, että se merkitsee tiedoksi liitteenä olevan osavuosikatsauksen ajalta 1.1.-30.6.2026.",
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "KEUHDno-2026-2236"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sanna Kaukua, talouspäällikkö"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Aluevaltuusto hyväksyi vuoden 2026 talousarvion kokouksessaan 11.12.2025 § 85. Talousarvion toiminnallisten ja taloudellisten tavoitteiden toteutumasta raportoidaan aluevaltuustolle ajalta 1.1.-30.6.2026 ja toisen kerran tilinpäätöksessä ajalta 1.1.-31.12.2026.\n\nVuoden 2026 ensimmäisellä puoliskolla Keski-Uudenmaan hyvinvointialueen toiminnan keskiössä ovat olleet palvelujen saatavuuden ja jatkuvuuden turvaaminen, talouden tasapainottaminen sekä palvelujärjestelmän määrätietoinen uudistaminen. Toimintaympäristö on edelleen vaativa. Väestön ikääntyminen ja palvelutarpeen kasvu lisäävät kustannuspaineita samalla, kun hyvinvointialueelta edellytetään merkittävää tuottavuuden parantamista ja aiempina vuosina kertyneiden alijäämien kattamista.\n\nVaikeasta taloudellisesta lähtötilanteesta huolimatta Keusoten perustehtävä on toteutunut. Alueemme asukkaiden lakisääteiset sosiaali- ja terveyspalvelut sekä pelastustoimen palvelut on kyetty turvaamaan. Palvelujen kehittämisessä painopiste on siirtynyt yhä vahvemmin yksittäisten toimintojen tarkastelusta asiakaslähtöisiin palveluketjuihin, oikea-aikaiseen asiakasohjaukseen ja palvelujen yhteensovittamiseen. Tavoitteena on, että asiakas saa tarvitsemansa avun mahdollisimman varhain ja tarkoituksenmukaisessa palvelussa.\n\nTalouden tasapainottaminen on vuoden 2026 keskeisimpiä tehtäviämme. Tasapainoa ei voida saavuttaa pelkästään lyhyen aikavälin säästötoimenpiteillä, vaan tarvitsemme pysyviä muutoksia toimintatapoihin, palvelurakenteeseen ja tuottavuuteen. Talouden ja toiminnan johtamista on tämän vuoksi kytketty entistä tiiviimmin yhteen. Jokaisen uudistuksen yhteydessä on arvioitava sekä sen taloudelliset vaikutukset että vaikutukset asiakkaisiin, henkilöstöön, palvelujen saatavuuteen ja vaikuttavuuteen.\n\nKeusoten taloudellinen tilanne edellyttää edelleen poikkeuksellisen vahvaa talouskuria ja uudistumiskykyä. Valtiovarainministeriön elokuussa käynnistämä ennakollinen talouden ohjauksen menettely korostaa entisestään tarvetta osoittaa, että talouden tasapainottamiseen tähtäävät toimenpiteemme ovat riittäviä, realistisia ja toimeenpantavissa. Suhtaudumme menettelyyn rakentavasti. Se tarjoaa mahdollisuuden muodostaa yhdessä valtion kanssa mahdollisimman kattava kuva Keusoten tilanteesta ja talouden tasapainottamisen edellytyksistä.\n\nKatse vuoden jälkipuoliskolle on määrätietoinen. Meidän on jatkettava palvelujen uudistamista ja vietävä päätetyt toimenpiteet käytäntöön suunnitellussa aikataulussa. Samanaikaisesti meidän on seurattava tarkasti talouden kehitystä, palvelujen saatavuutta, henkilöstön tilannetta sekä muutosten vaikutuksia asiakkaisiin. Talouden tasapainottaminen ja laadukkaiden palvelujen turvaaminen eivät ole toisilleen vastakkaisia tavoitteita. Kestävä talous syntyy ennen kaikkea siitä, että palvelut tuotetaan oikea-aikaisesti, vaikuttavasti ja tarkoituksenmukaisella tavalla.\n\nOnnistuminen edellyttää yhteistä suuntaa, johdonmukaista toimeenpanoa ja kykyä tehdä myös vaikeita valintoja. Tavoitteemme on selkeä: turvata Keski-Uudenmaan asukkaille laadukkaat ja vaikuttavat palvelut sekä rakentaa Keusotelle taloudellisesti ja toiminnallisesti kestävä tulevaisuus.\n\nTilinpäätösennuste\n\nOsavuosikatsauksen yhteydessä laaditun tilinpäätösennusteen mukaan oman palvelutuotannon toimintakatteen arvioidaan toteutuvan n. 4,5 Me talousarviota heikompana. Ylitystä on terveyspalvelujen ja sairaanhoidon palvelualueella n. 3,4 Me, ikääntyneiden ja vammaisten palvelualueella n. 1,0 Me ja hyvinvointialueen johdossa sekä strateginen kehittäminen ja tukipalvelut -kokonaisuudessa n. 0,1 Me. Terveyspalvelujen ja sairaanhoidon palvelualueen ylityksestä n. 2,0 Me aiheutuu henkilöstökulujen ylityksestä, kun 24/7-toimintaan on jouduttu palkkaamaan resurssivajeen vuoksi sijaisia sekä teettämään ylitöitä. Hoitotarvikejakelun kustannukset ylittyvät n. 0,9 Me ja lääkäripalvelujen ostojen ylitys on n. 0,5 Me. Ikäihmisten ja vammaisten palvelualueella ylitystä on sekä kotona asumista tukevissa palveluissa että asumispalveluissa, mutta osa ylityksestä saadaan katettua palvelualueen sisältä. Asumispalvelujen kasvava jonotilanne haastaa ja aiheuttaa n. 1,0 Me:n ylityksen. Hyvinvointialueen johdossa sekä strateginen kehittäminen ja tukipalvelut -kokonaisuuden ylitys johtuu lähinnä vuokrakulujen ylittymisestä, mutta osa ylityksestä pystytään kattamaan, kun it-kustannukset toteutuvat talousarviossa arvioitua pienempinä.\n\nErikoissairaanhoidon toimintakatteen arvioidaan alittuvan n. 0,3 Me:lla HUSilta saatujen tietojen perusteella.\n\nPelastustoimen toimintakatteen arvioidaan alittuvan n. 0,5 Me:lla.\n\nHyvinvointialueen toimintakate toteutuu ennusteen mukaan n. 3,7 Me talousarviota heikompana.\n\nValtionrahoitus toteutuu n. 1,4 Me talousarviota suurempana ja rahoitustuotot ja -kulut netto lähes 0,4 Me talousarviota pienempänä. Poistojen ylitys on n. 0,7 Me.\n\nTilikauden tuloksen arvioidaan olevan n. 2,2 Me eli n. 2,7 Me talousarviota heikompi.\n\nTilinpäätösennusteen mukainen talousarviomuutos käsitellään samassa aluevaltuustossa kuin osavuosikatsaus.\n\nLiitteenä on osavuosikatsaus sekä tilinpäätösennusteraportti ajalta 1.1.-30.6.2026."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Konsernijaosto esittää aluehallitukselle, että aluehallitus päättää esittää aluevaltuustolle, että se merkitsee tiedoksi liitteenä olevan osavuosikatsauksen ajalta 1.1.-30.6.2026."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Antti Nikkanen, tila- ja tukipalvelujohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Osavuosikatsaus ajalta 1.1.-30.6.2026.pdf (pdf, 2232 kt)",
+     "url": "https://keuh.cloudnc.fi/download/noname/{465908bf-e620-4c25-a63e-f4242ea410ee}/56499"
+    },
+    {
+     "title": "Talouden toteutuma tammi-kesäkuu ja tilinpäätösennuste 2026.pdf (pdf, 1140 kt)",
+     "url": "https://keuh.cloudnc.fi/download/noname/{d841d118-3bdb-42f6-8fe4-caa54335fb91}/56500"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "65",
+   "title": "Käyttösuunnitelman toteutumisvertailu 1.1.-30.6.2026",
+   "source_url": "https://keuh.cloudnc.fi/fi-FI/content/19773/13628",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Sanna Kaukua, talouspäällikkö",
+   "presenter": "Antti Nikkanen, tila- ja tukipalvelujohtaja",
+   "proposal": "Konsernijaosto päättää esittää aluehallitukselle, että aluehallitus merkitsee tiedoksi liitteenä olevan käyttösuunnitelman toteutumisvertailun ajalta 1.1.-30.6.2026.",
+   "decision": "Hyväsyttiin esityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "KEUHDno-2026-2236"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sanna Kaukua, talouspäällikkö"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Aluehallitus hyväksyi vuoden 2026 käyttösuunnitelman kokouksessaan 3.3.2026 § 26.\n\nKäyttösuunnitelman toiminnallisten ja taloudellisten tavoitteiden toteutumisesta raportoidaan aluehallitukselle ajalta 1.1.-30.6.2026 ja ajalta 1.1.-31.12.2026."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Konsernijaosto päättää esittää aluehallitukselle, että aluehallitus merkitsee tiedoksi liitteenä olevan käyttösuunnitelman toteutumisvertailun ajalta 1.1.-30.6.2026."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Antti Nikkanen, tila- ja tukipalvelujohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväsyttiin esityksen mukaan."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Käyttösuunnitelman toteutumisvertailu ajalta 1.1.-30.6.2026.pdf (pdf, 1372 kt)",
+     "url": "https://keuh.cloudnc.fi/download/noname/{17d953fc-95c8-4ee2-a528-78f0c6020e0c}/56497"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "66",
+   "title": "Vuoden 2026 talousarvion muuttaminen",
+   "source_url": "https://keuh.cloudnc.fi/fi-FI/content/19778/13628",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Sanna Kaukua, talouspäällikkö",
+   "presenter": "Antti Nikkanen, tila- ja tukipalvelujohtaja",
+   "proposal": "Konsernijaosto päättää esittää aluehallitukselle, että aluehallitus esittää aluevaltuustolle, että se päättää vuoden 2026 talousarvion muuttamisesta liitteen mukaisesti.",
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "KEUHDno-2025-2241"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sanna Kaukua, talouspäällikkö"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Aluevaltuusto hyväksyi vuoden 2026 talousarvion kokouksessaan 11.12.2025 § 85. Talousarvion muuttamisesta päättää aluevaltuusto.\n\nKäyttötalousosa\n\nKäyttötalousosassa on kolme sitovuustasoa: oman palvelutuotannon toimintakate, erikoissairaanhoidon toimintakate ja pelastustoimen toimintakate.\n\nOsavuosikatsauksen yhteydessä tehdyn tilinpäätösennusteen mukaan oman palvelutuotannon toimintakate on ylittymässä n. 4,5 Me:lla. Ylityksestä n. 3,4 Me kohdistuu terveyspalvelujen ja sairaanhoidon palvelualueelle, jossa 24/7-toiminnan henkilöstökulut ovat ylittymässä n. 2,0 Me:lla, hoitotarvikejakelun kustannukset n. 0,9 Me:lla ja lääkäripalvelujen ostot n. 0,5 Me:lla. Ikäihmisten ja vammaisten palvelualueella on tulossa ylitystä sekä kotona asumista tukevissa palveluissa että ikääntyneiden asumispalveluissa, mutta osa ylityksestä pystytään kattamaan palvelualueen sisältä. Ikääntyneiden ympärivuorokautisen palvelujen ostoissa kasvava jonotilanne haastaa ja ylitystä, jota ei pystytä palvelualueen sisältä kattamaan on n. 1,0 Me. Hyvinvointialueen johto sekä strateginen kehittäminen ja tukipalvelut -kokonaisuudessa erityisesti tilakustannukset tulevat ylittymään, mutta osa ylityksestä pystytään kattamaan mm. alittuvilla it-kustannuksilla. Ylityksen arvioidaan olevan n. 0,1 Me.\n\nErikoissairaanhoidon toimintakate alittuu ennusteen mukaan n. 0,3 Me:lla. Arvio perustuu HUSilta saatuun puolen vuoden perusteella tehtyyn ennusteeseen.\n\nPelastustoimen toimintakate alittuu ennusteen mukaan n. 0,5 Me:lla. Hyvinvointialueen talousarviossa pelastustoimen kustannuksiin on varattu n. 0,3 Me suurempi määräraha kuin mitä pelastustoimen maksuosuudeksi Vantaan ja Keravan hyvinvointialueen talousarviossa on määritelty. Pelastustoimelta saadun arvion mukaan kustannukset tulevat alittumaan vajaat 0,1 Me suhteessa Pelan omaan talousarvioon. Vuodelta 2025 saadaan palautusta lähes 0,3 Me enemmän kuin tilinpäätöksessä on arvioitu, mutta pelastustoimelta saadun tiedon mukaan palautuksen määrä on laskettu väärin ja palautusta tullaan perimään takaisin runsaat 0,1 Me. Ennakoidun ja lopullisen palautuksen ero kirjataan vähentämään vuoden 2026 kustannuksia ja sen vaikutus on n. 1,4 Me. Kaikki em. asiat huomioiden pelastustoimen alitus on n. 0,5 Me.\n\nHyvinvointialuetasolla toimintakate toteutuu ennusteen mukaan n. 3,7 Me talousarviossa arvioitua heikompana.\n\nTuloslaskelmaosa\n\nValtiovarainministeriö julkaisi 18.12.2025 rahoituslaskelman vuoden 2026 lopullisesta rahoituksesta. Talousarviossa valtionrahoitus perustui aiempaan, 22.9.2025 julkaistuun, laskelmaan. Uusimman laskelman mukaan Keski-Uudenmaan hyvinvointialueen valtionrahoitus on n. 879,0 Me eli lähes 1,4 Me talousarviossa arvioitua enemmän.\n\nRahoituskulujen arvioidaan nettona toteutuvan lähes 0,4 Me talousarviossa arvioitua pienempinä.\n\nSuunnitelman mukaiset poistot toteutunevat n. 0,7 Me talousarviossa arvioitua suurempina.\n\nTilikauden tulos on edellä kerrotun perusteella n. 2,7 Me talousarviossa arvioitua heikompi.\n\nInvestointiosa\n\nTalousarvion investointiosassa oli varattu 56,6 Me Järvenpään sosiaali- ja terveyskeskus JUSTin hankintaan. Valtiovarainministeriö ei myöntänyt hankintaan lainanottovaltuutta vuodelle 2026, joten hankkeen voi poistaa vuoden 2026 investoinneista.\n\nRahoitusosa\n\nEdellä kerrotut käyttötalousosan ylitykset heikentävät vuosikatetta n. 2,0 Me:lla.\n\nTalousarvion rahoitusosassa investointimenoihin ei laskettu JUSTin eikä Pehtoorin hankintaa, vaikka ne oli investointiosassa esitetty. Pehtoorin hankintaan saatiin lainanottovaltuus, joten on perusteltua muuttaa rahoitusosan investointimenot vastaamaan investointiosassa esitettyä investoinnit yhteensä -summaa.\n\nMuutosten myötä toiminnan ja investointien rahavirta on -23,2 Me ja jotta rahoitusosa saadaan tasapainoon, on lainakantaa muutettava vastaavasti."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Konsernijaosto päättää esittää aluehallitukselle, että aluehallitus esittää aluevaltuustolle, että se päättää vuoden 2026 talousarvion muuttamisesta liitteen mukaisesti."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Antti Nikkanen, tila- ja tukipalvelujohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Aluevaltuuston päätöksen jälkeen johtoryhmä, talouspäälliköt"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Vuoden 2026 talousarvion muuttaminen.pdf (pdf, 45 kt)",
+     "url": "https://keuh.cloudnc.fi/download/noname/{bea7dccd-597d-40e0-aed5-7317f77a0e03}/56501"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "67",
+   "title": "Laskutus- ja perintäohje",
+   "source_url": "https://keuh.cloudnc.fi/fi-FI/content/19774/13628",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Sanna Kaukua, talouspäällikkö",
+   "presenter": "Antti Nikkanen, tila- ja tukipalvelujohtaja",
+   "proposal": "Konsernijaosto päättää esittää aluehallitukselle, että aluehallitus hyväksyy liitteenä olevan Keski-Uudenmaan hyvinvointialueen laskutus- ja perintäohjeen.",
+   "decision": "Hyväksyttiin esityksen mukaan lisäyksellä, että laskutussihteerit voivat myöntää maksuaikaa kerrallaan enintään yhden kuukauden.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "KEUHDno-2026-4879"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sanna Kaukua, talouspäällikkö"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Aluehallitus on hyväksynyt Keski-Uudenmaan hyvinvointialueen laskutus- ja perintäohjeen kokouksessaan 14.2.2023 § 41.\n\nLaskutus- ja perintäohjeessa kuvataan myyntilaskutuksen, saatavien valvonnan ja perinnän periaatteita. Lähtökohtana on, että hyvinvointialueen tuottamat palvelut laskutetaan välittömästi palvelun toteutumisen jälkeen taloudellisesti ja tehokkaasti lainsäädäntöä ja tehtyjä päätöksiä noudattaen.\n\nVoimassa olevassa laskutus- ja perintäohjeessa maksusopimusten teko on vastuutettu laskun suuruudesta ja maksusopimuksen kestosta riippuen joko laskuttajalle, osto- ja myyntilaskutiimin esihenkilölle tai strategisen kehittämisen ja tukipalvelujen talouspäällikölle. Hyvinvointialueen henkilöstövähennysten vuoksi maksusopimusten teko keskitetään jatkossa Sarastia Oy:n tehtäväksi. Maksusopimusten teko sisältyy Sarastian palvelusopimukseen eikä siirto aiheuta lisäkustannuksia.\n\nAsiakas voi sopia Sarastia Oy:n kanssa enintään 90 pv:n maksusopimuksen alkuperäisestä eräpäivästä laskettuna enintään 5000 euron saatavalle. Yli 5000 euron saatavista maksusopimuksesta päättää strategisen kehittämisen ja tukipalvelujen talouspäällikkö. Lähtökohtaisesti 90 pv pidempiä maksusopimuksia ei tehdä vaan saatavat siirtyvät tämän jälkeen perintätoimistolle, mikäli niitä ei ole maksettu maksusopimusajan päättyessä. Asiakas voi sopia perintätoimiston kanssa pidemmästä maksusopimuksesta. Perintätoimisto seuraa maksusopimuksen noudattamista tehokkaammin kuin Sarastia Oy, mikä puoltaa pitkien maksusopimusten siirtämistä perintätoimiston tehtäväksi ja valvottavaksi.\n\nSisäisen tarkastuksen päällikön alkuvuodesta 2026 tekemässä tarkastuksessa todettiin kehittämisehdotuksena, että perintäprosessin sisäistä valvontaa tulisi vahvistaa. Maksusopimusten keston rajaaminen ja saatavien nopeampi siirtyminen perintätoimiston valvontaan tehostaa saatavien perintää.\n\nLiitteenä on hyvinvointialueen laskutus- ja perintäohje, johon tehtävät muutokset on merkitty yliviivaten ja punaisella fontilla."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Konsernijaosto päättää esittää aluehallitukselle, että aluehallitus hyväksyy liitteenä olevan Keski-Uudenmaan hyvinvointialueen laskutus- ja perintäohjeen."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Antti Nikkanen, tila- ja tukipalvelujohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan lisäyksellä, että laskutussihteerit voivat myöntää maksuaikaa kerrallaan enintään yhden kuukauden."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Aluehallituksen päätöksen jälkeen talouspäälliköt, osto- ja myyntilaskutiimin palvelupäällikkö"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Hyvinvointialueen laskutus- ja perintäohje, muutoksin.pdf (pdf, 137 kt)",
+     "url": "https://keuh.cloudnc.fi/download/noname/{30ae5711-3f97-4552-9ebe-2ba409b3de8b}/56506"
+    },
+    {
+     "title": "Hyvinvointialueen laskutus- ja perintäohje, KJ 2.9.2026 muutoksin (1).pdf (pdf, 137 kt)",
+     "url": "https://keuh.cloudnc.fi/download/noname/{ca7dae63-a4fe-499e-bdc8-67ff78686581}/56507"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "68",
+   "title": "Nimeämispyyntö Maakuntien tilakeskuksen nimitysvaliokuntaan",
+   "source_url": "https://keuh.cloudnc.fi/fi-FI/content/19772/13628",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Sari Kuha-Kanerva, tiedonhallinnan erityisasiantuntija",
+   "presenter": "Antti Nikkanen, tila- ja tukipalvelujohtaja",
+   "proposal": "Konsernijaosto päättää\n\nmerkitä tiedoksi Maakuntien tilakeskus Oy:n nimeämispyynnön.\n\nnimetä Keski-Uudenmaan hyvinvointialueen ehdokkaaksi Maakuntien Tilakeskus Oy:n nimitysvaliokuntaan toimitilapäällikkö Sannamari Nousiaisen.",
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "KEUHDno-2026-4790"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sari Kuha-Kanerva, tiedonhallinnan erityisasiantuntija"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Maakuntien tilakeskus Oy:n varsinainen yhtiökokous 23.4.2026 päätti perustaa yhtiölle omistajien nimitysvaliokunnan. Osakkeenomistajia pyydetään nimeämään edustajat yhtiön nimitysvaliokuntaan alla olevan mukaisesti.\n\nOsakkeenomistajia pyydetään nimeämään ehdokkaansa yhtiön omistajien nimitysvaliokuntaan seuraavasti:\n\n• hyvinvointialueet, Helsingin kaupunki ja HUS-yhtymä nimittävät viisi edustajaa keskenään sopien ja\n\n• Suomen valtio nimittää yhden edustajan.\n\nNimetyt edustajat pyydetään ilmoittamaan 31.10.2026 mennessä osoitteeseen ."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Konsernijaosto päättää\n\nmerkitä tiedoksi Maakuntien tilakeskus Oy:n nimeämispyynnön.\n\nnimetä Keski-Uudenmaan hyvinvointialueen ehdokkaaksi Maakuntien Tilakeskus Oy:n nimitysvaliokuntaan toimitilapäällikkö Sannamari Nousiaisen."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Antti Nikkanen, tila- ja tukipalvelujohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Maakuntien tilakeskus Oy, toimitilapäällikkö"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Edustajien nimeämispyyntö Maakuntien tilakeskus Oy_n omistajien nimitysvaliokuntaan.pdf (pdf, 87 kt)",
+     "url": "https://keuh.cloudnc.fi/download/noname/{2888a44f-1f61-4c41-9e1c-b10b21e78e9d}/56496"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "69",
+   "title": "LISÄPYKÄLÄ: Yhtiökokousedustajan nimeäminen Puro Tekstiilihuoltopalvelut Oy:n ylimääräiseen yhtiökokoukseen 28.9.2026 (lisäpykälä)",
+   "source_url": "https://keuh.cloudnc.fi/fi-FI/content/19780/13628",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Sari Kuha-Kanerva, tiedonhallinnan erityisasiantuntija",
+   "presenter": "Antti Nikkanen, tila- ja tukipalvelujohtaja",
+   "proposal": "Konsernijaosto päättää;\n\nettä asia voidaan ottaa käsiteltäväksi, vaikka se on lisätty esityslistalle kokouskutsun lähettämisen jälkeen;\n\nmerkitä Puro Tekstiilihuoltopalvelut Oy:n yhtiökokouskutsun tiedoksi\n\nnimetä yhtiökokousedustajaksi Puro Tekstiilihuoltopalvelut Oy:n ylimääräiseen yhtiökokoukseen 28.9.2026 hallintojohtaja Petja Harakan ja\n\nantaa yhtiökokousedustajalle toimiohjeen noudattaa esityslistan mukaisia pohjaehdotuksia.",
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "KEUHDno-2026-4920"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sari Kuha-Kanerva, tiedonhallinnan erityisasiantuntija"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Puro Tekstiilihuoltopalvelut Oy:n osakkeenomistajat kutsutaan ylimääräiseen yhtiökokoukseen, joka pidetään maanantaina 28.9.2026 klo 14.00 alkaen yhtiön toimitiloissa osoitteessa Isonkiventie 8, 04250 Kerava. Kokoukseen on mahdollista osallistua myös Teams-yhteyksin.\n\nYhtiökokouksessa käsitellään kutsussa mainitut yhtiöhallituksen päätösehdotukset.\n\nPuro Tekstiilihuoltopalvelut Oy pyytää ilmoittamaan organisaation yhtiökokousedustajan nimen Paavo Martikaiselle perjantaihin 25.9.2026 klo 12.00 mennessä. Tämän lisäksi pyydetään ilmoittamaan edustajan sähköpostiosoite, mikäli edustaja osallistuu yhtiökokoukseen Teamsilla."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Konsernijaosto päättää;\n\nettä asia voidaan ottaa käsiteltäväksi, vaikka se on lisätty esityslistalle kokouskutsun lähettämisen jälkeen;\n\nmerkitä Puro Tekstiilihuoltopalvelut Oy:n yhtiökokouskutsun tiedoksi\n\nnimetä yhtiökokousedustajaksi Puro Tekstiilihuoltopalvelut Oy:n ylimääräiseen yhtiökokoukseen 28.9.2026 hallintojohtaja Petja Harakan ja\n\nantaa yhtiökokousedustajalle toimiohjeen noudattaa esityslistan mukaisia pohjaehdotuksia."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Antti Nikkanen, tila- ja tukipalvelujohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Puro Tekstiilihuoltopalvelut Oy, yhtiökokousedustaja"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Kutsu Puro Tekstiilihuoltopalvellut Oy_n ylimääräiseen yhtiökokoukseen.pdf (pdf, 51 kt)",
+     "url": "https://keuh.cloudnc.fi/download/noname/{6ac2a5ee-cd95-49b3-af36-f713f43afe88}/56503"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "70",
+   "title": "LISÄPYKÄLÄ: Kokousedustajan nimeäminen Istekki Oy:n osakaskokoukseen 28.9.2026 (lisäpykälä)",
+   "source_url": "https://keuh.cloudnc.fi/fi-FI/content/19781/13628",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Sari Kuha-Kanerva, tiedonhallinnan erityisasiantuntija",
+   "presenter": "Antti Nikkanen, tila- ja tukipalvelujohtaja",
+   "proposal": "Konsernijaosto päättää:\n\nEttä asia voidaan ottaa käsiteltäväksi, vaikka se on lisätty esityslistalle kokouskutsun lähettämisen jälkeen.\n\nMerkitä tiedoksi Istekki Oy:n osakaskokouskutsun 28.9.2026.\n\nNimetä hyvinvointialueen edustajaksi osakaskokoukseen ICT-aluepäällikkö Hanna Downtonin.\n\nAntaa osakaskokousedustajalle toimiohjeen noudattaa kokouksen pohjaehdotuksia.",
+   "decision": "Hyväksyttiin esityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "KEUHDno-2026-4948"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sari Kuha-Kanerva, tiedonhallinnan erityisasiantuntija"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Istekki Oy:n osakaskokous pidetään maanantaina 28.9.2026 klo 12.00-14.00 Teams-etäkokouksena.\n\nIstekki Oy:n hallitus pyytää ilmoittamaan osakkaan kokousedustajan 21.9.2026 mennessä sähköpostikutsussa annetun linkin kautta. Kokouksen osallistumislinkki lähetetään kokoukseen ilmoittautuneille osakkaiden edustajille sähköpostitse heidän henkilökohtaisiin sähköposteihinsa.\n\nKokouksessa käsiteltävät asiat:\n\nKokouksen järjestäytyminen ja läsnä olevien toteaminen\n\nToimitusjohtajan katsaus Istekki Oy:n toimintaan\n\nHankintalain muutoksen aiheuttamat toimet\n\nKatsaus Istekki Oy:n talouteen\n\nIstekki Oy:n rullaavan strategian suuntaviivat, linjaukset ja tavoitteet\n\nPienosakkaiden edustajiston puheenvuoro\n\nMuut asiat\n\nKokouksen päättäminen"
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Konsernijaosto päättää:\n\nEttä asia voidaan ottaa käsiteltäväksi, vaikka se on lisätty esityslistalle kokouskutsun lähettämisen jälkeen.\n\nMerkitä tiedoksi Istekki Oy:n osakaskokouskutsun 28.9.2026.\n\nNimetä hyvinvointialueen edustajaksi osakaskokoukseen ICT-aluepäällikkö Hanna Downtonin.\n\nAntaa osakaskokousedustajalle toimiohjeen noudattaa kokouksen pohjaehdotuksia."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Antti Nikkanen, tila- ja tukipalvelujohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityksen mukaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Istekki Oy, osakaskokousedustaja"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Istekki Oy osakaskokous 28.9.2026 kutsu.pdf (pdf, 66 kt)",
+     "url": "https://keuh.cloudnc.fi/download/noname/{c1793b97-cbaa-49b0-9635-1ffc8def4669}/56504"
+    },
+    {
+     "title": "Sähköposti 31.8.2026.pdf (pdf, 105 kt)",
+     "url": "https://keuh.cloudnc.fi/download/noname/{abc78774-51c2-422a-9d06-278868d862d3}/56505"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Annika Kokko",
+   "role": "Puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Jaakko Haapamäki",
+   "role": "1. Varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kimmo Behm",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Tiina Karhunen",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Kim Kiuru",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Irma Pahlman",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Pirjo Vainio",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Tuija Holttinen",
+   "role": "oikeudellinen neuvonantaja",
+   "group": "other"
+  },
+  {
+   "name": "Sihteeri",
+   "role": "",
+   "group": "other"
+  },
+  {
+   "name": "Sanna Kaukua",
+   "role": "talouspäällikkö",
+   "group": "other"
+  },
+  {
+   "name": "Raija Kontio",
+   "role": "hyvinvointialuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Esittelijä",
+   "role": "",
+   "group": "other"
+  },
+  {
+   "name": "Helinä Perttu",
+   "role": "aluehallituksen puheenjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Päivi Tarsia",
+   "role": "rahoitus- ja talousjohtaja",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://keuh.cloudnc.fi/fi-FI/Toimielimet/Konsernijaosto/Kokous_292026",
+  "fetched_at": "2026-10-14T17:06:13+00:00",
+  "content_hash": "2166fa82d1715358",
+  "parser_version": "0.1.0",
+  "platform": "cloudnc",
+  "first_seen": "2026-10-14T17:06:13+00:00"
+ }
+}

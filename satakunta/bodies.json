@@ -1,0 +1,128 @@
+[
+ {
+  "id": "aikuisten-palveluiden-lautakunta",
+  "name": "Aikuisten palveluiden lautakunta",
+  "type": "committee",
+  "url": "https://sata.cloudnc.fi/fi-FI/Toimielimet/Aikuisten_palveluiden_lautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "aluehallitus",
+  "name": "Aluehallitus",
+  "type": "board",
+  "url": "https://sata.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaltuusto",
+  "name": "Aluevaltuusto",
+  "type": "council",
+  "url": "https://sata.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto",
+  "language": "fi"
+ },
+ {
+  "id": "elinvoima-ja-yhteistyoneuvottelukunta",
+  "name": "Elinvoima- ja yhteistyöneuvottelukunta",
+  "type": "advisory",
+  "url": "https://sata.cloudnc.fi/fi-FI/Toimielimet/Elinvoima_ja_yhteistyoumlneuvottelukunta",
+  "language": "fi"
+ },
+ {
+  "id": "ikaantyneiden-palveluiden-lautakunta",
+  "name": "Ikääntyneiden palveluiden lautakunta",
+  "type": "committee",
+  "url": "https://sata.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneiden_palveluiden_lautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "kuntayhteistyolautakunta",
+  "name": "Kuntayhteistyölautakunta",
+  "type": "committee",
+  "url": "https://sata.cloudnc.fi/fi-FI/Toimielimet/Kuntayhteistyoumllautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "lasten-nuorten-ja-perheiden-palveluiden-lautakunta",
+  "name": "Lasten, nuorten ja perheiden palveluiden lautakunta",
+  "type": "committee",
+  "url": "https://sata.cloudnc.fi/fi-FI/Toimielimet/Lasten_nuorten_ja_perheiden_palveluiden_lautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "nuorisovaltuusto",
+  "name": "Nuorisovaltuusto",
+  "type": "advisory",
+  "url": "https://sata.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto",
+  "language": "fi"
+ },
+ {
+  "id": "perhe-ja-sosiaalipalveluiden-lautakunta",
+  "name": "Perhe- ja sosiaalipalveluiden lautakunta",
+  "type": "committee",
+  "url": "https://sata.cloudnc.fi/fi-FI/Toimielimet/Perhe_ja_sosiaalipalveluiden_lautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "rakennustoimikunta",
+  "name": "Rakennustoimikunta",
+  "type": "other",
+  "url": "https://sata.cloudnc.fi/fi-FI/Toimielimet/Rakennustoimikunta",
+  "language": "fi"
+ },
+ {
+  "id": "tarkastuslautakunta",
+  "name": "Tarkastuslautakunta",
+  "type": "committee",
+  "url": "https://sata.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "terveys-ja-sairaalapalveluiden-lautakunta",
+  "name": "Terveys- ja sairaalapalveluiden lautakunta",
+  "type": "committee",
+  "url": "https://sata.cloudnc.fi/fi-FI/Toimielimet/Terveys_ja_sairaalapalveluiden_lautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "toimitilalautakunta",
+  "name": "Toimitilalautakunta",
+  "type": "committee",
+  "url": "https://sata.cloudnc.fi/fi-FI/Toimielimet/Toimitilalautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "turvallisuuden-ja-varautumisen-lautakunta",
+  "name": "Turvallisuuden ja varautumisen lautakunta",
+  "type": "committee",
+  "url": "https://sata.cloudnc.fi/fi-FI/Toimielimet/Turvallisuuden_ja_varautumisen_lautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "vammaisneuvosto",
+  "name": "Vammaisneuvosto",
+  "type": "advisory",
+  "url": "https://sata.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto",
+  "language": "fi"
+ },
+ {
+  "id": "vanhusneuvosto",
+  "name": "Vanhusneuvosto",
+  "type": "advisory",
+  "url": "https://sata.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto",
+  "language": "fi"
+ },
+ {
+  "id": "vaestokehityksen-ja-ikaantyneiden-palveluiden-lautakunta",
+  "name": "Väestökehityksen ja ikääntyneiden palveluiden lautakunta",
+  "type": "committee",
+  "url": "https://sata.cloudnc.fi/fi-FI/Toimielimet/Vaumlestoumlkehityksen_ja_ikaumlaumlntyneiden_palveluiden_lautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "yritys-ja-jarjestoneuvottelukunta",
+  "name": "Yritys- ja järjestöneuvottelukunta",
+  "type": "advisory",
+  "url": "https://sata.cloudnc.fi/fi-FI/Toimielimet/Yritys_ja_jaumlrjestoumlneuvottelukunta",
+  "language": "fi"
+ }
+]

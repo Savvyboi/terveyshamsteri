@@ -1,0 +1,527 @@
+{
+ "meetings": {
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_9102026": {
+   "id": "tarkastuslautakunta/2026-10-09",
+   "date": "2026-10-09",
+   "stage": "minutes",
+   "hash": "6ecd3c08f8f0ed6c",
+   "fetched_at": "2026-10-14T16:47:40+00:00",
+   "first_seen": "2026-10-14T16:47:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2892026": {
+   "id": "aluehallitus/2026-09-28",
+   "date": "2026-09-28",
+   "stage": "minutes",
+   "hash": "7ad992655c0ed8d9",
+   "fetched_at": "2026-10-19T00:57:25+00:00",
+   "first_seen": "2026-10-14T16:47:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Ikaumlihmisten_ja_vammaisten_asioiden_valiokunta/Kokous_2492026": {
+   "id": "ikaihmisten-ja-vammaisten-asioiden-valiokunta/2026-09-24",
+   "date": "2026-09-24",
+   "stage": "minutes",
+   "hash": "14b9f1eb318131d7",
+   "fetched_at": "2026-10-14T16:48:06+00:00",
+   "first_seen": "2026-10-14T16:48:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Tyoumlikaumlisten_asioiden_valiokunta/Kokous_2292026": {
+   "id": "tyoikaisten-asioiden-valiokunta/2026-09-22",
+   "date": "2026-09-22",
+   "stage": "minutes",
+   "hash": "9f76bc0cb48100c5",
+   "fetched_at": "2026-10-14T16:48:12+00:00",
+   "first_seen": "2026-10-14T16:48:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_1792026": {
+   "id": "vammaisneuvosto/2026-09-17",
+   "date": "2026-09-17",
+   "stage": "minutes",
+   "hash": "b62869c9cf32a921",
+   "fetched_at": "2026-10-14T16:48:20+00:00",
+   "first_seen": "2026-10-14T16:48:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Lasten_nuorten_ja_perheiden_asioiden_valiokunta/Kokous_1092026": {
+   "id": "lasten-nuorten-ja-perheiden-asioiden-valiokunta/2026-09-10",
+   "date": "2026-09-10",
+   "stage": "minutes",
+   "hash": "2cb619e9ee691247",
+   "fetched_at": "2026-10-14T16:48:26+00:00",
+   "first_seen": "2026-10-14T16:48:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1092026": {
+   "id": "tarkastuslautakunta/2026-09-10",
+   "date": "2026-09-10",
+   "stage": "minutes",
+   "hash": "9f93a9da74800b36",
+   "fetched_at": "2026-10-14T16:48:38+00:00",
+   "first_seen": "2026-10-14T16:48:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_992026": {
+   "id": "vanhusneuvosto/2026-09-09",
+   "date": "2026-09-09",
+   "stage": "minutes",
+   "hash": "4fa82b02cc474cc9",
+   "fetched_at": "2026-10-14T16:48:45+00:00",
+   "first_seen": "2026-10-14T16:48:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_792026": {
+   "id": "aluehallitus/2026-09-07",
+   "date": "2026-09-07",
+   "stage": "minutes",
+   "hash": "7500f4ab46d7c2d7",
+   "fetched_at": "2026-10-19T00:58:25+00:00",
+   "first_seen": "2026-10-14T16:48:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1782026": {
+   "id": "aluehallitus/2026-08-17",
+   "date": "2026-08-17",
+   "stage": "minutes",
+   "hash": "2dfc420dd1b83af7",
+   "fetched_at": "2026-10-15T01:01:05+00:00",
+   "first_seen": "2026-10-14T16:49:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2562026": {
+   "id": "aluehallitus/2026-06-25",
+   "date": "2026-06-25",
+   "stage": "minutes",
+   "hash": "e0bc2a7f30b6b8a8",
+   "fetched_at": "2026-10-14T16:49:33+00:00",
+   "first_seen": "2026-10-14T16:49:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_2262026": {
+   "id": "aluevaltuusto/2026-06-22",
+   "date": "2026-06-22",
+   "stage": "minutes",
+   "hash": "690768a58e2329f6",
+   "fetched_at": "2026-10-14T16:49:46+00:00",
+   "first_seen": "2026-10-14T16:49:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1562026": {
+   "id": "aluehallitus/2026-06-15",
+   "date": "2026-06-15",
+   "stage": "minutes",
+   "hash": "c1c48a8cd5a3e446",
+   "fetched_at": "2026-10-14T16:50:18+00:00",
+   "first_seen": "2026-10-14T16:50:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_862026": {
+   "id": "aluevaltuusto/2026-06-08",
+   "date": "2026-06-08",
+   "stage": "minutes",
+   "hash": "f5cf4f3c1c83b5df",
+   "fetched_at": "2026-10-14T16:50:36+00:00",
+   "first_seen": "2026-10-14T16:50:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_162026": {
+   "id": "aluehallitus/2026-06-01",
+   "date": "2026-06-01",
+   "stage": "minutes",
+   "hash": "53ecaa59c8a20c14",
+   "fetched_at": "2026-10-14T16:50:59+00:00",
+   "first_seen": "2026-10-14T16:50:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2852026": {
+   "id": "tarkastuslautakunta/2026-05-28",
+   "date": "2026-05-28",
+   "stage": "minutes",
+   "hash": "a294df95301ace2d",
+   "fetched_at": "2026-10-14T16:51:06+00:00",
+   "first_seen": "2026-10-14T16:51:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluevaalilautakunta/Kokous_2752026": {
+   "id": "aluevaalilautakunta/2026-05-27",
+   "date": "2026-05-27",
+   "stage": "minutes",
+   "hash": "92301fa733d8656d",
+   "fetched_at": "2026-10-14T16:51:14+00:00",
+   "first_seen": "2026-10-14T16:51:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1152026": {
+   "id": "aluehallitus/2026-05-11",
+   "date": "2026-05-11",
+   "stage": "minutes",
+   "hash": "74280efd585158bf",
+   "fetched_at": "2026-10-14T16:51:28+00:00",
+   "first_seen": "2026-10-14T16:51:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Ikaumlihmisten_ja_vammaisten_asioiden_valiokunta/Kokous_752026": {
+   "id": "ikaihmisten-ja-vammaisten-asioiden-valiokunta/2026-05-07",
+   "date": "2026-05-07",
+   "stage": "minutes",
+   "hash": "b49ba9b9d3f76ca8",
+   "fetched_at": "2026-10-14T16:51:33+00:00",
+   "first_seen": "2026-10-14T16:51:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_752026": {
+   "id": "tarkastuslautakunta/2026-05-07",
+   "date": "2026-05-07",
+   "stage": "minutes",
+   "hash": "b94973391b14b669",
+   "fetched_at": "2026-10-14T16:51:40+00:00",
+   "first_seen": "2026-10-14T16:51:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Lasten_nuorten_ja_perheiden_asioiden_valiokunta/Kokous_652026": {
+   "id": "lasten-nuorten-ja-perheiden-asioiden-valiokunta/2026-05-06",
+   "date": "2026-05-06",
+   "stage": "minutes",
+   "hash": "755532fc92f9143c",
+   "fetched_at": "2026-10-14T16:51:46+00:00",
+   "first_seen": "2026-10-14T16:51:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Tyoumlikaumlisten_asioiden_valiokunta/Kokous_552026": {
+   "id": "tyoikaisten-asioiden-valiokunta/2026-05-05",
+   "date": "2026-05-05",
+   "stage": "minutes",
+   "hash": "9caaaad78d7eb62a",
+   "fetched_at": "2026-10-14T16:51:52+00:00",
+   "first_seen": "2026-10-14T16:51:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2342026": {
+   "id": "tarkastuslautakunta/2026-04-23",
+   "date": "2026-04-23",
+   "stage": "minutes",
+   "hash": "666137459d1ffcd1",
+   "fetched_at": "2026-10-14T16:52:00+00:00",
+   "first_seen": "2026-10-14T16:52:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Ikaumlihmisten_ja_vammaisten_asioiden_valiokunta/Kokous_2242026": {
+   "id": "ikaihmisten-ja-vammaisten-asioiden-valiokunta/2026-04-22",
+   "date": "2026-04-22",
+   "stage": "minutes",
+   "hash": "922adda4afeb7576",
+   "fetched_at": "2026-10-14T16:52:06+00:00",
+   "first_seen": "2026-10-14T16:52:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Lasten_nuorten_ja_perheiden_asioiden_valiokunta/Kokous_2142026": {
+   "id": "lasten-nuorten-ja-perheiden-asioiden-valiokunta/2026-04-21",
+   "date": "2026-04-21",
+   "stage": "minutes",
+   "hash": "cfcb2cd9f76e9f3d",
+   "fetched_at": "2026-10-14T16:52:13+00:00",
+   "first_seen": "2026-10-14T16:52:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Tyoumlikaumlisten_asioiden_valiokunta/Kokous_2042026": {
+   "id": "tyoikaisten-asioiden-valiokunta/2026-04-20",
+   "date": "2026-04-20",
+   "stage": "minutes",
+   "hash": "1496782a33a9b4a7",
+   "fetched_at": "2026-10-14T16:52:19+00:00",
+   "first_seen": "2026-10-14T16:52:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1342026": {
+   "id": "aluehallitus/2026-04-13",
+   "date": "2026-04-13",
+   "stage": "minutes",
+   "hash": "37b9a7841a89faa0",
+   "fetched_at": "2026-10-14T16:52:39+00:00",
+   "first_seen": "2026-10-14T16:52:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_142026": {
+   "id": "tarkastuslautakunta/2026-04-01",
+   "date": "2026-04-01",
+   "stage": "minutes",
+   "hash": "808e7fe08dd1dd64",
+   "fetched_at": "2026-10-14T16:52:48+00:00",
+   "first_seen": "2026-10-14T16:52:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_3032026": {
+   "id": "aluehallitus/2026-03-30",
+   "date": "2026-03-30",
+   "stage": "minutes",
+   "hash": "f3776e3bd644c021",
+   "fetched_at": "2026-10-14T16:53:17+00:00",
+   "first_seen": "2026-10-14T16:53:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Ikaumlihmisten_ja_vammaisten_asioiden_valiokunta/Kokous_1932026": {
+   "id": "ikaihmisten-ja-vammaisten-asioiden-valiokunta/2026-03-19",
+   "date": "2026-03-19",
+   "stage": "minutes",
+   "hash": "82f91c437d3a8793",
+   "fetched_at": "2026-10-14T16:53:27+00:00",
+   "first_seen": "2026-10-14T16:53:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1932026": {
+   "id": "tarkastuslautakunta/2026-03-19",
+   "date": "2026-03-19",
+   "stage": "minutes",
+   "hash": "52651c197fff309d",
+   "fetched_at": "2026-10-14T16:53:34+00:00",
+   "first_seen": "2026-10-14T16:53:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Tyoumlikaumlisten_asioiden_valiokunta/Kokous_1832026": {
+   "id": "tyoikaisten-asioiden-valiokunta/2026-03-18",
+   "date": "2026-03-18",
+   "stage": "minutes",
+   "hash": "73d574465e33af02",
+   "fetched_at": "2026-10-14T16:53:47+00:00",
+   "first_seen": "2026-10-14T16:53:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Lasten_nuorten_ja_perheiden_asioiden_valiokunta/Kokous_1732026": {
+   "id": "lasten-nuorten-ja-perheiden-asioiden-valiokunta/2026-03-17",
+   "date": "2026-03-17",
+   "stage": "minutes",
+   "hash": "1e4edaf10e40c386",
+   "fetched_at": "2026-10-14T16:53:58+00:00",
+   "first_seen": "2026-10-14T16:53:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_232026": {
+   "id": "aluehallitus/2026-03-02",
+   "date": "2026-03-02",
+   "stage": "minutes",
+   "hash": "8f39a8defc1e658d",
+   "fetched_at": "2026-10-14T16:54:15+00:00",
+   "first_seen": "2026-10-14T16:54:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_2322026": {
+   "id": "aluevaltuusto/2026-02-23",
+   "date": "2026-02-23",
+   "stage": "minutes",
+   "hash": "c744bdcb4944b21b",
+   "fetched_at": "2026-10-14T16:54:29+00:00",
+   "first_seen": "2026-10-14T16:54:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1722026": {
+   "id": "tarkastuslautakunta/2026-02-17",
+   "date": "2026-02-17",
+   "stage": "minutes",
+   "hash": "a6e5b36a22e21b7b",
+   "fetched_at": "2026-10-14T16:54:37+00:00",
+   "first_seen": "2026-10-14T16:54:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1622026": {
+   "id": "aluehallitus/2026-02-16",
+   "date": "2026-02-16",
+   "stage": "minutes",
+   "hash": "7cfa143531d0cf73",
+   "fetched_at": "2026-10-14T16:55:10+00:00",
+   "first_seen": "2026-10-14T16:55:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2212026": {
+   "id": "tarkastuslautakunta/2026-01-22",
+   "date": "2026-01-22",
+   "stage": "minutes",
+   "hash": "a3f83293853fcec2",
+   "fetched_at": "2026-10-14T16:55:16+00:00",
+   "first_seen": "2026-10-14T16:55:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1912026": {
+   "id": "aluehallitus/2026-01-19",
+   "date": "2026-01-19",
+   "stage": "minutes",
+   "hash": "eeaf44eb905b72a2",
+   "fetched_at": "2026-10-14T16:55:37+00:00",
+   "first_seen": "2026-10-14T16:55:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_16122025": {
+   "id": "aluehallitus/2025-12-16",
+   "date": "2025-12-16",
+   "stage": "minutes",
+   "hash": "d8aadafc6f6e77d2",
+   "fetched_at": "2026-10-14T16:55:57+00:00",
+   "first_seen": "2026-10-14T16:55:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_15122025": {
+   "id": "aluevaltuusto/2025-12-15",
+   "date": "2025-12-15",
+   "stage": "minutes",
+   "hash": "bfac3792646e4416",
+   "fetched_at": "2026-10-14T16:56:11+00:00",
+   "first_seen": "2026-10-14T16:56:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_4122025": {
+   "id": "tarkastuslautakunta/2025-12-04",
+   "date": "2025-12-04",
+   "stage": "minutes",
+   "hash": "ebbbf9f356efbf0a",
+   "fetched_at": "2026-10-14T16:56:17+00:00",
+   "first_seen": "2026-10-14T16:56:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1122025": {
+   "id": "aluehallitus/2025-12-01",
+   "date": "2025-12-01",
+   "stage": "minutes",
+   "hash": "253255da15d2e981",
+   "fetched_at": "2026-10-14T16:56:48+00:00",
+   "first_seen": "2026-10-14T16:56:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Yhteistyoumltoimikunta/Kokous_25112025": {
+   "id": "yhteistyotoimikunta/2025-11-25",
+   "date": "2025-11-25",
+   "stage": "minutes",
+   "hash": "dda4fee9a98c0506",
+   "fetched_at": "2026-10-14T16:57:04+00:00",
+   "first_seen": "2026-10-14T16:57:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_17112025": {
+   "id": "aluehallitus/2025-11-17",
+   "date": "2025-11-17",
+   "stage": "minutes",
+   "hash": "a54ddf3f1cdcbba1",
+   "fetched_at": "2026-10-14T16:57:21+00:00",
+   "first_seen": "2026-10-14T16:57:21+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_13112025": {
+   "id": "tarkastuslautakunta/2025-11-13",
+   "date": "2025-11-13",
+   "stage": "minutes",
+   "hash": "bfcdc2593e2ae7aa",
+   "fetched_at": "2026-10-14T16:57:28+00:00",
+   "first_seen": "2026-10-14T16:57:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Yhteistyoumltoimikunta/Kokous_10112025": {
+   "id": "yhteistyotoimikunta/2025-11-10",
+   "date": "2025-11-10",
+   "stage": "minutes",
+   "hash": "3eeb5d566fe6d75c",
+   "fetched_at": "2026-10-14T16:57:41+00:00",
+   "first_seen": "2026-10-14T16:57:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_20102025": {
+   "id": "aluehallitus/2025-10-20",
+   "date": "2025-10-20",
+   "stage": "minutes",
+   "hash": "ff4294cf1df8390d",
+   "fetched_at": "2026-10-14T16:57:58+00:00",
+   "first_seen": "2026-10-14T16:57:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_10102025": {
+   "id": "tarkastuslautakunta/2025-10-10",
+   "date": "2025-10-10",
+   "stage": "minutes",
+   "hash": "0384b7d0c4f46028",
+   "fetched_at": "2026-10-14T16:58:06+00:00",
+   "first_seen": "2026-10-14T16:58:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_2992025": {
+   "id": "aluevaltuusto/2025-09-29",
+   "date": "2025-09-29",
+   "stage": "minutes",
+   "hash": "0dbb7b76eb9339bc",
+   "fetched_at": "2026-10-14T16:58:17+00:00",
+   "first_seen": "2026-10-14T16:58:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1592025": {
+   "id": "aluehallitus/2025-09-15",
+   "date": "2025-09-15",
+   "stage": "minutes",
+   "hash": "31f44d44d2bb540e",
+   "fetched_at": "2026-10-14T16:58:35+00:00",
+   "first_seen": "2026-10-14T16:58:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_192025": {
+   "id": "aluehallitus/2025-09-01",
+   "date": "2025-09-01",
+   "stage": "minutes",
+   "hash": "9412a3fc9a04add8",
+   "fetched_at": "2026-10-14T16:58:50+00:00",
+   "first_seen": "2026-10-14T16:58:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2182025": {
+   "id": "tarkastuslautakunta/2025-08-21",
+   "date": "2025-08-21",
+   "stage": "minutes",
+   "hash": "35e78f95244d556d",
+   "fetched_at": "2026-10-14T16:59:05+00:00",
+   "first_seen": "2026-10-14T16:59:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1882025": {
+   "id": "aluehallitus/2025-08-18",
+   "date": "2025-08-18",
+   "stage": "minutes",
+   "hash": "83bc3ff701fb337f",
+   "fetched_at": "2026-10-14T16:59:22+00:00",
+   "first_seen": "2026-10-14T16:59:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Yhteistyoumltoimikunta/Kokous_1862025": {
+   "id": "yhteistyotoimikunta/2025-06-18",
+   "date": "2025-06-18",
+   "stage": "minutes",
+   "hash": "b28cc8dedf0d6101",
+   "fetched_at": "2026-10-14T16:59:34+00:00",
+   "first_seen": "2026-10-14T16:59:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1762025": {
+   "id": "aluehallitus/2025-06-17",
+   "date": "2025-06-17",
+   "stage": "minutes",
+   "hash": "873a2a756704adb3",
+   "fetched_at": "2026-10-14T16:59:48+00:00",
+   "first_seen": "2026-10-14T16:59:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_1662025": {
+   "id": "aluevaltuusto/2025-06-16",
+   "date": "2025-06-16",
+   "stage": "minutes",
+   "hash": "a67eab7d0e4d58d9",
+   "fetched_at": "2026-10-14T17:00:10+00:00",
+   "first_seen": "2026-10-14T17:00:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_962025": {
+   "id": "aluehallitus/2025-06-09",
+   "date": "2025-06-09",
+   "stage": "minutes",
+   "hash": "38a5a948aa18ab11",
+   "fetched_at": "2026-10-14T17:00:39+00:00",
+   "first_seen": "2026-10-14T17:00:39+00:00",
+   "parser_version": "0.1.0"
+  }
+ },
+ "last_run": "2026-10-19T00:58:25+00:00"
+}

@@ -1,0 +1,15 @@
+{
+ "region": "keski-pohjanmaa",
+ "started_at": "2026-10-19T00:58:39+00:00",
+ "parser_version": "0.1.0",
+ "fetched": 25,
+ "changed": 6,
+ "unchanged": 97,
+ "removed": 1,
+ "errors": [],
+ "complete": true,
+ "result": "ok",
+ "requests": 284,
+ "finished_at": "2026-10-19T01:03:23+00:00",
+ "meetings_total": 122
+}

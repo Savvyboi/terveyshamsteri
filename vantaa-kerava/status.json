@@ -1,0 +1,15 @@
+{
+ "region": "vantaa-kerava",
+ "started_at": "2026-10-19T01:08:07+00:00",
+ "parser_version": "0.1.0",
+ "fetched": 20,
+ "changed": 2,
+ "unchanged": 95,
+ "removed": 0,
+ "errors": [],
+ "complete": true,
+ "result": "ok",
+ "requests": 208,
+ "finished_at": "2026-10-19T01:11:36+00:00",
+ "meetings_total": 115
+}

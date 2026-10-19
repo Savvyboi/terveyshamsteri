@@ -1,0 +1,384 @@
+{
+ "source": "https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__vaerak/statfin_vaerak_pxt_11ra.px/",
+ "fetched_at": "2026-10-19T00:56:51+00:00",
+ "regions": {
+  "ita-uusimaa": {
+   "2022": {
+    "population": 98972,
+    "over64_share": 23.2
+   },
+   "2023": {
+    "population": 98987,
+    "over64_share": 23.5
+   },
+   "2024": {
+    "population": 99415,
+    "over64_share": 23.9
+   },
+   "2025": {
+    "population": 99584,
+    "over64_share": 24.2
+   }
+  },
+  "keski-uusimaa": {
+   "2022": {
+    "population": 203192,
+    "over64_share": 20
+   },
+   "2023": {
+    "population": 205444,
+    "over64_share": 20.3
+   },
+   "2024": {
+    "population": 207070,
+    "over64_share": 20.7
+   },
+   "2025": {
+    "population": 207551,
+    "over64_share": 21.1
+   }
+  },
+  "lansi-uusimaa": {
+   "2022": {
+    "population": 486346,
+    "over64_share": 18.4
+   },
+   "2023": {
+    "population": 494952,
+    "over64_share": 18.4
+   },
+   "2024": {
+    "population": 502067,
+    "over64_share": 18.5
+   },
+   "2025": {
+    "population": 506379,
+    "over64_share": 18.8
+   }
+  },
+  "vantaa-kerava": {
+   "2022": {
+    "population": 280495,
+    "over64_share": 16.4
+   },
+   "2023": {
+    "population": 285654,
+    "over64_share": 16.3
+   },
+   "2024": {
+    "population": 289730,
+    "over64_share": 16.5
+   },
+   "2025": {
+    "population": 291723,
+    "over64_share": 16.7
+   }
+  },
+  "varsinais-suomi": {
+   "2022": {
+    "population": 485567,
+    "over64_share": 24.1
+   },
+   "2023": {
+    "population": 490786,
+    "over64_share": 24.1
+   },
+   "2024": {
+    "population": 494819,
+    "over64_share": 24.3
+   },
+   "2025": {
+    "population": 497800,
+    "over64_share": 24.4
+   }
+  },
+  "satakunta": {
+   "2022": {
+    "population": 212556,
+    "over64_share": 28.5
+   },
+   "2023": {
+    "population": 211740,
+    "over64_share": 28.6
+   },
+   "2024": {
+    "population": 211261,
+    "over64_share": 28.9
+   },
+   "2025": {
+    "population": 210112,
+    "over64_share": 29.2
+   }
+  },
+  "kanta-hame": {
+   "2022": {
+    "population": 169537,
+    "over64_share": 26.9
+   },
+   "2023": {
+    "population": 169547,
+    "over64_share": 27.1
+   },
+   "2024": {
+    "population": 169455,
+    "over64_share": 27.5
+   },
+   "2025": {
+    "population": 168957,
+    "over64_share": 28
+   }
+  },
+  "pirkanmaa": {
+   "2022": {
+    "population": 532671,
+    "over64_share": 22.4
+   },
+   "2023": {
+    "population": 539309,
+    "over64_share": 22.3
+   },
+   "2024": {
+    "population": 545406,
+    "over64_share": 22.4
+   },
+   "2025": {
+    "population": 548910,
+    "over64_share": 22.6
+   }
+  },
+  "paijat-hame": {
+   "2022": {
+    "population": 204528,
+    "over64_share": 28.1
+   },
+   "2023": {
+    "population": 204479,
+    "over64_share": 28.3
+   },
+   "2024": {
+    "population": 204635,
+    "over64_share": 28.6
+   },
+   "2025": {
+    "population": 204522,
+    "over64_share": 29
+   }
+  },
+  "kymenlaakso": {
+   "2022": {
+    "population": 159488,
+    "over64_share": 29.7
+   },
+   "2023": {
+    "population": 158658,
+    "over64_share": 30
+   },
+   "2024": {
+    "population": 157442,
+    "over64_share": 30.6
+   },
+   "2025": {
+    "population": 156198,
+    "over64_share": 31.1
+   }
+  },
+  "etela-karjala": {
+   "2022": {
+    "population": 125353,
+    "over64_share": 28.9
+   },
+   "2023": {
+    "population": 125162,
+    "over64_share": 29.1
+   },
+   "2024": {
+    "population": 125083,
+    "over64_share": 29.4
+   },
+   "2025": {
+    "population": 124238,
+    "over64_share": 29.9
+   }
+  },
+  "etela-savo": {
+   "2022": {
+    "population": 130451,
+    "over64_share": 33
+   },
+   "2023": {
+    "population": 129914,
+    "over64_share": 33.4
+   },
+   "2024": {
+    "population": 129376,
+    "over64_share": 33.9
+   },
+   "2025": {
+    "population": 128144,
+    "over64_share": 34.6
+   }
+  },
+  "pohjois-savo": {
+   "2022": {
+    "population": 247689,
+    "over64_share": 26.8
+   },
+   "2023": {
+    "population": 248190,
+    "over64_share": 27.1
+   },
+   "2024": {
+    "population": 248815,
+    "over64_share": 27.4
+   },
+   "2025": {
+    "population": 248512,
+    "over64_share": 27.8
+   }
+  },
+  "pohjois-karjala": {
+   "2022": {
+    "population": 162540,
+    "over64_share": 28.4
+   },
+   "2023": {
+    "population": 162321,
+    "over64_share": 28.8
+   },
+   "2024": {
+    "population": 162091,
+    "over64_share": 29.2
+   },
+   "2025": {
+    "population": 161418,
+    "over64_share": 29.8
+   }
+  },
+  "keski-suomi": {
+   "2022": {
+    "population": 272437,
+    "over64_share": 24.4
+   },
+   "2023": {
+    "population": 273271,
+    "over64_share": 24.6
+   },
+   "2024": {
+    "population": 274112,
+    "over64_share": 25
+   },
+   "2025": {
+    "population": 273731,
+    "over64_share": 25.4
+   }
+  },
+  "etela-pohjanmaa": {
+   "2022": {
+    "population": 190774,
+    "over64_share": 26.8
+   },
+   "2023": {
+    "population": 190539,
+    "over64_share": 27
+   },
+   "2024": {
+    "population": 189929,
+    "over64_share": 27.4
+   },
+   "2025": {
+    "population": 189474,
+    "over64_share": 27.7
+   }
+  },
+  "pohjanmaa": {
+   "2022": {
+    "population": 176323,
+    "over64_share": 23.7
+   },
+   "2023": {
+    "population": 177602,
+    "over64_share": 23.6
+   },
+   "2024": {
+    "population": 178749,
+    "over64_share": 23.7
+   },
+   "2025": {
+    "population": 179555,
+    "over64_share": 23.7
+   }
+  },
+  "keski-pohjanmaa": {
+   "2022": {
+    "population": 67805,
+    "over64_share": 24.7
+   },
+   "2023": {
+    "population": 67736,
+    "over64_share": 24.7
+   },
+   "2024": {
+    "population": 67723,
+    "over64_share": 25
+   },
+   "2025": {
+    "population": 67498,
+    "over64_share": 25.3
+   }
+  },
+  "pohjois-pohjanmaa": {
+   "2022": {
+    "population": 416543,
+    "over64_share": 20.9
+   },
+   "2023": {
+    "population": 418205,
+    "over64_share": 21.2
+   },
+   "2024": {
+    "population": 418331,
+    "over64_share": 21.5
+   },
+   "2025": {
+    "population": 417939,
+    "over64_share": 21.9
+   }
+  },
+  "kainuu": {
+   "2022": {
+    "population": 70521,
+    "over64_share": 30.4
+   },
+   "2023": {
+    "population": 70164,
+    "over64_share": 30.7
+   },
+   "2024": {
+    "population": 69639,
+    "over64_share": 31.3
+   },
+   "2025": {
+    "population": 69193,
+    "over64_share": 31.8
+   }
+  },
+  "lappi": {
+   "2022": {
+    "population": 175795,
+    "over64_share": 27.1
+   },
+   "2023": {
+    "population": 176150,
+    "over64_share": 27.3
+   },
+   "2024": {
+    "population": 176151,
+    "over64_share": 27.7
+   },
+   "2025": {
+    "population": 176215,
+    "over64_share": 28.1
+   }
+  }
+ }
+}

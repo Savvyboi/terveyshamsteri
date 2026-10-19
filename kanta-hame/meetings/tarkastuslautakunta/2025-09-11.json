@@ -1,0 +1,715 @@
+{
+ "id": "tarkastuslautakunta/2025-09-11",
+ "region": "kanta-hame",
+ "body_id": "tarkastuslautakunta",
+ "body_name": "Tarkastuslautakunta",
+ "date": "2025-09-11",
+ "stage": "minutes",
+ "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=202599",
+ "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/202599.PDF",
+ "time": "13:00 - 15:29",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "51",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=202599-1",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/202599-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Tarkastuslautakunta päättää todeta kokouksen laillisesti koollekutsutuksi ja päätösvaltaiseksi.",
+   "decision": "Tarkastuslautakunta totesi kokouksen laillisesti koollekutsutuksi ja päätösvaltaiseksi. Tarkastuslautakunta merkitsi lisäksi tiedoksi varapuheenjohtaja Teijo Pullisen eronpyynnön tarkastuslautakunnasta. Eron pyynnön perusteena on ollut hyvinvointialuelaki § 80, tarkastuslautakunnan jäsenen vaalikelpoisuus. Jäsen Miia Antin saapui kesken asian käsittelyn klo 13:01.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kutsu kokoukseen on lähetetty sähköpostitse ja esityslista tallennettu sähköiseen järjestelmään 5.9.2025\n\nKanta-Hämeen hyvinvointialueen hallintosäännön 139 §:n mukaan kokouskutsu tulee lähettää, mikäli mahdollista, vähintään viisi (5) päivää ennen kokousta. Edellä mainitusta määräajasta voidaan poiketa, jos asian kiireellisyys sitä vaatii. Hallintosäännön 140 §:ssä on määrätty sähköisestä kokouskutsusta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Tarkastuslautakunta päättää todeta kokouksen laillisesti koollekutsutuksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta totesi kokouksen laillisesti koollekutsutuksi ja päätösvaltaiseksi. Tarkastuslautakunta merkitsi lisäksi tiedoksi varapuheenjohtaja Teijo Pullisen eronpyynnön tarkastuslautakunnasta. Eron pyynnön perusteena on ollut hyvinvointialuelaki § 80, tarkastuslautakunnan jäsenen vaalikelpoisuus. Jäsen Miia Antin saapui kesken asian käsittelyn klo 13:01."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "52",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=202599-2",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/202599-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Tarkastuslautakunta päättää valita kaksi jäsentä tarkastamaan tämän kokouksen pöytäkirjan.",
+   "decision": "Tarkastuslautakunta päätti valita pöytäkirjantarkastajiksi Markku Leppälahden ja Maarit Lindbergin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hallintosäännön 159 §:n mukaan pöytäkirja tarkastetaan toimielimen päättämällä tavalla. Pöytäkirja voidaan allekirjoittaa ja tarkastaa sähköisesti."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Tarkastuslautakunta päättää valita kaksi jäsentä tarkastamaan tämän kokouksen pöytäkirjan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta päätti valita pöytäkirjantarkastajiksi Markku Leppälahden ja Maarit Lindbergin."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "53",
+   "title": "Kokouksen työjärjestyksen hyväksyminen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=202599-3",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/202599-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Tarkastuslautakunta päättää hyväksyä tämän kokouksen työjärjestyksen.",
+   "decision": "Tarkastuslautakunta hyväksyi asioiden käsittelyjärjestyksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Tarkastuslautakunta päättää hyväksyä tämän kokouksen työjärjestyksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta hyväksyi asioiden käsittelyjärjestyksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "54",
+   "title": "Tarkastuslautakunnan jäsenten esteellisyydet arviointitoiminnassa",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=202599-4",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/202599-4.PDF",
+   "diary_number": "10877/00.03.00/2025",
+   "preparer": "tarkastuspäällikkö Kirsi Pelvola",
+   "presenter": null,
+   "proposal": "Tarkastuslautakunnan jäsenet ilmoittavat tiedossaan olevat esteellisyytensä ja ne merkitään pöytäkirjaan.",
+   "decision": "Jäsenet ilmoittivat seuraavat esteellisyydet:\n\nMiia Antin\n\nHämeenlinnan Erityisasuntosäätiö sr\n\nIntegraatiovaliokunta 31.5.2025 saakka\n\nMia Heinonen\n\nElämänkaarilautakunta 31.5.2025 saakka\n\nMuita esteellisyyksiä ei todettu.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "tarkastuspäällikkö Kirsi Pelvola"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Tarkastuslautakunnan jäsenten vaalikelpoisuudesta ja esteellisyydestä on\n\nvoimassa, mitä hyvinvointialuelain §:ssä 80 ja hallintolain §:ssä 27 ja 28 säädetään.\n\nEsteellisyydellä tarkoitetaan henkilön sellaista suhdetta asiaan tai asianosaisiin, että se vaarantaa hänen puolueettomuutensa yksittäisen asian käsittelyssä. Yleisimmin esteellisyyden aiheuttaa lähisukulaisuus tai asianosaisuus, kuten jäsenyys hyvinvointialueen muussa toimielimessä. Esteellisyyden voi aiheuttaa myös toimiminen hyvinvointialueen ostopavelutuottajan palveluksessa.\n\nTarkastuslautakunnan jäsenten on tässä vaiheessa perusteltua ilmoittaa tiedossaan olevat esteellisyydet, joilla voi olla vaikutusta arviointitoimintaan osallistumiseen. Asiakohtaisista esteellisyyksistä lautakunnan jäsenen tulee ilmoittaa välittömästi sellaisen ilmetessä."
+    },
+    {
+     "heading": "Tarkastuspäällikön päätösesitys",
+     "text": "Tarkastuslautakunnan jäsenet ilmoittavat tiedossaan olevat esteellisyytensä ja ne merkitään pöytäkirjaan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Jäsenet ilmoittivat seuraavat esteellisyydet:\n\nMiia Antin\n\nHämeenlinnan Erityisasuntosäätiö sr\n\nIntegraatiovaliokunta 31.5.2025 saakka\n\nMia Heinonen\n\nElämänkaarilautakunta 31.5.2025 saakka\n\nMuita esteellisyyksiä ei todettu."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "55",
+   "title": "Hyvinvointialueen ajankohtainen toiminta sekä taloudelliset ja toiminnalliset tavoitteet 2025",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=202599-5",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/202599-5.PDF",
+   "diary_number": "10879/00.01.02.00/2025",
+   "preparer": "tarkastuspäällikkö Kirsi Pelvola",
+   "presenter": null,
+   "proposal": "Tarkastuslautakunta merkitsee tiedoksi saadun selvityksen.",
+   "decision": "Tarkastuslautakunta merkitsi tiedoksi saadun selvityksen. Olli Naukkarinen saapui kesken asian käsittelyn klo 13:08 ja poistui ennen päätöksentekoa klo 14:13.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "tarkastuspäällikkö Kirsi Pelvola"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Tarkastuslautakunnan tehtävänä on hyvinvointialuelain §:n 125 mukaan\n\narvioida, ovatko aluevaltuuston asettamat toiminnan ja talouden tavoitteet hyvinvointialueella ja hyvinvointialuekonsernissa toteutuneet ja onko toiminta järjestetty tuloksellisella ja tarkoituksenmukaisella tavalla. Lisäksi tehtävänä on arvioida talouden tasapainotuksen toteutumista tilikaudella sekä taloussuunnitelmassa asetettujen tavoitteiden ja toimenpiteiden riittävyyttä talouden tasapainotuksen kannalta.\n\nKokoukseen on kutsuttu hyvinvointialuejohtaja Olli Naukkarinen esittelemään hyvinvointialueen vuoden 2025 keskeisimmät tavoitteet sekä antamaan selvitys hyvinvointialueen merkittävimmistä asioista tilikaudella."
+    },
+    {
+     "heading": "Tarkastuspäällikön päätösesitys",
+     "text": "Tarkastuslautakunta merkitsee tiedoksi saadun selvityksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta merkitsi tiedoksi saadun selvityksen. Olli Naukkarinen saapui kesken asian käsittelyn klo 13:08 ja poistui ennen päätöksentekoa klo 14:13."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "56",
+   "title": "Tarkastuslautakunnan osavuosikatsaus 1.1. - 30.6.2025",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=202599-6",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/202599-6.PDF",
+   "diary_number": "10881/00.01.02.01/2025",
+   "preparer": "tarkastuspäällikkö Kirsi Pelvola",
+   "presenter": null,
+   "proposal": "Tarkastuslautakunta merkitsee liitteenä olevan talouden toteuman tiedoksi. Tarkastuslautakunta päättää hyväksyä liitteenä olevan tekstiosan osaksi hyvinvointialueen osavuosikatsausta 1.1. – 30.6.2025.",
+   "decision": "Tarkastuslautakunta merkitsi liitteenä olevan talouden toteuman tiedoksi. Tarkastuslautakunta hyväksyi liitteenä olevan tekstiosan osaksi hyvinvointialueen osavuosikatsausta 1.1. – 30.6.2025.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "tarkastuspäällikkö Kirsi Pelvola"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hyvinvointialueen vuoden 2025 talousarviossa hyväksytty\n\ntarkastuslautakunnan toimintakate on -348 522 euroa.\n\nLiitteenä on tarkastuslautakunnan talouden toteuma ajalla 1.1. - 30.6.2025 sekä sitä täydentävä tekstiosa liitettäväksi mukaan hyvinvointialueen osavuosikatsaukseen."
+    },
+    {
+     "heading": "Tarkastuspäällikön päätösesitys",
+     "text": "Tarkastuslautakunta merkitsee liitteenä olevan talouden toteuman tiedoksi. Tarkastuslautakunta päättää hyväksyä liitteenä olevan tekstiosan osaksi hyvinvointialueen osavuosikatsausta 1.1. – 30.6.2025."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta merkitsi liitteenä olevan talouden toteuman tiedoksi. Tarkastuslautakunta hyväksyi liitteenä olevan tekstiosan osaksi hyvinvointialueen osavuosikatsausta 1.1. – 30.6.2025."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Aluehallitus"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite_Tarkastuslautakunnan osavuosikatsaus 6_2025",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/202599-6-368647.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "57",
+   "title": "Tarkastuslautakunnan talousarvio vuodelle 2026",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=202599-7",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/202599-7.PDF",
+   "diary_number": "10883/00.01.02.00/2025",
+   "preparer": "tarkastuspäällikkö Kirsi Pelvola",
+   "presenter": null,
+   "proposal": "Tarkastuslautakunta päättää hyväksyä liitteenä olevan tarkastuslautakunnan ja ulkoisen tarkastuksen vuoden 2026 talousarvioehdotuksen ja lähettää sen aluehallituksen ja edelleen aluevaltuuston hyväksyttäväksi.",
+   "decision": "Tarkastuslautakunta hyväksyi liitteenä olevan tarkastuslautakunnan ja ulkoisen tarkastuksen vuoden 2026 talousarvioehdotuksen ja päätti lähettää sen aluehallituksen ja edelleen aluevaltuuston hyväksyttäväksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "tarkastuspäällikkö Kirsi Pelvola"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Tarkastuslautakunta huolehtii hyvinvointialueen hallinnon ja talouden\n\ntarkastuksen sekä arvioinnin järjestämisestä. Tarkastuslautakunta myös arvioi, ovatko aluevaltuuston asettamat toiminnan ja talouden tavoitteet hyvinvointialueella ja hyvinvointialuekonsernissa toteutuneet ja onko toiminta järjestetty tuloksellisella ja tarkoituksenmukaisella tavalla.\n\nTarkastuslautakunnan alaisuudessa toimii aluehallituksesta ja sen alaisesta organisaatiosta riippumaton ulkoisen tarkastuksen yksikkö, joka valmistelee tarkastuslautakunnan käsiteltäväksi tulevat asiat sekä avustaa lautakuntaa toiminnan ja talouden arviointitehtävässä.\n\nHyvinvointialuelain 125 §:n mukaan tarkastuslautakunnan tulee valmistella aluehallitukselle esitys tehtäviään koskeviksi hallintosäännön määräyksiksi sekä arvioinnin ja tarkastuksen talousarvioksi.\n\nTarkastuslautakunnan talousarvion merkittävimmät erät ovat ulkoisen tarkastuksen yksikön henkilöstökulut, tarkastuslautakunnan luottamushenkilötoiminnasta aiheutuvat menot sekä tilintarkastuksen asiantuntijapalkkiot.\n\nTarkastuslautakunnan vuoden 2026 talousarvioesitys aluevaltuustolle on päätöspykälän liitteenä. Talousarvion toimintakate on -340 446 euroa."
+    },
+    {
+     "heading": "Tarkastuspäällikön päätösesitys",
+     "text": "Tarkastuslautakunta päättää hyväksyä liitteenä olevan tarkastuslautakunnan ja ulkoisen tarkastuksen vuoden 2026 talousarvioehdotuksen ja lähettää sen aluehallituksen ja edelleen aluevaltuuston hyväksyttäväksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta hyväksyi liitteenä olevan tarkastuslautakunnan ja ulkoisen tarkastuksen vuoden 2026 talousarvioehdotuksen ja päätti lähettää sen aluehallituksen ja edelleen aluevaltuuston hyväksyttäväksi."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Aluehallitus"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite_Talousarvioesitys 2026",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/202599-7-368721.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "58",
+   "title": "Lakisääteisen tilintarkastuksen optiovuosien 2026-2027 käyttöönotto",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=202599-8",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/202599-8.PDF",
+   "diary_number": "10882/00.01.02.00/2025",
+   "preparer": "tarkastuspäällikkö Kirsi Pelvola",
+   "presenter": null,
+   "proposal": "Tarkastuslautakunta päättää esittää aluevaltuuston päätettäväksi, että Kanta-Hämeen hyvinvointialue ottaa käyttöön BDO Audiator Oy:n lakisääteistä tilintarkastusta koskevan sopimuksen optiovuodet 2026-2027. Optiovuosia koskevan sopimuksen allekirjoittaa aluevaltuuston päätöksen perusteella tarkastuspäällikkö.\n\nToimivallan peruste\nLaki hyvinvointialueesta, § 125\n\nHallintosääntö luku 9: §, 74, § 78, § 79",
+   "decision": "Tarkastuslautakunta päätti esittää aluevaltuuston päätettäväksi, että Kanta-Hämeen hyvinvointialue ottaa käyttöön BDO Audiator Oy:n laki-sääteistä tilintarkastusta koskevan sopimuksen optiovuodet 2026-2027. Optiovuosia koskevan sopimuksen allekirjoittaa aluevaltuuston päätöksen perusteella tarkastuspäällikkö.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "tarkastuspäällikkö Kirsi Pelvola"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Laki hyvinvointialueesta, § 125, määrää, että tarkastuslautakunnan tehtävä\n\non valmistella aluevaltuuston päätettävät hallinnon ja talouden tarkastusta koskevat asiat.\n\nLaki hyvinvointialueesta, § 125, määrää, että aluevaltuusto valitsee hallinnon ja talouden tarkastamista varten tilintarkastusyhteisön, jonka on määrättävä vastuunalaiseksi tilintarkastajaksi JHT-tilintarkastaja.\n\nHyvinvointialueen tytäryhteisön tilintarkastajaksi on valittava hyvinvointialueen tilintarkastusyhteisö, jollei tästä poikkeamiseen ole perusteltua tarkastuksen järjestämiseen liittyvää syytä.\n\nTilintarkastusyhteisö voidaan valita kerrallaan enintään kuuden tilikauden hallinnon ja talouden tarkastamista varten.\n\nTilintarkastusyhteisöllä ja sen määräämällä vastuunalaisella tilintarkastajalla on oltava edellytykset riippumattoman ja riittävän laajan tilintarkastuksen toimittamiseen. Jos edellytykset riippumattomaan tarkastukseen puuttuvat, tilintarkastajan on kieltäydyttävä vastaanottamasta tehtävää tai luovuttava siitä.\n\nKanta-Hämeen hyvinvointialue on kilpailuttanut lakisääteisten tilintarkastuspalveluiden hankinnan tilikaudella 2022. Aluevaltuusto on kokouksessaan 13.12.2022 (§ 78) päättänyt palvelun hankinnasta, jolloin kilpailutuksen voitti BDO Audiator Oy. Kilpailutuksen perusteella laadittiin kolmevuotinen sopimus, joka päättyy tilikauden 2025 tilintarkastukseen. Sopimuksessa on mahdollisuus kahden vuoden optiokausiin.\n\nTarkastuslautakunta on valvonut lakisääteisen tilintarkastuspalvelun toteutumista. Tilintarkastaja on suorittanut tehtäväänsä ja raportoinut sopimuksen edellyttämällä tavalla julkishallinnon hyvän tilintarkastustavan mukaisesti.\n\nTarkastuslautakunta on valmistellut aluevaltuuston päätettäväksi mahdollisten optiovuosien käyttöönottoa. Palveluntuottaja on voimassa olevan sopimuksen perusteella antanut arvionsa vuosien 2026-2027 lakisääteisten tilintarkastuspäivien lukumäärästä sekä ilmoittanut sopimuksen mahdollistamat tarkistetut hinnat. Tarkistetut hinnat on huomioitu tarkastuslautakunnan kustannuspaikan vuoden 2026 talousarvioesityksessä. Arvioitu kokonaishinta hankintakaudelle on 104 000 euroa (alv 0 %)."
+    },
+    {
+     "heading": "Tarkastuspäällikön päätösesitys",
+     "text": "Tarkastuslautakunta päättää esittää aluevaltuuston päätettäväksi, että Kanta-Hämeen hyvinvointialue ottaa käyttöön BDO Audiator Oy:n lakisääteistä tilintarkastusta koskevan sopimuksen optiovuodet 2026-2027. Optiovuosia koskevan sopimuksen allekirjoittaa aluevaltuuston päätöksen perusteella tarkastuspäällikkö.\n\nToimivallan peruste\nLaki hyvinvointialueesta, § 125\n\nHallintosääntö luku 9: §, 74, § 78, § 79"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta päätti esittää aluevaltuuston päätettäväksi, että Kanta-Hämeen hyvinvointialue ottaa käyttöön BDO Audiator Oy:n laki-sääteistä tilintarkastusta koskevan sopimuksen optiovuodet 2026-2027. Optiovuosia koskevan sopimuksen allekirjoittaa aluevaltuuston päätöksen perusteella tarkastuspäällikkö."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Aluehallitus"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "59",
+   "title": "Aluevaltuuston jäsenten palautteet vuoden 2024 arviointikertomuksesta",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=202599-9",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/202599-9.PDF",
+   "diary_number": "10887/00.03.01/2025",
+   "preparer": "tarkastuspäällikkö Kirsi Pelvola",
+   "presenter": null,
+   "proposal": "Tarkastuslautakunta merkitee tiedoksi vuoden 2024 arviointikertomuksesta saadut palautteet. Palautteet esitellään kokouksessa.",
+   "decision": "Tarkastuslautakunta merkitsi tiedoksi vuoden 2024 arviointikertomuksesta saadut palautteet. Palautteet esiteltiin kokouksessa.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "tarkastuspäällikkö Kirsi Pelvola"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Tarkatuslautakunta on vuosittain pyytänyt aluevaltuustolta palautetta\n\nlaatimastaan arviointikertomuksesta. Edellinen palautekierros toteutettiin keväällä 2025 arviointikertomuksen julkaisun jälkeen."
+    },
+    {
+     "heading": "Tarkastuspäällikön päätösesitys",
+     "text": "Tarkastuslautakunta merkitee tiedoksi vuoden 2024 arviointikertomuksesta saadut palautteet. Palautteet esitellään kokouksessa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta merkitsi tiedoksi vuoden 2024 arviointikertomuksesta saadut palautteet. Palautteet esiteltiin kokouksessa."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "60",
+   "title": "Tarkastuslautakunnan arvioinnin laatuohje",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=202599-10",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/202599-10.PDF",
+   "diary_number": "10884/00.03.01/2025",
+   "preparer": "tarkastuspäällikkö Kirsi Pelvola",
+   "presenter": null,
+   "proposal": "Tarkastuslautakunta päättää hyväksyä liitteenä olevan arvioinnin laatuohjeen sovellettavaksi Kanta-Hämeen hyvinvointialueella.",
+   "decision": "Tarkastuslautakunta hyväksyi liitteenä olevan arvioinnin laatuohjeen sovellettavaksi Kanta-Hämeen hyvinvointialueella.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "tarkastuspäällikkö Kirsi Pelvola"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hyvinvointialuelain § 125 mukaan tarkastuslautakunnan tehtävä on\n\narvioida, ovatko valtuuston asettamat toiminnan ja talouden tavoitteet hyvinvointialueella ja koko sen konsernissa toteutuneet ja onko toiminta järjestetty tuloksellisella ja tarkoituksenmukaisella tavalla.\n\nTarkastuslautakunnalla on ollut käytössään arvioinnin laatuohje, joka kuvaa organisaatiolle Kanta-Hämeen hyvinvointialueen tarkastuslautakunnan arviointitehtävän toteutustapaa yleisellä tasolla. Arviointiprosessin kuvaus ja sitoutuminen yhteisiin toimintatapoihin edistää tarkastuslautakunnan ja tarkastustoimen yhteistyötä ja parantaa arvioinnin laatua. Samalla laatuohje tuo näkyväksi arviointikohteille sen, mitä kaikkea arvioiniprosessiin liittyy. Tarkastuslautakunnan arvioinnin tavoite on hyvinvointialueen toiminnan kehittäminen.\n\nArvioinnin laatuohje on esityslistan liitteenä."
+    },
+    {
+     "heading": "Tarkastuspäällikön päätösesitys",
+     "text": "Tarkastuslautakunta päättää hyväksyä liitteenä olevan arvioinnin laatuohjeen sovellettavaksi Kanta-Hämeen hyvinvointialueella."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta hyväksyi liitteenä olevan arvioinnin laatuohjeen sovellettavaksi Kanta-Hämeen hyvinvointialueella."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite_Arvioinnin laatuohje",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/202599-10-368646.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "61",
+   "title": "Tarkastuslautakunnan arvioinnin ennakkokysymyslomakkeet",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=202599-11",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/202599-11.PDF",
+   "diary_number": "10885/00.03.01/2025",
+   "preparer": "tarkastuspäällikkö Kirsi Pelvola",
+   "presenter": null,
+   "proposal": "Tarkastuslautakunta merkitsee tiedoksi arviointityössä sovellettavat ennakkokysymyslomakkeet.",
+   "decision": "Tarkastuslautakunta merkitsi tiedoksi arviointityössä sovellettavat ennakkokysymyslomakkeet.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "tarkastuspäällikkö Kirsi Pelvola"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Tarkastuslautakunnan arvioinnin laatu, laajuus ja arviointikohteiden\n\nyhdenvertaisuus perustuu systemaattiseen toimintatapaan. Kanta-Hämeen hyvinvointialueella on arvioinnissa on sovellettu laatuohjetta ja siihen pohjautuvia arvioinnin ennakkokysymyskomakkeita.\n\nEnnakkokysymyslomakkeet esitellään kokouksessa."
+    },
+    {
+     "heading": "Tarkastuspäällikön päätösesitys",
+     "text": "Tarkastuslautakunta merkitsee tiedoksi arviointityössä sovellettavat ennakkokysymyslomakkeet."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta merkitsi tiedoksi arviointityössä sovellettavat ennakkokysymyslomakkeet."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "62",
+   "title": "Tarkastuslautakunnan arviointisuunnitelma",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=202599-12",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/202599-12.PDF",
+   "diary_number": "9805/00.01.02.01/2025",
+   "preparer": "tarkastuspäällikkö Kirsi Pelvola",
+   "presenter": null,
+   "proposal": "Tarkastuslautakunta hyväksyy arviointisuunnitelmansa tilikausille 2025-2026 ja päättää lähettää sen tiedoksi aluevaltuustolle.",
+   "decision": "Tarkastuslautakunta hyväksyi arviointisuunnitelmansa tilikausille 2025-2026 ja päätti lähettää sen tiedoksi aluevaltuustolle.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "tarkastuspäällikkö Kirsi Pelvola"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Laki hyvinvointialueesta (§ 125) määrää, että tarkastuslautakunnan on\n\nvuosittain annettava valtuustolle arviointikertomus. Arvioinnin tulee perustua arviointisuunnitelmaan.\n\nTarkastuslautakunta on 13.8.2025 pitänyt suunnitteluseminaarin, jossa on valmisteltu suunnitelma tilikausille 2025-2026. Arviointisuunnitelma on ylätason suunnitelma, jota tarkastuslautakunta voi tarvittaessa muuttaa kesken tilikausien.\n\nArviointisuunnitelma on päätöspykälän liitteenä."
+    },
+    {
+     "heading": "Tarkastuspäällikön päätösesitys",
+     "text": "Tarkastuslautakunta hyväksyy arviointisuunnitelmansa tilikausille 2025-2026 ja päättää lähettää sen tiedoksi aluevaltuustolle."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta hyväksyi arviointisuunnitelmansa tilikausille 2025-2026 ja päätti lähettää sen tiedoksi aluevaltuustolle."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Aluehallitus"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite_Arviointisuunnitelma 2025-2026",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/202599-12-368642.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "63",
+   "title": "Tarkastuslautakunnan vuoden 2025 työohjelma",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=202599-13",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/202599-13.PDF",
+   "diary_number": "10921/00.01.02.00/2025",
+   "preparer": "tarkastuspäällikkö Kirsi Pelvola",
+   "presenter": null,
+   "proposal": "Tarkastuslautakunta päättää hyväksyä tilikauden 2025 arviointia koskevan työohjelman. Ulkoisen tarkastuksen yksikkö toimeenpanee kutsut kokouksiin asianomaisille viranhaltijoille.",
+   "decision": "Tarkastuslautakunta hyväksyi tilikauden 2025 arviointia koskevan työohjelman. Ulkoisen tarkastuksen yksikkö toimeenpanee kutsut kokouksiin asianomaisille viranhaltijoille.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "tarkastuspäällikkö Kirsi Pelvola"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hyvinvointialuelain § 125 mukaan tarkastuslautakunta laatii\n\narviointisuunnitelman ja antaa aluevaltuustolle kultakin vuodelta arviointikertomuksen, jossa esitetään arvioinnin tulokset. Tarkastuslautakunta on laatinut arviointisuunnitelman tilikausille 2025 – 2026.\n\nArviointisuunnitelmasta johdetaan vuosittain tarkastuslautakunnan sisäiseen käyttöön tarkoitettu työohjelma. Tarkastuslautakunta voi muuttaa työohjelmansa sisältöjä, jos tarve sitä edellyttää. Kokouspäivämäärät on päätetty edellisessä kokouksessa.\n\nTyöohjelma on päätöspykälän liitteenä (salainen, JulkL § 24.1, kohta 15)."
+    },
+    {
+     "heading": "Tarkastuspäällikön päätösesitys",
+     "text": "Tarkastuslautakunta päättää hyväksyä tilikauden 2025 arviointia koskevan työohjelman. Ulkoisen tarkastuksen yksikkö toimeenpanee kutsut kokouksiin asianomaisille viranhaltijoille."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta hyväksyi tilikauden 2025 arviointia koskevan työohjelman. Ulkoisen tarkastuksen yksikkö toimeenpanee kutsut kokouksiin asianomaisille viranhaltijoille."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "64",
+   "title": "Tarkastuslautakunnan tiedottamisen periaatteet",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=202599-14",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/202599-14.PDF",
+   "diary_number": "10888/00.01.02.00/2025",
+   "preparer": "tarkastuspäällikkö Kirsi Pelvola",
+   "presenter": null,
+   "proposal": "Tarkastuslautakunta käy keskustelun tiedottamisen periaatteista ja päättää vahvistaa selostusosassa mainitut tiedottamista koskevat menettelyt.",
+   "decision": "Tarkastuslautakunta kävi keskustelun tiedottamisen periaatteista ja vahvisti selostusosassa mainitut tiedottamista koskevat menettelyt.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "tarkastuspäällikkö Kirsi Pelvola"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hallintosäännön §:ssä 77 määrätään tarkastuslautakunnan\n\ntiedottamisperiaatteista seuraavasti:\n\n\"Arvioinnin tulokset raportoidaan vuosittain valtuustolle annettavassa arviointikertomuksessa. Tarkastuslautakunta voi antaa valtuustolle myös muita tarpeelliseksi katsomiaan selvityksiä ja raportoida tilikauden aikana valtuustolle muista merkittävistä havainnoista.\n\nTarkastuslautakunta vastaa tiedottamisen periaatteista lautakunnan oman ja ulkoisen tarkastuksen yksikön toiminnan osalta. Tarkastuslautakunta tiedottaa tehtäviinsä liittyvistä asioista ensisijaisesti aluevaltuustolle. Muu tiedottaminen tapahtuu tarkastuslautakunnan päättämällä tavalla.\n\nTiedotuksessa noudatetaan soveltuvin osin aluehallituksen hyväksymiä yleisiä ohjeita tiedottamisen periaatteista.\"\n\nTarkastuslautakunta on aiemmin päättänyt kokouksessaan 16.2.2023, että tarkastuslautakunnan ja ulkoisen tarkastuksen asioista tiedottaa tarvittaessa lautakunnan puheenjohtaja sekä tarkastuspäällikkö."
+    },
+    {
+     "heading": "Tarkastuspäällikön päätösesitys",
+     "text": "Tarkastuslautakunta käy keskustelun tiedottamisen periaatteista ja päättää vahvistaa selostusosassa mainitut tiedottamista koskevat menettelyt."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta kävi keskustelun tiedottamisen periaatteista ja vahvisti selostusosassa mainitut tiedottamista koskevat menettelyt."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakua"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "65",
+   "title": "Muut asiat",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=202599-15",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/202599-15.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Tarkastuslautakunta merkitsee muut asiat tiedoksi.",
+   "decision": "Tarkastuslautakunta keskusteli tarjolla olevista tarkastuslautakuntien koulutusvaihtoehdoista. Jäsenet ilmoittavat tiedot osallistumisestaan ulkoisen tarkastuksen yksikköön, joka hoitaa ilmoittautumiset koulutuksiin keskitetysti. Muita asioita ei käsitelty.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut mahdolliset asiat:\n\n- Tarkastuslautakuntien Auditio-konferenssi 27.-28.11.2025/ saapunut esite"
+    },
+    {
+     "heading": "Tarkastuspäällikön päätösesitys",
+     "text": "Tarkastuslautakunta merkitsee muut asiat tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta keskusteli tarjolla olevista tarkastuslautakuntien koulutusvaihtoehdoista. Jäsenet ilmoittavat tiedot osallistumisestaan ulkoisen tarkastuksen yksikköön, joka hoitaa ilmoittautumiset koulutuksiin keskitetysti. Muita asioita ei käsitelty."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Walkamo Mika",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Antin Miia",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Heinonen Mia",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kajava Teemu",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kirkkola-Helenius Tarja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kolu Emma",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Leppälahti Markku",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lindberg Maarit",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Masalin Kari",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Mänki Marianne",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Oikari Elise",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Viitanen Timo",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pelvola Kirsi",
+   "role": "esittelijä, tarkastuspäällikkö",
+   "group": "other"
+  },
+  {
+   "name": "Tikkanen Esa O",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Naukkarinen Olli",
+   "role": "hyvinvointialuejohtaja",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=202599",
+  "fetched_at": "2026-10-14T17:09:44+00:00",
+  "content_hash": "75ee3d65f29a0db8",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T17:09:44+00:00"
+ }
+}

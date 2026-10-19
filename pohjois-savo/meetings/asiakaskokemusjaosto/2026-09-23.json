@@ -1,0 +1,356 @@
+{
+ "id": "asiakaskokemusjaosto/2026-09-23",
+ "region": "pohjois-savo",
+ "body_id": "asiakaskokemusjaosto",
+ "body_name": "Asiakaskokemusjaosto",
+ "date": "2026-09-23",
+ "stage": "minutes",
+ "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261128",
+ "pdf_url": "https://pshva.oncloudos.com/kokous/20261128.PDF",
+ "time": "08:30 - 09:45",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "177",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261128-1",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261128-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.",
+   "decision": "Päätösehdotus hyväksyttiin",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen laillisuus ja päätösvaltaisuus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "178",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261128-2",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261128-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Pitkänen Eveliina ja Väätäinen Jenna.",
+   "decision": "Pöytäkirjan tarkastajiksi valittiin Pitkänen Eveliina ja Väätäinen Jenna.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pöytäkirjantarkastajien valinta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjan tarkastajiksi valittiin Pitkänen Eveliina ja Väätäinen Jenna."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Pitkänen Eveliina ja Väätäinen Jenna."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "179",
+   "title": "Asioiden käsittelyjärjestys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261128-3",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261128-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi.",
+   "decision": "Siirretään 181 § käsiteltäväksi 184 § Omavalvontaohjelman seurantaraportti 2/2026 jälkeen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asioiden käsittelyjärjestys"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Siirretään 181 § käsiteltäväksi 184 § Omavalvontaohjelman seurantaraportti 2/2026 jälkeen."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "180",
+   "title": "Tiedoksisaatettavat asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261128-4",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261128-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto merkitsee tiedoksisaatettavat asiat tiedoksi.",
+   "decision": "Tiedoksisaatettavat asiat:\n\n- Kuljetuspvaleut HVA:lla: käsittely seuraavassa kokouksessa\n\n- STM:n järjestöavustusten hakeminen hyvinvointialueelle ja järjestötoimijoiden kumppaanushankeaihioiden haku\n\nAsiakaskokemusjaosto merkitsi tiedoksisaatettavat asiat tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Tiedoksisaatettavat asiat\n\n- Kuljetuspalvelut HVA:lla\n\n- STM:n järjestöavustusten hakeminen hyvinvointialueelle ja järjestötoimijoiden kumppaanushankeaihioiden haku"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tiedoksisaatettavat asiat:\n\n- Kuljetuspvaleut HVA:lla: käsittely seuraavassa kokouksessa\n\n- STM:n järjestöavustusten hakeminen hyvinvointialueelle ja järjestötoimijoiden kumppaanushankeaihioiden haku\n\nAsiakaskokemusjaosto merkitsi tiedoksisaatettavat asiat tiedoksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto merkitsee tiedoksisaatettavat asiat tiedoksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "181",
+   "title": "Vuodelle 2026 jatkettava kumppanuusavustus, Vanhustyön keskusliitto, Ikäopas ja korjausneuvonta -toiminta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261128-5",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261128-5.PDF",
+   "diary_number": "1551/02.05.01/2024",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto päättää, että Vanhustyön keskusliitolle myönnetään kumppanuusavustus 19 000 euroa vuodelle 2026.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Vanhustyön keskusliitto\n\n- Liite 1, Kumppanuussopimus PSHVA väliraportti 2025 – 2026 TS, Vanhustyön keskusliitto\n\n- Liite 2, Talousraportti 9 – 12 2025, POSA, Vanhustyön keskusliitto\n\n- Liite 3, Talousraportti 1-8 2026, POSA, Vanhustyön keskusliitto\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 14.8.2026 Vanhustyön keskusliiton väliraportti koskien Ikäopas- ja korjausneuvonta -toimintaa. Kumppanuusavustussopimus on tehty kolmeksi vuodeksi vuosille 2024–2026. Raportti on annettu 1.9.2025 – 31.8.2026 väliseltä toiminta-ajalta. Toimintavuodelle myönnetty avustussumma oli 19 000 euroa.\n\nRaportin mukaan toiminta on toteutunut laajasti Pohjois-Savon alueen eri paikkakunnilla; Iisalmi, Kaavi, Kuopio, Keitele, Kiuruvesi, Pielavesi, Rautavaara, Siilinjärvi, Sonkajärvi, Vesanto, Varkaus. Toimintakaudella on toiminut 14 vapaaehtoista Ikäopasta 26:ssa eri tapahtumassa. Ikääntymisen ennakoinnin avoimiin Hyvän Olon Olohuone -tilaisuuksiin on osallistunut yhteensä n. 500 henkilöä. Korjausneuvonnassa on tehty tarveperusteisesti 120 asiakaskäyntiä.\n\nKorjausneuvonta on antanut hyvinvointialueen ammattilaisille koulutusta korjausneuvonnan tarpeen parempaan tunnistamiseen, jotta ikääntyneiden asuminen on esteetöntä ja tuvallista. Kotikäynneillä korjausneuvoja on puolestaan jakanut tietoa Ikäkeskuksesta ja tarvittaessa arvioinut huoli-ilmoituksen tekemisen tarvetta.\n\nVäliraportti on välitetty myös hyvinvointialueen Ikääntyneiden palvelujen asiakasohjauksen osapuolelle. Yhteistyö on koettu hyväksi ja tarkoituksenmukaiseksi ja se on toteutunut suunnitellusti. Kokonaisuutena Ikäopas- ja korjausneuvonta -toiminta on raporttien mukaan ollut alueellisesti laajaa ja se on tavoittanut hyvin kohderyhmäänsä.",
+   "decision": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että Jarkko Ahokas saapui klo 8.36",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nSirpa Kononen, hyvinvointikoordinaattori, HYTE- ja osallisuuspalveluyksikkö, HYTE- ja osallisuuspäällikkö Säde Rytkönen, p. ."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että Jarkko Ahokas saapui klo 8.36"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto päättää, että Vanhustyön keskusliitolle myönnetään kumppanuusavustus 19 000 euroa vuodelle 2026.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Vanhustyön keskusliitto\n\n- Liite 1, Kumppanuussopimus PSHVA väliraportti 2025 – 2026 TS, Vanhustyön keskusliitto\n\n- Liite 2, Talousraportti 9 – 12 2025, POSA, Vanhustyön keskusliitto\n\n- Liite 3, Talousraportti 1-8 2026, POSA, Vanhustyön keskusliitto\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 14.8.2026 Vanhustyön keskusliiton väliraportti koskien Ikäopas- ja korjausneuvonta -toimintaa. Kumppanuusavustussopimus on tehty kolmeksi vuodeksi vuosille 2024–2026. Raportti on annettu 1.9.2025 – 31.8.2026 väliseltä toiminta-ajalta. Toimintavuodelle myönnetty avustussumma oli 19 000 euroa.\n\nRaportin mukaan toiminta on toteutunut laajasti Pohjois-Savon alueen eri paikkakunnilla; Iisalmi, Kaavi, Kuopio, Keitele, Kiuruvesi, Pielavesi, Rautavaara, Siilinjärvi, Sonkajärvi, Vesanto, Varkaus. Toimintakaudella on toiminut 14 vapaaehtoista Ikäopasta 26:ssa eri tapahtumassa. Ikääntymisen ennakoinnin avoimiin Hyvän Olon Olohuone -tilaisuuksiin on osallistunut yhteensä n. 500 henkilöä. Korjausneuvonnassa on tehty tarveperusteisesti 120 asiakaskäyntiä.\n\nKorjausneuvonta on antanut hyvinvointialueen ammattilaisille koulutusta korjausneuvonnan tarpeen parempaan tunnistamiseen, jotta ikääntyneiden asuminen on esteetöntä ja tuvallista. Kotikäynneillä korjausneuvoja on puolestaan jakanut tietoa Ikäkeskuksesta ja tarvittaessa arvioinut huoli-ilmoituksen tekemisen tarvetta.\n\nVäliraportti on välitetty myös hyvinvointialueen Ikääntyneiden palvelujen asiakasohjauksen osapuolelle. Yhteistyö on koettu hyväksi ja tarkoituksenmukaiseksi ja se on toteutunut suunnitellusti. Kokonaisuutena Ikäopas- ja korjausneuvonta -toiminta on raporttien mukaan ollut alueellisesti laajaa ja se on tavoittanut hyvin kohderyhmäänsä."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Raportti kumppanuusavustustoiminnasta, Vanhustyön keskusliitto",
+     "url": "https://pshva.oncloudos.com/kokous/20261128-5-285593.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Liite 1, Kumppanuussopimus PSHVA väliraportti 2025-2026 TS, Vanhustyön keskusliitto",
+     "url": "https://pshva.oncloudos.com/kokous/20261128-5-285594.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Liite 2, Talousraportti 9-122025, POSA, Vanhustyön keskusliitto",
+     "url": "https://pshva.oncloudos.com/kokous/20261128-5-285595.PDF"
+    },
+    {
+     "title": "Oheismateriaali 4 Liite 3, Talousraportti 1-8 2026, POSA, Vanhustyön keskusliitto",
+     "url": "https://pshva.oncloudos.com/kokous/20261128-5-285597.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "182",
+   "title": "Vuoden 2027 avustushaku yleishyödylliseen toimintaan",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261128-6",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261128-6.PDF",
+   "diary_number": "5420/02.05.01/2026",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto hyväksyy vuoden 2027 avustushakuajaksi yleishyödyllisille yhteisöille 1.10. – 15.11.2026 välisen ajan.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Pohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 10.9.2025)\n\nValmistelu\n\nPohjois-Savon hyvinvointialue tukee avustusperusteisella yhteistyöllä Pohjois-Savon alueella toimivia yleishyödyllisiä yhteisöjä. Avustettavalla toiminnalla edistetään pohjoissavolaisten asukkaiden hyvinvointia, terveyttä ja arjen turvallisuutta. Hyvinvointialueella on avustushaun periaateohjeen mukaisesti käytössä kaksi avustuslajia. \n\nKumppanuusavustus on pidempikestoinen 2-3 vuotinen harkinnanvarainen avustus hakijan hankeavustuksen (esim. ESR) tai kohdennetun toiminta-avustuksen tai yleisavustuksen (esim. STEA) tai oman varainhankinnan tukeen tai hankerahoituksen omarahoitusosuuteen.\n\nInnovaatioavustus on yksivuotinen harkinnanvarainen tuki uuden toiminnan kokeilemiseen tai hyväksi käytännöksi osoittautuneen toiminnan laajentamiseen, äkilliseen ajankohtaiseen toimintaympäristön tai kohderyhmän tarpeissa tapahtuneeseen muutokseen tai hakijoiden yhteisvastuullisesti toteutettavan toiminnan toteuttamiseen.\n\nVuoden 2027 jaettava avustusbudjetti yleishyödylliseen toimintaan varmistuu lopullisesti aluevaltuuston hyväksyttyä hyvinvointialueen talousarvion 12/2026 kokouksessa. Avustushakuajankohta on molempien avustuslajien osalta aikaväli 1.10. – 15.11.2026. Syksyllä toteutettava hakuaika mahdollistaa päätösten tekemisen alkuvuodesta 2027.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nSirpa Kononen, Säde Rytkönen, Hyte- ja osallisuuspalveluyksikkö"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto hyväksyy vuoden 2027 avustushakuajaksi yleishyödyllisille yhteisöille 1.10. – 15.11.2026 välisen ajan.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Pohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 10.9.2025)\n\nValmistelu\n\nPohjois-Savon hyvinvointialue tukee avustusperusteisella yhteistyöllä Pohjois-Savon alueella toimivia yleishyödyllisiä yhteisöjä. Avustettavalla toiminnalla edistetään pohjoissavolaisten asukkaiden hyvinvointia, terveyttä ja arjen turvallisuutta. Hyvinvointialueella on avustushaun periaateohjeen mukaisesti käytössä kaksi avustuslajia. \n\nKumppanuusavustus on pidempikestoinen 2-3 vuotinen harkinnanvarainen avustus hakijan hankeavustuksen (esim. ESR) tai kohdennetun toiminta-avustuksen tai yleisavustuksen (esim. STEA) tai oman varainhankinnan tukeen tai hankerahoituksen omarahoitusosuuteen.\n\nInnovaatioavustus on yksivuotinen harkinnanvarainen tuki uuden toiminnan kokeilemiseen tai hyväksi käytännöksi osoittautuneen toiminnan laajentamiseen, äkilliseen ajankohtaiseen toimintaympäristön tai kohderyhmän tarpeissa tapahtuneeseen muutokseen tai hakijoiden yhteisvastuullisesti toteutettavan toiminnan toteuttamiseen.\n\nVuoden 2027 jaettava avustusbudjetti yleishyödylliseen toimintaan varmistuu lopullisesti aluevaltuuston hyväksyttyä hyvinvointialueen talousarvion 12/2026 kokouksessa. Avustushakuajankohta on molempien avustuslajien osalta aikaväli 1.10. – 15.11.2026. Syksyllä toteutettava hakuaika mahdollistaa päätösten tekemisen alkuvuodesta 2027."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Pohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (Hyv. asiakaskokemusjaosto 10.9.2025)",
+     "url": "https://pshva.oncloudos.com/kokous/20261128-6-287162.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "183",
+   "title": "Omavalvontaohjelman seurantaraportti  2⁄2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261128-7",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261128-7.PDF",
+   "diary_number": "3030/06.00.01/2026",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto merkitsee seurantaraportin tiedoksi ja lähettää sen edelleen aluehallitukselle tiedoksi.\n\nEnnakkovaikutusten arviointi\n\nOmavalvontaohjelman seuranta tuottaa asukkaille, päättäjille ja henkilöstölle ajantasaista tietoa hyvinvointialueen toiminnasta ja laadusta. Palvelujen järjestäjien osavuosikatsaukset kertovat palvelukohtaisesta toiminnasta tarkemmalla tasolla. Omavalvontaohjelman seuranta on tärkeää, jotta toiminnan riskit ja muutostarpeet tunnistetaan jo ennakolta, ja niihin voidaan vaikuttaa.\n\nToimivallan peruste\nHallintosääntö § 39\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nHyvänvoimaa Pohjois-Savosta omavalvontaohjelman seurantaraportti 1-4.2026\n\nValmistelu\nOmavalvonnalla tarkoitetaan niitä keinoja ja toimia, joilla palvelunjärjestäjä ja palveluntuottaja valvovat, seuraavat ja arvioivat toimintaansa. Omavalvonnalla varmistetaan asiakkaiden yhdenvertaisuus sekä palvelujen saatavuus, jatkuvuus, turvallisuus ja laatu.\n\nOmavalvonta on valvonnan ensisijaisin muoto. Omavalvonnalla varmistetaan, että toimintaa toteutetaan lainmukaisesti ja sopimuksia noudattaen. Omavalvonta on ennakoivaa ja aktiivista toimintaa, ja siihen kuuluu riskitilanteiden tunnistaminen ja epäkohtiin puuttuminen.\n\nPalvelunjärjestäjän ja -tuottajan tekemän omavalvonnan lisäksi jokaisella sosiaali- ja terveydenhuollon ammattihenkilöllä on velvollisuus toimia turvallisesti työssään sekä ilmoittaa havaitsemistaan riskeistä tai epäkohdista työnantajalleen.\n\nPalvelunjärjestäjän pitää kehittää laadukkaat, turvalliset ja vaikuttavat prosessit, palveluketjut ja toimintatavat. Tämä edellyttää keskeisten prosessien ja hoito- ja palveluketjujen tunnistamista, määrittelyä, kuvaamista sekä jatkuvaa kehittämistä.\n\nPalvelunjärjestäjä määrittelee keskeiset turvallisuutta edistävät linjaukset ja ohjeistukset sekä tarvittavan resursoinnin toiminnan kehittämiseen ja jatkuvaan parantamiseen. Prosesseihin liittyvät riskit pitää tunnistaa ja prosesseja suojaavat toimenpiteet määritellä.\n\nProsessien kehittämisessä on huomioitava moniammatillinen yhteistyö ja toiminnan arvioinnissa teknisen turvallisuuden lisäksi asiakas- ja potilaskokemus.\n\nHyvinvointialueet järjestävät sosiaali- ja terveydenhuollon palvelut alueellaan. Niiden laajaan omavalvontavelvoitteeseen kuuluu oman järjestämistehtävänsä ja oman palvelutuotantonsa valvonnan lisäksi yksityisten palveluntuottajien valvonta.\n\nOmavalvontaohjelman seurantaraportti tuottaa tietoa muun muassa hyvinvointialueen toiminnasta, asiakkaiden palautteista, toiminnan kehittämisestä ja valvonnan havainnoista.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nPalvelualuepäällikkö Päivi Eskelinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto merkitsee seurantaraportin tiedoksi ja lähettää sen edelleen aluehallitukselle tiedoksi.\n\nEnnakkovaikutusten arviointi\n\nOmavalvontaohjelman seuranta tuottaa asukkaille, päättäjille ja henkilöstölle ajantasaista tietoa hyvinvointialueen toiminnasta ja laadusta. Palvelujen järjestäjien osavuosikatsaukset kertovat palvelukohtaisesta toiminnasta tarkemmalla tasolla. Omavalvontaohjelman seuranta on tärkeää, jotta toiminnan riskit ja muutostarpeet tunnistetaan jo ennakolta, ja niihin voidaan vaikuttaa.\n\nToimivallan peruste\nHallintosääntö § 39\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nHyvänvoimaa Pohjois-Savosta omavalvontaohjelman seurantaraportti 1-4.2026\n\nValmistelu\nOmavalvonnalla tarkoitetaan niitä keinoja ja toimia, joilla palvelunjärjestäjä ja palveluntuottaja valvovat, seuraavat ja arvioivat toimintaansa. Omavalvonnalla varmistetaan asiakkaiden yhdenvertaisuus sekä palvelujen saatavuus, jatkuvuus, turvallisuus ja laatu.\n\nOmavalvonta on valvonnan ensisijaisin muoto. Omavalvonnalla varmistetaan, että toimintaa toteutetaan lainmukaisesti ja sopimuksia noudattaen. Omavalvonta on ennakoivaa ja aktiivista toimintaa, ja siihen kuuluu riskitilanteiden tunnistaminen ja epäkohtiin puuttuminen.\n\nPalvelunjärjestäjän ja -tuottajan tekemän omavalvonnan lisäksi jokaisella sosiaali- ja terveydenhuollon ammattihenkilöllä on velvollisuus toimia turvallisesti työssään sekä ilmoittaa havaitsemistaan riskeistä tai epäkohdista työnantajalleen.\n\nPalvelunjärjestäjän pitää kehittää laadukkaat, turvalliset ja vaikuttavat prosessit, palveluketjut ja toimintatavat. Tämä edellyttää keskeisten prosessien ja hoito- ja palveluketjujen tunnistamista, määrittelyä, kuvaamista sekä jatkuvaa kehittämistä.\n\nPalvelunjärjestäjä määrittelee keskeiset turvallisuutta edistävät linjaukset ja ohjeistukset sekä tarvittavan resursoinnin toiminnan kehittämiseen ja jatkuvaan parantamiseen. Prosesseihin liittyvät riskit pitää tunnistaa ja prosesseja suojaavat toimenpiteet määritellä.\n\nProsessien kehittämisessä on huomioitava moniammatillinen yhteistyö ja toiminnan arvioinnissa teknisen turvallisuuden lisäksi asiakas- ja potilaskokemus.\n\nHyvinvointialueet järjestävät sosiaali- ja terveydenhuollon palvelut alueellaan. Niiden laajaan omavalvontavelvoitteeseen kuuluu oman järjestämistehtävänsä ja oman palvelutuotantonsa valvonnan lisäksi yksityisten palveluntuottajien valvonta.\n\nOmavalvontaohjelman seurantaraportti tuottaa tietoa muun muassa hyvinvointialueen toiminnasta, asiakkaiden palautteista, toiminnan kehittämisestä ja valvonnan havainnoista."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Hyvänvoimaa Pohjois-Savosta omavalvontaohjelman seurantaraportti 1-4.2026",
+     "url": "https://pshva.oncloudos.com/kokous/20261128-7-288459.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "184",
+   "title": "Muut asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261128-8",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261128-8.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Puheenjohtaja päätti kokouksen klo 9.45",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja päätti kokouksen klo 9.45"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Rossi Markku",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Miettinen Heikki",
+   "role": "varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Ahokas Jarkko",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hämäläinen Vuokko",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Koistinen Minna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pitkänen Eveliina",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Väätäinen Jenna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Eskelinen Päivi",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Hiltunen Miia",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Raatikainen Riitta",
+   "role": "aluehallituksen puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Rytkönen Säde",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Kononen Sirpa",
+   "role": "asiantuntija",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261128",
+  "fetched_at": "2026-10-14T17:52:32+00:00",
+  "content_hash": "718922be514fe07b",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T17:52:32+00:00"
+ }
+}

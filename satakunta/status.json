@@ -1,0 +1,15 @@
+{
+ "region": "satakunta",
+ "started_at": "2026-10-19T01:07:46+00:00",
+ "parser_version": "0.1.0",
+ "fetched": 16,
+ "changed": 4,
+ "unchanged": 94,
+ "removed": 0,
+ "errors": [],
+ "complete": true,
+ "result": "ok",
+ "requests": 212,
+ "finished_at": "2026-10-19T01:11:18+00:00",
+ "meetings_total": 110
+}

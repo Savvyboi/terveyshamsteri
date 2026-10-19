@@ -1,0 +1,725 @@
+{
+ "meetings": {
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_8102026": {
+   "id": "aluehallitus/2026-10-08",
+   "date": "2026-10-08",
+   "stage": "minutes",
+   "hash": "a4dbc49da63f94dd",
+   "fetched_at": "2026-10-14T16:47:47+00:00",
+   "first_seen": "2026-10-14T16:47:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2492026": {
+   "id": "aluehallitus/2026-09-24",
+   "date": "2026-09-24",
+   "stage": "minutes",
+   "hash": "b53c4dcf55f4aa8d",
+   "fetched_at": "2026-10-14T16:47:58+00:00",
+   "first_seen": "2026-10-14T16:47:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Kansalliskielilautakunta/Kokous_2292026": {
+   "id": "kansalliskielilautakunta/2026-09-22",
+   "date": "2026-09-22",
+   "stage": "minutes",
+   "hash": "7fc85c42c747862c",
+   "fetched_at": "2026-10-14T16:48:06+00:00",
+   "first_seen": "2026-10-14T16:48:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1092026": {
+   "id": "aluehallitus/2026-09-10",
+   "date": "2026-09-10",
+   "stage": "minutes",
+   "hash": "3bd4a4423c1e4700",
+   "fetched_at": "2026-10-14T16:48:17+00:00",
+   "first_seen": "2026-10-14T16:48:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_292026": {
+   "id": "aluevaltuusto/2026-09-02",
+   "date": "2026-09-02",
+   "stage": "minutes",
+   "hash": "ea751143e6d24575",
+   "fetched_at": "2026-10-14T16:48:35+00:00",
+   "first_seen": "2026-10-14T16:48:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Palveluiden_jaumlrjestaumlminen_lautakunta/Kokous_192026": {
+   "id": "palveluiden-jarjestaminen-lautakunta/2026-09-01",
+   "date": "2026-09-01",
+   "stage": "minutes",
+   "hash": "fe081a0ce7fd943e",
+   "fetched_at": "2026-10-14T16:48:47+00:00",
+   "first_seen": "2026-10-14T16:48:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_192026": {
+   "id": "tarkastuslautakunta/2026-09-01",
+   "date": "2026-09-01",
+   "stage": "minutes",
+   "hash": "71066691744bb8ab",
+   "fetched_at": "2026-10-14T16:48:56+00:00",
+   "first_seen": "2026-10-14T16:48:56+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2782026": {
+   "id": "aluehallitus/2026-08-27",
+   "date": "2026-08-27",
+   "stage": "minutes",
+   "hash": "6ba623909a34fbce",
+   "fetched_at": "2026-10-14T16:49:13+00:00",
+   "first_seen": "2026-10-14T16:49:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Varautuminen_ja_turvallisuus_lautakunta/Kokous_2582026": {
+   "id": "varautuminen-ja-turvallisuus-lautakunta/2026-08-25",
+   "date": "2026-08-25",
+   "stage": "minutes",
+   "hash": "c7c0a2159dffa550",
+   "fetched_at": "2026-10-14T16:49:23+00:00",
+   "first_seen": "2026-10-14T16:49:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1382026": {
+   "id": "aluehallitus/2026-08-13",
+   "date": "2026-08-13",
+   "stage": "minutes",
+   "hash": "79f36f4d08bce382",
+   "fetched_at": "2026-10-14T16:49:37+00:00",
+   "first_seen": "2026-10-14T16:49:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1762026": {
+   "id": "aluehallitus/2026-06-17",
+   "date": "2026-06-17",
+   "stage": "minutes",
+   "hash": "ea1aab17dd4d8759",
+   "fetched_at": "2026-10-14T16:49:48+00:00",
+   "first_seen": "2026-10-14T16:49:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_1062026": {
+   "id": "aluevaltuusto/2026-06-10",
+   "date": "2026-06-10",
+   "stage": "minutes",
+   "hash": "2f0392d896ee3ef0",
+   "fetched_at": "2026-10-14T16:50:03+00:00",
+   "first_seen": "2026-10-14T16:50:03+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Palveluiden_jaumlrjestaumlminen_lautakunta/Kokous_962026": {
+   "id": "palveluiden-jarjestaminen-lautakunta/2026-06-09",
+   "date": "2026-06-09",
+   "stage": "minutes",
+   "hash": "d270cb5ab5fefe9a",
+   "fetched_at": "2026-10-14T16:50:17+00:00",
+   "first_seen": "2026-10-14T16:50:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_462026": {
+   "id": "aluehallitus/2026-06-04",
+   "date": "2026-06-04",
+   "stage": "minutes",
+   "hash": "50cb87fa1ec88015",
+   "fetched_at": "2026-10-14T16:50:30+00:00",
+   "first_seen": "2026-10-14T16:50:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Kansalliskielilautakunta/Kokous_262026": {
+   "id": "kansalliskielilautakunta/2026-06-02",
+   "date": "2026-06-02",
+   "stage": "minutes",
+   "hash": "e55805a149520ff8",
+   "fetched_at": "2026-10-14T16:50:39+00:00",
+   "first_seen": "2026-10-14T16:50:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2652026": {
+   "id": "tarkastuslautakunta/2026-05-26",
+   "date": "2026-05-26",
+   "stage": "minutes",
+   "hash": "172b194f86424ccb",
+   "fetched_at": "2026-10-14T16:50:47+00:00",
+   "first_seen": "2026-10-14T16:50:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2152026": {
+   "id": "aluehallitus/2026-05-21",
+   "date": "2026-05-21",
+   "stage": "minutes",
+   "hash": "6104559aba5b2e2f",
+   "fetched_at": "2026-10-14T16:51:05+00:00",
+   "first_seen": "2026-10-14T16:51:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1352026": {
+   "id": "tarkastuslautakunta/2026-05-13",
+   "date": "2026-05-13",
+   "stage": "minutes",
+   "hash": "187a145a4529c94b",
+   "fetched_at": "2026-10-14T16:51:12+00:00",
+   "first_seen": "2026-10-14T16:51:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Palveluiden_jaumlrjestaumlminen_lautakunta/Kokous_1252026": {
+   "id": "palveluiden-jarjestaminen-lautakunta/2026-05-12",
+   "date": "2026-05-12",
+   "stage": "minutes",
+   "hash": "045bce68f4059dc3",
+   "fetched_at": "2026-10-14T16:51:28+00:00",
+   "first_seen": "2026-10-14T16:51:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_752026": {
+   "id": "aluehallitus/2026-05-07",
+   "date": "2026-05-07",
+   "stage": "minutes",
+   "hash": "bb0e74dbce717e6f",
+   "fetched_at": "2026-10-14T16:51:40+00:00",
+   "first_seen": "2026-10-14T16:51:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_2942026": {
+   "id": "aluevaltuusto/2026-04-29",
+   "date": "2026-04-29",
+   "stage": "minutes",
+   "hash": "a09a78db27e5e9bf",
+   "fetched_at": "2026-10-14T16:51:49+00:00",
+   "first_seen": "2026-10-14T16:51:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2842026": {
+   "id": "tarkastuslautakunta/2026-04-28",
+   "date": "2026-04-28",
+   "stage": "minutes",
+   "hash": "eb317cb2259f33cb",
+   "fetched_at": "2026-10-14T16:51:56+00:00",
+   "first_seen": "2026-10-14T16:51:56+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Varautuminen_ja_turvallisuus_lautakunta/Kokous_2842026": {
+   "id": "varautuminen-ja-turvallisuus-lautakunta/2026-04-28",
+   "date": "2026-04-28",
+   "stage": "minutes",
+   "hash": "03a9d4e8c0cc434c",
+   "fetched_at": "2026-10-14T16:52:05+00:00",
+   "first_seen": "2026-10-14T16:52:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2342026": {
+   "id": "aluehallitus/2026-04-23",
+   "date": "2026-04-23",
+   "stage": "minutes",
+   "hash": "885acc7db4bae3c4",
+   "fetched_at": "2026-10-14T16:52:20+00:00",
+   "first_seen": "2026-10-14T16:52:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1542026": {
+   "id": "tarkastuslautakunta/2026-04-15",
+   "date": "2026-04-15",
+   "stage": "minutes",
+   "hash": "1210c657bc03b2bc",
+   "fetched_at": "2026-10-14T16:52:28+00:00",
+   "first_seen": "2026-10-14T16:52:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Palveluiden_jaumlrjestaumlminen_lautakunta/Kokous_1442026": {
+   "id": "palveluiden-jarjestaminen-lautakunta/2026-04-14",
+   "date": "2026-04-14",
+   "stage": "minutes",
+   "hash": "7dbd7daf6028e129",
+   "fetched_at": "2026-10-14T16:52:42+00:00",
+   "first_seen": "2026-10-14T16:52:42+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_942026": {
+   "id": "aluehallitus/2026-04-09",
+   "date": "2026-04-09",
+   "stage": "minutes",
+   "hash": "0ea46f22bddd85bf",
+   "fetched_at": "2026-10-14T16:52:55+00:00",
+   "first_seen": "2026-10-14T16:52:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Kansalliskielilautakunta/Kokous_742026": {
+   "id": "kansalliskielilautakunta/2026-04-07",
+   "date": "2026-04-07",
+   "stage": "minutes",
+   "hash": "61a308fe232dee56",
+   "fetched_at": "2026-10-14T16:53:00+00:00",
+   "first_seen": "2026-10-14T16:53:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Palveluiden_jaumlrjestaumlminen_lautakunta/Kokous_742026": {
+   "id": "palveluiden-jarjestaminen-lautakunta/2026-04-07",
+   "date": "2026-04-07",
+   "stage": "minutes",
+   "hash": "1f93dd03cfa42034",
+   "fetched_at": "2026-10-14T16:53:07+00:00",
+   "first_seen": "2026-10-14T16:53:07+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Varautuminen_ja_turvallisuus_lautakunta/Kokous_3132026": {
+   "id": "varautuminen-ja-turvallisuus-lautakunta/2026-03-31",
+   "date": "2026-03-31",
+   "stage": "minutes",
+   "hash": "97e980cdee8580ce",
+   "fetched_at": "2026-10-14T16:53:18+00:00",
+   "first_seen": "2026-10-14T16:53:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2632026": {
+   "id": "aluehallitus/2026-03-26",
+   "date": "2026-03-26",
+   "stage": "minutes",
+   "hash": "a11c72b4bb30f217",
+   "fetched_at": "2026-10-14T16:53:34+00:00",
+   "first_seen": "2026-10-14T16:53:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_2532026": {
+   "id": "aluevaltuusto/2026-03-25",
+   "date": "2026-03-25",
+   "stage": "minutes",
+   "hash": "9cd25266a9f0c58a",
+   "fetched_at": "2026-10-14T16:53:50+00:00",
+   "first_seen": "2026-10-14T16:53:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1732026": {
+   "id": "tarkastuslautakunta/2026-03-17",
+   "date": "2026-03-17",
+   "stage": "minutes",
+   "hash": "b534222860be1f32",
+   "fetched_at": "2026-10-14T16:53:58+00:00",
+   "first_seen": "2026-10-14T16:53:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1232026": {
+   "id": "aluehallitus/2026-03-12",
+   "date": "2026-03-12",
+   "stage": "minutes",
+   "hash": "d3150fcb11c1e270",
+   "fetched_at": "2026-10-14T16:54:15+00:00",
+   "first_seen": "2026-10-14T16:54:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Kansalliskielilautakunta/Kokous_1032026": {
+   "id": "kansalliskielilautakunta/2026-03-10",
+   "date": "2026-03-10",
+   "stage": "minutes",
+   "hash": "b2c4976410e016bb",
+   "fetched_at": "2026-10-14T16:54:25+00:00",
+   "first_seen": "2026-10-14T16:54:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Varautuminen_ja_turvallisuus_lautakunta/Kokous_1032026": {
+   "id": "varautuminen-ja-turvallisuus-lautakunta/2026-03-10",
+   "date": "2026-03-10",
+   "stage": "minutes",
+   "hash": "1ebf6e07fa5f3b95",
+   "fetched_at": "2026-10-14T16:54:38+00:00",
+   "first_seen": "2026-10-14T16:54:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Palveluiden_jaumlrjestaumlminen_lautakunta/Kokous_332026": {
+   "id": "palveluiden-jarjestaminen-lautakunta/2026-03-03",
+   "date": "2026-03-03",
+   "stage": "minutes",
+   "hash": "64d49feba6c156f5",
+   "fetched_at": "2026-10-14T16:55:00+00:00",
+   "first_seen": "2026-10-14T16:55:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2622026": {
+   "id": "aluehallitus/2026-02-26",
+   "date": "2026-02-26",
+   "stage": "minutes",
+   "hash": "d64e10ed731b78c7",
+   "fetched_at": "2026-10-14T16:55:17+00:00",
+   "first_seen": "2026-10-14T16:55:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1222026": {
+   "id": "aluehallitus/2026-02-12",
+   "date": "2026-02-12",
+   "stage": "minutes",
+   "hash": "10316a4b9e47172c",
+   "fetched_at": "2026-10-14T16:55:31+00:00",
+   "first_seen": "2026-10-14T16:55:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_1122026": {
+   "id": "aluevaltuusto/2026-02-11",
+   "date": "2026-02-11",
+   "stage": "minutes",
+   "hash": "90567f4d6e9b655e",
+   "fetched_at": "2026-10-14T16:55:41+00:00",
+   "first_seen": "2026-10-14T16:55:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Palveluiden_jaumlrjestaumlminen_lautakunta/Kokous_322026": {
+   "id": "palveluiden-jarjestaminen-lautakunta/2026-02-03",
+   "date": "2026-02-03",
+   "stage": "minutes",
+   "hash": "6c99cc1de556daf2",
+   "fetched_at": "2026-10-14T16:55:58+00:00",
+   "first_seen": "2026-10-14T16:55:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2912026": {
+   "id": "aluehallitus/2026-01-29",
+   "date": "2026-01-29",
+   "stage": "minutes",
+   "hash": "e8d1a690408d1d0e",
+   "fetched_at": "2026-10-14T16:56:17+00:00",
+   "first_seen": "2026-10-14T16:56:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Kansalliskielilautakunta/Kokous_2712026": {
+   "id": "kansalliskielilautakunta/2026-01-27",
+   "date": "2026-01-27",
+   "stage": "minutes",
+   "hash": "5a78af944c9a2be6",
+   "fetched_at": "2026-10-14T16:56:25+00:00",
+   "first_seen": "2026-10-14T16:56:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2212026": {
+   "id": "tarkastuslautakunta/2026-01-22",
+   "date": "2026-01-22",
+   "stage": "minutes",
+   "hash": "a5ae559f8b45df07",
+   "fetched_at": "2026-10-14T16:56:33+00:00",
+   "first_seen": "2026-10-14T16:56:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_1612026": {
+   "id": "aluevaltuusto/2026-01-16",
+   "date": "2026-01-16",
+   "stage": "minutes",
+   "hash": "d7641055362132af",
+   "fetched_at": "2026-10-14T16:56:40+00:00",
+   "first_seen": "2026-10-14T16:56:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1512026": {
+   "id": "aluehallitus/2026-01-15",
+   "date": "2026-01-15",
+   "stage": "minutes",
+   "hash": "c5f753712dd43a60",
+   "fetched_at": "2026-10-14T16:56:55+00:00",
+   "first_seen": "2026-10-14T16:56:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluevaalilautakunta/Kokous_1412026": {
+   "id": "aluevaalilautakunta/2026-01-14",
+   "date": "2026-01-14",
+   "stage": "minutes",
+   "hash": "2c20e773d457f3f7",
+   "fetched_at": "2026-10-14T16:57:02+00:00",
+   "first_seen": "2026-10-14T16:57:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_22122025": {
+   "id": "aluehallitus/2025-12-22",
+   "date": "2025-12-22",
+   "stage": "minutes",
+   "hash": "f953e0cb4bed8d58",
+   "fetched_at": "2026-10-14T16:57:11+00:00",
+   "first_seen": "2026-10-14T16:57:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_17122025": {
+   "id": "aluevaltuusto/2025-12-17",
+   "date": "2025-12-17",
+   "stage": "minutes",
+   "hash": "2e68205327a6ea58",
+   "fetched_at": "2026-10-14T16:57:27+00:00",
+   "first_seen": "2026-10-14T16:57:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_16122025": {
+   "id": "tarkastuslautakunta/2025-12-16",
+   "date": "2025-12-16",
+   "stage": "minutes",
+   "hash": "776cb1e8eda421b4",
+   "fetched_at": "2026-10-14T16:57:37+00:00",
+   "first_seen": "2026-10-14T16:57:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_11122025": {
+   "id": "aluehallitus/2025-12-11",
+   "date": "2025-12-11",
+   "stage": "minutes",
+   "hash": "6f36e589c3c0df61",
+   "fetched_at": "2026-10-14T16:57:54+00:00",
+   "first_seen": "2026-10-14T16:57:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Palveluiden_jaumlrjestaumlminen_lautakunta/Kokous_2122025": {
+   "id": "palveluiden-jarjestaminen-lautakunta/2025-12-02",
+   "date": "2025-12-02",
+   "stage": "minutes",
+   "hash": "a3c87583d12a81b5",
+   "fetched_at": "2026-10-14T16:58:07+00:00",
+   "first_seen": "2026-10-14T16:58:07+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_27112025": {
+   "id": "aluehallitus/2025-11-27",
+   "date": "2025-11-27",
+   "stage": "minutes",
+   "hash": "9c017ec91788b841",
+   "fetched_at": "2026-10-14T16:58:29+00:00",
+   "first_seen": "2026-10-14T16:58:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Kansalliskielilautakunta/Kokous_25112025": {
+   "id": "kansalliskielilautakunta/2025-11-25",
+   "date": "2025-11-25",
+   "stage": "minutes",
+   "hash": "c2f17c3ed50f8ff3",
+   "fetched_at": "2026-10-14T16:58:39+00:00",
+   "first_seen": "2026-10-14T16:58:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_19112025": {
+   "id": "aluevaltuusto/2025-11-19",
+   "date": "2025-11-19",
+   "stage": "minutes",
+   "hash": "0838524ad7e1bf83",
+   "fetched_at": "2026-10-14T16:58:50+00:00",
+   "first_seen": "2026-10-14T16:58:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_13112025": {
+   "id": "aluehallitus/2025-11-13",
+   "date": "2025-11-13",
+   "stage": "minutes",
+   "hash": "9683e072f995c65a",
+   "fetched_at": "2026-10-14T16:59:03+00:00",
+   "first_seen": "2026-10-14T16:59:03+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_13112025": {
+   "id": "tarkastuslautakunta/2025-11-13",
+   "date": "2025-11-13",
+   "stage": "minutes",
+   "hash": "afa09f84bbc64ce7",
+   "fetched_at": "2026-10-14T16:59:15+00:00",
+   "first_seen": "2026-10-14T16:59:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Varautuminen_ja_turvallisuus_lautakunta/Kokous_10112025": {
+   "id": "varautuminen-ja-turvallisuus-lautakunta/2025-11-10",
+   "date": "2025-11-10",
+   "stage": "minutes",
+   "hash": "116323e99a76defe",
+   "fetched_at": "2026-10-14T16:59:25+00:00",
+   "first_seen": "2026-10-14T16:59:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Palveluiden_jaumlrjestaumlminen_lautakunta/Kokous_4112025": {
+   "id": "palveluiden-jarjestaminen-lautakunta/2025-11-04",
+   "date": "2025-11-04",
+   "stage": "minutes",
+   "hash": "2ccae872d26dc3a9",
+   "fetched_at": "2026-10-14T16:59:40+00:00",
+   "first_seen": "2026-10-14T16:59:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_30102025": {
+   "id": "aluehallitus/2025-10-30",
+   "date": "2025-10-30",
+   "stage": "minutes",
+   "hash": "685502aa6256acc9",
+   "fetched_at": "2026-10-14T17:00:00+00:00",
+   "first_seen": "2026-10-14T17:00:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Kansalliskielilautakunta/Kokous_28102025": {
+   "id": "kansalliskielilautakunta/2025-10-28",
+   "date": "2025-10-28",
+   "stage": "minutes",
+   "hash": "b0dd789a8b9b3160",
+   "fetched_at": "2026-10-14T17:00:08+00:00",
+   "first_seen": "2026-10-14T17:00:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_22102025": {
+   "id": "aluevaltuusto/2025-10-22",
+   "date": "2025-10-22",
+   "stage": "minutes",
+   "hash": "47999328bf74b0e4",
+   "fetched_at": "2026-10-14T17:00:18+00:00",
+   "first_seen": "2026-10-14T17:00:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_21102025": {
+   "id": "tarkastuslautakunta/2025-10-21",
+   "date": "2025-10-21",
+   "stage": "minutes",
+   "hash": "54c9b1b02e0e0822",
+   "fetched_at": "2026-10-14T17:00:29+00:00",
+   "first_seen": "2026-10-14T17:00:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Palveluiden_jaumlrjestaumlminen_lautakunta/Kokous_15102025": {
+   "id": "palveluiden-jarjestaminen-lautakunta/2025-10-15",
+   "date": "2025-10-15",
+   "stage": "minutes",
+   "hash": "a403f5de64da371c",
+   "fetched_at": "2026-10-14T17:00:34+00:00",
+   "first_seen": "2026-10-14T17:00:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_9102025": {
+   "id": "aluehallitus/2025-10-09",
+   "date": "2025-10-09",
+   "stage": "minutes",
+   "hash": "c9a54dd60b3a02da",
+   "fetched_at": "2026-10-14T17:00:46+00:00",
+   "first_seen": "2026-10-14T17:00:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Palveluiden_jaumlrjestaumlminen_lautakunta/Kokous_3092025": {
+   "id": "palveluiden-jarjestaminen-lautakunta/2025-09-30",
+   "date": "2025-09-30",
+   "stage": "minutes",
+   "hash": "f17223b3e74490b5",
+   "fetched_at": "2026-10-14T17:01:02+00:00",
+   "first_seen": "2026-10-14T17:01:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2592025": {
+   "id": "aluehallitus/2025-09-25",
+   "date": "2025-09-25",
+   "stage": "minutes",
+   "hash": "ea843a683b6c106d",
+   "fetched_at": "2026-10-14T17:01:19+00:00",
+   "first_seen": "2026-10-14T17:01:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2592025": {
+   "id": "tarkastuslautakunta/2025-09-25",
+   "date": "2025-09-25",
+   "stage": "minutes",
+   "hash": "33ecc43d3c7ca956",
+   "fetched_at": "2026-10-14T17:01:29+00:00",
+   "first_seen": "2026-10-14T17:01:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Varautuminen_ja_turvallisuus_lautakunta/Kokous_2392025": {
+   "id": "varautuminen-ja-turvallisuus-lautakunta/2025-09-23",
+   "date": "2025-09-23",
+   "stage": "minutes",
+   "hash": "cac86be68168098c",
+   "fetched_at": "2026-10-14T17:01:44+00:00",
+   "first_seen": "2026-10-14T17:01:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Kansalliskielilautakunta/Kokous_1692025": {
+   "id": "kansalliskielilautakunta/2025-09-16",
+   "date": "2025-09-16",
+   "stage": "minutes",
+   "hash": "8a0035e6917e39f5",
+   "fetched_at": "2026-10-14T17:01:53+00:00",
+   "first_seen": "2026-10-14T17:01:53+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1192025": {
+   "id": "aluehallitus/2025-09-11",
+   "date": "2025-09-11",
+   "stage": "minutes",
+   "hash": "969027ea8e461e42",
+   "fetched_at": "2026-10-14T17:02:05+00:00",
+   "first_seen": "2026-10-14T17:02:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_1092025": {
+   "id": "aluevaltuusto/2025-09-10",
+   "date": "2025-09-10",
+   "stage": "minutes",
+   "hash": "011ccb61486930b2",
+   "fetched_at": "2026-10-14T17:02:16+00:00",
+   "first_seen": "2026-10-14T17:02:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Palveluiden_jaumlrjestaumlminen_lautakunta/Kokous_392025": {
+   "id": "palveluiden-jarjestaminen-lautakunta/2025-09-03",
+   "date": "2025-09-03",
+   "stage": "minutes",
+   "hash": "358b2f96b43e58e5",
+   "fetched_at": "2026-10-14T17:02:37+00:00",
+   "first_seen": "2026-10-14T17:02:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2882025": {
+   "id": "aluehallitus/2025-08-28",
+   "date": "2025-08-28",
+   "stage": "minutes",
+   "hash": "9c6d894a373df7f4",
+   "fetched_at": "2026-10-14T17:02:48+00:00",
+   "first_seen": "2026-10-14T17:02:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2882025": {
+   "id": "tarkastuslautakunta/2025-08-28",
+   "date": "2025-08-28",
+   "stage": "minutes",
+   "hash": "626d4d3a5618999d",
+   "fetched_at": "2026-10-14T17:02:58+00:00",
+   "first_seen": "2026-10-14T17:02:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Varautuminen_ja_turvallisuus_lautakunta/Kokous_1582025": {
+   "id": "varautuminen-ja-turvallisuus-lautakunta/2025-08-15",
+   "date": "2025-08-15",
+   "stage": "minutes",
+   "hash": "435457a9b3a20fa6",
+   "fetched_at": "2026-10-14T17:03:07+00:00",
+   "first_seen": "2026-10-14T17:03:07+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1482025": {
+   "id": "aluehallitus/2025-08-14",
+   "date": "2025-08-14",
+   "stage": "minutes",
+   "hash": "c8da8d5c885508e9",
+   "fetched_at": "2026-10-14T17:03:24+00:00",
+   "first_seen": "2026-10-14T17:03:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1262025": {
+   "id": "aluehallitus/2025-06-12",
+   "date": "2025-06-12",
+   "stage": "minutes",
+   "hash": "466c1fc8474f0f1a",
+   "fetched_at": "2026-10-14T17:03:48+00:00",
+   "first_seen": "2026-10-14T17:03:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_362025": {
+   "id": "aluevaltuusto/2025-06-03",
+   "date": "2025-06-03",
+   "stage": "minutes",
+   "hash": "990e35adadd57102",
+   "fetched_at": "2026-10-14T17:04:06+00:00",
+   "first_seen": "2026-10-14T17:04:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Varautuminen_ja_turvallisuus_lautakunta/Kokous_2992026": {
+   "id": "varautuminen-ja-turvallisuus-lautakunta/2026-09-29",
+   "date": "2026-09-29",
+   "stage": "minutes",
+   "hash": "c468562919a1245d",
+   "fetched_at": "2026-10-19T00:57:21+00:00",
+   "first_seen": "2026-10-19T00:57:21+00:00",
+   "parser_version": "0.1.0"
+  }
+ },
+ "last_run": "2026-10-19T00:59:02+00:00"
+}

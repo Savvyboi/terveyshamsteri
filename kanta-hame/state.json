@@ -1,0 +1,1148 @@
+{
+ "meetings": {
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=203860C6XAA08X4B69X8C1EX328014FDA3C2": {
+   "id": "aluehallitus/2026-10-05",
+   "date": "2026-10-05",
+   "stage": "minutes",
+   "hash": "1ef0f5f1693a322e",
+   "fetched_at": "2026-10-14T16:47:46+00:00",
+   "first_seen": "2026-10-14T16:47:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026250": {
+   "id": "aluevaltuusto/2026-09-29",
+   "date": "2026-09-29",
+   "stage": "minutes",
+   "hash": "20433dbf7a148d48",
+   "fetched_at": "2026-10-19T00:58:42+00:00",
+   "first_seen": "2026-10-14T16:48:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026251": {
+   "id": "integraatiovaliokunta/2026-09-23",
+   "date": "2026-09-23",
+   "stage": "minutes",
+   "hash": "2880d2044eae6d1e",
+   "fetched_at": "2026-10-14T16:48:24+00:00",
+   "first_seen": "2026-10-14T16:48:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026256": {
+   "id": "terveyden-ja-toimintakyvyn-edistamisen-lautakunta/2026-09-22",
+   "date": "2026-09-22",
+   "stage": "minutes",
+   "hash": "931dc82dcb8b921a",
+   "fetched_at": "2026-10-14T16:48:33+00:00",
+   "first_seen": "2026-10-14T16:48:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026246": {
+   "id": "aluehallitus/2026-09-21",
+   "date": "2026-09-21",
+   "stage": "minutes",
+   "hash": "8eff2254085c89c9",
+   "fetched_at": "2026-10-19T00:59:13+00:00",
+   "first_seen": "2026-10-14T16:48:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026245": {
+   "id": "aluehallitus/2026-09-14",
+   "date": "2026-09-14",
+   "stage": "minutes",
+   "hash": "7ed48f73ca5fac53",
+   "fetched_at": "2026-10-19T00:59:27+00:00",
+   "first_seen": "2026-10-14T16:49:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026260": {
+   "id": "tarkastuslautakunta/2026-09-10",
+   "date": "2026-09-10",
+   "stage": "minutes",
+   "hash": "7ae3f30f870035e3",
+   "fetched_at": "2026-10-14T16:49:09+00:00",
+   "first_seen": "2026-10-14T16:49:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026244": {
+   "id": "aluehallitus/2026-09-07",
+   "date": "2026-09-07",
+   "stage": "minutes",
+   "hash": "166ec22d97570b62",
+   "fetched_at": "2026-10-14T16:49:22+00:00",
+   "first_seen": "2026-10-14T16:49:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026243": {
+   "id": "aluehallitus/2026-08-31",
+   "date": "2026-08-31",
+   "stage": "minutes",
+   "hash": "58892de199b23c8c",
+   "fetched_at": "2026-10-19T01:00:01+00:00",
+   "first_seen": "2026-10-14T16:49:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026235": {
+   "id": "turvallisuuslautakunta/2026-08-27",
+   "date": "2026-08-27",
+   "stage": "minutes",
+   "hash": "91d1e44df17125ac",
+   "fetched_at": "2026-10-14T16:49:44+00:00",
+   "first_seen": "2026-10-14T16:49:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026223": {
+   "id": "vammaisneuvosto/2026-08-27",
+   "date": "2026-08-27",
+   "stage": "minutes",
+   "hash": "eb69b472bf2faf56",
+   "fetched_at": "2026-10-14T16:49:52+00:00",
+   "first_seen": "2026-10-14T16:49:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026226": {
+   "id": "vanhusneuvosto/2026-08-27",
+   "date": "2026-08-27",
+   "stage": "minutes",
+   "hash": "d93391cab1f16592",
+   "fetched_at": "2026-10-14T16:50:01+00:00",
+   "first_seen": "2026-10-14T16:50:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026198": {
+   "id": "elamankaarilautakunta/2026-08-26",
+   "date": "2026-08-26",
+   "stage": "minutes",
+   "hash": "616b715f9649745a",
+   "fetched_at": "2026-10-14T16:50:14+00:00",
+   "first_seen": "2026-10-14T16:50:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026240": {
+   "id": "terveyden-ja-toimintakyvyn-edistamisen-lautakunta/2026-08-25",
+   "date": "2026-08-25",
+   "stage": "minutes",
+   "hash": "6c1fa550b65bc6b2",
+   "fetched_at": "2026-10-19T01:00:51+00:00",
+   "first_seen": "2026-10-14T16:50:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026242": {
+   "id": "aluehallitus/2026-08-24",
+   "date": "2026-08-24",
+   "stage": "minutes",
+   "hash": "7e2bfd29372a1e9f",
+   "fetched_at": "2026-10-14T16:50:38+00:00",
+   "first_seen": "2026-10-14T16:50:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026248": {
+   "id": "tarkastuslautakunta/2026-08-20",
+   "date": "2026-08-20",
+   "stage": "minutes",
+   "hash": "71847f0153673d58",
+   "fetched_at": "2026-10-14T16:50:45+00:00",
+   "first_seen": "2026-10-14T16:50:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026241": {
+   "id": "aluehallitus/2026-08-10",
+   "date": "2026-08-10",
+   "stage": "minutes",
+   "hash": "e7ea3daa49a01597",
+   "fetched_at": "2026-10-14T16:51:04+00:00",
+   "first_seen": "2026-10-14T16:51:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026234": {
+   "id": "terveyden-ja-toimintakyvyn-edistamisen-lautakunta/2026-06-16",
+   "date": "2026-06-16",
+   "stage": "minutes",
+   "hash": "b72b404bf929e217",
+   "fetched_at": "2026-10-14T16:51:13+00:00",
+   "first_seen": "2026-10-14T16:51:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026237": {
+   "id": "aluehallitus/2026-06-15",
+   "date": "2026-06-15",
+   "stage": "minutes",
+   "hash": "4019672a24c72037",
+   "fetched_at": "2026-10-14T16:51:32+00:00",
+   "first_seen": "2026-10-14T16:51:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026218": {
+   "id": "aluevaltuusto/2026-06-09",
+   "date": "2026-06-09",
+   "stage": "minutes",
+   "hash": "12be531b25f33c99",
+   "fetched_at": "2026-10-14T16:51:42+00:00",
+   "first_seen": "2026-10-14T16:51:42+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026229": {
+   "id": "aluehallitus/2026-06-08",
+   "date": "2026-06-08",
+   "stage": "minutes",
+   "hash": "db7cefcd92dbb2cb",
+   "fetched_at": "2026-10-14T16:52:02+00:00",
+   "first_seen": "2026-10-14T16:52:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026231": {
+   "id": "tarkastuslautakunta/2026-06-03",
+   "date": "2026-06-03",
+   "stage": "minutes",
+   "hash": "11557a6b89d4e950",
+   "fetched_at": "2026-10-14T16:52:08+00:00",
+   "first_seen": "2026-10-14T16:52:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026232": {
+   "id": "integraatiovaliokunta/2026-05-28",
+   "date": "2026-05-28",
+   "stage": "minutes",
+   "hash": "bd8888225c2e2d5a",
+   "fetched_at": "2026-10-14T16:52:19+00:00",
+   "first_seen": "2026-10-14T16:52:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026194": {
+   "id": "turvallisuuslautakunta/2026-05-28",
+   "date": "2026-05-28",
+   "stage": "minutes",
+   "hash": "206bd0f2f4f3daa5",
+   "fetched_at": "2026-10-14T16:52:28+00:00",
+   "first_seen": "2026-10-14T16:52:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026197": {
+   "id": "elamankaarilautakunta/2026-05-27",
+   "date": "2026-05-27",
+   "stage": "minutes",
+   "hash": "a830ebaf13a0bc94",
+   "fetched_at": "2026-10-14T16:52:46+00:00",
+   "first_seen": "2026-10-14T16:52:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026221": {
+   "id": "terveyden-ja-toimintakyvyn-edistamisen-lautakunta/2026-05-26",
+   "date": "2026-05-26",
+   "stage": "minutes",
+   "hash": "6b005dec88214c1d",
+   "fetched_at": "2026-10-14T16:52:57+00:00",
+   "first_seen": "2026-10-14T16:52:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026228": {
+   "id": "aluehallitus/2026-05-25",
+   "date": "2026-05-25",
+   "stage": "minutes",
+   "hash": "470635c19dd731ff",
+   "fetched_at": "2026-10-14T16:53:13+00:00",
+   "first_seen": "2026-10-14T16:53:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026211": {
+   "id": "nuorisovaltuusto/2026-05-21",
+   "date": "2026-05-21",
+   "stage": "minutes",
+   "hash": "f48bcfd0c49c366f",
+   "fetched_at": "2026-10-14T16:53:22+00:00",
+   "first_seen": "2026-10-14T16:53:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026225": {
+   "id": "tarkastuslautakunta/2026-05-21",
+   "date": "2026-05-21",
+   "stage": "minutes",
+   "hash": "c7b84ef12ec4652f",
+   "fetched_at": "2026-10-14T16:53:30+00:00",
+   "first_seen": "2026-10-14T16:53:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026230": {
+   "id": "aluevaltuusto/2026-05-19",
+   "date": "2026-05-19",
+   "stage": "minutes",
+   "hash": "0c01db0386080c04",
+   "fetched_at": "2026-10-14T16:53:41+00:00",
+   "first_seen": "2026-10-14T16:53:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026227": {
+   "id": "aluehallitus/2026-05-11",
+   "date": "2026-05-11",
+   "stage": "minutes",
+   "hash": "0fa097323192ed8f",
+   "fetched_at": "2026-10-14T16:54:06+00:00",
+   "first_seen": "2026-10-14T16:54:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026224": {
+   "id": "tarkastuslautakunta/2026-05-06",
+   "date": "2026-05-06",
+   "stage": "minutes",
+   "hash": "1183c465fe090c07",
+   "fetched_at": "2026-10-14T16:54:12+00:00",
+   "first_seen": "2026-10-14T16:54:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026217": {
+   "id": "vanhusneuvosto/2026-05-06",
+   "date": "2026-05-06",
+   "stage": "minutes",
+   "hash": "40e1174da0eb87c1",
+   "fetched_at": "2026-10-14T16:54:22+00:00",
+   "first_seen": "2026-10-14T16:54:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026195": {
+   "id": "terveyden-ja-toimintakyvyn-edistamisen-lautakunta/2026-04-28",
+   "date": "2026-04-28",
+   "stage": "minutes",
+   "hash": "e83340bebcf4dd50",
+   "fetched_at": "2026-10-14T16:54:30+00:00",
+   "first_seen": "2026-10-14T16:54:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026219": {
+   "id": "aluehallitus/2026-04-27",
+   "date": "2026-04-27",
+   "stage": "minutes",
+   "hash": "9b2e107f787cbc5b",
+   "fetched_at": "2026-10-14T16:54:44+00:00",
+   "first_seen": "2026-10-14T16:54:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026213": {
+   "id": "integraatiovaliokunta/2026-04-23",
+   "date": "2026-04-23",
+   "stage": "minutes",
+   "hash": "1ddb4d92278182e3",
+   "fetched_at": "2026-10-14T16:54:54+00:00",
+   "first_seen": "2026-10-14T16:54:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026179": {
+   "id": "turvallisuuslautakunta/2026-04-23",
+   "date": "2026-04-23",
+   "stage": "minutes",
+   "hash": "b81662a264acd5fb",
+   "fetched_at": "2026-10-14T16:55:02+00:00",
+   "first_seen": "2026-10-14T16:55:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026196": {
+   "id": "elamankaarilautakunta/2026-04-22",
+   "date": "2026-04-22",
+   "stage": "minutes",
+   "hash": "0e14359fe643ca20",
+   "fetched_at": "2026-10-14T16:55:14+00:00",
+   "first_seen": "2026-10-14T16:55:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026212": {
+   "id": "aluevaltuusto/2026-04-21",
+   "date": "2026-04-21",
+   "stage": "minutes",
+   "hash": "075166b98c92f782",
+   "fetched_at": "2026-10-14T16:55:26+00:00",
+   "first_seen": "2026-10-14T16:55:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026216": {
+   "id": "aluehallitus/2026-04-20",
+   "date": "2026-04-20",
+   "stage": "minutes",
+   "hash": "b77865b4d4da4c1b",
+   "fetched_at": "2026-10-14T16:55:45+00:00",
+   "first_seen": "2026-10-14T16:55:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026210": {
+   "id": "vammaisneuvosto/2026-04-20",
+   "date": "2026-04-20",
+   "stage": "minutes",
+   "hash": "85f5a1b42b761ca8",
+   "fetched_at": "2026-10-14T16:55:53+00:00",
+   "first_seen": "2026-10-14T16:55:53+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026199": {
+   "id": "tarkastuslautakunta/2026-04-09",
+   "date": "2026-04-09",
+   "stage": "minutes",
+   "hash": "6ff06b03cfecfb90",
+   "fetched_at": "2026-10-14T16:56:01+00:00",
+   "first_seen": "2026-10-14T16:56:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026163": {
+   "id": "nuorisovaltuusto/2026-04-01",
+   "date": "2026-04-01",
+   "stage": "minutes",
+   "hash": "0897fc32909c28a9",
+   "fetched_at": "2026-10-14T16:56:13+00:00",
+   "first_seen": "2026-10-14T16:56:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026208": {
+   "id": "aluehallitus/2026-03-30",
+   "date": "2026-03-30",
+   "stage": "minutes",
+   "hash": "e7459d97e456aa68",
+   "fetched_at": "2026-10-14T16:56:36+00:00",
+   "first_seen": "2026-10-14T16:56:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026200": {
+   "id": "vanhusneuvosto/2026-03-27",
+   "date": "2026-03-27",
+   "stage": "minutes",
+   "hash": "0cbf047889f80056",
+   "fetched_at": "2026-10-14T16:56:50+00:00",
+   "first_seen": "2026-10-14T16:56:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026203": {
+   "id": "integraatiovaliokunta/2026-03-26",
+   "date": "2026-03-26",
+   "stage": "minutes",
+   "hash": "2dab808c2a87d2fb",
+   "fetched_at": "2026-10-14T16:56:57+00:00",
+   "first_seen": "2026-10-14T16:56:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026186": {
+   "id": "tarkastuslautakunta/2026-03-26",
+   "date": "2026-03-26",
+   "stage": "minutes",
+   "hash": "463e2649cd34ade3",
+   "fetched_at": "2026-10-14T16:57:05+00:00",
+   "first_seen": "2026-10-14T16:57:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026178": {
+   "id": "turvallisuuslautakunta/2026-03-26",
+   "date": "2026-03-26",
+   "stage": "minutes",
+   "hash": "d6fbba039b7c8bff",
+   "fetched_at": "2026-10-14T16:57:14+00:00",
+   "first_seen": "2026-10-14T16:57:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026177": {
+   "id": "vammaisneuvosto/2026-03-26",
+   "date": "2026-03-26",
+   "stage": "minutes",
+   "hash": "d6fa09f31620c753",
+   "fetched_at": "2026-10-14T16:57:23+00:00",
+   "first_seen": "2026-10-14T16:57:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026189": {
+   "id": "elamankaarilautakunta/2026-03-25",
+   "date": "2026-03-25",
+   "stage": "minutes",
+   "hash": "ca556377ab75b1b3",
+   "fetched_at": "2026-10-14T16:57:36+00:00",
+   "first_seen": "2026-10-14T16:57:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026180": {
+   "id": "terveyden-ja-toimintakyvyn-edistamisen-lautakunta/2026-03-24",
+   "date": "2026-03-24",
+   "stage": "minutes",
+   "hash": "95d16a747906b8f4",
+   "fetched_at": "2026-10-14T16:57:47+00:00",
+   "first_seen": "2026-10-14T16:57:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026183": {
+   "id": "aluevaltuusto/2026-03-17",
+   "date": "2026-03-17",
+   "stage": "minutes",
+   "hash": "88ef5afc5334386a",
+   "fetched_at": "2026-10-14T16:57:59+00:00",
+   "first_seen": "2026-10-14T16:57:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026204": {
+   "id": "aluehallitus/2026-03-16",
+   "date": "2026-03-16",
+   "stage": "minutes",
+   "hash": "fbb0e280c5095f33",
+   "fetched_at": "2026-10-14T16:58:10+00:00",
+   "first_seen": "2026-10-14T16:58:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026202": {
+   "id": "aluehallitus/2026-03-09",
+   "date": "2026-03-09",
+   "stage": "minutes",
+   "hash": "f14d3e6693ed5616",
+   "fetched_at": "2026-10-14T16:58:26+00:00",
+   "first_seen": "2026-10-14T16:58:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026185": {
+   "id": "aluehallitus/2026-03-02",
+   "date": "2026-03-02",
+   "stage": "minutes",
+   "hash": "fef3852cd7b08d02",
+   "fetched_at": "2026-10-14T16:58:39+00:00",
+   "first_seen": "2026-10-14T16:58:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026190": {
+   "id": "integraatiovaliokunta/2026-02-19",
+   "date": "2026-02-19",
+   "stage": "minutes",
+   "hash": "087c07f2ada29c94",
+   "fetched_at": "2026-10-14T16:58:47+00:00",
+   "first_seen": "2026-10-14T16:58:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026171": {
+   "id": "turvallisuuslautakunta/2026-02-19",
+   "date": "2026-02-19",
+   "stage": "minutes",
+   "hash": "b1af86587ac6c412",
+   "fetched_at": "2026-10-14T16:58:58+00:00",
+   "first_seen": "2026-10-14T16:58:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026170": {
+   "id": "elamankaarilautakunta/2026-02-18",
+   "date": "2026-02-18",
+   "stage": "minutes",
+   "hash": "ecf6b495ee400ce0",
+   "fetched_at": "2026-10-14T16:59:12+00:00",
+   "first_seen": "2026-10-14T16:59:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026184": {
+   "id": "aluehallitus/2026-02-16",
+   "date": "2026-02-16",
+   "stage": "minutes",
+   "hash": "13b8c7c6f1fc2ee6",
+   "fetched_at": "2026-10-14T16:59:37+00:00",
+   "first_seen": "2026-10-14T16:59:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026169": {
+   "id": "terveyden-ja-toimintakyvyn-edistamisen-lautakunta/2026-02-10",
+   "date": "2026-02-10",
+   "stage": "minutes",
+   "hash": "ee612852097434ba",
+   "fetched_at": "2026-10-14T16:59:45+00:00",
+   "first_seen": "2026-10-14T16:59:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026166": {
+   "id": "aluehallitus/2026-02-09",
+   "date": "2026-02-09",
+   "stage": "minutes",
+   "hash": "e92dbff1837fead0",
+   "fetched_at": "2026-10-14T17:00:12+00:00",
+   "first_seen": "2026-10-14T17:00:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026181": {
+   "id": "tarkastuslautakunta/2026-02-05",
+   "date": "2026-02-05",
+   "stage": "minutes",
+   "hash": "58d4dcf858f5cdd1",
+   "fetched_at": "2026-10-14T17:00:18+00:00",
+   "first_seen": "2026-10-14T17:00:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026165": {
+   "id": "aluehallitus/2026-01-26",
+   "date": "2026-01-26",
+   "stage": "minutes",
+   "hash": "60059bd051fd1bca",
+   "fetched_at": "2026-10-14T17:00:26+00:00",
+   "first_seen": "2026-10-14T17:00:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026159": {
+   "id": "tarkastuslautakunta/2026-01-22",
+   "date": "2026-01-22",
+   "stage": "minutes",
+   "hash": "58616a3e2c2940ce",
+   "fetched_at": "2026-10-14T17:00:34+00:00",
+   "first_seen": "2026-10-14T17:00:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026168": {
+   "id": "elamankaarilautakunta/2026-01-21",
+   "date": "2026-01-21",
+   "stage": "minutes",
+   "hash": "3a09aeb2f4a11698",
+   "fetched_at": "2026-10-14T17:00:43+00:00",
+   "first_seen": "2026-10-14T17:00:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026154": {
+   "id": "integraatiovaliokunta/2026-01-21",
+   "date": "2026-01-21",
+   "stage": "minutes",
+   "hash": "757f992b4e485872",
+   "fetched_at": "2026-10-14T17:00:52+00:00",
+   "first_seen": "2026-10-14T17:00:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026160": {
+   "id": "terveyden-ja-toimintakyvyn-edistamisen-lautakunta/2026-01-20",
+   "date": "2026-01-20",
+   "stage": "minutes",
+   "hash": "6506231488240f4c",
+   "fetched_at": "2026-10-14T17:01:04+00:00",
+   "first_seen": "2026-10-14T17:01:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026164": {
+   "id": "aluehallitus/2026-01-19",
+   "date": "2026-01-19",
+   "stage": "minutes",
+   "hash": "e171fe9efa36eed4",
+   "fetched_at": "2026-10-14T17:01:14+00:00",
+   "first_seen": "2026-10-14T17:01:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026162": {
+   "id": "nuorisovaltuusto/2026-01-19",
+   "date": "2026-01-19",
+   "stage": "minutes",
+   "hash": "0af75492d99966fd",
+   "fetched_at": "2026-10-14T17:01:24+00:00",
+   "first_seen": "2026-10-14T17:01:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026161": {
+   "id": "vammaisneuvosto/2026-01-19",
+   "date": "2026-01-19",
+   "stage": "minutes",
+   "hash": "d3dcb440c594cb42",
+   "fetched_at": "2026-10-14T17:01:33+00:00",
+   "first_seen": "2026-10-14T17:01:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026167": {
+   "id": "vanhusneuvosto/2026-01-19",
+   "date": "2026-01-19",
+   "stage": "minutes",
+   "hash": "267986201ce3c102",
+   "fetched_at": "2026-10-14T17:01:44+00:00",
+   "first_seen": "2026-10-14T17:01:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026157": {
+   "id": "aluehallitus/2026-01-12",
+   "date": "2026-01-12",
+   "stage": "minutes",
+   "hash": "c14a7d5e3d46e603",
+   "fetched_at": "2026-10-14T17:02:04+00:00",
+   "first_seen": "2026-10-14T17:02:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025149": {
+   "id": "aluehallitus/2025-12-18",
+   "date": "2025-12-18",
+   "stage": "minutes",
+   "hash": "6e109758d0a2f015",
+   "fetched_at": "2026-10-14T17:02:13+00:00",
+   "first_seen": "2026-10-14T17:02:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025137": {
+   "id": "elamankaarilautakunta/2025-12-17",
+   "date": "2025-12-17",
+   "stage": "minutes",
+   "hash": "4c2dabf0fff3229d",
+   "fetched_at": "2026-10-14T17:02:26+00:00",
+   "first_seen": "2026-10-14T17:02:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025135": {
+   "id": "aluevaltuusto/2025-12-16",
+   "date": "2025-12-16",
+   "stage": "minutes",
+   "hash": "d72673bb89774846",
+   "fetched_at": "2026-10-14T17:02:41+00:00",
+   "first_seen": "2026-10-14T17:02:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025155": {
+   "id": "aluehallitus/2025-12-15",
+   "date": "2025-12-15",
+   "stage": "minutes",
+   "hash": "c4b9b4d76f237a73",
+   "fetched_at": "2026-10-14T17:03:03+00:00",
+   "first_seen": "2026-10-14T17:03:03+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025143": {
+   "id": "tarkastuslautakunta/2025-12-11",
+   "date": "2025-12-11",
+   "stage": "minutes",
+   "hash": "d5034ad8efac45f0",
+   "fetched_at": "2026-10-14T17:03:10+00:00",
+   "first_seen": "2026-10-14T17:03:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025148": {
+   "id": "aluehallitus/2025-12-08",
+   "date": "2025-12-08",
+   "stage": "minutes",
+   "hash": "0712d812e4a9d38f",
+   "fetched_at": "2026-10-14T17:03:34+00:00",
+   "first_seen": "2026-10-14T17:03:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025145": {
+   "id": "aluevaalilautakunta/2025-12-04",
+   "date": "2025-12-04",
+   "stage": "minutes",
+   "hash": "66198517357b762b",
+   "fetched_at": "2026-10-14T17:03:41+00:00",
+   "first_seen": "2026-10-14T17:03:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025130": {
+   "id": "turvallisuuslautakunta/2025-12-04",
+   "date": "2025-12-04",
+   "stage": "minutes",
+   "hash": "aa246fc23499798f",
+   "fetched_at": "2026-10-14T17:03:52+00:00",
+   "first_seen": "2026-10-14T17:03:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025147": {
+   "id": "aluehallitus/2025-12-01",
+   "date": "2025-12-01",
+   "stage": "minutes",
+   "hash": "eda451f93828ec29",
+   "fetched_at": "2026-10-14T17:04:07+00:00",
+   "first_seen": "2026-10-14T17:04:07+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025150": {
+   "id": "nuorisovaltuusto/2025-12-01",
+   "date": "2025-12-01",
+   "stage": "minutes",
+   "hash": "4767b7f9288db717",
+   "fetched_at": "2026-10-14T17:04:14+00:00",
+   "first_seen": "2026-10-14T17:04:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025151": {
+   "id": "vammaisneuvosto/2025-11-27",
+   "date": "2025-11-27",
+   "stage": "minutes",
+   "hash": "de5e4b0346434bb1",
+   "fetched_at": "2026-10-14T17:04:22+00:00",
+   "first_seen": "2026-10-14T17:04:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025152": {
+   "id": "vanhusneuvosto/2025-11-27",
+   "date": "2025-11-27",
+   "stage": "minutes",
+   "hash": "819475ec21dc6307",
+   "fetched_at": "2026-10-14T17:04:30+00:00",
+   "first_seen": "2026-10-14T17:04:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025115": {
+   "id": "elamankaarilautakunta/2025-11-26",
+   "date": "2025-11-26",
+   "stage": "minutes",
+   "hash": "3eec59738b32898e",
+   "fetched_at": "2026-10-14T17:04:43+00:00",
+   "first_seen": "2026-10-14T17:04:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025118": {
+   "id": "terveyden-ja-toimintakyvyn-edistamisen-lautakunta/2025-11-26",
+   "date": "2025-11-26",
+   "stage": "minutes",
+   "hash": "5bb4b4287387f664",
+   "fetched_at": "2026-10-14T17:04:55+00:00",
+   "first_seen": "2026-10-14T17:04:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025134": {
+   "id": "aluevaltuusto/2025-11-25",
+   "date": "2025-11-25",
+   "stage": "minutes",
+   "hash": "61e82b424db9d6f3",
+   "fetched_at": "2026-10-14T17:05:10+00:00",
+   "first_seen": "2026-10-14T17:05:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025146": {
+   "id": "aluehallitus/2025-11-24",
+   "date": "2025-11-24",
+   "stage": "minutes",
+   "hash": "42342e8cd277e9fe",
+   "fetched_at": "2026-10-14T17:05:22+00:00",
+   "first_seen": "2026-10-14T17:05:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025142": {
+   "id": "tarkastuslautakunta/2025-11-20",
+   "date": "2025-11-20",
+   "stage": "minutes",
+   "hash": "a963ed7e42c05dc5",
+   "fetched_at": "2026-10-14T17:05:29+00:00",
+   "first_seen": "2026-10-14T17:05:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025136": {
+   "id": "integraatiovaliokunta/2025-11-19",
+   "date": "2025-11-19",
+   "stage": "minutes",
+   "hash": "c85e8fe9aebe854b",
+   "fetched_at": "2026-10-14T17:05:39+00:00",
+   "first_seen": "2026-10-14T17:05:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025133": {
+   "id": "aluehallitus/2025-11-17",
+   "date": "2025-11-17",
+   "stage": "minutes",
+   "hash": "ae728f7b43a02118",
+   "fetched_at": "2026-10-14T17:05:52+00:00",
+   "first_seen": "2026-10-14T17:05:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025132": {
+   "id": "aluehallitus/2025-11-10",
+   "date": "2025-11-10",
+   "stage": "minutes",
+   "hash": "73b174a5fa862969",
+   "fetched_at": "2026-10-14T17:06:09+00:00",
+   "first_seen": "2026-10-14T17:06:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025129": {
+   "id": "aluehallitus/2025-11-03",
+   "date": "2025-11-03",
+   "stage": "minutes",
+   "hash": "9d7848b544dab01c",
+   "fetched_at": "2026-10-14T17:06:26+00:00",
+   "first_seen": "2026-10-14T17:06:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025139": {
+   "id": "tarkastuslautakunta/2025-10-31",
+   "date": "2025-10-31",
+   "stage": "minutes",
+   "hash": "3138248f3ed4e300",
+   "fetched_at": "2026-10-14T17:06:32+00:00",
+   "first_seen": "2026-10-14T17:06:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025121": {
+   "id": "integraatiovaliokunta/2025-10-30",
+   "date": "2025-10-30",
+   "stage": "minutes",
+   "hash": "1aef868e5ba2d101",
+   "fetched_at": "2026-10-14T17:06:41+00:00",
+   "first_seen": "2026-10-14T17:06:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025123": {
+   "id": "aluevaltuusto/2025-10-28",
+   "date": "2025-10-28",
+   "stage": "minutes",
+   "hash": "2873086b4393f724",
+   "fetched_at": "2026-10-14T17:06:53+00:00",
+   "first_seen": "2026-10-14T17:06:53+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025127": {
+   "id": "tarkastuslautakunta/2025-10-23",
+   "date": "2025-10-23",
+   "stage": "minutes",
+   "hash": "db1a74b5dd294c61",
+   "fetched_at": "2026-10-14T17:07:00+00:00",
+   "first_seen": "2026-10-14T17:07:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025119": {
+   "id": "turvallisuuslautakunta/2025-10-23",
+   "date": "2025-10-23",
+   "stage": "minutes",
+   "hash": "3efd68975414a266",
+   "fetched_at": "2026-10-14T17:07:08+00:00",
+   "first_seen": "2026-10-14T17:07:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025114": {
+   "id": "elamankaarilautakunta/2025-10-21",
+   "date": "2025-10-21",
+   "stage": "minutes",
+   "hash": "0d32b21a420b4c23",
+   "fetched_at": "2026-10-14T17:07:22+00:00",
+   "first_seen": "2026-10-14T17:07:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025108": {
+   "id": "terveyden-ja-toimintakyvyn-edistamisen-lautakunta/2025-10-21",
+   "date": "2025-10-21",
+   "stage": "minutes",
+   "hash": "cb5bdd4728211fc8",
+   "fetched_at": "2026-10-14T17:07:32+00:00",
+   "first_seen": "2026-10-14T17:07:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025124": {
+   "id": "aluehallitus/2025-10-20",
+   "date": "2025-10-20",
+   "stage": "minutes",
+   "hash": "eb20c0fb68faec76",
+   "fetched_at": "2026-10-14T17:07:47+00:00",
+   "first_seen": "2026-10-14T17:07:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025113": {
+   "id": "aluehallitus/2025-10-06",
+   "date": "2025-10-06",
+   "stage": "minutes",
+   "hash": "4521584b45afda06",
+   "fetched_at": "2026-10-14T17:08:15+00:00",
+   "first_seen": "2026-10-14T17:08:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025120": {
+   "id": "tarkastuslautakunta/2025-10-02",
+   "date": "2025-10-02",
+   "stage": "minutes",
+   "hash": "37ec4c5db0089902",
+   "fetched_at": "2026-10-14T17:08:25+00:00",
+   "first_seen": "2026-10-14T17:08:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025109": {
+   "id": "turvallisuuslautakunta/2025-10-02",
+   "date": "2025-10-02",
+   "stage": "minutes",
+   "hash": "df8b9d7ea97feda6",
+   "fetched_at": "2026-10-14T17:08:33+00:00",
+   "first_seen": "2026-10-14T17:08:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025104": {
+   "id": "aluevaltuusto/2025-09-30",
+   "date": "2025-09-30",
+   "stage": "minutes",
+   "hash": "979f27d5e9413473",
+   "fetched_at": "2026-10-14T17:08:53+00:00",
+   "first_seen": "2026-10-14T17:08:53+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025107": {
+   "id": "terveyden-ja-toimintakyvyn-edistamisen-lautakunta/2025-09-23",
+   "date": "2025-09-23",
+   "stage": "minutes",
+   "hash": "52b6ea691b8efb57",
+   "fetched_at": "2026-10-14T17:09:05+00:00",
+   "first_seen": "2026-10-14T17:09:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025112": {
+   "id": "aluehallitus/2025-09-22",
+   "date": "2025-09-22",
+   "stage": "minutes",
+   "hash": "a677d120da14cf81",
+   "fetched_at": "2026-10-14T17:09:28+00:00",
+   "first_seen": "2026-10-14T17:09:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=202599": {
+   "id": "tarkastuslautakunta/2025-09-11",
+   "date": "2025-09-11",
+   "stage": "minutes",
+   "hash": "75ee3d65f29a0db8",
+   "fetched_at": "2026-10-14T17:09:44+00:00",
+   "first_seen": "2026-10-14T17:09:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025106": {
+   "id": "aluehallitus/2025-09-08",
+   "date": "2025-09-08",
+   "stage": "minutes",
+   "hash": "262f134960153521",
+   "fetched_at": "2026-10-14T17:10:05+00:00",
+   "first_seen": "2026-10-14T17:10:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025102": {
+   "id": "integraatiovaliokunta/2025-09-03",
+   "date": "2025-09-03",
+   "stage": "minutes",
+   "hash": "5f08a6750ec02a8a",
+   "fetched_at": "2026-10-14T17:10:14+00:00",
+   "first_seen": "2026-10-14T17:10:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025103": {
+   "id": "turvallisuuslautakunta/2025-08-28",
+   "date": "2025-08-28",
+   "stage": "minutes",
+   "hash": "eb4056852b3a3ee5",
+   "fetched_at": "2026-10-14T17:10:23+00:00",
+   "first_seen": "2026-10-14T17:10:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025105": {
+   "id": "elamankaarilautakunta/2025-08-27",
+   "date": "2025-08-27",
+   "stage": "minutes",
+   "hash": "f640028b6ebf88a3",
+   "fetched_at": "2026-10-14T17:10:38+00:00",
+   "first_seen": "2026-10-14T17:10:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025101": {
+   "id": "terveyden-ja-toimintakyvyn-edistamisen-lautakunta/2025-08-26",
+   "date": "2025-08-26",
+   "stage": "minutes",
+   "hash": "2932c55c3b076fd1",
+   "fetched_at": "2026-10-14T17:10:49+00:00",
+   "first_seen": "2026-10-14T17:10:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=202585": {
+   "id": "aluehallitus/2025-08-25",
+   "date": "2025-08-25",
+   "stage": "minutes",
+   "hash": "543d281a4e34635b",
+   "fetched_at": "2026-10-14T17:11:06+00:00",
+   "first_seen": "2026-10-14T17:11:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=202598": {
+   "id": "tarkastuslautakunta/2025-08-13",
+   "date": "2025-08-13",
+   "stage": "minutes",
+   "hash": "6e70ed5670a4a1cc",
+   "fetched_at": "2026-10-14T17:11:13+00:00",
+   "first_seen": "2026-10-14T17:11:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=202584": {
+   "id": "aluehallitus/2025-08-11",
+   "date": "2025-08-11",
+   "stage": "minutes",
+   "hash": "a0f53b12c60a858b",
+   "fetched_at": "2026-10-14T17:11:32+00:00",
+   "first_seen": "2026-10-14T17:11:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=202597": {
+   "id": "vammaisneuvosto/2025-08-07",
+   "date": "2025-08-07",
+   "stage": "minutes",
+   "hash": "6287838a2e91abc2",
+   "fetched_at": "2026-10-14T17:11:40+00:00",
+   "first_seen": "2026-10-14T17:11:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=202583": {
+   "id": "aluehallitus/2025-06-25",
+   "date": "2025-06-25",
+   "stage": "minutes",
+   "hash": "fb401ca4af65b249",
+   "fetched_at": "2026-10-14T17:11:53+00:00",
+   "first_seen": "2026-10-14T17:11:53+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=202595": {
+   "id": "aluevaltuusto/2025-06-17",
+   "date": "2025-06-17",
+   "stage": "minutes",
+   "hash": "46cd13ed367e614f",
+   "fetched_at": "2026-10-14T17:12:16+00:00",
+   "first_seen": "2026-10-14T17:12:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=202582": {
+   "id": "aluehallitus/2025-06-16",
+   "date": "2025-06-16",
+   "stage": "minutes",
+   "hash": "4ece11aebf97d533",
+   "fetched_at": "2026-10-14T17:12:26+00:00",
+   "first_seen": "2026-10-14T17:12:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=202581": {
+   "id": "aluehallitus/2025-06-09",
+   "date": "2025-06-09",
+   "stage": "minutes",
+   "hash": "b052c5daa25b0224",
+   "fetched_at": "2026-10-14T17:13:01+00:00",
+   "first_seen": "2026-10-14T17:13:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=202587": {
+   "id": "turvallisuuslautakunta/2025-06-05",
+   "date": "2025-06-05",
+   "stage": "minutes",
+   "hash": "23e4bf076aa2f002",
+   "fetched_at": "2026-10-14T17:13:10+00:00",
+   "first_seen": "2026-10-14T17:13:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=28A08ED8X72A3X47B0XA8E2X99BBEF96C37C": {
+   "id": "tarkastuslautakunta/2026-10-22",
+   "date": "2026-10-22",
+   "stage": "agenda",
+   "hash": "17f6e2e0d22a121c",
+   "fetched_at": "2026-10-19T00:57:06+00:00",
+   "first_seen": "2026-10-19T00:57:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=233925F5X64FCX4FABXA4C7XCB82604436F7": {
+   "id": "turvallisuuslautakunta/2026-10-22",
+   "date": "2026-10-22",
+   "stage": "agenda",
+   "hash": "8558d081713a2855",
+   "fetched_at": "2026-10-19T00:57:16+00:00",
+   "first_seen": "2026-10-19T00:57:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=902E87A8X2FE3X4E80XA160XBBB19534ECF9": {
+   "id": "elamankaarilautakunta/2026-10-21",
+   "date": "2026-10-21",
+   "stage": "agenda",
+   "hash": "8dd912f0d347fa18",
+   "fetched_at": "2026-10-19T00:57:29+00:00",
+   "first_seen": "2026-10-19T00:57:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=89347275X98F9X4689X8424XAEF81928EDD1": {
+   "id": "terveyden-ja-toimintakyvyn-edistamisen-lautakunta/2026-10-20",
+   "date": "2026-10-20",
+   "stage": "agenda",
+   "hash": "90ce5656a44a060a",
+   "fetched_at": "2026-10-19T00:57:39+00:00",
+   "first_seen": "2026-10-19T00:57:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=DF64EE12X94EBX40C1X99C1X7005D6C5B94C": {
+   "id": "aluehallitus/2026-10-19",
+   "date": "2026-10-19",
+   "stage": "agenda",
+   "hash": "52248f56fe0e2a37",
+   "fetched_at": "2026-10-19T00:57:58+00:00",
+   "first_seen": "2026-10-19T00:57:58+00:00",
+   "parser_version": "0.1.0"
+  }
+ },
+ "last_run": "2026-10-19T01:01:12+00:00"
+}

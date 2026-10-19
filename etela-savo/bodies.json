@@ -1,0 +1,86 @@
+[
+ {
+  "id": "alueellinen-toimeentulotukiasioiden-neuvottelukunta",
+  "name": "Alueellinen toimeentulotukiasioiden neuvottelukunta",
+  "type": "advisory",
+  "url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=34034",
+  "language": "fi"
+ },
+ {
+  "id": "aluehallitus",
+  "name": "Aluehallitus",
+  "type": "board",
+  "url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=1",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaalilautakunta",
+  "name": "Aluevaalilautakunta",
+  "type": "committee",
+  "url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=265",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaltuusto",
+  "name": "Aluevaltuusto",
+  "type": "council",
+  "url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=3",
+  "language": "fi"
+ },
+ {
+  "id": "hyvinvoinnin-ja-terveyden-edistamisen-lautakunta",
+  "name": "Hyvinvoinnin ja terveyden edistämisen lautakunta",
+  "type": "committee",
+  "url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=278",
+  "language": "fi"
+ },
+ {
+  "id": "nuorisovaltuusto",
+  "name": "Nuorisovaltuusto",
+  "type": "advisory",
+  "url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=10",
+  "language": "fi"
+ },
+ {
+  "id": "palvelulautakunta",
+  "name": "Palvelulautakunta",
+  "type": "committee",
+  "url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=132127",
+  "language": "fi"
+ },
+ {
+  "id": "tarkastuslautakunta",
+  "name": "Tarkastuslautakunta",
+  "type": "committee",
+  "url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=242",
+  "language": "fi"
+ },
+ {
+  "id": "turvallisuuslautakunta",
+  "name": "Turvallisuuslautakunta",
+  "type": "committee",
+  "url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=277",
+  "language": "fi"
+ },
+ {
+  "id": "vammaisneuvosto",
+  "name": "Vammaisneuvosto",
+  "type": "advisory",
+  "url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=13",
+  "language": "fi"
+ },
+ {
+  "id": "vanhusneuvosto",
+  "name": "Vanhusneuvosto",
+  "type": "advisory",
+  "url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=12",
+  "language": "fi"
+ },
+ {
+  "id": "yhteistyotoimikunta",
+  "name": "Yhteistyötoimikunta",
+  "type": "other",
+  "url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=2197",
+  "language": "fi"
+ }
+]

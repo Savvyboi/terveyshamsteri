@@ -1,0 +1,32 @@
+{
+ "meetings": {
+  "https://www.sttinfo.fi/tiedote/72406089/varhan-aluehallituksen-12102026-kokouksen-tarkastamaton-poytakirja?publisherId=69820130&lang=fi": {
+   "id": "aluehallitus/2026-10-12",
+   "date": "2026-10-12",
+   "stage": "minutes-unverified",
+   "hash": "5d7fbbc601203753",
+   "fetched_at": "2026-10-19T01:11:59+00:00",
+   "first_seen": "2026-10-19T01:11:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://www.sttinfo.fi/tiedote/72050534/varhan-aluehallituksen-1852026-kokouksen-tarkastamaton-poytakirja?publisherId=69820130&lang=fi": {
+   "id": "aluehallitus/2026-05-18",
+   "date": "2026-05-18",
+   "stage": "minutes-unverified",
+   "hash": "f91b8d68e9a88677",
+   "fetched_at": "2026-10-19T01:11:59+00:00",
+   "first_seen": "2026-10-19T01:11:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://www.sttinfo.fi/tiedote/71428828/varhan-aluehallituksen-892025-kokouksen-tarkastamaton-poytakirja?publisherId=69820130&lang=fi": {
+   "id": "aluehallitus/2025-09-08",
+   "date": "2025-09-08",
+   "stage": "minutes-unverified",
+   "hash": "3f7617310d794dc1",
+   "fetched_at": "2026-10-19T01:12:00+00:00",
+   "first_seen": "2026-10-19T01:12:00+00:00",
+   "parser_version": "0.1.0"
+  }
+ },
+ "last_run": "2026-10-19T01:12:00+00:00"
+}

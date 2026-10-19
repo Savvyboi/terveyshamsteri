@@ -1,0 +1,1013 @@
+{
+ "meetings": {
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026353": {
+   "id": "vammaisneuvosto/2026-10-19",
+   "date": "2026-10-19",
+   "stage": "agenda",
+   "hash": "7a3ca49959fa252d",
+   "fetched_at": "2026-10-14T17:03:29+00:00",
+   "first_seen": "2026-10-14T17:03:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026352": {
+   "id": "vanhusneuvosto/2026-10-15",
+   "date": "2026-10-15",
+   "stage": "agenda",
+   "hash": "924f87a80b496f54",
+   "fetched_at": "2026-10-14T17:03:41+00:00",
+   "first_seen": "2026-10-14T17:03:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026364": {
+   "id": "aluehallitus/2026-10-06",
+   "date": "2026-10-06",
+   "stage": "minutes",
+   "hash": "3bdf377d2bcf9e41",
+   "fetched_at": "2026-10-14T17:03:58+00:00",
+   "first_seen": "2026-10-14T17:03:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026384": {
+   "id": "aluehallitus/2026-09-29",
+   "date": "2026-09-29",
+   "stage": "minutes",
+   "hash": "9cd0a84bfc570ed5",
+   "fetched_at": "2026-10-14T17:04:07+00:00",
+   "first_seen": "2026-10-14T17:04:07+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026365": {
+   "id": "aluevaltuusto/2026-09-29",
+   "date": "2026-09-29",
+   "stage": "minutes",
+   "hash": "e02071ef416bd72b",
+   "fetched_at": "2026-10-19T01:01:26+00:00",
+   "first_seen": "2026-10-14T17:04:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026381": {
+   "id": "aluehallitus/2026-09-22",
+   "date": "2026-09-22",
+   "stage": "minutes",
+   "hash": "4c61ab420245b22c",
+   "fetched_at": "2026-10-19T01:01:37+00:00",
+   "first_seen": "2026-10-14T17:04:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026377": {
+   "id": "tutkimuksen-koulutuksen-kehittamisen-ja-innovaatioiden-neuvottelukunta/2026-09-17",
+   "date": "2026-09-17",
+   "stage": "minutes",
+   "hash": "354fd7dfb321ae0a",
+   "fetched_at": "2026-10-14T17:04:45+00:00",
+   "first_seen": "2026-10-14T17:04:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026354": {
+   "id": "sisaisen-tarkastuksen-jaosto/2026-09-17",
+   "date": "2026-09-17",
+   "stage": "minutes",
+   "hash": "9b4c3d8853688549",
+   "fetched_at": "2026-10-14T17:04:51+00:00",
+   "first_seen": "2026-10-14T17:04:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026363": {
+   "id": "aluehallitus/2026-09-15",
+   "date": "2026-09-15",
+   "stage": "minutes",
+   "hash": "23f40efc4c6dd7f4",
+   "fetched_at": "2026-10-14T17:05:13+00:00",
+   "first_seen": "2026-10-14T17:05:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026376": {
+   "id": "tarkastuslautakunta/2026-09-10",
+   "date": "2026-09-10",
+   "stage": "minutes",
+   "hash": "a038c6cc423fbdca",
+   "fetched_at": "2026-10-14T17:05:23+00:00",
+   "first_seen": "2026-10-14T17:05:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026360": {
+   "id": "hyvinvoinnin-ja-terveyden-lautakunta/2026-09-09",
+   "date": "2026-09-09",
+   "stage": "minutes",
+   "hash": "6b958ab2c0591d1f",
+   "fetched_at": "2026-10-14T17:05:40+00:00",
+   "first_seen": "2026-10-14T17:05:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026355": {
+   "id": "turvallisuuslautakunta/2026-09-09",
+   "date": "2026-09-09",
+   "stage": "minutes",
+   "hash": "f3d4891cfe3dc30d",
+   "fetched_at": "2026-10-14T17:05:51+00:00",
+   "first_seen": "2026-10-14T17:05:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026358": {
+   "id": "aluehallitus/2026-09-01",
+   "date": "2026-09-01",
+   "stage": "minutes",
+   "hash": "8d672ba2586670a4",
+   "fetched_at": "2026-10-14T17:06:06+00:00",
+   "first_seen": "2026-10-14T17:06:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026315": {
+   "id": "vammaisneuvosto/2026-08-31",
+   "date": "2026-08-31",
+   "stage": "minutes",
+   "hash": "e7f9cd1819bd3674",
+   "fetched_at": "2026-10-14T17:06:19+00:00",
+   "first_seen": "2026-10-14T17:06:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026359": {
+   "id": "nuorisovaltuusto/2026-08-26",
+   "date": "2026-08-26",
+   "stage": "minutes",
+   "hash": "96f46d904f4c1e0f",
+   "fetched_at": "2026-10-14T17:06:31+00:00",
+   "first_seen": "2026-10-14T17:06:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026317": {
+   "id": "vanhusneuvosto/2026-08-24",
+   "date": "2026-08-24",
+   "stage": "minutes",
+   "hash": "cfe045ace832cb9c",
+   "fetched_at": "2026-10-14T17:06:45+00:00",
+   "first_seen": "2026-10-14T17:06:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026357": {
+   "id": "aluehallitus/2026-08-18",
+   "date": "2026-08-18",
+   "stage": "minutes",
+   "hash": "27e279e047845882",
+   "fetched_at": "2026-10-14T17:07:05+00:00",
+   "first_seen": "2026-10-14T17:07:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026361": {
+   "id": "tarkastuslautakunta/2026-08-12",
+   "date": "2026-08-12",
+   "stage": "minutes",
+   "hash": "e0a91cc7259b3156",
+   "fetched_at": "2026-10-14T17:07:13+00:00",
+   "first_seen": "2026-10-14T17:07:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026356": {
+   "id": "hyvinvoinnin-ja-terveyden-lautakunta/2026-06-17",
+   "date": "2026-06-17",
+   "stage": "minutes",
+   "hash": "b6e1ba3eff2c71a9",
+   "fetched_at": "2026-10-14T17:07:20+00:00",
+   "first_seen": "2026-10-14T17:07:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026349": {
+   "id": "aluehallitus/2026-06-16",
+   "date": "2026-06-16",
+   "stage": "minutes",
+   "hash": "5b9416034f92a1fa",
+   "fetched_at": "2026-10-14T17:07:40+00:00",
+   "first_seen": "2026-10-14T17:07:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026351": {
+   "id": "tarkastuslautakunta/2026-06-11",
+   "date": "2026-06-11",
+   "stage": "minutes",
+   "hash": "1e280be12585edf7",
+   "fetched_at": "2026-10-14T17:07:49+00:00",
+   "first_seen": "2026-10-14T17:07:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026345": {
+   "id": "aluevaltuusto/2026-06-09",
+   "date": "2026-06-09",
+   "stage": "minutes",
+   "hash": "3c1f6911165296c4",
+   "fetched_at": "2026-10-14T17:08:06+00:00",
+   "first_seen": "2026-10-14T17:08:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026348": {
+   "id": "tutkimuksen-koulutuksen-kehittamisen-ja-innovaatioiden-neuvottelukunta/2026-05-28",
+   "date": "2026-05-28",
+   "stage": "minutes",
+   "hash": "42e02c6e2d08d883",
+   "fetched_at": "2026-10-14T17:08:14+00:00",
+   "first_seen": "2026-10-14T17:08:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026346": {
+   "id": "aluehallitus/2026-05-26",
+   "date": "2026-05-26",
+   "stage": "minutes",
+   "hash": "186ff2e19aae16f5",
+   "fetched_at": "2026-10-14T17:08:36+00:00",
+   "first_seen": "2026-10-14T17:08:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026340": {
+   "id": "sisaisen-tarkastuksen-jaosto/2026-05-21",
+   "date": "2026-05-21",
+   "stage": "minutes",
+   "hash": "f03a610c88ab8684",
+   "fetched_at": "2026-10-14T17:08:44+00:00",
+   "first_seen": "2026-10-14T17:08:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026341": {
+   "id": "nuorisovaltuusto/2026-05-21",
+   "date": "2026-05-21",
+   "stage": "minutes",
+   "hash": "76ac10c639586aa8",
+   "fetched_at": "2026-10-14T17:08:52+00:00",
+   "first_seen": "2026-10-14T17:08:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026337": {
+   "id": "hyvinvoinnin-ja-terveyden-lautakunta/2026-05-20",
+   "date": "2026-05-20",
+   "stage": "minutes",
+   "hash": "d5c5edd1663e5749",
+   "fetched_at": "2026-10-14T17:09:06+00:00",
+   "first_seen": "2026-10-14T17:09:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026343": {
+   "id": "turvallisuuslautakunta/2026-05-20",
+   "date": "2026-05-20",
+   "stage": "minutes",
+   "hash": "c4000e99b595b8ed",
+   "fetched_at": "2026-10-14T17:09:15+00:00",
+   "first_seen": "2026-10-14T17:09:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026344": {
+   "id": "tarkastuslautakunta/2026-05-13",
+   "date": "2026-05-13",
+   "stage": "minutes",
+   "hash": "608a7b648119f36b",
+   "fetched_at": "2026-10-14T17:09:26+00:00",
+   "first_seen": "2026-10-14T17:09:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026339": {
+   "id": "aluehallitus/2026-05-12",
+   "date": "2026-05-12",
+   "stage": "minutes",
+   "hash": "b092940e1ccb2684",
+   "fetched_at": "2026-10-14T17:09:45+00:00",
+   "first_seen": "2026-10-14T17:09:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026333": {
+   "id": "aluevaltuusto/2026-05-05",
+   "date": "2026-05-05",
+   "stage": "minutes",
+   "hash": "8bb9d510eacd237e",
+   "fetched_at": "2026-10-14T17:10:02+00:00",
+   "first_seen": "2026-10-14T17:10:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026329": {
+   "id": "aluehallitus/2026-04-28",
+   "date": "2026-04-28",
+   "stage": "minutes",
+   "hash": "6746b480dde109b9",
+   "fetched_at": "2026-10-14T17:10:16+00:00",
+   "first_seen": "2026-10-14T17:10:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026335": {
+   "id": "tarkastuslautakunta/2026-04-23",
+   "date": "2026-04-23",
+   "stage": "minutes",
+   "hash": "76089d8fe5f33a05",
+   "fetched_at": "2026-10-14T17:10:25+00:00",
+   "first_seen": "2026-10-14T17:10:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026326": {
+   "id": "hyvinvoinnin-ja-terveyden-lautakunta/2026-04-22",
+   "date": "2026-04-22",
+   "stage": "minutes",
+   "hash": "08b07c0c738793c7",
+   "fetched_at": "2026-10-14T17:10:37+00:00",
+   "first_seen": "2026-10-14T17:10:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026328": {
+   "id": "turvallisuuslautakunta/2026-04-22",
+   "date": "2026-04-22",
+   "stage": "minutes",
+   "hash": "3e77e198942cb902",
+   "fetched_at": "2026-10-14T17:10:47+00:00",
+   "first_seen": "2026-10-14T17:10:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026334": {
+   "id": "aluehallitus/2026-04-14",
+   "date": "2026-04-14",
+   "stage": "minutes",
+   "hash": "2686767c300f3222",
+   "fetched_at": "2026-10-14T17:11:04+00:00",
+   "first_seen": "2026-10-14T17:11:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026332": {
+   "id": "sisaisen-tarkastuksen-jaosto/2026-04-09",
+   "date": "2026-04-09",
+   "stage": "minutes",
+   "hash": "c939ab65ca983049",
+   "fetched_at": "2026-10-14T17:11:10+00:00",
+   "first_seen": "2026-10-14T17:11:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026324": {
+   "id": "nuorisovaltuusto/2026-04-08",
+   "date": "2026-04-08",
+   "stage": "minutes",
+   "hash": "b63bf99828ffe81f",
+   "fetched_at": "2026-10-14T17:11:18+00:00",
+   "first_seen": "2026-10-14T17:11:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026327": {
+   "id": "aluehallitus/2026-03-31",
+   "date": "2026-03-31",
+   "stage": "minutes",
+   "hash": "c41089e8574515c9",
+   "fetched_at": "2026-10-14T17:11:34+00:00",
+   "first_seen": "2026-10-14T17:11:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026325": {
+   "id": "aluevaalilautakunta/2026-03-18",
+   "date": "2026-03-18",
+   "stage": "minutes",
+   "hash": "9f74feb89eaa076e",
+   "fetched_at": "2026-10-14T17:11:41+00:00",
+   "first_seen": "2026-10-14T17:11:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026314": {
+   "id": "vammaisneuvosto/2026-03-18",
+   "date": "2026-03-18",
+   "stage": "minutes",
+   "hash": "35701b98e286937c",
+   "fetched_at": "2026-10-14T17:11:49+00:00",
+   "first_seen": "2026-10-14T17:11:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026316": {
+   "id": "vanhusneuvosto/2026-03-17",
+   "date": "2026-03-17",
+   "stage": "minutes",
+   "hash": "4ca1e01236ae5089",
+   "fetched_at": "2026-10-14T17:11:57+00:00",
+   "first_seen": "2026-10-14T17:11:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026319": {
+   "id": "aluehallitus/2026-03-10",
+   "date": "2026-03-10",
+   "stage": "minutes",
+   "hash": "5ff61978c7d51c8b",
+   "fetched_at": "2026-10-14T17:12:18+00:00",
+   "first_seen": "2026-10-14T17:12:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026323": {
+   "id": "tarkastuslautakunta/2026-03-05",
+   "date": "2026-03-05",
+   "stage": "minutes",
+   "hash": "72c828c068be6fe7",
+   "fetched_at": "2026-10-14T17:12:26+00:00",
+   "first_seen": "2026-10-14T17:12:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026311": {
+   "id": "tutkimuksen-koulutuksen-kehittamisen-ja-innovaatioiden-neuvottelukunta/2026-03-05",
+   "date": "2026-03-05",
+   "stage": "minutes",
+   "hash": "502ef33ffe182a0d",
+   "fetched_at": "2026-10-14T17:12:36+00:00",
+   "first_seen": "2026-10-14T17:12:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026306": {
+   "id": "sisaisen-tarkastuksen-jaosto/2026-02-26",
+   "date": "2026-02-26",
+   "stage": "minutes",
+   "hash": "574ae21e654db7f3",
+   "fetched_at": "2026-10-14T17:12:44+00:00",
+   "first_seen": "2026-10-14T17:12:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026312": {
+   "id": "hyvinvoinnin-ja-terveyden-lautakunta/2026-02-18",
+   "date": "2026-02-18",
+   "stage": "minutes",
+   "hash": "a5dd6bd4880abbb9",
+   "fetched_at": "2026-10-14T17:12:55+00:00",
+   "first_seen": "2026-10-14T17:12:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026305": {
+   "id": "turvallisuuslautakunta/2026-02-18",
+   "date": "2026-02-18",
+   "stage": "minutes",
+   "hash": "0eaaed680a33b4fb",
+   "fetched_at": "2026-10-14T17:13:05+00:00",
+   "first_seen": "2026-10-14T17:13:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026320": {
+   "id": "aluevaltuusto/2026-02-17",
+   "date": "2026-02-17",
+   "stage": "minutes",
+   "hash": "7598375ba3d89fc3",
+   "fetched_at": "2026-10-14T17:13:20+00:00",
+   "first_seen": "2026-10-14T17:13:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026310": {
+   "id": "aluehallitus/2026-02-10",
+   "date": "2026-02-10",
+   "stage": "minutes",
+   "hash": "e9b011be460f01a2",
+   "fetched_at": "2026-10-14T17:13:38+00:00",
+   "first_seen": "2026-10-14T17:13:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026301": {
+   "id": "vanhusneuvosto/2026-02-10",
+   "date": "2026-02-10",
+   "stage": "minutes",
+   "hash": "b9493b9287156642",
+   "fetched_at": "2026-10-14T17:13:46+00:00",
+   "first_seen": "2026-10-14T17:13:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026318": {
+   "id": "tarkastuslautakunta/2026-02-05",
+   "date": "2026-02-05",
+   "stage": "minutes",
+   "hash": "bd63f19fd8f9ca79",
+   "fetched_at": "2026-10-14T17:13:56+00:00",
+   "first_seen": "2026-10-14T17:13:56+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026300": {
+   "id": "vammaisneuvosto/2026-02-04",
+   "date": "2026-02-04",
+   "stage": "minutes",
+   "hash": "5bd85a2a99b74b5d",
+   "fetched_at": "2026-10-14T17:14:05+00:00",
+   "first_seen": "2026-10-14T17:14:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026302": {
+   "id": "nuorisovaltuusto/2026-01-28",
+   "date": "2026-01-28",
+   "stage": "minutes",
+   "hash": "de029a8da61a2c53",
+   "fetched_at": "2026-10-14T17:14:14+00:00",
+   "first_seen": "2026-10-14T17:14:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026303": {
+   "id": "aluehallitus/2026-01-27",
+   "date": "2026-01-27",
+   "stage": "minutes",
+   "hash": "c52170f9d0275175",
+   "fetched_at": "2026-10-14T17:14:40+00:00",
+   "first_seen": "2026-10-14T17:14:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026304": {
+   "id": "hyvinvoinnin-ja-terveyden-lautakunta/2026-01-21",
+   "date": "2026-01-21",
+   "stage": "minutes",
+   "hash": "f98f69e1d83edf34",
+   "fetched_at": "2026-10-14T17:14:49+00:00",
+   "first_seen": "2026-10-14T17:14:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026307": {
+   "id": "tarkastuslautakunta/2026-01-15",
+   "date": "2026-01-15",
+   "stage": "minutes",
+   "hash": "5a29bb34932a21c1",
+   "fetched_at": "2026-10-14T17:14:57+00:00",
+   "first_seen": "2026-10-14T17:14:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025298": {
+   "id": "tarkastuslautakunta/2025-12-18",
+   "date": "2025-12-18",
+   "stage": "minutes",
+   "hash": "0b3fd17b30183026",
+   "fetched_at": "2026-10-14T17:15:05+00:00",
+   "first_seen": "2026-10-14T17:15:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025287": {
+   "id": "sisaisen-tarkastuksen-jaosto/2025-12-18",
+   "date": "2025-12-18",
+   "stage": "minutes",
+   "hash": "4238c9ec8d85f7ce",
+   "fetched_at": "2026-10-14T17:15:14+00:00",
+   "first_seen": "2026-10-14T17:15:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025262": {
+   "id": "hyvinvoinnin-ja-terveyden-lautakunta/2025-12-17",
+   "date": "2025-12-17",
+   "stage": "minutes",
+   "hash": "f47f6b686ce5a18e",
+   "fetched_at": "2026-10-14T17:15:23+00:00",
+   "first_seen": "2026-10-14T17:15:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025296": {
+   "id": "turvallisuuslautakunta/2025-12-17",
+   "date": "2025-12-17",
+   "stage": "minutes",
+   "hash": "aa25bc74d917a63b",
+   "fetched_at": "2026-10-14T17:15:32+00:00",
+   "first_seen": "2026-10-14T17:15:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025297": {
+   "id": "aluehallitus/2025-12-16",
+   "date": "2025-12-16",
+   "stage": "minutes",
+   "hash": "530c225b438b4047",
+   "fetched_at": "2026-10-14T17:15:46+00:00",
+   "first_seen": "2026-10-14T17:15:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025295": {
+   "id": "aluevaltuusto/2025-12-09",
+   "date": "2025-12-09",
+   "stage": "minutes",
+   "hash": "47977e7c150bb729",
+   "fetched_at": "2026-10-14T17:16:11+00:00",
+   "first_seen": "2026-10-14T17:16:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025280": {
+   "id": "vanhusneuvosto/2025-12-09",
+   "date": "2025-12-09",
+   "stage": "minutes",
+   "hash": "ae2f7599103ca5c2",
+   "fetched_at": "2026-10-14T17:16:22+00:00",
+   "first_seen": "2026-10-14T17:16:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025291": {
+   "id": "aluehallitus/2025-12-02",
+   "date": "2025-12-02",
+   "stage": "minutes",
+   "hash": "121022b39405b585",
+   "fetched_at": "2026-10-14T17:16:48+00:00",
+   "first_seen": "2026-10-14T17:16:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025279": {
+   "id": "vammaisneuvosto/2025-12-01",
+   "date": "2025-12-01",
+   "stage": "minutes",
+   "hash": "92bc2605dc99b42b",
+   "fetched_at": "2026-10-14T17:16:59+00:00",
+   "first_seen": "2026-10-14T17:16:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025288": {
+   "id": "aluehallitus/2025-11-26",
+   "date": "2025-11-26",
+   "stage": "minutes",
+   "hash": "a576a912bed6223b",
+   "fetched_at": "2026-10-14T17:17:18+00:00",
+   "first_seen": "2026-10-14T17:17:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025289": {
+   "id": "tarkastuslautakunta/2025-11-20",
+   "date": "2025-11-20",
+   "stage": "minutes",
+   "hash": "c23e08e1af8efd0c",
+   "fetched_at": "2026-10-14T17:17:27+00:00",
+   "first_seen": "2026-10-14T17:17:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025256": {
+   "id": "tutkimuksen-koulutuksen-kehittamisen-ja-innovaatioiden-neuvottelukunta/2025-11-20",
+   "date": "2025-11-20",
+   "stage": "minutes",
+   "hash": "5b2948243d8841f9",
+   "fetched_at": "2026-10-14T17:17:36+00:00",
+   "first_seen": "2026-10-14T17:17:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025286": {
+   "id": "turvallisuuslautakunta/2025-11-19",
+   "date": "2025-11-19",
+   "stage": "minutes",
+   "hash": "7944df8ef35d440f",
+   "fetched_at": "2026-10-14T17:17:48+00:00",
+   "first_seen": "2026-10-14T17:17:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025261": {
+   "id": "hyvinvoinnin-ja-terveyden-lautakunta/2025-11-13",
+   "date": "2025-11-13",
+   "stage": "minutes",
+   "hash": "6c20ac6dcb17bfcf",
+   "fetched_at": "2026-10-14T17:18:20+00:00",
+   "first_seen": "2026-10-14T17:18:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025281": {
+   "id": "aluehallitus/2025-11-11",
+   "date": "2025-11-11",
+   "stage": "minutes",
+   "hash": "72a1e769d1c5c860",
+   "fetched_at": "2026-10-14T17:18:44+00:00",
+   "first_seen": "2026-10-14T17:18:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025278": {
+   "id": "aluevaltuusto/2025-11-04",
+   "date": "2025-11-04",
+   "stage": "minutes",
+   "hash": "483d90c6cda431a2",
+   "fetched_at": "2026-10-14T17:19:06+00:00",
+   "first_seen": "2026-10-14T17:19:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025290": {
+   "id": "aluehallitus/2025-11-03",
+   "date": "2025-11-03",
+   "stage": "minutes",
+   "hash": "bb9a14c7595f08f7",
+   "fetched_at": "2026-10-14T17:19:14+00:00",
+   "first_seen": "2026-10-14T17:19:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025277": {
+   "id": "vanhusneuvosto/2025-10-31",
+   "date": "2025-10-31",
+   "stage": "minutes",
+   "hash": "d99757d6aea4ff5a",
+   "fetched_at": "2026-10-14T17:19:25+00:00",
+   "first_seen": "2026-10-14T17:19:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025276": {
+   "id": "vammaisneuvosto/2025-10-30",
+   "date": "2025-10-30",
+   "stage": "minutes",
+   "hash": "805ed2b15ca79d7a",
+   "fetched_at": "2026-10-14T17:19:36+00:00",
+   "first_seen": "2026-10-14T17:19:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025285": {
+   "id": "nuorisovaltuusto/2025-10-29",
+   "date": "2025-10-29",
+   "stage": "minutes",
+   "hash": "73d7c2280cf66fbb",
+   "fetched_at": "2026-10-14T17:19:45+00:00",
+   "first_seen": "2026-10-14T17:19:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025266": {
+   "id": "aluehallitus/2025-10-28",
+   "date": "2025-10-28",
+   "stage": "minutes",
+   "hash": "6c67d16c1c80028c",
+   "fetched_at": "2026-10-14T17:20:09+00:00",
+   "first_seen": "2026-10-14T17:20:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025282": {
+   "id": "tarkastuslautakunta/2025-10-23",
+   "date": "2025-10-23",
+   "stage": "minutes",
+   "hash": "3e7b5469c73f5c4d",
+   "fetched_at": "2026-10-14T17:20:17+00:00",
+   "first_seen": "2026-10-14T17:20:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025274": {
+   "id": "sisaisen-tarkastuksen-jaosto/2025-10-23",
+   "date": "2025-10-23",
+   "stage": "minutes",
+   "hash": "500ad8261981f643",
+   "fetched_at": "2026-10-14T17:20:24+00:00",
+   "first_seen": "2026-10-14T17:20:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025271": {
+   "id": "turvallisuuslautakunta/2025-10-22",
+   "date": "2025-10-22",
+   "stage": "minutes",
+   "hash": "dff4cb88a3ee4d0d",
+   "fetched_at": "2026-10-14T17:20:34+00:00",
+   "first_seen": "2026-10-14T17:20:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025269": {
+   "id": "tarkastuslautakunta/2025-10-09",
+   "date": "2025-10-09",
+   "stage": "minutes",
+   "hash": "0ef9aa97892bf345",
+   "fetched_at": "2026-10-14T17:20:43+00:00",
+   "first_seen": "2026-10-14T17:20:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025260": {
+   "id": "hyvinvoinnin-ja-terveyden-lautakunta/2025-10-08",
+   "date": "2025-10-08",
+   "stage": "minutes",
+   "hash": "915895ed480f7e3b",
+   "fetched_at": "2026-10-14T17:20:57+00:00",
+   "first_seen": "2026-10-14T17:20:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025258": {
+   "id": "aluehallitus/2025-10-07",
+   "date": "2025-10-07",
+   "stage": "minutes",
+   "hash": "6e9d36df71b9d363",
+   "fetched_at": "2026-10-14T17:21:19+00:00",
+   "first_seen": "2026-10-14T17:21:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025275": {
+   "id": "nuorisovaltuusto/2025-10-04",
+   "date": "2025-10-04",
+   "stage": "minutes",
+   "hash": "4d48d764a005e71c",
+   "fetched_at": "2026-10-14T17:21:30+00:00",
+   "first_seen": "2026-10-14T17:21:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025273": {
+   "id": "aluehallitus/2025-09-30",
+   "date": "2025-09-30",
+   "stage": "minutes",
+   "hash": "adbaeb3344213d6f",
+   "fetched_at": "2026-10-14T17:21:36+00:00",
+   "first_seen": "2026-10-14T17:21:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025253": {
+   "id": "turvallisuuslautakunta/2025-09-24",
+   "date": "2025-09-24",
+   "stage": "minutes",
+   "hash": "a48a0aa439ed6564",
+   "fetched_at": "2026-10-14T17:21:46+00:00",
+   "first_seen": "2026-10-14T17:21:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025268": {
+   "id": "vanhusneuvosto/2025-09-19",
+   "date": "2025-09-19",
+   "stage": "minutes",
+   "hash": "9b603537ff6dad34",
+   "fetched_at": "2026-10-14T17:21:57+00:00",
+   "first_seen": "2026-10-14T17:21:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025267": {
+   "id": "vammaisneuvosto/2025-09-18",
+   "date": "2025-09-18",
+   "stage": "minutes",
+   "hash": "745c00991753fffb",
+   "fetched_at": "2026-10-14T17:22:09+00:00",
+   "first_seen": "2026-10-14T17:22:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025259": {
+   "id": "hyvinvoinnin-ja-terveyden-lautakunta/2025-09-17",
+   "date": "2025-09-17",
+   "stage": "minutes",
+   "hash": "dfc6cd552d771e24",
+   "fetched_at": "2026-10-14T17:22:21+00:00",
+   "first_seen": "2026-10-14T17:22:21+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025252": {
+   "id": "aluehallitus/2025-09-16",
+   "date": "2025-09-16",
+   "stage": "minutes",
+   "hash": "b081544a4c286fc0",
+   "fetched_at": "2026-10-14T17:22:31+00:00",
+   "first_seen": "2026-10-14T17:22:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025236": {
+   "id": "nuorisovaltuusto/2025-09-12",
+   "date": "2025-09-12",
+   "stage": "minutes",
+   "hash": "b59a0687c36fd50d",
+   "fetched_at": "2026-10-14T17:22:40+00:00",
+   "first_seen": "2026-10-14T17:22:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025255": {
+   "id": "tutkimuksen-koulutuksen-kehittamisen-ja-innovaatioiden-neuvottelukunta/2025-09-11",
+   "date": "2025-09-11",
+   "stage": "minutes",
+   "hash": "f8c5e114f898f181",
+   "fetched_at": "2026-10-14T17:22:49+00:00",
+   "first_seen": "2026-10-14T17:22:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025257": {
+   "id": "aluevaltuusto/2025-09-09",
+   "date": "2025-09-09",
+   "stage": "minutes",
+   "hash": "7a66871214e20fa1",
+   "fetched_at": "2026-10-14T17:23:04+00:00",
+   "first_seen": "2026-10-14T17:23:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025265": {
+   "id": "tarkastuslautakunta/2025-09-04",
+   "date": "2025-09-04",
+   "stage": "minutes",
+   "hash": "5ecba4e71d489d52",
+   "fetched_at": "2026-10-14T17:23:13+00:00",
+   "first_seen": "2026-10-14T17:23:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025250": {
+   "id": "aluehallitus/2025-09-02",
+   "date": "2025-09-02",
+   "stage": "minutes",
+   "hash": "5d110999bd64cd57",
+   "fetched_at": "2026-10-14T17:23:26+00:00",
+   "first_seen": "2026-10-14T17:23:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025263": {
+   "id": "vammaisneuvosto/2025-08-28",
+   "date": "2025-08-28",
+   "stage": "minutes",
+   "hash": "2471cc19fdad7def",
+   "fetched_at": "2026-10-14T17:23:32+00:00",
+   "first_seen": "2026-10-14T17:23:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025264": {
+   "id": "vanhusneuvosto/2025-08-28",
+   "date": "2025-08-28",
+   "stage": "minutes",
+   "hash": "24f8a6dcdc0e359b",
+   "fetched_at": "2026-10-14T17:23:38+00:00",
+   "first_seen": "2026-10-14T17:23:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025249": {
+   "id": "aluehallitus/2025-08-26",
+   "date": "2025-08-26",
+   "stage": "minutes",
+   "hash": "d4984749eca3c098",
+   "fetched_at": "2026-10-14T17:23:51+00:00",
+   "first_seen": "2026-10-14T17:23:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025246": {
+   "id": "tarkastuslautakunta/2025-08-21",
+   "date": "2025-08-21",
+   "stage": "minutes",
+   "hash": "107943db5664f078",
+   "fetched_at": "2026-10-14T17:24:01+00:00",
+   "first_seen": "2026-10-14T17:24:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025245": {
+   "id": "sisaisen-tarkastuksen-jaosto/2025-08-21",
+   "date": "2025-08-21",
+   "stage": "minutes",
+   "hash": "9a8b16c1f4335322",
+   "fetched_at": "2026-10-14T17:24:10+00:00",
+   "first_seen": "2026-10-14T17:24:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025248": {
+   "id": "hyvinvoinnin-ja-terveyden-lautakunta/2025-08-20",
+   "date": "2025-08-20",
+   "stage": "minutes",
+   "hash": "c5259cbc71696e93",
+   "fetched_at": "2026-10-14T17:24:24+00:00",
+   "first_seen": "2026-10-14T17:24:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025244": {
+   "id": "turvallisuuslautakunta/2025-08-20",
+   "date": "2025-08-20",
+   "stage": "minutes",
+   "hash": "2208d443c3bcfddc",
+   "fetched_at": "2026-10-14T17:24:34+00:00",
+   "first_seen": "2026-10-14T17:24:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025243": {
+   "id": "aluehallitus/2025-08-12",
+   "date": "2025-08-12",
+   "stage": "minutes",
+   "hash": "1c9ef2d8535353f3",
+   "fetched_at": "2026-10-14T17:24:51+00:00",
+   "first_seen": "2026-10-14T17:24:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025241": {
+   "id": "aluehallitus/2025-06-24",
+   "date": "2025-06-24",
+   "stage": "minutes",
+   "hash": "9beb3cdb5eff3805",
+   "fetched_at": "2026-10-14T17:25:09+00:00",
+   "first_seen": "2026-10-14T17:25:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025238": {
+   "id": "tarkastuslautakunta/2025-06-18",
+   "date": "2025-06-18",
+   "stage": "minutes",
+   "hash": "80918baed4c31a2e",
+   "fetched_at": "2026-10-14T17:25:17+00:00",
+   "first_seen": "2026-10-14T17:25:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025239": {
+   "id": "aluehallitus/2025-06-17",
+   "date": "2025-06-17",
+   "stage": "minutes",
+   "hash": "e4870a83486d8cbe",
+   "fetched_at": "2026-10-14T17:25:33+00:00",
+   "first_seen": "2026-10-14T17:25:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025237": {
+   "id": "aluevaltuusto/2025-06-10",
+   "date": "2025-06-10",
+   "stage": "minutes",
+   "hash": "cdc004fbb9695c49",
+   "fetched_at": "2026-10-14T17:25:48+00:00",
+   "first_seen": "2026-10-14T17:25:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026385": {
+   "id": "tarkastuslautakunta/2026-10-22",
+   "date": "2026-10-22",
+   "stage": "agenda",
+   "hash": "d1ac4f00956bb961",
+   "fetched_at": "2026-10-19T00:59:44+00:00",
+   "first_seen": "2026-10-19T00:59:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026367": {
+   "id": "hyvinvoinnin-ja-terveyden-lautakunta/2026-10-21",
+   "date": "2026-10-21",
+   "stage": "agenda",
+   "hash": "5371fc6cbb625476",
+   "fetched_at": "2026-10-19T00:59:56+00:00",
+   "first_seen": "2026-10-19T00:59:56+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026378": {
+   "id": "turvallisuuslautakunta/2026-10-21",
+   "date": "2026-10-21",
+   "stage": "agenda",
+   "hash": "9305bdb4f11378be",
+   "fetched_at": "2026-10-19T01:00:06+00:00",
+   "first_seen": "2026-10-19T01:00:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026366": {
+   "id": "aluehallitus/2026-10-20",
+   "date": "2026-10-20",
+   "stage": "agenda",
+   "hash": "081fab592822df65",
+   "fetched_at": "2026-10-19T01:00:19+00:00",
+   "first_seen": "2026-10-19T01:00:19+00:00",
+   "parser_version": "0.1.0"
+  }
+ },
+ "last_run": "2026-10-19T01:03:45+00:00"
+}

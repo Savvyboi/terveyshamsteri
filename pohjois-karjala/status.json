@@ -1,0 +1,15 @@
+{
+ "region": "pohjois-karjala",
+ "started_at": "2026-10-19T01:04:00+00:00",
+ "parser_version": "0.1.0",
+ "fetched": 18,
+ "changed": 2,
+ "unchanged": 101,
+ "removed": 0,
+ "errors": [],
+ "complete": true,
+ "result": "ok",
+ "requests": 232,
+ "finished_at": "2026-10-19T01:07:52+00:00",
+ "meetings_total": 119
+}

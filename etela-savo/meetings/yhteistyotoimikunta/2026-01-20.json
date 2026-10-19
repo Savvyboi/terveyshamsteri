@@ -1,0 +1,555 @@
+{
+ "id": "yhteistyotoimikunta/2026-01-20",
+ "region": "etela-savo",
+ "body_id": "yhteistyotoimikunta",
+ "body_name": "Yhteistyötoimikunta",
+ "date": "2026-01-20",
+ "stage": "minutes",
+ "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026354",
+ "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026354.PDF",
+ "time": "13:30 - 15:00",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "1",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026354-1",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026354-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouskutsun antaa puheenjohtaja tai hänen estyneenä ollessaan varapuheenjohtaja.\n\nKokouskutsussa on ilmoitettava kokouksen aika ja paikka sekä käsiteltävät asiat. Kokouskutsu lähetetään vähintään neljä päivää ennen kokousta. Kirjallinen kutsu on toimitettu jäsenille sähköpostitse 14.1.2026.\n\nEsityslista, joka sisältää selostuksen käsiteltävistä asioista ja ehdotukset toimielimen päätöksiksi, lähetetään kokouskutsun yhteydessä, jollei erityiset syyt ole esteenä.\n\nKokouskutsu lähetetään jäsenille ja muille, joilla on läsnäolo-oikeus tai -velvollisuus toimielimen päättämällä tavalla.\n\nKokouskutsu, esityslista, liitteet ja oheismateriaali lähetetään ensisijaisesti sähköisesti. Tällöin valmistelutoimielin tai sen nimeämä viranhaltija vastaa siitä, että tähän tarvittavat tekniset laitteet, järjestelmät ja tietoliikenneyhteydet ovat käytettävissä. Salassa pidettäviä tietoja voidaan lähettää vain suojatulla yhteydellä.\n\nTodetaan läsnäolijat sähköisessä kokoushallintajärjestelmässä. Kokous on päätösvaltainen kun yli puolet jäsenistä on läsnä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokous todettiin lailliseksi ja päätösvaltaiseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "2",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026354-2",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026354-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Tämän kokouksen pöytäkirjantarkastajiksi valitaan Teemu Matilainen ja Tiia Rautpalo sekä varalle Kati Nieminen ja Mari Torniainen.",
+   "decision": "Pöytäkirjan tarkastajiksi valittiin Teemu Matilainen ja Tiia Rautpalo.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Toimielin valitsee pöytäkirjantarkastajiksi kaksi toimielimen jäsentä ja varalle kaksi jäsentä aakkosjärjestyksessä."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Tämän kokouksen pöytäkirjantarkastajiksi valitaan Teemu Matilainen ja Tiia Rautpalo sekä varalle Kati Nieminen ja Mari Torniainen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjan tarkastajiksi valittiin Teemu Matilainen ja Tiia Rautpalo."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "3",
+   "title": "Työjärjestyksen hyväksyminen",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026354-3",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026354-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Hyväksytään esityslistan mukainen työjärjestys.",
+   "decision": "Hyväksyttiin esityslistan mukainen työjärjestys, siten, että §11 Henkilöstön kanssa toteutettava säästökampanja käsiteltiin ensimmäisenä, toisena §5 Microsoft-lisenssitasojen muutoksen vaikutukset henkilöstöön, kolmantena §10 Autojen GPS-paikannuksen kilpailutus ja tämän jälkeen esityslistan mukaisessa järjestyksessä.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Työjärjestyksen hyväksyminen\n\nAsiat käsitellään esityslistan mukaisessa järjestyksessä, ellei työjärjestystä päätetä muuttaa."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Hyväksytään esityslistan mukainen työjärjestys."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityslistan mukainen työjärjestys, siten, että §11 Henkilöstön kanssa toteutettava säästökampanja käsiteltiin ensimmäisenä, toisena §5 Microsoft-lisenssitasojen muutoksen vaikutukset henkilöstöön, kolmantena §10 Autojen GPS-paikannuksen kilpailutus ja tämän jälkeen esityslistan mukaisessa järjestyksessä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "4",
+   "title": "Yhteistyötoimikunnan puheenjohtajan ja varapuheenjohtajan valinta vuodelle 2026",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026354-4",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026354-4.PDF",
+   "diary_number": "236/00.00.01.00/2026",
+   "preparer": "Henkilöstöjohtaja Petri Alaluusua; Valitaan yhteistyötoimikunnan puheenjohtaja ja varapuheenjohtaja; vuodelle 2026.",
+   "presenter": null,
+   "proposal": "Valitaan yhteistyötoimikunnan puheenjohtaja ja varapuheenjohtaja.",
+   "decision": "Valittiin Yhteistyötoimikunnan vuoden 2026 puheenjohtajaksi Taru Juntunen ja varapuheenjohtajaksi Petri Alaluusua.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Henkilöstöjohtaja Petri Alaluusua\n\nValitaan yhteistyötoimikunnan puheenjohtaja ja varapuheenjohtaja\n\nvuodelle 2026."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Valitaan yhteistyötoimikunnan puheenjohtaja ja varapuheenjohtaja."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Valittiin Yhteistyötoimikunnan vuoden 2026 puheenjohtajaksi Taru Juntunen ja varapuheenjohtajaksi Petri Alaluusua."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Yhteistyötoimikunta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "5",
+   "title": "Microsoft-lisenssitasojen muutoksen vaikutukset henkilöstöön",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026354-5",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026354-5.PDF",
+   "diary_number": "201/00.01.02.02/2026",
+   "preparer": "Digijohtaja Jukka Mielonen; Microsoft-lisenssioptimoinnin vaikutukset henkilöstöön; Eloisa maksaa tällä hetkellä Microsoftin lisensseistä noin 4 miljoonaa euroa vuodessa. Lisenssit kattavat noin 10 000 käyttäjää, 6000 työasemaa, 500 palvelinta ja 5500 mobiililaitetta. Valtaosa käyttäjistä on lisenso",
+   "presenter": null,
+   "proposal": "Yhteistyötoimikunta merkitsee asian tiedoksi.",
+   "decision": "Yhteistyötoimikunta merkitsi asian tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Digijohtaja Jukka Mielonen\n\nMicrosoft-lisenssioptimoinnin vaikutukset henkilöstöön\n\nEloisa maksaa tällä hetkellä Microsoftin lisensseistä noin 4 miljoonaa euroa vuodessa. Lisenssit kattavat noin 10 000 käyttäjää, 6000 työasemaa, 500 palvelinta ja 5500 mobiililaitetta. Valtaosa käyttäjistä on lisensoitu laajalla E5-lisenssillä, mutta kustannussyistä selvitetään siirtymistä kevyempään F-lisenssiin, kuten moni muu hyvinvointialue.\n\nSiirtyminen F-lisenssiin\n\nDigitaaliset- ja tietopalvelut on käynnistänyt projektin, jossa osa henkilöstöstä siirtyy E5-lisenssistä F3+F5-lisenssiin. Kohderyhmiä ovat mm. hoitohenkilökunta, logistiikka, laitoshuolto, ruokapalvelut, aula- ja asiointipalvelut, sosiaalihuolto, palveluasuminen, pelastustoimi, ensihoito sekä opiskelijat. Ensimmäisessä vaiheessa F-lisenssiin siirtyy noin 3200 käyttäjää, ja vuosittainen kustannussäästö on arviolta 900 000 – 1 000 000 €.\n\nMuutoksen vaikutukset henkilöstöön\n\n• F-lisenssissä ei ole Office-työpöytäversion käyttöoikeutta. Tiedostojen käsittely tapahtuu Onedrivessä tai Libreofficella.\n\n• Outlookin sijaan käytetään Weboutlookia (Owa).\n\n• Sähköpostilaatikon ja Onedriven maksimikoko on 2 GB, mutta tätä voidaan kasvattaa erillislisenssillä.\n\n• Valtaosa tiedostoista on vielä perinteisillä verkkolevyillä, mutta Onedriven käyttöönoton pilotti alkaa ja tuotantokäyttö on suunniteltu keväälle 2026.\n\n• Käyttäjällä on mahdollisuus anoa laajempaa lisenssiä, mikäli F-lisenssin toiminnallisuudet eivät riitä.\n\nRiskit ja haasteet\n\n• Sovellusten riippuvuudet Office-ohjelmistoihin ja tiedostojen yhteensopivuus Libreofficen kanssa.\n\n• Käyttäjät eivät pysty käyttämään kaikkia Officen toimintoja, ja Libreoffice on rajoitetumpi.\n\n• Käyttäjät eivät välttämättä osaa käyttää Libreofficea.\n\n• Microsoftin lisenssiehtojen tulkinnallisuus.\n\nMuutoksen toteutus ja henkilöstön tukeminen\n\n• Sovellusten testaaminen F-lisenssillä on tehty Digitaaliset- ja tietopalvelut- yksikössä marraskuussa 2025.\n\n• Muutoksen hyväksyntä ja tuotantovalmiuden varmistaminen joulukuussa 2025.\n\n• Pilotti tuotannon yksiköissä (30–40 käyttäjää) joulukuussa–tammikuussa 2026, laajennus 200–300 käyttäjälle tammikuussa–helmikuussa 2026.\n\n• Tiedottaminen ja ohjeistukset loppukäyttäjille (digivartit, ohjeistus työntekijöille ja esihenkilöille).\n\n• Muutoksen toteutus kaikille kohderyhmän käyttäjille 1.6.2026."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Yhteistyötoimikunta merkitsee asian tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Yhteistyötoimikunta merkitsi asian tiedoksi."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Yhteistyötoimikunta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "6",
+   "title": "Hallintosäännön päivitys",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026354-6",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026354-6.PDF",
+   "diary_number": "146/00.01.02.02/2026",
+   "preparer": "Hallintopalvelujohtaja Antti Laurikainen; Etelä-Savon hyvinvointialueen hallintosäännön ensimmäinen versio hyväksyttiin aluevaltuustossa 16.3.2022. Hallintosääntöön tehtiin päivityksiä ensimmäisen kerran 17.11.2022, jolloin siihen lisättiin mm. palveluorganisaatiota koskevat kirjaukset. Muutokset tu",
+   "presenter": null,
+   "proposal": "Yhteistyötoimikunta merkitsee asian tiedoksi",
+   "decision": "Yhteistyötoimikunta keskusteli asiasta ja merkitsi tiedoksi.\n\nJUKO katsoo, että työnantajan kirjaama muutos hallintosäännön kohdassa 24§ joka käsittelee sosiaali- ja integraatiojohtajan toimivaltaa ei tällä hetkellä mene viime Yhteistoimintaneuvotteluiden pohjata tehdyn päätöksentekoprosessin mukaisesti. Sosiaalityöntekijöiden mahdollisesta poolista on päätetty vasta tehdä selvitys, ei siis vielä päätetty perustaa ja selvitystä ei ole vielä edes aloitettu. Kyseinen muutosteksti on kirjattu pykälän kohtaan 2. seuraavasti: ” Päättää sosiaalityöntekijäresurssin yhteensovittamisesta koko hyvinvointialueella”. JUKO katsoo, että ennen selvityksen tekoa ja valmistumista ei näin olennaista toimivaltamuutosta hallintosääntöön voida tehdä, koska se siirtää toimivallan toimialoilta sosiaali- ja integraatiojohtajalle kyseisen ammattiryhmän osalta. JUKO esittää kyseisen pykäläkohdan palauttamista uudelleen valmisteluun.\n\nTehy näkee, että on erittäin hyvä linjaus, että johtajaylihoitajan rooli ollaan vihdoin kirjaamassa Eloisan hallintosääntöön. Tämä on selkeä osoitus siitä, että hoitotyön johtamisen merkitys tunnustetaan ja sille annetaan sen ansaitsema asema organisaatiossa.\n\nKirjaus vahvistaa rakenteita, selkeyttää vastuita ja ennen kaikkea tukee koko henkilöstön mahdollisuuksia tehdä työnsä parhaalla mahdollisella tavalla. Se on investointi laadukkaaseen hoitotyöhön ja potilasturvallisuuteen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Hallintopalvelujohtaja Antti Laurikainen\n\nEtelä-Savon hyvinvointialueen hallintosäännön ensimmäinen versio hyväksyttiin aluevaltuustossa 16.3.2022. Hallintosääntöön tehtiin päivityksiä ensimmäisen kerran 17.11.2022, jolloin siihen lisättiin mm. palveluorganisaatiota koskevat kirjaukset. Muutokset tulivat voimaan järjestämisvastuun siirtyessä hyvivointialueelle 1.1.2023. Tämän jälkeen hallintosääntöä on päivitetty ainoastaan 11.3.2025 toimielinrakenteen osalta. Nämä muutokset tulivat voimaan 1.6.2025 valtuustokauden vaihtuessa.\n\nHallintosäännön päivitystarpeita on tunnistettu 10 eri lukuun ja yhteensä yli 60 kohtaan. Osa näistä on lainsäädäntömuutoksista johtuvia ja osa puolestaan tarkoituksenmukaisuusperusteisia, joilla tavoitellaan esim. prosessien tehostamista, toiminnan laadun parantamista ja säästöjä/sopeutuksia.\n\nAluehallituksen on tarkoitus käsitellä hallintosäännön päivitykset 9.2.2026. ja aluevaltuuston 24.3.2026."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Yhteistyötoimikunta merkitsee asian tiedoksi"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Yhteistyötoimikunta keskusteli asiasta ja merkitsi tiedoksi.\n\nJUKO katsoo, että työnantajan kirjaama muutos hallintosäännön kohdassa 24§ joka käsittelee sosiaali- ja integraatiojohtajan toimivaltaa ei tällä hetkellä mene viime Yhteistoimintaneuvotteluiden pohjata tehdyn päätöksentekoprosessin mukaisesti. Sosiaalityöntekijöiden mahdollisesta poolista on päätetty vasta tehdä selvitys, ei siis vielä päätetty perustaa ja selvitystä ei ole vielä edes aloitettu. Kyseinen muutosteksti on kirjattu pykälän kohtaan 2. seuraavasti: ” Päättää sosiaalityöntekijäresurssin yhteensovittamisesta koko hyvinvointialueella”. JUKO katsoo, että ennen selvityksen tekoa ja valmistumista ei näin olennaista toimivaltamuutosta hallintosääntöön voida tehdä, koska se siirtää toimivallan toimialoilta sosiaali- ja integraatiojohtajalle kyseisen ammattiryhmän osalta. JUKO esittää kyseisen pykäläkohdan palauttamista uudelleen valmisteluun.\n\nTehy näkee, että on erittäin hyvä linjaus, että johtajaylihoitajan rooli ollaan vihdoin kirjaamassa Eloisan hallintosääntöön. Tämä on selkeä osoitus siitä, että hoitotyön johtamisen merkitys tunnustetaan ja sille annetaan sen ansaitsema asema organisaatiossa.\n\nKirjaus vahvistaa rakenteita, selkeyttää vastuita ja ennen kaikkea tukee koko henkilöstön mahdollisuuksia tehdä työnsä parhaalla mahdollisella tavalla. Se on investointi laadukkaaseen hoitotyöhön ja potilasturvallisuuteen."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Yhteistyötoimikunta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "7",
+   "title": "Muutokset pysäköinnissä",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026354-7",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026354-7.PDF",
+   "diary_number": "202/00.01.02.02/2026",
+   "preparer": "Tila- ja tukipalvelujen johtaja Veli-Matti Thure; Tila- ja tukipalvelujen johtaja kertoo pysäköinnin muutoksista koskien Mikkelin sairaalan ja Savonlinnan sairaalan pysäköintiä. Muutosten tavoitteena on yhtenäistää pysäköinnin käytännöt ja hinnoittelut sairaaloiden P-alueilla alkuvuoden aikana. Myöh",
+   "presenter": null,
+   "proposal": "Yhteistyötoimikunta merkitsee asian tiedoksi.",
+   "decision": "Yhteistyötoimikunta merkitsi asian tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Tila- ja tukipalvelujen johtaja Veli-Matti Thure\n\nTila- ja tukipalvelujen johtaja kertoo pysäköinnin muutoksista koskien Mikkelin sairaalan ja Savonlinnan sairaalan pysäköintiä. Muutosten tavoitteena on yhtenäistää pysäköinnin käytännöt ja hinnoittelut sairaaloiden P-alueilla alkuvuoden aikana. Myöhemmin vuoden aikana on tavoite yhtenäistää myös muiden toimipisteiden pysäköinnin käytänteitä."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Yhteistyötoimikunta merkitsee asian tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Yhteistyötoimikunta merkitsi asian tiedoksi."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Yhteistyötoimikunta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "8",
+   "title": "Palvelukeskus Kivitaskun toiminnalliset muutokset",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026354-8",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026354-8.PDF",
+   "diary_number": "222/00.01.02.02/2026",
+   "preparer": "Palvelualuepäällikkö Päivi Kauppinen; Palvelukeskus Kivitaskun toiminnalliset muutokset; Kivitaskun palvelukeskus on 25 paikkainen ikääntyneiden asumispalveluyksikkö Virtasalmella. Asukashuoneet ovat joko yhden- tai kahden hengen huoneita, eikä kaikissa asiakashuoneissa ole omaa hygieniatilaa (suihk",
+   "presenter": null,
+   "proposal": "Yhteistyötoimikunta merkitsee asian tiedoksi.",
+   "decision": "Yhteistyötoimikunta merkitsi asian tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Palvelualuepäällikkö Päivi Kauppinen\n\nPalvelukeskus Kivitaskun toiminnalliset muutokset\n\nKivitaskun palvelukeskus on 25 paikkainen ikääntyneiden asumispalveluyksikkö Virtasalmella. Asukashuoneet ovat joko yhden- tai kahden hengen huoneita, eikä kaikissa asiakashuoneissa ole omaa hygieniatilaa (suihku ja wc), jolloin hygieniatilat ovat kahden asunnon yhteiset. Rakennus on iäkäs ja huomioiden asiakkaiden hoitoisuus, yhteisiltä- sekä käytävätiloiltaan ahdas, mutta asiakashuoneet ovat riittävän suuret. Yksikkö on Eloisan aikana toiminut hybridiyksikön periaatteella, kun samoissa tiloissa on asunut sekä yhteisöllisen että ympärivuorokautisen asumisen asiakkaita. Virtasalmen kotihoidolla on myös Kivitaskun tiloissa omia toimistotiloja.\n\nEloisan valvontayksikkö on tehnyt yksikköön suunnitelmallisen valvontakäynnin 21.5.2025 ja todennut tarkastuslausunnossaan, etteivät tilat vastaa tämän hetken vaatimuksia asuntokohtaisen hygieniatilan puuttumisen vuoksi ja ettei asiakkaiden yksityisyyden suoja siksi toteudu. Itä-Suomen aluehallintovirasto on pyytänyt 17.12.2025 lähettämässään selvityspyynnössä hyvinvointialueelta selvitystä siitä, millä toimenpiteillä ja aikataululla hyvinvointialue ryhtyy toimimaan, jotta Kivitaskun toimitilat muutetaan asianmukaisiksi vastaamaan tämän hetken tilavaatimuksia sekä turvaamaan asiakkaiden oikeuden yksityisyyden suojaan.\n\nJotta tilat olisivat nykyvaatimusten mukaisia, edellyttää se perusteellista muutos- ja peruskorjausta yksikön tiloissa. Laajamittaisista peruskorjauksista on neuvoteltava yhteistyössä Pieksämäen kaupungin kanssa, mutta on mahdollista, ettei näin suuriin korjauksiin ryhdytä.\n\nToiminnallisesti vaihtoehdoiksi jäävät Eloisan asumispalvelutoiminnan lakkauttaminen kyseisessä yksikössä sekä asiakkaiden uudelleen sijoittaminen. Kiinteistö soveltuisi mahdollisesti jatkossa perhekotitoimintaan ja tämä selvittely aloitetaan mahdollisuuksien mukaan heti, kun aluehallitus ottaa asiaan kantaa 9.2.2026 kokouksensa yhteydessä.\n\nMahdollisen asumispalvelutoiminnan lopettamisen vaikutukset kohdistuisivat n. 13 vakinaiseen työntekijään, ml. palveluesihenkilö. Yhteistoimintaneuvotteluissa on jo 8.12.2025 hyväksytty kolmen työntekijän siirtyminen kotihoitoon asumismuodon muutoksien seurauksena ja tämä voidaan toteuttaa. Muutos kohdistuu siis n. kymmeneen (10) työntekijään, joille voidaan tarjota sijoittumista asumispalvelun muihin yksiköihin. Kymmenen työntekijän vaikutus on euroissa n. 550 000 €.\n\nAsiakkaiden sijoittaminen on tämän päivän tietojen mukaan mahdollista Pieksämäen muihin yksiköihin ml. ostopalvelut. Tällä hetkellä sijoitettavia pitkäaikaisia asiakkaita on 17 ja käsittelyhetkellä jaksohoidossa on 6 asiakasta."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Yhteistyötoimikunta merkitsee asian tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Yhteistyötoimikunta merkitsi asian tiedoksi."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Yhteistyötoimikunta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "9",
+   "title": "Palvelukeskus Ruskahovin toiminnalliset muutokset",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026354-9",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026354-9.PDF",
+   "diary_number": "221/00.01.02.02/2026",
+   "preparer": "Palvelualuepäällikkö Päivi Kauppinen; Palvelukeskus Ruskahovin toiminnalliset muutokset; Ruskahovin palvelukeskus on 52 paikkainen ikääntyneiden asumispalveluyksikkö Mäntyharjulla. Yksikkö on Eloisan aikana toiminut hybridiyksikön periaatteella, kun samoissa tiloissa on asunut sekä yhteisöllisen ett",
+   "presenter": null,
+   "proposal": "Yhteistyötoimikunta merkitsee asian tiedoksi.",
+   "decision": "Yhteistyötoimikunta merkitsi asian tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Palvelualuepäällikkö Päivi Kauppinen\n\nPalvelukeskus Ruskahovin toiminnalliset muutokset\n\nRuskahovin palvelukeskus on 52 paikkainen ikääntyneiden asumispalveluyksikkö Mäntyharjulla. Yksikkö on Eloisan aikana toiminut hybridiyksikön periaatteella, kun samoissa tiloissa on asunut sekä yhteisöllisen että ympärivuorokautisen asumisen asiakkaita. Lisäksi on tuotettu jaksohoitoa molemmissa asumismuodoissa. Mäntyharjun kotihoidon toimitilat sijaistevat palvelukeskuksen pohjakerroksessa. Lisäksi Mäntyharjun päivätoiminta toimii palvelukeskuksen tiloissa.\n\nEtelä-Savon pelastuslaitos on tehnyt yksikköön yleisen määräaikaispalotarkastuksen 10.11.2025. Pelastuslaitos on antanut korjausmääräykset toimenpiteille 31.5.2026 saakka.\n\nMikäli yksikön peruskorjausta ei lähdetä toteuttamaan pelastuslaitoksen antamien määräysten mukaisesti, ikääntyneiden ympärivuorokautiseen asumiseen perustuvaa asumispalvelua ei jatkossa voida yksikössä toteuttaa. Rajoite koskee myös yhteisöllistä asumista sekä jaksohoitoa. Vaihtoehtoina on asumispalvelun siirtäminen Mäntyharjulta muualle esim. Mikkeliin, jossa yksityisen kiinteistörahaston 60 paikkainen kiinteistö on vapaana. Tämä kohde on kokonaiskustannuksiltaan kalliimpi n. 120 000 euroa vuodessa. Palvelun Mikkeliin siirtämisen seurauksena Mäntyharjulla ei olisi, Pertunmaan yksikköä lukuun ottamatta, Eloisan omaa asumispalvelua. Yksikön muuttaminen antaisi toisaalta mahdollisuuden lisätä asiakaspaikkoja kahdeksalla paikalla ja toiminta jatkaisi Eloisan asumispalveluna. Toiminnan siirtyessä tarjotaan myös henkilökunnalle mahdollisuus siirtymiseen.\n\nToinen vaihtoehto on ostaa asumispalvelua yksityiseltä palveluntuottajalta. Palveluohjauksen tekemän selvityksen mukaan tällä hetkellä 11 asiakasta voitaisiin sijoittaa Mäntyharjulle ja muut asiakkaat muille paikkakunnille. Pitkäaikaisesti sijoitettujen asiakkaiden määrä on 48.\n\nOn mahdollista, että kotihoito sekä päivätoiminta voisivat jatkaa palvelukeskuksen tiloissa, koska toiminta ei ole heidän osaltaan ympärivuorokautista asumista ja kohdistu toimintakyvyltään olennaisesti heikentyneisiin asiakkaisiin siihen asti, kunnes vuokrasopimuksen irtisanomisaika päättyy. Irtisanomisajan jälkeen päivätoiminnalle ja kotihoidolle on etsittävä korvaavat tilat."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Yhteistyötoimikunta merkitsee asian tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Yhteistyötoimikunta merkitsi asian tiedoksi."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Yhteistyötoimikunta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "10",
+   "title": "Autojen GPS-paikannuksen kilpailutus",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026354-10",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026354-10.PDF",
+   "diary_number": "240/02.08.00.00.00/2026",
+   "preparer": "Konseripalvelujen toimialajohtaja Sami Sipilä; Eloisalla on noin 180 ajoneuvoa, joista puolet kotihoidossa. Ajoneuvojen hallintaan ei ole järjestelmää. Pilotissa testattiin GPS-paikannusta ja ajopäiväkirjaa, jotka mahdollistavat mm. käyttöasteen ja huoltojen seurannan sekä keskitetyn raportoinnin. T",
+   "presenter": null,
+   "proposal": "Yhteistyötoimikunta merkitsee asian tiedoksi.",
+   "decision": "Yhteistyötoimikunta merkitsi asian tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Konseripalvelujen toimialajohtaja Sami Sipilä\n\nEloisalla on noin 180 ajoneuvoa, joista puolet kotihoidossa. Ajoneuvojen hallintaan ei ole järjestelmää. Pilotissa testattiin GPS-paikannusta ja ajopäiväkirjaa, jotka mahdollistavat mm. käyttöasteen ja huoltojen seurannan sekä keskitetyn raportoinnin. Työryhmä ehdottaa järjestelmän kilpailutusta ja käyttöönottoa kaikille leasing-autoille vuonna 2026. Arvioidut kustannukset ovat noin 20 000 €/vuosi. Johtoryhmä päätti puoltaa asiaa kokouksessaan 13.1.2026."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Yhteistyötoimikunta merkitsee asian tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Yhteistyötoimikunta merkitsi asian tiedoksi."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Yhteistyötoimikunta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "11",
+   "title": "Henkilöstön kanssa toteutettava säästökampanja",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026354-11",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026354-11.PDF",
+   "diary_number": "243/00.01.02.02/2026",
+   "preparer": "Konsernipalvelujen toimialajohtaja Sami Sipilä; Eloisan neljäs toimintavuosi on aluillaan. Talouden tiukka tilanne jatkuu edelleen. Strategian mukaisesti Etelä-Savon hyvinvointialue pyrkii säilyttämään itsehallintonsa. Näin ollen Eloisassa joudumme edelleen miettimään keinoja, mistä voisimme paranta",
+   "presenter": null,
+   "proposal": "Yhteistyötoimikunta merkitsee asian tiedoksi.",
+   "decision": "Yhteistyötoimikunta merkitsi asian tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Konsernipalvelujen toimialajohtaja Sami Sipilä\n\nEloisan neljäs toimintavuosi on aluillaan. Talouden tiukka tilanne jatkuu edelleen. Strategian mukaisesti Etelä-Savon hyvinvointialue pyrkii säilyttämään itsehallintonsa. Näin ollen Eloisassa joudumme edelleen miettimään keinoja, mistä voisimme parantaa kustannustehokkuutta ja hillitä kustannuskasvua.\n\nEloisassa halutaan pyytää henkilökunnan miettimään sopeutusmahdollisuuksia, koska yksiköissä ja ammattilaisissamme asuu viisaus, arvostus ja innostus oman työn tekemistä kohtaan.\n\nTarkoituksena on, että esihenkilöiden koordinoimana jokaisen yksikön viikko-/osastopalaverissa henkilökunta pääsee tuomaan esiin ideoita sopeutusmahdollisuuksista. Toivomuksena on, että, yksiköissä hyödynnetään asiantuntijuutta ja mietitään yhdessä, miten toimintaa voi tehostaa tai kehittää prosesseja niin, että sillä olisi positiivinen taloudellinen vaikutus yksikköön ja sitä kautta koko Eloisaan. Esihenkilöt käyvät kirjaamassa lopuksi oman yksikkönsä koonnin Howspacen työtilaan. Esihenkilöille annetaan tarkemmat toimintaohjeet asiasta.\n\nTavoitteena on näin saada kokoon 1 % säästöt Eloisan tasolla. Euroissa tämä tarkoittaa 9 000 000 euroa – reilu tuhat euroa jokaista työntekijää kohden. Toivottavia ovat pysyvät säästötoimet, mutta myös kertaluontoisia saa ehdottaa."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Yhteistyötoimikunta merkitsee asian tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Yhteistyötoimikunta merkitsi asian tiedoksi."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Yhteistyötoimikunta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "12",
+   "title": "Vuosilomien suunnitteluohje 2026",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026354-12",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026354-12.PDF",
+   "diary_number": "258/00.01.02.02/2026",
+   "preparer": "Henkilöstöjohtaja Petri Alaluusua; Henkilöstöjohtaja käy läpi vuoden 2026 vuosilomien suunnitteluohjeen.",
+   "presenter": null,
+   "proposal": "Yhteistyötoimikunta merkitsee vuoden 2026 vuosilomaohjeen tiedoksi",
+   "decision": "Yhteistyötoimikunta merkitsi vuoden 2026 vuosilomaohjeen tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Henkilöstöjohtaja Petri Alaluusua\n\nHenkilöstöjohtaja käy läpi vuoden 2026 vuosilomien suunnitteluohjeen."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Yhteistyötoimikunta merkitsee vuoden 2026 vuosilomaohjeen tiedoksi"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Yhteistyötoimikunta merkitsi vuoden 2026 vuosilomaohjeen tiedoksi."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Yhteistyötoimikunta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "13",
+   "title": "Muut asiat",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026354-13",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026354-13.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Muita asioita ei ollut.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat\n\nYhteistyötoimikunta merkitsee tiedoksi kokouksessa esille tulleet muut asiat."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Muita asioita ei ollut."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "14",
+   "title": "Kokouksen päättäminen",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026354-14",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026354-14.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Puheenjohtaja päättää kokouksen.",
+   "decision": "Puheenjohtaja päätti kokouksen klo 15:00.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Esitys",
+     "text": "Puheenjohtaja päättää kokouksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja päätti kokouksen klo 15:00."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Alaluusua Petri",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Auvinen Kati",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Haarala Maria",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hintikainen Sini",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Juntunen Taru",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kannonmäki Ani",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kokkola Ari",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kulla-Numminen Hanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Laukkanen Johanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Nieminen Kati",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Matilainen Teemu",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Rautpalo Tiia",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Torniainen Mari",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Ylönen Päivi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kinnunen Riikka",
+   "role": "kokoussihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Kauppinen Päivi",
+   "role": "palvelualuepäällikkö",
+   "group": "other"
+  },
+  {
+   "name": "Laurikainen Antti",
+   "role": "hallintopalvelujohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Mielonen Jukka",
+   "role": "digijohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Sipilä Sami",
+   "role": "konsernipalvelujen toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Thure Velimatti",
+   "role": "tila-ja tukipalvelujen johtaja",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026354",
+  "fetched_at": "2026-10-14T16:56:35+00:00",
+  "content_hash": "5c269f23fdc7c5e6",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T16:56:35+00:00"
+ }
+}

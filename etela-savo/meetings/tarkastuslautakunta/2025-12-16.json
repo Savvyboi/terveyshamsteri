@@ -1,0 +1,296 @@
+{
+ "id": "tarkastuslautakunta/2025-12-16",
+ "region": "etela-savo",
+ "body_id": "tarkastuslautakunta",
+ "body_name": "Tarkastuslautakunta",
+ "date": "2025-12-16",
+ "stage": "minutes",
+ "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025347",
+ "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025347.PDF",
+ "time": "09:00 - 12:39",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "76",
+   "title": "Kokouksen avaus",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025347-1",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025347-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Puheenjohtaja avaa kokouksen.",
+   "decision": "Puheenjohtaja avasi kokouksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Esitys",
+     "text": "Puheenjohtaja avaa kokouksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja avasi kokouksen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "77",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025347-2",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025347-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouskutsun antaa puheenjohtaja tai hänen estyneenä ollessaan varapuheenjohtaja.\n\nKokouskutsussa on ilmoitettava kokouksen aika ja paikka sekä käsiteltävät asiat. Kokouskutsu lähetetään vähintään neljä päivää ennen kokousta. Kirjallinen kutsu on toimitettu jäsenille sähköpostitse 11.12.2025.\n\nEsityslista, joka sisältää selostuksen käsiteltävistä asioista ja ehdotukset toimielimen päätöksiksi, lähetetään kokouskutsun yhteydessä, jollei erityiset syyt ole esteenä.\n\nKokouskutsu lähetetään jäsenille ja muille, joilla on läsnäolo-oikeus tai -velvollisuus toimielimen päättämällä tavalla.\n\nKokouskutsu, esityslista, liitteet ja oheismateriaali lähetetään ensisijaisesti sähköisesti. Tällöin valmistelutoimielin tai sen nimeämä viranhaltija vastaa siitä, että tähän tarvittavat tekniset laitteet, järjestelmät ja tietoliikenneyhteydet ovat käytettävissä. Salassa pidettäviä tietoja voidaan lähettää vain suojatulla yhteydellä.\n\nTodetaan läsnäolijat sähköisessä kokoushallintajärjestelmässä. Kokous on päätösvaltainen kun yli puolet jäsenistä on läsnä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokous todettiin lailliseksi ja päätösvaltaiseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "78",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025347-3",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025347-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Pöytäkirjantarkastajiksi valittiin Matti Kauhanen ja Mikko Jantunen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Toimielin valitsee pöytäkirjantarkastajiksi kaksi toimielimen jäsentä ja varalle kaksi jäsentä aakkosjärjestyksessä.\n\nPuheenjohtajan selostus:\n\nTämän kokouksen pöytäkirjantarkastajiksi valitaan Mikko Jantunen ja Satu Taavitsainen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Matti Kauhanen ja Mikko Jantunen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "79",
+   "title": "Tilintarkastuksen väliraportointi",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025347-4",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025347-4.PDF",
+   "diary_number": "7926/00.01.02.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Tarkastuslautakunta merkitsi tilintarkastuksen väliraportin vuodelta 2025 tietoonsa saatetuksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Päävastuullinen tilintarkastaja Ulla-Maija Tuomela esittelee vuoden 2025 tilintarkastuksen väliraportin tarkastuslautakunnalle.\n\nTilintarkastuksen väliraportti on luottamuksellinen."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Laki hyvinvointialueesta 125 §\n\nPuheenjohtajan selostus:\n\nTarkastuslautakunta merkitsee tilintarkastuksen väliraportin vuodelta 2025 tietoonsa saatetuksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta merkitsi tilintarkastuksen väliraportin vuodelta 2025 tietoonsa saatetuksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "80",
+   "title": "Henkilöstön työhyvinvointi",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025347-5",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025347-5.PDF",
+   "diary_number": "7928/00.01.02.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Tarkastuslautakunta merkitsi saadun katsauksen tietoonsa saatetuksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Tarkastuslautakunta kuulee työhyvinvointipäällikkö Johanna Laukkasta ja työsuojelupäällikkö Teemu Matilaista henkilöstön työhyvinvoinnista."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Laki hyvinvointialueesta 125 §\n\nPuheenjohtajan selotus:\n\nTarkastuslautakunta merkitsee saadun katsauksen tietoonsa saatetuksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta merkitsi saadun katsauksen tietoonsa saatetuksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "81",
+   "title": "Sisäisen valvonnan ja riskienhallinnan katsaus",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025347-6",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025347-6.PDF",
+   "diary_number": "7927/00.01.02.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Tarkastuslautakunta merkitsi saadun katsauksen tietoonsa saatetuksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Tarkastuslautakunta kuulee hallintopalvelujohtaja Antti Laurikaista hyvinvointialueen sisäisen valvonnan ja riskienhallinnan kokonaisuudesta."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Laki hyvinvointialueesta 125 §\n\nPuheenjohtajan selostus:\n\nTarkastuslautakunta merkitsee saadun katsauksen tietoonsa saatetuksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta merkitsi saadun katsauksen tietoonsa saatetuksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "82",
+   "title": "Henkilöstön edustajien kuuleminen",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025347-7",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025347-7.PDF",
+   "diary_number": "7929/00.01.02.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Tarkastuslautakunta merkitsi saadun katsauksen tietoonsa saatetuksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Tarkastuslautakunta kuulee henkilöstön edustajia päätoiminen pääluottamusedustaja Heikki Kauhasta (Tehy) ja päätoiminen pääluottamusedustaja Mari Torniaista (JHL)."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Laki hyvinvointialueesta 125 §\n\nPuheenjohtajan selostus:\n\nTarkastuslautakunta merkitsee saadun katsauksen tietoonsa saatetuksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta merkitsi saadun katsauksen tietoonsa saatetuksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "83",
+   "title": "Muut asiat",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025347-8",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025347-8.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Tarkastuslautakunta keskusteli ajankohtaisista asioista.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat\n\nTarkastuslautakunta merkitsee tiedoksi kokouksessa esille tulleet muut asiat."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta keskusteli ajankohtaisista asioista."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Kristiansson Olli-Pekka",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Ruhanen Seppo",
+   "role": "varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Hassinen Riitta",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hämäläinen Miia",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Jantunen Mikko",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kauhanen Matti",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kauria Outi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Soininen Mali",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Taavitsainen Satu",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kontinen Leena",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kokko-Petäjäjärvi Eija",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025347",
+  "fetched_at": "2026-10-14T16:57:05+00:00",
+  "content_hash": "5b4ee90101203f9b",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T16:57:05+00:00"
+ }
+}

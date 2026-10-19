@@ -1,0 +1,93 @@
+[
+ {
+  "id": "aluehallitus",
+  "name": "Aluehallitus",
+  "type": "board",
+  "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetings&id=551",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaalilautakunta",
+  "name": "Aluevaalilautakunta",
+  "type": "committee",
+  "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetings&id=224",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaltuusto",
+  "name": "Aluevaltuusto",
+  "type": "council",
+  "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetings&id=550",
+  "language": "fi"
+ },
+ {
+  "id": "hyvinvoinnin-ja-terveyden-edistamisen-lautakunta",
+  "name": "Hyvinvoinnin ja terveyden edistämisen lautakunta",
+  "type": "committee",
+  "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetings&id=1482",
+  "language": "fi"
+ },
+ {
+  "id": "hyvinvointialueen-lapsi-ja-perheasiainneuvosto",
+  "name": "Hyvinvointialueen lapsi- ja perheasiainneuvosto",
+  "type": "advisory",
+  "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetings&id=1803",
+  "language": "fi"
+ },
+ {
+  "id": "hyvinvointialueen-nuorisovaltuusto",
+  "name": "Hyvinvointialueen nuorisovaltuusto",
+  "type": "advisory",
+  "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetings&id=553",
+  "language": "fi"
+ },
+ {
+  "id": "hyvinvointialueen-vammaisneuvosto",
+  "name": "Hyvinvointialueen vammaisneuvosto",
+  "type": "advisory",
+  "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetings&id=555",
+  "language": "fi"
+ },
+ {
+  "id": "hyvinvointialueen-vanhusneuvosto",
+  "name": "Hyvinvointialueen vanhusneuvosto",
+  "type": "advisory",
+  "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetings&id=554",
+  "language": "fi"
+ },
+ {
+  "id": "osallisuusvaliokunta",
+  "name": "Osallisuusvaliokunta",
+  "type": "committee",
+  "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetings&id=1802",
+  "language": "fi"
+ },
+ {
+  "id": "tarkastuslautakunta",
+  "name": "Tarkastuslautakunta",
+  "type": "committee",
+  "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetings&id=552",
+  "language": "fi"
+ },
+ {
+  "id": "tulevaisuuslautakunta",
+  "name": "Tulevaisuuslautakunta",
+  "type": "committee",
+  "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetings&id=1452",
+  "language": "fi"
+ },
+ {
+  "id": "turvallisuuden-ja-varautumisen-lautakunta",
+  "name": "Turvallisuuden ja varautumisen lautakunta",
+  "type": "committee",
+  "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetings&id=1484",
+  "language": "fi"
+ },
+ {
+  "id": "ymparistoterveydenhuollon-jaosto",
+  "name": "Ympäristöterveydenhuollon jaosto",
+  "type": "section",
+  "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetings&id=1752",
+  "language": "fi"
+ }
+]

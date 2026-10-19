@@ -1,0 +1,121 @@
+[
+ {
+  "id": "aikuissosiaalityo-ja-vammaispalvelut-jaosto",
+  "name": "Aikuissosiaalityö- ja vammaispalvelut -jaosto",
+  "type": "section",
+  "url": "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aikuissosiaalityouml_ja_vammaispalvelut_jaosto",
+  "language": "fi"
+ },
+ {
+  "id": "aluehallitus",
+  "name": "Aluehallitus",
+  "type": "board",
+  "url": "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaalilautakunta",
+  "name": "Aluevaalilautakunta",
+  "type": "committee",
+  "url": "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluevaalilautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaltuusto",
+  "name": "Aluevaltuusto",
+  "type": "council",
+  "url": "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto",
+  "language": "fi"
+ },
+ {
+  "id": "edunvalvontajaosto",
+  "name": "Edunvalvontajaosto",
+  "type": "section",
+  "url": "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Edunvalvontajaosto",
+  "language": "fi"
+ },
+ {
+  "id": "lasten-nuorten-ja-perheiden-palvelut-jaosto",
+  "name": "Lasten, nuorten ja perheiden palvelut -jaosto",
+  "type": "section",
+  "url": "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Lasten_nuorten_ja_perheiden_palvelut_jaosto",
+  "language": "fi"
+ },
+ {
+  "id": "lahidemokratia-ja-osallisuuslautakunta",
+  "name": "Lähidemokratia- ja osallisuuslautakunta",
+  "type": "committee",
+  "url": "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Laumlhidemokratia_ja_osallisuuslautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "monikulttuurisuusasiain-neuvottelukunta",
+  "name": "Monikulttuurisuusasiain neuvottelukunta",
+  "type": "advisory",
+  "url": "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Monikulttuurisuusasiain_neuvottelukunta",
+  "language": "fi"
+ },
+ {
+  "id": "nationalspraksnamnden",
+  "name": "Nationalspråksnämnden",
+  "type": "committee",
+  "url": "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nationalspraringksnaumlmnden",
+  "language": "fi"
+ },
+ {
+  "id": "nuorisovaltuusto",
+  "name": "Nuorisovaltuusto",
+  "type": "advisory",
+  "url": "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto",
+  "language": "fi"
+ },
+ {
+  "id": "pelastuslautakunta",
+  "name": "Pelastuslautakunta",
+  "type": "committee",
+  "url": "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Pelastuslautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "tarkastuslautakunta",
+  "name": "Tarkastuslautakunta",
+  "type": "committee",
+  "url": "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "terveydenhuollon-palvelut-jaosto",
+  "name": "Terveydenhuollon palvelut -jaosto",
+  "type": "section",
+  "url": "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Terveydenhuollon_palvelut_jaosto",
+  "language": "fi"
+ },
+ {
+  "id": "vammaisneuvosto",
+  "name": "Vammaisneuvosto",
+  "type": "advisory",
+  "url": "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto",
+  "language": "fi"
+ },
+ {
+  "id": "vanhusneuvosto",
+  "name": "Vanhusneuvosto",
+  "type": "advisory",
+  "url": "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto",
+  "language": "fi"
+ },
+ {
+  "id": "vanhusten-palvelut-jaosto",
+  "name": "Vanhusten palvelut -jaosto",
+  "type": "section",
+  "url": "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Vanhusten_palvelut_jaosto",
+  "language": "fi"
+ },
+ {
+  "id": "valiaikainen-valmistelutoimielin",
+  "name": "Väliaikainen valmistelutoimielin",
+  "type": "other",
+  "url": "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Vaumlliaikainen_valmistelutoimielin",
+  "language": "fi"
+ }
+]

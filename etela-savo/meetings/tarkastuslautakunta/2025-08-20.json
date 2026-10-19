@@ -1,0 +1,261 @@
+{
+ "id": "tarkastuslautakunta/2025-08-20",
+ "region": "etela-savo",
+ "body_id": "tarkastuslautakunta",
+ "body_name": "Tarkastuslautakunta",
+ "date": "2025-08-20",
+ "stage": "minutes",
+ "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025322",
+ "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025322.PDF",
+ "time": "09:00 - 10:33",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "44",
+   "title": "Kokouksen avaus",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025322-1",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025322-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Puheenjohtaja avaa kokouksen.",
+   "decision": "Puheenjohtaja avasi kokouksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Esitys",
+     "text": "Puheenjohtaja avaa kokouksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja avasi kokouksen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "45",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025322-2",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025322-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouskutsun antaa puheenjohtaja tai hänen estyneenä ollessaan varapuheenjohtaja.\n\nKokouskutsussa on ilmoitettava kokouksen aika ja paikka sekä käsiteltävät asiat. Kokouskutsu lähetetään vähintään neljä päivää ennen kokousta. Kirjallinen kutsu on toimitettu jäsenille sähköpostitse 15.8.2025.\n\nEsityslista, joka sisältää selostuksen käsiteltävistä asioista ja ehdotukset toimielimen päätöksiksi, lähetetään kokouskutsun yhteydessä, jollei erityiset syyt ole esteenä.\n\nKokouskutsu lähetetään jäsenille ja muille, joilla on läsnäolo-oikeus tai -velvollisuus toimielimen päättämällä tavalla.\n\nKokouskutsu, esityslista, liitteet ja oheismateriaali lähetetään ensisijaisesti sähköisesti. Tällöin valmistelutoimielin tai sen nimeämä viranhaltija vastaa siitä, että tähän tarvittavat tekniset laitteet, järjestelmät ja tietoliikenneyhteydet ovat käytettävissä. Salassa pidettäviä tietoja voidaan lähettää vain suojatulla yhteydellä.\n\nTodetaan läsnäolijat sähköisessä kokoushallintajärjestelmässä. Kokous on päätösvaltainen kun yli puolet jäsenistä on läsnä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokous todettiin lailliseksi ja päätösvaltaiseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "46",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025322-3",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025322-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Pöytäkirjantarkastajiksi valittiin Riitta Hassinen ja Mikko Jantunen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Toimielin valitsee pöytäkirjantarkastajiksi kaksi toimielimen jäsentä ja varalle kaksi jäsentä aakkosjärjestyksessä.\n\nPuheenjohtajan selostus:\n\nTämän kokouksen pöytäkirjantarkastajiksi valitaan Riitta Hassinen ja Miia Hämäläinen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Riitta Hassinen ja Mikko Jantunen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "47",
+   "title": "Tarkastuslautakunnan sihteerin valinta",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025322-4",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025322-4.PDF",
+   "diary_number": "5205/00.01.02.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Tarkastuslautakunta päätti nimetä tarkastuslautakunnan sihteeriksi Eija Kokko-Petäjäjärven/BDO Oy",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hallintosäännön 62 §:n mukaan tarkastuslautakunta päättää, kuka toimii lautakunnan sihteerinä. Tarkastuslautakunnan sihteeripalvelut on päätetty hankkia vuodesta 2023 alkaen BDO Oy:ltä.\n\nTarkastuslautakunnan sihteeriksi ehdotetaan nimettäväksi tilintarkastaja Eija Kokko-Petäjäjärvi/BDO Oy."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Laki hyvinvointialueesta 125 §\n\nPuheenjohtajan selostus:\n\nTarkastuslautakunta päättää, että tarkastuslautakunnan sihteeriksi nimetään Eija Kokko-Petäjäjärvi/BDO Oy."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta päätti nimetä tarkastuslautakunnan sihteeriksi Eija Kokko-Petäjäjärven/BDO Oy"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "48",
+   "title": "Tarkastuslautakunnan arviointisuunnitelma 2025-2028",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025322-5",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025322-5.PDF",
+   "diary_number": "5206/00.01.02.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Tarkastuslautakunta päätti hyväksyä arviointisuunnitelman vuosille 2025–2028. Tarkastuslautakunta päätti samalla, että valtuustokauden mittainen arviointisuunnitelma saatetaan aluevaltuustolle tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Laki hyvinvointialueesta 125 §:n mukaisesti tarkastuslautakunta laatii työnsä perustaksi arviointisuunnitelman tilikausille 2025–2028.\n\nTarkastuslautakunta voi halutessaan saattaa arviointisuunnitelman aluevaltuustolle tiedoksi. Arviointisuunnitelmaa voidaan valtuustokauden aikana päivittää, jos hyvinvointialueen tilanne sitä vaatii.\n\nEdellisen lisäksi tarkastuslautakunta laatii tilikaudelle 2025 sisäisen työohjelman."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Laki hyvinvointialueesta 125 §\n\nPuheenjohtajan selostus:\n\nTarkastuslautakunta päättää hyväksyä arviointisuunnitelman vuosille 2025–2028. Tarkastuslautakunta päättää, että valtuustokauden mittainen arviointisuunnitelma saatetaan aluevaltuustolle tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta päätti hyväksyä arviointisuunnitelman vuosille 2025–2028. Tarkastuslautakunta päätti samalla, että valtuustokauden mittainen arviointisuunnitelma saatetaan aluevaltuustolle tiedoksi."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Aluevaltuusto"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Arviointisuunnitelma 2025-2028",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2025322-5-129040.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "49",
+   "title": "Tarkastuslautakunnan työohjelma vuodelle 2025",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025322-6",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025322-6.PDF",
+   "diary_number": "5204/00.01.02.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Tarkastuslautakunta hyväksyi kokousasian oheismateriaalina olevan tarkastuslautakunnan työohjelman tilikaudelle 2025. Tarkastuslautakunta päätti, että kokoukset pidetään seuraavasti: 23.9.2025, 28.10.2025, 18.11.2025, 16.12.2025, 20.1.2026, 17.2.2026, 24.3.2026, 21.4.2026, 12.5.2026 ja 26.5.2026.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvointialuelain §:n 125 mukaisesti tarkastuslautakunta laatii työnsä perustaksi arviointisuunnitelman tilikausille 2025–2028. Sen lisäksi tarkastuslautakunta päättää tarkemmasta työohjelmasta, joka tukee arviointisuunnitelman toimeenpanoa ja arviointikertomuksen valmistelua.\n\nTyöohjelma on ohjeellinen ja sitä voidaan tarvittaessa muuttaa. Tarkastuslautakunnan työohjelmat ovat asiakirjalain julkisuudesta annetun lain 5 §:ssä tarkoitettuja tarkastustoimen sisäisiä työ- ja valmistelumuistioita, eivätkä ne ole julkisia asiakirjoja.\n\nTarkastuslautakunnan sihteeri esittelee työohjelman tilikaudelle 2025."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Laki hyvinvointialueesta 125 §\n\nPuheejohtajan selostus:\n\nTarkastuslautakunta hyväksyy kokousasian oheismateriaalina olevan työohjelman tilikaudelle 2025."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta hyväksyi kokousasian oheismateriaalina olevan tarkastuslautakunnan työohjelman tilikaudelle 2025. Tarkastuslautakunta päätti, että kokoukset pidetään seuraavasti: 23.9.2025, 28.10.2025, 18.11.2025, 16.12.2025, 20.1.2026, 17.2.2026, 24.3.2026, 21.4.2026, 12.5.2026 ja 26.5.2026."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "50",
+   "title": "Muut asiat",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025322-7",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025322-7.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Tarkastuslautakunta keskusteli ajankohtaisista asioista. Tarkastuslautakunta päätti, että tarkastuslautakunta osallistuu tarkastuslautakuntien tapaamiseen/koulutuspäiviin 17. – 18.9.2025 Siilinjärvellä. Osallistujille maksetaan Etelä-Savon hyvinvointialueen hallintosäännön 164 §:n ja 165 §:n mukaisesti ansionmenetys- ja muut korvaukset sekä matkakustannusten korvaukset.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat\n\nTarkastuslautakunta merkitsee tiedoksi kokouksessa esille tulleet muut asiat."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta keskusteli ajankohtaisista asioista. Tarkastuslautakunta päätti, että tarkastuslautakunta osallistuu tarkastuslautakuntien tapaamiseen/koulutuspäiviin 17. – 18.9.2025 Siilinjärvellä. Osallistujille maksetaan Etelä-Savon hyvinvointialueen hallintosäännön 164 §:n ja 165 §:n mukaisesti ansionmenetys- ja muut korvaukset sekä matkakustannusten korvaukset."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Kristiansson Olli-Pekka",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Ruhanen Seppo",
+   "role": "varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Hassinen Riitta",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Jantunen Mikko",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kauhanen Matti",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Soininen Mali",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Taavitsainen Satu",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kokko-Petäjäjärvi Eija",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025322",
+  "fetched_at": "2026-10-14T17:02:09+00:00",
+  "content_hash": "70460deae3ae64c2",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T17:02:09+00:00"
+ }
+}

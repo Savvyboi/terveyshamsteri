@@ -1,0 +1,93 @@
+[
+ {
+  "id": "aluehallitus",
+  "name": "Aluehallitus",
+  "type": "board",
+  "url": "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaalilautakunta",
+  "name": "Aluevaalilautakunta",
+  "type": "committee",
+  "url": "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluevaalilautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaltuusto",
+  "name": "Aluevaltuusto",
+  "type": "council",
+  "url": "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto",
+  "language": "fi"
+ },
+ {
+  "id": "hyvinvointi-ja-yhdyspintalautakunta",
+  "name": "Hyvinvointi- ja yhdyspintalautakunta",
+  "type": "committee",
+  "url": "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Hyvinvointi_ja_yhdyspintalautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "ikaihmisten-ja-vammaisten-asioiden-valiokunta",
+  "name": "Ikäihmisten ja vammaisten asioiden valiokunta",
+  "type": "committee",
+  "url": "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Ikaumlihmisten_ja_vammaisten_asioiden_valiokunta",
+  "language": "fi"
+ },
+ {
+  "id": "lasten-nuorten-ja-perheiden-asioiden-valiokunta",
+  "name": "Lasten, nuorten ja perheiden asioiden valiokunta",
+  "type": "committee",
+  "url": "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Lasten_nuorten_ja_perheiden_asioiden_valiokunta",
+  "language": "fi"
+ },
+ {
+  "id": "tarkastuslautakunta",
+  "name": "Tarkastuslautakunta",
+  "type": "committee",
+  "url": "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "tulevaisuuslautakunta",
+  "name": "Tulevaisuuslautakunta",
+  "type": "committee",
+  "url": "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "turvallisuusjaosto",
+  "name": "Turvallisuusjaosto",
+  "type": "section",
+  "url": "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Turvallisuusjaosto",
+  "language": "fi"
+ },
+ {
+  "id": "tyoikaisten-asioiden-valiokunta",
+  "name": "Työikäisten asioiden valiokunta",
+  "type": "committee",
+  "url": "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Tyoumlikaumlisten_asioiden_valiokunta",
+  "language": "fi"
+ },
+ {
+  "id": "vammaisneuvosto",
+  "name": "Vammaisneuvosto",
+  "type": "advisory",
+  "url": "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto",
+  "language": "fi"
+ },
+ {
+  "id": "vanhusneuvosto",
+  "name": "Vanhusneuvosto",
+  "type": "advisory",
+  "url": "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto",
+  "language": "fi"
+ },
+ {
+  "id": "yhteistyotoimikunta",
+  "name": "Yhteistyötoimikunta",
+  "type": "other",
+  "url": "https://kainuunhyvinvointialue.cloudnc.fi/fi-FI/Toimielimet/Yhteistyoumltoimikunta",
+  "language": "fi"
+ }
+]

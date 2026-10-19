@@ -1,0 +1,1758 @@
+{
+ "id": "aluevaltuusto/2026-10-05",
+ "region": "satakunta",
+ "body_id": "aluevaltuusto",
+ "body_name": "Aluevaltuusto",
+ "date": "2026-10-05",
+ "stage": "minutes",
+ "source_url": "https://sata.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_5102026",
+ "pdf_url": "https://sata.cloudnc.fi/download/noname/{ee63174e-e0e9-4a51-8e88-4938da1523f8}/48885",
+ "time": null,
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "59",
+   "title": "Kokouksen avaus",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/15988/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Puheenjohtaja avasi kokouksen klo 9.06.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Perustelut",
+     "text": "Puheenjohtaja avaa kokouksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja avasi kokouksen klo 9.06."
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Päätöksestä ei saa tehdä lain hyvinvointialueesta 141 §:n nojalla oikaisuvaatimusta eikä aluevalitusta, koska päätös koskee vain valmistelua tai täytäntöönpanoa."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "60",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/15985/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan läsnäolijat.\n\nKokous todetaan laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKäsittelyjärjestykseksi hyväksytään esityslista.",
+   "decision": "Todettiin läsnäolijat.\n\nKokous todettiin laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKäsittelyjärjestykseksi hyväksyttiin esityslista.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Perustelut",
+     "text": "Hallintosäännön mukaan kokouskutsu on lähetettävä sähköisesti vähintään 14 päivää ennen aluevaltuuston kokousta kullekin valtuutetulle sekä niille, joilla on kokouksessa läsnäolo-oikeus tai -velvollisuus. Samassa ajassa on kokouksesta tiedotettava hyvinvointialueen verkkosivuilla.\n\nHyvinvointialuelain 108 §:n mukaan aluevaltuusto on päätösvaltainen, kun vähintään kaksi kolmasosaa valtuutetuista on läsnä. Kokouksen laillisuus ja päätösvaltaisuus edellyttävät näin ollen, että vähintään 46 valtuutettua 69 valtuutetusta on todettu olevan paikalla.\n\nTämän valtuuston on kutsunut koolle aluevaltuuston puheenjohtaja Aila Haikkonen 21.9.2026 lähetetyllä kutsulla."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Todetaan läsnäolijat.\n\nKokous todetaan laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKäsittelyjärjestykseksi hyväksytään esityslista."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Todettiin läsnäolijat.\n\nKokous todettiin laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKäsittelyjärjestykseksi hyväksyttiin esityslista."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "61",
+   "title": "Kokouksen pöytäkirjantarkastajat",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/15986/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Pöytäkirjantarkastajiksi valitaan Juha Joutsenlahti ja Jaakko Jäntti.",
+   "decision": "Päätösehdotus hyväksyttiin yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Perustelut",
+     "text": "Hallintosäännön 140 §:n mukaan pöytäkirja tarkastetaan toimielimen päättämällä tavalla."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Pöytäkirjantarkastajiksi valitaan Juha Joutsenlahti ja Jaakko Jäntti."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "62",
+   "title": "Eroaminen aluehallituksen jäsenyydestä, Siitari",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/15990/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Anna Alarautalahti-Heurlin",
+   "presenter": "Tero Mäkiranta, hyvinvointialuejohtaja",
+   "proposal": "Aluevaltuusto päättää\n\nmyöntää Oskari Siitarille eron aluehallituksen jäsenyydestä sekä\n\nvalitsee Siitarin tilalle uuden jäsenen aluehallitukseen.",
+   "decision": "Päätösehdotus hyväksyttiin yksimielisesti sekä valittiin Siitarin tilalle uudeksi aluehallituksen jäseneksi Jenni Laurila.",
+   "discussion": "Laura Tamminen esitti, että aluehallituksen uudeksi jäseneksi valitaan Jenni Laurila.",
+   "sections": [
+    {
+     "heading": "",
+     "text": "SATAHADno-2026-6464\n\nAikaisempi käsittely\n\nAluehallitus, 18.8.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Anna Alarautalahti-Heurlin"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Oskari Siitari on jättänyt 31.7.2026 oheisen liitteen mukaisen eronpyyntönsä Satakunnan hyvinvointialueen aluehallituksen jäsenyydestä.\n\nHyvinvointialuelain 22 §:n nojalla aluevaltuusto valitsee aluehallituksen. Aluehallituksen tulisi ehdottaa aluevaltuustolle, että aluevaltuusto ottaa käsiteltäväkseen Siitarin eronpyynnön sekä tarvittaessa valitsee Siitarin tilalle uuden jäsenen aluehallitukseen."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus päättää\n\nehdottaa aluevaltuustolle, että aluevaltuusto päättää myöntää Oskari Siitarille eron aluehallituksen jäsenen tehtävästä sekä valitsee Siitarin tilalle uuden jäsenen."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Tero Mäkiranta, hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Anna Alarautalahti-Heurlin"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian esittelyteksti aluehallituksen kokouksessa 18.8.2026 § 199."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluevaltuusto päättää\n\nmyöntää Oskari Siitarille eron aluehallituksen jäsenyydestä sekä\n\nvalitsee Siitarin tilalle uuden jäsenen aluehallitukseen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti sekä valittiin Siitarin tilalle uudeksi aluehallituksen jäseneksi Jenni Laurila."
+    },
+    {
+     "heading": "Kokouskäsittely",
+     "text": "Laura Tamminen esitti, että aluehallituksen uudeksi jäseneksi valitaan Jenni Laurila."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Eronpyyntö, Siitari.pdf (pdf, 58 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{2c58b1df-6f29-4f38-abb2-31763efb2ca7}/48899"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "63",
+   "title": "Eroaminen aluevaltuuston jäsenyydestä, Siitari",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/16003/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Anna Alarautalahti-Heurlin",
+   "presenter": "Tero Mäkiranta, hyvinvointialuejohtaja",
+   "proposal": "Aluevaltuusto päättää\n\ntodeta Oskari Siitarin aluevaltuutetun tehtävän päättyneeksi vaalikelpoisuuden menettämisen johdosta ja, että\n\naluevaltuuston puheenjohtaja kutsuu hänen sijaansa jäljellä olevaksi toimikaudeksi varavaltuutetun hyvinvointialuelain 25 §:n mukaan.",
+   "decision": "Päätösehdotus hyväksyttiin yksimielisesti.\n\nTodettiin, että aluevaltuuston puheenjohtaja kutsui Oskari Siitarin sijaan valtuutetuksi jäljellä olevaksi toimikaudeksi hyvinvointialuelain 25 §:n 2 momentin nojalla vihreiden 1. varavaltuutetun Minka Leino-Holmin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "SATAHADno-2026-6464\n\nAikaisempi käsittely\n\nAluehallitus, 15.9.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Anna Alarautalahti-Heurlin"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Aluevaltuutettu Oskari Siitari on jättänyt 9.9.2026 allekirjoitetun eroanomuksen. Eroanomuksessa Siitari vetoaa muuttoonsa toiselle paikkakunnalle.\n\nHyvinvointialuelain (611/2021) 75 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin. Aluevaltuusto myöntää eron valtuutetuille ja varavaltuutetuille.\n\nHyvinvointialuelain 25 §:n mukaan, jos valtuutettu on vapautettu toimestaan, aluevaltuuston puheenjohtaja kutsuu hänen sijaansa jäljellä olevaksi toimikaudeksi asianomaisen vaaliliiton, puolueen tai yhteislistan järjestyksessä ensimmäisen vielä valtuutetuksi kutsumattoman varavaltuutetun.\n\nHyvinvointialuelain 76 §:n mukaisesti hyvinvointialueen luottamustoimeen on vaalikelpoinen henkilö, joka on kyseisen hyvinvointialueen asukas.\n\nLain 83 §:ssä säädetään, että jos luottamushenkilö menettää vaalikelpoisuutensa, hänet valinnut toimielin toteaa luottamustoimen päättyneeksi. Valtuutetun osalta päätöksen tekee aluevaltuusto. Päätös pannaan täytäntöön heti. Luottamustoimen päättyminen vaalikelpoisuuden menettämisen johdosta on toimielimen nimenomaisesti todettava.\n\nAluehallituksen tulisi saattaa asia aluevaltuuston päätettäväksi."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus päättää\n\nesittää aluevaltuustolle, että aluevaltuusto päättää todeta Oskari Siitarin aluevaltuutetun tehtävän päättyneeksi vaalikelpoisuuden menettämisen johdosta ja, että\n\naluevaltuuston puheenjohtaja kutsuu hänen sijaansa jäljellä olevaksi toimikaudeksi varavaltuutetun hyvinvointialuelain 25 §:n mukaan."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Tero Mäkiranta, hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Anna Alarautalahti-Heurlin"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian esittelyteksti aluehallituksen kokouksessa 15.9.2026 § 510."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluevaltuusto päättää\n\ntodeta Oskari Siitarin aluevaltuutetun tehtävän päättyneeksi vaalikelpoisuuden menettämisen johdosta ja, että\n\naluevaltuuston puheenjohtaja kutsuu hänen sijaansa jäljellä olevaksi toimikaudeksi varavaltuutetun hyvinvointialuelain 25 §:n mukaan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti.\n\nTodettiin, että aluevaltuuston puheenjohtaja kutsui Oskari Siitarin sijaan valtuutetuksi jäljellä olevaksi toimikaudeksi hyvinvointialuelain 25 §:n 2 momentin nojalla vihreiden 1. varavaltuutetun Minka Leino-Holmin."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Eronpyyntö, Siitari.pdf (pdf, 57 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{a9e00d89-83d4-45ff-8c9a-d7aac4f7152e}/48898"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "64",
+   "title": "Eroaminen perhe- ja sosiaalipalveluiden lautakunnan varajäsenyydestä, Koivula",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/16005/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Anna Alarautalahti-Heurlin",
+   "presenter": "Tero Mäkiranta, hyvinvointialuejohtaja",
+   "proposal": "Aluevaltuusto päättää\n\nmyöntää Elli-Maria Koivulalle eron perhe- ja sosiaalipalveluiden lautakunnan varajäsenyydestä sekä\n\nvalitsee Koivulan tilalle perhe- ja sosiaalipalveluiden lautakuntaan uuden varajäsenen.",
+   "decision": "Päätösehdotus hyväksyttiin yksimielisesti sekä valittiin Koivulan tilalle uudeksi perhe- ja sosiaalipalveluiden lautakunnan varajäseneksi Veera Forsbacka.",
+   "discussion": "Anne Holmlund esitti, että perhe- ja sosiaalipalveluiden lautakunnan varajäseneksi valitaan Veera Forsbacka.",
+   "sections": [
+    {
+     "heading": "",
+     "text": "SATAHADno-2026-10763\n\nAikaisempi käsittely\n\nAluehallitus, 29.9.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Anna Alarautalahti-Heurlin"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Elli-Maria Koivula on ilmoittanut 23.9.2026 muuttaneensa pois Satakunnan alueelta ja tämän myötä eroavansa perhe- ja sosiaalipalveluiden lautakunnan varajäsenen tehtävästä.\n\nHyvinvointialuelain 76 §:n mukaisesti hyvinvointialueen luottamustoimeen on vaalikelpoinen henkilö, joka on kyseisen hyvinvointialueen asukas.\n\nLain 83 §:ssä säädetään, että jos luottamushenkilö menettää vaalikelpoisuutensa, hänet valinnut toimielin toteaa luottamustoimen päättyneeksi.\n\nAsia tulisi viedä aluevaltuuston päätettäväksi. Lautakuntien nimittämisestä on säädetty hallintosäännön 11 §:ssä."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus päättää\n\nehdottaa aluevaltuustolle, että aluevaltuusto päättää\n\nmyöntää Elli-Maria Koivulalle eron perhe- ja sosiaalipalveluiden lautakunnan varajäsenyydestä sekä\n\nvalitsee Koivulan tilalle perhe- ja sosiaalipalveluiden lautakuntaan uuden varajäsenen.\n\ntarkastaa pöytäkirjan tämän pykälän osalta kokouksessa."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Tero Mäkiranta, hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Anna Alarautalahti-Heurlin"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian esittelyteksti aluehalituksen kokouksessa 29.9.2026 § 525."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluevaltuusto päättää\n\nmyöntää Elli-Maria Koivulalle eron perhe- ja sosiaalipalveluiden lautakunnan varajäsenyydestä sekä\n\nvalitsee Koivulan tilalle perhe- ja sosiaalipalveluiden lautakuntaan uuden varajäsenen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti sekä valittiin Koivulan tilalle uudeksi perhe- ja sosiaalipalveluiden lautakunnan varajäseneksi Veera Forsbacka."
+    },
+    {
+     "heading": "Kokouskäsittely",
+     "text": "Anne Holmlund esitti, että perhe- ja sosiaalipalveluiden lautakunnan varajäseneksi valitaan Veera Forsbacka."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Eronpyyntö, Koivula.pdf (pdf, 85 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{f9ab06dc-44bb-4886-ac38-6b02a374a796}/48897"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "65",
+   "title": "Aluevaltuuston kokousaikataulu 2026",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/15993/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Anna Alarautalahti-Heurlin",
+   "presenter": "Tero Mäkiranta, hyvinvointialuejohtaja",
+   "proposal": "Aluevaltuusto päättää\n\nmuuttaa syksyn kokousaikataulua esitetyllä tavalla.",
+   "decision": "Päätösehdotus hyväksyttiin yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "SATAHADno-2025-9987\n\nAikaisempi käsittely\n\nAluehallitus, 1.9.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Anna Alarautalahti-Heurlin"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Aikataulullisista syistä johtuen aluevaltuuston syksyn kokousaikataulua on tarpeen muuttaa.\n\nSyksy\n\n5.10.2026\n\n30.11.2026 - PERUTAAN\n\n14.12.2026 UUSI KOKOUS"
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus päättää\n\nesittää aluevaltuustolle, että se muuttaisi syksyn kokousaikataulua esitetyllä tavalla."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Tero Mäkiranta, hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Anna Alarautalahti-Heurlin"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian esittelyteksti aluehallituksen kokouksessa 1.9.2026 § 488."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluevaltuusto päättää\n\nmuuttaa syksyn kokousaikataulua esitetyllä tavalla."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "66",
+   "title": "Aluevaltuuston kokousaikataulu 2027",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/15994/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Anna Alarautalahti-Heurlin",
+   "presenter": "Tero Mäkiranta, hyvinvointialuejohtaja",
+   "proposal": "Aluevaltuusto päättää\n\nkokoontua esitetyn aikataulun mukaisesti.",
+   "decision": "Päätösehdotus hyväksyttiin yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "SATAHADno-2026-9482\n\nAikaisempi käsittely\n\nAluehallitus, 1.9.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Anna Alarautalahti-Heurlin"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Ehdotus aluevaltuuston kokousaikataulusta vuodelle 2027 ohessa:\n\nKevät\n\n8.2.2027\n\n19.4.2027\n\n7.6.2027\n\nSyksy\n\n18.10.2027\n\n13.12.2027"
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus päättää\n\nehdottaa aluevaltuustolle, että se päättäisi kokoontua esitetyn aikataulun mukaisesti."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Tero Mäkiranta, hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Anna Alarautalahti-Heurlin"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian esittelyteksti aluehallituksen kokouksessa 1.9.2026 § 489."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluevaltuusto päättää\n\nkokoontua esitetyn aikataulun mukaisesti."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "67",
+   "title": "Aluehallituksen lausunto tarkastuslautakunnan arviointikertomuksen suosituksiin Satakunnan hyvinvointialueen vuoden 2025 tilinpäätöksestä",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/16001/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Marika Lanne",
+   "presenter": "Tero Mäkiranta, hyvinvointialuejohtaja",
+   "proposal": "Aluevaltuusto päättää\n\nmerkitä tietoonsa saatetuksi aluehallituksen vastineenaan antaman tarkastuslautakunnan arviointikertomukseen Satakunnan hyvinvointialueen vuoden 2025 tilinpäätöksestä oheisen liitteen mukaisen lausunnon.",
+   "decision": "Päätösehdotus hyväksyttiin yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "SATAHADno-2026-288\n\nAikaisempi käsittely\n\nAluehallitus, 29.9.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Marika Lanne"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Hyvinvointialuelain 125 §:n mukaan aluehallituksen tulee antaa aluevaltuustolle lausunto toimenpiteistä, joihin tarkastuslautakunnan arviointikertomus antaa aihetta. Tarkastuslautakunnan tehtävänä mm. on arvioida ovatko valtuuston asettamat toiminnan ja talouden tavoitteet toteutuneet hyvinvointialueella ja hyvinvointialuekonsernissa ja onko toiminta järjestetty tuloksellisella ja tarkoituksenmukaisella tavalla.\n\nAluevaltuusto on käsitellyt tarkastuslautakunnan arviointikertomusta Satakunnan hyvinvointialueen vuoden 2025 tilinpäätöksestä kokouksessaan 8.6.2026 / 36 §. Tarkastuslautakunnan arviointikertomus on laaja-alainen kattaen monipuolisesti hyvinvointialueen eri toiminnot. Tarkastuslautakunta on laatinut arvionsa eri tietolähteisiin perustuen ja antanut asiakokonaisuuksiin liittyviä suosituksiaan.\n\nLausunnossa on vastattu tarkastuslautakunnan esittämiin suosituksiin. Lausunnon laatimiseen ovat osallistuneet viranhaltijat, joiden toimi- /vastuualueeseen lautakunnan suositus on kohdistunut.\n\nLuonnos aluehallituksen lausunnosta aluevaltuustolle on esitetty pykälän liitteenä."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus päättää\n\nantaa aluevaltuustolle vastineenaan tarkastuslautakunnan arviointikertomukseen Satakunnan hyvinvointialueen vuoden 2025 tilinpäätöksestä oheisen liitteen mukaisen lausunnon\n\ntarkastaa pöytäkirjan tämän pykälän osalta kokouksessa."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Tero Mäkiranta, hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Marika Lanne"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian esittelyteksti aluehallituksen kokouksessa 29.9.2026 § 527."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluevaltuusto päättää\n\nmerkitä tietoonsa saatetuksi aluehallituksen vastineenaan antaman tarkastuslautakunnan arviointikertomukseen Satakunnan hyvinvointialueen vuoden 2025 tilinpäätöksestä oheisen liitteen mukaisen lausunnon."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Vastaukset tarkastuslautakunnan arviointikertomukseen 2025.pdf (pdf, 223 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{8f7eb7e1-27b4-464e-9d12-d1ebc6a6cad6}/48900"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "68",
+   "title": "Tilintarkastussopimuksen optiovuosien käyttöönotto",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/16006/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Kirsi Kangasharju",
+   "presenter": "Kirsi Kangasharju",
+   "proposal": "Aluevaltuusto päättää\n\nottaa kerralla käyttöön tilintarkastussopimuksen molemmat optiovuodet 2027 ja 2028.\n\nsopimusta jatketaan optiokausilla alkuperäisen sopimuksen mukaisin ehdoin. Sopimushinnat säilyvät optiokausien ajan ennallaan,​ eikä niihin sovelleta hinnantarkistuksia tai muita hinnanmuutoksia.",
+   "decision": "Päätösehdotus hyväksyttiin yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "SATAHADno-2026-9958\n\nAikaisempi käsittely\n\nTarkastuslautakunta, 17.9.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Kirsi Kangasharju"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Aiempi käsittely:\n\nSATAKUNNAN HYVINVOINTIALUEEN TILINTARKASTAJAN VALITSEMINEN TOIMIKAUDEKSI 2023-2026\n\nTarkastuslautakunta 31.3.2022 § 7\n\nHyvinvointialuelain 126 §:n mukaan aluevaltuusto valitsee hallinnon ja talouden tarkastamista varten tilintarkastusyhteisön, jonka on määrättävä vastuunalaiseksi tilintarkastajaksi JHT-tilintarkastaja. Tilintarkastajaan sovelletaan hänen hoitaessaan tämän lain mukaisia tehtäviä rikosoikeudellista virkavastuuta koskevia säännöksiä. Tilintarkastajan vahingonkorvausvelvollisuudesta säädetään julkishallinnon ja -talouden tilintarkastuksesta annetussa laissa (1142/2015).\n\nHyvinvointialueen tytäryhteisön tilintarkastajaksi on valittava hyvinvointialueen tilintarkastusyhteisö, jollei tästä poikkeamiseen ole perusteltua tarkastuksen järjestämiseen liittyvää syytä.\n\nTilintarkastusyhteisö voidaan valita kerrallaan enintään kuuden tilikauden hallinnon ja talouden tarkastamista varten.\n\nHyvinvointialuelain 125 § mukaan tarkastuslautakunnan tehtäviä ovat mm.\n\n- valmistella aluevaltuuston päätettävät hallinnon ja talouden tarkastusta koskevat asiat;\n\n- huolehtia hyvinvointialueen ja sen tytäryhteisöjen tarkastuksen yhteensovittamisesta.\n\nPuheenjohtajan esitys:\n\nTarkastuslautakunta käy keskustelun tilintarkastuskilpailutuksen aloittamisesta, tarjouspyynnössä esitettävistä kriteereistä, kilpailutettavan kauden pituudesta ja päättää jatkotoimista."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta kävi keskustelun tilintarkastuskilpailutuksesta. Lautakunta antoi evästyksensä reviisorille ja päätti, että seuraavaan kokoukseen tuodaan tarkempi esitys.\n\nTarkastuslautakunta 9.5.2022 § 18\n\nHankintapalvelut on yhdessä tarkastuspäällikön kanssa käynyt nk. markkinavuoropuhelua tilintarkastusyhteisöjen kanssa ja näiden keskustelujen pohjalta tarkastuslautakunnalle tuodaan kokoukseen luonnos tilintarkastuskilpailutuksen tarjouspyynnöksi.\n\nTarkastuspäällikön esitys:\n\nTarkastuslautakunta tutustuu tarjouspyyntöluonnokseen ja käy siitä keskustelun. Lautakunta päättää käynnistää kilpailutuksen esitetyillä kriteereillä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta tutustui tarjouspyyntöluonnokseen ja kävi siitä keskustelun. Lautakunta päätti käynnistää kilpailutuksen esitetyillä kriteereillä.\n\nValmistelija: tarkastuspäällikkö Kirsi Kangasharju"
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "hankintapalvelut\n\ntarkastuspäällikkö Kirsi Kangasharju\n\nTarkastuslautakunta 25.8.2022/ 34 §\n\nHyvinvointialuelain mukaisen tilintarkastuksen laajuudeksi arvioitiin 80 tarkastuspäivää (7,5 t/päivä) vuodessa. Määrään sisältyy lakisääteinen tilintarkastus ja pyydettäessä tilintarkastajan osallistuminen tarkastuslautakunnan kokouksiin. Erikseen tarjousta pyydettiin hyvinvointialueen tytäryhteisöjen tilintarkastuksesta, johon arvioitiin tarvittavan 7 tarkastuspäivää (7,5 t/päivä) vuodessa.\n\nHankintamenettelynä oli avoin menettely. Hankinta on EU-kynnysarvon ylittävä hankinta. Tarjouskilpailua koskeva hankintailmoitus julkaistiin www.hankintailmoitukset.fi ilmoituskanavassa 1.7.2022. Tarjouspyyntö oli tarjoajien noudettavissa Hankintasampo.fi –toimittajaportaalista osoittees sa https://hankintasampo.fi/.\n\nTarjouspyynnössä tarjousten toimittamiselle asetettiin määräajaksi 15.8.2022 klo 9:00. Asetettuun määräaikaan mennessä saatiin tarjoukset kahdelta (2) tarjoajalta, jotka olivat:\n\nBDO Audiator Oy\n\nKPMG Oy Ab\n\nTarjoajien soveltuvuutta koskevat vaatimukset määriteltiin tarjouspyynnössä. Molemmat tarjoajat täyttivät tarjouspyynnössä asetetut soveltuvuusvaatimukset.\n\nTarjottavaa palvelua koskevat vaatimukset määriteltiin tarjouspyynnössä ja sen liitteissä. Tarjousten tarkastamisessa molemmat tarjoukset todettiin tarjouspyynnön mukaisiksi.\n\nHankinnan valintaperusteena on hinta-laatusuhteeltaan paras tarjous. Ko konaistaloudellisen edullisuuden vertailuperusteina käytettiin palvelun hin taa (osuus 50 %) ja laatua (50 %). Palvelun hintana tarjouspyynnön mu kaan huomioidaan palvelun arvioitu vuosihinta laskettuna koko konsernin tarkastuspalveluiden perusteella (hyvinvointialueen tarkastuspalvelun ja ty täryhteisöjen tarkastuspalvelun hinnat yhteensä). Laadun arviointiperusteet on kuvattu tarkemmin tarjouspyynnön kohdassa Päätöksenteon perusteet.\n\nTarjousten vertailutaulukko on hankintaesityksen liitteenä.\n\nYhteenveto vertailutaulukon vertailupisteistä:\n\nTarjoaja\nLaatupisteet\nHintapisteet\nKokonaispisteet\n\nBDO Audiator Oy\n50\n50\n100\n\nKPMG Oy\n21,56\n44,49\n66,05\n\nTarjouskilpailun voitti hinta-laatusuhteeltaan parhaimman tarjouksen tehnyt BDO Audiator Oy. Hankintasopimus syntyy vasta kirjallisen sopimuksen al lekirjoittamisella.\n\nHankintaan liittyvät asiakirjat ovat myös nähtävänä kokouksessa.\n\nTarkastuspäällikön esitys:\n\nTarkastuslautakunta ehdottaa aluevaltuustolle, että Satakunnan hyvinvointialueen tilintarkastusyhteisöksi toimikaudeksi 2023–2026 (optio vuosille 2027 ja 2028) valitaan BDO Audiator Oy, vastuunalaisena tarkastajana JHT, HT Minna Ainasvuori."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta ehdottaa aluevaltuustolle, että Satakunnan hyvinvointialueen tilintarkastusyhteisöksi toimikaudeksi 2023–2026 (optio vuosille 2027 ja 2028) valitaan BDO Audiator Oy, vastuunalaisena tarkastajana JHT, HT Minna Ainasvuori.\n\nAluevaltuusto 26.9.2022 / 91 §\n\nTarkastuslautakunta esittää aluevaltuustolle, että Satakunnan hyvinvointialueen tilintarkastusyhteisöksi toimikaudeksi 2023–2026 (optio vuosille 2027 ja 2028) valitaan BDO Audiator Oy.\n\nLIITE NRO 6"
+    },
+    {
+     "heading": "Tarkastuslautakunnan ehdotus",
+     "text": "aluevaltuusto päättää valita BDO Audiator Oy:n Satakunnan hyvinvointialueen tilintarkastusyhteisöksi toimikaudeksi 2023–2026 (optio vuosille 2027 ja 2028)."
+    },
+    {
+     "heading": "Päätös",
+     "text": "aluevaltuusto päätti\n\nvalita BDO Audiator Oy:n Satakunnan hyvinvointialueen tilintarkastusyhteisöksi toimikaudeksi 2023–2026 (optio vuosille 2027 ja 2028)."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "tarkastuspäällikkö Kirsi Kangasharju \n\nTarkastuslautakunta 17.9.2026\n\nTarkastuslautakunnan on hyvinvointialuelaissa 125 §:ssä määriteltyjen tehtävien mukaan valmisteltava aluevaltuuston päätettäväksi hallinnon ja talouden tarkastusta koskevat asiat.\n\nVoimassa oleva tilintarkastussopimus päättyy vuoden 2026 tilintarkastukseen. Sopimuksessa on mahdollisuus kahden vuoden option käyttöönottoon.\n\nTilintarkastastusyhteisö on valmis jatkamaan optiovuosien ajan sopimusta voimassaolevin ehdoin."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Tarkastuslautakunta päättää\n\nesittää aluevaltuustolle seuraavaa:\n\nTilintarkastussopimuksesta otetaan kerralla käyttöön molemmat optiovuodet 2027 ja 2028.\n\nSopimusta jatketaan optiokausilla alkuperäisen sopimuksen mukaisin ehdoin. Sopimushinnat säilyvät optiokausien ajan ennallaan, eikä niihin sovelleta hinnantarkistuksia tai muita hinnanmuutoksia."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Kirsi Kangasharju"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Kirsi Kangasharju"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian esittelyteksti tarkastuslautakunnan kokouksessa 17.9.2026 § 63."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluevaltuusto päättää\n\nottaa kerralla käyttöön tilintarkastussopimuksen molemmat optiovuodet 2027 ja 2028.\n\nsopimusta jatketaan optiokausilla alkuperäisen sopimuksen mukaisin ehdoin. Sopimushinnat säilyvät optiokausien ajan ennallaan,​ eikä niihin sovelleta hinnantarkistuksia tai muita hinnanmuutoksia."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Tarjousten vertailutaulukko.pdf (pdf, 58 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{f1b47a7b-d65e-436b-b7ba-fcb29021bd34}/48893"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "69",
+   "title": "Vastine valtuustoaloitteeseen koskien selvitystä tekoälyn käyttöönotosta päivittäisissä työtehtävissä, töiden tehostamiseksi ja resurssien uudelleen organisoimiseksi hyvinvointialueen eri yksiköissä",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/15989/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Jani Lavonen",
+   "presenter": "Tero Mäkiranta, hyvinvointialuejohtaja",
+   "proposal": "Aluevaltuusto päättää\n\nmerkitä tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa,​ että aloite on loppuun käsitelty.",
+   "decision": "Päätösehdotus hyväksyttiin yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "SATAHADno-2025-10810\n\nAikaisempi käsittely\n\nAluehallitus, 16.6.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Jani Lavonen"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Valtuustoaloitteessa esitetään, että hyvinvointialue selvittää tekoälyn käyttöönottoa päivittäisissä työtehtävissä työn tehostamiseksi ja resurssien tarkoituksenmukaisemmaksi kohdentamiseksi eri yksiköissä. Aloite on tavoitteeltaan perusteltu ja ajankohtainen. Satakunnan hyvinvointialueella on jo valmisteltu tekoälyn hyödyntämistä ohjaavaa kokonaisuutta, johon kuuluvat tekoälypolitiikka, tekoälyn hallintamalli, käyttäjäpolitiikka sekä käyttöä ohjaavaa lainsäädäntöä kokoava liite. Näiden pohjalta hyvinvointialueella on valmiuksia edetä tekoälyn käyttöönoton selvittämisessä hallitusti, vaiheittain ja vastuullisesti.\n\nTekoäly voi tukea hyvinvointialueen toimintaa monissa päivittäisissä tehtävissä. Valmistelluissa linjauksissa on tunnistettu, että tekoälyä voidaan hyödyntää esimerkiksi tietomassojen analysoinnissa, raporttien ja esitysten laadinnassa, ennusteiden tuottamisessa, palvelutarpeiden arvioinnin tukena, prosessien ja palveluketjujen kehittämisessä sekä johtamisen tueksi tarvittavan tiedon käsittelyssä. Tavoitteena ei ole korvata ammattilaisten harkintaa tai siirtää päätösvaltaa tekoälylle, vaan käyttää tekoälyä henkilöstön työn tukena siten, että aikaa vapautuu ydintehtäviin ja asiakas- ja potilastyöhön.\n\nTekoälyn käyttöönottoa ei kuitenkaan voida toteuttaa pelkästään tehokkuusnäkökulmasta, vaan sen tulee aina perustua lainsäädännön, tietosuojan, tietoturvan, eettisyyden ja hyvän hallinnon vaatimuksiin. Hyvinvointialueen valmistelluissa asiakirjoissa korostetaan, että tekoäly toimii ihmisen valvonnassa ja että vastuu päätöksistä säilyy aina työntekijällä tai toimivaltaisella viranhaltijalla. Erityisesti henkilötietojen, potilastietojen ja muiden luottamuksellisten tietojen käsittelyssä voidaan käyttää vain hyvinvointialueen hyväksymiä ratkaisuja ja vain niille määriteltyihin käyttötarkoituksiin. Julkisiin tekoälypalveluihin ei saa syöttää luottamuksellisia, arkaluonteisia tai henkilötietoja.\n\nHyvinvointialueen tekoälyn hallintamallissa on kuvattu menettely, jolla uudet tekoälyratkaisut arvioidaan ennen käyttöönottoa. Mallin mukaisesti tekoälyhankkeille tehdään ensin kynnysarvio, jossa tunnistetaan muun muassa tietosuojaan, perusoikeuksiin, tekoälyriskeihin, dataan, arkkitehtuuriin ja tietoturvaan liittyvät vaatimukset. Tarvittaessa tämän jälkeen tehdään laajemmat vaikutustenarvioinnit, kuten tietosuojaa koskeva vaikutustenarviointi, perusoikeusvaikutusten arviointi sekä tekoälyriskien arviointi. Näin varmistetaan, että käyttöönotettavat ratkaisut ovat tarkoituksenmukaisia, turvallisia ja hyvinvointialueen toimintaan soveltuvia.\n\nValmistellun ohjausmallin mukaan aluehallitus vastaa strategisista ja periaatteellisista linjauksista, hyvinvointialuejohtaja vastuuhenkilöiden nimeämisestä ja yleisen ohjeistuksen ajantasaisuudesta, tietosuojan ja tietoturvan ohjausryhmä organisaatiotason tietosuoja- ja tietoturvalinjauksista sekä toimialueet ja tietojärjestelmien vastuuhenkilöt käyttötarkoitusten, riskiarvioiden, käyttöönoton ja seurannan toteuttamisesta. Esihenkilöiden tehtävänä on huolehtia henkilöstön osaamisesta, ja työntekijöiden velvollisuutena on noudattaa ohjeita sekä raportoida poikkeamista. Käytännössä hyvinvointialueella voidaan käyttää vain hyväksyttyjä tekoälyratkaisuja, joista ylläpidetään ajantasaista luetteloa osana tietojärjestelmärekisteriä.\n\nEdellä olevan perusteella voidaan todeta, että hyvinvointialue pitää tekoälyn hyödyntämisen selvittämistä päivittäisissä työtehtävissä tarpeellisena ja tarkoituksenmukaisena. Selvitystyötä on jo tehty laatimalla käyttöönottoa ohjaavat politiikat, hallintamalli ja käyttäjäohjeistus. Seuraavassa vaiheessa tekoälyn hyödyntämistä on perusteltua edistää tunnistamalla toimialueilta konkreettiset käyttökohteet, arvioimalla niiden hyödyt, riskit ja vaatimukset sekä toteuttamalla käyttöönotot vaiheittain hyväksyttyjen menettelyjen mukaisesti. Tavoitteena on parantaa toiminnan sujuvuutta, tukea henkilöstön työtä, vahvistaa tiedolla johtamista ja kohdentaa resursseja nykyistä vaikuttavammin kuitenkaan vaarantamatta tietosuojaa, tietoturvaa, yhdenvertaisuutta tai hyvän hallinnon periaatteita.\n\nVastineena valtuustoaloitteeseen todetaan, että aloite on otettu huomioon hyvinvointialueen käynnissä olevassa valmistelussa. Hyvinvointialue selvittää ja edistää tekoälyn käyttöönottoa päivittäisissä työtehtävissä hallitusti, riskiperusteisesti ja voimassa olevan lainsäädännön sekä hyväksyttyjen ohjeiden mukaisesti.\n\nErityisessä seurannassa ja arvioinnissa on tekoälyn käytön kustannusten muodostuminen ja niiden arviointi laajemmassa palvelutuotannossa. Käytön kustannukset syntyvät käytettäessä ja mitä enemmän tekoälylle syöttää kysymyksiä ja tehtäviä sitä enemmän sen käyttö maksaa. Harvassa kohteessa voidaan käyttö kustannustehokkaasti maksaa kiinteinä kuukausi- tai vuosikustannuksina. Tekoälyn käytön budjetointi on siis haastavaa.\n\nKonkreettisia toimenpiteitä ja tekoälyn hyödyntämistä on tehty vuosina 2025 ja 2026 seuraavasti:\n\nKokeilujen vuosi 2025\n\n• Lukuisia tekoälykokeiluja erilaisiin käyttötarkoituksiin ja käyttäjäryhmille.\n\n• Puheentunnistus ja rakenteinen kirjaaminen\n\n• Sosiaalityön tekoälyassari\n\n• Rakenteisen kirjaamisen ja tilastoinnin apu\n\n• Terveydenhuollon ammattilaisen kooste tai epikriisi (virtuaalikirjuri)\n\n• Työsuhdepalveluiden HR-helppi\n\n• Asiakaspalvelun -chatbot\n\n• Sata-sovelluksen kirjaamisapu\n\n• Lääkityspoikkeamien seuranta\n\n• Kotihoidon tuki iäkkäillä\n\n• Pitkäaikaisasiakkaiden tunnistaminen päivystyspotilaista ja automaattinen ohjaus sote-keskukseen\n\n• Palvelu ja hoitosuunnitelman automatisointi\n\n• Hallinnon tekoälytarpeiden kokeilut Microsoft CoPilotin avulla\n\n• Väestön palvelutarpeen ennakointi neuvolapalveluissa\n\n• Verkkosivujen kääntäjä ja ääneen lukija - VoiceAI\n\n• AI avusteinen tulkkipalvelu\n\nJatkokokeilua ja tuotannon muutosta 2026\n\n• Fokus kohtaamisten kirjausten automaatiossa sekä terveys-, että sosiaalipalveluissa\n\n• Tavoitteena ratkaista myös mobiilikäyttöinen automaattinen kirjaaminen\n\n• Tekoäly-agentteja otetaan käyttöön esim. ohjeiden löytämisessä ja\n\ntukipalvelupyyntöjen muodostamisessa osana palvelupyyntöjärjestelmän kehitystä\n\n• Sata-sovelluksen kirjaamisapu - tuotannossa\n\n• Lääkityspoikkeamien seuranta - tuotannossa\n\n• Kotihoidon tuki iäkkäillä kokeilu jatkuu edelleen.\n\n• Verkkosivujen kääntäjä ja ääneen lukija VoiceAI - tuotannossa\n\n• AI avusteinen tulkkipalvelu – käytettävissä\n\n• Koko henkilöstön käytössä oleva internet tekoälyapuri – CoPilot\n\n• Automaattinen murtumantunnistus RTG-kuvauksessa (pilotissa)\n\nAloite voidaan katsoa tällä vastineella loppuun käsitellyksi."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus päättää\n\nmerkitä tiedoksi ja ehdottaa aluevaltuustolle, että aluevaltuusto merkitsee tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa, että aloite on loppuun käsitelty"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Tero Mäkiranta, hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Jani Lavonen"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian esittelyteksti aluehallituksen kokouksessa 16.6.2026 § 186."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluevaltuusto päättää\n\nmerkitä tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa,​ että aloite on loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Selvitys tekoälyn käyttöönotosta päivittäisissä työtehtävissä, töiden tehostamiseksi ja resurssien uudelleen organisoimiseksi hyvinvointialueen eri yksiköissä, Perussuomalaisten aluevaltuustoryhmä, valtuustoaloite 6.10.2025.pdf (pdf, 310 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{ce8c3917-9f7f-4217-8d11-9cbd05a0ad38}/48886"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "70",
+   "title": "Vastine valtuustoaloitteeseen koskien resursseiltaan merkittävien hankkeiden/projektien hyväksyntää aluehallitukseen",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/15995/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Mari Niemi; Juha-Pekka Heikkonen",
+   "presenter": "Tero Mäkiranta, hyvinvointialuejohtaja",
+   "proposal": "Aluevaltuusto päättää\n\nmerkitä tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa,​ että aloite on loppuun käsitelty.",
+   "decision": "Päätösehdotus hyväksyttiin yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "SATAHADno-2025-4994\n\nAikaisempi käsittely\n\nAluehallitus, 1.9.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Mari Niemi\n\nJuha-Pekka Heikkonen"
+    },
+    {
+     "heading": "Perustelut",
+     "text": ""
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Aloitteessa (5.5, Jaspa) esitetään, että hyvinvointialueen aluehallitus päättäisi jatkossa kaikkien yli 50 000 euron arvoisten hankkeiden ja/tai projektien käynnistämisestä ja päättämisestä. Aloitteen tavoitteena on lisätä päätöksenteon läpinäkyvyyttä ja poliittista ohjausta.\n\nVastine\n\nHyvinvointialueen kokonaisbudjetti on noin 1,1 miljardia euroa vuodessa. Näin ollen 50 000 euron kynnys kattaa erittäin suuren määrän kehityshankkeita ja niihin liittyviä hankintoja, jotka liittyvät päivittäisen palvelutuotannon järjestämiseen, lakisääteisten velvoitteiden täyttämiseen sekä toiminnan jatkuvuuden turvaamiseen. Käytännössä tällaisia kehityshankkeita ja/tai niihin liittyviä hankintoja syntyy vuositasolla satoja.\n\nAluehallituksen rooli on strateginen. Se linjaa hyvinvointialueen toiminnan tavoitteita, taloudelliset reunaehdot ja keskeiset kehittämissuunnat aluevaltuuston asettaman strategian ja hyväksymän talousarvion puitteissa. Operatiivinen päätöksenteko, mukaan lukien yksittäisten kehityshankkeiden käynnistäminen hyväksyttyjen määrärahojen puitteissa, on tarkoituksenmukaista säilyttää operatiivisesta toiminnasta vastaavan viranhaltijajohdon vastuulla. Tällä työnjaolla pyritään varmistamaan sujuva, oikea-aikainen ja resurssitehokas päätöksenteko.\n\nEsitetty malli edellyttäisi aluehallitukselta merkittävää määrää ajankäyttöä nykyisen lisäksi. Tämä saattaisi olla haasteellista, koska kokousaikataulut ovat jo nykyisellään varsin kiireisiä. Aluehallituksen kokousaikaa tulisi näin ollen käyttää ensisijaisesti strategiseen ohjaukseen, kokonaiskuvan hallintaan ja poliittiseen keskusteluun.\n\nHyvinvointialueen kehittämisprojektit perustuvat toiminnan ja talouden tunnistettuihin tarpeisiin. Niiden on oltava myös strategian mukaisia. Projektien tulee noudattaa myös talousarvion tai ulkoisen rahoituksen, vuosittaisen toiminnan ja talouden suunnittelun sekä voimassa olevien hankintaohjeiden ja delegointipäätöksien velvoitteita. Hankkeiden poliittinen ohjaus toteutuu tällä hetkellä talousarvion, strategisten linjausten ja toimielinten asettamien tavoitteiden kautta.\n\nSata-alueella otettiin kesäkuussa 2024 käyttöön Satapro-projektijohtamismalli, jonka lähtökohtana on, että projektijohtaminen on osa organisaation operatiivista johtamista. SataPro-malli ohjaa projektien etenemistä valmistelusta hyötyjen seurantaan. Mallissa on kuvattu projektijohtamisen prosessit, roolit ja tehtävät. Systemaattinen projektien toteuttaminen sisältää etukäteen tehtävän arvioinnin projektin tarpeesta, strategian mukaisuudesta, odotetuista hyödyistä ja tarvittavista resursseista. Projektijohtamismalliin kuuluu, että jokaisella projektille nimetään linjajohdosta omistaja, jonka tehtävänä on varmistaa sekä projektin toteuttaminen suunnitelmallisesti että projektin tuotosten käyttöönotto ja hyödyntäminen. Lisäksi projektijohtamiseen kuuluu salkunjohdon rooli, joka tarkastelee projektikokonaisuutta, ja viime kädessä hyväksyy tai hylkää projektit. Projektijohtamismalliin sisältyy myös mahdollisuus keskeyttää projekti, mikäli se ei tuota niitä hyötyjä, joita sille on asetettu, sillä systemaattinen toteutuksen seuranta tekee projektit läpinäkyviksi.\n\nSatapro-malli koskee kaikkia projektin kriteerit täyttäviä kehittämis- ja ICT-projekteja. Sen lisäksi malliin kuuluu, että myös muut projektit, kuten pienimuotoiset toiminnan kehittämistehtävät, jotka eivät täytä projektin määritelmää, tai kumppanuusprojektit, joissa Sata-alueella ei ole varsinaista toteuttajaroolia, listataan näkyväksi.\n\nSatapro-mallin hyödyt on huomattu jo pienessä ajassa. Projektien ja salkun johtaminen mallin mukaisesti tekee projektit näkyväksi yhtenäisellä tavalla, tehostaa projektityötä ja parantaa kommunikointia. Malli kytkee projektit strategiaan sekä antaa työkalut projektien valintaan ja priorisointiin. Mallissa varmistetaan, että projektin johtamiseen käytetään riittävästi aikaa ja oikeita menetelmiä, mikä vähentää turhaa byrokratiaa (ABC-luokittelu). Mallin mukainen systemaattinen projektijohtaminen motivoi projekteihin osallistujia hyvään projektinjohtamiseen, kun roolit (kuten salkunjohto, omistaja, projektipäällikkö, ohjausryhmä) on määritelty. Malli lisää ketteryyttä ja ohjaa resursseja eniten arvoa tuottavaan työhön. Myös päätöksenteko nopeutuu. Projektit eivät ole siis erillisiä operatiivisesta toiminnasta, vaan osa organisaation normaalia toimintaa, eikä niitä pidä siitä etäännyttää.\n\nSatapro-mallin teknisenä työkaluna käytetään Thinking Portfoliota, johon projektit kuvataan. Sata-alueen kaikilla työntekijöillä on pääsy Thinking Portfolioon, mikä lisää entisestään projektien läpinäkyvyyttä. Työkalu mahdollistaa myös projekteja koskevien raporttien ja yhteenvetojen ketterän laatimisen.\n\nVastaavia ABC projektijohtamismalliin™ -perustuvia malleja on käytössä myös muilla hyvinvointialueilla ja julkisella sektorilla laajasti. Projektijohtamismallin kehittäminen on sisällytetty myös YTA-sopimukseen, ja benchmarkingia YTA-alueen muiden hyvinvointialueiden kanssa tehdään jatkuvasti mallin käyttöönotossa ja kehittämisessä. Sata-alue on edennyt tässä etulinjassa.\n\nAloitteen sinällään hyvin kannatettavia tavoitteita voidaan edistää tarkoituksenmukaisella tavalla seuraavasti:\n\nstrategisesti merkittävimmät kehittämis- ja ICT-hankkeet esitellään aluehallitukselle vuosittain joko osana talousarviokäsittelyä, hankintasuunnitelman esittelyn yhteydessä tai erillisessä katsauksessa.\n\nTällainen menettely vahvistaa aluehallituksen strategista ohjausroolia, lisää läpinäkyvyyttä ja kokonaiskuvan hallintaa, mutta säilyttää samalla operatiivisen päätöksenteon sujuvuuden."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "​​​​​Aluehallitus päättää\n\nmerkitä tiedoksi ja ehdottaa aluevaltuustolle, että aluevaltuusto merkitsee tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa, että aloite on loppuun käsitelty."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Tero Mäkiranta, hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Mari Niemi\n\nJuha-Pekka Heikkonen"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian esittelyteksti aluehallituksen kokouksessa 1.9.2026 § 492."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluevaltuusto päättää\n\nmerkitä tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa,​ että aloite on loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Resursseiltaan merkittävien hankkeiden-projektien hyväksyntä aluehallitukseen, Marjo Jaspa, valtuustoaloite 5.5.2025.pdf.pdf (pdf, 523 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{29fad09c-0827-4e76-94d5-1f08f510dd09}/48889"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "71",
+   "title": "Vastine valtuustoaloitteeseen koskien dynaamisen hankintajärjestelmän käyttöönottoa lähiruoan ja kotimaisen tuotannon vahvistamiseksi Satakunnan hyvinvointialueella",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/15996/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Kati Moisio; Juha-Pekka Heikkonen",
+   "presenter": "Tero Mäkiranta, hyvinvointialuejohtaja",
+   "proposal": "Aluevaltuusto päättää\n\nmerkitä tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa,​ että aloite on loppuun käsitelty.",
+   "decision": "Päätösehdotus hyväksyttiin yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "SATAHADno-2025-10815\n\nAikaisempi käsittely\n\nAluehallitus, 1.9.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Kati Moisio\n\nJuha-Pekka Heikkonen"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Aloitteessa (6.10.2025, Rautanen) esitetään, että hyvinvointialueella käynnistetään selvitys dynaamisen hankintajärjestelmän käyttöönotosta elintarvikehankinnoissa ja valmistellaan ehdotus järjestelmän käyttöönotosta.\n\nVastine\n\nSatakunnan hyvinvointialueen elintarvikehankinnoissa huomioidaan elintarvikkeiden laatu, ilmasto- ja ympäristövaikutukset, eläinten hyvinvointi sekä vastuullisuusnäkökohdat. Hankinnoissa edistetään kotimaisen ja paikallisen tuotannon käyttöä siltä osin kuin se on yhteensopivaa palvelutuotannon vaatimusten, toimitusvarmuuden ja kokonaistaloudellisen edun kanssa.\n\nElintarvikelainsäädäntö velvoittaa ateriapalvelutoimintaa ja kuljetuslogistiikkaa noudattamaan tarkkoja säädöksiä elintarviketurvallisuuden varmistamiseksi koko tuotanto- ja palveluketjussa. Toimintaa valvotaan viranomaisten toimesta, ja vaatimusten täyttäminen edellyttää hallittuja ja yhtenäisiä toimitusketjuja.\n\nEnnen elintarvikehankintojen kilpailutuksia toteutetaan markkinakartoituksia, joiden avulla selvitetään toimittajien mahdollisuudet tarjota tuotteita koko hyvinvointialueelle useamman vuoden mittaisen hankintakauden ajan. Markkinakartoituksilla varmistetaan hankintalain edellyttämä avoimuus ja suhteellisuus sekä se, että asetetut vaatimukset vastaavat todellista markkinatilannetta.\n\nHyvinvointialueen ateriapalvelut hankkivat suuria toimituseriä sekä pitkälle esikäsiteltyjä tuotteita. Pientoimijoilla ei kaikissa tuotekategorioissa ole mahdollisuutta toimittaa vaadittuja määriä tai sellaisia tuotteita (esimerkiksi kypsät vakuumipakatut lihatuotteet, pakastetuotteet ja muut suurivolyymiset tuotteet), joita keskitetty ruokatuotanto edellyttää. Toimitusvarmuus ja tuotannon jatkuvuus ovat keskeisiä vaatimuksia, joita hankintalainsäädäntö edellyttää huomioitavaksi hankinnan kohteen luonteen perusteella.\n\nPääsääntöisesti kaikki Satakunnan hyvinvointialueella käytössä olevat elintarvikkeet, jotka ovat saatavilla kotimaisina, sisältyvät elintarvikevalikoimaan. Tarjouspyyntöjen laatu- ja vastuullisuuskriteereillä varmistetaan kotimaisten ja paikallisten tuotteiden käyttö niiltä osin kuin se on mahdollista. Tarjouspyynnöt jaetaan alueellisiin osiin silloin kun se on mahdollista, ja tällä hetkellä paikallisilta toimijoilta hankitaan muun muassa osa maitotuotteista, leivät ja konditoriatuotteet sekä osa peruna- ja kalatuotteista.\n\nKeskitetty tukkutoimija mahdollistaa yksittäisten lähituotteiden hyödyntämisen osana laajempaa toimitusketjua sekä varmistaa korvaavat tuotteet saatavuushäiriöissä. Tämä on keskeistä hyvinvointialueen ateriapalveluiden huoltovarmuuden ja varautumisen kannalta.\n\nSatakunnan hyvinvointialue tuottaa ateriapalveluita maantieteellisesti laajalle alueelle, jota varten tuotetaan päivittäin yli 10 000 ateriaa. Ateriapalveluiden tulee tuottaa yhdenvertaiset ateriat kaikille asiakkaille, mikä edellyttää yhtenäistä raaka-aine- ja tuotevalikoimaa kaikissa keittiöissä. Laajan alueen ja suuren volyymin vuoksi hankintojen pilkkominen useille toimijoille ei ole logistisesti eikä taloudellisesti mahdollista samalla tavoin kuin pienemmissä kunnissa, joissa tuotantovolyymi on tyypillisesti varsin maltillinen eivätkä prosessi- tai laatupoikkeamat muodosta yhtä suurta riskiä kuin terveydenhuollon toimialan ateriapalveluissa.\n\nDynaaminen hankintajärjestelmä on hankintalain mukainen menettely, joka soveltuu parhaiten toistuvien ja tavanomaisten hankintojen kilpailuttamiseen tilanteissa, joissa toimitusvarmuuden vaatimukset eivät ole kriittisiä. Sitä on käytetty menestyksekkäästi hyödyksi myös elintarvikehankinnoissa, mutta hyvinvointialuetta merkittävästi pienemmillä volyymeillä. Hyvinvointialueen keskuskeittiötoiminnassa dynaamiselle hankintajärjestelmälle tyypilliset, jatkuvat minikilpailutukset lisäisivät hallinnollista kuormitusta ja prosessikustannuksia sekä heikentäisivät toimitusketjun ennakoitavuutta, eikä menettelyn siten voida katsoa olevan kokonaistaloudellisesti tarkoituksenmukaisin elintarvikehankinnoissa.\n\nHyvinvointialueella on aiemmin ollut elintarvikehankinnoissaan käytössä dynaaminen hankintajärjestelmä. Edellä mainituista, toimitusketjun ennakoitavuuteen liittyvistä syistä, dynaamista hankintajärjestelmää ei käytännössä kuitenkaan ole voitu hyvinvointialueella hyödyntää toistuviin minikilpailutukseen. Minikilpailutusten prosessikustannukset olisivat hyvinvointialueen käytössä olevan laajan valikoiman ja tuotantovolyymin takia todennäköisesti ylittäneet siitä saadut hyödyt. Dynaamista hankintajärjestelmää voidaan kuitenkin esimerkiksi kuukausikohtaisten minikilpailutusten lisäksi hyödyntää myös pidempien sopimuskausien kilpailutuksessa. Hyvinvointialue päätyi aiemmin käyttämään dynaamista hankintajärjestelmää edellä mainitulla tavalla. Tehtäessä pidempiä sopimuksia dynaaminen hankintajärjestelmä ei kuitenkaan enää juurikaan eroa niin sanotusta puitejärjestelystä, joka on hankintalain mukainen menettely sellaisille hankinnoilla, joissa tyypillisesti laaditaan hankintamenettelyn sisäisiä, vähintään vuoden mittaisia sopimuksia. Näistä syistä johtuen viimeisimmissä kilpailutuksissa hyvinvointialue on päätynyt dynaamisen hankintajärjestelmän sijaan käyttämään puitejärjestelyä hankintamenettelynä, joskaan dynaamisen hankintajärjestelmän käyttöön palaamista ei tulevaisuudessa ole poissuljettu.\n\nHyvinvointialue pitää valtuustoaloitteen tavoitteita perusteltuina ja kannatettavina. Paikallisen ja kotimaisen ruoantuotannon edistäminen tukee alueellista elinvoimaa, vastuullisuutta ja ruokajärjestelmän kestävyyttä. Vaikka dynaamisen hankintajärjestelmän ei katsota tällä hetkellä olevan kaikkein tarkoituksenmukaisin menettely keskuskeittiötoiminnan elintarvikehankinnoissa, aloitteessa esiin nostettuja tavoitteita edistetään muilla hankintalainsäädännön sallimilla ja toiminnallisesti kestävillä keinoilla.\n\nPaikallista ruoantuotantoa voidaan tukea muun muassa:\n\njakamalla hankintoja osiin silloin, kun se on toimitusvarmuuden ja volyymien näkökulmasta mahdollista\n\nhyödyntämällä kausiperusteisia ja rajattuja erillishankintoja\n\nasettamalla tarjouspyyntöihin laatu-, vastuullisuus- ja tuoreuskriteereitä\n\ntoteuttamalla markkinavuoropuhelua paikallisten toimijoiden kanssa\n\nNäillä toimenpiteillä hyvinvointialue voi edistää aloitteen tavoitteita aidosti ja vaikuttavasti samalla varmistaen ateriapalveluiden toimitusvarmuuden, yhdenvertaisuuden ja kokonaistaloudellisen kestävyyden."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus päättää\n\nmerkitä tiedoksi ja ehdottaa aluevaltuustolle, että aluevaltuusto merkitsee tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa, että aloite on loppuun käsitelty."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Tero Mäkiranta, hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Kati Moisio\n\nJuha-Pekka Heikkonen"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian esittelyteksti aluehallituksen kokouksessa 1.9.2026 § 493."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluevaltuusto päättää\n\nmerkitä tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa,​ että aloite on loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Dynaamisen hankintajärjestelmän käyttöönotto lähiruoan ja kotimaisen tuotannon vahvistamiseksi Satakunnan hyvinvointialueella, Maria Rautanen, valtuustoaloite 6.10.2025.pdf (pdf, 854 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{b142c87b-fd1b-4dca-aa54-783856a20f23}/48890"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "72",
+   "title": "Vastine valtuustoaloitteeseen koskien hyvinvointialueen osallistumista maakunnallisen joukkoliikenteen kehittämiseen palvelujen saavutettavuuden parantamiseksi",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/15997/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Jarno Valtanen",
+   "presenter": "Tero Mäkiranta, hyvinvointialuejohtaja",
+   "proposal": "Aluevaltuusto päättää\n\nmerkitä tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa,​ että aloite on loppuun käsitelty.",
+   "decision": "Päätösehdotus hyväksyttiin yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "SATAHADno-2025-2771\n\nAikaisempi käsittely\n\nAluehallitus, 1.9.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Jarno Valtanen"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Kaupunkiseutujen ulkopuolisessa alueellisessa joukkoliikenteessä valtion viranomainen vastaa liikennepalveluiden järjestämisestä. Vuoden 2026 alusta lukien näistä tehtävistä vastaa Liikenne- ja viestintävirasto Traficom. Traficom toimii toimivaltaisena joukkoliikenneviranomaisena niillä alueilla, jotka eivät kuulu kaupunkiseutujen omien joukkoliikenneviranomaisten toimialueisiin, kuten esimerkiksi Porin joukkoliikenteen, Rauman Gyytin, HSL:n, Nyssen tai Fölin alueille (laki liikenteen palveluista (320/2017) sekä Euroopan parlamentin ja neuvoston palvelusopimusasetus (EY) N:o 1370/2007).\n\nKäytännössä Satakunnassa joukkoliikenteen järjestämisvastuut jakautuvat pääosin:\n\nPori, Ulvila, Nakkila, Harjavalta, Kokemäki: Porin seudun tieliikenteen toimivaltainen viranomainen vastaa joukkoliikennepalveluiden järjestämisestä.\n\nRauma: Rauman kaupunki tieliikenteen toimivaltaisena viranomaisena vastaa joukkoliikennepalveluiden järjestämisestä.\n\nMuu Satakunta (esim. Kankaanpää, Huittinen, Eura, Säkylä, Eurajoki, Jämijärvi, Karvia, Pomarkku, Siikainen ym.): Traficom hankkii valtion ostamaa bussiliikennettä sinne, missä markkinaehtoista liikennettä tai kuntien järjestämää liikennettä ei ole riittävästi.\n\nTraficom suunnittelee joukkoliikenteen palvelut alueellisina kokonaisuuksina ja sovittaa yhteen eri henkilökuljetusmuotoja mahdollisimman tarkoituksenmukaisesti. Suunnittelun perustana ovat alueelliset palvelutasosuunnitelmat, joissa arvioidaan joukkoliikenteen käyttäjäpotentiaalia sekä määritellään yhteysväleittäin alueen tarpeita vastaava palvelutaso.\n\nSatakunnan hyvinvointialue tunnistaa joukkoliikenteen merkityksen palveluiden saavutettavuuden, asukkaiden yhdenvertaisuuden sekä alueellisen elinvoiman näkökulmasta. Hyvinvointialueen taloudellinen tilanne on kuitenkin haastava, eikä hyvinvointialueella ole tällä hetkellä taloudellisia mahdollisuuksia osallistua joukkoliikenteen rahoittamiseen tai avointen joukkoliikennepalveluiden järjestämiseen.\n\nHyvinvointialue voi kuitenkin osaltaan tukea alueellisen liikennejärjestelmän kehittämistä ja palveluiden saavutettavuutta yhteistyössä liikenteestä vastaavien viranomaisten kanssa. Tätä voidaan toteuttaa muun muassa:\n\nosallistumalla maakunnallisiin liikennejärjestelmätyöryhmiin\n\nantamalla lausuntoja joukkoliikennettä ja liikennejärjestelmää koskevista suunnitelmista\n\ntuottamalla pyydettäessä tietoa palveluiden käyttäjien liikkumistarpeista liikenteen järjestämisestä vastaaville viranomaisille\n\ntekemällä yhteistyötä toimivaltaisten joukkoliikenneviranomaisten, Traficomin, Satakuntaliiton sekä muiden keskeisten toimijoiden kanssa\n\ntarkastelemalla mahdollisuuksia yhdistää hyvinvointialueen järjestämiä henkilökuljetuksia avoimeen joukkoliikenteeseen silloin, kun se on toiminnallisesti ja taloudellisesti tarkoituksenmukaista.\n\nEdellä esitetyin perustein hyvinvointialue pitää tärkeänä joukkoliikenteen palvelutason kehittämistä yhteistyössä toimivaltaisten viranomaisten kanssa, mutta ei voi osallistua joukkoliikenteen rahoitukseen. Aloitteessa esille nostetut tavoitteet huomioidaan hyvinvointialueen edunvalvonnassa ja viranomaisyhteistyössä."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus päättää\n\nmerkitä vastineen valtuustoaloitteeseen tiedoksi ja ehdottaa aluevaltuustolle, että aluevaltuusto merkitsee tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa, että aloite on loppuun käsitelty."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Tero Mäkiranta, hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Jarno Valtanen"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian esittelyteksti aluehallituksen kokouksessa 1.9.2026 § 494."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluevaltuusto päättää\n\nmerkitä tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa,​ että aloite on loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Hyvinvointialueen osallistuttava maakunnallisen joukkoliikenteen kehittämiseen palvelujen saavutettavuuden parantamiseksi, Vihreä valtuustoryhmä, valtuustoaloite 10.3.2025.pdf (pdf, 102 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{00d6d5ba-24b6-4ec4-b478-1f1853b7f52d}/48891"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "73",
+   "title": "Vastine valtuustoaloitteeseen koskien muistisairaiden palvelujen kehittämistä Satakunnan hyvinvointialueella",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/15998/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Vesa Kiiski; Henna-Riikka Seppälä",
+   "presenter": "Jaana Männikkö",
+   "proposal": "Aluevaltuusto päättää\n\nmerkitä tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa, että aloite on loppuun käsitelty.",
+   "decision": "Päätösehdotus hyväksyttiin yksimielisesti.",
+   "discussion": "Lautakunta keskusteli valtuustoaloitteen vastineesta ja antoi siihen lausuntonsa. Lausunto pöytäkirjan liitteenä.\n\nAluehallitus, 15.9.2026",
+   "sections": [
+    {
+     "heading": "",
+     "text": "SATAHADno-2026-4204\n\nAikaisempi käsittely\n\nVäestökehityksen ja ikääntyneiden palveluiden lautakunta, 27.8.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Vesa Kiiski\n\nHenna-Riikka Seppälä"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Perussuomalaisten aluevaltuustoryhmä teki aloitteen koskien muistisairaiden palveluja, esittäen ns. Satakunnan mallin kehittämistä. Vastaamme aloitteeseen sekä ikääntyneiden että vammaispalveluiden näkökulmasta.\n\nMuistisairauksien diagnosointi Satakunnan hyvinvointialueella tapahtuu alle 65-vuotiaiden osalta neurologian poliklinikalla ja yli 65-vuotiaiden osalta geriatrisilla poliklinikoilla. Muistisairauksia ennaltaehkäisevää työtä tehdään sekä terveydenhuollon palveluissa että ikääntyneiden palveluissa. Kun muistisairaus todetaan, sen etenemistä pyritään hidastamaan sopivalla lääkityksellä. Arjen sujumista pyritään tukemaan yksilöllisellä neuvonnalla ja ohjauksella sekä soveltuvilla sosiaalihuoltolain mukaisilla palveluilla, kuten kotihoidolla, päivätoiminnalla ja muilla tukipalveluilla. Sairauden edetessä myös omaishoidontuki, perhehoito ja ympärivuorokautinen palveluasuminen ovat tavallisia palveluita useimmille muistisairaille.\n\nSatakunnan hyvinvointialueella on kuvattu muistiasiakkaan palveluketju alle 65- ja yli 65-vuotiaille. Palveluketjussa on huomioitu muistisairauden tunnistamisen, tutkimusten, diagnosoinnin sekä kuntouttavan hoidon ja seurannan vaiheet. Palveluketju ja sen mukainen prosessi on jalkautettu käytäntöön ja tarvittaessa sitä kehitetään, mikäli tarvetta ilmenee.\n\nMuistisairautensa vuoksi henkilö saatetaan katsoa myös vammaiseksi, jolloin hänellä on oikeus vammaispalvelulain mukaisiin palveluihin. Oikeus palvelun saamiseen ei kuitenkaan perustu diagnoosiin, vaan vamman yhdessä yhteiskunnallisten esteiden kanssa aiheuttamaan toimintarajoitteeseen ja siitä johtuvaan avun tai tuen tarpeeseen.\n\nVammaispalveluja järjestetään vammaiselle henkilölle, jos hän täyttää vammaispalvelulain soveltamisalassa määritellyt kriteerit ja palvelukohtaiset myöntämiskriteerit.\n\nVammaispalvelulaissa säädetään soveltamisalasta ja suhteesta muuhun lainsäädäntöön: Vammaisella henkilöllä tarkoitetaan vammaispalvelulaissa henkilöä, joka tarvitsee vamman tai sairauden aiheuttaman pitkäaikaisen fyysisen, kognitiivisen, psyykkisen, sosiaalisen tai aisteihin liittyvän toimintarajoitteen vuoksi välttämättä apua tai tukea tavanomaisessa elämässä.\n\nVammaisen henkilön palvelut järjestetään ensisijaisesti sosiaalihuoltolain, terveydenhuoltolain, ikääntyneen väestön toimintakyvyn tukemisesta sekä iäkkäiden sosiaali- ja terveyspalveluista annetun lain, varhaiskasvatuslain, perusopetuslain tai muun ensisijaisen lain perusteella.\n\nVammaispalvelulain perusteella järjestetään palveluita niille vammaisille henkilöille, joiden toimintarajoitteesta johtuva välttämätön avun ja tuen tarve poikkeaa kyseessä olevaan elämänvaiheeseen tavanomaisesti kuuluvasta avun ja tuen tarpeesta. Vammaispalvelulaissa tarkoitetaan elämänvaiheella ihmisen yleiseen elämänkulkuun kuuluvaa ajanjaksoa, johon liittyy sille tyypillisiä kehitysvaiheita ja tehtäviä. Vammaispalvelulaissa tarkoitettuja elämänvaiheita ovat lapsuus, nuoruus, aikuisuus ja vanhuus.\n\nVammaispalvelulain perusteella järjestetään palveluita vain, jos muussa laissa tarkoitetut palvelut eivät ole henkilön yksilöllisen palvelutarpeen ja edun kannalta sopivia ja riittäviä.\n\nPalvelukohtaiset myöntämiskriteerit tarkoittavat itse palvelua. Esimerkiksi liikkumisen tuki, jossa vammaisella henkilöllä on oikeus saada tarvitsemansa kohtuullinen liikkumisen tuki silloin, kun hänellä on toimintarajoitteensa vuoksi erityisiä vaikeuksia liikkumisessa ja hän ei pysty itsenäisesti käyttämään julkista joukkoliikennettä ilman kohtuuttoman suuria vaikeuksia.\n\nVammaispalveluiden piiriin pääsee siis täyttämällä edellä mainitut vaateet. Kaikki asiakkaat, jotka ovat jättäneet hakemuksen, tavataan esimerkiksi kotikäynnillä. Heille tehdään yksilöllinen palvelutarpeen arviointi, asiakassuunnitelma sekä kirjallinen viranhaltijanpäätös mahdollisista palveluista.\n\nMielestämme muistiasiakkaan palvelupolku on selkeä emmekä näe tarvetta muunlaisen Satakunnan mallin kehittämiseen. Uskomme myös, että syksyllä aloittavat hyvinvointialueen keskitetyt asiakasneuvonnat ohjaavat asiakkaita nopeammin oikeiden palveluiden piiriin."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Väestökehityksen ja ikääntyneiden palveluiden lautakunta päättää:\n\nmerkitä tiedoksi esitetyn vastineen ja ehdottaa, että aluehallitus merkitsee vastineen tiedoksi ja lähettää aloitteen ja vastineen aluevaltuustolle\n\ntarkastaa pöytäkirjan tämän pykälän osalta kokouksessa."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Jaana Männikkö"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    },
+    {
+     "heading": "Kokouskäsittely",
+     "text": "Lautakunta keskusteli valtuustoaloitteen vastineesta ja antoi siihen lausuntonsa. Lausunto pöytäkirjan liitteenä.\n\nAluehallitus, 15.9.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Vesa Kiiski\n\nHenna-Riikka Seppälä"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian esittelyteksti väestökehityksen ja ikääntyneiden palveluiden lautakunnan kokouksessa 27.8.2026 § 44."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus päättää\n\nmerkitä tiedoksi ja ehdottaa aluevaltuustolle, että aluevaltuusto merkitsee tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa, että aloite on loppuun käsitelty"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Tero Mäkiranta, hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti.\n\nEsteellisyys\n\nNiina Immonen ilmoitti olevansa esteellinen asian käsittelyssä (hallintolain 28 § 1 mom 4 kohta) ja poistui kokouksesta asian käsittelyn ja päätöksenteon ajaksi."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Vesa Kiiski\n\nHenna-Riikka Seppälä"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian esittelyteksti väestökehityksen ja ikääntyneiden palveluiden lautakunnan kokouksessa 27.8.2026 § 44 ja aluehallituksen kokouksessa 15.9.2026 § 512."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluevaltuusto päättää\n\nmerkitä tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa, että aloite on loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Muistisairaiden palvelujen kehittäminen Satakunnan hyvinvointialueella, Perussuomalaisten aluevaltuustoryhmä, valtuustoaloite 13.4.2026.pdf (pdf, 584 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{733236cf-94f6-4031-9113-4ab6bf7420b2}/48894"
+    },
+    {
+     "title": "Väestökehityksen ja ikääntyneiden palv. ltk lausunto aloitteeseen, muistisairaiden palvelujen kehittäminen.pdf (pdf, 24 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{e4da4f28-c5a6-471b-89b3-f8cdb2ce60b9}/48902"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "74",
+   "title": "Vastine valtuustoaloitteeseen koskien Sata-alueen kotihoidon mielenterveys- ja päihdetyön tiimin pilotointia",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/15999/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Miia Kivimäki; Katja Lehtonen",
+   "presenter": "Jaana Männikkö",
+   "proposal": "Aluevaltuusto päättää\n\nmerkitä tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa, että aloite on loppuun käsitelty.",
+   "decision": "Päätösehdotus hyväksyttiin yksimielisesti.",
+   "discussion": "Lautakunta keskusteli valtuustoaloitteen vastineesta ja antoi siihen lausuntonsa. Lausunto pöytäkirjan liitteenä.\n\nAluehallitus, 15.9.2026",
+   "sections": [
+    {
+     "heading": "",
+     "text": "SATAHADno-2026-4198\n\nAikaisempi käsittely\n\nVäestökehityksen ja ikääntyneiden palveluiden lautakunta, 27.8.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Miia Kivimäki\n\nKatja Lehtonen"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian vireilletulo\n\nIkääntyneiden palvelut on saanut vastattavakseen valtuustoaloitteen koskien Sata-alueen kotihoidon mielenterveys- ja päihdetyön tiimin pilotointia. Ensimmäisenä allekirjoittajana on Piia Sandelin.\n\nValtuustoaloitteessa mainitaan, että monilla kotihoidon asiakkaiden tilanteissa korostuvat lisääntyvästi mielenterveyden häiriöt sekä päihdeongelmat. Ilman riittävää erityisosaamista riskinä on mm., että asiakkaiden mielenterveys- ja päihdeongelmia ei tunnisteta ja työn kuormittavuus kasvaa.\n\nValtuustoaloitteessa esitetään, että Sata-alue aloittaisi tarvittavat selvitykset ja käynnistäisi kotihoidon mielenterveys- ja päihdetyön tiimin pilotoinnin.\n\nVastine valtuustoaloitteeseen\n\nKotihoidon asiakkuuksissa on laajasti eri-ikäisiä mielenterveys- ja päihdeasiakkaita muiden sairausryhmien ohella. Tutkimuksissa on todettu, että yksistään perussairaudet mm. sydän- ja verisuonisairaudet, diabetes ja keuhkoahtaumatauti lisäävät merkittävästi masennus- ja ahdistuneisuushäiriöitä puhumattakaan syy-seuraussuhteesta ja mahdollisesta päihdeongelmasta näiden lisäksi. Mielenterveys- ja päihdeasiakkaan kohtaamisen perustana ovat kunnioitus, yksilöllisyys, luottamuksen rakentaminen ja asiakkaan voimavarojen tunnistaminen. Kotihoidossa hoitaja kohtaa asiakkaan hänen omassa ympäristössään, mikä jo lähtökohtaisesti tarjoaa hyvän mahdollisuuden kokonaisvaltaisen tilanteen arviointiin. Asiakkaan oma koti hoitoympäristönä tuo myös mukanaan haasteita, sillä itsemääräämisoikeudelle on annettava erityinen painoarvo.\n\nMielenterveys- ja päihdeongelmien kohtaamista on kotihoidossa vahvistettu erilaisilla lisäkoulutuksilla ja ohjeistuksilla vuosien ajan. Myös yhteistyö muiden ammattilaisten kanssa on lisännyt varmuutta asiakkaiden kohtaamiseen ja hoitamiseen.\n\nSatakunnan hyvinvointialueen kotihoidossa on tarkoitus aloittaa syksyllä 2026 pilotti yhdessä kotihoidon tiimissä, jossa paneudutaan erityisesti tällä kertaa mielenterveyshaasteiden kohtaamiseen ja hoitamiseen kotioloissa. Pilotin tavoitteena on vahvistaa ensin tiimin sairaanhoitajien valmiuksia tunnistaa, kohdata ja tukea mielenterveysasiakkaita sekä jakaa tätä tietoa koulutuksen ja kokemuksen perusteella muille tiimin hoitajille.\n\nPilotin aikana sairaanhoitajat opiskelevat mielenterveystyön ydintaidot (vuorovaikutustaidot, asiakkaan ongelmien jäsentäminen), motivoivan haastattelun, ohjatun omahoidon ja akuutin kriisin kohtaamisen. Koulutus pitää sisällään teoriaopetusta ja käytännön harjoittelua asiakkaan omahoidon toteuttamiseksi.\n\nValtuustoaloitteessa esitettyä mallia erillisen mielenterveys- ja päihdetyön tiimin perustamisesta ei pidetä tarkoituksenmukaisena, sillä se ei palvelisi parhaalla mahdollisella tavalla asiakkaiden tarpeita. Erillisen tiimin muodostaminen ja ylläpitäminen on haastavaa hyvinvointialueen laajassa maantieteellisessä toimintaympäristössä. Palvelujen yhdenvertainen saavutettavuus koko alueella on turvattava osana perustason toimintaa, eikä erillinen tiimi takaa yhdenvertaisuutta tasapuolisesti kaikille.\n\nEsitetyssä toimintamallissa on myös riski siitä, että erityisosaaminen keskittyy vain tietyille erillisille toimijoille, jolloin se ei leviä ja vahvista riittävästi koko kotihoidon henkilöstön ammattitaitoa. Lisäksi asiakkaiden mahdollinen siirtely hoitovastuussa olevien tiimien välillä pirstaloisi hoitopolkuja ja heikentäisi hoidon katkeamattomuutta sekä pitkäjänteistä vaikuttavuutta.\n\nHaluamme varmistaa jatkossakin, että kaikilla kotihoidon ammattilaisilla on riittävä osaaminen ja varmuus kohdata erilaisia asiakkaita päivittäisessä työssään. Sosiaali- ja terveydenhuollon peruspalveluissa kaikilla ammattilaisilla tulee olla taito hoitaa kaikenlaisia asiakkaita ja osaamista voidaan vahvistaa koko tiimissä. Koko tiimin vahvistamisen hyötynä on, että asiakkaat saavat tukea omalta tutulta kotihoitotiimiltään ja osaamisen lisääminen tukee pitkäjänteisesti kotihoidon perustehtävää.\n\nPilotin edetessä tarkastelemme vaikutuksia ja kokemuksia asiakas- ja työntekijänäkökulmasta. Tarkoitus on, että koulutettavat sairaanhoitajat jakavat osaamistaan omassa tiimissään ja koulutuksia jatketaan mahdollisesti muissa tiimeissä saatujen tulosten ja hyötyjen perusteella. Pilotin aikana tarkastelemme, miten se tukee sekä palvelun laatua, että henkilöstön työhyvinvointia.\n\nHyvinvointialueen mielenterveys- ja päihdepalveluiden vastuualueen palvelut ulottuvat kaikenikäiseen väestöön. Heidän ydinosaamistaan pystytään hyödyntämään kotihoidossa ja olisikin tavoitteellisempaa jalkauttaa heidän työtään myös asiakkaiden koteihin.\n\nYhteenveto\n\nValtuustoaloitteen mukaista erillistä kotihoidon mielenterveys- ja päihdetyön tiimiä ei pidetä tarkoituksenmukaisena. Malli vaikeuttaisi yhdenvertaisten palvelujen toteutumista laajalla maantieteellisellä alueella. Erillinen tiimi saattaisi myös siilouttaa osaamisen, minkä lisäksi asiakkaiden siirtely heikentäisi hoidon jatkuvuutta.\n\nValtuustoaloitteessa esitetty tavoite mielenterveys- ja päihdeasiakkaiden kohtaamisen sekä sairauksien tunnistamisen kehittämiseksi on perusteltu, ja henkilöstön osaamista tullaan tämän osalta vahvistamaan."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Väestökehityksen ja ikääntyneiden palveluiden lautakunta päättää\n\nmerkitä tiedoksi esitetyn vastineen ja ehdottaa, että aluehallitus merkitsee vastineen tiedoksi ja lähettää aloitteen ja vastineen aluevaltuustolle\n\ntarkastaa pöytäkirjan tämän pykälän osalta kokouksessa."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Jaana Männikkö"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    },
+    {
+     "heading": "Kokouskäsittely",
+     "text": "Lautakunta keskusteli valtuustoaloitteen vastineesta ja antoi siihen lausuntonsa. Lausunto pöytäkirjan liitteenä.\n\nAluehallitus, 15.9.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Miia Kivimäki\n\nKatja Lehtonen"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian esittelyteksti väestökehityksen ja ikääntyneiden palveluiden lautakunnan kokouksessa 27.8.2026 § 43."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus päättää\n\nmerkitä tiedoksi ja ehdottaa aluevaltuustolle, että aluevaltuusto merkitsee tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa, että aloite on loppuun käsitelty"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Tero Mäkiranta, hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Miia Kivimäki\n\nKatja Lehtonen"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian esittelyteksti väestökehityksen ja ikääntyneiden palveluiden lautakunnan kokouksessa 27.8.2026 § 43 ja aluehallituksen kokouksessa 15.9.2026 § 513."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluevaltuusto päättää\n\nmerkitä tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa, että aloite on loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Sata-alueen kotihoidon mielenterveys- ja päihdetyön tiimin pilotointi, Vasemmistoliiton aluevaltuustoryhmä, valtuustoaloite 13.4.2026.pdf (pdf, 767 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{1135fc5c-ffb3-44be-baaa-031922e28910}/48896"
+    },
+    {
+     "title": "Väestökehityksen ja ikääntyneiden palv. ltk lausunto aloitteeseen, kotihoidon mielenterveys- ja päihdetyön tiimin pilotointi.pdf (pdf, 52 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{594f2d45-53d4-49f5-89a8-4a90580482fa}/48903"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "75",
+   "title": "Vastine valtuustoaloitteeseen koskien kotona asuvien muistisairaiden turvallisuuden varmistamista",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/16000/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Miia Kivimäki; Katja Lehtonen",
+   "presenter": "Jaana Männikkö",
+   "proposal": "Aluevaltuusto päättää\n\nmerkitä tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa, että aloite on loppuun käsitelty.",
+   "decision": "Päätösehdotus hyväksyttiin yksimielisesti.",
+   "discussion": "Lautakunta keskusteli valtuustoaloitteen vastineesta ja antoi siihen lausuntonsa. Lausunto pöytäkirjan liitteenä.\n\nAluehallitus, 15.9.2026",
+   "sections": [
+    {
+     "heading": "",
+     "text": "SATAHADno-2026-1587\n\nAikaisempi käsittely\n\nVäestökehityksen ja ikääntyneiden palveluiden lautakunta, 27.8.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Miia Kivimäki\n\nKatja Lehtonen"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian vireilletulo\n\nIkääntyneiden palvelut on saanut vastattavakseen valtuustoaloitteen koskien kotona asuvien muistisairaiden turvallisuuden varmistamista. Ensimmäisenä allekirjoittajana Anne Holmlund.\n\nValtuustoaloitteessa mainitaan, että Satakunnan alueella tapahtuneiden vakavien tilanteiden vuoksi on herännyt huoli, kotona asuvien muistisairaiden henkilöiden turvallisuudesta sekä hoidon ja hoivan riittävyydestä.\n\nValtuustoaloitteessa esitetään, että hyvinvointialueen ikääntyneiden palvelujen tulee ryhtyä välittömiin toimiin selvittääkseen muistisairaiden kotona asuvien henkilöiden hoidon ja huolenpidon sekä turvallisuuden riittävyys. Lisäksi valtuustoaloitteessa esitetään, että kotona asumista tulee tukea mm. riittävän terveysteknologian sekä yöaikaisten palvelujen avulla.\n\nVastine valtuustoaloitteeseen\n\nMuistisairaiden kotona asuvien asiakkaiden turvallisuutta voidaan parantaa erilaisten palvelujen avulla (kotihoito, kuntoutus ja erilaiset tukipalvelut), kodin muutostöillä (esteettömyys, kaatumisvaarojen poisto), lääkityksen ja ravitsemuksen varmistamisella, vahvistamalla henkilöstön osaamista sekä omaishoitajan tuella tai aktiivisella omaisten kanssa tehtävällä yhteistyöllä.\n\nKotihoidon asiakkuuksissa on paljon eriasteisia muistisairaita asiakkaita, joiden palveluntarve määräytyy yksilöllisesti. Kotihoidon hoitajien yhtenä tärkeimpänä tehtävänä on arvioida asiakkaan toimintakykyä kotioloissa ja palvelutarpeen muuttuessa tilanteisiin pitää reagoida heti sekä ryhtyä tarvittaviin toimiin, esimerkiksi lisäämällä kotihoidon käyntejä. Hoitajien tehtävä yhdessä asiakkaan, palveluohjaajan ja esihenkilön kanssa on varmistaa asiakkaan oikea-aikaiset palvelut yhteistyössä omaisten kanssa. Kotona asumista voidaan turvata myös etähoidon (videopuhelu) avulla, jota asiakkaalla voi olla myös kotikäyntien lisäksi.\n\nSatakunnan hyvinvointiteknologiaa on jo laajasti käytössä kotihoidon asiakkailla, myös muistisairailla. Yleisin kotona asumista tukeva teknologiaratkaisu on turvapuhelin, johon voidaan liittää erilaisia lisälaitteita, kuten ovihälytin tai paikantava ranneke. Ovihälytin ja paikantava ranneke hälyttää automaattisesti joko asiakkaan poistuessa kotoaan tai liikkuessa ennalta määritellyn alueen ulkopuolelle. Lääkehoidossa voidaan hyödyntää lääkeannostelurobotteja, joiden avulla voidaan varmistaa oikea-aikainen ja säännöllinen lääkityksen toteutuminen.\n\nLisäksi asiakkaille voidaan viedä kotiin erilaisia sensoriteknologiaratkaisuja. Kotihoidon sensoriteknologialla pystytään havainnoimaan asiakkaan liikkumista ja toimimista kotioloissa, ja saada näin myös ennakoivaa tietoa arjen sujumisesta. Sensoriteknologian tuottaman datan avulla saadaan asiakkaan kokonaistilanteesta kattava kuvaus ja sen perusteella pystytään arvioimaan, mikä asiakkaan toimintakyky on ja miten hän selviytyy päivittäisistä toiminnoista. Hyvinvointiteknologialaitteiden kohdalla tulee kuitenkin huomioida, että asiakkaalta tulee saada suostumus hänen kotiinsa asennettavista laitteista, koska kotihoidon asiakkaiden osalta ei voida toteuttaa rajoitustoimenpiteitä.\n\nKotihoito toimii koko Satakunnassa ympäri vuorokauden, jolloin säännölliset, suunnitellut yökäynnit ovat mahdollisia muistisairaille asiakkaille myös yöaikaan. Kotihoidon yöhoitajat myös tekevät yöaikaiset auttamiskäynnit kaikille turvapuhelinasiakkaille. Jos asiakkaalla on käytössä ovihälytin tai paikantava turvaranneke, kotihoidon hoitajat lähtevät asiakasta tarvittaessa etsimään. Haastavissa tilanteissa kotihoito saa apua etsinnöissä mm. sosiaali- ja kriisipäivystyksen kautta muilta hyvinvointialueen liikkuvilta palveluilta tai poliisilta.\n\nTurvapuhelinpalvelut ovat nyt kevään 2026 aikana kilpailutettu uudelleen ja uusi toimija aloittaa toimintansa hyvinvointialueella helmikuussa 2027. Tällöin koko Satakunnassa on yksi palveluntuottaja nykyisen kahden sijaan. Auttamiskäynnit jatkuvat edelleen kotihoidon tehtävänä, mutta hälytykset ohjautuvat palveluntuottajalle. Auttamiskäynnit ohjataan oikealle työntekijälle kotihoidon koordinaatiokeskuksen kautta jatkossa koko Satakunnan alueella. Koordinaatiokeskus -toimintamalli on otettu käyttöön jo Keski- ja Etelä-Satakunnan alueella.\n\nYhteenveto\n\nHyvinvointialueen ikääntyneiden palveluissa edistetään muistisairaiden henkilöiden turvallista kotona asumista monin eri tukitoimien sekä palveluohjauksen avulla. Hyvinvointiteknologiaratkaisuja on jo laajasti käytössä.\n\nMuistisairaan henkilön itsemääräämisoikeutta tulee kunnioittaa kaikissa sairauden vaiheissa. Kotihoidon henkilöstöllä on kuitenkin lakisääteinen velvollisuus huolehtia asiakkaidensa turvallisesta asumisesta ja päivittäisestä hyvinvoinnista. Ennakoiva ja säännöllinen vuoropuhelu omaisten sekä muiden läheisten kanssa on osa hoitoprosessia jo silloin, kun asiakas kykenee vielä asumaan itsenäisesti kotonaan.\n\nHoitajien tehtävänä on tehdä jatkuvia havaintoja asiakkaan toimintakyvystä ja terveydentilasta. Muuttuneista tilanteista ja mahdollisista riskitekijöistä on raportoitava viipymättä esihenkilölle ja palveluohjauksesta vastaaville tahoille. Mikäli asiakkaan turvallinen kotona asuminen ei enää onnistu, käynnistetään vaihtoehtoisten asumispalvelujen tai muiden tukitoimien suunnittelu yhteistyössä asiakkaan ja hänen omaistensa kanssa."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Väestökehityksen ja ikääntyneiden palveluiden lautakunta päättää\n\nmerkitä tiedoksi esitetyn vastineen ja ehdottaa, että aluehallitus merkitsee vastineen tiedoksi ja lähettää aloitteen ja vastineen aluevaltuustolle\n\ntarkastaa pöytäkirjan tämän pykälän osalta kokouksessa."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Jaana Männikkö"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    },
+    {
+     "heading": "Kokouskäsittely",
+     "text": "Lautakunta keskusteli valtuustoaloitteen vastineesta ja antoi siihen lausuntonsa. Lausunto pöytäkirjan liitteenä.\n\nAluehallitus, 15.9.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Henna-Riikka Seppälä"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian esittelyteksti väestökehityksen ja ikääntyneiden palveluiden lautakunnan kokouksessa 27.8.2026 § 42."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus päättää\n\nmerkitä tiedoksi ja ehdottaa aluevaltuustolle, että aluevaltuusto merkitsee tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa, että aloite on loppuun käsitelty"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Tero Mäkiranta, hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Henna-Riikka Seppälä"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian esittelyteksti väestökehityksen ja ikääntyneiden palveluiden lautakunnan kokouksessa 27.8.2026 § 42 ja aluehallituksen kokouksessa 15.9.2026 § 514."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluevaltuusto päättää\n\nmerkitä tehdyt toimenpiteet tiedoksi vastauksena valtuustoaloitteeseen ja toteaa, että aloite on loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Kotona asuvien muistisairaiden turvallisuuden varmistaminen, Anne Holmlund, valtuustoaloite 9.2.2026.pdf (pdf, 823 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{43bce159-7840-4c06-b015-d0a545576894}/48895"
+    },
+    {
+     "title": "Väestökehityksen ja ikääntyneiden palv. ltk lausunto aloitteeseen, kotona asuvien muistisairaiden turvallisuuden varmistaminen.pdf (pdf, 39 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{352ac2de-b31b-4dcd-8953-fd0dedcaf91f}/48904"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "76",
+   "title": "Osavuosikatsaus 1-6 kk/2026",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/15991/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Jyrki Vatanen; Hannu-Pekka Neuvonen",
+   "presenter": "Tero Mäkiranta, hyvinvointialuejohtaja",
+   "proposal": "Aluevaltuusto päättää\n\nmerkitä osavuosikatsauksen 1-6 kk/2026 tiedoksi.",
+   "decision": "Päätösehdotus hyväksyttiin yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "SATAHADno-2026-1776\n\nAikaisempi käsittely\n\nAluehallitus, 18.8.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Jyrki Vatanen\n\nHannu-Pekka Neuvonen"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Osavuosikatsaus tammi-kesäkuussa v. 2026\n\nTalouden olennaisimmat poikkeamat talousarvioon\n\nTammi-kesäkuussa toimintatuotot ovat toteutuneet 48,4 % mukaisesti. Myyntituotot ja muut toimintatuotot ovat toteutuneet vielä alle talousarvion. Tuet ja avustukset etenkin erillisrahoitettavien hankkeiden osalta toteutuvat suurelta osin loppuvuodesta. Maksutuotot ovat toteutuneet lievästi tasaista toteumaa parempana.\n\nTammi-kesäkuun toteumassa toimintakulut ovat toteutuneet 49,3 % mukaisesti. Henkilöstökulujen toteuma on lievästi alle ohjeellisen toteuman. Palveluiden ostot sekä aineet, tarvikkeet ja tavarat ovat toteutuneet lievästi yli talousarvion tasaisen toteuman. Tiliryhmien toteuma aiheuttaa riskin määrärahan ylitykselle. Avustukset on toteutunut yli talousarvion, mutta eräitä avustuksia on maksettu alkuvuonna koko vuoden osalta. Muut toimintakulut ovat toteutuneet selvästi alle talousarvion, mutta tiliryhmän kuluihin on odotettavissa kasvua vuoden kuluessa.\n\nValtion rahoitus on jaksotettu rahoituslaskelman (18.12.2025) mukaisesti toteumaprosentin ollessa 50 %.\n\nRahoitustuotot ovat toteutuneet alkuvuonna yli talousarvion tasaisen toteuman. Valtion rahoituksesta maksetaan suurempi erä tammikuussa ja kesäkuussa. Tämän ansiosta talletuskoron tuotto on ollut tasaista kertymää suurempi. Tammi-kesäkuun osalta talletuskorkojen tuotto on ollut noin 1,4 Me. Korkokulut ovat toteutuneet alle talousarvion.\n\nPoistot ovat toteutuneet yli talousarvion johtuen T-rakennuksen tasearvon alaskirjauksesta (n. 1,5 Me).\n\nEdellä mainitut poikkeamat huomioiden Satakunnan hyvinvointialueen tammi-kesäkuun tuloslaskelma osoittaa noin 11,5 Me ylijäämää. Tilinpäätösennuste vuodesta 2026 on ylijäämäinen + 2,8 Me.\n\nHyvinvointialuetason talouden toteumassa on esitetty myös vertailu edellisen vuoden vastaavan ajanjakson toteumaan.\n\nHyvinvointialuejohtajan ja toimialuejohtajan katsaukset, investointien toteuma, henkilöstötunnusluvut sekä riskienhallinta\n\nOsavuosikatsaus (liitteenä) sisältää talouden toteuman lisäksi hyvinvointialuejohtajan ja toimialuejohtajien katsaukset tammi-kesäkuulta. Lisäksi osavuosikatsauksessa esitetään toiminnallisten mittareiden toteumaa, investointien toteuma, henkilöstötunnusluvuista olennaiset nostot sekä riskienhallinnan katsaus."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus päättää\n\nmerkitä tiedoksi sekä\n\nesittää aluevaltuustolle, että aluevaltuusto merkitsee osavuosikatsauksen 1–6 kk / 2026 tiedoksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Tero Mäkiranta, hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Jyrki Vatanen"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian esittelyteksti aluehallituksen kokouksessa 18.8.2026 § 200."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluevaltuusto päättää\n\nmerkitä osavuosikatsauksen 1-6 kk/2026 tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Osavuosikatsaus 1-6 kk 2026.pdf (pdf, 693 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{a91f0ab6-a764-4036-b5b4-939dfa9128ef}/48887"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "77",
+   "title": "Satakunnan hyvinvointialueen talouskatsaus 1 -7 kk/ 2026",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/15992/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Jyrki Vatanen; Hannu-Pekka Neuvonen",
+   "presenter": "Tero Mäkiranta, hyvinvointialuejohtaja",
+   "proposal": "Aluevaltuusto päättää\n\nmerkitä tiedoksi talouden toteuman 1-7 kk/2026.",
+   "decision": "Päätösehdotus hyväksyttiin yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "SATAHADno-2026-1776\n\nAikaisempi käsittely\n\nAluehallitus, 1.9.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Jyrki Vatanen\n\nHannu-Pekka Neuvonen"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Talouskatsaus tammi-heinäkuussa v. 2026 (talouden ohjeellinen toteuma - % tammi- heinäkuussa on 58,3 %):\n\nTalouden olennaisimmat poikkeamat talousarvioon\n\nTammi-heinäkuussa toimintatuotot ovat toteutuneet 56,0 % mukaisesti. Myyntituotot ja muut toimintatuotot ovat toteutuneet vielä alle talousarvion. Tuet ja avustukset etenkin erillisrahoitettavien hankkeiden osalta toteutuvat suurelta osin loppuvuodesta. Maksutuotot ovat toteutuneet lievästi tasaista toteumaa parempana.\n\nTammi-heinäkuun toteumassa toimintakulut ovat toteutuneet 56,3 % mukaisesti. Henkilöstökulujen toteuma on selvästi alle ohjeellisen toteuman (55,2 %). Lomapalkkavelan jaksotuksen muutos parantaa tilikauden tulosta heinäkuun tilanteessa 12,9 Me. Tulosta parantava vaikutus alkaa pienentyä vuoden loppua kohden ja lomapalkkavelan jaksotuksen odotetaan olevan lievästi tulosta heikentävä tilinpäätöksessä. Palvelujen ostot ovat toteutuneet lievästi yli talousarvion tasaisen toteuman. Tiliryhmän toteuma aiheuttaa riskin määrärahan ylitykselle. Avustukset on toteutunut yli talousarvion, mutta eräitä avustuksia on maksettu alkuvuonna koko vuoden osalta. Aineet, tarvikkeet ja tavarat tiliryhmän toteuma on tasaantunut ja on hyvin linjassa talousarvioon nähden. Muut toimintakulut ovat toteutuneet selvästi alle talousarvion, mutta tiliryhmän kuluihin on odotettavissa kasvua vuoden kuluessa.\n\nValtion rahoitus on jaksotettu rahoituslaskelman (18.12.2025) mukaisesti toteumaprosentin ollessa 58,3 %.\n\nRahoitustuotot ovat toteutuneet alkuvuonna yli talousarvion tasaisen toteuman. Valtion rahoituksesta maksetaan suurempi erä tammikuussa ja kesäkuussa. Tämän ansiosta talletuskoron tuotto on ollut tasaista kertymää suurempi. Tammi-heinäkuun osalta talletuskorkojen tuotto on ollut noin 1,6 Me. Korkokulut ovat toteutuneet alle talousarvion. Korkokulujen arvioidaan nousevan loppuvuoden aikana, kun talousarviolainaa nostetaan.\n\nPoistot ovat toteutuneet yli talousarvion johtuen T-rakennuksen tasearvon alaskirjauksesta (n. 1,5 Me).\n\nEdellä mainitut poikkeamat huomioiden Satakunnan hyvinvointialueen tammi-heinäkuun tuloslaskelma osoittaa noin 27,2 Me ylijäämää. Tilinpäätösennuste vuoden 2026 tuloksesta esitetään kokouksessa.\n\nHyvinvointialuetason talouden toteumassa on esitetty myös vertailu edellisen vuoden vastaavan ajanjakson toteumaan."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus päättää\n\nmerkitä tiedoksi sekä\n\nesittää aluevaltuustolle, että aluevaltuusto merkitsee talouden toteuman 1–7 kk / 2026 tiedoksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Tero Mäkiranta, hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Jyrki Vatanen"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian esittelyteksti aluehallituksen kokouksessa 1.9.2026 § 487."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluevaltuusto päättää\n\nmerkitä tiedoksi talouden toteuman 1-7 kk/2026."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Talouden toteuma 1-7 kk 2026.pdf (pdf, 49 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{22fb2863-0069-4b34-b967-85efb6f13f45}/48888"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "78",
+   "title": "Satakunnan hyvinvointialueen talouskatsaus 1–8 kk/2026",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/16002/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Jyrki Vatanen; Hannu-Pekka Neuvonen",
+   "presenter": "Tero Mäkiranta, hyvinvointialuejohtaja",
+   "proposal": "Aluevaltuusto päättää\n\nmerkitä tiedoksi talouden toteutuman 1-8 kk/2026.",
+   "decision": "Päätösehdotus hyväksyttiin yksimielisesti.",
+   "discussion": "Aluevaltuutettu Heli Sulkava poistui kokouksesta tämän asian käsittelyn aikana klo 10.11. Varavaltuutettu Marko Pelttari saapui kokoukseen hänen tilalleen klo 10.11.\n\nAluevaltuutettu Jenni Laurila poistui kokouksesta tämän asian käsittelyn aikana klo 10.25. Varavaltuutettu Irmeli Elomaa saapui kokoukseen hänen tilalleen klo 10.25.",
+   "sections": [
+    {
+     "heading": "",
+     "text": "SATAHADno-2026-1776\n\nAikaisempi käsittely\n\nAluehallitus, 29.9.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Jyrki Vatanen\n\nHannu-Pekka Neuvonen"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Talouskatsaus tammi-elokuussa v. 2026 (talouden ohjeellinen toteuma - % tammi- elokuussa on 66,7 %):\n\nTalouden olennaisimmat poikkeamat talousarvioon\n\nTammi-elokuussa toimintatuotot ovat toteutuneet 64,7 % mukaisesti. Myyntituotot ja muut toimintatuotot ovat toteutuneet vielä alle talousarvion. Tuet ja avustukset etenkin erillisrahoitettavien hankkeiden osalta toteutuvat suurelta osin loppuvuodesta. Maksutuotot ovat toteutuneet tasaista toteumaa parempana.\n\nTammi-elokuun toteumassa toimintakulut ovat toteutuneet 64,0 % mukaisesti. Henkilöstökulujen toteuma on selvästi alle ohjeellisen toteuman (62,6 %). Lomapalkkavelan jaksotuksen muutos parantaa tilikauden tulosta elokuun tilanteessa 15 Me. Tulosta parantava vaikutus alkaa pienentyä vuoden loppua kohden ja lomapalkkavelan jaksotuksen odotetaan olevan lievästi tulosta heikentävä tilinpäätöksessä. Palvelujen ostot ovat toteutuneet lievästi yli talousarvion tasaisen toteuman (67,2 %). Tiliryhmän toteuma aiheuttaa riskin määrärahan ylitykselle. Avustukset ovat toteutuneet talousarvion mukaisesti (64,8). Aineet, tarvikkeet ja tavarat tiliryhmän toteuma on tasaantunut ja on hyvin linjassa talousarvioon nähden (65,1 %). Muut toimintakulut ovat toteutuneet selvästi alle talousarvion (57,1 %), mutta tiliryhmän kuluihin on odotettavissa kasvua vuoden kuluessa. Talousarvio tulee joka tapauksessa alittumaan tämän tiliryhmän osalta.\n\nValtion rahoitus on jaksotettu rahoituslaskelman (18.12.2025) mukaisesti toteumaprosentin ollessa 66,7 %.\n\nRahoitustuotot ovat toteutuneet alkuvuonna yli talousarvion tasaisen toteuman. Valtion rahoituksesta maksetaan suurempi erä tammikuussa ja kesäkuussa. Tämän ansiosta talletuskoron tuotto on ollut tasaista kertymää suurempi. Tammi-elokuun osalta talletuskorkojen tuotto on ollut noin 1,8 Me. Korkokulut ovat toteutuneet selvästi alle talousarvion. Korkokulujen arvioidaan nousevan loppuvuoden aikana, mutta jäävän alle talousarvion.\n\nPoistot ovat toteutuneet yli talousarvion johtuen T-rakennuksen tasearvon alaskirjauksesta (n. 1,5 Me).\n\nEdellä mainitut poikkeamat huomioiden Satakunnan hyvinvointialueen tammi-elokuun tuloslaskelma osoittaa noin 36,6 Me ylijäämää. Tilinpäätösennuste vuoden 2026 tuloksesta esitetään kokouksessa.\n\nHyvinvointialuetason talouden toteumassa on esitetty myös vertailu edellisen vuoden vastaavan ajanjakson toteumaan."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus päättää\n\nmerkitä tiedoksi sekä\n\nesittää aluevaltuustolle, että aluevaltuusto merkitsee talouden toteuman 1–8 kk / 2026 tiedoksi\n\ntarkastaa pöytäkirjan tämän pykälän osalta kokouksessa."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Tero Mäkiranta, hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Jyrki Vatanen"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Asian esittelyteksti aluehallituksen kokouksessa 29.9.2026 § 526."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluevaltuusto päättää\n\nmerkitä tiedoksi talouden toteutuman 1-8 kk/2026."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin yksimielisesti."
+    },
+    {
+     "heading": "Kokouskäsittely",
+     "text": "Aluevaltuutettu Heli Sulkava poistui kokouksesta tämän asian käsittelyn aikana klo 10.11. Varavaltuutettu Marko Pelttari saapui kokoukseen hänen tilalleen klo 10.11.\n\nAluevaltuutettu Jenni Laurila poistui kokouksesta tämän asian käsittelyn aikana klo 10.25. Varavaltuutettu Irmeli Elomaa saapui kokoukseen hänen tilalleen klo 10.25."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Talouden toteuma 1-8 kk 2026.pdf (pdf, 40 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{369231ad-0c38-4da3-a678-68fabf1bbba7}/48892"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "79",
+   "title": "Valtuutettujen aloitteet",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/16004/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Merkitään tiedoksi mahdolliset aluevaltuustoaloitteet.",
+   "decision": "Aluevaltuustossa jätettiin viisi (5) aluevaltuustoaloitetta:\n\nRaja-aho Jooa ensimmäisenä allekirjoittajana: Mitä säästöjä suljetut terveysasemat ja hammashoitolat tuovat Sata-alueelle\n\nIsokorpi Kristiina ensimmäisenä allekirjoittajana: Kotihoidon toimintamallien kehittäminen\n\nVasemmistoliiton aluevaltuustoryhmä, Sandelin Piia ensimmäisenä allekirjoittajana: Terveydenhuollon asiakasmaksujen korotuksista ja uusista maksuista pidättäytyminen vuonna 2027\n\nVasemmistoliiton aluevaltuustoryhmä, Hakala Nea ensimmäisenä allekirjoittajana: Lapsiperheiden ennaltaehkäisevien palveluiden turvaaminen\n\nVasemmistoliiton aluevaltuustoryhmä, Salmi Eija ensimmäisenä allekirjoittajana: Raskaudenkeskeytysten maksuttomuus.\n\nAluevaltuusto päätti lähettää aloitteet aluehallituksen valmisteltavaksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Perustelut",
+     "text": "Hallintosäännön 113 §:n mukaisesti kokouskutsussa mainittujen asioiden käsittelyn jälkeen valtuustoryhmällä ja valtuutetulla on oikeus tehdä kirjallisia aloitteita hyvinvointialueen toimintaa ja hallintoa koskevissa asioissa. Aloite annetaan puheenjohtajalle kirjallisesti tai sähköisesti. Sähköisessä kokouksessa aloite lähetetään sähköisesti kokouksen puheenjohtajan ilmoittamalla tavalla.\n\nAloite on, sitä enempää käsittelemättä, lähetettävä aluehallituksen valmisteltavaksi. Aluevaltuusto voi päättää, että aloitteessa tarkoitetun asian valmistelusta käydään lähetekeskustelu.\n\nAluehallituksen on vuosittain toukokuun loppuun mennessä esitettävä aluevaltuustolle luettelo valtuutettujen tekemistä ja aluehallitukselle lähetetyistä aloitteista, joita aluevaltuusto ei edellisen vuoden loppuun mennessä ole lopullisesti käsitellyt. Samalla on ilmoitettava, mihin toimenpiteisiin niiden johdosta on ryhdytty. Aluevaltuusto voi todeta, mitkä aloitteista on käsitelty loppuun."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Merkitään tiedoksi mahdolliset aluevaltuustoaloitteet."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuustossa jätettiin viisi (5) aluevaltuustoaloitetta:\n\nRaja-aho Jooa ensimmäisenä allekirjoittajana: Mitä säästöjä suljetut terveysasemat ja hammashoitolat tuovat Sata-alueelle\n\nIsokorpi Kristiina ensimmäisenä allekirjoittajana: Kotihoidon toimintamallien kehittäminen\n\nVasemmistoliiton aluevaltuustoryhmä, Sandelin Piia ensimmäisenä allekirjoittajana: Terveydenhuollon asiakasmaksujen korotuksista ja uusista maksuista pidättäytyminen vuonna 2027\n\nVasemmistoliiton aluevaltuustoryhmä, Hakala Nea ensimmäisenä allekirjoittajana: Lapsiperheiden ennaltaehkäisevien palveluiden turvaaminen\n\nVasemmistoliiton aluevaltuustoryhmä, Salmi Eija ensimmäisenä allekirjoittajana: Raskaudenkeskeytysten maksuttomuus.\n\nAluevaltuusto päätti lähettää aloitteet aluehallituksen valmisteltavaksi."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Mitä säästöjä suljetut terveysasemat ja hammashoitolat tuovat Sata-alueelle, Perussuomalaisten aluevaltuustoryhmä, valtuustoaloite 5.10.2026.pdf (pdf, 514 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{cf5e10e1-afcb-46c3-81c1-967f9873284c}/48901"
+    },
+    {
+     "title": "Kotihoidon toimintamallien kehittäminen, Kokoomuksen aluevaltuustoryhmä, valtuustoaloite 5.10.2026.pdf (pdf, 733 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{2cf61fb3-7ae3-42eb-8e78-8d9d9b0c99ed}/48905"
+    },
+    {
+     "title": "Terveydenhuollon asiakasmaksujen korotuksista ja uusista maksuista pidättäytyminen vuonna 2027, Vasemmistoliiton aluevaltuustoryhmä, valtuustoaloite 5.10.2026.pdf (pdf, 791 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{083f8cbf-0e2b-4fa8-82a3-1fd5292a7d84}/48906"
+    },
+    {
+     "title": "Lapsiperheiden ennaltaehkäisevien palveluiden turvaaminen, Vasemmistoliiton aluevaltuustoryhmä, valtuustoaloite 5.10.2026.pdf (pdf, 672 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{631ca5c8-f642-4159-8cc0-446f210d2cd1}/48907"
+    },
+    {
+     "title": "Raskaudenkeskeytysten maksuttomuus, Vasemmistoliiton aluevaltuustoryhmä, valtuustoaloite 5.10.2026.pdf (pdf, 636 kt)",
+     "url": "https://sata.cloudnc.fi/download/noname/{97a50be9-42ae-424b-aaee-4a033b65a10d}/48908"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "80",
+   "title": "Tiedoksi merkittävät asiat",
+   "source_url": "https://sata.cloudnc.fi/fi-FI/content/15987/13377",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Ei tiedoksi merkittäviä asioita.",
+   "decision": "Ei tiedoksi merkittäviä asioita.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Ehdotus",
+     "text": "Ei tiedoksi merkittäviä asioita."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ei tiedoksi merkittäviä asioita."
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Päätöksestä ei saa tehdä lain hyvinvointialueesta 141 §:n nojalla oikaisuvaatimusta eikä aluevalitusta, koska päätös koskee vain valmistelua tai täytäntöönpanoa."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Aila Haikkonen",
+   "role": "Puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Mari Kaunistola",
+   "role": "1. Varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Mirja Ylijoki",
+   "role": "2. Varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Heimo Nikula",
+   "role": "3. Varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Jari Myllykoski",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Pauliina Aalto",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Tomi Aalto",
+   "role": "Varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Sinikka Alenius",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Asko Aro-Heinilä",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Saara Haaslahti",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Nea Hakala",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Vilho Hakala",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Markus Halminen",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Anne Holgeri",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Anne Holmlund",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Atte Hölttä",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Niina Immonen",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Kristiina Isokorpi",
+   "role": "Varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Marjo Jaspa",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Leena Jokinen-Anttila",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Juha Joutsenlahti",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Jaakko Jäntti",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Eeva Kalli",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Keijo Kerola",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Tuija Ketola",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Arimo Koivisto",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Tuomas Koivisto",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Juha Korkeaoja",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Simo Korpela",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Mona Koski",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Anna-Maija Kotiranta",
+   "role": "Varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Sanna Kotiranta",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Henna Kyhä",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Kari Kähkönen",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Christa Lahto",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Arja Laulainen",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Jenni Laurila",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Harri Lehtonen",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Minka Leino-Holm",
+   "role": "Varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Katja Leino-Murtojärvi",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Soile Ojala-Seppä",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Helena Ollila",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Jenni Peltola",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Seppo Peltola",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Kaarlo Peltomaa",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Marko Pelttari",
+   "role": "Varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Maarit Pirinen",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Jooa Raja-aho",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Maria Rautanen",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Mikael Ropo",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Heidi Sakari",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Eija Salmi",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Petri Salminen",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Piia Sandelin",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Sari Seimelä",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Heli Sulkava",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Laura Tamminen",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Markku Tanttinen",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Jami Toivonen",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Johanna Toivonen",
+   "role": "Varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Jouni Uusitalo",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Samu Vahteristo",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Maaret Vainio",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Marja Vaitomaa",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Maarit Viikilä",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Niko Viinamäki",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Heidi Viljanen",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Jarkko Viljanen",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Viliina Välimäki",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Pekka Wallenius",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Irmeli Elomaa",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Anna Alarautalahti-Heurlin",
+   "role": "Sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Matias Toivola",
+   "role": "nuorisovaltuusto",
+   "group": "other"
+  },
+  {
+   "name": "Tero Mäkiranta",
+   "role": "hyvinvointialuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Petri Huru",
+   "role": "",
+   "group": "absent"
+  },
+  {
+   "name": "Jari Lepistö",
+   "role": "",
+   "group": "absent"
+  },
+  {
+   "name": "Aaron Michelin",
+   "role": "",
+   "group": "absent"
+  },
+  {
+   "name": "Oskari Siitari",
+   "role": "",
+   "group": "absent"
+  },
+  {
+   "name": "Marika Uimaluoto",
+   "role": "",
+   "group": "absent"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://sata.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_5102026",
+  "fetched_at": "2026-10-14T17:55:16+00:00",
+  "content_hash": "32047f23c101ece5",
+  "parser_version": "0.1.0",
+  "platform": "cloudnc",
+  "first_seen": "2026-10-14T17:55:16+00:00"
+ }
+}

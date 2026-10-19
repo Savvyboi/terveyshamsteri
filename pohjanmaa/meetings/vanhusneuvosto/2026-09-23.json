@@ -1,0 +1,534 @@
+{
+ "id": "vanhusneuvosto/2026-09-23",
+ "region": "pohjanmaa",
+ "body_id": "vanhusneuvosto",
+ "body_name": "Vanhusneuvosto",
+ "date": "2026-09-23",
+ "stage": "minutes",
+ "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026762",
+ "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026762.PDF",
+ "time": "13:30 - 16:25",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "23",
+   "title": "Kokouksen avaus, laillisuus ja päätösvaltaisuus",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026762-1",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Puheenjohtaja avasi kokouksen klo 13.30 ja totesi läsnäolijat. Puheenjohtaja totesi kokouksen laillisesti kokoon kutsutuksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hallintosäännön 148 §:n mukaan toimielin päättää kokoustensa ajan ja paikan.?\n\nHallintosäännön 149 §:n mukaan kokouskutsun antaa puheenjohtaja tai hänen estyneenä ollessaan varapuheenjohtaja. Kokouskutsussa on ilmoitettava kokouksen aika ja paikka sekä käsiteltävät asiat.?\n\nHallintosäännön 157 §:n mukaan avattuaan kokouksen puheenjohtaja toteaa läsnä olevat sekä onko kokous laillisesti koolle kutsuttu ja päätösvaltainen.?\n\nLaki hyvinvointialueesta (611/2021) 108 §:n mukaan muu toimielin kuin valtuusto, on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.\n\nPuheenjohtaja avaa kokouksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja avasi kokouksen klo 13.30 ja totesi läsnäolijat. Puheenjohtaja totesi kokouksen laillisesti kokoon kutsutuksi ja päätösvaltaiseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "24",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026762-2",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Pöytäkirjantarkastajiksi valittiin Ulla Grönvall-Streng ja Gun Knuts.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pohjanmaan hyvinvointialueen hallintosäännön 167 §:n mukaan pöytäkirja tarkastetaan toimielimen päättämällä tavalla.\n\nPöytäkirja voidaan allekirjoittaa ja tarkastaa sähköisesti.\n\nPöytäkirjantarkastajiksi ehdotetaan jäseniä aakkosjärjestyksessä siten, että esitetään aina kahta vuorossa seuraavana olevaa listalta.\n\nPöytäkirjantarkastajiksi ehdotetaan jäseniä: Christer Bogren ja Tarja Finne.\n\nEhdotetaan, että pöytäkirja tarkastetaan sähköisesti.\n\nChrister Bogren ja Tarja Finne ovat estyneitä kokouksesta ja heidän tilalleen esitetään Ulla Grönvall-Streng ja Gun Knuts."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Ulla Grönvall-Streng ja Gun Knuts."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "25",
+   "title": "Kokouksen työjärjestyksen hyväksyminen",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026762-3",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Neuvosto hyväksyi työjärjestyksen sillä lisäyksellä, että digitalisaatiosta keskustellaan pykälässä 34.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pohjanmaan hyvinvointialueen hallintosäännön 149 §:n mukaan kokouskutsun antaa puheenjohtaja tai hänen estyneenä ollessaan varapuheenjohtaja. Kokouskutsussa on ilmoitettava kokouksen aika ja paikka sekä käsiteltävät asiat.\n\nEsityslista, joka sisältää selostuksen käsiteltävistä asioista ja ehdotukset toimielimen päätöksiksi,lähetetään kokouskutsun yhteydessä, jolleivat erityiset syyt ole esteenä.\n\nEhdotetaan, että esityslista hyväksytään työjärjestykseksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Neuvosto hyväksyi työjärjestyksen sillä lisäyksellä, että digitalisaatiosta keskustellaan pykälässä 34."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "26",
+   "title": "Käyttötarkoituksen muutos, omaishoidon lakisääteisen vapaan palveluseteli",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026762-4",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-4.PDF",
+   "diary_number": "ÖVPH/5411/00.02.04.00/2026",
+   "preparer": "Björkqvist Monika; Pellfolk Tony; Lisätietoja: puhelinnumero: (vaihde); Omaishoidon tuessa on kahdenlaisia palveluseteleitä, joilla on eri tarkoitus:; Omaishoitajan lakisääteisen vapaan palveluseteli on tarkoitettu hoidettavan hoidon järjestämiseen aikana, jolloin omaishoitajalla on oikeus omaishoid",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin keskustelun jälkeen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Björkqvist Monika\n\nPellfolk Tony\n\nLisätietoja: puhelinnumero: (vaihde)\n\nOmaishoidon tuessa on kahdenlaisia palveluseteleitä, joilla on eri tarkoitus:\n\nOmaishoitajan lakisääteisen vapaan palveluseteli on tarkoitettu hoidettavan hoidon järjestämiseen aikana, jolloin omaishoitajalla on oikeus omaishoidon tuesta annetun lain (937/2005) mukaiseen lakisääteiseen vapaaseen.\n\nLomituksen palveluseteli on tarkoitettu omaishoitajan tukemiseen ja arjen helpottamiseen hoidettavan ja perheen yksilöllisten tarpeiden mukaisesti.\n\nOmaishoidon tuesta annetun lain (937/2005) mukaan hyvinvointialueen on huolehdittava hoidettavan hoidon tarkoituksenmukaisesta järjestämisestä hoitajan vapaan aikana. Lakisääteisen vapaan tarkoituksena on tarjota omaishoitajalle todellista lomaa ja mahdollisuus hoitotehtävästä palautumiseen. Tämä edellyttää hoidettavan hoidon, huolenpidon ja valvonnan turvaamista vapaan aikana.\n\nTällä hetkellä omaishoitajan lakisääteinen vapaa järjestetään Pohjanmaan hyvinvointialueella muun muassa intervallihoidon, sijaishoidon, päivätoiminnan, perhehoidon tai palvelusetelin avulla. Voimassa olevien soveltamisohjeiden mukaan lakisääteisen vapaan palvelusetelin voi käyttää kotihoidon palveluihin (hoito ja huolenpito) tai siivoukseen. Nykytilanteessa omaishoitajan lakisääteisen vapaan palveluseteliä on käytetty siivoukseen lähinnä Vaasassa, Mustasaaressa ja Laihialla. Siivous on kuitenkin kodin kunnossapitoon tarkoitettu tukipalvelu, eikä se korvaa sitä hoitoa, huolenpitoa tai valvontaa, jota hoidettava tarvitsee omaishoitajan vapaan aikana. Jos palveluseteliä käytetään vain siivoukseen, hoitovastuu jää omaishoitajalle, eikä lakisääteisen vapaan tarkoitus toteudu.\n\nLainmukaisen, tarkoituksenmukaisen ja yhdenvertaisen soveltamisen varmistamiseksi lakisääteisen vapaan palveluseteliä tulee käyttää hyvinvointialueella palveluihin, joilla turvataan hoidettavan hoito ja huolenpito omaishoitajan vapaan aikana, kuten kotihoitoon tai muuhun korvaavaan huolenpitoon. Siivousta voidaan tarvittaessa myöntää sosiaalihuoltolain 19 §:n mukaisena tukipalveluna hyvinvointialueen vahvistamien kriteerien mukaisesti yksilöllisen palvelutarpeen arvioinnin perusteella.\n\nToimialajohtaja, koti- ja asumispalvelut Pellfolk Tony\n\nVanhusneuvostolle annetaan mahdollisuus keskustella ehdotuksesta, jonka mukaan omaishoitajan lakisääteisen vapaan palveluseteliä ei ole enää 1.1.2027 alkaen mahdollista käyttää siivoukseen. Ehdotuksen mukaan omaishoitajan lakisääteisen vapaan palveluseteliä käytetään vain sellaisiin hoito- ja huolenpitopalveluihin, jotka korvaavat omaishoitajan hoitotyön hänen lakisääteisen vapaansa aikana.\n\nSiivousta voidaan tarvittaessa myöntää sosiaalihuoltolain mukaisena erillisenä tukipalveluna yksilöllisen palvelutarpeen arvioinnin ja voimassa olevien kriteerien perusteella."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin keskustelun jälkeen."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nPalvelusetelit_Omaishoidon tuen soveltamisohje_2027\n\nLiite 2\n\nHyvinvointialueiden vertailu\n\nLiite 3\n\nPalvelusetelin käyttötarkoituksen muutos\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Palvelusetelit_Omaishoidon tuen soveltamisohje_2027",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-4-107756.PDF"
+    },
+    {
+     "title": "Hyvinvointialueiden vertailu",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-4-108305.PDF"
+    },
+    {
+     "title": "Palvelusetelin käyttötarkoituksen muutos",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-4-109199.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "27",
+   "title": "Palvelusetelien arvot säännöllisessä kotihoidossa ja ympärivuorokautisessa palveluasumisessa",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026762-5",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-5.PDF",
+   "diary_number": "ÖVPH/5595/00.02.04.00/2026",
+   "preparer": "Widd Christine; Lisätietoja: puhelinnumero: (vaihde); Sosiaali- ja terveydenhuollon palvelusetelistä annetun lain (569/2009) mukaan hyvinvointialue voi järjestää palveluja myöntämällä asiakkaalle palvelusetelin palvelun hankkimiseksi hyväksytyltä yksityiseltä palveluntuottajalta.; Valtakunnallisten ",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Merkitään keskustelun jälkeen tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Widd Christine\n\nLisätietoja: puhelinnumero: (vaihde)\n\nSosiaali- ja terveydenhuollon palvelusetelistä annetun lain (569/2009) mukaan hyvinvointialue voi järjestää palveluja myöntämällä asiakkaalle palvelusetelin palvelun hankkimiseksi hyväksytyltä yksityiseltä palveluntuottajalta.\n\nValtakunnallisten linjausten mukaan hyvinvointialueen tulee määrittää kohtuulliset palvelusetelien enimmäisarvot siten, että asiakkaan mahdollisuus valita palveluntuottaja turvataan hänen taloudellisesta tilanteestaan riippumatta.\n\nSäännöllisessä kotihoidossa ja ympärivuorokautisessa palveluasumisessa palvelusetelin arvon määrittäminen perustuu asiakkaan maksukykyyn.\n\nPalvelusetelilain mukaisesti palvelusetelin arvoa tulee lisäksi voida korottaa yksilöllisesti tilanteissa, joissa asiakkaan tai hänen perheensä toimeentulo muutoin vaarantuisi. Tällöin harkinta perustuu asiakkaan taloudellisen tilanteen kokonaisarviointiin.\n\nVanhusneuvoston kokouksessa esitellään hyvinvointialuehallituksen vahvistamat säännöllisen kotihoidon ja ympärivuorokautisen palveluasumisen palvelusetelien enimmäisarvot sekä pääperiaatteet, joiden mukaisesti asiakkaiden yksilölliset palvelusetelien arvot määräytyvät.\n\nToimialajohtaja, koti- ja asumispalvelut Pellfolk Tony\n\nVanhusneuvosto merkitsee esittelyn tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään keskustelun jälkeen tiedoksi."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nTietoa palvelusetelien arvojen laskennasta\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Tietoa palvelusetelien arvojen laskennasta",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-5-109200.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "28",
+   "title": "Ikääntyneiden sosiaalihuollon palveluohjaus",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026762-6",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-6.PDF",
+   "diary_number": "ÖVPH/5593/00.02.04.00/2026",
+   "preparer": "Holming Yvonne; Lisätietoja: puhelinnumero: (vaihde); Sosiaalihuollon digi-aspa avaa 29.9.2026 alkaen puhelinlinjan yli 65-vuotiaille henkilöille.; Uuden puhelinlinjan tavoitteena on helpottaa Pohjanmaan hyvinvointialueella asuvien yli 65-vuotiaiden henkilöiden sekä heidän omaistensa mahdollisuuksia",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Merkitään keskustelun jälkeen tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Holming Yvonne\n\nLisätietoja: puhelinnumero: (vaihde)\n\nSosiaalihuollon digi-aspa avaa 29.9.2026 alkaen puhelinlinjan yli 65-vuotiaille henkilöille.\n\nUuden puhelinlinjan tavoitteena on helpottaa Pohjanmaan hyvinvointialueella asuvien yli 65-vuotiaiden henkilöiden sekä heidän omaistensa mahdollisuuksia saada ensimmäinen arvio tilanteestaan. Tämän avulla voidaan tarjota oikeanlaista tukea ja palveluja entistä nopeammin.\n\nPitkällä aikavälillä tavoitteena on myös vapauttaa enemmän aikaa asiakastyötä tekeville työntekijöille.\n\nPuhelinlinja on suora palvelunumero, eli asiakkaan tai omaisen ei tarvitse valita eri nauhoitettujen vaihtoehtojen välillä.\n\nEsitys ikääntyneiden palvelulinjasta on liitteenä.\n\nSektorijohtaja ikäihmiset Kotanen Heidi\n\nVanhusneuvosto tutustuu esitykseen ja sillä on mahdollisuus keskustella sekä esittää kommentteja sen sisällöstä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään keskustelun jälkeen tiedoksi."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nPresentation äldreservicelinjen_Ikäihmisten palvelulinjan esittely\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Presentation äldreservicelinjen_Ikäihmisten palvelulinjan esittely",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-6-108318.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "29",
+   "title": "Ruoka- ja puhtauspalvelut ikäihmisten hoivassa",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026762-7",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-7.PDF",
+   "diary_number": "ÖVPH/5615/00.02.04.00/2026",
+   "preparer": "Mylläri Kirsti; Lisätietoja: puhelinnumero: (vaihde); Palvelupäällikkö Kirsti Mylläri kertoo ikäihmisten ruoka- sekä puhtauspalveluiden toiminnasta ja periaatteista Pohjanmaan Hyvinvointialueella; Toimialajohtaja, koti- ja asumispalvelut Pellfolk Tony; Vanhusneuvosto merkitsee keskustelun jälkeen ti",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Merkitään keskustelun jälkeen tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Mylläri Kirsti\n\nLisätietoja: puhelinnumero: (vaihde)\n\nPalvelupäällikkö Kirsti Mylläri kertoo ikäihmisten ruoka- sekä puhtauspalveluiden toiminnasta ja periaatteista Pohjanmaan Hyvinvointialueella\n\nToimialajohtaja, koti- ja asumispalvelut Pellfolk Tony\n\nVanhusneuvosto merkitsee keskustelun jälkeen tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään keskustelun jälkeen tiedoksi."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nRuoka- ja puhtauspalvelut ikäihmisten hoivassa\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Ruoka- ja puhtauspalvelut ikäihmisten hoivassa",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-7-109207.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "30",
+   "title": "Vastaus valtuustoaloitteeseen ikäihmisten ruokapalveluiden laadun palauttamisesta",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026762-8",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-8.PDF",
+   "diary_number": "ÖVPH/2503/00.02.00/2026",
+   "preparer": "Kotanen Heidi; Mylläri Kirsti; Lisätietoja: puhelinnumero: (vaihde); SDP:n ja Perussuomalaisten valtuustoryhmät ovat jättäneet aloitteen 30.3.2026. Aloitteessa tuodaan esiin huoli siitä, että viimeaikaiset säästötoimenpiteet ovat heikentäneet ikäihmisten ruokapalveluiden laatua ja ravitsemuksellista",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin keskustelun jälkeen. Pykälä viedään tiedoksi hallitukselle.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Kotanen Heidi\n\nMylläri Kirsti\n\nLisätietoja: puhelinnumero: (vaihde)\n\nSDP:n ja Perussuomalaisten valtuustoryhmät ovat jättäneet aloitteen 30.3.2026. Aloitteessa tuodaan esiin huoli siitä, että viimeaikaiset säästötoimenpiteet ovat heikentäneet ikäihmisten ruokapalveluiden laatua ja ravitsemuksellista arvoa, erityisesti pehmeän leivän ja jälkiruokien poistamisen osalta. Lisäksi korostetaan, että muutokset ovat vaikeuttaneet ruokailua niille, joilla on purentavaikeuksia, ja että jälkiruoat ovat tärkeitä nesteytyksen ja ravitsemuksen kannalta\n\nRuokapalveluiden laadun ja ravintoarvon näkökulmasta ikäihmisten asumispalveluiden ruokapalveluiden palvelukuvaus korostaa, että ateriat ovat ravitsemuksellisesti täysipainoisia, monipuolisia ja vaihtelevia. Ruokalistan suunnittelussa huomioidaan ikäihmisten erityistarpeet, kuten purentavaikeudet ja yksilölliset ruokavaliot.\n\nMuutokset ruokapalveluissa ovat olleet osa palvelun harmonisointia ja kehittämistä, ei laadun heikentämistä. Ruokapalveluiden laatu ja ravintoarvo on säilytetty ja varmistettu, että ateriat täyttävät ravitsemussuositukset ja tukevat ikäihmisten hyvinvointia.\n\nRuokapalveluiden muutokset on toteutettu palvelun harmonisoinnin ja yhtenäistämisen näkökulmasta, jotta kaikilla asiakkailla on tasavertainen mahdollisuus saada laadukkaita ja ravitsemuksellisesti täysipainoisia aterioita. Muutosten tavoitteena ei ole ollut heikentää palvelun laatua, vaan varmistaa yhdenmukainen ja laadukas palvelu koko hyvinvointialueella.\n\nPalvelukuvauksen mukaan pehmeä leipä on olennainen osa ateriaa, erityisesti niille, joilla on purentavaikeuksia. Jälkiruoat, kuten mehukiisselit ja rahka, tukevat nesteytystä ja ravitsemusta sekä lisäävät aterioiden miellyttävyyttä. Ruokalistan suunnittelussa huomioidaan asiakkaiden toiveet ja palautteet, ja erityisruokavaliot otetaan huomioon.\n\nAsiakkailla ja heidän läheisillään on mahdollisuus antaa palautetta ruokapalveluista, ja palautteet huomioidaan palvelun kehittämisessä.\n\nTaloudellinen tausta ja palvelutason harmonisointi\n\nRuoka- ja puhtauspalveluiden palvelutasoja on tarkasteltu osana hyvinvointialueen talouden sopeuttamista ja inhouse-yhtiöille asetettuja säästövaatimuksia. HVA-jorylle 31.3.2026 annetun väliraportin mukaan vuosille 2025-2026 asetettu säästövaade on yhteensä 5,94 milj. € ja lisäksi vuodelle 2027 säästötavoite 2,4 miljoonaa.\n\nKustannustehokkuutta on haettu mm. palveluiden yhtenäistämisellä ja yhteisillä ruokalistaperiaatteilla (esim. jälkiruokakäytännöt) sekä yhteisellä ohjeistuksella elintarvikeostoissa.\n\nRuokapalveluiden laatu ja ravintoarvo eivät ole heikentyneet, vaan muutokset ovat olleet osa palvelun harmonisointia ja kehittämistä. Palvelukuvauksen mukaisesti ateriat ovat ravitsemuksellisesti täysipainoisia ja monipuolisia, ja erityistarpeet huomioidaan. Palautekanavat ovat käytössä, ja asiakaspalautteet otetaan huomioon palvelun kehittämisessä. Hyvinvointialueen tavoitteena on turvata ikäihmisten ruokapalveluiden laatu ja ravitsemus myös jatkossa.\n\nSektorijohtaja ikäihmiset Kotanen Heidi\n\nehdottaa, että vanhusneuvosto merkitsee aloitevastauksen tiedoksi ja siirtää käsiteltäväksi aluehallitukselle, joka antaa vastauksen valtuustoaloitteeseen selontekona aluevaltuustolle. Aluehallitus esittää aluevaltuustolle, että aloite on täten loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin keskustelun jälkeen. Pykälä viedään tiedoksi hallitukselle."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nValtuustoaloite ikäihmisten ruokapalveluiden laadun palauttamisesta\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Valtuustoaloite ikäihmisten ruokapalveluiden laadun palauttamisesta",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-8-105696.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "31",
+   "title": "Vastaus Kaskisten kannanottoon",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026762-9",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-9.PDF",
+   "diary_number": "ÖVPH/4850/00.02.04.00/2026",
+   "preparer": "Kotanen Heidi; Lisätietoja: puhelinnumero: (vaihde); Vastaus Kaskisten kannanottoon liitteenä.; Sektorijohtaja ikäihmiset Kotanen Heidi; Merkitään tiedoksi ja viedään hallitukselle tiedoksi.",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Esitys hyväksytään keskustelun jälkeen. Vanhusneuvosto on huolissaan ja kotiutusprosessia on kehitettävä. Pykälä tiedoksi hyvinvointialueen hallitukselle.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Kotanen Heidi\n\nLisätietoja: puhelinnumero: (vaihde)\n\nVastaus Kaskisten kannanottoon liitteenä.\n\nSektorijohtaja ikäihmiset Kotanen Heidi\n\nMerkitään tiedoksi ja viedään hallitukselle tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Esitys hyväksytään keskustelun jälkeen. Vanhusneuvosto on huolissaan ja kotiutusprosessia on kehitettävä. Pykälä tiedoksi hyvinvointialueen hallitukselle."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nErikoissairaanhoidosta kotiutumisen ohjeistuksen kehittämistarpeet ja kotiuttaminen Kaskisiin\n\nLiite 2\n\nVastaus Kaskisten kannanottoon\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Erikoissairaanhoidosta kotiutumisen ohjeistuksen kehittämistarpeet ja kotiuttaminen Kaskisiin",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-9-105707.PDF"
+    },
+    {
+     "title": "Vastaus Kaskisten kannanottoon",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-9-105723.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "32",
+   "title": "Pietarsaaren vanhusneuvoston aloite",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026762-10",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-10.PDF",
+   "diary_number": "ÖVPH/5402/00.02.04.00/2026",
+   "preparer": "Kotanen Heidi; Lisätietoja: puhelinnumero: (vaihde); Pietarsaaren vanhusneuvoston on jättänyt kannanoton 5.4.2026. Kannanotossa pyydetään selvittämään olisiko potilastietoihin mahdollista lisätä huomautuskohta, josta kävisi ilmi, jos asiakas ei käytä digitaalisia palveluita. Jos asiakas ei käytä dig",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Esitys hyväksytään keskustelun jälkeen ja annetaan tiedoksi aluehallitukselle.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Kotanen Heidi\n\nLisätietoja: puhelinnumero: (vaihde)\n\nPietarsaaren vanhusneuvoston on jättänyt kannanoton 5.4.2026. Kannanotossa pyydetään selvittämään olisiko potilastietoihin mahdollista lisätä huomautuskohta, josta kävisi ilmi, jos asiakas ei käytä digitaalisia palveluita. Jos asiakas ei käytä digitaalisia palveluja, saisi hän informaation puhelimitse, tekstiviestillä tai kirjeellä.\n\nPohjanmaan hyvinvointialueella on mahdollista saada palveluita ilman, että käyttää digitaalisia palveluita. Puhelimitse tapahtuva ajanvaraus ja tiedustelut on aina vaihtoehto digitaalisille palveluille. Vastaanottojen käyntitekstejä ei automaattisesti lähetetä asiakkaalle kotiin, vaan sitä tulee asiakkaan erikseen pyytää. Koskien muita tutkimuksia esim. Laboratoriotutkimuksia, on myös ne mahdollista tilata puhelimitse. Laboratoriovastaukset tulee asiakkaalle ilmoittaa, jos niissä on poikkeamia.\n\nLääkärin tai sairaanhoitajan kanssa tapahtuvan hoitokontaktin yhteydessä on aina sovittava, miten mahdollinen seuranta järjestetään ja miten tilattujen tutkimusten vastaukset annetaan. Samassa yhteydessä tulee tarkistaa potilaan mahdollisuus esimerkiksi lukea tietojaan OmaKannassa. Jos digitaalisia palveluita ei voida käyttää, seuranta mahdollistetaan muulla tavalla, esimerkiksi puhelimitse tai kirjeitse.\n\nAloitteessa nostettu kehittämisidea on viety terveydenhuollon toimintatapa ja asiakastietojen käsittelytyöryhmälle selvitettäväksi. Työryhmän kokous pidettiin 2.9.2026. Ehdotus digitaalisten palveluiden käyttämisestä ja sen merkitsemisestä potilastietojärjestelmään käsiteltiin työryhmä kokouksessa. Ehdotus hyväksyttiin ja viedään 2m-it toteutettavaksi potilastietojärjestelmään.\n\nSektorijohtaja ikäihmiset Kotanen Heidi\n\nehdottaa, että Pietarsaaren vanhusneuvoston aloitteeseen annettu vastaus hyväksytään ja annetaan tiedoksi hallitukselle."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Esitys hyväksytään keskustelun jälkeen ja annetaan tiedoksi aluehallitukselle."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nPietarsaaren vanhusneuvoston aloite ovph\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Pietarsaaren vanhusneuvoston aloite ovph",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-10-107731.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "33",
+   "title": "Ajankohtaista ikäihmisten palveluista",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026762-11",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-11.PDF",
+   "diary_number": "ÖVPH/5415/00.02.04.00/2026",
+   "preparer": "Pellfolk Tony; Kotanen Heidi; Lisätietoja: puhelinnumero: (vaihde); Tony Pellfolk ja Heidi Kotanen kertovat ikäihmisten palvelujen ajankohtaisista asioista.; Toimialajohtaja, koti- ja asumispalvelut Pellfolk Tony; Vanhusneuvosto merkitsee keskustelun jälkeen tiedoksi.",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Vanhusneuvosto merkitsi keskustelun jälkeen tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Pellfolk Tony\n\nKotanen Heidi\n\nLisätietoja: puhelinnumero: (vaihde)\n\nTony Pellfolk ja Heidi Kotanen kertovat ikäihmisten palvelujen ajankohtaisista asioista.\n\nToimialajohtaja, koti- ja asumispalvelut Pellfolk Tony\n\nVanhusneuvosto merkitsee keskustelun jälkeen tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Vanhusneuvosto merkitsi keskustelun jälkeen tiedoksi."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Jakelu"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "34",
+   "title": "Muut mahdolliset asiat",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026762-12",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-12.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Merkitään tiedoksi. Lähetetään asia sosiaalihuollon valvonnasta ikääntyneiden palveluissa valmisteluun. Seuraava kokous (Teams) 4.11.26 klo 14.00.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pohjanmaan hyvinvointialueen hallintosäännön 160 §:n mukaan asiat päätetään kokouksissa viranhaltijan esittelystä. Hallintosäännön 159 §:n mukaan toimielin voi esittelijän tai jäsenen ehdotuksesta, jota on kannatettu, ottaa enemmistöpäätöksellä käsiteltäväksi asian, jota ei ole mainittu kokouskutsussa.\n\nPykälän kohdalla voidaan esimerkiksi jakaa tietoa, ilmoittaa asioista, tehdä aloitteita ja esittää kysymyksiä.\n\nSeuraava vanhusneuvosto kokous 4.11.2026 klo 14.00, Teams.\n\nVanhusneuvosto keskusteli digitalisaatiosta. Todettiin, että digitalisaatio marginalisoi ikäihmisiä. 0,5 miljoonaa ikäihmistä ei pysty hoitamaan asioitaan digitaalisesti. Vanhusneuvosto on tehnyt aluehallitukselle aloitteen digitaalisten palveluiden saatavuuden parantamisesta.\n\nVanhusneuvosto keskustelee tarpeesta saada tilannekatsaus sosiaalihuollon valvonnasta ikääntyneiden palveluissa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään tiedoksi. Lähetetään asia sosiaalihuollon valvonnasta ikääntyneiden palveluissa valmisteluun. Seuraava kokous (Teams) 4.11.26 klo 14.00."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "35",
+   "title": "Kokouksen päättäminen",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026762-13",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026762-13.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Puheenjohtaja päätti kokoukset klo 16.25.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen päättäminen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja päätti kokoukset klo 16.25."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Aro Erkki",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Axell Ulf",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Grönvall-Streng Ulla",
+   "role": "pöytäkirjantarkastaja",
+   "group": "other"
+  },
+  {
+   "name": "Knuts Gun",
+   "role": "pöytäkirjantarkastaja",
+   "group": "other"
+  },
+  {
+   "name": "Käcko Guy",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lillas Alice",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Mandell Irmeli",
+   "role": "I varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Mannfolk Lars-Erik",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Runsala Eila",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Skåtar Ralf",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Minkkinen Henna",
+   "role": "järjestöedustaja, Vaasan seudun muistiyhdistys ry",
+   "group": "other"
+  },
+  {
+   "name": "Kotanen Heidi",
+   "role": "sektorijohtaja, ikäihmiset",
+   "group": "other"
+  },
+  {
+   "name": "Pellfolk Tony",
+   "role": "toimialajohtaja, koti- ja asumispalvelut",
+   "group": "other"
+  },
+  {
+   "name": "Ikkala-Västi Annika",
+   "role": "sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Widd Christine",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Holming Yvonne",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Kivimäki Berit",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Mylläri Kirsti",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Holmström Uno",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lindh Pär-Gustav",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Wadén Pirjo",
+   "role": "varajäsen",
+   "group": "member"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026762",
+  "fetched_at": "2026-10-14T17:27:20+00:00",
+  "content_hash": "24871e890e6e090f",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T17:27:20+00:00"
+ }
+}
