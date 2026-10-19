@@ -7,7 +7,7 @@ import MeetingTable from '../../components/MeetingTable.astro';
 import VoteTable from '../../components/VoteTable.astro';
 import SeatBar from '../../components/SeatBar.astro';
 import FinanceCard from '../../components/FinanceCard.astro';
-import { BODY_TYPES, bodiesOf, bodyTwin, bothViews, electionOf, fmtDate, load, meetingsOf, url, votesOf, type Region } from '../../lib/data';
+import { BODY_TYPES, initiatives, bodiesOf, bodyTwin, bothViews, electionOf, fmtDate, load, meetingsOf, url, votesOf, type Region } from '../../lib/data';
 
 export function getStaticPaths() {
   return load().regions.map((r) => ({ params: { region: r.id }, props: { r } }));
@@ -22,6 +22,7 @@ const election = electionOf(r.id);
 const items = meetings.reduce((a, m) => a + m.items.length, 0);
 const countBy = (b: string) => meetingsOf(r.id, b).length;
 const lastOf = (b: string) => meetingsOf(r.id, b)[0]?.date;
+const hasInitiatives = initiatives().some((g) => g.region === r.id);
 ---
 <Layout title={r.name.fi} feed={meetings.length ? `${url(r.id)}rss.xml` : undefined}>
   <Breadcrumbs trail={[{ href: url('alueet'), fi: 'Hyvinvointialueet', sv: 'Välfärdsområden', en: 'Counties' }, { fi: r.short.fi!, sv: r.short.sv }]} />
@@ -38,6 +39,7 @@ const lastOf = (b: string) => meetingsOf(r.id, b)[0]?.date;
       <a class="btn small secondary" href={url(r.id, 'valtuutetut')}><T k="councillors" /></a>
       <a class="btn small secondary" href={url(r.id, 'henkilot')}><T k="people" /></a>
       <a class="btn small secondary" href={url(r.id, 'aanestykset')}><T k="votes" /></a>
+      {hasInitiatives && <a class="btn small secondary" href={`${url('aloitteet')}?region=${r.id}`}><T k="initiatives" /></a>}
       {meetings.length > 0 && <a class="btn small secondary" href={`${url(r.id)}rss.xml`}><T k="rss" /></a>}
     </div>
   </div>

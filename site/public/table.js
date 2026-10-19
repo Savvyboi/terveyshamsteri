@@ -109,6 +109,7 @@
       meetings: [['date'], ['meeting'], ['items', 'num']],
       votes: [['date'], ['intro'], ['result']],
       items: [['date'], ['intro']],
+      initiatives: [['date'], ['initiatives'], ['status']],
       people: [['councillors'], ['electionVotes', 'num'], ['councilAttendance', 'num']],
     };
     function header() {
@@ -155,6 +156,19 @@
           el('td', {}, [el('a', { class: 't', href: r.url, text: r.body }), el('span', { class: 'sub' }, [stage, ' ', t('type_' + r.bodyType)])]),
           el('td', { class: 'num' }, [String(r.items) + ' ', el('span', { class: 'note', text: t('itemsCount') }),
             r.votes ? el('span', { class: 'sub' }, [el('span', { class: 'chip vote', text: r.votes + ' ' + t(r.votes === 1 ? 'voteOne' : 'votesCount') })]) : null]),
+        ]);
+      }
+      if (kind === 'initiatives') {
+        var steps = el('details', { class: 'ini-steps' }, [
+          el('summary', { text: t('stepsCount') + ': ' + r.steps.length + ' · ' + t('firstSeen') + ' ' + fmtDate(r.first) }),
+          el('ol', {}, r.steps.map(function (s) {
+            return el('li', { class: 'step-' + s.step }, [el('span', { class: 'date', text: fmtDate(s.date) }), ' ',
+              el('a', { href: s.url, text: s.body }), ' ', el('span', { class: 'note', text: t('step_' + s.step) })]);
+          }))]);
+        return el('tr', {}, [
+          date,
+          el('td', {}, [el('a', { class: 't', href: r.url, text: r.title }), steps]),
+          el('td', {}, [el('span', { class: r.stage === 'answered' ? 'chip' : 'chip agenda', text: t('ini_' + r.stage) })]),
         ]);
       }
       if (kind === 'items') {

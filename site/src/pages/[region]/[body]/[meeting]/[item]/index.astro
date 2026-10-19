@@ -7,7 +7,8 @@ import PartySplit from '../../../../../components/PartySplit.astro';
 import VoterList from '../../../../../components/VoterList.astro';
 import L from '../../../../../components/L.astro';
 import { topicById, topicsOf } from '../../../../../lib/topics';
-import { counted, winner, fmtDate, itemSlug, itemUrl, load, meetingSlug, meetingUrl, regionById, url, type Meeting } from '../../../../../lib/data';
+import type { Key } from '../../../../../lib/i18n';
+import { counted, initiativeOf, winner, fmtDate, itemSlug, itemUrl, load, meetingSlug, meetingUrl, regionById, url, type Meeting } from '../../../../../lib/data';
 
 export function getStaticPaths() {
   return load().meetings.flatMap((m) => m.items.map((_, i) => ({
@@ -24,6 +25,7 @@ const canonical = new URL(itemUrl(m, i), Astro.site).href;
 const citation = `${r.name.fi}, ${m.body_name} ${fmtDate(m.date)}${it.number ? ` § ${it.number}` : ''}: ${it.title}. ${it.source_url} (haettu ${new Date(m.provenance.fetched_at).toLocaleDateString('fi-FI')}; ${canonical})`;
 const citeId = `cite-${i}`;
 const topics = topicsOf(it.title).map((id) => topicById(id)!);
+const initiative = initiativeOf(m, i);
 ---
 <Layout title={`${it.number ? `§ ${it.number} ` : ''}${it.title}`} description={(it.decision ?? it.proposal ?? '').slice(0, 200)}>
   <Breadcrumbs trail={[
@@ -133,6 +135,21 @@ const topics = topicsOf(it.title).map((id) => topicById(id)!);
             <dt><T k="fetched" /></dt><dd>{new Date(m.provenance.fetched_at).toLocaleDateString('fi-FI')}</dd>
           </dl>
         </div>
+        {initiative && (
+          <div class="card">
+            <h3 style="margin-top:0"><T k="initiativeSteps" /></h3>
+            <p style="margin:0 0 8px"><span class={initiative.status === 'answered' ? 'chip' : 'chip agenda'}><T k={`ini_${initiative.status}` as Key} /></span></p>
+            <ol class="timeline">
+              {initiative.steps.map((s) => (
+                <li class:list={[`step-${s.step}`, { current: s.m === m && s.i === i }]}>
+                  <span class="date">{fmtDate(s.m.date)}</span> {s.m === m && s.i === i ? s.m.body_name : <a href={itemUrl(s.m, s.i)}>{s.m.body_name}</a>}
+                  <span class="note"><T k={`step_${s.step}` as Key} /></span>
+                </li>
+              ))}
+            </ol>
+            <p class="note" style="margin:10px 0 0"><a href={`${url('aloitteet')}?region=${m.region}`}><T k="initiatives" /> →</a></p>
+          </div>
+        )}
         {it.attachments.length > 0 && (
           <div class="card">
             <h3 style="margin-top:0"><T k="attachments" /></h3>

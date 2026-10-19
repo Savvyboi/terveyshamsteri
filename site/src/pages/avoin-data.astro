@@ -1,0 +1,109 @@
+---
+// Every download the site offers, with what each file holds, so researchers and journalists
+// can use the data without reading the code.
+import Layout from '../layouts/Layout.astro';
+import T from '../components/T.astro';
+import L from '../components/L.astro';
+import { ballotRows, financeRows, initiativeRows, itemRows, load, meetingRows, peopleRows, url, voteRows } from '../lib/data';
+
+const repo = 'https://github.com/Savvyboi/terveyshamsteri';
+const size = (rows: unknown[]) => {
+  const b = JSON.stringify(rows).length;
+  return b > 1e6 ? `${(b / 1e6).toLocaleString('fi-FI', { maximumFractionDigits: 1 })} MB` : `${Math.max(1, Math.round(b / 1e3))} kB`;
+};
+type File = { file: string; page?: string; rows: unknown[]; fi: string; sv: string; en: string; fields: string };
+const files: File[] = [
+  { file: 'meetings.json', page: 'kokoukset', rows: meetingRows(), fields: 'date, region, body, bodyType, stage, items, votes, url, source, twin',
+    fi: 'Kaikki kokoukset: toimielin, päivä, onko esityslista vai pöytäkirja, asioiden ja äänestysten määrä.',
+    sv: 'Alla möten: organ, datum, föredragningslista eller protokoll, antal ärenden och omröstningar.',
+    en: 'Every meeting: body, date, agenda or minutes, number of items and votes.' },
+  { file: 'items.json', page: 'aiheet', rows: itemRows(), fields: 'date, region, body, bodyType, stage, number, title, topics, votes, url, source, twin',
+    fi: 'Kokousasiat, joille on päätelty aihe, aiheineen.',
+    sv: 'Ärenden som har fått ett ämne, med ämnena.',
+    en: 'Agenda items that have a topic, with their topics.' },
+  { file: 'votes.json', page: 'aanestykset', rows: voteRows(), fields: 'date, region, body, bodyType, number, title, jaa, ei, tyhja, poissa, jaaMeans, eiMeans, topics, url, source, twin',
+    fi: 'Kaikki äänestykset: äänimäärät ja mitä jaa ja ei tarkoittivat.',
+    sv: 'Alla omröstningar: röstetal och vad ja och nej stod för.',
+    en: 'Every vote: the counts and what yes and no stood for.' },
+  { file: 'ballots.json', rows: ballotRows(), fields: 'date, region, body, number, vote, name, party, side, person, url',
+    fi: 'Nimetyt äänet: kuka äänesti miten niissä äänestyksissä, joissa pöytäkirja kertoo äänestäjät. side on jaa, ei, tyhja tai poissa.',
+    sv: 'Röster med namn: hur var och en röstade i de omröstningar där protokollet anger det. side är jaa, ei, tyhja eller poissa.',
+    en: 'Named ballots: how each person voted where the minutes name the voters. side is jaa (yes), ei (no), tyhja (abstain) or poissa (absent).' },
+  { file: 'people.json', page: 'valtuutetut', rows: peopleRows(), fields: 'name, region, party, status, incumbent, votes, present, absent, url',
+    fi: 'Vuonna 2025 valitut valtuutetut ja varavaltuutetut: puolue, vaaliäänet ja läsnäolo valtuuston kokouksissa.',
+    sv: 'Ledamöter och ersättare valda 2025: parti, röster i valet och närvaro vid fullmäktiges möten.',
+    en: 'Councillors and deputies elected in 2025: party, election votes and council attendance.' },
+  { file: 'initiatives.json', page: 'aloitteet', rows: initiativeRows(), fields: 'date, first, region, title, stage, steps[date, body, step, url], url, source, twin',
+    fi: 'Valtuustoaloitteet ja niiden käsittelyvaiheet. stage on answered tai open.',
+    sv: 'Fullmäktigemotioner och hur de har behandlats. stage är answered eller open.',
+    en: 'Council initiatives and their steps. stage is answered or open.' },
+  { file: 'finances.json', page: 'talous', rows: financeRows(), fields: 'region, name, year, population, expenses, state_funding, surplus, cumulative_surplus, loans, *_per_resident, forecast_surplus, budget_surplus, url',
+    fi: 'Alueiden talouden avainluvut viimeisimmältä tilivuodelta, euroina.',
+    sv: 'Områdenas ekonomiska nyckeltal för det senaste räkenskapsåret, i euro.',
+    en: 'Key figures of each county’s finances for the latest year, in euros.' },
+];
+const regions = load().regions.filter((r) => r.meetings > 0);
+---
+<Layout title="Avoin data">
+  <div class="page-head">
+    <p class="kicker"><T k="kicker" /></p>
+    <h1><T k="openData" /></h1>
+    <p class="lead"><T k="openDataLead" /></p>
+  </div>
+
+  <h2><L fi="Valmiit taulukot" sv="Färdiga tabeller" en="Ready-made tables" /></h2>
+  <p class="note"><L
+    fi="JSON-tiedostot ovat UTF-8-muotoisia taulukoita, yksi olio riviä kohden. Taulukkosivuilla voit myös rajata rivit ja ladata ne CSV-muodossa Exceliin."
+    sv="JSON-filerna är tabeller i UTF-8, ett objekt per rad. På tabellsidorna kan du också avgränsa raderna och ladda ner dem som CSV för Excel."
+    en="The JSON files are UTF-8 tables, one object per row. On the table pages you can also filter the rows and download them as CSV for Excel." /></p>
+  <div class="table-wrap">
+    <table class="data stack">
+      <thead><tr><th><T k="fileCol" /></th><th><T k="contentsCol" /></th><th class="num"><T k="sizeCol" /></th></tr></thead>
+      <tbody>
+        {files.map((f) => (
+          <tr>
+            <td><a class="t" href={url('data') + f.file} download><code>{f.file}</code></a>
+              {f.page && <span class="sub"><a href={url(f.page)}><L fi="Taulukkosivu" sv="Tabellsida" en="Table page" /> →</a></span>}</td>
+            <td><L fi={f.fi} sv={f.sv} en={f.en} /><span class="sub"><T k="fieldsCol" />: <code>{f.fields}</code></span></td>
+            <td class="num">{size(f.rows)}<span class="sub">{f.rows.length.toLocaleString('fi-FI')} <T k="rowsLc" /></span></td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p class="note"><L
+    fi="url on sivun osoite tällä sivustolla ja source alkuperäisen asiakirjan osoite. twin kertoo kaksikielisten alueiden kokouksista, kumpi kieliversio rivi on (fi tai sv); laske vain toinen, ettei sama kokous tule mukaan kahdesti."
+    sv="url är sidans adress på denna webbplats och source originaldokumentets adress. twin anger för tvåspråkiga områdens möten vilken språkversion raden är (fi eller sv); räkna bara den ena så att samma möte inte kommer med två gånger."
+    en="url is the page on this site and source is the original document. For bilingual counties, twin says which language copy of a meeting a row is (fi or sv); count only one so the same meeting is not counted twice." /></p>
+
+  <h2><L fi="Koko aineisto" sv="Hela materialet" en="The full archive" /></h2>
+  <p><L
+    fi="Jokaisen kokouksen kaikki tiedot (asiat, päätökset, tekstit, osallistujat, äänestykset ja lähdetiedot) ovat GitHubin data-haarassa, yksi JSON-tiedosto kokousta kohden. Rakenne on kuvattu repositorion README-tiedostossa."
+    sv="Alla uppgifter om varje möte (ärenden, beslut, texter, deltagare, omröstningar och källuppgifter) finns i grenen data på GitHub, en JSON-fil per möte. Strukturen beskrivs i repositoriets README-fil."
+    en="Everything about each meeting (items, decisions, texts, participants, votes and provenance) is in the data branch on GitHub, one JSON file per meeting. The layout is described in the repository README." /></p>
+  <div class="actions">
+    <a class="btn small" href={`${repo}/archive/refs/heads/data.zip`}><L fi="Lataa zip" sv="Ladda ner zip" en="Download zip" /></a>
+    <a class="btn small secondary" href={`${repo}/tree/data`}><L fi="Selaa GitHubissa" sv="Bläddra på GitHub" en="Browse on GitHub" /> ↗</a>
+  </div>
+  <pre class="code"><code>git clone --branch data --depth 1 {repo}.git</code></pre>
+
+  <h2><L fi="Syötteet" sv="Flöden" en="Feeds" /></h2>
+  <p><L
+    fi="Uusimmat pöytäkirjat RSS-syötteenä koko maasta, alueittain ja toimielimittäin. Lisää osoite syötteenlukijaan, niin näet uudet päätökset viikoittain."
+    sv="De senaste protokollen som RSS-flöde för hela landet, per område och per organ. Lägg till adressen i en flödesläsare så ser du nya beslut varje vecka."
+    en="The latest minutes as RSS feeds for the whole country, each county and each body. Add one to a feed reader to see new decisions every week." /></p>
+  <ul class="feed-list">
+    <li><a href={`${url()}rss.xml`}><L fi="Koko maa" sv="Hela landet" en="Whole country" /></a></li>
+    {regions.map((r) => <li><a href={`${url(r.id)}rss.xml`}><L fi={r.short.fi!} sv={r.short.sv} /></a></li>)}
+  </ul>
+
+  <h2><L fi="Käyttöehdot" sv="Användningsvillkor" en="Terms of use" /></h2>
+  <p><L
+    fi="Koottua aineistoa saa käyttää vapaasti Creative Commons Nimeä 4.0 -lisenssillä (CC BY 4.0): mainitse lähteeksi Terveyshamsteri ja mieluiten myös alkuperäinen pöytäkirja. Viranomaisten päätökset ja lausumat eivät ole tekijänoikeuden suojaamia (tekijänoikeuslaki 9 §). Lähdekoodi on MIT-lisenssillä."
+    sv="Det sammanställda materialet får användas fritt enligt licensen Creative Commons Erkännande 4.0 (CC BY 4.0): ange Terveyshamsteri som källa och gärna också originalprotokollet. Myndigheters beslut och utlåtanden skyddas inte av upphovsrätt (upphovsrättslagen 9 §). Källkoden har MIT-licens."
+    en="The compiled data may be used freely under Creative Commons Attribution 4.0 (CC BY 4.0): credit Terveyshamsteri and, ideally, the original minutes. Decisions and statements of public authorities are not protected by copyright (Copyright Act, section 9). The source code is MIT licensed." /></p>
+  <p class="note"><L
+    fi="Tiedot on poimittu pöytäkirjoista koneellisesti, ja niissä voi olla virheitä. Tarkista olennaiset tiedot alkuperäisestä asiakirjasta. Pöytäkirjoissa on henkilötietoja: käytä niitä vain siihen, mihin ne on julkaistu, eli päätöksenteon seuraamiseen."
+    sv="Uppgifterna har lästs ut ur protokollen maskinellt och kan innehålla fel. Kontrollera viktiga uppgifter i originaldokumentet. Protokollen innehåller personuppgifter: använd dem bara för det de har publicerats för, att följa beslutsfattandet."
+    en="The data is extracted from the minutes automatically and may contain errors. Check anything important against the original document. The minutes contain personal data: use it only for what it was published for, following public decision-making." /></p>
+</Layout>

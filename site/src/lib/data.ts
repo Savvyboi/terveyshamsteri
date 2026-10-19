@@ -547,3 +547,112 @@ export function financeRows() {
     };
   });
 }
+
+// ------------------------------------------------------------------ initiatives
+// Council initiatives (valtuustoaloitteet, fullmäktigemotioner) move through several bodies:
+// filed in the council, prepared by committees and the board, answered in the council. The
+// minutes have no shared id for them, so the steps are joined by a key made from the title
+// with its "Vastaus valtuustoaloitteeseen" style lead removed.
+const INITIATIVE = /aloite|aloitteeseen|aloitteen|motion|initiativ/i;
+const NOT_INITIATIVE = /kaavoitusaloite|kansalaisaloit|kuntalaisaloit|invånarinitiativ|aloitteet\b|aloitteiden|motionerna|motioner\b|initiativen\b|osallistumis/i;
+const ANSWERED = /vastau|vastine|loppuun käsit|svar(?:et)? på|besvar|färdigbehandl/i;
+const INITIATIVE_LEAD = /^.*?(?:aloitteeseen|aloitteen|aloite|motionen|motion|initiativet|initiativ)\b\s*(?:\d{1,2}\.\d{1,2}\.\d{4})?\s*(?:koskien|om|angående|gällande)?\s*[:;,\-–]?\s*/i;
+
+export const isInitiative = (title: string) => INITIATIVE.test(title) && !NOT_INITIATIVE.test(title);
+export function initiativeKey(title: string): string {
+  let t = title.replace(INITIATIVE_LEAD, '');
+  if (t.length < 12) t = title;
+  t = t.replace(/\d{1,2}\.\d{1,2}\.\d{4}/g, '').trim().replace(/^["”“'\s]+/, '').replace(/^(?:koskien|om)\s+/i, '');
+  return t.toLowerCase().replace(/[^a-zåäö]/g, '').slice(0, 40);
+}
+
+export type InitiativeStep = 'filed' | 'answered' | 'handled' | 'agenda';
+export interface Initiative {
+  region: string; key: string; title: string; status: 'answered' | 'open';
+  first: string; last: string; twin: Meeting['twin'] | null;
+  steps: { m: Meeting; i: number; step: InitiativeStep }[];
+}
+
+let initiativeCache: Initiative[] | null = null;
+/** Every council initiative found in the minutes, newest activity first. */
+export function initiatives(): Initiative[] {
+  if (initiativeCache) return initiativeCache;
+  const groups = new Map<string, Initiative>();
+  for (const m of load().meetings) {
+    if (m.twin === 'dup') continue;
+    const council = bodyTypeOf(m.region, m.body_id) === 'council';
+    m.items.forEach((it, i) => {
+      if (!isInitiative(it.title)) return;
+      const key = initiativeKey(it.title);
+      if (!key) return;
+      const id = `${m.region}|${key}`;
+      const text = `${it.title} ${(it.proposal ?? '').slice(0, 600)} ${(it.decision ?? '').slice(0, 600)}`;
+      const step: InitiativeStep = m.stage === 'agenda' ? 'agenda'
+        : council && ANSWERED.test(text) ? 'answered' : council ? 'filed' : 'handled';
+      let g = groups.get(id);
+      if (!g) {
+        g = { region: m.region, key, title: it.title, status: 'open', first: m.date, last: m.date, twin: null, steps: [] };
+        groups.set(id, g);
+      }
+      g.steps.push({ m, i, step });
+      if (m.date < g.first) g.first = m.date;
+      if (m.date > g.last) g.last = m.date;
+      if (step === 'answered') g.status = 'answered';
+    });
+  }
+  for (const g of groups.values()) {
+    g.steps.sort((a, b) => a.m.date.localeCompare(b.m.date));
+    // The latest title usually carries the full name of the initiative and its signers.
+    g.title = g.steps.at(-1)!.m.items[g.steps.at(-1)!.i].title;
+  }
+  // Bilingual counties publish council and board minutes in both languages, and the Swedish
+  // titles make their own initiatives. Those show to Swedish readers only; the Finnish
+  // initiative with steps on the same days shows to Finnish readers only.
+  const all = [...groups.values()];
+  for (const g of all) if (g.steps.every((s) => s.m.twin === 'sv')) g.twin = 'sv';
+  // Twin meetings list the same items in the same order, so a Swedish step's item is found in
+  // the Finnish copy at the same position.
+  const fiCopy = (m: Meeting) => load().meetings.find((x) => x.twin === 'fi' && x.region === m.region
+    && x.date === m.date && x.items.length === m.items.length && bodyTypeOf(x.region, x.body_id) === bodyTypeOf(m.region, m.body_id));
+  for (const sv of all.filter((g) => g.twin === 'sv')) {
+    const s = sv.steps[0];
+    const twin = fiCopy(s.m);
+    const fi = twin && all.find((g) => !g.twin && g.steps.some((x) => x.m === twin && x.i === s.i));
+    if (fi) fi.twin = 'fi';
+  }
+  initiativeCache = [...groups.values()].sort((a, b) => b.last.localeCompare(a.last));
+  return initiativeCache;
+}
+
+/** The initiative an agenda item belongs to, if any. */
+export function initiativeOf(m: Meeting, i: number): Initiative | undefined {
+  if (!isInitiative(m.items[i].title)) return undefined;
+  return initiatives().find((g) => g.region === m.region && g.steps.some((s) => s.m === m && s.i === i));
+}
+
+/** Rows for the initiatives table. */
+export function initiativeRows() {
+  return initiatives().map((g) => ({
+    date: g.last, first: g.first, region: g.region, title: g.title, stage: g.status,
+    steps: g.steps.map((s) => ({ date: s.m.date, body: s.m.body_name, step: s.step, url: itemUrl(s.m, s.i) })),
+    url: itemUrl(g.steps.at(-1)!.m, g.steps.at(-1)!.i), source: g.steps.at(-1)!.m.items[g.steps.at(-1)!.i].source_url,
+    twin: g.twin,
+  }));
+}
+
+/** Rows for the named-ballots download: one row per person per named vote. */
+export function ballotRows() {
+  const out = [];
+  for (const r of load().regions) {
+    for (const [p, bs] of ballotsOf(r.id)) {
+      for (const b of bs) {
+        out.push({
+          date: b.m.date, region: r.id, body: b.m.body_name, number: b.m.items[b.i].number,
+          vote: b.m.items[b.i].votes.indexOf(b.v) + 1, name: p.name, party: p.elected?.party ?? null,
+          side: b.side, person: personUrl(r.id, p), url: itemUrl(b.m, b.i),
+        });
+      }
+    }
+  }
+  return out.sort((a, b) => b.date.localeCompare(a.date) || a.url.localeCompare(b.url) || a.name.localeCompare(b.name, 'fi'));
+}

@@ -314,6 +314,60 @@ export const S = {
   deficitCounties: { fi: 'alueella alijäämää', sv: 'områden med underskott', en: 'counties in deficit' },
   forecastShort: { fi: 'ennuste', sv: 'prognos', en: 'forecast' },
   sortHint: { fi: 'Järjestä napsauttamalla otsikkoa.', sv: 'Sortera genom att klicka på en rubrik.', en: 'Click a heading to sort.' },
+  // Council initiatives
+  initiatives: { fi: 'Aloitteet', sv: 'Motioner', en: 'Initiatives' },
+  initiativesLead: {
+    fi: 'Aluevaltuutettujen valtuustoaloitteet ja niiden käsittely: milloin aloite jätettiin, missä sitä valmisteltiin ja onko valtuusto jo saanut siihen vastauksen.',
+    sv: 'Fullmäktigeledamöternas motioner och hur de har behandlats: när motionen lämnades in, var den bereddes och om fullmäktige redan har fått svar på den.',
+    en: 'Initiatives filed by regional councillors and how they were handled: when each was filed, where it was prepared and whether the council has had its answer yet.',
+  },
+  initiativesHow: {
+    fi: 'Aloitteet tunnistetaan koneellisesti asioiden otsikoista, ja saman aloitteen käsittelyvaiheet yhdistetään otsikon perusteella. Aloite on vastattu, kun valtuusto on käsitellyt vastauksen. Vanhemmat aloitteet voivat näkyä keskeneräisinä, jos niiden jättäminen on ennen arkiston alkua.',
+    sv: 'Motionerna känns igen maskinellt ur ärendenas rubriker, och stegen för samma motion kopplas ihop utifrån rubriken. En motion är besvarad när fullmäktige har behandlat svaret. Äldre motioner kan visas som oavslutade om de lämnades in före arkivets början.',
+    en: 'Initiatives are recognised automatically from item titles, and the steps of one initiative are joined by their titles. An initiative counts as answered once the council has dealt with the answer. Older ones can show as open if they were filed before the archive starts.',
+  },
+  ini_answered: { fi: 'Vastattu', sv: 'Besvarad', en: 'Answered' },
+  ini_open: { fi: 'Käsittelyssä', sv: 'Under behandling', en: 'In progress' },
+  step_filed: { fi: 'Jätetty tai lähetetty valmisteltavaksi', sv: 'Inlämnad eller remitterad', en: 'Filed or sent for preparation' },
+  step_answered: { fi: 'Vastaus valtuustossa', sv: 'Svar i fullmäktige', en: 'Answer in the council' },
+  step_handled: { fi: 'Valmistelu', sv: 'Beredning', en: 'Preparation' },
+  step_agenda: { fi: 'Esityslistalla', sv: 'På föredragningslistan', en: 'On the agenda' },
+  initiativeSteps: { fi: 'Aloitteen vaiheet', sv: 'Motionens skeden', en: 'Steps of this initiative' },
+  stepsCount: { fi: 'Vaiheita', sv: 'Skeden', en: 'Steps' },
+  firstSeen: { fi: 'Ensimmäinen käsittely', sv: 'Första behandling', en: 'First handled' },
+  // County comparison
+  compare: { fi: 'Vertailu', sv: 'Jämförelse', en: 'Compare' },
+  compareTitle: { fi: 'Alueet rinnakkain', sv: 'Områdena sida vid sida', en: 'Counties side by side' },
+  compareLead: {
+    fi: 'Miten hyvinvointialueiden päätöksenteko eroaa: kuinka paljon kokoustetaan ja äänestetään, kuinka ahkerasti valtuutetut ovat paikalla, kuinka yhtenäisesti puolueet äänestävät ja miltä talous näyttää.',
+    sv: 'Hur beslutsfattandet skiljer sig mellan välfärdsområdena: hur mycket man sammanträder och röstar, hur flitigt ledamöterna är närvarande, hur enigt partierna röstar och hur ekonomin ser ut.',
+    en: 'How decision-making differs between counties: how often bodies meet and vote, how reliably councillors turn up, how cohesively parties vote, and what the finances look like.',
+  },
+  compareHow: {
+    fi: 'Luvut lasketaan kerätyistä pöytäkirjoista arkiston alusta alkaen, joten alueet, joiden arkisto on lyhyempi, näyttävät pienempiä määriä. Läsnäolo ja ryhmälinja koskevat vuoden 2025 vaaleissa valittuja valtuutettuja. Läsnäoloa ei näytetä alueille, joiden pöytäkirjoissa ei luetella poissaolijoita. Ryhmälinja kertoo, kuinka usein valtuutettu äänesti puolueensa enemmistön kanssa niissä äänestyksissä, joissa pöytäkirja kertoo äänestäjät.',
+    sv: 'Siffrorna räknas ur de insamlade protokollen från arkivets början, så områden med kortare arkiv visar mindre tal. Närvaro och grupplinje gäller ledamöter som valdes i valet 2025. Närvaron visas inte för områden vars protokoll inte räknar upp frånvarande. Grupplinjen visar hur ofta en ledamot röstade som majoriteten av sitt parti i de omröstningar där protokollet anger hur var och en röstade.',
+    en: 'Figures are counted from the minutes collected since each archive starts, so counties with a shorter archive show smaller numbers. Attendance and party line cover councillors elected in 2025. Attendance is not shown for counties whose minutes do not list absentees. Party line is how often a councillor voted with their party’s majority in votes where the minutes name the voters.',
+  },
+  councilMeetings: { fi: 'Valtuuston kokoukset', sv: 'Fullmäktiges möten', en: 'Council meetings' },
+  votedShare: { fi: 'Äänestettyjä asioita', sv: 'Ärenden med omröstning', en: 'Items put to a vote' },
+  avgAttendance: { fi: 'Valtuutettujen läsnäolo', sv: 'Ledamöternas närvaro', en: 'Councillor attendance' },
+  initiativesAnswered: { fi: 'Aloitteet, vastattu', sv: 'Motioner, besvarade', en: 'Initiatives, answered' },
+  since: { fi: 'Arkisto alkaen', sv: 'Arkiv från', en: 'Archive from' },
+  ballotsLc: { fi: 'nimettyä ääntä', sv: 'röster med namn', en: 'named ballots' },
+  notCovered: { fi: 'Ei vielä mukana', sv: 'Ännu inte med', en: 'Not yet covered' },
+  decisionMaking: { fi: 'Päätöksenteko', sv: 'Beslutsfattande', en: 'Decision-making' },
+  // Open data
+  openData: { fi: 'Avoin data', sv: 'Öppna data', en: 'Open data' },
+  openDataLead: {
+    fi: 'Kaikki sivuston tiedot voi ladata koneluettavina tiedostoina tutkimukseen, journalismiin tai omiin sovelluksiin. Tiedostot päivittyvät joka viikko samaan aikaan kuin sivusto.',
+    sv: 'Alla uppgifter på webbplatsen kan laddas ner som maskinläsbara filer för forskning, journalistik eller egna tillämpningar. Filerna uppdateras varje vecka samtidigt som webbplatsen.',
+    en: 'Everything on the site can be downloaded as machine-readable files for research, journalism or your own apps. The files are updated every week along with the site.',
+  },
+  fileCol: { fi: 'Tiedosto', sv: 'Fil', en: 'File' },
+  contentsCol: { fi: 'Sisältö', sv: 'Innehåll', en: 'Contents' },
+  rowsLc: { fi: 'riviä', sv: 'rader', en: 'rows' },
+  sizeCol: { fi: 'Koko', sv: 'Storlek', en: 'Size' },
+  fieldsCol: { fi: 'Kentät', sv: 'Fält', en: 'Fields' },
 } satisfies Record<string, Str>;
 
 export type Key = keyof typeof S;
