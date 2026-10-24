@@ -83,7 +83,7 @@ const hasInitiatives = initiatives().some((g) => g.region === r.id);
         {allVotes.length > 0 && (
           <>
             <div class="section-head"><h2><T k="latestVotes" /></h2><a href={url(r.id, 'aanestykset')}><T k="allVotes" /> →</a></div>
-            <VoteTable votes={shownVotes} />
+            <VoteTable votes={shownVotes} parties />
           </>
         )}
         <div class="section-head"><h2><T k="latestMeetings" /></h2><a href={`${url('kokoukset')}?region=${r.id}`}><T k="showAll" /> →</a></div>

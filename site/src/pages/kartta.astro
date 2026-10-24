@@ -1,0 +1,18 @@
+---
+import Layout from '../layouts/Layout.astro';
+import T from '../components/T.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import CountyMap from '../components/CountyMap.astro';
+import { url } from '../lib/data';
+---
+<Layout title="Kartta">
+  <Breadcrumbs trail={[{ fi: 'Kartta', sv: 'Karta', en: 'Map' }]} />
+  <div class="page-head">
+    <p class="kicker"><T k="kicker" /></p>
+    <h1><T k="mapTitle" /></h1>
+    <p class="lead"><T k="mapLead" /></p>
+  </div>
+  <CountyMap>
+    <p class="note" style="margin-top:18px"><a href={url('vertailu')}><T k="mapAsTable" /> →</a></p>
+  </CountyMap>
+</Layout>

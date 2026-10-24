@@ -1,0 +1,23 @@
+---
+// One line per named vote: each party's abbreviation with how its members voted, e.g.
+// "KOK Jaa 12 · SDP Ei 9 · KESK Jaa 4 / Ei 2". Parties that split show both sides.
+import T from './T.astro';
+import PartyTag from './PartyTag.astro';
+import { partySplit, type Meeting, type Vote } from '../lib/data';
+interface Props { m: Meeting; v: Vote; max?: number }
+const { m, v, max = 8 } = Astro.props;
+const rows = partySplit(m, v).filter((r) => r.party !== '?' && r.jaa + r.ei + r.tyhja > 0);
+const shown = rows.slice(0, max);
+const SIDES = ['jaa', 'ei', 'tyhja'] as const;
+---
+{shown.length > 0 && (
+  <span class="party-chips">
+    {shown.map((r) => (
+      <span class:list={['pchip', { split: r.jaa > 0 && r.ei > 0 }]}>
+        <PartyTag party={r.party} />
+        {SIDES.filter((s) => r[s] > 0).map((s, i) => <>{i > 0 && ' / '}<span class={`side-${s}`}><T k={s} />{" "}{r[s]}</span></>)}
+      </span>
+    ))}
+    {rows.length > shown.length && <span class="note">+{rows.length - shown.length}</span>}
+  </span>
+)}

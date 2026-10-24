@@ -1,0 +1,145 @@
+---
+// A tile map of the 21 wellbeing services counties and the City of Helsinki: one equal square
+// each, placed roughly where the county lies. Equal tiles keep the small Uusimaa counties as
+// readable and clickable as Lapland. Radio buttons pick the figure shown; CSS (:has) does the
+// switching, so the map works without JavaScript.
+import T from './T.astro';
+import L from './L.astro';
+import { compareRows, load, url, type Region } from '../lib/data';
+import { eur, seur } from '../lib/fmt';
+import type { Key } from '../lib/i18n';
+
+type Metric = 'coverage' | 'meetings' | 'votes' | 'attendance' | 'expenses' | 'cumulative' | 'ini';
+interface Props { metrics?: Metric[]; id?: string }
+const { metrics = ['coverage', 'meetings', 'votes', 'attendance', 'expenses', 'cumulative', 'ini'], id = 'map' } = Astro.props;
+
+// [column, row] on a 4 x 8 grid, north at the top.
+const TILES: Record<string, [number, number]> = {
+  lappi: [2, 0],
+  'pohjois-pohjanmaa': [1, 1], kainuu: [2, 1],
+  'keski-pohjanmaa': [1, 2], 'pohjois-savo': [2, 2], 'pohjois-karjala': [3, 2],
+  pohjanmaa: [0, 3], 'etela-pohjanmaa': [1, 3], 'keski-suomi': [2, 3], 'etela-savo': [3, 3],
+  satakunta: [0, 4], pirkanmaa: [1, 4], 'paijat-hame': [2, 4], 'etela-karjala': [3, 4],
+  'varsinais-suomi': [0, 5], 'kanta-hame': [1, 5], 'keski-uusimaa': [2, 5], kymenlaakso: [3, 5],
+  'lansi-uusimaa': [1, 6], 'vantaa-kerava': [2, 6], 'ita-uusimaa': [3, 6],
+  helsinki: [2, 7],
+};
+
+const LABEL: Record<Metric, Key> = {
+  coverage: 'mapCoverage', meetings: 'meetings', votes: 'votes', attendance: 'avgAttendance',
+  expenses: 'mapExpenses', cumulative: 'mapCumulative', ini: 'initiatives',
+};
+
+const regions = load().regions;
+const rows = new Map(compareRows().map((x) => [x.r.id, x]));
+const statusOf = (r: Region) =>
+  r.enabled && r.meetings > 0 ? 'included' : r.status?.result === 'blocked' ? 'blocked' : 'coming';
+const valueOf = (m: Metric, id: string): number | null => {
+  const x = rows.get(id);
+  if (!x) return null;
+  return { coverage: null, meetings: x.meetings, votes: x.votes, attendance: x.attendance,
+    expenses: x.expenses, cumulative: x.cumulative, ini: x.ini }[m];
+};
+const fmt = (m: Metric, v: number | null) => v == null ? '–'
+  : m === 'attendance' ? `${v} %`
+  : m === 'expenses' ? eur(v) : m === 'cumulative' ? seur(v) : v.toLocaleString('fi-FI');
+
+// Five steps per figure. Counts and shares use quantiles of the counties that have a value, so
+// the colours spread across the map; the surplus is diverging around zero.
+function steps(m: Metric) {
+  const vals = regions.map((r) => valueOf(m, r.id)).filter((v): v is number => v != null).sort((a, b) => a - b);
+  if (!vals.length) return { step: () => null, legend: [] as { s: string; from: string; to: string }[] };
+  if (m === 'cumulative') {
+    const max = Math.max(...vals.map(Math.abs)) || 1;
+    const step = (v: number) => (Math.abs(v) < max * 0.1 ? 'z' : v < 0 ? (v < -max * 0.5 ? 'n2' : 'n1') : (v > max * 0.5 ? 'p2' : 'p1'));
+    const e = (n: number) => seur(Math.round(n));
+    return { step, legend: [
+      { s: 'n2', from: e(-max), to: e(-max * 0.5) }, { s: 'n1', from: e(-max * 0.5), to: e(-max * 0.1) },
+      { s: 'z', from: e(-max * 0.1), to: e(max * 0.1) },
+      { s: 'p1', from: e(max * 0.1), to: e(max * 0.5) }, { s: 'p2', from: e(max * 0.5), to: e(max) }] };
+  }
+  const q = [0.2, 0.4, 0.6, 0.8].map((p) => vals[Math.min(vals.length - 1, Math.floor(p * vals.length))]);
+  const step = (v: number) => `s${q.filter((t) => v >= t).length}`;
+  const legend = [0, 1, 2, 3, 4].map((i) => {
+    const inStep = vals.filter((v) => step(v) === `s${i}`);
+    return { s: `s${i}`, from: inStep.length ? fmt(m, inStep[0]) : '', to: inStep.length ? fmt(m, inStep.at(-1)!) : '' };
+  }).filter((x) => x.from);
+  return { step, legend };
+}
+const scales = Object.fromEntries(metrics.map((m) => [m, steps(m)]));
+const anyInferred = [...rows.values()].some((x) => x.inferred && x.attendance != null);
+
+const tiles = Object.entries(TILES).map(([rid, [col, row]]) => {
+  const r = regions.find((x) => x.id === rid);
+  const status = r ? statusOf(r) : 'city';
+  const cells = metrics.map((m) => {
+    const v = m === 'coverage' ? null : valueOf(m, rid);
+    const s = m === 'coverage' ? status : v == null ? 'none' : scales[m].step(v);
+    return { m, v, s };
+  });
+  return { rid, r, col, row, status, cells };
+});
+
+// One rule per figure and step: show that figure's value and colour when its radio is checked.
+const css = metrics.map((m) => [
+  `#${id}:has(#${id}-${m}:checked) [data-m="${m}"]{display:block}`,
+  `#${id}:has(#${id}-${m}:checked) .legend[data-m="${m}"]{display:flex}`,
+  ...['s0', 's1', 's2', 's3', 's4', 'n2', 'n1', 'z', 'p1', 'p2', 'none', 'included', 'coming', 'blocked', 'city']
+    .map((s) => `#${id}:has(#${id}-${m}:checked) .tile[data-${m}="${s}"]{--fill:var(--t-${s});--fg:var(--t-${s}-fg,var(--ink))${['none', 'coming', 'city'].includes(s) ? ';--bs:dashed' : ''}}`),
+].join('')).join('');
+// Long one-word names get a soft hyphen before a common ending, so narrow tiles break them
+// where a reader would ("Kymen-laakso") rather than at the last letter.
+const shy = (name: string) => name.split(' ').map((w) => w.length > 9
+  ? w.replace(/(laakso|maa|kunta|botten|tavastland|land|savolax|karelen|nyland|kerava)$/i, '\u00AD$1') : w).join(' ');
+const STATUS: Record<string, Key> = { included: 'included', coming: 'coming', blocked: 'blocked', city: 'mapCity' };
+---
+<div class="county-map" id={id}>
+  <style is:inline set:html={css}></style>
+  {metrics.length > 1 && (
+    <fieldset class="map-metrics">
+      <legend class="sr-only"><T k="mapShow" /></legend>
+      {metrics.map((m, i) => (
+        <label><input type="radio" name={`${id}-metric`} id={`${id}-${m}`} value={m} checked={i === 0} /> <span><T k={LABEL[m]} /></span></label>
+      ))}
+    </fieldset>
+  )}
+  {metrics.length === 1 && <input type="radio" id={`${id}-${metrics[0]}`} checked hidden />}
+  <div class="map-body">
+    <ol class="tiles" aria-label="Hyvinvointialueet kartalla">
+      {tiles.map((t) => {
+        const attrs = Object.fromEntries(t.cells.map((c) => [`data-${c.m}`, c.s]));
+        const name = t.r ? <L fi={shy(t.r.short.fi!)} sv={t.r.short.sv ? shy(t.r.short.sv) : undefined} /> : <L fi="Helsinki" sv="Helsingfors" />;
+        const body = (
+          <>
+            <span class="tile-name">{name}</span>
+            {t.cells.map((c) => (
+              <span class="tile-v" data-m={c.m}>
+                {c.m === 'coverage' ? <T k={STATUS[t.status]} /> : <>{fmt(c.m, c.v)}{c.m === 'attendance' && c.v != null && rows.get(t.rid)?.inferred && '*'}</>}
+              </span>
+            ))}
+          </>
+        );
+        return (
+          <li class="tile" style={`grid-column:${t.col + 1};grid-row:${t.row + 1}`} {...attrs}>
+            {t.r ? <a href={url(t.rid)}>{body}</a> : <span class="tile-in">{body}</span>}
+          </li>
+        );
+      })}
+    </ol>
+    <div class="map-side">
+      {metrics.map((m) => (
+        <div class="legend" data-m={m}>
+          <p class="legend-title"><T k={LABEL[m]} /></p>
+          {m === 'coverage'
+            ? ['included', 'coming', 'blocked', 'city'].map((s) => <span class="key"><i style={`background:var(--t-${s})`}></i><T k={STATUS[s]} /></span>)
+            : scales[m].legend.map((x) => <span class="key"><i style={`background:var(--t-${x.s})`}></i>{x.from === x.to ? x.from : `${x.from} – ${x.to}`}</span>)}
+          {m !== 'coverage' && <span class="key"><i class="nodata"></i><T k="mapNoData" /></span>}
+          {m === 'attendance' && anyInferred && <p class="note" style="margin:6px 0 0">* <T k="mapInferredShort" /></p>}
+          {m === 'cumulative' && <p class="note" style="margin:6px 0 0"><T k="mapCumulativeNote" /></p>}
+          {(m === 'expenses' || m === 'cumulative') && <p class="note" style="margin:6px 0 0"><a href={url('talous')}><T k="finances" /> →</a></p>}
+        </div>
+      ))}
+      <slot />
+    </div>
+  </div>
+</div>
