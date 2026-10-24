@@ -5,7 +5,7 @@ import L from '../../../../components/L.astro';
 import PartyTag from '../../../../components/PartyTag.astro';
 import BallotRow from '../../../../components/BallotRow.astro';
 import Breadcrumbs from '../../../../components/Breadcrumbs.astro';
-import { ballotsOf, bodyById, electionOf, fmtDate, load, meetingUrl, partyLine, partySplit, peopleOf, url, type PersonStats, type Region } from '../../../../lib/data';
+import { absenceMode, ballotsOf, bodyById, electionOf, fmtDate, load, meetingUrl, partyLine, partySplit, peopleOf, url, type PersonStats, type Region } from '../../../../lib/data';
 
 export function getStaticPaths() {
   return load().regions.flatMap((r) => peopleOf(r.id).map((p) => ({ params: { region: r.id, person: p.slug }, props: { r, p } })));
@@ -16,6 +16,7 @@ const c = p.elected;
 const e = electionOf(r.id);
 const rank = c && e ? e.people.filter((x) => x.party === c.party && x.status === c.status && (x.votes ?? 0) > (c.votes ?? 0)).length + 1 : null;
 const councilTotal = p.council.present + p.council.absent;
+const inferred = !!c && absenceMode(r.id) === 'inferred';
 const ballots = [...(ballotsOf(r.id).get(p) ?? [])].sort((a, b) => b.m.date.localeCompare(a.m.date));
 const line = partyLine(r.id, p);
 const party = c?.party;
@@ -46,12 +47,13 @@ const against = (b: typeof ballots[number]) => {
       <div><dt><T k="status" /></dt><dd style="font-size:1.15rem"><T k={c.status === 'elected' ? 'st_elected' : 'st_deputy'} /></dd></div>
       <div><dt><T k="electionVotes" /></dt><dd>{c.votes?.toLocaleString('fi-FI') ?? '–'}</dd>
         {rank && <p class="note" style="margin:2px 0 0">#{rank} {c.party}{c.incumbent && <> · <T k="incumbent" /></>}</p>}</div>
-      <div><dt><T k="councilAttendance" /></dt><dd>{councilTotal ? `${rate(p.council)} %` : '–'}</dd>
+      <div><dt><T k="councilAttendance" /></dt><dd>{councilTotal ? `${rate(p.council)} %${inferred ? '*' : ''}` : '–'}</dd>
         {councilTotal > 0 && <p class="note" style="margin:2px 0 0">{p.council.present}/{councilTotal}</p>}</div>
       {line && <div><dt title="Ryhmälinja"><T k="partyLine" /></dt><dd>{Math.round(100 * line.agree / line.total)} %</dd>
         <p class="note" style="margin:2px 0 0">{line.agree}/{line.total} <T k="withParty" /></p></div>}
     </dl>
   )}
+  {inferred && councilTotal > 0 && <p class="note" style="max-width:52rem"><T k="attendanceInferredNote" /></p>}
 
   {ballots.length > 0 && (
     <section>
@@ -78,11 +80,11 @@ const against = (b: typeof ballots[number]) => {
       <h2><T k="meetings" /> ({p.meetings.length})</h2>
       {p.meetings.length === 0 ? <p class="note"><T k="noMinutesYet" /></p> : (
         <ul class="list">
-          {p.meetings.map(({ m, group, role }) => (
+          {p.meetings.map(({ m, group, role, inferred: guess }) => (
             <li><a class="row" href={meetingUrl(m)}>
               <span class="date">{fmtDate(m.date)}</span>
               <span class="title">{m.body_name}{role && <span class="sub">{role}</span>}</span>
-              <span class="side">{group === 'absent' ? <span class="chip warn"><T k="absent" /></span> : <span class="chip"><T k="present" /></span>}</span>
+              <span class="side">{group === 'absent' ? <span class="chip warn"><T k={guess ? 'absentInferred' : 'absent'} /></span> : <span class="chip"><T k="present" /></span>}</span>
             </a></li>
           ))}
         </ul>

@@ -1,11 +1,12 @@
 ---
 import T from './T.astro';
 import PartyTag from './PartyTag.astro';
-import { personUrl, type PersonStats } from '../lib/data';
+import { absenceMode, personUrl, type PersonStats } from '../lib/data';
 interface Props { region: string; people: PersonStats[] }
 const { region, people } = Astro.props;
 const pct = (x: { present: number; absent: number }) =>
   x.present + x.absent ? Math.round((100 * x.present) / (x.present + x.absent)) : null;
+const star = absenceMode(region) === 'inferred' ? '*' : '';
 const fi = (n: number | null) => (n == null ? '–' : n.toLocaleString('fi-FI'));
 ---
 <div class="table-wrap">
@@ -24,7 +25,7 @@ const fi = (n: number | null) => (n == null ? '–' : n.toLocaleString('fi-FI'))
               <span class="sub"><PartyTag party={p.elected!.party} full />{p.elected!.incumbent && <> · <T k="incumbent" /></>}</span></td>
             <td class="num">{fi(p.elected!.votes)}</td>
             <td class="num">{c == null ? <span class="note">–</span> : (
-              <span class="pct-cell"><span class="meter"><span style={`width:${c}%`}></span></span>{c} %
+              <span class="pct-cell"><span class="meter"><span style={`width:${c}%`}></span></span>{c} %{star}
                 <span class="note">({p.council.present}/{p.council.present + p.council.absent})</span></span>)}</td>
             <td class="num">{others > 0 ? others : '–'}</td>
           </tr>
@@ -33,3 +34,4 @@ const fi = (n: number | null) => (n == null ? '–' : n.toLocaleString('fi-FI'))
     </tbody>
   </table>
 </div>
+{star && people.length > 0 && <p class="note"><T k="attendanceInferredNote" /></p>}

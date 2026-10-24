@@ -508,3 +508,61 @@ ol.timeline .note { display: block; font-weight: 400; }
 pre.code { background: var(--surface-2); border: var(--border-w) solid var(--line); border-radius: 6px; padding: 10px 14px; overflow-x: auto; font-size: .85rem; }
 .feed-list { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 6px 16px; }
 table.data code { font-size: .82em; overflow-wrap: anywhere; }
+
+/* County tile map. Sequential steps mix the accent into the surface; the surplus map is
+   diverging, red for deficit and blue for surplus around a grey zero. */
+:root {
+  --t-s0: color-mix(in oklab, var(--blue) 12%, var(--surface));
+  --t-s1: color-mix(in oklab, var(--blue) 30%, var(--surface));
+  --t-s2: color-mix(in oklab, var(--blue) 50%, var(--surface));
+  --t-s3: color-mix(in oklab, var(--blue) 72%, var(--surface)); --t-s3-fg: var(--on-blue);
+  --t-s4: var(--blue); --t-s4-fg: var(--on-blue);
+  --t-n2: var(--ei); --t-n2-fg: var(--surface);
+  --t-n1: color-mix(in oklab, var(--ei) 35%, var(--surface));
+  --t-z: var(--surface-2);
+  --t-p1: color-mix(in oklab, var(--blue) 35%, var(--surface));
+  --t-p2: var(--blue); --t-p2-fg: var(--on-blue);
+  --t-none: var(--paper);
+  --t-included: color-mix(in oklab, var(--blue) 72%, var(--surface)); --t-included-fg: var(--on-blue);
+  --t-coming: var(--surface-2);
+  --t-blocked: var(--warn-soft); --t-blocked-fg: var(--warn);
+  --t-city: var(--paper);
+}
+.county-map { margin: 8px 0 24px; }
+.map-metrics { border: 0; padding: 0; margin: 0 0 14px; display: flex; flex-wrap: wrap; gap: 6px; }
+.map-metrics label {
+  display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; cursor: pointer; font-size: .9rem;
+  border: var(--border-w) solid var(--line); border-radius: 999px; background: var(--surface);
+}
+.map-metrics label:has(input:checked) { border-color: var(--blue); background: var(--blue-soft); color: var(--ink); font-weight: 600; }
+.map-metrics input { accent-color: var(--blue); margin: 0; }
+.map-body { display: grid; gap: 20px 32px; grid-template-columns: minmax(0, 520px) minmax(200px, 1fr); align-items: start; }
+@media (max-width: 760px) { .map-body { grid-template-columns: 1fr; } }
+.tiles {
+  list-style: none; margin: 0; padding: 0; display: grid; gap: 4px;
+  grid-template-columns: repeat(4, minmax(0, 1fr)); grid-auto-rows: minmax(64px, auto);
+}
+.tile { --fill: var(--surface-2); --fg: var(--ink); }
+.tile > a, .tile > .tile-in {
+  display: flex; flex-direction: column; justify-content: space-between; gap: 4px; height: 100%;
+  padding: 7px 8px; border-radius: 4px; background: var(--fill); color: var(--fg); text-decoration: none;
+  border: var(--border-w) var(--bs, solid) color-mix(in oklab, var(--fill) 80%, var(--ink));
+}
+.tile > .tile-in { color: var(--muted); }
+.tile > a:hover { outline: 2px solid var(--ink); outline-offset: 1px; color: var(--fg); }
+.tile-name { font-size: .74rem; line-height: 1.15; font-weight: 600; hyphens: manual; overflow-wrap: break-word; }
+.tile-v { display: none; font-size: .86rem; font-weight: 700; font-variant-numeric: tabular-nums; line-height: 1.1; }
+.legend { display: none; flex-direction: column; gap: 6px; font-size: .9rem; }
+.legend-title { margin: 0 0 2px; font-weight: 700; }
+.legend .key { display: inline-flex; align-items: center; gap: 8px; font-variant-numeric: tabular-nums; }
+.legend .key i { width: 18px; height: 14px; border-radius: 3px; border: 1px solid var(--line); flex: none; }
+.legend .key i.nodata { background: var(--paper); border-style: dashed; }
+@media (min-width: 560px) { .tile-name { font-size: .82rem; } .tile-v { font-size: .95rem; } .tiles { grid-auto-rows: minmax(76px, auto); gap: 5px; } }
+
+/* Party-by-party line under a named vote. */
+.party-chips { display: flex; flex-wrap: wrap; gap: 4px 6px; margin-top: 6px; font-size: .8rem; }
+.pchip { display: inline-flex; align-items: center; gap: 5px; padding: 1px 8px 1px 6px; border-radius: 999px;
+  background: var(--surface-2); border: 1px solid var(--line); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.pchip.split { border-style: dashed; }
+.pchip abbr { text-decoration: none; font-weight: 600; }
+.pchip .side-jaa { color: var(--jaa); } .pchip .side-ei { color: var(--ei); } .pchip .side-tyhja { color: var(--muted); }

@@ -163,6 +163,23 @@ def test_cloudnc_region(tmp_path, patch_fetcher):
     assert real["votes"][0]["counts"] == {"jaa": 6, "ei": 3}
 
 
+def test_cloudnc_missing_item_page_keeps_meeting(tmp_path, patch_fetcher):
+    # The second item's page answers 404: the meeting is still saved, that item with title only.
+    patch_fetcher({
+        "/fi-FI/Toimielimet": "cloudnc/bodies.html",
+        "/fi-FI/Toimielimet/Aluehallitus": "cloudnc/aluehallitus.html",
+        "/fi-FI/Toimielimet/Lasten_nuorten_perheiden_ja_tyoumlikaumlisten_valiokunta": "cloudnc/aluehallitus.html",
+        "/Kokous_5102026": "cloudnc/kokous.html",
+        "/fi-FI/content/46498/14970": "cloudnc/item.html",
+    })
+    status = scrape_region(CLOUDNC_REGION, tmp_path)
+    assert status["errors"] == [], status
+    m = json.loads((tmp_path / "esim2/meetings/aluehallitus/2026-10-05.json").read_text())
+    assert m["items"][0]["decision"] == "Päätösehdotus hyväksyttiin."
+    assert m["items"][1]["source_url"].endswith("/fi-FI/content/46499/14970")
+    assert m["items"][1]["sections"] == []
+
+
 @pytest.mark.parametrize("text,expected", [
     ("Äänestyksessä annettiin 42 JAA-ääntä, 16 EI-ääntä ja 1 TYHJÄ-ääni.", {"jaa": 42, "ei": 16, "tyhja": 1}),
     ("Äänestys: JAA 30, EI 20, TYHJÄ 2, POISSA 7", {"jaa": 30, "ei": 20, "tyhja": 2, "poissa": 7}),
