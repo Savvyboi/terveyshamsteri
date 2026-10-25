@@ -96,6 +96,10 @@ const current = (href: string) => (href === url() ? path === href : path.startsW
       </div>
     </div>
   </footer>
+  <button type="button" class="to-top" data-to-top hidden>
+    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
+    <span class="sr-only"><T k="backToTop" /></span>
+  </button>
   <dialog class="search-dialog" aria-label="Haku">
     <div class="dialog-head">
       <p><T k="searchHint" /></p>

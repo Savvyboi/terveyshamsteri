@@ -6,6 +6,7 @@ import L from '../../components/L.astro';
 import MeetingTable from '../../components/MeetingTable.astro';
 import VoteTable from '../../components/VoteTable.astro';
 import SeatBar from '../../components/SeatBar.astro';
+import Hemicycle from '../../components/Hemicycle.astro';
 import FinanceCard from '../../components/FinanceCard.astro';
 import { BODY_TYPES, initiatives, bodiesOf, bodyTwin, bothViews, electionOf, fmtDate, load, meetingsOf, url, votesOf, type Region } from '../../lib/data';
 
@@ -54,7 +55,8 @@ const hasInitiatives = initiatives().some((g) => g.region === r.id);
     {election && (
       <div class="card" style="margin-top:16px">
         <h3 style="margin-top:0"><T k="councillors" /> ({election.seats})</h3>
-        <SeatBar parties={election.parties} />
+        <Hemicycle parties={election.parties} />
+            <SeatBar parties={election.parties} />
         <p style="margin:12px 0 0"><a href={url(r.id, 'valtuutetut')}><T k="showAll" /> →</a></p>
       </div>
     )}
@@ -93,6 +95,7 @@ const hasInitiatives = initiatives().some((g) => g.region === r.id);
         {election && (
           <div class="card">
             <h3 style="margin-top:0"><T k="councillors" /> ({election.seats})</h3>
+            <Hemicycle parties={election.parties} />
             <SeatBar parties={election.parties} />
             <p style="margin:12px 0 0"><a href={url(r.id, 'valtuutetut')}><T k="showAll" /> →</a></p>
           </div>

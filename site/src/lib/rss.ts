@@ -23,9 +23,10 @@ export function feedItems(meetings: Meeting[], limit: number) {
 }
 
 export function rss(opts: { site: URL; self: string; title: string; link: string; description: string;
-  meetings: Meeting[]; limit: number; regionName: (id: string) => string }): Response {
+  meetings?: Meeting[]; entries?: { m: Meeting; i: number }[]; limit: number; regionName: (id: string) => string }): Response {
   const abs = (p: string) => new URL(p, opts.site).href;
-  const items = feedItems(opts.meetings, opts.limit).map(({ m, i }) => {
+  const entries = opts.entries ? opts.entries.slice(0, opts.limit) : feedItems(opts.meetings ?? [], opts.limit);
+  const items = entries.map(({ m, i }) => {
     const it = m.items[i];
     const agenda = m.stage === 'agenda';
     const link = abs(itemUrl(m, i));

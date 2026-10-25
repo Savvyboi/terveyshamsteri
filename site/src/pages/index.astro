@@ -64,7 +64,7 @@ const updated = status.updated_at ? fmtDate(status.updated_at.slice(0, 10)) : nu
   <div class="section-head"><h2><T k="browseTopics" /></h2><a href={url('aiheet')}><T k="topics" /> →</a></div>
   <ul class="topic-grid">
     {topicCounts().map(({ topic, n }) => (
-      <li><a href={`${url('aiheet')}?topic=${topic.id}`}><L fi={topic.label.fi!} sv={topic.label.sv} en={topic.label.en} /> <span class="n">{fi(n)}</span></a></li>
+      <li><a href={url('aiheet', topic.id)}><L fi={topic.label.fi!} sv={topic.label.sv} en={topic.label.en} /> <span class="n">{fi(n)}</span></a></li>
     ))}
   </ul>
 
