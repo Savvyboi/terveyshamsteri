@@ -1,0 +1,39 @@
+---
+// Council seats as a half circle of dots, one dot per seat, groups from left to right in the
+// usual Finnish seating order. Ported from Kotihiiri; the seat bar below it carries the legend.
+import { partyMeta } from '../lib/data';
+interface Props { parties: { party: string; seats: number }[] }
+const ORDER = ['SKP', 'VAS', 'SDP', 'VIHR', 'KESK', 'RKP', 'KD', 'KOK', 'LIIKE', 'PS'];
+const rank = (p: string) => { const i = ORDER.indexOf(p); return i < 0 ? ORDER.length : i; };
+const seats = Astro.props.parties.filter((p) => p.seats > 0)
+  .sort((a, b) => rank(a.party) - rank(b.party) || b.seats - a.seats);
+const total = seats.reduce((n, s) => n + s.seats, 0);
+const rows = Math.max(3, Math.round(Math.sqrt(total / 3.2)));
+const radii = Array.from({ length: rows }, (_, i) => 0.42 + (0.58 * i) / Math.max(1, rows - 1));
+const sumR = radii.reduce((a, b) => a + b, 0);
+const perRow = radii.map((r) => Math.round((total * r) / sumR));
+perRow[rows - 1] += total - perRow.reduce((a, b) => a + b, 0);
+const spots: { x: number; y: number; a: number }[] = [];
+radii.forEach((r, i) => {
+  const k = perRow[i];
+  for (let j = 0; j < k; j++) {
+    const a = k === 1 ? Math.PI / 2 : Math.PI - (Math.PI * j) / (k - 1);
+    spots.push({ x: r * Math.cos(a), y: -r * Math.sin(a), a });
+  }
+});
+// Fill by angle, so each group gets a wedge from the inner row to the outer one.
+spots.sort((p, q) => q.a - p.a || Math.hypot(p.x, p.y) - Math.hypot(q.x, q.y));
+const owners = seats.flatMap((s) => Array.from({ length: s.seats }, () => s.party));
+const dot = (0.5 / rows) * 0.42;
+const label = seats.map((s) => `${partyMeta(s.party).fi} ${s.seats}`).join(', ');
+---
+{total > 0 && (
+  <svg class="hemicycle" viewBox="-1.05 -1.05 2.1 1.1" role="img" aria-label={label}>
+    {spots.map((p, i) => (
+      <circle cx={p.x.toFixed(3)} cy={p.y.toFixed(3)} r={dot.toFixed(3)} fill={partyMeta(owners[i]).color}>
+        <title>{partyMeta(owners[i]).fi}</title>
+      </circle>
+    ))}
+    <text x="0" y="-0.06" text-anchor="middle" font-size="0.26" font-weight="700" fill="currentColor">{total}</text>
+  </svg>
+)}

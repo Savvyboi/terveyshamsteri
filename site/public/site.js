@@ -167,5 +167,26 @@
     });
   });
 
+  // ------------------------------------------------------------ back to top
+  // Shown once the reader has scrolled a screen down (ported from Vahtikissa). The header is
+  // sticky, so a marker a screen below the top of the page is watched instead.
+  var toTop = document.querySelector('[data-to-top]');
+  if (toTop && 'IntersectionObserver' in window) {
+    var marker = document.createElement('span');
+    marker.setAttribute('aria-hidden', 'true');
+    marker.style.cssText = 'position:absolute;top:0;left:0;width:1px;height:100vh;pointer-events:none';
+    document.body.prepend(marker);
+    new IntersectionObserver(function (entries) {
+      var e = entries[0];
+      toTop.hidden = e.isIntersecting || e.boundingClientRect.top >= 0;
+    }).observe(marker);
+    toTop.addEventListener('click', function () {
+      var reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+      window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' });
+      var main = document.getElementById('main');
+      if (main) { main.setAttribute('tabindex', '-1'); main.focus({ preventScroll: true }); }
+    });
+  }
+
   applyLang();
 })();

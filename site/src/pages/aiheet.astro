@@ -21,6 +21,18 @@ const fi = (n: number) => n.toLocaleString('fi-FI');
       </a></li>
     ))}
   </ul>
+  <details class="panel">
+    <summary><T k="topicPages" /></summary>
+    <div class="panel-body">
+      <p class="note" style="margin-top:0"><T k="topicFeedLead" /></p>
+      <ul class="topic-pages">
+        {topicCounts().map(({ topic }) => (
+          <li><a href={url('aiheet', topic.id)}><L fi={topic.label.fi!} sv={topic.label.sv} en={topic.label.en} /></a>
+            · <a href={`${url('aiheet', topic.id)}rss.xml`}>RSS</a></li>
+        ))}
+      </ul>
+    </div>
+  </details>
   <p class="note"><T k="topicsHow" /> <a href={url('haku')}><T k="searchTitle" /> →</a></p>
   <DataTable kind="items" src={url('data') + 'items.json'} sorts={['newest', 'oldest']} stageFilter topics />
   <script is:inline src={`${base}/table.js`} defer></script>

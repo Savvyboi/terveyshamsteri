@@ -566,3 +566,26 @@ table.data code { font-size: .82em; overflow-wrap: anywhere; }
 .pchip.split { border-style: dashed; }
 .pchip abbr { text-decoration: none; font-weight: 600; }
 .pchip .side-jaa { color: var(--jaa); } .pchip .side-ei { color: var(--ei); } .pchip .side-tyhja { color: var(--muted); }
+
+/* Council seats as a half circle (Hemicycle.astro). */
+.hemicycle { display: block; width: 100%; max-width: 440px; height: auto; margin: 8px auto 4px; color: var(--ink); }
+.aside .hemicycle, .card .hemicycle { max-width: 280px; }
+.hemicycle circle { stroke: var(--surface); stroke-width: .004; }
+[data-theme="contrast"] .hemicycle circle { stroke: #000; stroke-width: .008; }
+
+/* Counts per county or year as short bars (topic pages). */
+.tally { list-style: none; padding: 0; margin: 0; display: grid; gap: 4px; }
+.tally li { display: grid; grid-template-columns: minmax(0, 9em) 1fr 3.2em; gap: 8px; align-items: center; font-size: .88rem; }
+.tally li > :first-child { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.tally-bar { height: 10px; background: var(--surface-2); border-radius: 2px; overflow: hidden; }
+.tally-bar span { display: block; height: 100%; background: var(--blue); }
+.tally .n { text-align: right; font-variant-numeric: tabular-nums; color: var(--muted); }
+.aside .topic-grid a { font-size: .82rem; padding: 5px 10px; }
+
+/* Back-to-top button (site.js shows it once the header has scrolled away). */
+.to-top { position: fixed; right: 16px; bottom: 16px; z-index: 20; width: 44px; height: 44px; border-radius: 50%; border: var(--border-w) solid var(--line); background: var(--surface); color: var(--ink); box-shadow: 0 2px 8px #17203226; cursor: pointer; display: grid; place-items: center; }
+.to-top:hover { border-color: var(--blue); color: var(--blue); }
+.to-top[hidden] { display: none; }
+@media print { .to-top { display: none; } }
+.topic-pages { list-style: none; padding: 0; margin: 0; columns: 2 16em; font-size: .92rem; }
+.topic-pages li { padding: 2px 0; break-inside: avoid; }

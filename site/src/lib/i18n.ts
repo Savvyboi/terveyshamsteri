@@ -394,6 +394,25 @@ export const S = {
   rowsLc: { fi: 'riviä', sv: 'rader', en: 'rows' },
   sizeCol: { fi: 'Koko', sv: 'Storlek', en: 'Size' },
   fieldsCol: { fi: 'Kentät', sv: 'Fält', en: 'Fields' },
+  topicItemsCount: { fi: 'kokousasiaa tästä aiheesta', sv: 'ärenden om detta ämne', en: 'agenda items on this topic' },
+  topicByRegion: { fi: 'Alueittain', sv: 'Per område', en: 'By county' },
+  topicByYear: { fi: 'Vuosittain', sv: 'Per år', en: 'By year' },
+  topicLatest: { fi: 'Uusimmat asiat', sv: 'Senaste ärenden', en: 'Latest items' },
+  topicFilterAll: { fi: 'Rajaa ja lataa kaikki', sv: 'Avgränsa och ladda ner alla', en: 'Filter and download all' },
+  topicFeedLead: {
+    fi: 'Tilaa aiheen uudet asiat kaikilta alueilta syötelukijaan.',
+    sv: 'Prenumerera på nya ärenden i ämnet från alla områden i en flödesläsare.',
+    en: 'Follow new items on this topic from every county in a feed reader.',
+  },
+  topicPages: { fi: 'Aihesivut ja RSS-syötteet', sv: 'Ämnessidor och RSS-flöden', en: 'Topic pages and RSS feeds' },
+  notFoundTitle: { fi: 'Sivua ei löytynyt', sv: 'Sidan hittades inte', en: 'Page not found' },
+  notFoundLead: {
+    fi: 'Sivu on ehkä siirtynyt, tai alue on poistanut asian valitusajan jälkeen. Kokeile hakua tai palaa etusivulle.',
+    sv: 'Sidan kan ha flyttats, eller så har området tagit bort ärendet efter besvärstiden. Försök med sökningen eller gå tillbaka till startsidan.',
+    en: 'The page may have moved, or the county removed the item after the appeal period. Try the search or go back to the front page.',
+  },
+  backHome: { fi: 'Etusivulle', sv: 'Till startsidan', en: 'Front page' },
+  backToTop: { fi: 'Takaisin ylös', sv: 'Tillbaka till toppen', en: 'Back to top' },
 } satisfies Record<string, Str>;
 
 export type Key = keyof typeof S;

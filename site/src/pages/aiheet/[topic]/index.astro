@@ -1,0 +1,93 @@
+---
+// One topic's own page (/aiheet/{topic}/), ported from Kotihiiri: how many items each county
+// and year has on it, the newest items, and an RSS feed. The filterable table of every item
+// stays on /aiheet/?topic=… so this page is small enough to build for every topic.
+import Layout from '../../../layouts/Layout.astro';
+import T from '../../../components/T.astro';
+import L from '../../../components/L.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import { fmtDate, itemUrl, regionById, url } from '../../../lib/data';
+import { TOPICS, type Topic } from '../../../lib/topics';
+import { topicItems } from '../../../lib/topics-count';
+
+export function getStaticPaths() {
+  return TOPICS.map((topic) => ({ params: { topic: topic.id }, props: { topic } }));
+}
+const { topic } = Astro.props as { topic: Topic };
+const rows = topicItems(topic.id);
+const fi = (n: number) => n.toLocaleString('fi-FI');
+const tally = (key: (r: (typeof rows)[number]) => string) => {
+  const n = new Map<string, number>();
+  for (const r of rows) n.set(key(r), (n.get(key(r)) ?? 0) + 1);
+  return n;
+};
+const byRegion = [...tally((r) => r.m.region)].sort((a, b) => b[1] - a[1]);
+const byYear = [...tally((r) => r.m.date.slice(0, 4))].sort((a, b) => b[0].localeCompare(a[0]));
+const maxRegion = Math.max(1, ...byRegion.map((x) => x[1]));
+const maxYear = Math.max(1, ...byYear.map((x) => x[1]));
+const latest = rows.slice(0, 40);
+const feed = `${url('aiheet', topic.id)}rss.xml`;
+---
+<Layout title={`${topic.label.fi} – Aiheet`} feed={feed}>
+  <Breadcrumbs trail={[{ href: url('aiheet'), fi: 'Aiheet', sv: 'Ämnen', en: 'Topics' }, { fi: topic.label.fi!, sv: topic.label.sv, en: topic.label.en }]} />
+  <div class="page-head">
+    <p class="kicker"><T k="topic" /></p>
+    <h1><L fi={topic.label.fi!} sv={topic.label.sv} en={topic.label.en} /></h1>
+    <p class="lead">{fi(rows.length)} <T k="topicItemsCount" /></p>
+    <div class="actions">
+      <a class="btn small" href={`${url('aiheet')}?topic=${topic.id}`}><T k="topicFilterAll" /></a>
+      <a class="btn small secondary" href={feed}><T k="rss" /></a>
+    </div>
+    <p class="note"><T k="topicFeedLead" /></p>
+  </div>
+  {rows.length === 0 ? <p><T k="noData" /></p> : (
+    <div class="columns">
+      <div>
+        <h2 style="margin-top:0"><T k="topicLatest" /></h2>
+        <ul class="list">
+          {latest.map(({ m, i }) => {
+            const it = m.items[i];
+            const r = regionById(m.region);
+            return (
+              <li><a class="row" href={itemUrl(m, i)}>
+                <span class="date">{fmtDate(m.date)}</span>
+                <span class="title">{it.number && `§ ${it.number} `}{it.title}
+                  <span class="sub"><L fi={r.short.fi!} sv={r.short.sv} /> · {m.body_name}</span></span>
+                <span class="side">
+                  {m.stage === 'agenda' && <span class="chip agenda"><T k="agenda" /></span>}
+                  {it.votes.length > 0 && <span class="chip vote">{it.votes.length} <T k="votesCount" /></span>}
+                </span>
+              </a></li>
+            );
+          })}
+        </ul>
+        {rows.length > latest.length && <p><a href={`${url('aiheet')}?topic=${topic.id}`}><T k="showAll" /> ({fi(rows.length)}) →</a></p>}
+      </div>
+      <aside class="aside">
+        <div class="card">
+          <h3 style="margin-top:0"><T k="topicByRegion" /></h3>
+          <ul class="tally">
+            {byRegion.map(([id, n]) => {
+              const r = regionById(id);
+              return <li><a href={`${url('aiheet')}?topic=${topic.id}&region=${id}`}><L fi={r.short.fi!} sv={r.short.sv} /></a>
+                <span class="tally-bar"><span style={`width:${(100 * n / maxRegion).toFixed(1)}%`}></span></span><span class="n">{fi(n)}</span></li>;
+            })}
+          </ul>
+        </div>
+        <div class="card">
+          <h3 style="margin-top:0"><T k="topicByYear" /></h3>
+          <ul class="tally">
+            {byYear.map(([y, n]) => <li><span>{y}</span><span class="tally-bar"><span style={`width:${(100 * n / maxYear).toFixed(1)}%`}></span></span><span class="n">{fi(n)}</span></li>)}
+          </ul>
+        </div>
+        <div class="card">
+          <h3 style="margin-top:0"><T k="topics" /></h3>
+          <ul class="topic-grid">
+            {TOPICS.filter((x) => x.id !== topic.id).map((x) => <li><a href={url('aiheet', x.id)}><L fi={x.label.fi!} sv={x.label.sv} en={x.label.en} /></a></li>)}
+          </ul>
+        </div>
+      </aside>
+    </div>
+  )}
+  <p class="note"><T k="topicsHow" /></p>
+</Layout>

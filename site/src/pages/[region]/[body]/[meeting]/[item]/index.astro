@@ -54,7 +54,7 @@ const initiative = initiativeOf(m, i);
       {topics.length > 0 && (
         <p class="topic-chips" data-pagefind-ignore>
           <span class="note"><T k="topics" />:</span>
-          {topics.map((x) => <a class="topic-chip" href={`${url('aiheet')}?topic=${x.id}`}><L fi={x.label.fi!} sv={x.label.sv} en={x.label.en} /></a>)}
+          {topics.map((x) => <a class="topic-chip" href={url('aiheet', x.id)}><L fi={x.label.fi!} sv={x.label.sv} en={x.label.en} /></a>)}
         </p>
       )}
     </div>

@@ -1,0 +1,18 @@
+---
+// GitHub Pages serves this for any missing path, e.g. an item a county has since removed.
+import Layout from '../layouts/Layout.astro';
+import T from '../components/T.astro';
+import { url } from '../lib/data';
+---
+<Layout title="Sivua ei löytynyt">
+  <div class="page-head">
+    <p class="kicker">404</p>
+    <h1><T k="notFoundTitle" /></h1>
+    <p class="lead"><T k="notFoundLead" /></p>
+    <div class="actions">
+      <a class="btn small" href={url()}><T k="backHome" /></a>
+      <a class="btn small secondary" href={url('haku')}><T k="searchTitle" /></a>
+      <a class="btn small secondary" href={url('alueet')}><T k="regions" /></a>
+    </div>
+  </div>
+</Layout>
