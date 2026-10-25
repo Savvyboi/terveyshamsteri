@@ -213,7 +213,9 @@ export const partySlug = (code: string) => code.toLowerCase();
 // ------------------------------------------------------------------ people
 export interface PersonStats {
   slug: string; name: string; roles: Set<string>; present: number; absent: number;
-  bodies: Map<string, { present: number; absent: number }>; meetings: { m: Meeting; group: string; role: string }[];
+  bodies: Map<string, { present: number; absent: number }>;
+  /** `inferred` marks a council absence worked out from a list of attendees only. */
+  meetings: { m: Meeting; group: string; role: string; inferred?: boolean }[];
   member: boolean;
   /** Set when the person is a councillor or deputy elected in 2025. */
   elected?: Candidate;
@@ -274,6 +276,7 @@ export function peopleOf(region: string): PersonStats[] {
   for (const c of election?.people ?? []) {
     if (!people.has(`c:${c.id}`)) people.set(`c:${c.id}`, blank(c.name, c));
   }
+  if (absenceMode(region) === 'inferred') inferAbsences(region, people);
   // Slugs must be unique within a region.
   const seen = new Map<string, number>();
   const out = [...people.values()].sort((a, b) => a.name.localeCompare(b.name, 'fi'));
@@ -285,6 +288,51 @@ export function peopleOf(region: string): PersonStats[] {
   peopleCache.set(region, out);
   nameIndex.set(region, names);
   return out;
+}
+
+/** Full council minutes we hold for a region, oldest first, that list who attended. */
+const councilMinutes = (region: string) => meetingsOf(region)
+  .filter((m) => m.stage !== 'agenda' && m.participants.length > 0 && bodyTypeOf(region, m.body_id) === 'council')
+  .sort((a, b) => a.date.localeCompare(b.date));
+
+/**
+ * How a region's council minutes record absence:
+ * - 'listed': the minutes name those absent;
+ * - 'inferred': they list only those present, so a councillor missing from the list was absent;
+ * - 'none': no council minutes with attendance, or no election results to compare against.
+ */
+export function absenceMode(region: string): 'listed' | 'inferred' | 'none' {
+  const ms = councilMinutes(region);
+  if (!ms.length) return 'none';
+  if (ms.some((m) => m.participants.some((p) => p.group === 'absent'))) return 'listed';
+  return electionOf(region)?.people.length ? 'inferred' : 'none';
+}
+
+/**
+ * Adds the council absences of regular councillors in regions whose minutes list attendees only.
+ * A councillor counts as absent from a council meeting held between the first and the last
+ * meeting where they do appear. The bound keeps out councillors who resigned (and their
+ * successors before they joined) and anyone whose name the minutes spell differently.
+ * Checked against the counties that do list absences, nearly every absence counted this way
+ * is a real one; some real absences at the start or end of the archive are missed.
+ */
+function inferAbsences(region: string, people: Map<string, PersonStats>) {
+  const ms = councilMinutes(region);
+  for (const s of people.values()) {
+    if (s.elected?.status !== 'elected') continue;
+    const seen = new Set(s.meetings.filter((x) => x.group !== 'other').map((x) => x.m));
+    const idx = ms.flatMap((m, i) => (seen.has(m) ? [i] : []));
+    if (!idx.length) continue;
+    for (let i = idx[0]; i <= idx[idx.length - 1]; i++) {
+      const m = ms[i];
+      if (seen.has(m)) continue;
+      s.absent++; s.council.absent++;
+      const b = s.bodies.get(m.body_id) || { present: 0, absent: 0 };
+      b.absent++; s.bodies.set(m.body_id, b);
+      s.meetings.push({ m, group: 'absent', role: '', inferred: true });
+    }
+    s.meetings.sort((a, b) => b.m.date.localeCompare(a.m.date));
+  }
 }
 
 export const councillorsOf = (region: string) => peopleOf(region).filter((p) => p.elected);
@@ -655,4 +703,33 @@ export function ballotRows() {
     }
   }
   return out.sort((a, b) => b.date.localeCompare(a.date) || a.url.localeCompare(b.url) || a.name.localeCompare(b.name, 'fi'));
+}
+
+// ------------------------------------------------------------------ comparison
+/** One row per county with minutes: the figures the comparison table and the map show. */
+export function compareRows() {
+  const fin = new Map(financeRows().map((f) => [f.region, f]));
+  const pct = (a: number, b: number) => (b ? Math.round((100 * a) / b) : null);
+  return load().regions.filter((r) => r.meetings > 0).map((r) => {
+    const ms = meetingsOf(r.id).filter((m) => m.stage !== 'agenda');
+    const council = ms.filter((m) => bodyTypeOf(r.id, m.body_id) === 'council');
+    const items = ms.reduce((a, m) => a + m.items.length, 0);
+    const voted = ms.reduce((a, m) => a + m.items.filter((it) => it.votes.length > 0).length, 0);
+    const votes = ms.reduce((a, m) => a + m.items.reduce((b, it) => b + it.votes.length, 0), 0);
+    const cs = councillorsOf(r.id).filter((p) => p.elected!.status === 'elected');
+    // Some minutes list only those present; there absences are inferred (see absenceMode).
+    const mode = absenceMode(r.id);
+    const present = cs.reduce((a, p) => a + p.council.present, 0);
+    const seats = cs.reduce((a, p) => a + p.council.present + p.council.absent, 0);
+    let agree = 0, lineTotal = 0;
+    for (const p of cs) { const l = partyLine(r.id, p); if (l) { agree += l.agree; lineTotal += l.total; } }
+    const ini = initiatives().filter((g) => g.region === r.id && g.twin !== 'sv');
+    const f = fin.get(r.id);
+    return {
+      r, since: ms.at(-1)?.date ?? null, meetings: ms.length, council: council.length, items, votes, voted,
+      votedPct: pct(voted, items), attendance: mode !== 'none' ? pct(present, seats) : null, inferred: mode === 'inferred', line: lineTotal >= 20 ? pct(agree, lineTotal) : null,
+      lineTotal, ini: ini.length, iniAnswered: ini.filter((g) => g.status === 'answered').length,
+      expenses: f?.expenses_per_resident ?? null, cumulative: f?.cumulative_per_resident ?? null,
+    };
+  });
 }

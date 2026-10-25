@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import T from '../components/T.astro';
 import L from '../components/L.astro';
 import Hamster from '../components/Hamster.astro';
+import CountyMap from '../components/CountyMap.astro';
 import MeetingTable from '../components/MeetingTable.astro';
 import VoteTable from '../components/VoteTable.astro';
 import { topicCounts } from '../lib/topics-count';
@@ -70,7 +71,7 @@ const updated = status.updated_at ? fmtDate(status.updated_at.slice(0, 10)) : nu
   {allVotes.length > 0 && (
     <>
       <div class="section-head"><h2><T k="latestVotes" /></h2><a href={url('aanestykset')}><T k="allVotes" /> →</a></div>
-      <VoteTable votes={bothViews(allVotes, 8, ({ m }) => m.twin)} showRegion />
+      <VoteTable votes={bothViews(allVotes, 8, ({ m }) => m.twin)} showRegion parties />
     </>
   )}
 
@@ -84,15 +85,10 @@ const updated = status.updated_at ? fmtDate(status.updated_at.slice(0, 10)) : nu
   <div class="section-head"><h2><T k="latestMeetings" /></h2><a href={url('kokoukset')}><T k="showAll" /> →</a></div>
   <MeetingTable meetings={bothViews(minutes, 10, (m) => m.twin)} showRegion />
 
-  <div class="section-head"><h2><T k="regions" /></h2><a href={url('alueet')}><T k="showAll" /> →</a></div>
-  <div class="grid">
-    {enabled.map((r) => (
-      <a class="card region-card" href={url(r.id)}>
-        <span class="name"><L fi={r.short.fi!} sv={r.short.sv} /></span>
-        <span class="meta">{fi(r.meetings)} <T k="meetingsCount" /></span>
-      </a>
-    ))}
-  </div>
+  <div class="section-head"><h2><T k="regions" /></h2><a href={url('kartta')}><T k="map" /> →</a></div>
+  <CountyMap metrics={['coverage', 'meetings', 'votes']} id="home-map">
+    <p class="note" style="margin-top:18px"><a href={url('alueet')}><T k="showAll" /> →</a></p>
+  </CountyMap>
 
   <h2><T k="howTitle" /></h2>
   <ol class="how">

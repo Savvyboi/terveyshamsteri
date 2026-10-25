@@ -10,6 +10,8 @@ from __future__ import annotations
 
 import logging
 import re
+
+import requests
 from urllib.parse import unquote, urljoin, urlsplit
 
 from ..models import Attachment, Body, Item, Meeting, MeetingRef, Participant
@@ -113,7 +115,14 @@ class CloudNCAdapter(Adapter):
 
         meeting.participants = _participants(page_text)
         for item in meeting.items:
-            self._fetch_item(item)
+            try:
+                self._fetch_item(item)
+            except requests.HTTPError as e:
+                # An item page that has been taken down must not cost us the whole meeting:
+                # keep the item with its title and source link, without its text.
+                if _status(e) not in (404, 410):
+                    raise
+                log.warning("item page gone, keeping title only: %s (%s)", item.source_url, e)
         return meeting
 
     def _fetch_item(self, item: Item) -> None:
@@ -210,3 +219,11 @@ def _split_people(line: str) -> list[str]:
             cur += ch
     parts.append(cur)
     return [p.strip() for p in parts if p.strip()]
+
+
+def _status(e: requests.HTTPError) -> int | None:
+    code = getattr(getattr(e, "response", None), "status_code", None)
+    if code is None:
+        m = re.match(r"(\d{3})\b", str(e))
+        code = int(m.group(1)) if m else None
+    return code

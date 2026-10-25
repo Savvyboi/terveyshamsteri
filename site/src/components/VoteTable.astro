@@ -2,9 +2,10 @@
 import T from './T.astro';
 import L from './L.astro';
 import VoteBar from './VoteBar.astro';
+import PartyChips from './PartyChips.astro';
 import { fmtDate, itemUrl, regionById, type Meeting, type Vote } from '../lib/data';
-interface Props { votes: { m: Meeting; i: number; v: Vote }[]; showRegion?: boolean }
-const { votes, showRegion } = Astro.props;
+interface Props { votes: { m: Meeting; i: number; v: Vote }[]; showRegion?: boolean; parties?: boolean }
+const { votes, showRegion, parties } = Astro.props;
 ---
 <div class="table-wrap">
   <table class="data stack">
@@ -18,7 +19,8 @@ const { votes, showRegion } = Astro.props;
             <td class="date">{fmtDate(m.date)}</td>
             <td><a class="t" href={itemUrl(m, i)}>{it.title}</a>
               {v.question?.jaa && v.question?.ei && <span class="sub"><T k="jaa" />: {v.question.jaa} · <T k="ei" />: {v.question.ei}</span>}
-              <span class="sub">{showRegion && <><L fi={r.short.fi!} sv={r.short.sv} /> · </>}{m.body_name}{it.number && ` · § ${it.number}`}</span></td>
+              <span class="sub">{showRegion && <><L fi={r.short.fi!} sv={r.short.sv} /> · </>}{m.body_name}{it.number && ` · § ${it.number}`}</span>
+              {parties && <PartyChips m={m} v={v} />}</td>
             <td class="result"><VoteBar vote={v} compact /></td>
           </tr>
         );
