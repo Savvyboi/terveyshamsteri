@@ -1,0 +1,15 @@
+{
+ "region": "pirkanmaa",
+ "started_at": "2026-10-26T01:08:36+00:00",
+ "parser_version": "0.1.0",
+ "fetched": 19,
+ "changed": 2,
+ "unchanged": 149,
+ "removed": 0,
+ "errors": [],
+ "complete": true,
+ "result": "ok",
+ "requests": 253,
+ "finished_at": "2026-10-26T01:12:49+00:00",
+ "meetings_total": 168
+}

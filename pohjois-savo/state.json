@@ -1,0 +1,2174 @@
+{
+ "meetings": {
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261164": {
+   "id": "vammaisneuvosto/2026-10-22",
+   "date": "2026-10-22",
+   "stage": "agenda",
+   "hash": "dc2b2e73b26f6160",
+   "fetched_at": "2026-10-14T17:48:47+00:00",
+   "first_seen": "2026-10-14T17:48:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261154": {
+   "id": "aluehallitus/2026-10-19",
+   "date": "2026-10-19",
+   "stage": "minutes",
+   "hash": "e5588ed0a09b7bc8",
+   "fetched_at": "2026-10-26T01:16:55+00:00",
+   "first_seen": "2026-10-14T17:49:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261136": {
+   "id": "yleisten-palveluiden-lautakunnan-jaosto-julkinen/2026-10-15",
+   "date": "2026-10-15",
+   "stage": "minutes",
+   "hash": "64c2cf11d98e6409",
+   "fetched_at": "2026-10-26T01:17:11+00:00",
+   "first_seen": "2026-10-14T17:49:21+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261134": {
+   "id": "yleisten-palveluiden-lautakunta/2026-10-15",
+   "date": "2026-10-15",
+   "stage": "minutes",
+   "hash": "195513d838216ec4",
+   "fetched_at": "2026-10-26T01:17:20+00:00",
+   "first_seen": "2026-10-14T17:49:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261088": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunnan-jaosto-julkinen/2026-10-08",
+   "date": "2026-10-08",
+   "stage": "minutes",
+   "hash": "68be32e78a762c9c",
+   "fetched_at": "2026-10-14T17:49:43+00:00",
+   "first_seen": "2026-10-14T17:49:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261086": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunta/2026-10-08",
+   "date": "2026-10-08",
+   "stage": "minutes",
+   "hash": "95a68fa24a3a2d83",
+   "fetched_at": "2026-10-19T01:09:12+00:00",
+   "first_seen": "2026-10-14T17:49:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261158": {
+   "id": "kokonaisturvallisuuslautakunta/2026-10-08",
+   "date": "2026-10-08",
+   "stage": "minutes",
+   "hash": "938425256a06f061",
+   "fetched_at": "2026-10-14T17:50:02+00:00",
+   "first_seen": "2026-10-14T17:50:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261160": {
+   "id": "tarkastuslautakunta/2026-10-08",
+   "date": "2026-10-08",
+   "stage": "agenda",
+   "hash": "7255bb76d09ceb53",
+   "fetched_at": "2026-10-14T17:50:10+00:00",
+   "first_seen": "2026-10-14T17:50:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261161": {
+   "id": "aluehallitus/2026-10-07",
+   "date": "2026-10-07",
+   "stage": "minutes",
+   "hash": "92afd1326786987a",
+   "fetched_at": "2026-10-19T01:09:46+00:00",
+   "first_seen": "2026-10-14T17:50:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261168": {
+   "id": "asiakaskokemusjaosto/2026-10-07",
+   "date": "2026-10-07",
+   "stage": "minutes",
+   "hash": "54b996964767fc0e",
+   "fetched_at": "2026-10-19T01:10:05+00:00",
+   "first_seen": "2026-10-14T17:50:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261153": {
+   "id": "omistajaohjaus-ja-talousjaosto/2026-10-06",
+   "date": "2026-10-06",
+   "stage": "minutes",
+   "hash": "a0c2302d11d0167b",
+   "fetched_at": "2026-10-14T17:50:54+00:00",
+   "first_seen": "2026-10-14T17:50:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261131": {
+   "id": "aluevaltuusto/2026-10-05",
+   "date": "2026-10-05",
+   "stage": "minutes",
+   "hash": "8fa5abc6c1d1e5fc",
+   "fetched_at": "2026-10-19T01:10:25+00:00",
+   "first_seen": "2026-10-14T17:51:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261065": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunnan-jaosto-julkinen/2026-09-28",
+   "date": "2026-09-28",
+   "stage": "minutes",
+   "hash": "00b97448b777e79d",
+   "fetched_at": "2026-10-14T17:51:19+00:00",
+   "first_seen": "2026-10-14T17:51:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261059": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunta/2026-09-28",
+   "date": "2026-09-28",
+   "stage": "minutes",
+   "hash": "4b4e4cdf69a82f58",
+   "fetched_at": "2026-10-14T17:51:28+00:00",
+   "first_seen": "2026-10-14T17:51:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261085": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunta/2026-09-24",
+   "date": "2026-09-24",
+   "stage": "minutes",
+   "hash": "a6a070277bb548d2",
+   "fetched_at": "2026-10-19T01:11:00+00:00",
+   "first_seen": "2026-10-14T17:51:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261123": {
+   "id": "kokonaisturvallisuuslautakunta/2026-09-24",
+   "date": "2026-09-24",
+   "stage": "minutes",
+   "hash": "58b743bb9f560dda",
+   "fetched_at": "2026-10-14T17:51:51+00:00",
+   "first_seen": "2026-10-14T17:51:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261152": {
+   "id": "tarkastuslautakunta/2026-09-24",
+   "date": "2026-09-24",
+   "stage": "minutes",
+   "hash": "1b0e57a815ca9f04",
+   "fetched_at": "2026-10-19T01:11:22+00:00",
+   "first_seen": "2026-10-14T17:52:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261151": {
+   "id": "tulevaisuus-ja-strategiajaosto/2026-09-24",
+   "date": "2026-09-24",
+   "stage": "minutes",
+   "hash": "11427537c759a889",
+   "fetched_at": "2026-10-19T01:11:31+00:00",
+   "first_seen": "2026-10-14T17:52:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261157": {
+   "id": "aluehallitus/2026-09-23",
+   "date": "2026-09-23",
+   "stage": "minutes",
+   "hash": "468ab813d8a923fa",
+   "fetched_at": "2026-10-19T01:11:43+00:00",
+   "first_seen": "2026-10-14T17:52:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261128": {
+   "id": "asiakaskokemusjaosto/2026-09-23",
+   "date": "2026-09-23",
+   "stage": "minutes",
+   "hash": "718922be514fe07b",
+   "fetched_at": "2026-10-14T17:52:32+00:00",
+   "first_seen": "2026-10-14T17:52:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261130": {
+   "id": "aluehallitus/2026-09-21",
+   "date": "2026-09-21",
+   "stage": "minutes",
+   "hash": "3b2f4033f71656e9",
+   "fetched_at": "2026-10-19T01:12:18+00:00",
+   "first_seen": "2026-10-14T17:52:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261080": {
+   "id": "yleisten-palveluiden-lautakunnan-jaosto-julkinen/2026-09-17",
+   "date": "2026-09-17",
+   "stage": "minutes",
+   "hash": "e3badc5f15171a7f",
+   "fetched_at": "2026-10-14T17:53:09+00:00",
+   "first_seen": "2026-10-14T17:53:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261078": {
+   "id": "yleisten-palveluiden-lautakunta/2026-09-17",
+   "date": "2026-09-17",
+   "stage": "minutes",
+   "hash": "ed4f8406ecb51a46",
+   "fetched_at": "2026-10-19T01:12:43+00:00",
+   "first_seen": "2026-10-14T17:53:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261124": {
+   "id": "omistajaohjaus-ja-talousjaosto/2026-09-15",
+   "date": "2026-09-15",
+   "stage": "minutes",
+   "hash": "66813a047de73878",
+   "fetched_at": "2026-10-19T01:12:54+00:00",
+   "first_seen": "2026-10-14T17:53:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261064": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunnan-jaosto-julkinen/2026-09-14",
+   "date": "2026-09-14",
+   "stage": "minutes",
+   "hash": "4e4ded1ea57cb797",
+   "fetched_at": "2026-10-14T17:54:01+00:00",
+   "first_seen": "2026-10-14T17:54:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261058": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunta/2026-09-14",
+   "date": "2026-09-14",
+   "stage": "minutes",
+   "hash": "bc1550e419da3d18",
+   "fetched_at": "2026-10-14T17:54:10+00:00",
+   "first_seen": "2026-10-14T17:54:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261144": {
+   "id": "nuorisovaltuusto/2026-09-08",
+   "date": "2026-09-08",
+   "stage": "minutes",
+   "hash": "5781a1b834fe07cc",
+   "fetched_at": "2026-10-26T01:22:09+00:00",
+   "first_seen": "2026-10-14T17:54:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261125": {
+   "id": "aluehallitus/2026-09-07",
+   "date": "2026-09-07",
+   "stage": "minutes",
+   "hash": "419eb36d40aa40e7",
+   "fetched_at": "2026-10-19T01:13:59+00:00",
+   "first_seen": "2026-10-14T17:54:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261077": {
+   "id": "yleisten-palveluiden-lautakunnan-jaosto-julkinen/2026-09-02",
+   "date": "2026-09-02",
+   "stage": "minutes",
+   "hash": "8bf4adf0469cf179",
+   "fetched_at": "2026-10-14T17:54:50+00:00",
+   "first_seen": "2026-10-14T17:54:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261129": {
+   "id": "aluehallitus/2026-08-31",
+   "date": "2026-08-31",
+   "stage": "minutes",
+   "hash": "2bb07eeb47b46574",
+   "fetched_at": "2026-10-14T17:54:58+00:00",
+   "first_seen": "2026-10-14T17:54:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261111": {
+   "id": "aluevaltuusto/2026-08-31",
+   "date": "2026-08-31",
+   "stage": "minutes",
+   "hash": "da928c54e6204784",
+   "fetched_at": "2026-10-19T01:14:31+00:00",
+   "first_seen": "2026-10-14T17:55:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261119": {
+   "id": "ikaihmisten-neuvosto/2026-08-27",
+   "date": "2026-08-27",
+   "stage": "minutes",
+   "hash": "5499688f0e23a0d8",
+   "fetched_at": "2026-10-14T17:55:19+00:00",
+   "first_seen": "2026-10-14T17:55:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261133": {
+   "id": "omistajaohjaus-ja-talousjaosto/2026-08-26",
+   "date": "2026-08-26",
+   "stage": "minutes",
+   "hash": "3febf7e93e305f13",
+   "fetched_at": "2026-10-14T17:55:25+00:00",
+   "first_seen": "2026-10-14T17:55:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026970": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunnan-jaosto-julkinen/2026-08-24",
+   "date": "2026-08-24",
+   "stage": "minutes",
+   "hash": "aa5357ad7fdbd047",
+   "fetched_at": "2026-10-14T17:55:51+00:00",
+   "first_seen": "2026-10-14T17:55:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261051": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunta/2026-08-24",
+   "date": "2026-08-24",
+   "stage": "minutes",
+   "hash": "a886a7705267fa87",
+   "fetched_at": "2026-10-14T17:56:01+00:00",
+   "first_seen": "2026-10-14T17:56:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261069": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunnan-jaosto-julkinen/2026-08-20",
+   "date": "2026-08-20",
+   "stage": "minutes",
+   "hash": "c5290c4c8e2b0f92",
+   "fetched_at": "2026-10-14T17:56:16+00:00",
+   "first_seen": "2026-10-14T17:56:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261070": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunta/2026-08-20",
+   "date": "2026-08-20",
+   "stage": "minutes",
+   "hash": "5479eebf4e5305ae",
+   "fetched_at": "2026-10-14T17:56:28+00:00",
+   "first_seen": "2026-10-14T17:56:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261115": {
+   "id": "kokonaisturvallisuuslautakunta/2026-08-20",
+   "date": "2026-08-20",
+   "stage": "minutes",
+   "hash": "8043c0ce471aa908",
+   "fetched_at": "2026-10-19T01:15:58+00:00",
+   "first_seen": "2026-10-14T17:56:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261126": {
+   "id": "tulevaisuus-ja-strategiajaosto/2026-08-20",
+   "date": "2026-08-20",
+   "stage": "minutes",
+   "hash": "953eac5412989314",
+   "fetched_at": "2026-10-14T17:56:47+00:00",
+   "first_seen": "2026-10-14T17:56:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261117": {
+   "id": "vammaisneuvosto/2026-08-18",
+   "date": "2026-08-18",
+   "stage": "minutes",
+   "hash": "7e412a5dac825be2",
+   "fetched_at": "2026-10-14T17:56:54+00:00",
+   "first_seen": "2026-10-14T17:56:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261114": {
+   "id": "aluehallitus/2026-08-17",
+   "date": "2026-08-17",
+   "stage": "minutes",
+   "hash": "a0daddd0dc46559b",
+   "fetched_at": "2026-10-14T17:57:11+00:00",
+   "first_seen": "2026-10-14T17:57:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261109": {
+   "id": "tarkastuslautakunta/2026-08-13",
+   "date": "2026-08-13",
+   "stage": "minutes",
+   "hash": "2aa52557fbc024b6",
+   "fetched_at": "2026-10-14T17:57:22+00:00",
+   "first_seen": "2026-10-14T17:57:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261118": {
+   "id": "asiakaskokemusjaosto/2026-08-12",
+   "date": "2026-08-12",
+   "stage": "minutes",
+   "hash": "e52278988e1309fc",
+   "fetched_at": "2026-10-14T17:57:49+00:00",
+   "first_seen": "2026-10-14T17:57:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261110": {
+   "id": "omistajaohjaus-ja-talousjaosto/2026-08-11",
+   "date": "2026-08-11",
+   "stage": "minutes",
+   "hash": "fd8a097526aac447",
+   "fetched_at": "2026-10-14T17:58:05+00:00",
+   "first_seen": "2026-10-14T17:58:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261112": {
+   "id": "aluehallitus/2026-08-10",
+   "date": "2026-08-10",
+   "stage": "minutes",
+   "hash": "aa9488ac0e2875b3",
+   "fetched_at": "2026-10-14T17:58:22+00:00",
+   "first_seen": "2026-10-14T17:58:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026959": {
+   "id": "yleisten-palveluiden-lautakunnan-jaosto-julkinen/2026-06-18",
+   "date": "2026-06-18",
+   "stage": "minutes",
+   "hash": "6e9a40079577ec5d",
+   "fetched_at": "2026-10-14T17:58:32+00:00",
+   "first_seen": "2026-10-14T17:58:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261018": {
+   "id": "yleisten-palveluiden-lautakunta/2026-06-18",
+   "date": "2026-06-18",
+   "stage": "minutes",
+   "hash": "86642c74c7856576",
+   "fetched_at": "2026-10-14T17:58:48+00:00",
+   "first_seen": "2026-10-14T17:58:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261073": {
+   "id": "aluehallitus/2026-06-17",
+   "date": "2026-06-17",
+   "stage": "minutes",
+   "hash": "0bc9b2f055d125ad",
+   "fetched_at": "2026-10-14T17:59:09+00:00",
+   "first_seen": "2026-10-14T17:59:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261106": {
+   "id": "asiakaskokemusjaosto/2026-06-17",
+   "date": "2026-06-17",
+   "stage": "minutes",
+   "hash": "ef66848910b4e509",
+   "fetched_at": "2026-10-14T17:59:27+00:00",
+   "first_seen": "2026-10-14T17:59:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261017": {
+   "id": "omistajaohjaus-ja-talousjaosto/2026-06-16",
+   "date": "2026-06-16",
+   "stage": "minutes",
+   "hash": "c590fb339abb4a94",
+   "fetched_at": "2026-10-14T17:59:39+00:00",
+   "first_seen": "2026-10-14T17:59:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261046": {
+   "id": "aluevaltuusto/2026-06-15",
+   "date": "2026-06-15",
+   "stage": "minutes",
+   "hash": "107dcd1434c566fe",
+   "fetched_at": "2026-10-14T17:59:56+00:00",
+   "first_seen": "2026-10-14T17:59:56+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261016": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunnan-jaosto-julkinen/2026-06-11",
+   "date": "2026-06-11",
+   "stage": "minutes",
+   "hash": "a6434010d727b7bc",
+   "fetched_at": "2026-10-14T18:00:04+00:00",
+   "first_seen": "2026-10-14T18:00:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261014": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunta/2026-06-11",
+   "date": "2026-06-11",
+   "stage": "minutes",
+   "hash": "a2d32e5aa4136eca",
+   "fetched_at": "2026-10-14T18:00:19+00:00",
+   "first_seen": "2026-10-14T18:00:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261042": {
+   "id": "kokonaisturvallisuuslautakunta/2026-06-11",
+   "date": "2026-06-11",
+   "stage": "minutes",
+   "hash": "f298cc720c57391b",
+   "fetched_at": "2026-10-14T18:00:27+00:00",
+   "first_seen": "2026-10-14T18:00:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261071": {
+   "id": "tarkastuslautakunta/2026-06-11",
+   "date": "2026-06-11",
+   "stage": "minutes",
+   "hash": "fd61dbd9b905bf73",
+   "fetched_at": "2026-10-14T18:00:39+00:00",
+   "first_seen": "2026-10-14T18:00:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261057": {
+   "id": "ikaihmisten-neuvosto/2026-06-09",
+   "date": "2026-06-09",
+   "stage": "minutes",
+   "hash": "ac55348a1f1392e2",
+   "fetched_at": "2026-10-14T18:00:47+00:00",
+   "first_seen": "2026-10-14T18:00:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261013": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunnan-jaosto-julkinen/2026-06-08",
+   "date": "2026-06-08",
+   "stage": "minutes",
+   "hash": "5fbb0105c26bc6aa",
+   "fetched_at": "2026-10-14T18:01:05+00:00",
+   "first_seen": "2026-10-14T18:01:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261011": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunta/2026-06-08",
+   "date": "2026-06-08",
+   "stage": "minutes",
+   "hash": "849a4bfa29a0a954",
+   "fetched_at": "2026-10-14T18:01:19+00:00",
+   "first_seen": "2026-10-14T18:01:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261055": {
+   "id": "vammaisneuvosto/2026-06-04",
+   "date": "2026-06-04",
+   "stage": "minutes",
+   "hash": "8c55989d57dd6cce",
+   "fetched_at": "2026-10-14T18:01:27+00:00",
+   "first_seen": "2026-10-14T18:01:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261044": {
+   "id": "aluehallitus/2026-06-01",
+   "date": "2026-06-01",
+   "stage": "minutes",
+   "hash": "7e20dd674a31042d",
+   "fetched_at": "2026-10-14T18:01:53+00:00",
+   "first_seen": "2026-10-14T18:01:53+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261067": {
+   "id": "tarkastuslautakunta/2026-05-28",
+   "date": "2026-05-28",
+   "stage": "minutes",
+   "hash": "83d4534171ff4f3e",
+   "fetched_at": "2026-10-14T18:02:02+00:00",
+   "first_seen": "2026-10-14T18:02:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026985": {
+   "id": "yleisten-palveluiden-lautakunnan-jaosto-julkinen/2026-05-27",
+   "date": "2026-05-27",
+   "stage": "minutes",
+   "hash": "07cd9a0795ba39a1",
+   "fetched_at": "2026-10-14T18:02:15+00:00",
+   "first_seen": "2026-10-14T18:02:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026984": {
+   "id": "yleisten-palveluiden-lautakunta/2026-05-27",
+   "date": "2026-05-27",
+   "stage": "minutes",
+   "hash": "ffbe5fb4b1aac4ee",
+   "fetched_at": "2026-10-14T18:02:25+00:00",
+   "first_seen": "2026-10-14T18:02:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261056": {
+   "id": "tulevaisuus-ja-strategiajaosto/2026-05-22",
+   "date": "2026-05-22",
+   "stage": "minutes",
+   "hash": "b52fd6ad3c813002",
+   "fetched_at": "2026-10-14T18:02:33+00:00",
+   "first_seen": "2026-10-14T18:02:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026982": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunnan-jaosto-julkinen/2026-05-21",
+   "date": "2026-05-21",
+   "stage": "minutes",
+   "hash": "a8c7553225d4b158",
+   "fetched_at": "2026-10-14T18:02:43+00:00",
+   "first_seen": "2026-10-14T18:02:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026981": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunta/2026-05-21",
+   "date": "2026-05-21",
+   "stage": "minutes",
+   "hash": "9eb6eda21a8ea403",
+   "fetched_at": "2026-10-14T18:02:56+00:00",
+   "first_seen": "2026-10-14T18:02:56+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261041": {
+   "id": "kokonaisturvallisuuslautakunta/2026-05-21",
+   "date": "2026-05-21",
+   "stage": "minutes",
+   "hash": "d763a63fc9223b75",
+   "fetched_at": "2026-10-14T18:03:07+00:00",
+   "first_seen": "2026-10-14T18:03:07+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261035": {
+   "id": "tarkastuslautakunta/2026-05-21",
+   "date": "2026-05-21",
+   "stage": "minutes",
+   "hash": "27e9ff214c58014f",
+   "fetched_at": "2026-10-14T18:03:13+00:00",
+   "first_seen": "2026-10-14T18:03:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261049": {
+   "id": "alueellinen-yliopistotasoisen-terveyden-tutkimuksen-tutkimustoimikunta/2026-05-19",
+   "date": "2026-05-19",
+   "stage": "minutes",
+   "hash": "df3138f2663d571e",
+   "fetched_at": "2026-10-14T18:03:24+00:00",
+   "first_seen": "2026-10-14T18:03:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261036": {
+   "id": "nuorisovaltuusto/2026-05-19",
+   "date": "2026-05-19",
+   "stage": "minutes",
+   "hash": "708cfa82e811f39a",
+   "fetched_at": "2026-10-14T18:03:31+00:00",
+   "first_seen": "2026-10-14T18:03:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261029": {
+   "id": "aluehallitus/2026-05-18",
+   "date": "2026-05-18",
+   "stage": "minutes",
+   "hash": "b9f8f8ff71fea435",
+   "fetched_at": "2026-10-14T18:04:01+00:00",
+   "first_seen": "2026-10-14T18:04:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261053": {
+   "id": "asiakaskokemusjaosto/2026-05-13",
+   "date": "2026-05-13",
+   "stage": "minutes",
+   "hash": "172ab4f16178612b",
+   "fetched_at": "2026-10-14T18:04:27+00:00",
+   "first_seen": "2026-10-14T18:04:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261048": {
+   "id": "yleisten-palveluiden-lautakunta/2026-05-13",
+   "date": "2026-05-13",
+   "stage": "minutes",
+   "hash": "a5a8d42e113c439a",
+   "fetched_at": "2026-10-14T18:04:36+00:00",
+   "first_seen": "2026-10-14T18:04:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026980": {
+   "id": "omistajaohjaus-ja-talousjaosto/2026-05-12",
+   "date": "2026-05-12",
+   "stage": "minutes",
+   "hash": "e9c7e0942aa23be8",
+   "fetched_at": "2026-10-14T18:04:48+00:00",
+   "first_seen": "2026-10-14T18:04:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026979": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunnan-jaosto-julkinen/2026-05-12",
+   "date": "2026-05-12",
+   "stage": "minutes",
+   "hash": "7ea62b378c1ca3ce",
+   "fetched_at": "2026-10-14T18:05:06+00:00",
+   "first_seen": "2026-10-14T18:05:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026977": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunta/2026-05-12",
+   "date": "2026-05-12",
+   "stage": "minutes",
+   "hash": "f661746cd62da66b",
+   "fetched_at": "2026-10-14T18:05:22+00:00",
+   "first_seen": "2026-10-14T18:05:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261034": {
+   "id": "tarkastuslautakunta/2026-05-07",
+   "date": "2026-05-07",
+   "stage": "minutes",
+   "hash": "ea242c4ebafb0552",
+   "fetched_at": "2026-10-14T18:05:32+00:00",
+   "first_seen": "2026-10-14T18:05:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261022": {
+   "id": "aluevaltuusto/2026-05-04",
+   "date": "2026-05-04",
+   "stage": "minutes",
+   "hash": "983d3b81f8f3313f",
+   "fetched_at": "2026-10-14T18:05:47+00:00",
+   "first_seen": "2026-10-14T18:05:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261026": {
+   "id": "kokonaisturvallisuuslautakunta/2026-04-23",
+   "date": "2026-04-23",
+   "stage": "minutes",
+   "hash": "dd82c1b51cca57bf",
+   "fetched_at": "2026-10-14T18:05:57+00:00",
+   "first_seen": "2026-10-14T18:05:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261033": {
+   "id": "tarkastuslautakunta/2026-04-23",
+   "date": "2026-04-23",
+   "stage": "minutes",
+   "hash": "2bf4e86722f34256",
+   "fetched_at": "2026-10-14T18:06:03+00:00",
+   "first_seen": "2026-10-14T18:06:03+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026973": {
+   "id": "yleisten-palveluiden-lautakunnan-jaosto-julkinen/2026-04-23",
+   "date": "2026-04-23",
+   "stage": "minutes",
+   "hash": "d5fd7d0fd6343bbf",
+   "fetched_at": "2026-10-14T18:06:18+00:00",
+   "first_seen": "2026-10-14T18:06:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026971": {
+   "id": "yleisten-palveluiden-lautakunta/2026-04-23",
+   "date": "2026-04-23",
+   "stage": "minutes",
+   "hash": "e203075f01d637e9",
+   "fetched_at": "2026-10-14T18:06:27+00:00",
+   "first_seen": "2026-10-14T18:06:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026967": {
+   "id": "omistajaohjaus-ja-talousjaosto/2026-04-21",
+   "date": "2026-04-21",
+   "stage": "minutes",
+   "hash": "5890d98ec156d4a8",
+   "fetched_at": "2026-10-14T18:06:35+00:00",
+   "first_seen": "2026-10-14T18:06:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261027": {
+   "id": "aluehallitus/2026-04-20",
+   "date": "2026-04-20",
+   "stage": "minutes",
+   "hash": "ecb2a0a370ef5f5c",
+   "fetched_at": "2026-10-14T18:06:58+00:00",
+   "first_seen": "2026-10-14T18:06:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026976": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunnan-jaosto-julkinen/2026-04-16",
+   "date": "2026-04-16",
+   "stage": "minutes",
+   "hash": "ac83499b5527f621",
+   "fetched_at": "2026-10-14T18:07:06+00:00",
+   "first_seen": "2026-10-14T18:07:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026968": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunta/2026-04-16",
+   "date": "2026-04-16",
+   "stage": "minutes",
+   "hash": "a957f06d96c15f75",
+   "fetched_at": "2026-10-14T18:07:16+00:00",
+   "first_seen": "2026-10-14T18:07:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261031": {
+   "id": "tulevaisuus-ja-strategiajaosto/2026-04-16",
+   "date": "2026-04-16",
+   "stage": "minutes",
+   "hash": "62d54bcf00b3b34b",
+   "fetched_at": "2026-10-14T18:07:24+00:00",
+   "first_seen": "2026-10-14T18:07:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261030": {
+   "id": "asiakaskokemusjaosto/2026-04-15",
+   "date": "2026-04-15",
+   "stage": "minutes",
+   "hash": "6eb0ee961dba6f3a",
+   "fetched_at": "2026-10-14T18:07:47+00:00",
+   "first_seen": "2026-10-14T18:07:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261023": {
+   "id": "ikaihmisten-neuvosto/2026-04-15",
+   "date": "2026-04-15",
+   "stage": "minutes",
+   "hash": "1a08047ae16ec03d",
+   "fetched_at": "2026-10-14T18:07:55+00:00",
+   "first_seen": "2026-10-14T18:07:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261004": {
+   "id": "alueellinen-yliopistotasoisen-terveyden-tutkimuksen-tutkimustoimikunta/2026-04-14",
+   "date": "2026-04-14",
+   "stage": "minutes",
+   "hash": "eb165b3750acc434",
+   "fetched_at": "2026-10-14T18:08:06+00:00",
+   "first_seen": "2026-10-14T18:08:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026966": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunnan-jaosto-julkinen/2026-04-13",
+   "date": "2026-04-13",
+   "stage": "minutes",
+   "hash": "0151d27b06e64744",
+   "fetched_at": "2026-10-14T18:08:26+00:00",
+   "first_seen": "2026-10-14T18:08:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026964": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunta/2026-04-13",
+   "date": "2026-04-13",
+   "stage": "minutes",
+   "hash": "7a53fc0dba7e3f42",
+   "fetched_at": "2026-10-14T18:08:35+00:00",
+   "first_seen": "2026-10-14T18:08:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261032": {
+   "id": "tarkastuslautakunta/2026-04-09",
+   "date": "2026-04-09",
+   "stage": "minutes",
+   "hash": "eb3cb56a6195519b",
+   "fetched_at": "2026-10-14T18:08:42+00:00",
+   "first_seen": "2026-10-14T18:08:42+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261024": {
+   "id": "vammaisneuvosto/2026-04-08",
+   "date": "2026-04-08",
+   "stage": "minutes",
+   "hash": "f839d22a62d6cdcd",
+   "fetched_at": "2026-10-14T18:08:50+00:00",
+   "first_seen": "2026-10-14T18:08:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261000": {
+   "id": "omistajaohjaus-ja-talousjaosto/2026-04-07",
+   "date": "2026-04-07",
+   "stage": "minutes",
+   "hash": "6ad61b17c6c39796",
+   "fetched_at": "2026-10-14T18:09:01+00:00",
+   "first_seen": "2026-10-14T18:09:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261025": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunta/2026-04-02",
+   "date": "2026-04-02",
+   "stage": "minutes",
+   "hash": "a1933ab8cbf1d244",
+   "fetched_at": "2026-10-14T18:09:06+00:00",
+   "first_seen": "2026-10-14T18:09:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026990": {
+   "id": "nuorisovaltuusto/2026-03-31",
+   "date": "2026-03-31",
+   "stage": "minutes",
+   "hash": "6968ca690b11885b",
+   "fetched_at": "2026-10-14T18:09:15+00:00",
+   "first_seen": "2026-10-14T18:09:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261006": {
+   "id": "aluehallitus/2026-03-30",
+   "date": "2026-03-30",
+   "stage": "minutes",
+   "hash": "a9366bd5c6d02025",
+   "fetched_at": "2026-10-14T18:09:45+00:00",
+   "first_seen": "2026-10-14T18:09:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261008": {
+   "id": "tarkastuslautakunta/2026-03-26",
+   "date": "2026-03-26",
+   "stage": "minutes",
+   "hash": "13f34edcc9e03d86",
+   "fetched_at": "2026-10-14T18:09:55+00:00",
+   "first_seen": "2026-10-14T18:09:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026941": {
+   "id": "aluevaltuusto/2026-03-23",
+   "date": "2026-03-23",
+   "stage": "minutes",
+   "hash": "a27400946dd3dc05",
+   "fetched_at": "2026-10-14T18:10:08+00:00",
+   "first_seen": "2026-10-14T18:10:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026954": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunnan-jaosto-julkinen/2026-03-19",
+   "date": "2026-03-19",
+   "stage": "minutes",
+   "hash": "a0c75290aaf79ac7",
+   "fetched_at": "2026-10-14T18:10:16+00:00",
+   "first_seen": "2026-10-14T18:10:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026952": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunta/2026-03-19",
+   "date": "2026-03-19",
+   "stage": "minutes",
+   "hash": "32c62e4472571a31",
+   "fetched_at": "2026-10-14T18:10:28+00:00",
+   "first_seen": "2026-10-14T18:10:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261010": {
+   "id": "tulevaisuus-ja-strategiajaosto/2026-03-19",
+   "date": "2026-03-19",
+   "stage": "minutes",
+   "hash": "28f7c0244eafa145",
+   "fetched_at": "2026-10-14T18:10:37+00:00",
+   "first_seen": "2026-10-14T18:10:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026939": {
+   "id": "yleisten-palveluiden-lautakunnan-jaosto-julkinen/2026-03-19",
+   "date": "2026-03-19",
+   "stage": "minutes",
+   "hash": "751c1af4d09d4141",
+   "fetched_at": "2026-10-14T18:10:55+00:00",
+   "first_seen": "2026-10-14T18:10:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026957": {
+   "id": "yleisten-palveluiden-lautakunta/2026-03-19",
+   "date": "2026-03-19",
+   "stage": "minutes",
+   "hash": "2ea8532a2210a04b",
+   "fetched_at": "2026-10-14T18:11:08+00:00",
+   "first_seen": "2026-10-14T18:11:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261007": {
+   "id": "asiakaskokemusjaosto/2026-03-18",
+   "date": "2026-03-18",
+   "stage": "minutes",
+   "hash": "114f257ee8917d76",
+   "fetched_at": "2026-10-14T18:11:20+00:00",
+   "first_seen": "2026-10-14T18:11:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026956": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunnan-jaosto-julkinen/2026-03-16",
+   "date": "2026-03-16",
+   "stage": "minutes",
+   "hash": "62d4ae94b85ec86f",
+   "fetched_at": "2026-10-14T18:11:46+00:00",
+   "first_seen": "2026-10-14T18:11:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026955": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunta/2026-03-16",
+   "date": "2026-03-16",
+   "stage": "minutes",
+   "hash": "cb1a1760276b0806",
+   "fetched_at": "2026-10-14T18:12:01+00:00",
+   "first_seen": "2026-10-14T18:12:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261003": {
+   "id": "kokonaisturvallisuuslautakunta/2026-03-10",
+   "date": "2026-03-10",
+   "stage": "minutes",
+   "hash": "c676ebf1ae7cbc12",
+   "fetched_at": "2026-10-14T18:12:13+00:00",
+   "first_seen": "2026-10-14T18:12:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026933": {
+   "id": "omistajaohjaus-ja-talousjaosto/2026-03-10",
+   "date": "2026-03-10",
+   "stage": "minutes",
+   "hash": "19d1d36c1fac10ff",
+   "fetched_at": "2026-10-14T18:12:27+00:00",
+   "first_seen": "2026-10-14T18:12:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026988": {
+   "id": "aluehallitus/2026-03-09",
+   "date": "2026-03-09",
+   "stage": "minutes",
+   "hash": "9913fdc74dff9cec",
+   "fetched_at": "2026-10-14T18:13:01+00:00",
+   "first_seen": "2026-10-14T18:13:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261001": {
+   "id": "tarkastuslautakunta/2026-02-26",
+   "date": "2026-02-26",
+   "stage": "minutes",
+   "hash": "a48ab15e267ac2f2",
+   "fetched_at": "2026-10-14T18:13:09+00:00",
+   "first_seen": "2026-10-14T18:13:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026947": {
+   "id": "omistajaohjaus-ja-talousjaosto/2026-02-24",
+   "date": "2026-02-24",
+   "stage": "minutes",
+   "hash": "f056e9f067d8d4cc",
+   "fetched_at": "2026-10-14T18:13:23+00:00",
+   "first_seen": "2026-10-14T18:13:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026975": {
+   "id": "ikaihmisten-neuvosto/2026-02-19",
+   "date": "2026-02-19",
+   "stage": "minutes",
+   "hash": "e4dd9938c808c317",
+   "fetched_at": "2026-10-14T18:13:32+00:00",
+   "first_seen": "2026-10-14T18:13:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026937": {
+   "id": "yleisten-palveluiden-lautakunta/2026-02-19",
+   "date": "2026-02-19",
+   "stage": "minutes",
+   "hash": "14072fb2c40a44ea",
+   "fetched_at": "2026-10-14T18:13:43+00:00",
+   "first_seen": "2026-10-14T18:13:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026992": {
+   "id": "aluehallitus/2026-02-18",
+   "date": "2026-02-18",
+   "stage": "minutes",
+   "hash": "4bebda696012df85",
+   "fetched_at": "2026-10-14T18:13:55+00:00",
+   "first_seen": "2026-10-14T18:13:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026932": {
+   "id": "asiakaskokemusjaosto/2026-02-18",
+   "date": "2026-02-18",
+   "stage": "minutes",
+   "hash": "dcd834753c8d012c",
+   "fetched_at": "2026-10-14T18:14:11+00:00",
+   "first_seen": "2026-10-14T18:14:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026936": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunnan-jaosto-julkinen/2026-02-12",
+   "date": "2026-02-12",
+   "stage": "minutes",
+   "hash": "eeebba2edcc0a25a",
+   "fetched_at": "2026-10-14T18:14:21+00:00",
+   "first_seen": "2026-10-14T18:14:21+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026934": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunta/2026-02-12",
+   "date": "2026-02-12",
+   "stage": "minutes",
+   "hash": "75c28989f9ea1827",
+   "fetched_at": "2026-10-14T18:14:31+00:00",
+   "first_seen": "2026-10-14T18:14:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026961": {
+   "id": "kokonaisturvallisuuslautakunta/2026-02-12",
+   "date": "2026-02-12",
+   "stage": "minutes",
+   "hash": "fd06fe0918c433a0",
+   "fetched_at": "2026-10-14T18:14:40+00:00",
+   "first_seen": "2026-10-14T18:14:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026987": {
+   "id": "tarkastuslautakunta/2026-02-12",
+   "date": "2026-02-12",
+   "stage": "minutes",
+   "hash": "b7a488b9a60a4194",
+   "fetched_at": "2026-10-14T18:14:54+00:00",
+   "first_seen": "2026-10-14T18:14:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026948": {
+   "id": "aluehallitus/2026-02-09",
+   "date": "2026-02-09",
+   "stage": "minutes",
+   "hash": "387677a7acc18c24",
+   "fetched_at": "2026-10-14T18:15:15+00:00",
+   "first_seen": "2026-10-14T18:15:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026960": {
+   "id": "vammaisneuvosto/2026-02-04",
+   "date": "2026-02-04",
+   "stage": "minutes",
+   "hash": "b11f713f8eb6beeb",
+   "fetched_at": "2026-10-14T18:15:27+00:00",
+   "first_seen": "2026-10-14T18:15:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026919": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunnan-jaosto-julkinen/2026-02-02",
+   "date": "2026-02-02",
+   "stage": "minutes",
+   "hash": "94ad6e916f990f25",
+   "fetched_at": "2026-10-14T18:15:50+00:00",
+   "first_seen": "2026-10-14T18:15:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026917": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunta/2026-02-02",
+   "date": "2026-02-02",
+   "stage": "minutes",
+   "hash": "39a59225c533f3d9",
+   "fetched_at": "2026-10-14T18:16:02+00:00",
+   "first_seen": "2026-10-14T18:16:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026930": {
+   "id": "kokonaisturvallisuuslautakunta/2026-01-22",
+   "date": "2026-01-22",
+   "stage": "minutes",
+   "hash": "eeb7e1a83f65ebe0",
+   "fetched_at": "2026-10-14T18:16:11+00:00",
+   "first_seen": "2026-10-14T18:16:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026928": {
+   "id": "yleisten-palveluiden-lautakunnan-jaosto-julkinen/2026-01-22",
+   "date": "2026-01-22",
+   "stage": "minutes",
+   "hash": "c4347298be69bb01",
+   "fetched_at": "2026-10-14T18:16:20+00:00",
+   "first_seen": "2026-10-14T18:16:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026926": {
+   "id": "yleisten-palveluiden-lautakunta/2026-01-22",
+   "date": "2026-01-22",
+   "stage": "minutes",
+   "hash": "a28dd308764e3aa5",
+   "fetched_at": "2026-10-14T18:16:34+00:00",
+   "first_seen": "2026-10-14T18:16:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026946": {
+   "id": "nuorisovaltuusto/2026-01-21",
+   "date": "2026-01-21",
+   "stage": "minutes",
+   "hash": "843e244dfaad916c",
+   "fetched_at": "2026-10-14T18:16:45+00:00",
+   "first_seen": "2026-10-14T18:16:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026925": {
+   "id": "tulevaisuus-ja-strategiajaosto/2026-01-20",
+   "date": "2026-01-20",
+   "stage": "minutes",
+   "hash": "bdd3b047abf624bc",
+   "fetched_at": "2026-10-14T18:16:53+00:00",
+   "first_seen": "2026-10-14T18:16:53+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026940": {
+   "id": "aluehallitus/2026-01-19",
+   "date": "2026-01-19",
+   "stage": "minutes",
+   "hash": "903e3ae389258913",
+   "fetched_at": "2026-10-14T18:17:30+00:00",
+   "first_seen": "2026-10-14T18:17:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026924": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunnan-jaosto-julkinen/2026-01-15",
+   "date": "2026-01-15",
+   "stage": "minutes",
+   "hash": "92280844fea78301",
+   "fetched_at": "2026-10-14T18:17:38+00:00",
+   "first_seen": "2026-10-14T18:17:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026922": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunta/2026-01-15",
+   "date": "2026-01-15",
+   "stage": "minutes",
+   "hash": "b081831788565d47",
+   "fetched_at": "2026-10-14T18:17:48+00:00",
+   "first_seen": "2026-10-14T18:17:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026943": {
+   "id": "tarkastuslautakunta/2026-01-15",
+   "date": "2026-01-15",
+   "stage": "minutes",
+   "hash": "deb83d5d0e190c6c",
+   "fetched_at": "2026-10-14T18:17:57+00:00",
+   "first_seen": "2026-10-14T18:17:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026921": {
+   "id": "asiakaskokemusjaosto/2026-01-14",
+   "date": "2026-01-14",
+   "stage": "minutes",
+   "hash": "75f7fa502060c8df",
+   "fetched_at": "2026-10-14T18:18:58+00:00",
+   "first_seen": "2026-10-14T18:18:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026920": {
+   "id": "omistajaohjaus-ja-talousjaosto/2026-01-13",
+   "date": "2026-01-13",
+   "stage": "minutes",
+   "hash": "6121469edef1b603",
+   "fetched_at": "2026-10-14T18:19:09+00:00",
+   "first_seen": "2026-10-14T18:19:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026916": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunnan-jaosto-julkinen/2026-01-12",
+   "date": "2026-01-12",
+   "stage": "minutes",
+   "hash": "bbbada0013d2ada5",
+   "fetched_at": "2026-10-14T18:19:22+00:00",
+   "first_seen": "2026-10-14T18:19:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026914": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunta/2026-01-12",
+   "date": "2026-01-12",
+   "stage": "minutes",
+   "hash": "cf959051bd95aa4f",
+   "fetched_at": "2026-10-14T18:19:33+00:00",
+   "first_seen": "2026-10-14T18:19:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025913": {
+   "id": "aluehallitus/2025-12-29",
+   "date": "2025-12-29",
+   "stage": "minutes",
+   "hash": "bbb59195790ca081",
+   "fetched_at": "2026-10-14T18:19:39+00:00",
+   "first_seen": "2026-10-14T18:19:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025904": {
+   "id": "aluehallitus/2025-12-22",
+   "date": "2025-12-22",
+   "stage": "minutes",
+   "hash": "4d0ffbe666aa8031",
+   "fetched_at": "2026-10-14T18:19:50+00:00",
+   "first_seen": "2026-10-14T18:19:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025876": {
+   "id": "aluevaltuusto/2025-12-22",
+   "date": "2025-12-22",
+   "stage": "minutes",
+   "hash": "da7deb482983f448",
+   "fetched_at": "2026-10-14T18:20:16+00:00",
+   "first_seen": "2026-10-14T18:20:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025896": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunnan-jaosto-julkinen/2025-12-15",
+   "date": "2025-12-15",
+   "stage": "minutes",
+   "hash": "e855975f0a9d78f1",
+   "fetched_at": "2026-10-14T18:20:38+00:00",
+   "first_seen": "2026-10-14T18:20:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025834": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunnan-jaosto-julkinen/2025-12-11",
+   "date": "2025-12-11",
+   "stage": "minutes",
+   "hash": "e25948c095414d14",
+   "fetched_at": "2026-10-14T18:20:47+00:00",
+   "first_seen": "2026-10-14T18:20:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025882": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunta/2025-12-11",
+   "date": "2025-12-11",
+   "stage": "minutes",
+   "hash": "111fa368143cef9d",
+   "fetched_at": "2026-10-14T18:21:02+00:00",
+   "first_seen": "2026-10-14T18:21:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025886": {
+   "id": "kokonaisturvallisuuslautakunta/2025-12-11",
+   "date": "2025-12-11",
+   "stage": "minutes",
+   "hash": "f39fbbb293403a12",
+   "fetched_at": "2026-10-14T18:21:15+00:00",
+   "first_seen": "2026-10-14T18:21:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025855": {
+   "id": "yleisten-palveluiden-lautakunnan-jaosto-julkinen/2025-12-11",
+   "date": "2025-12-11",
+   "stage": "minutes",
+   "hash": "e83373b73c5bf115",
+   "fetched_at": "2026-10-14T18:21:28+00:00",
+   "first_seen": "2026-10-14T18:21:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025880": {
+   "id": "yleisten-palveluiden-lautakunta/2025-12-11",
+   "date": "2025-12-11",
+   "stage": "minutes",
+   "hash": "3c9703cb0f089b8a",
+   "fetched_at": "2026-10-14T18:21:38+00:00",
+   "first_seen": "2026-10-14T18:21:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025908": {
+   "id": "vammaisneuvosto/2025-12-10",
+   "date": "2025-12-10",
+   "stage": "minutes",
+   "hash": "4e97317c2efa8326",
+   "fetched_at": "2026-10-14T18:21:48+00:00",
+   "first_seen": "2026-10-14T18:21:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025899": {
+   "id": "ikaihmisten-neuvosto/2025-12-09",
+   "date": "2025-12-09",
+   "stage": "minutes",
+   "hash": "757c317ce75744e3",
+   "fetched_at": "2026-10-14T18:21:58+00:00",
+   "first_seen": "2026-10-14T18:21:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025723": {
+   "id": "nuorisovaltuusto/2025-12-09",
+   "date": "2025-12-09",
+   "stage": "minutes",
+   "hash": "145b74a415cdfc13",
+   "fetched_at": "2026-10-14T18:22:07+00:00",
+   "first_seen": "2026-10-14T18:22:07+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025878": {
+   "id": "omistajaohjaus-ja-talousjaosto/2025-12-09",
+   "date": "2025-12-09",
+   "stage": "minutes",
+   "hash": "df5fcda71b052845",
+   "fetched_at": "2026-10-14T18:22:18+00:00",
+   "first_seen": "2026-10-14T18:22:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025903": {
+   "id": "aluehallitus/2025-12-08",
+   "date": "2025-12-08",
+   "stage": "minutes",
+   "hash": "a8cdd5891f15e907",
+   "fetched_at": "2026-10-14T18:22:45+00:00",
+   "first_seen": "2026-10-14T18:22:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025907": {
+   "id": "tarkastuslautakunta/2025-12-04",
+   "date": "2025-12-04",
+   "stage": "minutes",
+   "hash": "2b9772df322ba357",
+   "fetched_at": "2026-10-14T18:22:51+00:00",
+   "first_seen": "2026-10-14T18:22:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025906": {
+   "id": "asiakaskokemusjaosto/2025-12-03",
+   "date": "2025-12-03",
+   "stage": "minutes",
+   "hash": "81d1764866b5791a",
+   "fetched_at": "2026-10-14T18:23:02+00:00",
+   "first_seen": "2026-10-14T18:23:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025902": {
+   "id": "aluehallitus/2025-12-01",
+   "date": "2025-12-01",
+   "stage": "minutes",
+   "hash": "7e34398c0a5507bb",
+   "fetched_at": "2026-10-14T18:23:14+00:00",
+   "first_seen": "2026-10-14T18:23:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025894": {
+   "id": "ikaihmisten-neuvosto/2025-11-27",
+   "date": "2025-11-27",
+   "stage": "minutes",
+   "hash": "dbbb277a383e1c4e",
+   "fetched_at": "2026-10-14T18:23:23+00:00",
+   "first_seen": "2026-10-14T18:23:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025883": {
+   "id": "alueellinen-yliopistotasoisen-terveyden-tutkimuksen-tutkimustoimikunta/2025-11-26",
+   "date": "2025-11-26",
+   "stage": "minutes",
+   "hash": "6c0e434eaddd736c",
+   "fetched_at": "2026-10-14T18:23:32+00:00",
+   "first_seen": "2026-10-14T18:23:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025814": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunnan-jaosto-julkinen/2025-11-24",
+   "date": "2025-11-24",
+   "stage": "minutes",
+   "hash": "2e4755fea36d9c12",
+   "fetched_at": "2026-10-14T18:23:46+00:00",
+   "first_seen": "2026-10-14T18:23:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025818": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunta/2025-11-24",
+   "date": "2025-11-24",
+   "stage": "minutes",
+   "hash": "eca3dd8619a6c6f5",
+   "fetched_at": "2026-10-14T18:24:03+00:00",
+   "first_seen": "2026-10-14T18:24:03+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025892": {
+   "id": "aluehallitus/2025-11-19",
+   "date": "2025-11-19",
+   "stage": "minutes",
+   "hash": "56f03e9459e622f6",
+   "fetched_at": "2026-10-14T18:24:19+00:00",
+   "first_seen": "2026-10-14T18:24:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025893": {
+   "id": "vammaisneuvosto/2025-11-19",
+   "date": "2025-11-19",
+   "stage": "minutes",
+   "hash": "80837ce732a8648f",
+   "fetched_at": "2026-10-14T18:24:28+00:00",
+   "first_seen": "2026-10-14T18:24:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025832": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunnan-jaosto-julkinen/2025-11-13",
+   "date": "2025-11-13",
+   "stage": "minutes",
+   "hash": "5d9c16527116df18",
+   "fetched_at": "2026-10-14T18:24:38+00:00",
+   "first_seen": "2026-10-14T18:24:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025881": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunta/2025-11-13",
+   "date": "2025-11-13",
+   "stage": "minutes",
+   "hash": "f61bf011bc53452b",
+   "fetched_at": "2026-10-14T18:24:47+00:00",
+   "first_seen": "2026-10-14T18:24:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025885": {
+   "id": "kokonaisturvallisuuslautakunta/2025-11-13",
+   "date": "2025-11-13",
+   "stage": "minutes",
+   "hash": "cd5ddcd49945a274",
+   "fetched_at": "2026-10-14T18:24:59+00:00",
+   "first_seen": "2026-10-14T18:24:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025897": {
+   "id": "tarkastuslautakunta/2025-11-13",
+   "date": "2025-11-13",
+   "stage": "minutes",
+   "hash": "a9c425a171b0de9f",
+   "fetched_at": "2026-10-14T18:25:06+00:00",
+   "first_seen": "2026-10-14T18:25:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025864": {
+   "id": "yleisten-palveluiden-lautakunnan-jaosto-julkinen/2025-11-13",
+   "date": "2025-11-13",
+   "stage": "minutes",
+   "hash": "524583ce46f25dbd",
+   "fetched_at": "2026-10-14T18:25:14+00:00",
+   "first_seen": "2026-10-14T18:25:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025879": {
+   "id": "yleisten-palveluiden-lautakunta/2025-11-13",
+   "date": "2025-11-13",
+   "stage": "minutes",
+   "hash": "38e1dad131f55ee7",
+   "fetched_at": "2026-10-14T18:25:25+00:00",
+   "first_seen": "2026-10-14T18:25:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025722": {
+   "id": "nuorisovaltuusto/2025-11-11",
+   "date": "2025-11-11",
+   "stage": "minutes",
+   "hash": "596255519680a346",
+   "fetched_at": "2026-10-14T18:25:31+00:00",
+   "first_seen": "2026-10-14T18:25:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025874": {
+   "id": "aluehallitus/2025-11-10",
+   "date": "2025-11-10",
+   "stage": "minutes",
+   "hash": "1507548702734e4c",
+   "fetched_at": "2026-10-14T18:25:55+00:00",
+   "first_seen": "2026-10-14T18:25:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025891": {
+   "id": "asiakaskokemusjaosto/2025-11-05",
+   "date": "2025-11-05",
+   "stage": "minutes",
+   "hash": "e538c29357405e6a",
+   "fetched_at": "2026-10-14T18:26:10+00:00",
+   "first_seen": "2026-10-14T18:26:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025877": {
+   "id": "omistajaohjaus-ja-talousjaosto/2025-11-04",
+   "date": "2025-11-04",
+   "stage": "minutes",
+   "hash": "35b55faf1096528b",
+   "fetched_at": "2026-10-14T18:26:23+00:00",
+   "first_seen": "2026-10-14T18:26:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025888": {
+   "id": "tulevaisuus-ja-strategiajaosto/2025-10-29",
+   "date": "2025-10-29",
+   "stage": "minutes",
+   "hash": "6dfd49cb763e4f28",
+   "fetched_at": "2026-10-14T18:26:31+00:00",
+   "first_seen": "2026-10-14T18:26:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025812": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunnan-jaosto-julkinen/2025-10-27",
+   "date": "2025-10-27",
+   "stage": "minutes",
+   "hash": "58e91b5eaa43cb8c",
+   "fetched_at": "2026-10-14T18:26:38+00:00",
+   "first_seen": "2026-10-14T18:26:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025817": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunta/2025-10-27",
+   "date": "2025-10-27",
+   "stage": "minutes",
+   "hash": "594555d04f1821c8",
+   "fetched_at": "2026-10-14T18:26:50+00:00",
+   "first_seen": "2026-10-14T18:26:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025884": {
+   "id": "tarkastuslautakunta/2025-10-23",
+   "date": "2025-10-23",
+   "stage": "minutes",
+   "hash": "3b9b8461f78ceed4",
+   "fetched_at": "2026-10-14T18:27:02+00:00",
+   "first_seen": "2026-10-14T18:27:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025868": {
+   "id": "aluehallitus/2025-10-20",
+   "date": "2025-10-20",
+   "stage": "minutes",
+   "hash": "5812bc41cc88d519",
+   "fetched_at": "2026-10-14T18:27:26+00:00",
+   "first_seen": "2026-10-14T18:27:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025829": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunnan-jaosto-julkinen/2025-10-09",
+   "date": "2025-10-09",
+   "stage": "minutes",
+   "hash": "57d20a71401a1761",
+   "fetched_at": "2026-10-14T18:27:37+00:00",
+   "first_seen": "2026-10-14T18:27:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025828": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunta/2025-10-09",
+   "date": "2025-10-09",
+   "stage": "minutes",
+   "hash": "5827bf6124552dfb",
+   "fetched_at": "2026-10-14T18:27:46+00:00",
+   "first_seen": "2026-10-14T18:27:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025849": {
+   "id": "kokonaisturvallisuuslautakunta/2025-10-09",
+   "date": "2025-10-09",
+   "stage": "minutes",
+   "hash": "25117650fa11c770",
+   "fetched_at": "2026-10-14T18:27:58+00:00",
+   "first_seen": "2026-10-14T18:27:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025862": {
+   "id": "tarkastuslautakunta/2025-10-09",
+   "date": "2025-10-09",
+   "stage": "minutes",
+   "hash": "d8bf94ea21dd68ac",
+   "fetched_at": "2026-10-14T18:28:08+00:00",
+   "first_seen": "2026-10-14T18:28:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025820": {
+   "id": "yleisten-palveluiden-lautakunta/2025-10-09",
+   "date": "2025-10-09",
+   "stage": "minutes",
+   "hash": "1c8a76773f0d5ca5",
+   "fetched_at": "2026-10-14T18:28:25+00:00",
+   "first_seen": "2026-10-14T18:28:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025870": {
+   "id": "asiakaskokemusjaosto/2025-10-08",
+   "date": "2025-10-08",
+   "stage": "minutes",
+   "hash": "a7e56ea78069a98d",
+   "fetched_at": "2026-10-14T18:28:39+00:00",
+   "first_seen": "2026-10-14T18:28:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025860": {
+   "id": "aluehallitus/2025-10-07",
+   "date": "2025-10-07",
+   "stage": "minutes",
+   "hash": "414301d239b7f009",
+   "fetched_at": "2026-10-14T18:29:01+00:00",
+   "first_seen": "2026-10-14T18:29:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025804": {
+   "id": "omistajaohjaus-ja-talousjaosto/2025-10-07",
+   "date": "2025-10-07",
+   "stage": "minutes",
+   "hash": "231ebbdc9b2bf91d",
+   "fetched_at": "2026-10-14T18:29:10+00:00",
+   "first_seen": "2026-10-14T18:29:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025798": {
+   "id": "aluevaltuusto/2025-10-06",
+   "date": "2025-10-06",
+   "stage": "minutes",
+   "hash": "c8e1c1c7def6072c",
+   "fetched_at": "2026-10-14T18:29:28+00:00",
+   "first_seen": "2026-10-14T18:29:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025848": {
+   "id": "nuorisovaltuusto/2025-09-29",
+   "date": "2025-09-29",
+   "stage": "minutes",
+   "hash": "71a7f2bbadb9e851",
+   "fetched_at": "2026-10-14T18:29:35+00:00",
+   "first_seen": "2026-10-14T18:29:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025810": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunnan-jaosto-julkinen/2025-09-29",
+   "date": "2025-09-29",
+   "stage": "minutes",
+   "hash": "658749c6b782dc35",
+   "fetched_at": "2026-10-14T18:29:45+00:00",
+   "first_seen": "2026-10-14T18:29:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025816": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunta/2025-09-29",
+   "date": "2025-09-29",
+   "stage": "minutes",
+   "hash": "6a8b4daafb93f1e0",
+   "fetched_at": "2026-10-14T18:29:59+00:00",
+   "first_seen": "2026-10-14T18:29:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025825": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunta/2025-09-25",
+   "date": "2025-09-25",
+   "stage": "minutes",
+   "hash": "4c3224b48ebd4783",
+   "fetched_at": "2026-10-14T18:30:10+00:00",
+   "first_seen": "2026-10-14T18:30:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025859": {
+   "id": "aluehallitus/2025-09-22",
+   "date": "2025-09-22",
+   "stage": "minutes",
+   "hash": "5dfb92327f26f2b6",
+   "fetched_at": "2026-10-14T18:30:27+00:00",
+   "first_seen": "2026-10-14T18:30:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025844": {
+   "id": "kokonaisturvallisuuslautakunta/2025-09-18",
+   "date": "2025-09-18",
+   "stage": "minutes",
+   "hash": "980beb39f9b989d8",
+   "fetched_at": "2026-10-14T18:30:37+00:00",
+   "first_seen": "2026-10-14T18:30:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025824": {
+   "id": "yleisten-palveluiden-lautakunnan-jaosto-julkinen/2025-09-18",
+   "date": "2025-09-18",
+   "stage": "minutes",
+   "hash": "6454159e717ea6a8",
+   "fetched_at": "2026-10-14T18:30:49+00:00",
+   "first_seen": "2026-10-14T18:30:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025819": {
+   "id": "yleisten-palveluiden-lautakunta/2025-09-18",
+   "date": "2025-09-18",
+   "stage": "minutes",
+   "hash": "e46f1efe78030f9c",
+   "fetched_at": "2026-10-14T18:30:59+00:00",
+   "first_seen": "2026-10-14T18:30:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025803": {
+   "id": "omistajaohjaus-ja-talousjaosto/2025-09-16",
+   "date": "2025-09-16",
+   "stage": "minutes",
+   "hash": "45089ec39ca09295",
+   "fetched_at": "2026-10-14T18:31:11+00:00",
+   "first_seen": "2026-10-14T18:31:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025808": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunnan-jaosto-julkinen/2025-09-15",
+   "date": "2025-09-15",
+   "stage": "minutes",
+   "hash": "10abe8532ed39910",
+   "fetched_at": "2026-10-14T18:31:30+00:00",
+   "first_seen": "2026-10-14T18:31:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025845": {
+   "id": "asiakaskokemusjaosto/2025-09-10",
+   "date": "2025-09-10",
+   "stage": "minutes",
+   "hash": "947b40588a20a443",
+   "fetched_at": "2026-10-14T18:31:49+00:00",
+   "first_seen": "2026-10-14T18:31:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025856": {
+   "id": "tarkastuslautakunta/2025-09-09",
+   "date": "2025-09-09",
+   "stage": "minutes",
+   "hash": "fc486203a2fb02ed",
+   "fetched_at": "2026-10-14T18:32:00+00:00",
+   "first_seen": "2026-10-14T18:32:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025842": {
+   "id": "aluehallitus/2025-09-08",
+   "date": "2025-09-08",
+   "stage": "minutes",
+   "hash": "cefa41c1ae046a06",
+   "fetched_at": "2026-10-14T18:32:28+00:00",
+   "first_seen": "2026-10-14T18:32:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025787": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunnan-jaosto-julkinen/2025-08-28",
+   "date": "2025-08-28",
+   "stage": "minutes",
+   "hash": "c3f85e2a37fb18c4",
+   "fetched_at": "2026-10-14T18:32:36+00:00",
+   "first_seen": "2026-10-14T18:32:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025785": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunta/2025-08-28",
+   "date": "2025-08-28",
+   "stage": "minutes",
+   "hash": "6a7314c4d58006b6",
+   "fetched_at": "2026-10-14T18:32:45+00:00",
+   "first_seen": "2026-10-14T18:32:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025800": {
+   "id": "ikaihmisten-neuvosto/2025-08-28",
+   "date": "2025-08-28",
+   "stage": "minutes",
+   "hash": "58e8c9132cef50df",
+   "fetched_at": "2026-10-14T18:32:53+00:00",
+   "first_seen": "2026-10-14T18:32:53+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025841": {
+   "id": "aluehallitus/2025-08-27",
+   "date": "2025-08-27",
+   "stage": "minutes",
+   "hash": "581a036bf59ee4e8",
+   "fetched_at": "2026-10-14T18:33:10+00:00",
+   "first_seen": "2026-10-14T18:33:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025801": {
+   "id": "vammaisneuvosto/2025-08-26",
+   "date": "2025-08-26",
+   "stage": "minutes",
+   "hash": "99f24bab4ea525de",
+   "fetched_at": "2026-10-14T18:33:20+00:00",
+   "first_seen": "2026-10-14T18:33:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025852": {
+   "id": "tulevaisuus-ja-strategiajaosto/2025-08-21",
+   "date": "2025-08-21",
+   "stage": "minutes",
+   "hash": "0882467e2cf19025",
+   "fetched_at": "2026-10-14T18:33:29+00:00",
+   "first_seen": "2026-10-14T18:33:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025721": {
+   "id": "nuorisovaltuusto/2025-08-20",
+   "date": "2025-08-20",
+   "stage": "minutes",
+   "hash": "2292817b69be32f9",
+   "fetched_at": "2026-10-14T18:33:37+00:00",
+   "first_seen": "2026-10-14T18:33:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025790": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunnan-jaosto-julkinen/2025-08-18",
+   "date": "2025-08-18",
+   "stage": "minutes",
+   "hash": "57a8ea28244a05e9",
+   "fetched_at": "2026-10-14T18:33:59+00:00",
+   "first_seen": "2026-10-14T18:33:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025788": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunta/2025-08-18",
+   "date": "2025-08-18",
+   "stage": "minutes",
+   "hash": "87fbd41bff0a070b",
+   "fetched_at": "2026-10-14T18:34:09+00:00",
+   "first_seen": "2026-10-14T18:34:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025853": {
+   "id": "aluehallitus/2025-08-15",
+   "date": "2025-08-15",
+   "stage": "minutes",
+   "hash": "f41d202db4cd1b4a",
+   "fetched_at": "2026-10-14T18:34:15+00:00",
+   "first_seen": "2026-10-14T18:34:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025802": {
+   "id": "kokonaisturvallisuuslautakunta/2025-08-14",
+   "date": "2025-08-14",
+   "stage": "minutes",
+   "hash": "48b9a71abdf8e2a6",
+   "fetched_at": "2026-10-14T18:34:25+00:00",
+   "first_seen": "2026-10-14T18:34:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025797": {
+   "id": "yleisten-palveluiden-lautakunnan-jaosto-julkinen/2025-08-14",
+   "date": "2025-08-14",
+   "stage": "minutes",
+   "hash": "69e0be8fe18d45ef",
+   "fetched_at": "2026-10-14T18:34:36+00:00",
+   "first_seen": "2026-10-14T18:34:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025795": {
+   "id": "yleisten-palveluiden-lautakunta/2025-08-14",
+   "date": "2025-08-14",
+   "stage": "minutes",
+   "hash": "2b58fafbfe7964bc",
+   "fetched_at": "2026-10-14T18:34:45+00:00",
+   "first_seen": "2026-10-14T18:34:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025837": {
+   "id": "asiakaskokemusjaosto/2025-08-13",
+   "date": "2025-08-13",
+   "stage": "minutes",
+   "hash": "6497ec0eae75bbe1",
+   "fetched_at": "2026-10-14T18:34:51+00:00",
+   "first_seen": "2026-10-14T18:34:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025794": {
+   "id": "omistajaohjaus-ja-talousjaosto/2025-08-12",
+   "date": "2025-08-12",
+   "stage": "minutes",
+   "hash": "ca37a79f3354de7e",
+   "fetched_at": "2026-10-14T18:34:59+00:00",
+   "first_seen": "2026-10-14T18:34:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025791": {
+   "id": "aluehallitus/2025-08-11",
+   "date": "2025-08-11",
+   "stage": "minutes",
+   "hash": "527acc753386a2e2",
+   "fetched_at": "2026-10-14T18:35:18+00:00",
+   "first_seen": "2026-10-14T18:35:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025840": {
+   "id": "tarkastuslautakunta/2025-08-07",
+   "date": "2025-08-07",
+   "stage": "minutes",
+   "hash": "261ff393e007fda0",
+   "fetched_at": "2026-10-14T18:35:28+00:00",
+   "first_seen": "2026-10-14T18:35:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025773": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunnan-jaosto-julkinen/2025-06-19",
+   "date": "2025-06-19",
+   "stage": "minutes",
+   "hash": "356999672041b165",
+   "fetched_at": "2026-10-14T18:35:39+00:00",
+   "first_seen": "2026-10-14T18:35:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025772": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunta/2025-06-19",
+   "date": "2025-06-19",
+   "stage": "minutes",
+   "hash": "2f7422dad0c3b634",
+   "fetched_at": "2026-10-14T18:35:50+00:00",
+   "first_seen": "2026-10-14T18:35:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025664": {
+   "id": "yleisten-palveluiden-lautakunnan-jaosto-julkinen/2025-06-19",
+   "date": "2025-06-19",
+   "stage": "minutes",
+   "hash": "6ea555025f8632ed",
+   "fetched_at": "2026-10-14T18:36:04+00:00",
+   "first_seen": "2026-10-14T18:36:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025769": {
+   "id": "yleisten-palveluiden-lautakunta/2025-06-19",
+   "date": "2025-06-19",
+   "stage": "minutes",
+   "hash": "1b803242e29bec2d",
+   "fetched_at": "2026-10-14T18:36:14+00:00",
+   "first_seen": "2026-10-14T18:36:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025793": {
+   "id": "asiakaskokemusjaosto/2025-06-18",
+   "date": "2025-06-18",
+   "stage": "minutes",
+   "hash": "604e3c862b423628",
+   "fetched_at": "2026-10-14T18:36:27+00:00",
+   "first_seen": "2026-10-14T18:36:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025730": {
+   "id": "kokonaisturvallisuuslautakunta/2025-06-18",
+   "date": "2025-06-18",
+   "stage": "minutes",
+   "hash": "3ab1e2174c67aaf8",
+   "fetched_at": "2026-10-14T18:36:38+00:00",
+   "first_seen": "2026-10-14T18:36:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025768": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunnan-jaosto-julkinen/2025-06-18",
+   "date": "2025-06-18",
+   "stage": "minutes",
+   "hash": "1b725e0d9d4e17f0",
+   "fetched_at": "2026-10-14T18:36:51+00:00",
+   "first_seen": "2026-10-14T18:36:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025766": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunta/2025-06-18",
+   "date": "2025-06-18",
+   "stage": "minutes",
+   "hash": "7576d1067310ac11",
+   "fetched_at": "2026-10-14T18:37:04+00:00",
+   "first_seen": "2026-10-14T18:37:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025781": {
+   "id": "aluehallitus/2025-06-16",
+   "date": "2025-06-16",
+   "stage": "minutes",
+   "hash": "5b424b56cfb418c8",
+   "fetched_at": "2026-10-14T18:37:21+00:00",
+   "first_seen": "2026-10-14T18:37:21+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025745": {
+   "id": "aluevaltuusto/2025-06-16",
+   "date": "2025-06-16",
+   "stage": "minutes",
+   "hash": "69a3bd0703fc8fc8",
+   "fetched_at": "2026-10-14T18:37:34+00:00",
+   "first_seen": "2026-10-14T18:37:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025780": {
+   "id": "tarkastuslautakunta/2025-06-16",
+   "date": "2025-06-16",
+   "stage": "minutes",
+   "hash": "e564c38cf38a55cb",
+   "fetched_at": "2026-10-14T18:37:44+00:00",
+   "first_seen": "2026-10-14T18:37:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025737": {
+   "id": "ikaihmisten-neuvosto/2025-06-12",
+   "date": "2025-06-12",
+   "stage": "minutes",
+   "hash": "702d8c3b5b391c85",
+   "fetched_at": "2026-10-14T18:37:53+00:00",
+   "first_seen": "2026-10-14T18:37:53+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025783": {
+   "id": "omistajaohjaus-ja-talousjaosto/2025-06-12",
+   "date": "2025-06-12",
+   "stage": "minutes",
+   "hash": "c47fc554848a6478",
+   "fetched_at": "2026-10-14T18:38:01+00:00",
+   "first_seen": "2026-10-14T18:38:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025736": {
+   "id": "vammaisneuvosto/2025-06-11",
+   "date": "2025-06-11",
+   "stage": "minutes",
+   "hash": "2d4a6e76852cc7c2",
+   "fetched_at": "2026-10-14T18:38:10+00:00",
+   "first_seen": "2026-10-14T18:38:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025777": {
+   "id": "aluehallitus/2025-06-09",
+   "date": "2025-06-09",
+   "stage": "minutes",
+   "hash": "3c16b9c58e4e9061",
+   "fetched_at": "2026-10-14T18:38:32+00:00",
+   "first_seen": "2026-10-14T18:38:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025751": {
+   "id": "tarkastuslautakunta/2025-06-03",
+   "date": "2025-06-03",
+   "stage": "minutes",
+   "hash": "8aa3a4a6fb1f8b9d",
+   "fetched_at": "2026-10-14T18:38:40+00:00",
+   "first_seen": "2026-10-14T18:38:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025776": {
+   "id": "aluehallitus/2025-06-02",
+   "date": "2025-06-02",
+   "stage": "minutes",
+   "hash": "938fd6985d13615e",
+   "fetched_at": "2026-10-14T18:38:46+00:00",
+   "first_seen": "2026-10-14T18:38:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025775": {
+   "id": "aluevaltuusto/2025-06-02",
+   "date": "2025-06-02",
+   "stage": "minutes",
+   "hash": "64d65975dc49bfff",
+   "fetched_at": "2026-10-14T18:39:08+00:00",
+   "first_seen": "2026-10-14T18:39:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261173": {
+   "id": "nuorisovaltuusto/2026-10-27",
+   "date": "2026-10-27",
+   "stage": "agenda",
+   "hash": "29d861de64e6c3cb",
+   "fetched_at": "2026-10-19T01:07:42+00:00",
+   "first_seen": "2026-10-19T01:07:42+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261171": {
+   "id": "tarkastuslautakunta/2026-10-22",
+   "date": "2026-10-22",
+   "stage": "agenda",
+   "hash": "6a7c6176af233fed",
+   "fetched_at": "2026-10-19T01:07:51+00:00",
+   "first_seen": "2026-10-19T01:07:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261174": {
+   "id": "tulevaisuus-ja-strategiajaosto/2026-10-22",
+   "date": "2026-10-22",
+   "stage": "agenda",
+   "hash": "af7622df463ac583",
+   "fetched_at": "2026-10-19T01:07:59+00:00",
+   "first_seen": "2026-10-19T01:07:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261089": {
+   "id": "ikaihmisten-ja-hoivapalveluiden-lautakunta/2026-10-29",
+   "date": "2026-10-29",
+   "stage": "agenda",
+   "hash": "966a1fd00807ca7e",
+   "fetched_at": "2026-10-26T01:15:13+00:00",
+   "first_seen": "2026-10-26T01:15:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261137": {
+   "id": "yleisten-palveluiden-lautakunta/2026-10-29",
+   "date": "2026-10-29",
+   "stage": "agenda",
+   "hash": "b989f1313adcc40a",
+   "fetched_at": "2026-10-26T01:15:26+00:00",
+   "first_seen": "2026-10-26T01:15:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261170": {
+   "id": "ikaihmisten-neuvosto/2026-10-27",
+   "date": "2026-10-27",
+   "stage": "agenda",
+   "hash": "e8ffe749f2fbbc14",
+   "fetched_at": "2026-10-26T01:15:35+00:00",
+   "first_seen": "2026-10-26T01:15:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261066": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunnan-jaosto-julkinen/2026-10-26",
+   "date": "2026-10-26",
+   "stage": "agenda",
+   "hash": "987fd54f85d1c609",
+   "fetched_at": "2026-10-26T01:15:57+00:00",
+   "first_seen": "2026-10-26T01:15:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261060": {
+   "id": "perhe-ja-vammaispalveluiden-lautakunta/2026-10-26",
+   "date": "2026-10-26",
+   "stage": "agenda",
+   "hash": "fd2d628374d11e59",
+   "fetched_at": "2026-10-26T01:16:13+00:00",
+   "first_seen": "2026-10-26T01:16:13+00:00",
+   "parser_version": "0.1.0"
+  }
+ },
+ "last_run": "2026-10-26T01:23:10+00:00"
+}

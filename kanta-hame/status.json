@@ -1,0 +1,15 @@
+{
+ "region": "kanta-hame",
+ "started_at": "2026-10-26T01:03:24+00:00",
+ "parser_version": "0.1.0",
+ "fetched": 22,
+ "changed": 6,
+ "unchanged": 110,
+ "removed": 0,
+ "errors": [],
+ "complete": true,
+ "result": "ok",
+ "requests": 273,
+ "finished_at": "2026-10-26T01:07:58+00:00",
+ "meetings_total": 132
+}

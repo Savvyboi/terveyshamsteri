@@ -1,0 +1,15 @@
+{
+ "region": "varsinais-suomi",
+ "started_at": "2026-10-26T01:17:59+00:00",
+ "parser_version": "0.1.0",
+ "fetched": 1,
+ "changed": 1,
+ "unchanged": 2,
+ "removed": 1,
+ "errors": [],
+ "complete": true,
+ "result": "ok",
+ "requests": 22,
+ "finished_at": "2026-10-26T01:18:23+00:00",
+ "meetings_total": 3
+}

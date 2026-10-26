@@ -1,0 +1,787 @@
+{
+ "id": "aluehallitus/2025-12-01",
+ "region": "kanta-hame",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2025-12-01",
+ "stage": "minutes",
+ "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025147",
+ "pdf_url": null,
+ "time": "09:02 - 15:49",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "411",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025147-1",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2025147-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää todeta kokouksen lailliseksi ja päätösvaltaiseksi.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen. Lisäksi aluehallitus päätti myöntää läsnäolo- ja puheoikeuden asian § 415 ”Talousarvio 2026 - hyvinvointialuejohtajan alustava talousarvioesitys” osalta toimialajohtajille Satu Ala-Kokko, Jorma Haapanen, Jarmo Lappalainen, Marika Paasikoski-Junninen ja Petri Talikka sekä henkilöstöjohtaja Johanna Bjerregård Madsenille, rahoitus-ja investointijohtaja Petrus Kukkoselle ja vs. talousjohtaja Terhi Pohjavirralle.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallituksen kokouskutsusta on säädetty hallintosäännön 139 §:ssä. Hyvinvointialueesta annetun lain 108 §:n 2 momentin mukaan aluehallitus on päätösvaltainen, kun yli puolet jäsenistä on läsnä."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluehallitus päättää todeta kokouksen lailliseksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen. Lisäksi aluehallitus päätti myöntää läsnäolo- ja puheoikeuden asian § 415 ”Talousarvio 2026 - hyvinvointialuejohtajan alustava talousarvioesitys” osalta toimialajohtajille Satu Ala-Kokko, Jorma Haapanen, Jarmo Lappalainen, Marika Paasikoski-Junninen ja Petri Talikka sekä henkilöstöjohtaja Johanna Bjerregård Madsenille, rahoitus-ja investointijohtaja Petrus Kukkoselle ja vs. talousjohtaja Terhi Pohjavirralle."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "412",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025147-2",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2025147-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää valita kaksi jäsentä tarkastamaan tämän kokouksen pöytäkirjan.",
+   "decision": "Aluehallitus päätti valita pöytäkirjantarkastajiksi Eero Puran ja Lotta Saarenmaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hallintosäännön 159 §:n mukaan pöytäkirja tarkastetaan toimielimen päättämällä tavalla. Pöytäkirja voidaan allekirjoittaa ja tarkastaa sähköisesti.\n\nAluehallituksen pöytäkirjan tarkastaa kaksi kullakin kerralla tähän tehtävään valittua hallituksen jäsentä, jollei aluehallitus jonkin asian kohdalla toisin päätä. Tällä kertaa tarkastusvuorossa ovat Lauri Jormanainen ja Erja Hirviniemi (varalla Helena Lehkonen)."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluehallitus päättää valita kaksi jäsentä tarkastamaan tämän kokouksen pöytäkirjan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti valita pöytäkirjantarkastajiksi Eero Puran ja Lotta Saarenmaan."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "413",
+   "title": "Kokouksen työjärjestyksen hyväksyminen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025147-3",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2025147-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluhallitus päättää hyväksyä tämän kokouksen työjärjestyksen.",
+   "decision": "Aluehallitus päätti käsitellä asiat esityslistan mukaisessa järjestyksessä.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluhallitus päättää hyväksyä tämän kokouksen työjärjestyksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti käsitellä asiat esityslistan mukaisessa järjestyksessä."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "414",
+   "title": "Ilmoitusasiat",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025147-4",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2025147-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä tiedoksi esitetyt ilmoitusasiat.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Ei aamukouluasioita."
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä tiedoksi esitetyt ilmoitusasiat."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "415",
+   "title": "Talousarvio 2026 - hyvinvointialuejohtajan alustava talousarvioesitys",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025147-5",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2025147-5.PDF",
+   "diary_number": "14941/02.02.00/2025",
+   "preparer": "vs. talousjohtaja Terhi Pohjavirta",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä asian tiedoksi ja käy lähetekeskustelun. Lopullinen päätösesitys tehdään aluehallituksen 8.12.2025 kokoukseen.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.\n\nLauri Jormanainen ja Helena Lehkonen poistuivat esteellisinä kokouksesta siksi ajaksi, kun käsiteltiin Oma Hämeen Tukipalvelut Oy:tä koskevaa asiakohtaa (yhteisöjäävi).\n\nAluehallitus piti tämän asian käsittelyn aikana kokoustauon klo 10.15 – 10.24, klo 12.01 – 12.45 ja klo 14.10. – 14.21.\n\nHelena Lehkonen ja Lauri Jormanainen palasivat kokoukseen tauon jälkeen klo 12.46. Kylli Kylliäinen palasi tauon jälkeen kokoukseen klo 12.53.\n\nRiku Bitter, Tapani Hellstén, Erja Hirviniemi, Pirjo Alijärvi, Johanna Häggman ja Juha Isosuo poistuivat kokouksesta tämän asian käsittelyn aikana ennen päätöksentekoa.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 24.11.2025 § 404"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs. talousjohtaja Terhi Pohjavirta"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hyvinvointialuelain § 115 mukaan aluevaltuuston on kunkin vuoden loppuun mennessä hyväksyttävä hyvinvointialueelle seuraavaksi kalenterivuodeksi talousarvio, jossa otetaan huomioon hyvinvointialuekonsernin talouden vastuut ja velvoitteet. Talousarvion hyväksymisen yhteydessä aluevaltuuston on hyväksyttävä myös taloussuunnitelma kolmeksi tai useammaksi vuodeksi. Talousarviovuosi on taloussuunnitelman ensimmäinen vuosi.\n\nTaloussuunnitelma on laadittava siten, että se on tasapainossa tai ylijäämäinen viimeistään toisen talousarviovuotta seuraavan vuoden päättyessä. Taloussuunnitelman tasapainossa voidaan ottaa huomioon talousarvion laadintavuoden taseeseen kertyväksi arvioitu ylijäämä. Hyvinvointialueen taseeseen kertynyt alijäämä tulee kattaa enintään kahden vuoden kuluessa tilinpäätöksen vahvistamista seuraavan vuoden alusta lukien. Tässä määräajassa tulee kattaa myös talousarvion laadintavuonna tai sen jälkeen kertynyt alijäämä. Talousarvioon otetaan tehtävien ja toiminnan tavoitteiden edellyttämät määrärahat ja tuloarviot. Lisäksi siinä on osoitettava, miten rahoitustarve katetaan. Taloussuunnitelmassa hyväksytään hyvinvointialueen ja hyvinvointialuekonsernin toiminnan ja talouden tavoitteet. Tavoitteiden on toteutettava hyvinvointialuestrategiaa. Hyvinvointialueen taloudenpidossa tulee kiinnittää erityistä huomiota myös siihen, etteivät sen sitoumukset ylitä hyvinvointialueen taloudellisia resursseja.\n\nKanta-Hämeen hyvinvointialueen taloussuunnitelma perustuu aluehallituksen 16.6.2025 § 272 hyväksymään suunnittelukehykseen ja sen täsmennykseen AH 6.10.2025 § 334. Suunnittelukehys perustuu vuoden 2025 muutostalousarvioon. Talouden suunnittelukehyksessä on huomioitu aluevaltuuston 9.4.2024 § 31 hyväksymän talouden tasapainottamisohjelma 2:n säästötavoitteet täysimääräisinä. Lisäksi se pitää sisällään aluevaltuuston 9.4.2024 § 30 hyväksymän palveluverkkosuunnitelman tuomat säästöt sekä uudet talouden tasapainottamistoimet, jotka aluevaltuusto on hyväksynyt 17.12.2024 § 108. Taloussuunnittelussa on huomioitu valtion 30.4.2025 ja 22.9.2025 hyvinvointialueen rahoituksesta tehdyt laskelmat. Suunnitelmavuosien valtion rahoituksen taso perustuu valtiovarainministeriön vuoden 2026 rahoituksen pohjaan ja sen kehittymiseen suunnitelmakaudella 2026–2028.\n\nTalousarvion pohjatietona on vuosilta 2023-2024 kertynyt alijäämä sekä kuluvan vuoden ylijäämäennuste. Yhteensä alijäämää on kertynyt hyvinvointialueen taseeseen noin 109,2 miljoonaa euroa kahden ensimmäisen tilikauden jälkeen. Talouden suunnittelukehyksessä on huomioitu hyvinvointialuelain velvoite kattaa syntyneet alijäämät vuoden 2026 aikana.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 64.2 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä talousarvion lähtökohdat 2026 tiedoksi. Aluehallitus jatkaa talousarvioesityksen käsittelyä seuraavissa kokouksissaan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen.\n\nAluehallitus päätti myöntää läsnäolo- ja puheoikeuden tämän asian käsittelyn ajaksi vs. talousjohtaja Terhi Pohjavirralle."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs. talousjohtaja Terhi Pohjavirta"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Kanta-Hämeen hyvinvointialueen taloussuunnitelma perustuu aluehallituksen 16.6.2025 § 272 hyväksymään suunnittelukehykseen ja sen täsmennykseen AH 6.10.2025 § 334. Suunnittelukehys perustuu vuoden 2025 muutostalousarvioon. Talouden suunnittelukehyksessä on huomioitu aluevaltuuston 9.4.2024 § 31 hyväksymän talouden tasapainottamisohjelma 2:n säästötavoitteet täysimääräisinä. Lisäksi se pitää sisällään aluevaltuuston 9.4.2024 § 30 hyväksymän palveluverkkosuunnitelman tuomat säästöt sekä uudet talouden tasapainottamistoimet, jotka aluevaltuusto on hyväksynyt 17.12.2024 § 108. Taloussuunnittelussa on huomioitu valtion 30.4.2025 ja 22.9.2025 hyvinvointialueen rahoituksesta tehdyt laskelmat. Suunnitelmavuosien valtion rahoituksen taso perustuu valtiovarainministeriön vuoden 2026 rahoituksen pohjaan ja sen kehittymiseen suunnitelmakaudella 2026–2028.\n\nHyvinvointialueen talouden suunnittelun lähtökohdat ovat siis olleet edelleen erittäin haastavat. Hyvinvointialueen tietopohja talouden suunnitteluun on kasvanut merkittävästi vuoden takaisesta tilanteesta. Samanaikaisesti suunnittelua on haastanut alijäämien kattamisen tiukka aikataulu, jonka myötä sopeuttamistoimien tehostaminen on edellytys tasapainoon pääsemiselle.\n\nTalousarvion laadintaprosessista ja vastuuvapaudesta\n\nLähtökohtaisesti kaikki aluevaltuuston talousarviossa asettamat tavoitteet ovat sitovia siten, että ne on tarkoitettu toteutettavaksi. Kunnista ja kaupungeista poiketen on erityisesti huomattava, että hyvinvointialueen rahoitus perustuu vain valtion rahoitukseen ja asiakasmaksuihin eikä omaa verotusoikeutta ole. Tämä tarkoittaa sitä, että hyvinvointialue voi omalla päätöksenteollaan vaikuttaa ensisijaisesti palvelujen ja toimintojen organisointiin eli käyttötalousmenoihin, mutta vain rajoitetusti tulovirtoihin. Laki hyvinvointialueesta velvoittaa hyvinvointialuetta huolehtimaan tulorahoituksen riittävyydestä ja maksuvalmiuden säilyttämisestä.\n\nSuunnitellun toiminnan ja hankkeiden on oltava realistisia suhteessa käytettäviin varoihin. Talousarvioon on otettava hyvinvointialueen rahan käyttö ja rahan lähteet kokonaisuudessaan. Tiedossa olevia menoja tai tuloja ei voi jättää talousarviosta pois. Aluevaltuustolla on laaja harkintavalta päättää talousarvion määrärahakokonaisuuksista. Yhtäältä talousarvion laadintaa koskevaa sääntely ja toisaalta velvoite osoittaa hyvinvointialueen toimintaan riittävät ja realistiset määrärahavaraukset voivat johtaa normien kollisiotilanteeseen. Aluevaltuusto ei voi tehdä uusia määrärahavarauksia, jos näihin ei ole riittäviä tulovirtoja valtionrahoituksesta tai asiakasmaksuista. Toisaalta sääntely myös edellyttää, että määrärahavaraukset hyvinvointialueen toiminnan rahoittamiseksi ja tavoitteiden toteuttamiseksi pitää olla realistisia ja riittäviä. Sääntelyn noudattamisen arviointia hyvinvointialueella suorittavat mm. tilintarkastajat ja tarkastuslautakunta. Jos esimerkiksi tilintarkastaja havaitsee, että hyvinvointialueen hallintoa ja taloutta on hoidettu vastoin lakia tai aluevaltuuston päätöksiä, eikä virhe tai aiheutunut vahinko ole vähäinen, tilintarkastuskertomuksessa on tehtävä asiasta tilivelvolliseen kohdistuva muistutus. Tällöin tarkastuslautakunnan on hankittava tilintarkastuskertomuksessa tehdystä muistutuksesta asianomaisen selitys sekä aluehallituksen lausunto. Aluevaltuusto päättää toimenpiteistä, joihin tarkastuslautakunnan valmistelu, tilintarkastuskertomus ja siinä tehty muistutus antavat aihetta. Kun aluevaltuusto hyväksyy tilinpäätöksen, se päättää myös vastuuvapauden myöntämisestä tilivelvollisille.\n\nJulkisyhteisölle myönnettävä vastuuvapaus tarkoittaa käytännössä sitä, että toimielin tai viranomainen vapautetaan vastuusta tietyn ajanjakson aikana suoritetusta hallinnosta tai päätöksenteosta ja todetaan, että julkisyhteisö on noudattanut asianmukaisesti lakeja, sääntöjä ja määräyksiä taloudenpidossaan ja päätöksenteossaan. Vastuuvapaus ei tarkoita, että virheisiin tai laiminlyönteihin ei puututa. Sen sijaan se antaa hallinnolle tai viranomaiselle oikeudellisen suoja-aseman siltä osin kuin he ovat toimineet tehtäviensä mukaisesti ja noudattaneet sovellettavia sääntöjä ja lakeja.\n\nAluehallitus on käsitellyt talousarviota kokouksissaan 10.11.2025 § 377 ja 24.11.2025 § 404. Aluehallitus jatkaa talousarvion käsittelyä. Aluehallitukselle tuodaan tiedoksi hyvinvointialuejohtajan alustava talousarvioesitys, joka tarkentuu aluehallituksen kokoukseen 8.12.2025.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 64.2 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä asian tiedoksi ja käy lähetekeskustelun. Lopullinen päätösesitys tehdään aluehallituksen 8.12.2025 kokoukseen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen.\n\nLauri Jormanainen ja Helena Lehkonen poistuivat esteellisinä kokouksesta siksi ajaksi, kun käsiteltiin Oma Hämeen Tukipalvelut Oy:tä koskevaa asiakohtaa (yhteisöjäävi).\n\nAluehallitus piti tämän asian käsittelyn aikana kokoustauon klo 10.15 – 10.24, klo 12.01 – 12.45 ja klo 14.10. – 14.21.\n\nHelena Lehkonen ja Lauri Jormanainen palasivat kokoukseen tauon jälkeen klo 12.46. Kylli Kylliäinen palasi tauon jälkeen kokoukseen klo 12.53.\n\nRiku Bitter, Tapani Hellstén, Erja Hirviniemi, Pirjo Alijärvi, Johanna Häggman ja Juha Isosuo poistuivat kokouksesta tämän asian käsittelyn aikana ennen päätöksentekoa."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / vs. talousjohtaja Terhi Pohjavirta"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Talousarvio 2026 ja taloussuunnitelma 2026-2028_luonnos_26112025",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2025147-5-383392.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "416",
+   "title": "Rakennusten omistusoikeuden luovutus Forssan kaupungilta hyvinvointialueelle",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025147-6",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2025147-6.PDF",
+   "diary_number": "15284/10.01.01/2025",
+   "preparer": "rahoitus- ja investointijohtaja Petrus Kukkonen",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää\n\nesittää aluevaltuustolle määrärahan myöntämistä rakennuskauppojen toteuttamiseksi ja niiden kirjaamista hyvinvointialueen investointisuunnitelmaan vuosille 2026 - 2029\n\nhyväksyä kauppaan liittyvät kauppakirjat ja vuokrasopimukset\n\nvaltuuttaa rahoitus- ja investointijohtaja Petrus Kukkosen\n\ntekemään pieniä korjauksia ja teknisiä muutoksia kauppakirjoihin ja vuokrasopimuksiin.\n\nhakemaan valtioneuvoston lupaa rakennuskauppojen toteuttamiseksi\n\nallekirjoittamaan kauppakirjat ja vuokrasopimukset.\n\nHyvinvointialueen päätös kaupan toteuttamisesta on täytäntöönpanokelpoinen vasta, kun sille on myönnetty valtuus valtioneuvoston toimesta.",
+   "decision": "Aluehallitus päätti siirtää asian käsittelyn seuraavaan kokoukseen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "rahoitus- ja investointijohtaja Petrus Kukkonen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluevaltuusto hyväksyi kokouksessaan 9.5.2023 talouden tasapainottamisohjelman (tasapainottamisohjelma 1). Osana talouden tasapainottamisohjelmaa aluevaltuusto päätti käynnistää selvityksen, jolla varmistetaan yhteensä noin 93,8 miljoonan euron kustannussäästöjen toteutuminen nykyiseen toimintakatteen kasvu-uraan nähden vuosina 2026–2030.\n\nAluevaltuuston päätöksessä (AV 9.5.23) todetaan, että hyvinvointialue irtisanoo epätarkoituksenmukaiset kuntien kanssa solmitut vuokrasopimukset, jotka on tehty toimeenpanolain nojalla.\n\nHyvinvointialueen aluehallitus on aluevaltuuston linjausten mukaisesti 17.6.2024 §274 irtisanonut kaikki vuokra-asetukseen perustuvat vuokrasopimukset. Hyvinvointialue on käynnistänyt vuokrasopimusneuvottelut kaikkien kuntien kanssa elokuussa 2024.\n\nKanta-Hämeen hyvinvointialueen ja Forssan kaupungin vuokrasopimusneuvotteluissa on noussut esiin mahdollisuus toteuttaa rakennuskauppoja, kaupan kohteet:\n\n- Heikanrinne, kiinteistötunnus: 61–4–3362\n\n- Forssan pääterveysasema, kiinteistötunnus: 61–3–335–14\n\n- Forssan paloasema, kiinteistötunnus: 61–8–1002\n\nRakennukset ovat tällä hetkellä vuokrattuna hyvinvointialueelle. Rakennuksissa on toimintaa viideltä toimialalta:\n\n- Terveydenhuollon toimiala\n\n- Perhe-, sosiaali-, ja vammaispalveluiden toimiala\n\n- Ikäihmisten toimiala\n\n- Konserni – ja tukipalvelut\n\n- Pelastustoimi\n\nKaupan kohteiden arvo määräytyy ostajan ja myyjän sopimien arvon määritysperiaatteiden mukaisesti, Rakennuksen kauppahinta on kaupantekohetkellä poistamattoman tasearvon mukainen.\n\nMyytävien rakennusten tasearvot (kauppasummat) vuoden 2025 lopussa olisivat arviolta:\n\n- Heikanrinne\n702 326,60 €\n\n(2 681 565 €-1 979 238,40 €)\n\n- Forssan pääterveysasema\n1 433 414 €\n\n- Forssan paloasema\n789 825 €\n\nHeikanrinteen palvelukeskukseen Forssan kaupunki on saanut Asumisen rahoitus- ja kehittämiskeskuksen (ARA) myöntämää korkotukilainaa Nordea pankista. Kaupantekohetken lainan jäljellä oleva pääoma vähennettäisiin tasearvosta kauppahinnan suorittamisen yhteydessä ja laina siirtyisi hyvinvointialueen vastattavaksi. Korkotukilainan pääoma 31.12.2025 on 1 979 238,4 €. Kaupunki hakee Nordea pankilta suostumuksen lainan siirtämiseksi. Rakennuksen luovutukseen on haettu luovutuksen saajan nimeämistä ja luovutuskorvauksen vahvistamista Valtion tukeman asuntorakentamisen keskukselta.\n\nKaupan kohteena olevat rakennukset sijaitsevat asemakaava-alueella:\n\n- Heikanrinne: Tontin pinta-ala 19443 m2, tonttivuokra 12 443 €/vuosi\n\n- Forssan pääterveysasema: Tontin pinta-ala 28350 m2 tonttivuokra 18144 €/vuosi\n\n- Forssan paloasema: Tontin pinta-ala 6130 m2, tonttivuokra 3923 €/vuosi\n\nTonttien pinta-alaa ei ole tarkistusmitattu. Forssan paloasema sijaitsee tällä hetkellä samalla tontilla kuin Forssan kaupungintalo. Kaupunki vastaa tontin lohkomisesta ja määräalan muodostamisesta.\n\nTonttien vuokra-aika alkaisi, kun vuokrasopimus on molempien osapuolten toimesta hyväksytty ja toimivaltaisesti allekirjoitettu. Vuokra-aika päättyisi 31.12.2055.\n\nRakennuksen tekninen kunto\n\nPalveluverkkovalmistelun yhteydessä Trellum Oy laati vuonna 2023 suuntaa antavan arvioinnin vuokrakohteiden teknisestä kunnosta. Arvio sisältää kunkin rakennuksen teknisen kunnon sekä arvion tarvittavan peruskorjauksen toteutusajankohdasta.\n\nRakennusten tekninen kunto ja arvio peruskorjauksen toteutus vuodesta:\n\n- Heikanrinne:\n\no tekninen kunto: tyydyttävä ja peruskorjaus 2040\n\n- Forssan pääterveysasema:\n\no tekninen kunto: hyvä ja peruskorjaus 2040–2050\n\n- Forssan paloasema:\n\no tekninen kunto: hyvä/tyydyttävä ja peruskorjaus 2038\n\nLainsäädäntö\n\nEsitetyllä kaupalla muutetaan hyvinvointialueen vuokravastuita ja kaupat ovat taseeseen aktivoitavia investointeja. Ne on esitettävä hyvinvointialueen investointisuunnitelmassa, joka toimii lainanottovaltuuden laskentaperusteena.\n\nHyvinvointialue lain (29.6.2021/611) 15 §:n perusteella valtioneuvosto päättää vuosittain valtiovarainministeriön esityksestä hyvinvointialueen tilikausittaisen valtuuden määrästä pitkäaikaisen lainan ottamiseksi. Hyvinvointialue saa ottaa lainaa päätöksen mukaisen määrän 16 §:ssä tarkoitetun investointisuunnitelman mukaisten investointien rahoittamiseksi. Valtioneuvoston aiemmat päätökset valtuuden määrästä otetaan huomioon lainanottovaltuuden määrässä. Jos julkisen talouden, valtiontalouden tai hyvinvointialueen rahoitusasema heikentyy merkittävästi ja poikkeuksellisesti, hyvinvointialueen lainanottovaltuus voidaan vahvistaa aikaisemmin päätettyä lainanottovaltuutta pienemmäksi.\n\nKanta-Hämeen hyvinvointialueelle ei ole myönnetty lainanottovaltuutta tilikaudelle 2026. Hyvinvointialueen aluevaltuusto on päättänyt hakea muutettua lainanottovaltuutta 30.9.2025 §74.\n\nValtioneuvosto muuttaa hyvinvointialueen lainanottovaltuutta, jos investointi on välttämätön hyvinvointialueen järjestämisvastuulle kuuluvien palvelujen tuottamisen jatkuvuuden kannalta tai lainsäädännössä edellytettyjen palvelujen turvaamiseksi eikä investointitarvetta voida kattaa muulla tavoin. Lainanottovaltuuden muuttamisesta voidaan päättää hyvinvointialueen hakemuksesta tai valtiovarainministeriön, sosiaali- ja terveysministeriön tai sisäministeriön aloitteesta.\n\nHyvinvointialueen päätös kaupan toteuttamisesta on täytäntöönpanokelpoinen vasta, kun sille on myönnetty lainanottovaltuus valtioneuvoston toimesta. Hyvinvointialue kattaa kaupat rahavaroilla, joten todellisesta lainanottotarvetta ei synny.\n\n(SA-K)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 10.5 § 8 kohta ja 9.3 § 5 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\nesittää aluevaltuustolle määrärahan myöntämistä rakennuskauppojen toteuttamiseksi ja niiden kirjaamista hyvinvointialueen investointisuunnitelmaan vuosille 2026 - 2029\n\nhyväksyä kauppaan liittyvät kauppakirjat ja vuokrasopimukset\n\nvaltuuttaa rahoitus- ja investointijohtaja Petrus Kukkosen\n\ntekemään pieniä korjauksia ja teknisiä muutoksia kauppakirjoihin ja vuokrasopimuksiin.\n\nhakemaan valtioneuvoston lupaa rakennuskauppojen toteuttamiseksi\n\nallekirjoittamaan kauppakirjat ja vuokrasopimukset.\n\nHyvinvointialueen päätös kaupan toteuttamisesta on täytäntöönpanokelpoinen vasta, kun sille on myönnetty valtuus valtioneuvoston toimesta."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti siirtää asian käsittelyn seuraavaan kokoukseen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / rahoitus- ja investointijohtaja Petrus Kukkonen"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Forssan Paloasema Kauppakirjaluonnos",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2025147-6-382816.PDF"
+    },
+    {
+     "title": "Liite 2 Heikanrinteen palvelukeskus Kauppakirjaluonnos",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2025147-6-382831.PDF"
+    },
+    {
+     "title": "Liite 3 Pääterveysasema Kauppakirjaluonnos",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2025147-6-382833.PDF"
+    },
+    {
+     "title": "Liite 4 Vs luonnos Heikanrinne",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2025147-6-382840.PDF"
+    },
+    {
+     "title": "Liite 5 Vs luonnos PTA tontti",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2025147-6-382843.PDF"
+    },
+    {
+     "title": "Liite 6 Vs luonnos pääpaloasema",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2025147-6-382844.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "417",
+   "title": "Rakennuksen omistusoikeuden luovutus Hausjärven kunnalta hyvinvointialueelle",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025147-7",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2025147-7.PDF",
+   "diary_number": "15296/10.01.01/2025",
+   "preparer": "rahoitus- ja investointijohtaja Petrus Kukkonen",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää\n\nesittää aluevaltuustolle määrärahan myöntämistä rakennuskauppojen toteuttamiseksi ja niiden kirjaamista hyvinvointialueen investointisuunnitelmaan vuosille 2026 - 2029\n\nhyväksyä kauppaan liittyvät kauppakirjat ja vuokrasopimukset\n\nvaltuuttaa rahoitus- ja investointijohtaja Petrus Kukkosen\n\ntekemään pieniä korjauksia ja teknisiä muutoksia kauppakirjoihin ja vuokrasopimuksiin\n\nhakemaan valtioneuvoston lupaa kaupan toteuttamiseksi\n\nallekirjoittamaan järjestelyn toteuttamista koskevat asiakirjat.\n\nHyvinvointialueen päätös kaupan toteuttamisesta on täytäntöönpanokelpoinen vasta, kun sille on tarvittaessa myönnetty valtuus valtioneuvoston toimesta.",
+   "decision": "Aluehallitus päätti siirtää asian käsittelyn seuraavaan kokoukseen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "rahoitus- ja investointijohtaja Petrus Kukkonen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluevaltuusto hyväksyi kokouksessaan 9.5.2023 talouden tasapainottamisohjelman (tasapainottamisohjelma 1). Osana talouden tasapainottamisohjelmaa aluevaltuusto päätti käynnistää selvityksen, jolla varmistetaan yhteensä noin 93,8 miljoonan euron kustannussäästöjen toteutuminen nykyiseen toimintakatteen kasvu-uraan nähden vuosina 2026–2030.\n\nAluevaltuuston päätöksessä (AV 9.5.23) todetaan, että hyvinvointialue irtisanoo epätarkoituksenmukaiset kuntien kanssa solmitut vuokrasopimukset, jotka on tehty toimeenpanolain nojalla.\n\nHyvinvointialueen aluehallitus on aluevaltuuston linjausten mukaisesti 17.6.2024 §274 irtisanonut kaikki vuokra-asetukseen perustuvat vuokrasopimukset. Hyvinvointialue on käynnistänyt vuokrasopimusneuvottelut kaikkien kuntien kanssa elokuussa 2024.\n\nKanta-Hämeen hyvinvointialueen ja Hausjärven kunnan vuokrasopimusneuvotteluissa on noussut esiin mahdollisuus toteuttaa rakennuskauppa kiinteistöillä 86-410-22-67 ja 86-410-22-38 sijaitsevasta Lehtimajat -rakennuksesta, osoite Kuusitie 10 – 18 Oitti. Rakennuksen kokonaisala on 6240 m2, tilavuus 22800 m3 ja kerrosala 5973 m2.\n\nRakennus on tällä hetkellä vuokrattuna hyvinvointialueelle.\n\nRakennuksessa on toimintaa kolmelta toimialalta:\n\n- Terveydenhuollon toimiala\n\n- Perhe-, sosiaali-, ja vammaispalveluiden toimiala\n\n- Ikäihmisten toimiala\n\nRakennuksen kauppahinta on kaupantekohetkellä poistamattoman tasearvon mukainen. Rakennuksen kauppahinta on 911 990,35 euroa. (31.10.2025)\n\nRakennus sijaitsee asemakaavassa YS (sosiaalitointa ja terveydenhuoltoa palvelevien rakennusten korttelialue) – merkityllä tontilla. Tontin pinta-ala on noin 19 440 m2. Tontin pinta-alaa ei ole tarkastusmitattu. Asemakaavan mukaisesti tontin kokonaisrakennusoikeus on 10 000 kerrosneliömetriä, josta on käytetty 5 973 kerrosneliömetriä.\n\nKaupan kohde sijaitsee myyjän omistamalla kiinteistöllä 86-410-22-67 ja 86-410-22-38. Kiinteistöt lohkotaan yhdeksi kiinteistöksi myyjän toimesta. Myyjä vastaa tontin muodostamisen kustannuksista.\n\nTontin vuokra-aika alkaa, kun vuokrasopimus on molempien osapuolten toimesta hyväksytty ja toimivaltaisesti allekirjoitettu. Vuokra-aika päättyy 31.12.2055.\n\nRakennuksen tekninen kunto\n\nPalveluverkko valmistelun yhteydessä Trellum Oy on vuonna 2023 laatinut suuntaa antavan arvioinnin vuokrakohteiden teknisestä kunnosta. Lehtimajat kiinteistön tekninen kunto on arvioitu tyydyttäväksi, ja rakennuksen peruskorjauksen arvioidaan ajoittuvan vuosille 2032–2035.\n\nLainsäädäntö\n\nEsitetyllä kaupalla muutetaan hyvinvointialueen vuokravastuita ja kaupat ovat taseeseen aktivoitavia investointeja. Ne on esitettävä hyvinvointialueen investointisuunnitelmassa. Investointisuunnitelma ei saa olla ristiriidassa hyvinvointialueesta annetun lain 15 §:ssä tarkoitetun hyvinvointialueen lainanottovaltuuden kanssa.\n\nHyvinvointialue lain (29.6.2021/611) 15 §:n perusteella valtioneuvosto päättää vuosittain valtiovarainministeriön esityksestä hyvinvointialueen tilikausittaisen valtuuden määrästä pitkäaikaisen lainan ottamiseksi. Hyvinvointialue saa ottaa lainaa päätöksen mukaisen määrän 16 §:ssä tarkoitetun investointisuunnitelman mukaisten investointien rahoittamiseksi. Valtioneuvoston aiemmat päätökset valtuuden määrästä otetaan huomioon lainanottovaltuuden määrässä. Jos julkisen talouden, valtiontalouden tai hyvinvointialueen rahoitusasema heikentyy merkittävästi ja poikkeuksellisesti, hyvinvointialueen lainanottovaltuus voidaan vahvistaa aikaisemmin päätettyä lainanottovaltuutta pienemmäksi.\n\nKanta-Hämeen hyvinvointialueelle ei ole myönnetty lainanottovaltuutta tilikaudelle 2026. Hyvinvointialueen aluevaltuusto on päättänyt hakea muutettua lainanottovaltuutta 30.9.2025 §74.\n\nValtioneuvosto muuttaa hyvinvointialueen lainanottovaltuutta, jos investointi on välttämätön hyvinvointialueen järjestämisvastuulle kuuluvien palvelujen tuottamisen jatkuvuuden kannalta tai lainsäädännössä edellytettyjen palvelujen turvaamiseksi eikä investointitarvetta voida kattaa muulla tavoin. Lainanottovaltuuden muuttamisesta voidaan päättää hyvinvointialueen hakemuksesta tai valtiovarainministeriön, sosiaali- ja terveysministeriön tai sisäministeriön aloitteesta.\n\nHyvinvointialueen päätös kaupan toteuttamisesta on täytäntöönpanokelpoinen vasta, kun sille on myönnetty lainanottovaltuus valtioneuvoston toimesta. Hyvinvointialue kattaa kaupat rahavaroilla, joten todellista pitkäaikaisen lainan tarvetta ei synny.\n\n(SA-K)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 10.5 § 8 kohta ja 9.3 § 5 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\nesittää aluevaltuustolle määrärahan myöntämistä rakennuskauppojen toteuttamiseksi ja niiden kirjaamista hyvinvointialueen investointisuunnitelmaan vuosille 2026 - 2029\n\nhyväksyä kauppaan liittyvät kauppakirjat ja vuokrasopimukset\n\nvaltuuttaa rahoitus- ja investointijohtaja Petrus Kukkosen\n\ntekemään pieniä korjauksia ja teknisiä muutoksia kauppakirjoihin ja vuokrasopimuksiin\n\nhakemaan valtioneuvoston lupaa kaupan toteuttamiseksi\n\nallekirjoittamaan järjestelyn toteuttamista koskevat asiakirjat.\n\nHyvinvointialueen päätös kaupan toteuttamisesta on täytäntöönpanokelpoinen vasta, kun sille on tarvittaessa myönnetty valtuus valtioneuvoston toimesta."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti siirtää asian käsittelyn seuraavaan kokoukseen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / rahoitus- ja investointijohtaja Petrus Kukkonen"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Lehtimajat_vuokrasopimusluonnos_24112025",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2025147-7-382868.PDF"
+    },
+    {
+     "title": "Liite 2 Lehtimajat_Kauppakirja_24112025",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2025147-7-382870.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "418",
+   "title": "Kiinteistö osakeyhtiö Riihimäen paloaseman pääoman vahvistaminen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025147-8",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2025147-8.PDF",
+   "diary_number": "15427/00.01.08/2025",
+   "preparer": "rahoitus- ja investointijohtaja Petrus Kukkonen",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää\n\nettä Kanta-Hämeen hyvinvointialue tekee Kiinteistö osakeyhtiö Riihimäen paloasemaan enintään 200 000 euron suuruisen pääomasijoituksen tilikaudella 2025, joka kirjataan sijoitetun vapaan oman pääoman rahastoon (SVOP)\n\nvaltuuttaa rahoitus- ja investointijohtajan tekemään pääomasijoituksen.",
+   "decision": "Aluehallitus päätti siirtää asian käsittelyn seuraavaan kokoukseen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "rahoitus- ja investointijohtaja Petrus Kukkonen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Kanta-Hämeen hyvinvointialue osti Kiinteistö osakeyhtiö Riihimäen paloaseman Riihimäen kaupungilta 30.9.2025. Yhtiö on Kanta-Hämeen hyvinvointialueen kokonaan omistama tytäryhtiö (Y-tunnus 2531989–4).\n\nYhtiön taseessa on kuntarahoituksen myöntämä laina, jonka vakuutena on hyvinvointialueen myöntämäksi takaus. Lainamäärä on 2 815 397 euroa (30.9.2025), joka erääntyy maksettavaksi kaksi kertaa tilikauden aikana.\n\nTämän takia esitetään, että hyvinvointialue tekee tilikaudella 2025 enintään 200 000 euron suuruisen pääomasijoituksen yhtiöön. Sijoitus kirjataan sijoitetun vapaan oman pääoman rahastoon (SVOP).\n\nPääomasijoituksella varmistetaan, että yhtiön rahavarat ovat riittävällä tasolla suhteessa toiminnan alkuvaiheen kustannuksiin, kassavirran vaihteluihin ja lainanhoitokuluihin. Riittävä omapääoma tukee yhtiön vakavaraisuutta ja vahvistaa sen luotettavuutta sopimuskumppaneiden ja sidosryhmien näkökulmasta.\n\n(S-AK)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 10 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\nettä Kanta-Hämeen hyvinvointialue tekee Kiinteistö osakeyhtiö Riihimäen paloasemaan enintään 200 000 euron suuruisen pääomasijoituksen tilikaudella 2025, joka kirjataan sijoitetun vapaan oman pääoman rahastoon (SVOP)\n\nvaltuuttaa rahoitus- ja investointijohtajan tekemään pääomasijoituksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti siirtää asian käsittelyn seuraavaan kokoukseen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / rahoitus- ja investointijohtaja Petrus Kukkonen"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "419",
+   "title": "Oma Hämeen Tukipalvelut Oy:n pääoman vahvistaminen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025147-9",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2025147-9.PDF",
+   "diary_number": "15255/00.01.08/2025",
+   "preparer": "rahoitus- ja investointijohtaja Petrus Kukkonen",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää\n\nettä Kanta-Hämeen hyvinvointialue tekee Oma Hämeen Tukipalvelut Oy:öön 270 000 euron suuruisen pääomasijoituksen tilikaudella 2025, joka kirjataan yhtiön sijoitetun vapaan oman pääoman rahastoon (SVOP)\n\nvaltuuttaa rahoitus- ja investointijohtajan tekemään pääomasijoituksen.",
+   "decision": "Aluehallitus päätti siirtää asian käsittelyn seuraavaan kokoukseen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "rahoitus- ja investointijohtaja Petrus Kukkonen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Oma Hämeen Tukipalvelut Oy on Kanta-Hämeen hyvinvointialueen kokonaan omistama tytäryhtiö. Yhtiö on perustettu 29.5.2024, ja se on rekisteröity kaupparekisteriin 20.6.2024. Yhtiön on aloittanut varsinaisen toimintansa 1.1.2025.\n\nYhtiön oma pääoma on tällä hetkellä 439 482,61 euroa, mikä on toiminnan suunniteltuun liikevaihtoon ja laajuuteen nähden vähäinen. Toiminnan käynnistämisen, maksuvalmiuden ja taloudellisen vakauden turvaamiseksi on perusteltua, että hyvinvointialue vahvistaa yhtiön pääomarakennetta.\n\nTämän takia esitetään, että hyvinvointialue tekee tilikaudella 2025 270 000 € suuruisen pääomasijoituksen Oma Hämeen Tukipalvelut Oy:öön. Sijoitus kirjataan yhtiön sijoitetun vapaan oman pääoman rahastoon (SVOP).\n\nPääomasijoituksella varmistetaan, että yhtiön oma pääoma on riittävällä tasolla suhteessa toiminnan alkuvaiheen kustannuksiin, kassavirran vaihteluihin ja mahdollisiin riskeihin. Riittävä omapääoma tukee yhtiön vakavaraisuutta ja vahvistaa sen luotettavuutta sopimuskumppaneiden ja sidosryhmien näkökulmasta.\n\nJos yhtiön toiminnan alkuvaiheessa syntyy tappiota ja tappio pienentää omaa pääomaa merkittävästi, tämä näkyy suoraan yhtiön taseessa. Mikäli tappio ylittää oman pääoman määrän, yhtiön oma pääoma muuttuu negatiiviseksi. Tästä syystä riittävän oman pääoman turvaaminen on taloudellisesti ja hallinnollisesti perusteltua.\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 10 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\nettä Kanta-Hämeen hyvinvointialue tekee Oma Hämeen Tukipalvelut Oy:öön 270 000 euron suuruisen pääomasijoituksen tilikaudella 2025, joka kirjataan yhtiön sijoitetun vapaan oman pääoman rahastoon (SVOP)\n\nvaltuuttaa rahoitus- ja investointijohtajan tekemään pääomasijoituksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti siirtää asian käsittelyn seuraavaan kokoukseen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / rahoitus- ja investointijohtaja Petrus Kukkonen"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "420",
+   "title": "Kanta-Hämeen hyvinvointialueen palkkiosääntö 1.1.2026 alkaen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025147-10",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2025147-10.PDF",
+   "diary_number": "15257/00.01.01/2025",
+   "preparer": "hallintojohtaja Katja Tommiska",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää esittää aluevaltuustolle, että se hyväksyy liitteenä olevan palkkiosäännön voimaan tulevaksi 1.1.2026 alkaen.",
+   "decision": "Aluehallitus päätti siirtää asian käsittelyn seuraavaan kokoukseen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Kanta-Hämeen hyvinvointialueen palkkiosääntö on vahvistettu aluevaltuuston kokouksessa 19.12.2023 (§ 113). Palkkiosäännön osalta noussut esille päivitystarpeita liittyen ansionmenetyskorvausten maksatusaikatauluun ja lisäksi on tarpeen täsmentää palkkiosäännön tulkinnallisesti epäselviä kohtia.\n\nPalkkiosääntöä ehdotetaan muutettavaksi 1.1.2026 alkaen seuraavilta osin:\n\n- voimassa olevan palkkiosäännön 4 §:n ”Kokouspalkkiot” ehdotetaan 7 momentti kuuluu ”Aluehallituksen puheenjohtajalle ja aluehallituksen määräyksestä lauta- tai johtokunnan kokoukseen osallistuvalle aluehallituksen muulle jäsenelle maksetaan sama palkkio kuin kyseisen toimielimen jäsenille. ehdotetaan tehtävän säännöksen tulkinnan selkiyttämiseksi lisäys ”. Palkkiosäännön 3.2 §:n mukaan päätoimiselle aluehallituksen puheenjohtajalle maksettava korvaus kattaa vuosipalkkiot, aluehallituksen kokouspalkkiot sekä palkkiosäännön 4 ja 6 §:n mukaiset erillispalkkiot. Em. säännöksen mukaisesti päätoimiselle aluehallituksen puheenjohtajalle ei ole maksettu kokouspalkkiota silloin, kun hän on osallistunut aluehallituksen puheenjohtajan ominaisuudessa muiden toimielinten kuin aluevaltuuston kokouksiin. Jotta palkkiosääntö olisi sisäisesti johdonmukainen, ehdotetaan palkkiosäännön 4.7 § muutettavan muotoon: ”Aluehallituksen puheenjohtajalle päätoimista puheenjohtaja lukuun ottamatta ja aluehallituksen määräyksestä lauta- tai johtokunnan kokoukseen osallistuvalle aluehallituksen muulle jäsenelle maksetaan sama palkkio kuin kyseisen toimielimen jäsenille.”\n\nPalkkiosäännön 4 §:n 8 momenttiin ehdotetaan määräysten tulkintaa täsmentäviä ja selkiyttäviä tekstimuutoksia. Mm. valtuustoinfoa koskeva kohta ehdotetaan poistettavan. Syksyn 2025 aikana on siirrytty käytäntöön, että aluevaltuuston kokousta edeltävällä viikolla pidetään 30 minuutin pituinen valtuustoinfo Teams-yhteydellä. Info nauhoitetaan ja sen voi katsoa myös muuna ajankohtana. Valtuustoinfo on ollut vapaaehtoinen tilaisuus eikä siitä ole maksettu kokouspalkkiota.\n\nPalkkiosäännön 4 §:ään ehdotetaan lisättävän 10 momentiksi seuraava määräys koskien kyselytunteja: ”Aluevaltuuston kyselytunti katsotaan kokouspalkkiota laskettaessa yhdeksi kokoukseksi samana päivänä pidettävän aluevaltuuston kokouksen kanssa.” Voimassa oleva palkkiosääntö ei sisällä kyselytuntia koskevia määräyksiä, ja ehdotettu lisäys selkiyttäisi palkkiosäännön soveltamista näiltä osin.\n\n- voimassa olevan palkkiosäännön 8 § ”Kokouspalkkio kahdesta tai useammasta toimielimen kokouksesta” kuuluu ”Jos saman vuorokauden aikana pidetään useampi kuin yksi saman toimielimen kokous ja/tai katselmus tai toimitus, katsotaan ne kokouspalkkioita laskettaessa samaksi kokoukseksi.” Palkkiosäännön tulkinnan selkiyttämiseksi pykälän teksti ehdotetaan muutettavan muotoon: ”Jos samana kalenterivuorokautena pidetään useampi kuin yksi saman toimielimen kokous taikka iltakoulu, seminaari, perehdytystilaisuus tai koulutustilaisuus, katsotaan ne tilaisuuteen osallistuville luottamushenkilöille kokouspalkkiota laskettaessa yhdeksi kokoukseksi.”\n\n- palkkiosäännön 16 §:n otsikko ”Palkkioiden maksaminen” ehdotetaan muutettavan muotoon ”Palkkioiden, ansionmenetysten ja muiden kustannusten maksaminen”. Voimassa olevan palkkiosäännön mukaan palkkiot maksetaan 4 kertaa vuodessa, ja samalla maksuaikataululla on käytännössä maksettu myös ansionmenetyskorvaukset ja muut korvaukset. Ansionmenetyskorvausten maksatusaikataulun osalta on tullut palautetta sen osalta, että kolmen kuukauden välein tapahtuva maksatus on liian harvatahtinen. Matkakorvausten tai muiden kustannusten maksatuksen osalta ei vastaavaa palautetta ole tullut, ja käytännössä matkakorvauksia on myös haettu harvatahtisemmin kuin ansionmenetyskorvauksia.\n\nPalkkiosääntöä ehdotetaan muutettavan siten, että pykälään lisätään 2 momentti, joka kuuluu: ”Ansionmenetyskorvaukset maksetaan kuukausittain. Matkakorvaukset ja muut kustannukset maksetaan 4 kertaa vuodessa.”\n\n- palkkiosäännön 19 §:n 1 ja 2 momentin lopusta ehdotetaan poistettavan suluissa olevat soveltamisohjeet, jotka ovat käyneet tarpeettomiksi valtuustokauden vaihtumisesta johtuen.\n\nLisäksi palkkiosääntöön ehdotetaan joitakin yksittäisiä täsmentäviä tekstimuutoksia.\n\nVoimassa oleva palkkiosääntö on oheismateriaalina.\n\nPalkkiosäännön 1.1.2026 alkaen luonnos on liitteenä. Muutosehdotukset ja lisäykset on merkitty luonnokseen punaisella kursiivilla. Poistoehdotukset on merkitty yliviivauksella.\n\nAluevaltuusto pöytäkirjaan liitetään valtuuston hyväksymän päätöksen mukaisesti päivitetty palkkiosääntö.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 9.3 § 13 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää esittää aluevaltuustolle, että se hyväksyy liitteenä olevan palkkiosäännön voimaan tulevaksi 1.1.2026 alkaen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti siirtää asian käsittelyn seuraavaan kokoukseen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Luonnos_Kanta-Hämeen hyvinvointialueen palkkiosääntö 1.1.2026",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2025147-10-382732.PDF"
+    },
+    {
+     "title": "Liite 2 Kanta-Hämeen hyvinvointialueen palkkiosääntö 1.1.2024",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2025147-10-383162.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "421",
+   "title": "Hämeen Tekstiilihuolto Oy:n ylimääräinen yhtiökokous 12.12.2025",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025147-11",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2025147-11.PDF",
+   "diary_number": "14833/00.01.08/2025",
+   "preparer": "hallintojohtaja Katja Tommiska",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää nimetä hyvinvointialueen edustajaksi 12.12.2025 pidettävään ylimääräiseen yhtiökokoukseen logistiikka- ja tekstiilihuoltopäällikkö Niko Jussilan tai hänen nimeämänsä ja toteaa, ettei sillä ole huomauttamista hallituksen yhtiökokoukselle tekemiin päätösesityksiin.",
+   "decision": "Aluehallitus päätti siirtää asian käsittelyn seuraavaan kokoukseen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hämeen Tekstiilihuolto Oy on Kanta-Hämeen ja Päijät-Hämeen hyvinvointialueiden omistama sairaalapesula, joka on keskittynyt hyvinvointialueiden ja niitä palvelevien tukipalveluyhtiöiden korkean hygienian tekstiilihuoltoon. Julkisomisteinen yritys toimii omistajiensa sidosyksikkönä ja sen toimintaa ohjaa yhtiökokouksen lisäksi kaikkien omistajien valitsema hallitus sekä asiakkaista koostuva tekstiilitoimikunta.\n\nHämeen Tekstiilihuolto Oy:n ylimääräinen yhtiökokous pidetään 12.12.2025 klo 13.00 alkaen. Kokoukseen voi osallistua joko paikan päällä os. Reunakatu 24 15850 Lahti tai Microsoft Teams -yhteydellä.\n\nHämeen Tekstiilihuolto Oy sijoittuu aluehallituksen kokouksessaan 13.3.2023 (§ 82) tekemän ryhmittelyn mukaisesti strategisiin yhtiöihin, joiden yhtiökokouskutsut tuodaan aluehallituksen käsiteltäviksi. Hallintosäännön 35.2 §:n 10 ja 11 kohdan mukaan aluehallitus nimeää hyvinvointialueen ehdokkaat tytäryhteisöjen hallituksiin sekä nimeää yhtiökokousedustajat ja antaa heille omistajaohjauksen edellyttämät toimintaohjeet.\n\nKokouskutsu (sis. asialista) liitteineen on oheismateriaalina.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 35.2 §:n 10 ja 11 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää nimetä hyvinvointialueen edustajaksi 12.12.2025 pidettävään ylimääräiseen yhtiökokoukseen logistiikka- ja tekstiilihuoltopäällikkö Niko Jussilan tai hänen nimeämänsä ja toteaa, ettei sillä ole huomauttamista hallituksen yhtiökokoukselle tekemiin päätösesityksiin."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti siirtää asian käsittelyn seuraavaan kokoukseen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "423",
+   "title": "Aluevaltuuston 25.11.2025 kokouksen päätösten täytäntöönpano",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025147-12",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2025147-12.PDF",
+   "diary_number": "15426/00.02.00/2025",
+   "preparer": "hallintojohtaja Katja Tommiska",
+   "presenter": null,
+   "proposal": "Auehallitus päättää todeta, etteivät aluevaltuuston kokouksessaan 25.11.2025 tekemät päätökset ole syntyneet virheellisessä järjestyksessä, mene valtuuston toimivallan yli tai muutenkaan ole lainvastaisia ja hyväksyy päätösten täytäntöönpanon.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hyvinvointialueesta annetun lain 43 §:n mukaan aluehallitus vastaa valtuuston päätösten täytäntöönpanosta ja laillisuuden valvonnasta. Päätös voidaan panna täytäntöön ennen kuin se on saanut lainvoiman, mutta täytäntöönpanoon ei kuitenkaan saa ryhtyä, jos oikaisuvaatimus tai valitus käy täytäntöönpanon johdosta hyödyttömäksi taikka jos oikaisuvaatimuksen käsittelevä toimielin tai viranhaltija taikka valitusviranomainen kieltää täytäntöönpanon (hyvinvointialuelaki 148 §).\n\nJos aluehallitus katsoo, että aluevaltuuston päätös on syntynyt virheellisessä järjestyksessä, aluevaltuusto on ylittänyt toimivaltansa tai päätös on muuten lainvastainen, aluehallituksen on jätettävä päätös täytäntöön panematta ja asia on viipymättä saatettava aluevaltuuston uudelleen käsiteltäväksi (hyvinvointialuelaki 101 §).\n\nAluevaltuuston 25.11.2025 kokouksessa käsitellyt asiat ovat liitteenä.\n\n(JS)\n\nToimivallan peruste\nLaki hyvinvointialueesta (611/2021) 43.1 § 2 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Auehallitus päättää todeta, etteivät aluevaltuuston kokouksessaan 25.11.2025 tekemät päätökset ole syntyneet virheellisessä järjestyksessä, mene valtuuston toimivallan yli tai muutenkaan ole lainvastaisia ja hyväksyy päätösten täytäntöönpanon."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Aluevaltuuston 25.11.2025 päätökset",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2025147-12-383238.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "424",
+   "title": "Hyvinvointialueesta annetun lain 97 §:n mukaista ottomenettelyä varten saapuneet pöytäkirjat ja päätökset",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025147-13",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2025147-13.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää, ettei se käytä otto-oikeutta edellä mainittuihin päätöksiin.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvointialueesta annetun lain 97 §:n mukaan aluehallitus, aluehallituksen puheenjohtaja, hyvinvointialuejohtaja ja hallintosäännössä määrätty hyvinvointialueen viranhaltija voivat ottaa aluehallituksen käsiteltäväksi asian, joka on tämän lain nojalla siirretty aluehallituksen alaisen viranomaisen tai aluehallituksen jaoston toimivaltaan ja jossa asianomainen viranomainen on tehnyt päätöksen.\n\nHyvinvointialueen hallintosäännön 32 §:n mukaan asian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nHallintosäännön 33 §:n mukaan aluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan.\n\nViranhaltijoiden päätösluettelo on liitteenä. Päätösasiakirjat ovat nähtävillä hyvinvointialueen verkkosivuilla osoitteessa: https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=official_frames"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää, ettei se käytä otto-oikeutta edellä mainittuihin päätöksiin."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Päätösluettelo 24.11.2025",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2025147-13-382955.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "425",
+   "title": "Muut asiat",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025147-14",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2025147-14.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä muut asiat tiedoksi.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kanta-Hämeen hyvinvointialueelle on saapunut seuraavat kirjeet:\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 20.11.2025: Terveydenhuollon palveluvalikoimaneuvoston päätös oireettoman\n\nhenkilön hammaslääketieteelliseen KKTT-tutkimukseen pääsyn\n\nkriteereistä infektiopesäkkeen varhaiseksi toteamiseksi. Lausunto pyydetään toimittamaan Terveydenhuollon palveluvalikoimaneuvostolle\n\nviimeistään 9.1.2026.\n\n- Valtiovarainministeriön asettamispäätös 13.11.2025: Kanta-Hämeen hyvinvointialueen lainanottovaltuuden muuttamista koskevan päätöksen valmisteluryhmä\n\n- Hämeenlinnan kaupungin tiedote 14.11.2025: 2640 Kaivokadun asemakaavan muutos, luonnosvaiheen kuuleminen\n\n- Hauhon Pitäjä Ry:n kirjelmä Kanta-Hämeen hyvinvointialueen aluehallitukselle 21.11.2025\n\n- Sisäministeriön lausuntopyyntö 20.11.2025: Lausunto- ja lisätietopyyntö ohjeluonnokseen pelastustoiminnan\n\nfyysisistä toimintakykyvaatimuksista. Sisäministeriö pyytää ohjeluonnoksesta lausuntoanne viimeistään torstaina 15.1.2026 klo 16.15.\n\n- Sisäministeriön lausuntopyyntö 20.11.2025: Pelastustoimen paikkatietoalusta ja karttamoottorin osallistumispyyntö (hankintailmoitus). Vastaukset pyydetään toimittamaan\n\nviimeistään 27.11.2025."
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä muut asiat tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Lepola Kaisa",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Alijärvi Pirjo",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Bitter Riku",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Filatov Tarja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hellstén Tapani",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Häggman Johanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Jormanainen Lauri",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lehkonen Helena",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pura Eero",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Saarenmaa Lotta",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Vanttaja Karri",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Isosuo Juha",
+   "role": "aluevaltuuston puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kylliäinen Kylli",
+   "role": "aluevaltuuston 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Ristavaara Heini",
+   "role": "aluevaltuuston 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Naukkarinen Olli",
+   "role": "esittelijä, hyvinvointialuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Savola Jussi",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Tommiska Katja",
+   "role": "pöytäkirjanpitäjä, hallintojohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Hirviniemi Erja",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kukkonen Petrus",
+   "role": "rahoitus- ja investointijohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Ala-Kokko Satu",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Paasikoski-Junninen Marika",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Talikka Petri",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Lappalainen Jarmo",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Bjerregård Madsen Johanna",
+   "role": "henkilöstöjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Haapanen Jorma",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Pohjavirta Terhi",
+   "role": "vs. talousjohtaja",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025147",
+  "fetched_at": "2026-10-14T17:04:07+00:00",
+  "content_hash": "eda451f93828ec29",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T17:04:07+00:00"
+ }
+}

@@ -1,0 +1,1544 @@
+{
+ "meetings": {
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_7102026": {
+   "id": "tarkastuslautakunta/2026-10-07",
+   "date": "2026-10-07",
+   "stage": "minutes",
+   "hash": "fa9a193d5e1e9007",
+   "fetched_at": "2026-10-14T17:46:05+00:00",
+   "first_seen": "2026-10-14T17:46:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_6102026": {
+   "id": "aluehallitus/2026-10-06",
+   "date": "2026-10-06",
+   "stage": "minutes",
+   "hash": "315fce2b70a3dce7",
+   "fetched_at": "2026-10-19T01:07:39+00:00",
+   "first_seen": "2026-10-14T17:46:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_2492026": {
+   "id": "tulevaisuuslautakunta/2026-09-24",
+   "date": "2026-09-24",
+   "stage": "minutes",
+   "hash": "82226b10e290ab14",
+   "fetched_at": "2026-10-14T17:46:42+00:00",
+   "first_seen": "2026-10-14T17:46:42+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Hyvinvoinnin_ja_osallisuuden_edistaumlmisen_lautakunta/Kokous_2392026": {
+   "id": "hyvinvoinnin-ja-osallisuuden-edistamisen-lautakunta/2026-09-23",
+   "date": "2026-09-23",
+   "stage": "minutes",
+   "hash": "d9eca5c5935a44c2",
+   "fetched_at": "2026-10-14T17:46:58+00:00",
+   "first_seen": "2026-10-14T17:46:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2292026": {
+   "id": "aluehallitus/2026-09-22",
+   "date": "2026-09-22",
+   "stage": "minutes",
+   "hash": "552025a0cc15e568",
+   "fetched_at": "2026-10-19T01:08:19+00:00",
+   "first_seen": "2026-10-14T17:47:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Turvallisuus_ja_valmiuslautakunta/Kokous_1792026": {
+   "id": "turvallisuus-ja-valmiuslautakunta/2026-09-17",
+   "date": "2026-09-17",
+   "stage": "minutes",
+   "hash": "9e4c4b37e5c619c3",
+   "fetched_at": "2026-10-14T17:47:26+00:00",
+   "first_seen": "2026-10-14T17:47:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1592026": {
+   "id": "aluehallitus/2026-09-15",
+   "date": "2026-09-15",
+   "stage": "minutes",
+   "hash": "48b8be86ab2230d0",
+   "fetched_at": "2026-10-19T01:08:44+00:00",
+   "first_seen": "2026-10-14T17:47:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1592026": {
+   "id": "tarkastuslautakunta/2026-09-15",
+   "date": "2026-09-15",
+   "stage": "minutes",
+   "hash": "868d266d221adb39",
+   "fetched_at": "2026-10-14T17:48:05+00:00",
+   "first_seen": "2026-10-14T17:48:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_1492026": {
+   "id": "aluevaltuusto/2026-09-14",
+   "date": "2026-09-14",
+   "stage": "minutes",
+   "hash": "ddc10e39084aa2be",
+   "fetched_at": "2026-10-14T17:48:36+00:00",
+   "first_seen": "2026-10-14T17:48:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_1092026": {
+   "id": "tulevaisuuslautakunta/2026-09-10",
+   "date": "2026-09-10",
+   "stage": "minutes",
+   "hash": "d65a19f5c5f6e107",
+   "fetched_at": "2026-10-19T01:09:16+00:00",
+   "first_seen": "2026-10-14T17:48:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_892026": {
+   "id": "aluehallitus/2026-09-08",
+   "date": "2026-09-08",
+   "stage": "minutes",
+   "hash": "0cddea90b9cf1bcd",
+   "fetched_at": "2026-10-14T17:49:19+00:00",
+   "first_seen": "2026-10-14T17:49:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_792026": {
+   "id": "vanhusneuvosto/2026-09-07",
+   "date": "2026-09-07",
+   "stage": "minutes",
+   "hash": "98ccfacd89416864",
+   "fetched_at": "2026-10-14T17:49:32+00:00",
+   "first_seen": "2026-10-14T17:49:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Yhteisen_tietohallinnon_johtokunta/Kokous_492026": {
+   "id": "yhteisen-tietohallinnon-johtokunta/2026-09-04",
+   "date": "2026-09-04",
+   "stage": "minutes",
+   "hash": "9e95de285eb9c434",
+   "fetched_at": "2026-10-14T17:49:44+00:00",
+   "first_seen": "2026-10-14T17:49:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_292026": {
+   "id": "nuorisovaltuusto/2026-09-02",
+   "date": "2026-09-02",
+   "stage": "minutes",
+   "hash": "9674e3e462ab831c",
+   "fetched_at": "2026-10-14T17:50:02+00:00",
+   "first_seen": "2026-10-14T17:50:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_292026": {
+   "id": "tulevaisuuslautakunta/2026-09-02",
+   "date": "2026-09-02",
+   "stage": "minutes",
+   "hash": "d627ac2bf31e46d5",
+   "fetched_at": "2026-10-14T17:50:11+00:00",
+   "first_seen": "2026-10-14T17:50:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_192026": {
+   "id": "aluehallitus/2026-09-01",
+   "date": "2026-09-01",
+   "stage": "minutes",
+   "hash": "8466d3d4b5372d7f",
+   "fetched_at": "2026-10-14T17:50:51+00:00",
+   "first_seen": "2026-10-14T17:50:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_2782026": {
+   "id": "tulevaisuuslautakunta/2026-08-27",
+   "date": "2026-08-27",
+   "stage": "minutes",
+   "hash": "79ace9c0a03db879",
+   "fetched_at": "2026-10-14T17:51:07+00:00",
+   "first_seen": "2026-10-14T17:51:07+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_2782026": {
+   "id": "vammaisneuvosto/2026-08-27",
+   "date": "2026-08-27",
+   "stage": "minutes",
+   "hash": "cb3b7c9d3a21f24a",
+   "fetched_at": "2026-10-14T17:51:25+00:00",
+   "first_seen": "2026-10-14T17:51:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Hyvinvoinnin_ja_osallisuuden_edistaumlmisen_lautakunta/Kokous_2682026": {
+   "id": "hyvinvoinnin-ja-osallisuuden-edistamisen-lautakunta/2026-08-26",
+   "date": "2026-08-26",
+   "stage": "minutes",
+   "hash": "d622b73980a21469",
+   "fetched_at": "2026-10-14T17:51:40+00:00",
+   "first_seen": "2026-10-14T17:51:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2582026": {
+   "id": "aluehallitus/2026-08-25",
+   "date": "2026-08-25",
+   "stage": "minutes",
+   "hash": "b166153c3572f0ee",
+   "fetched_at": "2026-10-19T01:11:06+00:00",
+   "first_seen": "2026-10-14T17:52:03+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2582026": {
+   "id": "tarkastuslautakunta/2026-08-25",
+   "date": "2026-08-25",
+   "stage": "minutes",
+   "hash": "0882bd847486f54d",
+   "fetched_at": "2026-10-14T17:52:10+00:00",
+   "first_seen": "2026-10-14T17:52:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Yhteisen_tietohallinnon_johtokunta/Kokous_2182026": {
+   "id": "yhteisen-tietohallinnon-johtokunta/2026-08-21",
+   "date": "2026-08-21",
+   "stage": "minutes",
+   "hash": "64a5e6c38992d023",
+   "fetched_at": "2026-10-14T17:52:25+00:00",
+   "first_seen": "2026-10-14T17:52:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_2082026": {
+   "id": "tulevaisuuslautakunta/2026-08-20",
+   "date": "2026-08-20",
+   "stage": "minutes",
+   "hash": "d5bbf091f21b760a",
+   "fetched_at": "2026-10-14T17:52:35+00:00",
+   "first_seen": "2026-10-14T17:52:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Turvallisuus_ja_valmiuslautakunta/Kokous_2082026": {
+   "id": "turvallisuus-ja-valmiuslautakunta/2026-08-20",
+   "date": "2026-08-20",
+   "stage": "minutes",
+   "hash": "f60b791b9b4f4250",
+   "fetched_at": "2026-10-14T17:52:54+00:00",
+   "first_seen": "2026-10-14T17:52:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1882026": {
+   "id": "aluehallitus/2026-08-18",
+   "date": "2026-08-18",
+   "stage": "minutes",
+   "hash": "299c2f10f8609e21",
+   "fetched_at": "2026-10-14T17:53:32+00:00",
+   "first_seen": "2026-10-14T17:53:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1882026": {
+   "id": "tarkastuslautakunta/2026-08-18",
+   "date": "2026-08-18",
+   "stage": "minutes",
+   "hash": "a75e4c538305d13c",
+   "fetched_at": "2026-10-14T17:53:54+00:00",
+   "first_seen": "2026-10-14T17:53:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_1382026": {
+   "id": "tulevaisuuslautakunta/2026-08-13",
+   "date": "2026-08-13",
+   "stage": "minutes",
+   "hash": "fd8275d1e9f3c702",
+   "fetched_at": "2026-10-14T17:54:03+00:00",
+   "first_seen": "2026-10-14T17:54:03+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1182026": {
+   "id": "aluehallitus/2026-08-11",
+   "date": "2026-08-11",
+   "stage": "minutes",
+   "hash": "39f9b1c8bf5bf73f",
+   "fetched_at": "2026-10-14T17:54:25+00:00",
+   "first_seen": "2026-10-14T17:54:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2362026": {
+   "id": "aluehallitus/2026-06-23",
+   "date": "2026-06-23",
+   "stage": "minutes",
+   "hash": "c3fce501c9d56eff",
+   "fetched_at": "2026-10-14T17:54:51+00:00",
+   "first_seen": "2026-10-14T17:54:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Yhteisen_tietohallinnon_johtokunta/Kokous_1862026": {
+   "id": "yhteisen-tietohallinnon-johtokunta/2026-06-18",
+   "date": "2026-06-18",
+   "stage": "minutes",
+   "hash": "91baa9202488c0d8",
+   "fetched_at": "2026-10-14T17:54:56+00:00",
+   "first_seen": "2026-10-14T17:54:56+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Hyvinvoinnin_ja_osallisuuden_edistaumlmisen_lautakunta/Kokous_1762026": {
+   "id": "hyvinvoinnin-ja-osallisuuden-edistamisen-lautakunta/2026-06-17",
+   "date": "2026-06-17",
+   "stage": "minutes",
+   "hash": "e64a03db97a74c1e",
+   "fetched_at": "2026-10-14T17:55:02+00:00",
+   "first_seen": "2026-10-14T17:55:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_1762026": {
+   "id": "tulevaisuuslautakunta/2026-06-17",
+   "date": "2026-06-17",
+   "stage": "minutes",
+   "hash": "9a5ea7e98af380a0",
+   "fetched_at": "2026-10-14T17:55:19+00:00",
+   "first_seen": "2026-10-14T17:55:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Yhteisen_tietohallinnon_neuvottelukunta/Kokous_1762026": {
+   "id": "yhteisen-tietohallinnon-neuvottelukunta/2026-06-17",
+   "date": "2026-06-17",
+   "stage": "minutes",
+   "hash": "d2708f2c87b2c2ee",
+   "fetched_at": "2026-10-14T17:55:29+00:00",
+   "first_seen": "2026-10-14T17:55:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1662026": {
+   "id": "aluehallitus/2026-06-16",
+   "date": "2026-06-16",
+   "stage": "minutes",
+   "hash": "c968be4f55b209cd",
+   "fetched_at": "2026-10-14T17:55:48+00:00",
+   "first_seen": "2026-10-14T17:55:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1662026": {
+   "id": "tarkastuslautakunta/2026-06-16",
+   "date": "2026-06-16",
+   "stage": "minutes",
+   "hash": "f4f17a5eeea64163",
+   "fetched_at": "2026-10-14T17:55:57+00:00",
+   "first_seen": "2026-10-14T17:55:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_1562026": {
+   "id": "aluevaltuusto/2026-06-15",
+   "date": "2026-06-15",
+   "stage": "minutes",
+   "hash": "50a9587c4d672175",
+   "fetched_at": "2026-10-14T17:56:20+00:00",
+   "first_seen": "2026-10-14T17:56:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Turvallisuus_ja_valmiuslautakunta/Kokous_1062026": {
+   "id": "turvallisuus-ja-valmiuslautakunta/2026-06-10",
+   "date": "2026-06-10",
+   "stage": "minutes",
+   "hash": "d310aac259ca3053",
+   "fetched_at": "2026-10-14T17:56:34+00:00",
+   "first_seen": "2026-10-14T17:56:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_962026": {
+   "id": "aluehallitus/2026-06-09",
+   "date": "2026-06-09",
+   "stage": "minutes",
+   "hash": "6c66520d0f000cf2",
+   "fetched_at": "2026-10-14T17:57:10+00:00",
+   "first_seen": "2026-10-14T17:57:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/PohjoisSuomen_yhteistyoumlalueen_tutkimustoimikunta/Kokous_862026": {
+   "id": "pohjois-suomen-yhteistyoalueen-tutkimustoimikunta/2026-06-08",
+   "date": "2026-06-08",
+   "stage": "minutes",
+   "hash": "35648af8f8fa0774",
+   "fetched_at": "2026-10-14T17:57:24+00:00",
+   "first_seen": "2026-10-14T17:57:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_562026": {
+   "id": "tulevaisuuslautakunta/2026-06-05",
+   "date": "2026-06-05",
+   "stage": "minutes",
+   "hash": "9c726244b3543481",
+   "fetched_at": "2026-10-14T17:57:58+00:00",
+   "first_seen": "2026-10-14T17:57:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_262026": {
+   "id": "aluehallitus/2026-06-02",
+   "date": "2026-06-02",
+   "stage": "minutes",
+   "hash": "7842c98307ffbae2",
+   "fetched_at": "2026-10-14T17:59:19+00:00",
+   "first_seen": "2026-10-14T17:59:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_2852026": {
+   "id": "tulevaisuuslautakunta/2026-05-28",
+   "date": "2026-05-28",
+   "stage": "minutes",
+   "hash": "0f5761ce01bab383",
+   "fetched_at": "2026-10-14T17:59:44+00:00",
+   "first_seen": "2026-10-14T17:59:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_2852026": {
+   "id": "vammaisneuvosto/2026-05-28",
+   "date": "2026-05-28",
+   "stage": "minutes",
+   "hash": "77cf052d5cf864ac",
+   "fetched_at": "2026-10-14T17:59:58+00:00",
+   "first_seen": "2026-10-14T17:59:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Hyvinvoinnin_ja_osallisuuden_edistaumlmisen_lautakunta/Kokous_2752026": {
+   "id": "hyvinvoinnin-ja-osallisuuden-edistamisen-lautakunta/2026-05-27",
+   "date": "2026-05-27",
+   "stage": "minutes",
+   "hash": "85f618a99f33a7f1",
+   "fetched_at": "2026-10-14T18:00:10+00:00",
+   "first_seen": "2026-10-14T18:00:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2652026": {
+   "id": "aluehallitus/2026-05-26",
+   "date": "2026-05-26",
+   "stage": "minutes",
+   "hash": "67771d3f929e7d22",
+   "fetched_at": "2026-10-14T18:00:35+00:00",
+   "first_seen": "2026-10-14T18:00:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_2552026": {
+   "id": "aluevaltuusto/2026-05-25",
+   "date": "2026-05-25",
+   "stage": "minutes",
+   "hash": "bc63bb311a62f61b",
+   "fetched_at": "2026-10-14T18:01:09+00:00",
+   "first_seen": "2026-10-14T18:01:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2152026": {
+   "id": "tarkastuslautakunta/2026-05-21",
+   "date": "2026-05-21",
+   "stage": "minutes",
+   "hash": "872af2c6e623f9a4",
+   "fetched_at": "2026-10-14T18:01:23+00:00",
+   "first_seen": "2026-10-14T18:01:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_2152026": {
+   "id": "tulevaisuuslautakunta/2026-05-21",
+   "date": "2026-05-21",
+   "stage": "minutes",
+   "hash": "579dd0a5c2f106f8",
+   "fetched_at": "2026-10-14T18:01:45+00:00",
+   "first_seen": "2026-10-14T18:01:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_2052026": {
+   "id": "vanhusneuvosto/2026-05-20",
+   "date": "2026-05-20",
+   "stage": "minutes",
+   "hash": "0597515730d42f13",
+   "fetched_at": "2026-10-14T18:01:58+00:00",
+   "first_seen": "2026-10-14T18:01:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1952026": {
+   "id": "aluehallitus/2026-05-19",
+   "date": "2026-05-19",
+   "stage": "minutes",
+   "hash": "03d2c16f358df638",
+   "fetched_at": "2026-10-14T18:02:21+00:00",
+   "first_seen": "2026-10-14T18:02:21+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_1352026": {
+   "id": "nuorisovaltuusto/2026-05-13",
+   "date": "2026-05-13",
+   "stage": "minutes",
+   "hash": "b5229ca1ddc62e88",
+   "fetched_at": "2026-10-14T18:03:12+00:00",
+   "first_seen": "2026-10-14T18:03:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1352026": {
+   "id": "tarkastuslautakunta/2026-05-13",
+   "date": "2026-05-13",
+   "stage": "minutes",
+   "hash": "293df0671f494a07",
+   "fetched_at": "2026-10-14T18:04:23+00:00",
+   "first_seen": "2026-10-14T18:04:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1252026": {
+   "id": "aluehallitus/2026-05-12",
+   "date": "2026-05-12",
+   "stage": "minutes",
+   "hash": "b29d23a9cef71e04",
+   "fetched_at": "2026-10-14T18:10:13+00:00",
+   "first_seen": "2026-10-14T18:10:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_752026": {
+   "id": "tulevaisuuslautakunta/2026-05-07",
+   "date": "2026-05-07",
+   "stage": "minutes",
+   "hash": "188a31de175b33e3",
+   "fetched_at": "2026-10-14T18:13:36+00:00",
+   "first_seen": "2026-10-14T18:13:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_652026": {
+   "id": "tarkastuslautakunta/2026-05-06",
+   "date": "2026-05-06",
+   "stage": "minutes",
+   "hash": "66ac7a2a407b2105",
+   "fetched_at": "2026-10-14T18:18:14+00:00",
+   "first_seen": "2026-10-14T18:18:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_142026": {
+   "id": "tarkastuslautakunta/2026-04-01",
+   "date": "2026-04-01",
+   "stage": "minutes",
+   "hash": "b7c9215256244ff7",
+   "fetched_at": "2026-10-14T19:05:14+00:00",
+   "first_seen": "2026-10-14T19:05:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_3132026": {
+   "id": "aluehallitus/2026-03-31",
+   "date": "2026-03-31",
+   "stage": "minutes",
+   "hash": "215b31bffec8fdee",
+   "fetched_at": "2026-10-14T19:09:23+00:00",
+   "first_seen": "2026-10-14T19:09:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_2632026": {
+   "id": "tulevaisuuslautakunta/2026-03-26",
+   "date": "2026-03-26",
+   "stage": "minutes",
+   "hash": "ea147ad49e51bbed",
+   "fetched_at": "2026-10-14T19:11:14+00:00",
+   "first_seen": "2026-10-14T19:11:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Turvallisuus_ja_valmiuslautakunta/Kokous_2632026": {
+   "id": "turvallisuus-ja-valmiuslautakunta/2026-03-26",
+   "date": "2026-03-26",
+   "stage": "minutes",
+   "hash": "c64e7e8db3f87ebb",
+   "fetched_at": "2026-10-14T19:11:46+00:00",
+   "first_seen": "2026-10-14T19:11:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2432026": {
+   "id": "aluehallitus/2026-03-24",
+   "date": "2026-03-24",
+   "stage": "minutes",
+   "hash": "c448688d4ffe8a39",
+   "fetched_at": "2026-10-14T19:12:19+00:00",
+   "first_seen": "2026-10-14T19:12:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Hyvinvoinnin_ja_osallisuuden_edistaumlmisen_lautakunta/Kokous_1832026": {
+   "id": "hyvinvoinnin-ja-osallisuuden-edistamisen-lautakunta/2026-03-18",
+   "date": "2026-03-18",
+   "stage": "minutes",
+   "hash": "5ac56a8a23a4d339",
+   "fetched_at": "2026-10-14T19:12:32+00:00",
+   "first_seen": "2026-10-14T19:12:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1732026": {
+   "id": "aluehallitus/2026-03-17",
+   "date": "2026-03-17",
+   "stage": "minutes",
+   "hash": "7dbbc626a98989eb",
+   "fetched_at": "2026-10-14T19:13:04+00:00",
+   "first_seen": "2026-10-14T19:13:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_1232026": {
+   "id": "tulevaisuuslautakunta/2026-03-12",
+   "date": "2026-03-12",
+   "stage": "minutes",
+   "hash": "76db92b10b31fc57",
+   "fetched_at": "2026-10-14T19:13:17+00:00",
+   "first_seen": "2026-10-14T19:13:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/PohjoisSuomen_yhteistyoumlalueen_tutkimustoimikunta/Kokous_1132026": {
+   "id": "pohjois-suomen-yhteistyoalueen-tutkimustoimikunta/2026-03-11",
+   "date": "2026-03-11",
+   "stage": "minutes",
+   "hash": "0b788b8fc1f935af",
+   "fetched_at": "2026-10-14T19:13:34+00:00",
+   "first_seen": "2026-10-14T19:13:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1032026": {
+   "id": "aluehallitus/2026-03-10",
+   "date": "2026-03-10",
+   "stage": "minutes",
+   "hash": "e8dfdbb48eb50e53",
+   "fetched_at": "2026-10-14T19:13:56+00:00",
+   "first_seen": "2026-10-14T19:13:56+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Hyvinvoinnin_ja_osallisuuden_edistaumlmisen_lautakunta/Kokous_2522026": {
+   "id": "hyvinvoinnin-ja-osallisuuden-edistamisen-lautakunta/2026-02-25",
+   "date": "2026-02-25",
+   "stage": "minutes",
+   "hash": "5864cb9e44c1a666",
+   "fetched_at": "2026-10-14T19:15:01+00:00",
+   "first_seen": "2026-10-14T19:15:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2422026": {
+   "id": "aluehallitus/2026-02-24",
+   "date": "2026-02-24",
+   "stage": "minutes",
+   "hash": "5a0af369458be1dc",
+   "fetched_at": "2026-10-14T19:15:22+00:00",
+   "first_seen": "2026-10-14T19:15:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_2322026": {
+   "id": "nuorisovaltuusto/2026-02-23",
+   "date": "2026-02-23",
+   "stage": "minutes",
+   "hash": "ed5bf1426e728713",
+   "fetched_at": "2026-10-14T19:15:46+00:00",
+   "first_seen": "2026-10-14T19:15:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_2022026": {
+   "id": "vanhusneuvosto/2026-02-20",
+   "date": "2026-02-20",
+   "stage": "minutes",
+   "hash": "3b2520ee08b7d8f4",
+   "fetched_at": "2026-10-14T19:15:59+00:00",
+   "first_seen": "2026-10-14T19:15:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_1922026": {
+   "id": "tulevaisuuslautakunta/2026-02-19",
+   "date": "2026-02-19",
+   "stage": "minutes",
+   "hash": "03ee1970528c92ff",
+   "fetched_at": "2026-10-14T19:16:17+00:00",
+   "first_seen": "2026-10-14T19:16:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Turvallisuus_ja_valmiuslautakunta/Kokous_1922026": {
+   "id": "turvallisuus-ja-valmiuslautakunta/2026-02-19",
+   "date": "2026-02-19",
+   "stage": "minutes",
+   "hash": "e84a7a43970649f6",
+   "fetched_at": "2026-10-14T19:16:38+00:00",
+   "first_seen": "2026-10-14T19:16:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1822026": {
+   "id": "tarkastuslautakunta/2026-02-18",
+   "date": "2026-02-18",
+   "stage": "minutes",
+   "hash": "ec44f314c18fa015",
+   "fetched_at": "2026-10-14T19:16:54+00:00",
+   "first_seen": "2026-10-14T19:16:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1722026": {
+   "id": "aluehallitus/2026-02-17",
+   "date": "2026-02-17",
+   "stage": "minutes",
+   "hash": "24453d5272bc73d7",
+   "fetched_at": "2026-10-14T19:18:01+00:00",
+   "first_seen": "2026-10-14T19:18:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_1622026": {
+   "id": "aluevaltuusto/2026-02-16",
+   "date": "2026-02-16",
+   "stage": "minutes",
+   "hash": "cdd4cd5afb1be8c2",
+   "fetched_at": "2026-10-14T19:19:06+00:00",
+   "first_seen": "2026-10-14T19:19:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_1122026": {
+   "id": "vammaisneuvosto/2026-02-11",
+   "date": "2026-02-11",
+   "stage": "minutes",
+   "hash": "239c852faa60cb09",
+   "fetched_at": "2026-10-14T19:20:13+00:00",
+   "first_seen": "2026-10-14T19:20:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1022026": {
+   "id": "aluehallitus/2026-02-10",
+   "date": "2026-02-10",
+   "stage": "minutes",
+   "hash": "10c5a96e1e9fce2f",
+   "fetched_at": "2026-10-14T19:20:54+00:00",
+   "first_seen": "2026-10-14T19:20:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_322026": {
+   "id": "aluehallitus/2026-02-03",
+   "date": "2026-02-03",
+   "stage": "minutes",
+   "hash": "960372a55277dc81",
+   "fetched_at": "2026-10-14T19:21:48+00:00",
+   "first_seen": "2026-10-14T19:21:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_2912026": {
+   "id": "tulevaisuuslautakunta/2026-01-29",
+   "date": "2026-01-29",
+   "stage": "minutes",
+   "hash": "c905b1d828f34416",
+   "fetched_at": "2026-10-14T19:21:54+00:00",
+   "first_seen": "2026-10-14T19:21:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Hyvinvoinnin_ja_osallisuuden_edistaumlmisen_lautakunta/Kokous_2812026": {
+   "id": "hyvinvoinnin-ja-osallisuuden-edistamisen-lautakunta/2026-01-28",
+   "date": "2026-01-28",
+   "stage": "minutes",
+   "hash": "39b01f9f9c720897",
+   "fetched_at": "2026-10-14T19:22:06+00:00",
+   "first_seen": "2026-10-14T19:22:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2712026": {
+   "id": "aluehallitus/2026-01-27",
+   "date": "2026-01-27",
+   "stage": "minutes",
+   "hash": "2106d088e8d713c2",
+   "fetched_at": "2026-10-14T19:23:02+00:00",
+   "first_seen": "2026-10-14T19:23:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2112026": {
+   "id": "tarkastuslautakunta/2026-01-21",
+   "date": "2026-01-21",
+   "stage": "minutes",
+   "hash": "6892b948a93c9fff",
+   "fetched_at": "2026-10-14T19:23:46+00:00",
+   "first_seen": "2026-10-14T19:23:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2012026": {
+   "id": "aluehallitus/2026-01-20",
+   "date": "2026-01-20",
+   "stage": "minutes",
+   "hash": "419a69999d2df55c",
+   "fetched_at": "2026-10-14T19:24:06+00:00",
+   "first_seen": "2026-10-14T19:24:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1612026": {
+   "id": "aluehallitus/2026-01-16",
+   "date": "2026-01-16",
+   "stage": "minutes",
+   "hash": "ecaf019bc7ae11d6",
+   "fetched_at": "2026-10-14T19:24:49+00:00",
+   "first_seen": "2026-10-14T19:24:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_1512026": {
+   "id": "tulevaisuuslautakunta/2026-01-15",
+   "date": "2026-01-15",
+   "stage": "minutes",
+   "hash": "990822ad23638bed",
+   "fetched_at": "2026-10-14T19:24:55+00:00",
+   "first_seen": "2026-10-14T19:24:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Turvallisuus_ja_valmiuslautakunta/Kokous_1512026": {
+   "id": "turvallisuus-ja-valmiuslautakunta/2026-01-15",
+   "date": "2026-01-15",
+   "stage": "minutes",
+   "hash": "f0e4660bf8b04d0c",
+   "fetched_at": "2026-10-14T19:25:04+00:00",
+   "first_seen": "2026-10-14T19:25:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1312026": {
+   "id": "aluehallitus/2026-01-13",
+   "date": "2026-01-13",
+   "stage": "minutes",
+   "hash": "f049d2d97d08f730",
+   "fetched_at": "2026-10-14T19:25:17+00:00",
+   "first_seen": "2026-10-14T19:25:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Hyvinvoinnin_ja_osallisuuden_edistaumlmisen_lautakunta/Kokous_19122025": {
+   "id": "hyvinvoinnin-ja-osallisuuden-edistamisen-lautakunta/2025-12-19",
+   "date": "2025-12-19",
+   "stage": "minutes",
+   "hash": "7553d43e56ab46b3",
+   "fetched_at": "2026-10-14T19:25:23+00:00",
+   "first_seen": "2026-10-14T19:25:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_18122025": {
+   "id": "tulevaisuuslautakunta/2025-12-18",
+   "date": "2025-12-18",
+   "stage": "minutes",
+   "hash": "1ea687a127f3434c",
+   "fetched_at": "2026-10-14T19:25:29+00:00",
+   "first_seen": "2026-10-14T19:25:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Turvallisuus_ja_valmiuslautakunta/Kokous_18122025": {
+   "id": "turvallisuus-ja-valmiuslautakunta/2025-12-18",
+   "date": "2025-12-18",
+   "stage": "minutes",
+   "hash": "8eebb4950c428696",
+   "fetched_at": "2026-10-14T19:25:38+00:00",
+   "first_seen": "2026-10-14T19:25:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_16122025": {
+   "id": "aluehallitus/2025-12-16",
+   "date": "2025-12-16",
+   "stage": "minutes",
+   "hash": "0c76c717a3d96884",
+   "fetched_at": "2026-10-14T19:26:11+00:00",
+   "first_seen": "2026-10-14T19:26:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_15122025": {
+   "id": "aluevaltuusto/2025-12-15",
+   "date": "2025-12-15",
+   "stage": "minutes",
+   "hash": "52412693d79de3da",
+   "fetched_at": "2026-10-14T19:26:34+00:00",
+   "first_seen": "2026-10-14T19:26:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_12122025": {
+   "id": "vammaisneuvosto/2025-12-12",
+   "date": "2025-12-12",
+   "stage": "minutes",
+   "hash": "c714c7ef1b8f5908",
+   "fetched_at": "2026-10-14T19:26:44+00:00",
+   "first_seen": "2026-10-14T19:26:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_9122025": {
+   "id": "aluehallitus/2025-12-09",
+   "date": "2025-12-09",
+   "stage": "minutes",
+   "hash": "3bb4164473f1fab4",
+   "fetched_at": "2026-10-14T19:27:08+00:00",
+   "first_seen": "2026-10-14T19:27:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_4122025": {
+   "id": "tulevaisuuslautakunta/2025-12-04",
+   "date": "2025-12-04",
+   "stage": "minutes",
+   "hash": "5cb4c6c21831b562",
+   "fetched_at": "2026-10-14T19:27:20+00:00",
+   "first_seen": "2026-10-14T19:27:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_3122025": {
+   "id": "tarkastuslautakunta/2025-12-03",
+   "date": "2025-12-03",
+   "stage": "minutes",
+   "hash": "589a2afe28c18d53",
+   "fetched_at": "2026-10-14T19:27:29+00:00",
+   "first_seen": "2026-10-14T19:27:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2122025": {
+   "id": "aluehallitus/2025-12-02",
+   "date": "2025-12-02",
+   "stage": "minutes",
+   "hash": "ed6f31e982b74616",
+   "fetched_at": "2026-10-14T19:27:58+00:00",
+   "first_seen": "2026-10-14T19:27:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_1122025": {
+   "id": "vanhusneuvosto/2025-12-01",
+   "date": "2025-12-01",
+   "stage": "minutes",
+   "hash": "3f12040db3f03043",
+   "fetched_at": "2026-10-14T19:28:06+00:00",
+   "first_seen": "2026-10-14T19:28:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_27112025": {
+   "id": "nuorisovaltuusto/2025-11-27",
+   "date": "2025-11-27",
+   "stage": "minutes",
+   "hash": "56204f250d46aa5e",
+   "fetched_at": "2026-10-14T19:28:16+00:00",
+   "first_seen": "2026-10-14T19:28:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/PohjoisSuomen_yhteistyoumlalueen_tutkimustoimikunta/Kokous_26112025": {
+   "id": "pohjois-suomen-yhteistyoalueen-tutkimustoimikunta/2025-11-26",
+   "date": "2025-11-26",
+   "stage": "minutes",
+   "hash": "cfc233f8e16c124b",
+   "fetched_at": "2026-10-14T19:28:26+00:00",
+   "first_seen": "2026-10-14T19:28:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_25112025": {
+   "id": "aluehallitus/2025-11-25",
+   "date": "2025-11-25",
+   "stage": "minutes",
+   "hash": "0b1fd4ec4d12162a",
+   "fetched_at": "2026-10-14T19:28:39+00:00",
+   "first_seen": "2026-10-14T19:28:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_20112025": {
+   "id": "tulevaisuuslautakunta/2025-11-20",
+   "date": "2025-11-20",
+   "stage": "minutes",
+   "hash": "9d4e3b8069a2c688",
+   "fetched_at": "2026-10-14T19:28:58+00:00",
+   "first_seen": "2026-10-14T19:28:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Hyvinvoinnin_ja_osallisuuden_edistaumlmisen_lautakunta/Kokous_19112025": {
+   "id": "hyvinvoinnin-ja-osallisuuden-edistamisen-lautakunta/2025-11-19",
+   "date": "2025-11-19",
+   "stage": "minutes",
+   "hash": "f5a6209fb608b340",
+   "fetched_at": "2026-10-14T19:29:06+00:00",
+   "first_seen": "2026-10-14T19:29:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_19112025": {
+   "id": "tarkastuslautakunta/2025-11-19",
+   "date": "2025-11-19",
+   "stage": "minutes",
+   "hash": "043ca59612cd3531",
+   "fetched_at": "2026-10-14T19:29:18+00:00",
+   "first_seen": "2026-10-14T19:29:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_18112025": {
+   "id": "aluehallitus/2025-11-18",
+   "date": "2025-11-18",
+   "stage": "minutes",
+   "hash": "7ee11a9067fd9f88",
+   "fetched_at": "2026-10-14T19:29:35+00:00",
+   "first_seen": "2026-10-14T19:29:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_13112025": {
+   "id": "tulevaisuuslautakunta/2025-11-13",
+   "date": "2025-11-13",
+   "stage": "minutes",
+   "hash": "8a63ea654e24e304",
+   "fetched_at": "2026-10-14T19:29:43+00:00",
+   "first_seen": "2026-10-14T19:29:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_11112025": {
+   "id": "aluehallitus/2025-11-11",
+   "date": "2025-11-11",
+   "stage": "minutes",
+   "hash": "534e915f9888d931",
+   "fetched_at": "2026-10-14T19:30:03+00:00",
+   "first_seen": "2026-10-14T19:30:03+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_10112025": {
+   "id": "aluevaltuusto/2025-11-10",
+   "date": "2025-11-10",
+   "stage": "minutes",
+   "hash": "b1c76987fb3038c2",
+   "fetched_at": "2026-10-14T19:30:15+00:00",
+   "first_seen": "2026-10-14T19:30:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Turvallisuus_ja_valmiuslautakunta/Kokous_6112025": {
+   "id": "turvallisuus-ja-valmiuslautakunta/2025-11-06",
+   "date": "2025-11-06",
+   "stage": "minutes",
+   "hash": "69615a88a3359b3a",
+   "fetched_at": "2026-10-14T19:30:21+00:00",
+   "first_seen": "2026-10-14T19:30:21+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_4112025": {
+   "id": "aluehallitus/2025-11-04",
+   "date": "2025-11-04",
+   "stage": "minutes",
+   "hash": "7c8879075750226d",
+   "fetched_at": "2026-10-14T19:30:31+00:00",
+   "first_seen": "2026-10-14T19:30:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Hyvinvoinnin_ja_osallisuuden_edistaumlmisen_lautakunta/Kokous_30102025": {
+   "id": "hyvinvoinnin-ja-osallisuuden-edistamisen-lautakunta/2025-10-30",
+   "date": "2025-10-30",
+   "stage": "minutes",
+   "hash": "8ff047ae380f23ba",
+   "fetched_at": "2026-10-14T19:30:39+00:00",
+   "first_seen": "2026-10-14T19:30:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_29102025": {
+   "id": "tarkastuslautakunta/2025-10-29",
+   "date": "2025-10-29",
+   "stage": "minutes",
+   "hash": "a89a4564c7ad8312",
+   "fetched_at": "2026-10-14T19:30:50+00:00",
+   "first_seen": "2026-10-14T19:30:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_28102025": {
+   "id": "aluehallitus/2025-10-28",
+   "date": "2025-10-28",
+   "stage": "minutes",
+   "hash": "0a3e64d9ba8d1833",
+   "fetched_at": "2026-10-14T19:31:16+00:00",
+   "first_seen": "2026-10-14T19:31:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_16102025": {
+   "id": "tulevaisuuslautakunta/2025-10-16",
+   "date": "2025-10-16",
+   "stage": "minutes",
+   "hash": "a59dec881b953d7d",
+   "fetched_at": "2026-10-14T19:31:30+00:00",
+   "first_seen": "2026-10-14T19:31:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_14102025": {
+   "id": "aluehallitus/2025-10-14",
+   "date": "2025-10-14",
+   "stage": "minutes",
+   "hash": "e34e713723ba292c",
+   "fetched_at": "2026-10-14T19:31:42+00:00",
+   "first_seen": "2026-10-14T19:31:42+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_10102025": {
+   "id": "vanhusneuvosto/2025-10-10",
+   "date": "2025-10-10",
+   "stage": "minutes",
+   "hash": "ccb1e2951793a5ea",
+   "fetched_at": "2026-10-14T19:31:58+00:00",
+   "first_seen": "2026-10-14T19:31:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_9102025": {
+   "id": "tulevaisuuslautakunta/2025-10-09",
+   "date": "2025-10-09",
+   "stage": "minutes",
+   "hash": "66739f9ee02e8696",
+   "fetched_at": "2026-10-14T19:32:06+00:00",
+   "first_seen": "2026-10-14T19:32:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Turvallisuus_ja_valmiuslautakunta/Kokous_9102025": {
+   "id": "turvallisuus-ja-valmiuslautakunta/2025-10-09",
+   "date": "2025-10-09",
+   "stage": "minutes",
+   "hash": "ac7a5decfdc8ec3a",
+   "fetched_at": "2026-10-14T19:32:13+00:00",
+   "first_seen": "2026-10-14T19:32:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_8102025": {
+   "id": "nuorisovaltuusto/2025-10-08",
+   "date": "2025-10-08",
+   "stage": "minutes",
+   "hash": "05698d5218fc8eaf",
+   "fetched_at": "2026-10-14T19:32:27+00:00",
+   "first_seen": "2026-10-14T19:32:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/PohjoisSuomen_yhteistyoumlalueen_tutkimustoimikunta/Kokous_8102025": {
+   "id": "pohjois-suomen-yhteistyoalueen-tutkimustoimikunta/2025-10-08",
+   "date": "2025-10-08",
+   "stage": "minutes",
+   "hash": "86c2f92df830913b",
+   "fetched_at": "2026-10-14T19:32:36+00:00",
+   "first_seen": "2026-10-14T19:32:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_7102025": {
+   "id": "aluehallitus/2025-10-07",
+   "date": "2025-10-07",
+   "stage": "minutes",
+   "hash": "39b668a92a231979",
+   "fetched_at": "2026-10-14T19:32:56+00:00",
+   "first_seen": "2026-10-14T19:32:56+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Turvallisuus_ja_valmiuslautakunta/Kokous_6102025": {
+   "id": "turvallisuus-ja-valmiuslautakunta/2025-10-06",
+   "date": "2025-10-06",
+   "stage": "minutes",
+   "hash": "e4488c21eca13fb2",
+   "fetched_at": "2026-10-14T19:33:02+00:00",
+   "first_seen": "2026-10-14T19:33:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_1102025": {
+   "id": "vammaisneuvosto/2025-10-01",
+   "date": "2025-10-01",
+   "stage": "minutes",
+   "hash": "7184bc6d0d34782d",
+   "fetched_at": "2026-10-14T19:33:17+00:00",
+   "first_seen": "2026-10-14T19:33:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_3092025": {
+   "id": "aluehallitus/2025-09-30",
+   "date": "2025-09-30",
+   "stage": "minutes",
+   "hash": "c1419209e7c895de",
+   "fetched_at": "2026-10-14T19:33:33+00:00",
+   "first_seen": "2026-10-14T19:33:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_2592025": {
+   "id": "tulevaisuuslautakunta/2025-09-25",
+   "date": "2025-09-25",
+   "stage": "minutes",
+   "hash": "c5a00189c9775ea2",
+   "fetched_at": "2026-10-14T19:33:39+00:00",
+   "first_seen": "2026-10-14T19:33:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Hyvinvoinnin_ja_osallisuuden_edistaumlmisen_lautakunta/Kokous_2492025": {
+   "id": "hyvinvoinnin-ja-osallisuuden-edistamisen-lautakunta/2025-09-24",
+   "date": "2025-09-24",
+   "stage": "minutes",
+   "hash": "662e9b6ff5225d8c",
+   "fetched_at": "2026-10-14T19:33:46+00:00",
+   "first_seen": "2026-10-14T19:33:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2492025": {
+   "id": "tarkastuslautakunta/2025-09-24",
+   "date": "2025-09-24",
+   "stage": "minutes",
+   "hash": "87621cb751f6eaf7",
+   "fetched_at": "2026-10-14T19:33:57+00:00",
+   "first_seen": "2026-10-14T19:33:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2392025": {
+   "id": "aluehallitus/2025-09-23",
+   "date": "2025-09-23",
+   "stage": "minutes",
+   "hash": "544239952780a09b",
+   "fetched_at": "2026-10-14T19:34:09+00:00",
+   "first_seen": "2026-10-14T19:34:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1692025": {
+   "id": "aluehallitus/2025-09-16",
+   "date": "2025-09-16",
+   "stage": "minutes",
+   "hash": "664137f752d1c673",
+   "fetched_at": "2026-10-14T19:34:20+00:00",
+   "first_seen": "2026-10-14T19:34:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_1592025": {
+   "id": "aluevaltuusto/2025-09-15",
+   "date": "2025-09-15",
+   "stage": "minutes",
+   "hash": "6dce5a00836b3c91",
+   "fetched_at": "2026-10-14T19:34:36+00:00",
+   "first_seen": "2026-10-14T19:34:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_1192025": {
+   "id": "tulevaisuuslautakunta/2025-09-11",
+   "date": "2025-09-11",
+   "stage": "minutes",
+   "hash": "1ffc9fb7ef1cac84",
+   "fetched_at": "2026-10-14T19:34:43+00:00",
+   "first_seen": "2026-10-14T19:34:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Turvallisuus_ja_valmiuslautakunta/Kokous_1092025": {
+   "id": "turvallisuus-ja-valmiuslautakunta/2025-09-10",
+   "date": "2025-09-10",
+   "stage": "minutes",
+   "hash": "2f29557d23fea846",
+   "fetched_at": "2026-10-14T19:34:55+00:00",
+   "first_seen": "2026-10-14T19:34:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_992025": {
+   "id": "aluehallitus/2025-09-09",
+   "date": "2025-09-09",
+   "stage": "minutes",
+   "hash": "c6575ea63fcc041d",
+   "fetched_at": "2026-10-14T19:35:09+00:00",
+   "first_seen": "2026-10-14T19:35:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Hyvinvoinnin_ja_osallisuuden_edistaumlmisen_lautakunta/Kokous_892025": {
+   "id": "hyvinvoinnin-ja-osallisuuden-edistamisen-lautakunta/2025-09-08",
+   "date": "2025-09-08",
+   "stage": "minutes",
+   "hash": "5047e113bbb6aae3",
+   "fetched_at": "2026-10-14T19:35:14+00:00",
+   "first_seen": "2026-10-14T19:35:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_492025": {
+   "id": "tulevaisuuslautakunta/2025-09-04",
+   "date": "2025-09-04",
+   "stage": "minutes",
+   "hash": "d0dc75ef125d6b38",
+   "fetched_at": "2026-10-14T19:35:20+00:00",
+   "first_seen": "2026-10-14T19:35:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_292025": {
+   "id": "aluehallitus/2025-09-02",
+   "date": "2025-09-02",
+   "stage": "minutes",
+   "hash": "222e54481e799e7e",
+   "fetched_at": "2026-10-14T19:35:51+00:00",
+   "first_seen": "2026-10-14T19:35:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Hyvinvoinnin_ja_osallisuuden_edistaumlmisen_lautakunta/Kokous_2882025": {
+   "id": "hyvinvoinnin-ja-osallisuuden-edistamisen-lautakunta/2025-08-28",
+   "date": "2025-08-28",
+   "stage": "minutes",
+   "hash": "b0800184e98b0a2e",
+   "fetched_at": "2026-10-14T19:36:00+00:00",
+   "first_seen": "2026-10-14T19:36:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_2182025": {
+   "id": "tulevaisuuslautakunta/2025-08-21",
+   "date": "2025-08-21",
+   "stage": "minutes",
+   "hash": "a2258896461871f2",
+   "fetched_at": "2026-10-14T19:36:08+00:00",
+   "first_seen": "2026-10-14T19:36:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2082025": {
+   "id": "tarkastuslautakunta/2025-08-20",
+   "date": "2025-08-20",
+   "stage": "minutes",
+   "hash": "087f40bb600b083f",
+   "fetched_at": "2026-10-14T19:36:24+00:00",
+   "first_seen": "2026-10-14T19:36:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Turvallisuus_ja_valmiuslautakunta/Kokous_2082025": {
+   "id": "turvallisuus-ja-valmiuslautakunta/2025-08-20",
+   "date": "2025-08-20",
+   "stage": "minutes",
+   "hash": "d1fba1b04b264046",
+   "fetched_at": "2026-10-14T19:36:30+00:00",
+   "first_seen": "2026-10-14T19:36:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1982025": {
+   "id": "aluehallitus/2025-08-19",
+   "date": "2025-08-19",
+   "stage": "minutes",
+   "hash": "5cf974881e89ac70",
+   "fetched_at": "2026-10-14T19:36:46+00:00",
+   "first_seen": "2026-10-14T19:36:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_1482025": {
+   "id": "tulevaisuuslautakunta/2025-08-14",
+   "date": "2025-08-14",
+   "stage": "minutes",
+   "hash": "3c8ca55b9a358bbc",
+   "fetched_at": "2026-10-14T19:36:52+00:00",
+   "first_seen": "2026-10-14T19:36:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1282025": {
+   "id": "aluehallitus/2025-08-12",
+   "date": "2025-08-12",
+   "stage": "minutes",
+   "hash": "3515bdd4c4ba8f15",
+   "fetched_at": "2026-10-14T19:37:10+00:00",
+   "first_seen": "2026-10-14T19:37:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2462025": {
+   "id": "aluehallitus/2025-06-24",
+   "date": "2025-06-24",
+   "stage": "minutes",
+   "hash": "ec73125811c0caa5",
+   "fetched_at": "2026-10-14T19:37:31+00:00",
+   "first_seen": "2026-10-14T19:37:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1762025": {
+   "id": "aluehallitus/2025-06-17",
+   "date": "2025-06-17",
+   "stage": "minutes",
+   "hash": "4d52b91934e522ee",
+   "fetched_at": "2026-10-14T19:37:50+00:00",
+   "first_seen": "2026-10-14T19:37:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1762025": {
+   "id": "tarkastuslautakunta/2025-06-17",
+   "date": "2025-06-17",
+   "stage": "minutes",
+   "hash": "513de65af9c3882e",
+   "fetched_at": "2026-10-14T19:38:03+00:00",
+   "first_seen": "2026-10-14T19:38:03+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Hyvinvoinnin_ja_osallisuuden_edistaumlmisen_lautakunta/Kokous_1262025": {
+   "id": "hyvinvoinnin-ja-osallisuuden-edistamisen-lautakunta/2025-06-12",
+   "date": "2025-06-12",
+   "stage": "minutes",
+   "hash": "1f98b66c529084b7",
+   "fetched_at": "2026-10-14T19:38:10+00:00",
+   "first_seen": "2026-10-14T19:38:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1062025": {
+   "id": "aluehallitus/2025-06-10",
+   "date": "2025-06-10",
+   "stage": "minutes",
+   "hash": "d727a0a76d77ab1a",
+   "fetched_at": "2026-10-14T19:38:20+00:00",
+   "first_seen": "2026-10-14T19:38:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Turvallisuus_ja_valmiuslautakunta/Kokous_1062025": {
+   "id": "turvallisuus-ja-valmiuslautakunta/2025-06-10",
+   "date": "2025-06-10",
+   "stage": "minutes",
+   "hash": "5441a68eeccab8c9",
+   "fetched_at": "2026-10-14T19:38:29+00:00",
+   "first_seen": "2026-10-14T19:38:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_962025": {
+   "id": "tulevaisuuslautakunta/2025-06-09",
+   "date": "2025-06-09",
+   "stage": "minutes",
+   "hash": "2ca50ffcfa14ffd7",
+   "fetched_at": "2026-10-14T19:38:38+00:00",
+   "first_seen": "2026-10-14T19:38:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_362025": {
+   "id": "aluehallitus/2025-06-03",
+   "date": "2025-06-03",
+   "stage": "minutes",
+   "hash": "a69fa1fc5dd4a809",
+   "fetched_at": "2026-10-14T19:38:59+00:00",
+   "first_seen": "2026-10-14T19:38:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_262025": {
+   "id": "aluevaltuusto/2025-06-02",
+   "date": "2025-06-02",
+   "stage": "minutes",
+   "hash": "db87234f55879daa",
+   "fetched_at": "2026-10-14T19:39:20+00:00",
+   "first_seen": "2026-10-14T19:39:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_552026": {
+   "id": "aluehallitus/2026-05-05",
+   "date": "2026-05-05",
+   "stage": "minutes",
+   "hash": "3fbbc98b67463166",
+   "fetched_at": "2026-10-15T01:13:19+00:00",
+   "first_seen": "2026-10-15T01:13:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Yhteisen_tietohallinnon_johtokunta/Kokous_3042026": {
+   "id": "yhteisen-tietohallinnon-johtokunta/2026-04-30",
+   "date": "2026-04-30",
+   "stage": "minutes",
+   "hash": "77e5e93e0fe303d5",
+   "fetched_at": "2026-10-15T01:13:28+00:00",
+   "first_seen": "2026-10-15T01:13:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2942026": {
+   "id": "tarkastuslautakunta/2026-04-29",
+   "date": "2026-04-29",
+   "stage": "minutes",
+   "hash": "29736de89ef53d5d",
+   "fetched_at": "2026-10-15T01:13:41+00:00",
+   "first_seen": "2026-10-15T01:13:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2842026": {
+   "id": "aluehallitus/2026-04-28",
+   "date": "2026-04-28",
+   "stage": "minutes",
+   "hash": "94cecec3036729df",
+   "fetched_at": "2026-10-15T01:13:55+00:00",
+   "first_seen": "2026-10-15T01:13:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Hyvinvoinnin_ja_osallisuuden_edistaumlmisen_lautakunta/Kokous_2242026": {
+   "id": "hyvinvoinnin-ja-osallisuuden-edistamisen-lautakunta/2026-04-22",
+   "date": "2026-04-22",
+   "stage": "minutes",
+   "hash": "ca5b0cf8f5b2573e",
+   "fetched_at": "2026-10-15T01:14:19+00:00",
+   "first_seen": "2026-10-15T01:14:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Turvallisuus_ja_valmiuslautakunta/Kokous_2242026": {
+   "id": "turvallisuus-ja-valmiuslautakunta/2026-04-22",
+   "date": "2026-04-22",
+   "stage": "minutes",
+   "hash": "a2818557053371c8",
+   "fetched_at": "2026-10-15T01:14:30+00:00",
+   "first_seen": "2026-10-15T01:14:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2142026": {
+   "id": "aluehallitus/2026-04-21",
+   "date": "2026-04-21",
+   "stage": "minutes",
+   "hash": "d73371434d84043c",
+   "fetched_at": "2026-10-15T01:14:38+00:00",
+   "first_seen": "2026-10-15T01:14:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Hyvinvoinnin_ja_osallisuuden_edistaumlmisen_lautakunta/Kokous_1642026": {
+   "id": "hyvinvoinnin-ja-osallisuuden-edistamisen-lautakunta/2026-04-16",
+   "date": "2026-04-16",
+   "stage": "minutes",
+   "hash": "8cb1bb35a2d5be67",
+   "fetched_at": "2026-10-15T01:14:43+00:00",
+   "first_seen": "2026-10-15T01:14:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_1642026": {
+   "id": "tulevaisuuslautakunta/2026-04-16",
+   "date": "2026-04-16",
+   "stage": "minutes",
+   "hash": "629e3ca046899efa",
+   "fetched_at": "2026-10-15T01:14:58+00:00",
+   "first_seen": "2026-10-15T01:14:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1442026": {
+   "id": "aluehallitus/2026-04-14",
+   "date": "2026-04-14",
+   "stage": "minutes",
+   "hash": "08ea1f7039879ad6",
+   "fetched_at": "2026-10-15T01:15:14+00:00",
+   "first_seen": "2026-10-15T01:15:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_942026": {
+   "id": "aluevaltuusto/2026-04-09",
+   "date": "2026-04-09",
+   "stage": "minutes",
+   "hash": "047ab1449c80171b",
+   "fetched_at": "2026-10-15T01:15:22+00:00",
+   "first_seen": "2026-10-15T01:15:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_842026": {
+   "id": "tarkastuslautakunta/2026-04-08",
+   "date": "2026-04-08",
+   "stage": "minutes",
+   "hash": "6fe69d959332d2c3",
+   "fetched_at": "2026-10-15T01:15:34+00:00",
+   "first_seen": "2026-10-15T01:15:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_742026": {
+   "id": "aluehallitus/2026-04-07",
+   "date": "2026-04-07",
+   "stage": "minutes",
+   "hash": "27edc62ea5e15fe9",
+   "fetched_at": "2026-10-15T01:15:52+00:00",
+   "first_seen": "2026-10-15T01:15:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_242026": {
+   "id": "tulevaisuuslautakunta/2026-04-02",
+   "date": "2026-04-02",
+   "stage": "minutes",
+   "hash": "42e58256290317f9",
+   "fetched_at": "2026-10-15T01:15:59+00:00",
+   "first_seen": "2026-10-15T01:15:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluevaalilautakunta/Kokous_5102026": {
+   "id": "aluevaalilautakunta/2026-10-05",
+   "date": "2026-10-05",
+   "stage": "minutes",
+   "hash": "ee0352ead22fe54f",
+   "fetched_at": "2026-10-19T01:07:47+00:00",
+   "first_seen": "2026-10-19T01:07:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_16102026": {
+   "id": "tarkastuslautakunta/2026-10-16",
+   "date": "2026-10-16",
+   "stage": "minutes",
+   "hash": "a483026c3028c455",
+   "fetched_at": "2026-10-26T01:13:23+00:00",
+   "first_seen": "2026-10-26T01:13:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta/Kokous_15102026": {
+   "id": "tulevaisuuslautakunta/2026-10-15",
+   "date": "2026-10-15",
+   "stage": "minutes",
+   "hash": "1950b8d0b3052207",
+   "fetched_at": "2026-10-26T01:13:34+00:00",
+   "first_seen": "2026-10-26T01:13:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Turvallisuus_ja_valmiuslautakunta/Kokous_15102026": {
+   "id": "turvallisuus-ja-valmiuslautakunta/2026-10-15",
+   "date": "2026-10-15",
+   "stage": "minutes",
+   "hash": "7f69a226915ecc31",
+   "fetched_at": "2026-10-26T01:13:40+00:00",
+   "first_seen": "2026-10-26T01:13:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Hyvinvoinnin_ja_osallisuuden_edistaumlmisen_lautakunta/Kokous_14102026": {
+   "id": "hyvinvoinnin-ja-osallisuuden-edistamisen-lautakunta/2026-10-14",
+   "date": "2026-10-14",
+   "stage": "minutes",
+   "hash": "cc5da4a6bbc4781c",
+   "fetched_at": "2026-10-26T01:13:47+00:00",
+   "first_seen": "2026-10-26T01:13:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_13102026": {
+   "id": "aluehallitus/2026-10-13",
+   "date": "2026-10-13",
+   "stage": "minutes",
+   "hash": "e543662f22214125",
+   "fetched_at": "2026-10-26T01:14:02+00:00",
+   "first_seen": "2026-10-26T01:14:02+00:00",
+   "parser_version": "0.1.0"
+  }
+ },
+ "last_run": "2026-10-26T01:17:45+00:00"
+}

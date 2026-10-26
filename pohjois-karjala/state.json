@@ -1,0 +1,1094 @@
+{
+ "meetings": {
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100877": {
+   "id": "tulevaisuuslautakunta/2026-10-21",
+   "date": "2026-10-21",
+   "stage": "agenda",
+   "hash": "3e96bc08628039e2",
+   "fetched_at": "2026-10-14T17:28:26+00:00",
+   "first_seen": "2026-10-14T17:28:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100876": {
+   "id": "hyvinvoinnin-ja-terveyden-edistamisen-lautakunta/2026-10-20",
+   "date": "2026-10-20",
+   "stage": "minutes",
+   "hash": "fa1a2507eccd4878",
+   "fetched_at": "2026-10-26T01:11:51+00:00",
+   "first_seen": "2026-10-14T17:28:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100862": {
+   "id": "aluevaltuusto/2026-10-08",
+   "date": "2026-10-08",
+   "stage": "minutes",
+   "hash": "2eacdbf9ec1b7617",
+   "fetched_at": "2026-10-19T01:05:05+00:00",
+   "first_seen": "2026-10-14T17:28:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100872": {
+   "id": "aluehallitus/2026-09-29",
+   "date": "2026-09-29",
+   "stage": "minutes",
+   "hash": "367422a7c8a59ce0",
+   "fetched_at": "2026-10-14T17:29:13+00:00",
+   "first_seen": "2026-10-14T17:29:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100840": {
+   "id": "tarkastuslautakunta/2026-09-28",
+   "date": "2026-09-28",
+   "stage": "minutes",
+   "hash": "5245da5c5d41df35",
+   "fetched_at": "2026-10-14T17:29:25+00:00",
+   "first_seen": "2026-10-14T17:29:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100848": {
+   "id": "tulevaisuuslautakunta/2026-09-23",
+   "date": "2026-09-23",
+   "stage": "minutes",
+   "hash": "811147de51fb2c71",
+   "fetched_at": "2026-10-14T17:29:37+00:00",
+   "first_seen": "2026-10-14T17:29:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100847": {
+   "id": "hyvinvoinnin-ja-terveyden-edistamisen-lautakunta/2026-09-22",
+   "date": "2026-09-22",
+   "stage": "minutes",
+   "hash": "d4aba565b3e7c569",
+   "fetched_at": "2026-10-14T17:29:50+00:00",
+   "first_seen": "2026-10-14T17:29:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100838": {
+   "id": "ymparistoterveydenhuollon-jaosto/2026-09-22",
+   "date": "2026-09-22",
+   "stage": "minutes",
+   "hash": "a5722489eed51965",
+   "fetched_at": "2026-10-14T17:30:00+00:00",
+   "first_seen": "2026-10-14T17:30:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100845": {
+   "id": "hyvinvointialueen-lapsi-ja-perheasiainneuvosto/2026-09-16",
+   "date": "2026-09-16",
+   "stage": "minutes",
+   "hash": "1b573eeabdaaf77d",
+   "fetched_at": "2026-10-14T17:30:09+00:00",
+   "first_seen": "2026-10-14T17:30:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100871": {
+   "id": "aluehallitus/2026-09-15",
+   "date": "2026-09-15",
+   "stage": "minutes",
+   "hash": "a98981d164788485",
+   "fetched_at": "2026-10-14T17:30:23+00:00",
+   "first_seen": "2026-10-14T17:30:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100830": {
+   "id": "hyvinvointialueen-nuorisovaltuusto/2026-09-15",
+   "date": "2026-09-15",
+   "stage": "minutes",
+   "hash": "5688459587525ad4",
+   "fetched_at": "2026-10-14T17:30:35+00:00",
+   "first_seen": "2026-10-14T17:30:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100846": {
+   "id": "osallisuusvaliokunta/2026-09-14",
+   "date": "2026-09-14",
+   "stage": "minutes",
+   "hash": "1cf2b156689f5ba7",
+   "fetched_at": "2026-10-14T17:30:45+00:00",
+   "first_seen": "2026-10-14T17:30:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100867": {
+   "id": "turvallisuuden-ja-varautumisen-lautakunta/2026-09-10",
+   "date": "2026-09-10",
+   "stage": "minutes",
+   "hash": "73e1a86c0212b33a",
+   "fetched_at": "2026-10-14T17:30:54+00:00",
+   "first_seen": "2026-10-14T17:30:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100869": {
+   "id": "hyvinvointialueen-vammaisneuvosto/2026-09-10",
+   "date": "2026-09-10",
+   "stage": "minutes",
+   "hash": "1fe368124a58dbe9",
+   "fetched_at": "2026-10-14T17:31:04+00:00",
+   "first_seen": "2026-10-14T17:31:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100810": {
+   "id": "hyvinvointialueen-vanhusneuvosto/2026-09-08",
+   "date": "2026-09-08",
+   "stage": "minutes",
+   "hash": "aff129141843e3c7",
+   "fetched_at": "2026-10-14T17:31:14+00:00",
+   "first_seen": "2026-10-14T17:31:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100858": {
+   "id": "aluehallitus/2026-09-01",
+   "date": "2026-09-01",
+   "stage": "minutes",
+   "hash": "7528034828b2a13c",
+   "fetched_at": "2026-10-14T17:31:28+00:00",
+   "first_seen": "2026-10-14T17:31:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100835": {
+   "id": "tarkastuslautakunta/2026-08-31",
+   "date": "2026-08-31",
+   "stage": "minutes",
+   "hash": "9e3ef56bc8f01b0e",
+   "fetched_at": "2026-10-14T17:31:41+00:00",
+   "first_seen": "2026-10-14T17:31:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100855": {
+   "id": "aluehallitus/2026-08-19",
+   "date": "2026-08-19",
+   "stage": "minutes",
+   "hash": "c3333f5972c04653",
+   "fetched_at": "2026-10-14T17:31:56+00:00",
+   "first_seen": "2026-10-14T17:31:56+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100834": {
+   "id": "aluehallitus/2026-06-16",
+   "date": "2026-06-16",
+   "stage": "minutes",
+   "hash": "98b7e6120193e355",
+   "fetched_at": "2026-10-14T17:32:12+00:00",
+   "first_seen": "2026-10-14T17:32:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100843": {
+   "id": "turvallisuuden-ja-varautumisen-lautakunta/2026-06-11",
+   "date": "2026-06-11",
+   "stage": "minutes",
+   "hash": "fd07272571f8b6b7",
+   "fetched_at": "2026-10-14T17:32:22+00:00",
+   "first_seen": "2026-10-14T17:32:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100831": {
+   "id": "hyvinvointialueen-vammaisneuvosto/2026-06-11",
+   "date": "2026-06-11",
+   "stage": "minutes",
+   "hash": "693cea4494963b99",
+   "fetched_at": "2026-10-14T17:32:32+00:00",
+   "first_seen": "2026-10-14T17:32:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100839": {
+   "id": "osallisuusvaliokunta/2026-06-11",
+   "date": "2026-06-11",
+   "stage": "minutes",
+   "hash": "fef72721b148b92a",
+   "fetched_at": "2026-10-14T17:32:39+00:00",
+   "first_seen": "2026-10-14T17:32:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100827": {
+   "id": "hyvinvointialueen-lapsi-ja-perheasiainneuvosto/2026-06-10",
+   "date": "2026-06-10",
+   "stage": "minutes",
+   "hash": "faf71a83fc58bfd1",
+   "fetched_at": "2026-10-14T17:32:48+00:00",
+   "first_seen": "2026-10-14T17:32:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100836": {
+   "id": "aluevaltuusto/2026-06-09",
+   "date": "2026-06-09",
+   "stage": "minutes",
+   "hash": "8eea8dd5467d7904",
+   "fetched_at": "2026-10-14T17:33:14+00:00",
+   "first_seen": "2026-10-14T17:33:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100826": {
+   "id": "hyvinvointialueen-vanhusneuvosto/2026-06-08",
+   "date": "2026-06-08",
+   "stage": "minutes",
+   "hash": "ee4e00bc95be174e",
+   "fetched_at": "2026-10-14T17:33:27+00:00",
+   "first_seen": "2026-10-14T17:33:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100829": {
+   "id": "hyvinvointialueen-nuorisovaltuusto/2026-06-02",
+   "date": "2026-06-02",
+   "stage": "minutes",
+   "hash": "169f161da22213db",
+   "fetched_at": "2026-10-14T17:33:39+00:00",
+   "first_seen": "2026-10-14T17:33:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100816": {
+   "id": "tarkastuslautakunta/2026-05-27",
+   "date": "2026-05-27",
+   "stage": "minutes",
+   "hash": "66332bd9e6a048bf",
+   "fetched_at": "2026-10-14T17:33:52+00:00",
+   "first_seen": "2026-10-14T17:33:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100828": {
+   "id": "aluehallitus/2026-05-26",
+   "date": "2026-05-26",
+   "stage": "minutes",
+   "hash": "8ea192d7c2ea7bd2",
+   "fetched_at": "2026-10-14T17:34:15+00:00",
+   "first_seen": "2026-10-14T17:34:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100819": {
+   "id": "hyvinvoinnin-ja-terveyden-edistamisen-lautakunta/2026-05-20",
+   "date": "2026-05-20",
+   "stage": "minutes",
+   "hash": "69512a3117d68756",
+   "fetched_at": "2026-10-14T17:34:30+00:00",
+   "first_seen": "2026-10-14T17:34:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100796": {
+   "id": "ymparistoterveydenhuollon-jaosto/2026-05-20",
+   "date": "2026-05-20",
+   "stage": "minutes",
+   "hash": "597c2e259e295abf",
+   "fetched_at": "2026-10-14T17:34:41+00:00",
+   "first_seen": "2026-10-14T17:34:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100820": {
+   "id": "tulevaisuuslautakunta/2026-05-19",
+   "date": "2026-05-19",
+   "stage": "minutes",
+   "hash": "bca29fd4150bf701",
+   "fetched_at": "2026-10-14T17:34:54+00:00",
+   "first_seen": "2026-10-14T17:34:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100822": {
+   "id": "osallisuusvaliokunta/2026-05-18",
+   "date": "2026-05-18",
+   "stage": "minutes",
+   "hash": "e0d4d48c12844c64",
+   "fetched_at": "2026-10-14T17:35:05+00:00",
+   "first_seen": "2026-10-14T17:35:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100821": {
+   "id": "hyvinvointialueen-lapsi-ja-perheasiainneuvosto/2026-05-13",
+   "date": "2026-05-13",
+   "stage": "minutes",
+   "hash": "31c8c757ea49a3e8",
+   "fetched_at": "2026-10-14T17:35:15+00:00",
+   "first_seen": "2026-10-14T17:35:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100798": {
+   "id": "aluehallitus/2026-05-12",
+   "date": "2026-05-12",
+   "stage": "minutes",
+   "hash": "844d30fef18071cc",
+   "fetched_at": "2026-10-14T17:35:35+00:00",
+   "first_seen": "2026-10-14T17:35:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100815": {
+   "id": "tarkastuslautakunta/2026-05-11",
+   "date": "2026-05-11",
+   "stage": "minutes",
+   "hash": "eeda83b74739d5aa",
+   "fetched_at": "2026-10-14T17:35:45+00:00",
+   "first_seen": "2026-10-14T17:35:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100808": {
+   "id": "hyvinvointialueen-vammaisneuvosto/2026-05-08",
+   "date": "2026-05-08",
+   "stage": "minutes",
+   "hash": "54194faa5126f8d6",
+   "fetched_at": "2026-10-14T17:35:57+00:00",
+   "first_seen": "2026-10-14T17:35:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100770": {
+   "id": "aluevaltuusto/2026-05-07",
+   "date": "2026-05-07",
+   "stage": "minutes",
+   "hash": "3c975994b3b39c1a",
+   "fetched_at": "2026-10-14T17:36:24+00:00",
+   "first_seen": "2026-10-14T17:36:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100791": {
+   "id": "hyvinvointialueen-nuorisovaltuusto/2026-05-05",
+   "date": "2026-05-05",
+   "stage": "minutes",
+   "hash": "4be04278b244a9f7",
+   "fetched_at": "2026-10-14T17:36:36+00:00",
+   "first_seen": "2026-10-14T17:36:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100809": {
+   "id": "hyvinvointialueen-vanhusneuvosto/2026-05-05",
+   "date": "2026-05-05",
+   "stage": "minutes",
+   "hash": "dd0c72f019509976",
+   "fetched_at": "2026-10-14T17:36:48+00:00",
+   "first_seen": "2026-10-14T17:36:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100814": {
+   "id": "tarkastuslautakunta/2026-04-30",
+   "date": "2026-04-30",
+   "stage": "minutes",
+   "hash": "469fbb722a64942c",
+   "fetched_at": "2026-10-14T17:37:00+00:00",
+   "first_seen": "2026-10-14T17:37:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100824": {
+   "id": "turvallisuuden-ja-varautumisen-lautakunta/2026-04-29",
+   "date": "2026-04-29",
+   "stage": "minutes",
+   "hash": "136d69651952aa51",
+   "fetched_at": "2026-10-14T17:37:10+00:00",
+   "first_seen": "2026-10-14T17:37:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100797": {
+   "id": "aluehallitus/2026-04-28",
+   "date": "2026-04-28",
+   "stage": "minutes",
+   "hash": "6852e1b60fd3d408",
+   "fetched_at": "2026-10-14T17:37:38+00:00",
+   "first_seen": "2026-10-14T17:37:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100803": {
+   "id": "hyvinvoinnin-ja-terveyden-edistamisen-lautakunta/2026-04-15",
+   "date": "2026-04-15",
+   "stage": "minutes",
+   "hash": "a6872bfda947470c",
+   "fetched_at": "2026-10-14T17:37:51+00:00",
+   "first_seen": "2026-10-14T17:37:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100794": {
+   "id": "aluehallitus/2026-04-14",
+   "date": "2026-04-14",
+   "stage": "minutes",
+   "hash": "a6740cae5667a3b3",
+   "fetched_at": "2026-10-14T17:38:09+00:00",
+   "first_seen": "2026-10-14T17:38:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100805": {
+   "id": "tulevaisuuslautakunta/2026-04-14",
+   "date": "2026-04-14",
+   "stage": "minutes",
+   "hash": "ab5158171b4a8a90",
+   "fetched_at": "2026-10-14T17:38:18+00:00",
+   "first_seen": "2026-10-14T17:38:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100802": {
+   "id": "tarkastuslautakunta/2026-04-01",
+   "date": "2026-04-01",
+   "stage": "minutes",
+   "hash": "7501e7a947137eac",
+   "fetched_at": "2026-10-14T17:38:32+00:00",
+   "first_seen": "2026-10-14T17:38:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100784": {
+   "id": "aluehallitus/2026-03-31",
+   "date": "2026-03-31",
+   "stage": "minutes",
+   "hash": "c4e4de6ca898bf19",
+   "fetched_at": "2026-10-14T17:38:48+00:00",
+   "first_seen": "2026-10-14T17:38:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100766": {
+   "id": "hyvinvointialueen-nuorisovaltuusto/2026-03-31",
+   "date": "2026-03-31",
+   "stage": "minutes",
+   "hash": "83cbfc276a028428",
+   "fetched_at": "2026-10-14T17:39:03+00:00",
+   "first_seen": "2026-10-14T17:39:03+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100788": {
+   "id": "hyvinvointialueen-vanhusneuvosto/2026-03-26",
+   "date": "2026-03-26",
+   "stage": "minutes",
+   "hash": "94d554a4a428ccd3",
+   "fetched_at": "2026-10-14T17:39:12+00:00",
+   "first_seen": "2026-10-14T17:39:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100790": {
+   "id": "tulevaisuuslautakunta/2026-03-25",
+   "date": "2026-03-25",
+   "stage": "minutes",
+   "hash": "acb656d912d3a382",
+   "fetched_at": "2026-10-14T17:39:23+00:00",
+   "first_seen": "2026-10-14T17:39:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100787": {
+   "id": "hyvinvointialueen-lapsi-ja-perheasiainneuvosto/2026-03-25",
+   "date": "2026-03-25",
+   "stage": "minutes",
+   "hash": "f2ac0cfc4f3a8984",
+   "fetched_at": "2026-10-14T17:39:34+00:00",
+   "first_seen": "2026-10-14T17:39:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100795": {
+   "id": "turvallisuuden-ja-varautumisen-lautakunta/2026-03-19",
+   "date": "2026-03-19",
+   "stage": "minutes",
+   "hash": "301d4539603dc093",
+   "fetched_at": "2026-10-14T17:39:44+00:00",
+   "first_seen": "2026-10-14T17:39:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100793": {
+   "id": "hyvinvointialueen-vammaisneuvosto/2026-03-19",
+   "date": "2026-03-19",
+   "stage": "minutes",
+   "hash": "5b1a422892367e65",
+   "fetched_at": "2026-10-14T17:39:56+00:00",
+   "first_seen": "2026-10-14T17:39:56+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100789": {
+   "id": "hyvinvoinnin-ja-terveyden-edistamisen-lautakunta/2026-03-17",
+   "date": "2026-03-17",
+   "stage": "minutes",
+   "hash": "3c7fb18eb76a1695",
+   "fetched_at": "2026-10-14T17:40:08+00:00",
+   "first_seen": "2026-10-14T17:40:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100786": {
+   "id": "osallisuusvaliokunta/2026-03-16",
+   "date": "2026-03-16",
+   "stage": "minutes",
+   "hash": "4c568a7fd9b8603d",
+   "fetched_at": "2026-10-14T17:40:16+00:00",
+   "first_seen": "2026-10-14T17:40:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100753": {
+   "id": "ymparistoterveydenhuollon-jaosto/2026-03-03",
+   "date": "2026-03-03",
+   "stage": "minutes",
+   "hash": "72e034fde2457135",
+   "fetched_at": "2026-10-14T17:40:27+00:00",
+   "first_seen": "2026-10-14T17:40:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100779": {
+   "id": "tarkastuslautakunta/2026-03-02",
+   "date": "2026-03-02",
+   "stage": "minutes",
+   "hash": "e297c54a3b49cb00",
+   "fetched_at": "2026-10-14T17:40:42+00:00",
+   "first_seen": "2026-10-14T17:40:42+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100783": {
+   "id": "aluehallitus/2026-02-24",
+   "date": "2026-02-24",
+   "stage": "minutes",
+   "hash": "29ca859d26afa953",
+   "fetched_at": "2026-10-14T17:40:57+00:00",
+   "first_seen": "2026-10-14T17:40:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100762": {
+   "id": "hyvinvointialueen-nuorisovaltuusto/2026-02-24",
+   "date": "2026-02-24",
+   "stage": "minutes",
+   "hash": "162e69266e033158",
+   "fetched_at": "2026-10-14T17:41:09+00:00",
+   "first_seen": "2026-10-14T17:41:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100772": {
+   "id": "hyvinvoinnin-ja-terveyden-edistamisen-lautakunta/2026-02-18",
+   "date": "2026-02-18",
+   "stage": "minutes",
+   "hash": "2290e3b0cc8ce795",
+   "fetched_at": "2026-10-14T17:41:20+00:00",
+   "first_seen": "2026-10-14T17:41:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100755": {
+   "id": "tulevaisuuslautakunta/2026-02-17",
+   "date": "2026-02-17",
+   "stage": "minutes",
+   "hash": "9f36bce1f2b31dbc",
+   "fetched_at": "2026-10-14T17:41:32+00:00",
+   "first_seen": "2026-10-14T17:41:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100757": {
+   "id": "hyvinvointialueen-vanhusneuvosto/2026-02-17",
+   "date": "2026-02-17",
+   "stage": "minutes",
+   "hash": "9800fd3e3957e8f8",
+   "fetched_at": "2026-10-14T17:41:46+00:00",
+   "first_seen": "2026-10-14T17:41:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100760": {
+   "id": "turvallisuuden-ja-varautumisen-lautakunta/2026-02-12",
+   "date": "2026-02-12",
+   "stage": "minutes",
+   "hash": "a1885f63af544352",
+   "fetched_at": "2026-10-14T17:41:57+00:00",
+   "first_seen": "2026-10-14T17:41:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100768": {
+   "id": "hyvinvointialueen-vammaisneuvosto/2026-02-12",
+   "date": "2026-02-12",
+   "stage": "minutes",
+   "hash": "f93daaa5d3a3aed6",
+   "fetched_at": "2026-10-14T17:42:09+00:00",
+   "first_seen": "2026-10-14T17:42:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100756": {
+   "id": "hyvinvointialueen-lapsi-ja-perheasiainneuvosto/2026-02-11",
+   "date": "2026-02-11",
+   "stage": "minutes",
+   "hash": "6d773a2226cbe1b8",
+   "fetched_at": "2026-10-14T17:42:19+00:00",
+   "first_seen": "2026-10-14T17:42:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100769": {
+   "id": "aluehallitus/2026-02-10",
+   "date": "2026-02-10",
+   "stage": "minutes",
+   "hash": "716d72acf92463f6",
+   "fetched_at": "2026-10-14T17:42:34+00:00",
+   "first_seen": "2026-10-14T17:42:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100761": {
+   "id": "tarkastuslautakunta/2026-02-09",
+   "date": "2026-02-09",
+   "stage": "minutes",
+   "hash": "89537d3478967f4a",
+   "fetched_at": "2026-10-14T17:42:47+00:00",
+   "first_seen": "2026-10-14T17:42:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100754": {
+   "id": "osallisuusvaliokunta/2026-02-02",
+   "date": "2026-02-02",
+   "stage": "minutes",
+   "hash": "ff52ae5457d2c253",
+   "fetched_at": "2026-10-14T17:42:58+00:00",
+   "first_seen": "2026-10-14T17:42:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100749": {
+   "id": "aluehallitus/2026-01-27",
+   "date": "2026-01-27",
+   "stage": "minutes",
+   "hash": "cbac3d2dd2d78331",
+   "fetched_at": "2026-10-14T17:43:13+00:00",
+   "first_seen": "2026-10-14T17:43:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100752": {
+   "id": "tarkastuslautakunta/2026-01-26",
+   "date": "2026-01-26",
+   "stage": "minutes",
+   "hash": "ff60d4ff175e4ef1",
+   "fetched_at": "2026-10-14T17:43:25+00:00",
+   "first_seen": "2026-10-14T17:43:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100748": {
+   "id": "hyvinvoinnin-ja-terveyden-edistamisen-lautakunta/2026-01-21",
+   "date": "2026-01-21",
+   "stage": "minutes",
+   "hash": "48392b927c70a52d",
+   "fetched_at": "2026-10-14T17:43:37+00:00",
+   "first_seen": "2026-10-14T17:43:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100743": {
+   "id": "ymparistoterveydenhuollon-jaosto/2025-12-17",
+   "date": "2025-12-17",
+   "stage": "minutes",
+   "hash": "57add75d90117166",
+   "fetched_at": "2026-10-14T17:43:49+00:00",
+   "first_seen": "2026-10-14T17:43:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100744": {
+   "id": "aluehallitus/2025-12-16",
+   "date": "2025-12-16",
+   "stage": "minutes",
+   "hash": "79a94c17bb0ab61d",
+   "fetched_at": "2026-10-14T17:44:08+00:00",
+   "first_seen": "2026-10-14T17:44:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100742": {
+   "id": "hyvinvointialueen-nuorisovaltuusto/2025-12-16",
+   "date": "2025-12-16",
+   "stage": "minutes",
+   "hash": "d9f0baca3ea897de",
+   "fetched_at": "2026-10-14T17:44:22+00:00",
+   "first_seen": "2026-10-14T17:44:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100746": {
+   "id": "tulevaisuuslautakunta/2025-12-11",
+   "date": "2025-12-11",
+   "stage": "minutes",
+   "hash": "80e78aeb7b815a22",
+   "fetched_at": "2026-10-14T17:44:34+00:00",
+   "first_seen": "2026-10-14T17:44:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100741": {
+   "id": "hyvinvointialueen-vanhusneuvosto/2025-12-11",
+   "date": "2025-12-11",
+   "stage": "minutes",
+   "hash": "3b0a7a3bbc806dab",
+   "fetched_at": "2026-10-14T17:44:47+00:00",
+   "first_seen": "2026-10-14T17:44:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100724": {
+   "id": "aluevaltuusto/2025-12-09",
+   "date": "2025-12-09",
+   "stage": "minutes",
+   "hash": "780635552f373ff4",
+   "fetched_at": "2026-10-14T17:45:07+00:00",
+   "first_seen": "2026-10-14T17:45:07+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100720": {
+   "id": "osallisuusvaliokunta/2025-12-08",
+   "date": "2025-12-08",
+   "stage": "minutes",
+   "hash": "f781f0d0b24055a6",
+   "fetched_at": "2026-10-14T17:45:18+00:00",
+   "first_seen": "2026-10-14T17:45:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100740": {
+   "id": "hyvinvointialueen-vammaisneuvosto/2025-12-04",
+   "date": "2025-12-04",
+   "stage": "minutes",
+   "hash": "4d9722df4b74fe92",
+   "fetched_at": "2026-10-14T17:45:32+00:00",
+   "first_seen": "2026-10-14T17:45:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100739": {
+   "id": "hyvinvointialueen-lapsi-ja-perheasiainneuvosto/2025-12-03",
+   "date": "2025-12-03",
+   "stage": "minutes",
+   "hash": "474da3363d8f885c",
+   "fetched_at": "2026-10-14T17:45:43+00:00",
+   "first_seen": "2026-10-14T17:45:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100734": {
+   "id": "aluehallitus/2025-11-25",
+   "date": "2025-11-25",
+   "stage": "minutes",
+   "hash": "5f4a0f3e5fd63f8d",
+   "fetched_at": "2026-10-14T17:46:03+00:00",
+   "first_seen": "2026-10-14T17:46:03+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100698": {
+   "id": "tarkastuslautakunta/2025-11-24",
+   "date": "2025-11-24",
+   "stage": "minutes",
+   "hash": "a1eaa44cef832f75",
+   "fetched_at": "2026-10-14T17:46:16+00:00",
+   "first_seen": "2026-10-14T17:46:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100737": {
+   "id": "tulevaisuuslautakunta/2025-11-20",
+   "date": "2025-11-20",
+   "stage": "minutes",
+   "hash": "28844a324009a1ef",
+   "fetched_at": "2026-10-14T17:46:30+00:00",
+   "first_seen": "2026-10-14T17:46:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100706": {
+   "id": "hyvinvoinnin-ja-terveyden-edistamisen-lautakunta/2025-11-19",
+   "date": "2025-11-19",
+   "stage": "minutes",
+   "hash": "064b46fdeb04d9a3",
+   "fetched_at": "2026-10-14T17:46:43+00:00",
+   "first_seen": "2026-10-14T17:46:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100727": {
+   "id": "ymparistoterveydenhuollon-jaosto/2025-11-18",
+   "date": "2025-11-18",
+   "stage": "minutes",
+   "hash": "e66f3b21a56fe1f7",
+   "fetched_at": "2026-10-14T17:46:54+00:00",
+   "first_seen": "2026-10-14T17:46:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100733": {
+   "id": "turvallisuuden-ja-varautumisen-lautakunta/2025-11-13",
+   "date": "2025-11-13",
+   "stage": "minutes",
+   "hash": "8daba262842c9019",
+   "fetched_at": "2026-10-14T17:47:08+00:00",
+   "first_seen": "2026-10-14T17:47:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100732": {
+   "id": "hyvinvointialueen-vammaisneuvosto/2025-11-13",
+   "date": "2025-11-13",
+   "stage": "minutes",
+   "hash": "8f166e19fa174e30",
+   "fetched_at": "2026-10-14T17:47:19+00:00",
+   "first_seen": "2026-10-14T17:47:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100731": {
+   "id": "hyvinvointialueen-lapsi-ja-perheasiainneuvosto/2025-11-12",
+   "date": "2025-11-12",
+   "stage": "minutes",
+   "hash": "3d564753efd09706",
+   "fetched_at": "2026-10-14T17:47:29+00:00",
+   "first_seen": "2026-10-14T17:47:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100729": {
+   "id": "aluehallitus/2025-11-11",
+   "date": "2025-11-11",
+   "stage": "minutes",
+   "hash": "74ce878fecad9f02",
+   "fetched_at": "2026-10-14T17:47:46+00:00",
+   "first_seen": "2026-10-14T17:47:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100722": {
+   "id": "hyvinvointialueen-nuorisovaltuusto/2025-11-11",
+   "date": "2025-11-11",
+   "stage": "minutes",
+   "hash": "3e042df63804bec4",
+   "fetched_at": "2026-10-14T17:47:58+00:00",
+   "first_seen": "2026-10-14T17:47:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100730": {
+   "id": "hyvinvointialueen-vanhusneuvosto/2025-11-11",
+   "date": "2025-11-11",
+   "stage": "minutes",
+   "hash": "efe0d00737b79f20",
+   "fetched_at": "2026-10-14T17:48:10+00:00",
+   "first_seen": "2026-10-14T17:48:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100713": {
+   "id": "hyvinvointialueen-vammaisneuvosto/2025-11-04",
+   "date": "2025-11-04",
+   "stage": "minutes",
+   "hash": "012aaa936e73f659",
+   "fetched_at": "2026-10-14T17:48:22+00:00",
+   "first_seen": "2026-10-14T17:48:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100721": {
+   "id": "aluehallitus/2025-10-28",
+   "date": "2025-10-28",
+   "stage": "minutes",
+   "hash": "f4ffe7daec849780",
+   "fetched_at": "2026-10-14T17:48:37+00:00",
+   "first_seen": "2026-10-14T17:48:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100697": {
+   "id": "tarkastuslautakunta/2025-10-27",
+   "date": "2025-10-27",
+   "stage": "minutes",
+   "hash": "0a00e5a484f85158",
+   "fetched_at": "2026-10-14T17:48:50+00:00",
+   "first_seen": "2026-10-14T17:48:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100703": {
+   "id": "ymparistoterveydenhuollon-jaosto/2025-10-21",
+   "date": "2025-10-21",
+   "stage": "minutes",
+   "hash": "5a0f765ab1cf142a",
+   "fetched_at": "2026-10-14T17:48:59+00:00",
+   "first_seen": "2026-10-14T17:48:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100716": {
+   "id": "aluehallitus/2025-10-07",
+   "date": "2025-10-07",
+   "stage": "minutes",
+   "hash": "48ae60a814f4bca8",
+   "fetched_at": "2026-10-14T17:49:10+00:00",
+   "first_seen": "2026-10-14T17:49:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100681": {
+   "id": "aluevaltuusto/2025-10-02",
+   "date": "2025-10-02",
+   "stage": "minutes",
+   "hash": "1f2743e98ba96a32",
+   "fetched_at": "2026-10-14T17:49:25+00:00",
+   "first_seen": "2026-10-14T17:49:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100680": {
+   "id": "hyvinvointialueen-nuorisovaltuusto/2025-09-30",
+   "date": "2025-09-30",
+   "stage": "minutes",
+   "hash": "d7c0b98bf5139e3b",
+   "fetched_at": "2026-10-14T17:49:36+00:00",
+   "first_seen": "2026-10-14T17:49:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100712": {
+   "id": "hyvinvointialueen-vanhusneuvosto/2025-09-30",
+   "date": "2025-09-30",
+   "stage": "minutes",
+   "hash": "9643d4e7214e69f6",
+   "fetched_at": "2026-10-14T17:49:49+00:00",
+   "first_seen": "2026-10-14T17:49:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100695": {
+   "id": "osallisuusvaliokunta/2025-09-29",
+   "date": "2025-09-29",
+   "stage": "minutes",
+   "hash": "aef12ba9282db8c7",
+   "fetched_at": "2026-10-14T17:50:00+00:00",
+   "first_seen": "2026-10-14T17:50:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100708": {
+   "id": "hyvinvointialueen-lapsi-ja-perheasiainneuvosto/2025-09-26",
+   "date": "2025-09-26",
+   "stage": "minutes",
+   "hash": "22ed89172215d825",
+   "fetched_at": "2026-10-14T17:50:11+00:00",
+   "first_seen": "2026-10-14T17:50:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100715": {
+   "id": "turvallisuuden-ja-varautumisen-lautakunta/2025-09-24",
+   "date": "2025-09-24",
+   "stage": "minutes",
+   "hash": "f138314532da563f",
+   "fetched_at": "2026-10-14T17:50:20+00:00",
+   "first_seen": "2026-10-14T17:50:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100701": {
+   "id": "aluehallitus/2025-09-23",
+   "date": "2025-09-23",
+   "stage": "minutes",
+   "hash": "22bf810d79ba794b",
+   "fetched_at": "2026-10-14T17:50:45+00:00",
+   "first_seen": "2026-10-14T17:50:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100705": {
+   "id": "tulevaisuuslautakunta/2025-09-18",
+   "date": "2025-09-18",
+   "stage": "minutes",
+   "hash": "8ed2c50df6035c11",
+   "fetched_at": "2026-10-14T17:50:56+00:00",
+   "first_seen": "2026-10-14T17:50:56+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100699": {
+   "id": "hyvinvoinnin-ja-terveyden-edistamisen-lautakunta/2025-09-17",
+   "date": "2025-09-17",
+   "stage": "minutes",
+   "hash": "31df9f2f7cf03ceb",
+   "fetched_at": "2026-10-14T17:51:07+00:00",
+   "first_seen": "2026-10-14T17:51:07+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100696": {
+   "id": "turvallisuuden-ja-varautumisen-lautakunta/2025-09-10",
+   "date": "2025-09-10",
+   "stage": "minutes",
+   "hash": "359bffbcc638a9c6",
+   "fetched_at": "2026-10-14T17:51:19+00:00",
+   "first_seen": "2026-10-14T17:51:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100692": {
+   "id": "aluehallitus/2025-09-09",
+   "date": "2025-09-09",
+   "stage": "minutes",
+   "hash": "2ed42a54b1e7ab1d",
+   "fetched_at": "2026-10-14T17:51:32+00:00",
+   "first_seen": "2026-10-14T17:51:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100686": {
+   "id": "tarkastuslautakunta/2025-09-09",
+   "date": "2025-09-09",
+   "stage": "minutes",
+   "hash": "ece15960d413ea31",
+   "fetched_at": "2026-10-14T17:51:40+00:00",
+   "first_seen": "2026-10-14T17:51:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100683": {
+   "id": "ymparistoterveydenhuollon-jaosto/2025-09-02",
+   "date": "2025-09-02",
+   "stage": "minutes",
+   "hash": "a3ee01510b90f05c",
+   "fetched_at": "2026-10-14T17:51:51+00:00",
+   "first_seen": "2026-10-14T17:51:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100694": {
+   "id": "tulevaisuuslautakunta/2025-08-28",
+   "date": "2025-08-28",
+   "stage": "minutes",
+   "hash": "c247cfd3021967ab",
+   "fetched_at": "2026-10-14T17:52:03+00:00",
+   "first_seen": "2026-10-14T17:52:03+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100678": {
+   "id": "aluehallitus/2025-08-27",
+   "date": "2025-08-27",
+   "stage": "minutes",
+   "hash": "8e680553d67341fd",
+   "fetched_at": "2026-10-14T17:52:26+00:00",
+   "first_seen": "2026-10-14T17:52:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100691": {
+   "id": "hyvinvoinnin-ja-terveyden-edistamisen-lautakunta/2025-08-27",
+   "date": "2025-08-27",
+   "stage": "minutes",
+   "hash": "9bac292063388d7e",
+   "fetched_at": "2026-10-14T17:52:36+00:00",
+   "first_seen": "2026-10-14T17:52:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100685": {
+   "id": "tarkastuslautakunta/2025-08-25",
+   "date": "2025-08-25",
+   "stage": "minutes",
+   "hash": "0ccb651903d556e2",
+   "fetched_at": "2026-10-14T17:52:49+00:00",
+   "first_seen": "2026-10-14T17:52:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100674": {
+   "id": "tarkastuslautakunta/2025-06-18",
+   "date": "2025-06-18",
+   "stage": "minutes",
+   "hash": "8b069fce437a03d8",
+   "fetched_at": "2026-10-14T17:53:05+00:00",
+   "first_seen": "2026-10-14T17:53:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100675": {
+   "id": "aluehallitus/2025-06-17",
+   "date": "2025-06-17",
+   "stage": "minutes",
+   "hash": "d2ff3d1957a8b6c8",
+   "fetched_at": "2026-10-14T17:53:29+00:00",
+   "first_seen": "2026-10-14T17:53:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100668": {
+   "id": "hyvinvointialueen-lapsi-ja-perheasiainneuvosto/2025-06-10",
+   "date": "2025-06-10",
+   "stage": "minutes",
+   "hash": "b2520792790defc0",
+   "fetched_at": "2026-10-14T17:53:39+00:00",
+   "first_seen": "2026-10-14T17:53:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100667": {
+   "id": "aluevaltuusto/2025-06-04",
+   "date": "2025-06-04",
+   "stage": "minutes",
+   "hash": "adeefbddf6334198",
+   "fetched_at": "2026-10-14T17:53:58+00:00",
+   "first_seen": "2026-10-14T17:53:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2025100669": {
+   "id": "aluehallitus/2025-06-03",
+   "date": "2025-06-03",
+   "stage": "minutes",
+   "hash": "f877972674de86e3",
+   "fetched_at": "2026-10-14T17:54:06+00:00",
+   "first_seen": "2026-10-14T17:54:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100888": {
+   "id": "turvallisuuden-ja-varautumisen-lautakunta/2026-10-22",
+   "date": "2026-10-22",
+   "stage": "minutes",
+   "hash": "ca19d55780bbda46",
+   "fetched_at": "2026-10-26T01:11:27+00:00",
+   "first_seen": "2026-10-19T01:04:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100883": {
+   "id": "aluehallitus/2026-10-27",
+   "date": "2026-10-27",
+   "stage": "agenda",
+   "hash": "72a99f37ee990769",
+   "fetched_at": "2026-10-26T01:11:04+00:00",
+   "first_seen": "2026-10-26T01:11:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100856": {
+   "id": "tarkastuslautakunta/2026-10-26",
+   "date": "2026-10-26",
+   "stage": "agenda",
+   "hash": "cad063a587e5dd3c",
+   "fetched_at": "2026-10-26T01:11:17+00:00",
+   "first_seen": "2026-10-26T01:11:17+00:00",
+   "parser_version": "0.1.0"
+  }
+ },
+ "last_run": "2026-10-26T01:14:54+00:00"
+}

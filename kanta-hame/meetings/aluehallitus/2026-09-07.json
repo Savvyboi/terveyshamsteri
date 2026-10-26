@@ -1,0 +1,631 @@
+{
+ "id": "aluehallitus/2026-09-07",
+ "region": "kanta-hame",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2026-09-07",
+ "stage": "minutes",
+ "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026244",
+ "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026244.PDF",
+ "time": "09:00 - 13:34",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "302",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026244-1",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026244-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää todeta kokouksen lailliseksi ja päätösvaltaiseksi.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen. Lisäksi aluehallitus päätti myöntää läsnäolo- ja puheoikeuden asian § 305 osalta rahoitus- ja investointijohtaja Petrus Kukkoselle; asian § 307 osalta talousjohtaja Sampo Salolle, rahoitus- ja investointijohtaja Petrus Kukkoselle ja toimialajohtajille Satu Ala-Kokko, Jorma Haapanen, Jarmo Lappalainen, Marika Paasikoski-Junninen ja Petri Talikka; asioiden 308 ja 309 osalta talousjohtaja Sampo Salolle ja rahoitus- ja investointijohtaja Petrus Kukkoselle; asian § 310 rahoitus- ja investointijohtaja Petrus Kukkoselle.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallituksen kokouskutsusta on säädetty hallintosäännön 139 §:ssä. Hyvinvointialueesta annetun lain 108 §:n 2 momentin mukaan aluehallitus on päätösvaltainen, kun yli puolet jäsenistä on läsnä."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluehallitus päättää todeta kokouksen lailliseksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen. Lisäksi aluehallitus päätti myöntää läsnäolo- ja puheoikeuden asian § 305 osalta rahoitus- ja investointijohtaja Petrus Kukkoselle; asian § 307 osalta talousjohtaja Sampo Salolle, rahoitus- ja investointijohtaja Petrus Kukkoselle ja toimialajohtajille Satu Ala-Kokko, Jorma Haapanen, Jarmo Lappalainen, Marika Paasikoski-Junninen ja Petri Talikka; asioiden 308 ja 309 osalta talousjohtaja Sampo Salolle ja rahoitus- ja investointijohtaja Petrus Kukkoselle; asian § 310 rahoitus- ja investointijohtaja Petrus Kukkoselle."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "303",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026244-2",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026244-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää valita kaksi jäsentä tarkastamaan tämän kokouksen pöytäkirjan.",
+   "decision": "Aluehallitus päätti valita pöytäkirjantarkastajiksi Tapani Hellsténin ja Aapo Reiman.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hallintosäännön 159 §:n mukaan pöytäkirja tarkastetaan toimielimen päättämällä tavalla. Pöytäkirja voidaan allekirjoittaa ja tarkastaa sähköisesti.\n\nAluehallituksen pöytäkirjan tarkastaa kaksi kullakin kerralla tähän tehtävään valittua hallituksen jäsentä, jollei aluehallitus jonkin asian kohdalla toisin päätä. Tällä kertaa tarkastusvuorossa ovat Karri Vanttaja ja Tapani Hellstén (varalla Aapo Reima)."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluehallitus päättää valita kaksi jäsentä tarkastamaan tämän kokouksen pöytäkirjan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti valita pöytäkirjantarkastajiksi Tapani Hellsténin ja Aapo Reiman."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "304",
+   "title": "Kokouksen työjärjestyksen hyväksyminen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026244-3",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026244-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää hyväksyä tämän kokouksen työjärjestyksen.",
+   "decision": "Aluehallitus päätti käsitellä asiat esityslistan mukaisessa järjestyksessä.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluehallitus päättää hyväksyä tämän kokouksen työjärjestyksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti käsitellä asiat esityslistan mukaisessa järjestyksessä."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "305",
+   "title": "Ilmoitusasiat",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026244-4",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026244-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä tiedoksi esitetyt ilmoitusasiat.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.\n\nTarja Filatov saapui kokoukseen tämän asian käsittelyn aikana ennen päätöksentekoa. Aluehallitus piti tämän asian käsittelyn jälkeen kokoustauon klo 10.51 – 11.01.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "1. Aluehallituksen aamukouluasiat\n\n Hyvinvointialueen investointisuunnitelman 2027–2030 täsmentäminen / rahoitus- ja investointijohtaja Petrus Kukkonen\n\n Hyvinvointialueen kiinteistöomaisuuden hallinta / rahoitus- ja investointjohtaja Petrus Kukkonen"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä tiedoksi esitetyt ilmoitusasiat."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen.\n\nTarja Filatov saapui kokoukseen tämän asian käsittelyn aikana ennen päätöksentekoa. Aluehallitus piti tämän asian käsittelyn jälkeen kokoustauon klo 10.51 – 11.01."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "306",
+   "title": "SOTE-sopimuksen tasopalkkajärjestelmän käyttöönotto",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026244-5",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026244-5.PDF",
+   "diary_number": "11841/01.02.00/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asia poistettiin esityslistalta."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "307",
+   "title": "Osavuosikatsaus 2026",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026244-6",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026244-6.PDF",
+   "diary_number": "11810/02.02.03/2026",
+   "preparer": "talousjohtaja Sampo Salo, toimialajohtaja Satu Ala-Kokko",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä osavuosikatsauksen tiedoksi ja toimittaa sen tiedoksi aluevaltuustolle.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.\n\nEero Pura poistui kokouksesta tämän asian käsittelyn aikana ennen päätöksentekoa.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "talousjohtaja Sampo Salo, toimialajohtaja Satu Ala-Kokko"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Kanta-Hämeen hyvinvointialueen talousarvion mukaisesti talouden vakioraportointia toimielimille toteutetaan säännöllisesti, aluehallitukselle kuukausitasolla ja aluevaltuustolle talouden ja toiminnan raportointi puolivuosittain. Hyvinvointialueen hallintosäännön mukaan elämänkaarilautakunta, terveyden ja toimintakyvyn edistämisen lautakunta sekä turvallisuuslautakunta vastaavat toimialansa toiminnan tulosten ja talousarvion toteutumisen seurannasta sekä seuraa säännöllisesti lautakunnan toimialan osalta talouden toteutumista ja raportoi talouden ja toiminnan poikkeamista edelleen aluehallitukselle ja aluevaltuustolle. Hallintosäännön 66 §:n mukaan aluehallitus raportoi talousarvion toteutumisesta valtuustolle valtuuston määräämällä tavalla.\n\nTalous\n\nVuoden ensimmäisinä kuukausina talous kehittyi kohtuullisen hyvään suuntaan. Alkuvuoden jälkeen tulosta ovat kuitenkin rasittaneet Assi sairaalaan liittyvät huomattavat muuttokustannukset sekä eri osa-alueilla käytyjen muutosneuvotteluiden myötä kasvaneet henkilöstövuokrauksen kustannukset. Myös tilikaudella 2025 voimaan astuneet palkankorotukset sekä useat palkkojen kertaerät ovat heikentäneet selvästi alkuvuoden tulosta. Kanta-Hämeen hyvinvointialueen tulos ajalta 1–6/2026 on ylijäämäinen 22,9 miljoonaa euroa. Edellisen vuoden vastaavana ajankohtana tulos oli 28,6 miljoonaa euroa ylijäämäinen. Toimintakate on puolen vuoden tarkastelussa –385,3 miljoonaa euroa, kun se vuotta aikaisemmin oli –368,7 miljoonaa euroa. Toimintakate on siis 16,6 miljoonaa euroa edellisvuotta heikompi. 6/2026 voimassa olevan talousarvion mukaisista toimintatuotoista on toteutunut 46,4 %. Talousarvion mukaisista toimintakuluista on toteutunut puolestaan 53,3 %. Hyvinvointialueen lomarahat on sopimuksen mukaisesti maksettu työntekijöille kesäkuussa, mutta valtion raportointikäytäntöjen mukaisesti ne kirjataan toteumaan vasta heinäkuussa.\n\nKanta-Hämeen hyvinvointialueen tilinpäätösennuste puolen vuoden toteuman perusteella on toukokuussa hyväksytyn ehdollisen muutostalousarvion mukaisesti 35 miljoonaa euroa ylijäämäinen. Se on selvästi heikompi kuin vielä 6/2026 voimassa ollut talousarvio, joka osoitti 95,5 miljoonan euron ylijäämää. Ehdollinen muutostalousarvio astuu raportoinnissa voimaan 7/2026, kun valtiovarainministeriö päätti 2.7.2026 myöntää Kanta-Hämeen hyvinvointialueelle lisäajan alijäämien kattamiseen. Vuoden jälkimmäisellä puoliskolla hyvinvointialue jatkaa määrätietoisesti työtä talousarvion saavuttamiseksi. Mikäli talousarviotasoa ei tulla saavuttamaan, tarkoittaa se uusien merkittävien sopeuttamistoimien tuomista päätöksentekoon.\n\nLakisääteisten aikojen ja mitoitusten toteutuminen\n\nKvartaalin kaksi tilannekuva osoittaa, että lakisääteiset tavoittamisajat, käsittelyajat, palveluihin pääsy sekä henkilöstömitoitukset toteutuvat pääosin hyvin. Useimmissa palveluissa lakisääteiset vaatimukset täyttyvät kokonaisuudessaan, vaikka yksittäisissä palveluissa esiintyy edelleen poikkeamia.\n\nSosiaali- ja perhepalveluissa haasteita esiintyy edelleen lastensuojeluilmoitusten käsittelyajoissa ja lapsiperheiden palvelutarpeen arviointien toteutumisessa eikä työikäisten palvelutarpeen arvioinneissa saavuteta tavoitetasoa vielä kaikilta osin. Sen sijaan vammaispalveluiden palvelutarpeen arvioinnit toteutuvat lakisääteisessä määräajassa, mutta haasteita on vammaispalveluiden hakemusten käsittelyajoissa.\n\nPerusterveydenhuollossa yhteydensaanti sekä kiireettömään hoitoon pääsy toteutuvat pääosin hyvin. Alle 23-vuotiaiden lääkärin läsnävastaanottoihin pääsyssä on edelleen haasteita. Suun terveydenhuollossa hoitoon pääsy toteutuu pääosin lakisääteisesti, vaikka alle 23-vuotiaiden osalta tavoitteet eivät vielä täysin täyty. Erikoissairaanhoidossa lähetteiden käsittely toteutuu hyvin ja hoitojonot on saatu purettua lähes lakisääteiseen tasoon.\n\nIkääntyneiden palveluiden järjestäminen toteutuu pääosin lakisääteisten tavoiteaikojen puitteissa. Ympärivuorokautiseen palveluasumiseen ja yhteisölliseen asumiseen pääsyssä esiintyy edelleen yksittäisiä yli tavoiteajan odotuksia, joiden taustalla ovat pääosin asiakkaiden omat toiveet esimerkiksi alueesta tai yksiköstä.\n\nTavoitteet ja avaintulokset\n\nVuonna 2026 jatketaan viiden hyvinvointialuetasoisen, valtuustotason sitovan strategisen tavoitteen edistämistä, sillaten kohti uutta strategiakautta. Valtuustotason tavoitteista sujuvimmin etenee ”Asiakas saa helposti yhteyden ja ratkaisun ensikontaktilla”. Jonkin verran enemmän huomiota vaativat tavoitteet ”Asiakastarve ohjaa henkilöstövoimavaroja” sekä ”Tuottavuus turvaa palvelut”. Tavoitteista eniten tukea edellyttää suoraan asiakasprosesseihin liittyvä tavoite ”Saavutamme asiakkaan kanssa asetetut tavoitteet – oikeita asioita, oikeaan aikaan ja oikeassa paikassa” sekä integraatioon kytkeytyvä tavoite ”Tarvittavat ammattilaiset ja teknologia yhdessä asiakkaan ympärille”.\n\nEnsimmäisen vuosipuoliskon seuranta osoittaa, että strategisten tavoitteiden edistämisessä on saavutettu myönteistä kehitystä erityisesti asiakkuutta edeltävän vaiheen ja ensikontaktin sekä hyvinvointia ja terveyttä edistävien toimien osalta. Myös resurssien optimaaliseen käyttöön liittyvä kehitysnäkymä on positiivinen henkilöstövoimavaroihin ja automaatioon liittyvissä tavoitteissa. Tavoitteiden seuranta osoittaa, että kehittämistoimia on käynnistetty laajasti koko organisaatiossa toiminnan uudistamiseksi painopisteiden ja tavoitteiden mukaisesti. Samalla on kuitenkin tunnistettu myös tavoitteita, joiden saavuttaminen edellyttää lisätoimia loppuvuoden aikana. Keskeisimmät haasteet liittyvät palveluiden oikea-aikaisuuteen, asiakaslähtöiseen tavoitteellisuuteen ja palvelujen yhteensovittamiseen sekä tuottavuuden parantamiseen.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 66.3 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä osavuosikatsauksen tiedoksi ja toimittaa sen tiedoksi aluevaltuustolle."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen.\n\nEero Pura poistui kokouksesta tämän asian käsittelyn aikana ennen päätöksentekoa."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösesitys / aluevaltuusto, Päätösote / talousjohtaja Sampo Salo"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Osavuosikatsaus 2026",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026244-6-427209.PDF"
+    },
+    {
+     "title": "Liite 2 Liite 1 _Strategiasta johdettujen tavoitteiden toteutuminen",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026244-6-427213.PDF"
+    },
+    {
+     "title": "Liite 3 Liite 2_Lakisääteisten palveluiden toteutuminen",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026244-6-427220.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "308",
+   "title": "Tasapainottamisohjelmien raportointi 1-6⁄2026",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026244-7",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026244-7.PDF",
+   "diary_number": "11847/02.02.03/2026",
+   "preparer": "talousjohtaja Sampo Salo",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä tiedoksi talouden tasapainottamisohjelmien raportoinnin 1-6/2026 ja toimittaa sen tiedoksi aluevaltuustolle.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "talousjohtaja Sampo Salo"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Kanta-Hämeen hyvinvointialue on käynnistänyt useita talousohjelmia talouden tasapainottamiseksi ja syntyneiden alijäämien kattamiseksi vuoden 2026 vuoden loppuun mennessä:\n\nTalouden tasapainottamisohjelma 1\n\nTalouden tasapainottamisohjelma 2\n\nPalveluverkkosuunnitelma\n\nKäyttötalouden sopeuttaminen\n\nOhjelmia on lisäksi päätetty tehostaa talousarvioiden käsittelyn yhteydessä hyväksytyillä erillisillä tehostamistoimilla sekä erikseen päätetyillä muutosneuvotteluilla.\n\nTalouden tasapainottamisohjelma 1\n\nHyvinvointialueen aluevaltuusto päätti kokouksessaan 9.5.2023 hyväksyä talouden tasapainottamisohjelman (tasapainotusohjelma 1). Ohjelma päättyi vuoteen 2026.\n\nTalouden tasapainottamisohjelma 2\n\nHyvinvointialueen aluevaltuusto päätti kokouksessaan 9.4.2024 hyväksyä talouden uuden tasapainottamisohjelman (tasapainotusohjelma 2). Tasapainottamisohjelmalla tavoitellaan yhteensä 57 miljoonan euron säästöjä vuoden 2026 loppuun mennessä, jolloin Kanta-Hämeen hyvinvointialueen alijäämät tulee voimassa olevan lainsäädännön mukaisesti olla katettuna. Uusi ohjelma ei pitänyt sisällään erillisiä panostuksia, vaan se koostui kokonaisuudessaan henkilöstömenoista ja hankintojen kokonaisuudesta tavoiteltavista säästöistä.\n\nPalveluverkkosuunnitelma\n\nPalveluverkkosuunnitelman toimeenpano on käynnistynyt suunnitellusti. Ohjelman taloudellisten tavoitteiden toteutumista raportoidaan aluehallitukselle ja edelleen aluevaltuustolle säännöllisesti ohjelman edetessä.\n\nKäyttötalouden sopeuttaminen\n\nKäyttötalouden sopeuttamistoimenpiteet kohdennettiin tilikaudelle 2026 käyttösuunnitelman hyväksymisen yhteydessä.\n\nTasapainottamisohjelmien toteumasta raportoidaan säännöllisesti aluehallitukselle ja aluevaltuustolle.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 66.3 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä tiedoksi talouden tasapainottamisohjelmien raportoinnin 1-6/2026 ja toimittaa sen tiedoksi aluevaltuustolle."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösesitys / aluevaltuusto\n\nPäätösote / talousjohtaja Sampo Salo"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Tasapainottamisohjelmien toteutuminen 2026_1-6",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026244-7-427365.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "309",
+   "title": "Talouden toteuma 7⁄2026",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026244-8",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026244-8.PDF",
+   "diary_number": "11000/02.02.03/2026",
+   "preparer": "talousjohtaja Sampo Salo",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä talouden toteuman 7/2026 tiedoksi ja lähettää toteuman tiedoksi aluevaltuustolle.\n\nLisäksi aluehallitus edellyttää toimialoilta 8/2026 raportin yhteydessä arviota siitä, millä muutoksilla ne pääsevät talousarvioonsa (MTA1). Jos jokin toimiala ei pääse talousarvioonsa 2026 tulee sen muutostalousarvio 2:n yhteydessä esittää tarvittavat toimet, joilla kustannusrakenne mahdollistaa alijäämien kattamisen 2029 loppuun mennessä.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.\n\nAluehallitus piti tämän asian käsittelyn jälkeen kokoustauon klo 13.06 – 13.11.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "talousjohtaja Sampo Salo"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hyvinvointialueen taloudentulos seitsemän toimintakuukauden jälkeen näyttää 2,5 miljoonaa euroa ylijäämää. Toimintakatteen toteuma on -473,9 miljoonaa euroa, mikä on noin 29 miljoonaa euroa heikompi tulos kuin vertailukelpoinen edellisen vuoden tulos vastaavana ajankohtana. Toimintakatteen toteumaprosentti on 61,8 %. Toimintatuottoja on kertynyt 66,7 miljoonaa euroa, jossa on kasvua 2,5 miljoonaa euroa. Toimintakuluja on kertynyt 540,7 miljoonaa euroa, jossa on kasvua edelliseen vuoden nähden noin 27,6 miljoonaa euroa.\n\nToimintakulujen kasvua edellisestä vuodesta selittää sekä henkilöstökulujen kasvu työehtosopimusten mukaisten korotusten myötä, sekä kasvaneet ostopalvelut. Ostopalveluiden osalta kasvua on etenkin vammaisten ja ikäihmisten asumispalveluissa sekä lastensuojelun sijaishuollossa. Alkuvuoden tulosta heikentää myös merkittävät lääke ja hoitotarvikkeiden kustannusten kasvu, minkä lisäksi sekä rakennusten, että kaluston kunnossapidon kustannukset ovat selvästi nousseet. Vuoden ensimmäinen puolisko piti sisällään noin neljä miljoonaa euroa kertaluontoisia kustannuksia, joiden ei odoteta toteutuvan vuoden jälkimmäisellä puoliskolla. Lisäksi palkkakustannusten ja palveluiden ostojen odotetaan olevan matalammat vuoden jälkimmäisellä puoliskolla. Tästä huolimatta voimassa olevaan talousarvioon pääseminen näyttää epätodennäköiseltä.\n\nHyvinvointialueen talousraportoinnissa toteumavertailu tehdään voimassa olevaan talousarvioon ja sen pohjalta laadittuun käyttösuunnitelmaan. Toukokuussa 2026 päätetty ehdollinen talousarvio astui voimaan heinäkuussa 2026. Heinäkuun toteumasta alkaen vertailu tehdään talousarvioon, jossa toimintavuoden tulostavoite on 35 miljoonaa euroa ylijäämää. Aluehallitus on osaltaan hyväksynyt talousarviota vastaavan käyttösuunnitelman.\n\nAsiaa esitellään tarkemmin aluehallituksen kokouksessa\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 66.3 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä talouden toteuman 7/2026 tiedoksi ja lähettää toteuman tiedoksi aluevaltuustolle.\n\nLisäksi aluehallitus edellyttää toimialoilta 8/2026 raportin yhteydessä arviota siitä, millä muutoksilla ne pääsevät talousarvioonsa (MTA1). Jos jokin toimiala ei pääse talousarvioonsa 2026 tulee sen muutostalousarvio 2:n yhteydessä esittää tarvittavat toimet, joilla kustannusrakenne mahdollistaa alijäämien kattamisen 2029 loppuun mennessä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen.\n\nAluehallitus piti tämän asian käsittelyn jälkeen kokoustauon klo 13.06 – 13.11."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösesitys / aluevaltuusto\n\nAsiaote / toimialajohtajat Satu Ala-Kokko, Jorma Haapanen, Jarmo Lappalainen, Marika Paasikoski-Junninen, Jussi Savola ja Petri Talikka"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 HVA kuukausiraportti 2026_07",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026244-8-427201.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "310",
+   "title": "Riskienhallintasuunnitelma 2026",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026244-9",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026244-9.PDF",
+   "diary_number": "11798/00.01.04/2026",
+   "preparer": "rahoitus- ja investointijohtaja Petrus Kukkonen, riskienhallintapäällikkö Anu Junikka",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä riskienhallintasuunnitelman 2026 tiedoksi.",
+   "decision": "Aluehallitus hyväksyi hyvinvointialuejohtajan muutetun päätösesityksen.\n\nKylli Kylliäinen palasi kokoustauon jälkeen kokoukseen klo 13.15 tämän asian käsittelyn aikana ennen päätöksentekoa.",
+   "discussion": "Hyvinvointialuejohtajan muutettu päätösesitys:\n\nAluehallitus päättää hyväksyä riskienhallintasuunnitelman 2026.",
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "rahoitus- ja investointijohtaja Petrus Kukkonen, riskienhallintapäällikkö Anu Junikka"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Voimassa olevan hallintosäännön (1.6.2026) mukaisesti aluehallitus huolehtii hyvinvointialueen sisäisestä valvonnasta ja riskienhallinnan järjestämisestä. Toimialajohtajat vastaavat toimialansa riskienhallinnasta ja sisäisestä valvonnasta.\n\nRiskienhallintasuunnitelmalla 2026 aluehallitukselle raportoidaan 05/2025–05/2026 tarkastelujakson aikana luodut ja päivitetyt toteutuneet riskit, HVA-tasoiset riskit sekä toimialakohtaiset riskit, niiden hallintakeinot, hallintakeinojen toteutuksen valvonnasta vastaavat HVA-johtoryhmän jäsenet sekä hallintakeinojen toteutuksesta vastaavat vastuuhenkilöt.\n\nHyvinvointialueen riskienhallintasuunnitelma 2026 sisältää:\n\nYhteenvedon tarkastelujakson aikana 05/2025–05/2026 toimi-, tulos- ja palvelualueilla luotujen tai päivitettyjen kaikkien riskien määristä ja riskitasoista sekä riskialueet kaavioina.\n\nTarkastelujakson aikana toteutuneet riskit (3 kpl).\n\nToimialojen johtoryhmien tunnistamat HVA-tasoiset riskit (14 kpl) sekä\n\nToimialakohtaiset riskit.\n\nHyvinvointialuetta koskevina läpileikkaavina riskeinä ovat edellisten vuosien tapaan talouteen ja rahoituksen riittävyyteen, teknologiahankkeisiin ja niiden käyttöönottamiseen sekä henkilöstöön liittyvät riskit. Asiakas- ja potilastietojen rekisteröintiin ja raportointiin liittyvä toteutunut riski on ensisijaisesti toteutunut teknologiariski.\n\nRiskienhallintasuunnitelma on käsitelty kunkin toimialan johtoryhmissä sekä hyvinvointialueen johtoryhmässä 25.8.2026.\n\nRiskienhallintasuunnitelma on liitteenä (salassa pidettävä, Julkisuuslaki (621/1999) 24.1 § 17 kohta).\n\n(SA-K)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 84 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä riskienhallintasuunnitelman 2026 tiedoksi."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Hyvinvointialuejohtajan muutettu päätösesitys:\n\nAluehallitus päättää hyväksyä riskienhallintasuunnitelman 2026."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi hyvinvointialuejohtajan muutetun päätösesityksen.\n\nKylli Kylliäinen palasi kokoustauon jälkeen kokoukseen klo 13.15 tämän asian käsittelyn aikana ennen päätöksentekoa."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Asiaote / riskienhallintapäällikkö Anu Junikka, toimialajohtajat Satu Ala-Kokko, Jorma Haapanen, Jarmo Lappalainen Marika Paasikoski-Junninen, Jussi Savola ja Petri Talikka"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "311",
+   "title": "Ehdokkaan nimeäminen Oma Hämeen tukipalvelut Oy:n hallitukseen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026244-10",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026244-10.PDF",
+   "diary_number": "11651/00.01.08/2026",
+   "preparer": "hallintojohtaja Katja Tommiska",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää nimetä Kanta-Hämeen hyvinvointialueen ehdokkaan Oma Hämeen Tukipalvelut Oy:n hallitukseen.\n\nAluehallitus päättää nimetä hyvinvointialueen edustajaksi Oma Hämeen tukipalvelut Oy:n 14.9.2026 ylimääräiseen yhtiökokoukseen hallintojohtaja Katja Tommiskan ja toteaa, ettei sillä ole huomauttamista kokouksen asialistan tai muun kokousmateriaalin osalta.",
+   "decision": "Aluehallitus päättää nimetä Kanta-Hämeen hyvinvointialueen ehdokkaaksi Oma Hämeen Tukipalvelut Oy:n hallitukseen Marjut Lehtisen.\n\nAluehallitus päätti nimetä hyvinvointialueen edustajaksi Oma Hämeen tukipalvelut Oy:n 14.9.2026 ylimääräiseen yhtiökokoukseen hallintojohtaja Katja Tommiskan ja totesi, ettei sillä ole huomauttamista kokouksen asialistan tai muun kokousmateriaalin osalta.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Oma Hämeen tukipalvelut Oy:n ylimääräinen yhtiökokous pidetään 14.9.2026 kello 15 alkaen osoitteessa Parantolankatu 6, 13530 Hämeenlinna, Rakennus A (Ahvenisto), 3. kerros.\n\nYhtiöjärjestyksen 3 §:n mukaan yhtiöllä on hallitus, johon kuuluu puheenjohtaja sekä vähintään neljä (4) ja enintään kuusi (6) muuta jäsentä. Hallituksen puheenjohtaja ja muut jäsenet valitaan varsinaisessa yhtiökokouksessa. Hallituksen jäsenten toimikausi päättyy vaalia ensiksi seuraavan varsinaisen yhtiökokouksen päättyessä. Meneillään olevana toimikautena hallituksen puheenjohtajana on toiminut Emmi Lintonen ja jäseninä ovat toimineet Jouko Haonperä, Lauri Jormanainen, Mika Lartama ja Helena Lehkonen.\n\nYhtiön hallituksen jäsen Mika Lartama on ilmoittanut 21.8.2026 eroavansa hallituksen jäsenyydestä henkilökohtaisten syiden vuoksi. Ero on tullut voimaan ilmoituspäivänä 21.8.2026.\n\nOma Hämeen tukipalvelut Oy sijoittuu aluehallituksen kokouksessaan 16.2.2026 (§ 79) tekemän päätöksen mukaisesti strategisiin yhtiöihin, joiden varsinaisten ja ylimääräisten yhtiökokousten kutsut tuodaan aluehallituksen käsiteltäviksi. Käsittelyn yhteydessä yhtiökokousedustajalle annetaan tarvittavat ohjeet. Hallintosäännön 35.2 §:n 10 ja 11 kohdan mukaan aluehallitus nimeää hyvinvointialueen ehdokkaat tytäryhteisöjen hallituksiin sekä nimeää yhtiökokousedustajat ja antaa heille omistajaohjauksen edellyttämät toimintaohjeet.\n\nKokouskutsu liitteineen on oheismateriaalina.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 35.2 § 10 ja 11 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää nimetä Kanta-Hämeen hyvinvointialueen ehdokkaan Oma Hämeen Tukipalvelut Oy:n hallitukseen.\n\nAluehallitus päättää nimetä hyvinvointialueen edustajaksi Oma Hämeen tukipalvelut Oy:n 14.9.2026 ylimääräiseen yhtiökokoukseen hallintojohtaja Katja Tommiskan ja toteaa, ettei sillä ole huomauttamista kokouksen asialistan tai muun kokousmateriaalin osalta."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päättää nimetä Kanta-Hämeen hyvinvointialueen ehdokkaaksi Oma Hämeen Tukipalvelut Oy:n hallitukseen Marjut Lehtisen.\n\nAluehallitus päätti nimetä hyvinvointialueen edustajaksi Oma Hämeen tukipalvelut Oy:n 14.9.2026 ylimääräiseen yhtiökokoukseen hallintojohtaja Katja Tommiskan ja totesi, ettei sillä ole huomauttamista kokouksen asialistan tai muun kokousmateriaalin osalta."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / Oma Hämeen tukipalvelut Oy, hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "312",
+   "title": "Hyvinvointialueesta annetun lain 97 §:n mukaista ottomenettelyä varten saapuneet pöytäkirjat ja päätökset",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026244-11",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026244-11.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää, ettei se käytä otto-oikeutta edellä mainittuihin päätöksiin.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvointialueesta annetun lain 97 §:n mukaan aluehallitus, aluehallituksen puheenjohtaja, hyvinvointialuejohtaja ja hallintosäännössä määrätty hyvinvointialueen viranhaltija voivat ottaa aluehallituksen käsiteltäväksi asian, joka on tämän lain nojalla siirretty aluehallituksen alaisen viranomaisen tai aluehallituksen jaoston toimivaltaan ja jossa asianomainen viranomainen on tehnyt päätöksen.\n\nHyvinvointialueen hallintosäännön 32 §:n mukaan asian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nHallintosäännön 33 §:n mukaan aluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan.\n\nPöytäkirjat:\n\n- Terveyden ja toimintakyvyn edistämisen lautakunta 25.8.2026\n\n- Elämänkaarilautakunta 26.8.2026\n\n- Turvallisuuslautakunta 27.8.2026\n\nToimielimien pöytäkirjat ovat katsottavissa hyvinvointialueen verkkosivuilla osoitteessa: https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting_frames\n\nViranhaltijoiden päätösluettelo on liitteenä. Päätösasiakirjat ovat nähtävillä hyvinvointialueen verkkosivuilla osoitteessa: https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=official_frames"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää, ettei se käytä otto-oikeutta edellä mainittuihin päätöksiin."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Päätösluettelo 31.8.2026",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026244-11-427372.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "313",
+   "title": "Muut asiat",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026244-12",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026244-12.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä muut asiat tiedoksi.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kanta-Hämeen hyvinvointialueelle on saapunut seuraavat kirjeet:\n\n- Työ- ja elinkeinoministeriön lausuntopyyntö 26.8.2026; Luonnos valtioneuvoston asetukseksi valtakunnallisista työvoimapula-aloista. Lausunto pyydetään antamaan viimeistään 6.10.2026.\n\n- Vetoomus Kanta-Hämeen hyvinvointialueen hallitukselle Iittalan hammashuollon lähipalveluiden säilyttämiseksi 28.8.2026\n\nLaadun ja omavalvonnan raportointi:\n\n- Laadun ja omavalvonnan raportti 1-4/2026"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä muut asiat tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Lepola Kaisa",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Alijärvi Pirjo",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Bitter Riku",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Filatov Tarja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hellstén Tapani",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Honkanen Pasi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Häggman Johanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Jormanainen Lauri",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lehkonen Helena",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pura Eero",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Reima Aapo",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Isosuo Juha",
+   "role": "aluevaltuuston puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kylliäinen Kylli",
+   "role": "aluevaltuuston 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Ristavaara Heini",
+   "role": "aluevaltuuston 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Naukkarinen Olli",
+   "role": "esittelijä, hyvinvointialuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Savola Jussi",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Tommiska Katja",
+   "role": "pöytäkirjanpitäjä, hallintojohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Rautio Sari",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kranni Maija",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kukkonen Petrus",
+   "role": "rahoitus- ja investointijohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Paasikoski-Junninen Marika",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Haapanen Jorma",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Lappalainen Jarmo",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Talikka Petri",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Ala-Kokko Satu",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Salo Sampo",
+   "role": "talousjohtaja",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026244",
+  "fetched_at": "2026-10-14T16:49:22+00:00",
+  "content_hash": "166ec22d97570b62",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T16:49:22+00:00"
+ }
+}

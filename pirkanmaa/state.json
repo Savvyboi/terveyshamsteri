@@ -1,0 +1,1517 @@
+{
+ "meetings": {
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneiden_ja_vammaisten_henkiloumliden_valiokunta/Kokous_7102026": {
+   "id": "ikaantyneiden-ja-vammaisten-henkiloiden-valiokunta/2026-10-07",
+   "date": "2026-10-07",
+   "stage": "minutes",
+   "hash": "90d00009180fe981",
+   "fetched_at": "2026-10-14T17:21:01+00:00",
+   "first_seen": "2026-10-14T17:21:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Konserni_ja_toimitilajaosto/Kokous_6102026": {
+   "id": "konserni-ja-toimitilajaosto/2026-10-06",
+   "date": "2026-10-06",
+   "stage": "minutes",
+   "hash": "97cdb4b79c8a6cf3",
+   "fetched_at": "2026-10-14T17:21:14+00:00",
+   "first_seen": "2026-10-14T17:21:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_6102026": {
+   "id": "tarkastuslautakunta/2026-10-06",
+   "date": "2026-10-06",
+   "stage": "minutes",
+   "hash": "221f86d5e0f30952",
+   "fetched_at": "2026-10-14T17:21:24+00:00",
+   "first_seen": "2026-10-14T17:21:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_5102026": {
+   "id": "aluehallitus/2026-10-05",
+   "date": "2026-10-05",
+   "stage": "minutes",
+   "hash": "baeda641c451f34f",
+   "fetched_at": "2026-10-14T17:21:35+00:00",
+   "first_seen": "2026-10-14T17:21:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Lasten_nuorten_perheiden_ja_tyoumlikaumlisten_valiokunta/Kokous_3092026": {
+   "id": "lasten-nuorten-perheiden-ja-tyoikaisten-valiokunta/2026-09-30",
+   "date": "2026-09-30",
+   "stage": "minutes",
+   "hash": "3bb3a03a2d1252c1",
+   "fetched_at": "2026-10-14T17:21:42+00:00",
+   "first_seen": "2026-10-14T17:21:42+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_2492026": {
+   "id": "nuorisovaltuusto/2026-09-24",
+   "date": "2026-09-24",
+   "stage": "minutes",
+   "hash": "50e95338ca828a2a",
+   "fetched_at": "2026-10-14T17:21:55+00:00",
+   "first_seen": "2026-10-14T17:21:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_2392026": {
+   "id": "vammaisneuvosto/2026-09-23",
+   "date": "2026-09-23",
+   "stage": "minutes",
+   "hash": "76a4c447fb9cf896",
+   "fetched_at": "2026-10-14T17:22:05+00:00",
+   "first_seen": "2026-10-14T17:22:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_2292026": {
+   "id": "vanhusneuvosto/2026-09-22",
+   "date": "2026-09-22",
+   "stage": "minutes",
+   "hash": "08b28f7529e4c489",
+   "fetched_at": "2026-10-14T17:22:19+00:00",
+   "first_seen": "2026-10-14T17:22:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2192026": {
+   "id": "aluehallitus/2026-09-21",
+   "date": "2026-09-21",
+   "stage": "minutes",
+   "hash": "4b7830c03bc1c175",
+   "fetched_at": "2026-10-19T01:04:26+00:00",
+   "first_seen": "2026-10-14T17:22:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_2192026": {
+   "id": "aluevaltuusto/2026-09-21",
+   "date": "2026-09-21",
+   "stage": "minutes",
+   "hash": "c0adf10b360b2dd3",
+   "fetched_at": "2026-10-19T01:04:44+00:00",
+   "first_seen": "2026-10-14T17:22:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneiden_ja_vammaisten_henkiloumliden_valiokunta/Kokous_1692026": {
+   "id": "ikaantyneiden-ja-vammaisten-henkiloiden-valiokunta/2026-09-16",
+   "date": "2026-09-16",
+   "stage": "minutes",
+   "hash": "cc038a199b00ad3d",
+   "fetched_at": "2026-10-14T17:23:04+00:00",
+   "first_seen": "2026-10-14T17:23:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1592026": {
+   "id": "tarkastuslautakunta/2026-09-15",
+   "date": "2026-09-15",
+   "stage": "minutes",
+   "hash": "74acd8c5d9701f96",
+   "fetched_at": "2026-10-14T17:23:14+00:00",
+   "first_seen": "2026-10-14T17:23:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuus_ja_turvallisuusvaliokunta/Kokous_1092026": {
+   "id": "tulevaisuus-ja-turvallisuusvaliokunta/2026-09-10",
+   "date": "2026-09-10",
+   "stage": "minutes",
+   "hash": "547332cd3c8f4f04",
+   "fetched_at": "2026-10-14T17:23:23+00:00",
+   "first_seen": "2026-10-14T17:23:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Konserni_ja_toimitilajaosto/Kokous_892026": {
+   "id": "konserni-ja-toimitilajaosto/2026-09-08",
+   "date": "2026-09-08",
+   "stage": "minutes",
+   "hash": "ab0715e1f5ae2e92",
+   "fetched_at": "2026-10-14T17:23:31+00:00",
+   "first_seen": "2026-10-14T17:23:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_792026": {
+   "id": "aluehallitus/2026-09-07",
+   "date": "2026-09-07",
+   "stage": "minutes",
+   "hash": "9a41448bcdb046c9",
+   "fetched_at": "2026-10-19T01:05:44+00:00",
+   "first_seen": "2026-10-14T17:23:53+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_3182026": {
+   "id": "aluevaltuusto/2026-08-31",
+   "date": "2026-08-31",
+   "stage": "minutes",
+   "hash": "0b8979b6b6a20815",
+   "fetched_at": "2026-10-19T01:06:02+00:00",
+   "first_seen": "2026-10-14T17:24:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Lasten_nuorten_perheiden_ja_tyoumlikaumlisten_valiokunta/Kokous_2582026": {
+   "id": "lasten-nuorten-perheiden-ja-tyoikaisten-valiokunta/2026-08-25",
+   "date": "2026-08-25",
+   "stage": "minutes",
+   "hash": "bdce90eba20c57ef",
+   "fetched_at": "2026-10-14T17:24:23+00:00",
+   "first_seen": "2026-10-14T17:24:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_2582026": {
+   "id": "vanhusneuvosto/2026-08-25",
+   "date": "2026-08-25",
+   "stage": "minutes",
+   "hash": "25522e20432c2641",
+   "fetched_at": "2026-10-14T17:24:36+00:00",
+   "first_seen": "2026-10-14T17:24:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2482026": {
+   "id": "aluehallitus/2026-08-24",
+   "date": "2026-08-24",
+   "stage": "minutes",
+   "hash": "3e9e08861017600f",
+   "fetched_at": "2026-10-14T17:24:55+00:00",
+   "first_seen": "2026-10-14T17:24:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_2082026": {
+   "id": "nuorisovaltuusto/2026-08-20",
+   "date": "2026-08-20",
+   "stage": "minutes",
+   "hash": "9d618f379743fe10",
+   "fetched_at": "2026-10-19T01:06:57+00:00",
+   "first_seen": "2026-10-14T17:25:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_1982026": {
+   "id": "vammaisneuvosto/2026-08-19",
+   "date": "2026-08-19",
+   "stage": "minutes",
+   "hash": "e1df32f1759b634d",
+   "fetched_at": "2026-10-14T17:25:16+00:00",
+   "first_seen": "2026-10-14T17:25:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneiden_ja_vammaisten_henkiloumliden_valiokunta/Kokous_1882026": {
+   "id": "ikaantyneiden-ja-vammaisten-henkiloiden-valiokunta/2026-08-18",
+   "date": "2026-08-18",
+   "stage": "minutes",
+   "hash": "cfc74f9c88c61324",
+   "fetched_at": "2026-10-14T17:25:27+00:00",
+   "first_seen": "2026-10-14T17:25:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Asiakkuus_ja_laatujaosto/Kokous_1782026": {
+   "id": "asiakkuus-ja-laatujaosto/2026-08-17",
+   "date": "2026-08-17",
+   "stage": "minutes",
+   "hash": "58556af36afa8d3e",
+   "fetched_at": "2026-10-14T17:25:35+00:00",
+   "first_seen": "2026-10-14T17:25:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Konserni_ja_toimitilajaosto/Kokous_1182026": {
+   "id": "konserni-ja-toimitilajaosto/2026-08-11",
+   "date": "2026-08-11",
+   "stage": "minutes",
+   "hash": "c2883373b0f1af94",
+   "fetched_at": "2026-10-14T17:25:52+00:00",
+   "first_seen": "2026-10-14T17:25:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1182026": {
+   "id": "tarkastuslautakunta/2026-08-11",
+   "date": "2026-08-11",
+   "stage": "minutes",
+   "hash": "6926c43a24698f8d",
+   "fetched_at": "2026-10-14T17:26:01+00:00",
+   "first_seen": "2026-10-14T17:26:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1082026": {
+   "id": "aluehallitus/2026-08-10",
+   "date": "2026-08-10",
+   "stage": "minutes",
+   "hash": "5345de3b41bebc1e",
+   "fetched_at": "2026-10-14T17:26:22+00:00",
+   "first_seen": "2026-10-14T17:26:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2262026": {
+   "id": "aluehallitus/2026-06-22",
+   "date": "2026-06-22",
+   "stage": "minutes",
+   "hash": "b002bbb8ba16224e",
+   "fetched_at": "2026-10-14T17:26:39+00:00",
+   "first_seen": "2026-10-14T17:26:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1662026": {
+   "id": "tarkastuslautakunta/2026-06-16",
+   "date": "2026-06-16",
+   "stage": "minutes",
+   "hash": "e1b29f8f41467839",
+   "fetched_at": "2026-10-14T17:26:46+00:00",
+   "first_seen": "2026-10-14T17:26:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_1562026": {
+   "id": "aluevaltuusto/2026-06-15",
+   "date": "2026-06-15",
+   "stage": "minutes",
+   "hash": "c39297a880bf07d2",
+   "fetched_at": "2026-10-14T17:27:07+00:00",
+   "first_seen": "2026-10-14T17:27:07+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_1162026": {
+   "id": "nuorisovaltuusto/2026-06-11",
+   "date": "2026-06-11",
+   "stage": "minutes",
+   "hash": "54d03e781dd8dcdf",
+   "fetched_at": "2026-10-14T17:27:16+00:00",
+   "first_seen": "2026-10-14T17:27:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuus_ja_turvallisuusvaliokunta/Kokous_1162026": {
+   "id": "tulevaisuus-ja-turvallisuusvaliokunta/2026-06-11",
+   "date": "2026-06-11",
+   "stage": "minutes",
+   "hash": "dc63396d7728f0cc",
+   "fetched_at": "2026-10-14T17:27:23+00:00",
+   "first_seen": "2026-10-14T17:27:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Lasten_nuorten_perheiden_ja_tyoumlikaumlisten_valiokunta/Kokous_1062026": {
+   "id": "lasten-nuorten-perheiden-ja-tyoikaisten-valiokunta/2026-06-10",
+   "date": "2026-06-10",
+   "stage": "minutes",
+   "hash": "3c7d6883b4055676",
+   "fetched_at": "2026-10-14T17:27:31+00:00",
+   "first_seen": "2026-10-14T17:27:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_962026": {
+   "id": "vanhusneuvosto/2026-06-09",
+   "date": "2026-06-09",
+   "stage": "minutes",
+   "hash": "9606b851ed1e4656",
+   "fetched_at": "2026-10-14T17:27:44+00:00",
+   "first_seen": "2026-10-14T17:27:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_862026": {
+   "id": "aluehallitus/2026-06-08",
+   "date": "2026-06-08",
+   "stage": "minutes",
+   "hash": "251d2aad655ea24d",
+   "fetched_at": "2026-10-14T17:28:02+00:00",
+   "first_seen": "2026-10-14T17:28:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Asiakkuus_ja_laatujaosto/Kokous_862026": {
+   "id": "asiakkuus-ja-laatujaosto/2026-06-08",
+   "date": "2026-06-08",
+   "stage": "minutes",
+   "hash": "1325b3dde13bea9f",
+   "fetched_at": "2026-10-14T17:28:11+00:00",
+   "first_seen": "2026-10-14T17:28:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneiden_ja_vammaisten_henkiloumliden_valiokunta/Kokous_262026": {
+   "id": "ikaantyneiden-ja-vammaisten-henkiloiden-valiokunta/2026-06-02",
+   "date": "2026-06-02",
+   "stage": "minutes",
+   "hash": "4fc8b5c3b31f4354",
+   "fetched_at": "2026-10-14T17:28:23+00:00",
+   "first_seen": "2026-10-14T17:28:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Konserni_ja_toimitilajaosto/Kokous_262026": {
+   "id": "konserni-ja-toimitilajaosto/2026-06-02",
+   "date": "2026-06-02",
+   "stage": "minutes",
+   "hash": "47ea5468ab4bdd16",
+   "fetched_at": "2026-10-14T17:28:31+00:00",
+   "first_seen": "2026-10-14T17:28:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Pirkanmaan_hyvinvointialueen_yhteistyoumlalueen_tutkimustoimikunta/Kokous_2852026": {
+   "id": "pirkanmaan-hyvinvointialueen-yhteistyoalueen-tutkimustoimikunta/2026-05-28",
+   "date": "2026-05-28",
+   "stage": "minutes",
+   "hash": "4ff0129b0d85563f",
+   "fetched_at": "2026-10-14T17:28:49+00:00",
+   "first_seen": "2026-10-14T17:28:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Konserni_ja_toimitilajaosto/Kokous_2652026": {
+   "id": "konserni-ja-toimitilajaosto/2026-05-26",
+   "date": "2026-05-26",
+   "stage": "minutes",
+   "hash": "8f3a478bd5f5c751",
+   "fetched_at": "2026-10-14T17:29:03+00:00",
+   "first_seen": "2026-10-14T17:29:03+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2552026": {
+   "id": "aluehallitus/2026-05-25",
+   "date": "2026-05-25",
+   "stage": "minutes",
+   "hash": "9aa9c89aecb89b03",
+   "fetched_at": "2026-10-14T17:29:20+00:00",
+   "first_seen": "2026-10-14T17:29:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_2052026": {
+   "id": "vammaisneuvosto/2026-05-20",
+   "date": "2026-05-20",
+   "stage": "minutes",
+   "hash": "e8a877c82887987b",
+   "fetched_at": "2026-10-14T17:29:31+00:00",
+   "first_seen": "2026-10-14T17:29:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1252026": {
+   "id": "tarkastuslautakunta/2026-05-12",
+   "date": "2026-05-12",
+   "stage": "minutes",
+   "hash": "a6bd964e76aa24be",
+   "fetched_at": "2026-10-14T17:29:37+00:00",
+   "first_seen": "2026-10-14T17:29:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_1252026": {
+   "id": "vanhusneuvosto/2026-05-12",
+   "date": "2026-05-12",
+   "stage": "minutes",
+   "hash": "c1bd36c3959595a0",
+   "fetched_at": "2026-10-14T17:29:51+00:00",
+   "first_seen": "2026-10-14T17:29:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1152026": {
+   "id": "aluehallitus/2026-05-11",
+   "date": "2026-05-11",
+   "stage": "minutes",
+   "hash": "98996e5cc1fe3d2c",
+   "fetched_at": "2026-10-14T17:30:04+00:00",
+   "first_seen": "2026-10-14T17:30:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_752026": {
+   "id": "nuorisovaltuusto/2026-05-07",
+   "date": "2026-05-07",
+   "stage": "minutes",
+   "hash": "f41007862c0f6f9a",
+   "fetched_at": "2026-10-14T17:30:12+00:00",
+   "first_seen": "2026-10-14T17:30:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuus_ja_turvallisuusvaliokunta/Kokous_752026": {
+   "id": "tulevaisuus-ja-turvallisuusvaliokunta/2026-05-07",
+   "date": "2026-05-07",
+   "stage": "minutes",
+   "hash": "287fcee7c6e7d2cc",
+   "fetched_at": "2026-10-14T17:30:21+00:00",
+   "first_seen": "2026-10-14T17:30:21+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Lasten_nuorten_perheiden_ja_tyoumlikaumlisten_valiokunta/Kokous_552026": {
+   "id": "lasten-nuorten-perheiden-ja-tyoikaisten-valiokunta/2026-05-05",
+   "date": "2026-05-05",
+   "stage": "minutes",
+   "hash": "c91717ba9ab319e4",
+   "fetched_at": "2026-10-14T17:30:31+00:00",
+   "first_seen": "2026-10-14T17:30:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_552026": {
+   "id": "tarkastuslautakunta/2026-05-05",
+   "date": "2026-05-05",
+   "stage": "minutes",
+   "hash": "57d171a3f49ab289",
+   "fetched_at": "2026-10-14T17:30:37+00:00",
+   "first_seen": "2026-10-14T17:30:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Asiakkuus_ja_laatujaosto/Kokous_452026": {
+   "id": "asiakkuus-ja-laatujaosto/2026-05-04",
+   "date": "2026-05-04",
+   "stage": "minutes",
+   "hash": "f7e88c2abfc2fdc7",
+   "fetched_at": "2026-10-14T17:30:50+00:00",
+   "first_seen": "2026-10-14T17:30:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneiden_ja_vammaisten_henkiloumliden_valiokunta/Kokous_2942026": {
+   "id": "ikaantyneiden-ja-vammaisten-henkiloiden-valiokunta/2026-04-29",
+   "date": "2026-04-29",
+   "stage": "minutes",
+   "hash": "d3896af738c0b723",
+   "fetched_at": "2026-10-14T17:30:58+00:00",
+   "first_seen": "2026-10-14T17:30:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2842026": {
+   "id": "tarkastuslautakunta/2026-04-28",
+   "date": "2026-04-28",
+   "stage": "minutes",
+   "hash": "915cc5d113eae64f",
+   "fetched_at": "2026-10-14T17:31:04+00:00",
+   "first_seen": "2026-10-14T17:31:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2742026": {
+   "id": "aluehallitus/2026-04-27",
+   "date": "2026-04-27",
+   "stage": "minutes",
+   "hash": "a699d9afefba2da6",
+   "fetched_at": "2026-10-14T17:31:18+00:00",
+   "first_seen": "2026-10-14T17:31:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_2742026": {
+   "id": "aluevaltuusto/2026-04-27",
+   "date": "2026-04-27",
+   "stage": "minutes",
+   "hash": "96c378c590b8b252",
+   "fetched_at": "2026-10-14T17:31:39+00:00",
+   "first_seen": "2026-10-14T17:31:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Konserni_ja_toimitilajaosto/Kokous_2142026": {
+   "id": "konserni-ja-toimitilajaosto/2026-04-21",
+   "date": "2026-04-21",
+   "stage": "minutes",
+   "hash": "a29d1f36632d1a7b",
+   "fetched_at": "2026-10-14T17:31:50+00:00",
+   "first_seen": "2026-10-14T17:31:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_1642026": {
+   "id": "nuorisovaltuusto/2026-04-16",
+   "date": "2026-04-16",
+   "stage": "minutes",
+   "hash": "b7546ad0819e72a6",
+   "fetched_at": "2026-10-14T17:31:59+00:00",
+   "first_seen": "2026-10-14T17:31:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1442026": {
+   "id": "tarkastuslautakunta/2026-04-14",
+   "date": "2026-04-14",
+   "stage": "minutes",
+   "hash": "034b660e484457de",
+   "fetched_at": "2026-10-14T17:32:06+00:00",
+   "first_seen": "2026-10-14T17:32:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1342026": {
+   "id": "aluehallitus/2026-04-13",
+   "date": "2026-04-13",
+   "stage": "minutes",
+   "hash": "e8007885c3d7b295",
+   "fetched_at": "2026-10-14T17:32:26+00:00",
+   "first_seen": "2026-10-14T17:32:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Pirkanmaan_hyvinvointialueen_yhteistyoumlalueen_tutkimustoimikunta/Kokous_942026": {
+   "id": "pirkanmaan-hyvinvointialueen-yhteistyoalueen-tutkimustoimikunta/2026-04-09",
+   "date": "2026-04-09",
+   "stage": "minutes",
+   "hash": "65e28b0bdd37de05",
+   "fetched_at": "2026-10-14T17:32:37+00:00",
+   "first_seen": "2026-10-14T17:32:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_742026": {
+   "id": "vanhusneuvosto/2026-04-07",
+   "date": "2026-04-07",
+   "stage": "minutes",
+   "hash": "9d5e71807848d81d",
+   "fetched_at": "2026-10-14T17:32:50+00:00",
+   "first_seen": "2026-10-14T17:32:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_3132026": {
+   "id": "tarkastuslautakunta/2026-03-31",
+   "date": "2026-03-31",
+   "stage": "minutes",
+   "hash": "c880ba4033b005d6",
+   "fetched_at": "2026-10-14T17:32:57+00:00",
+   "first_seen": "2026-10-14T17:32:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_3032026": {
+   "id": "aluehallitus/2026-03-30",
+   "date": "2026-03-30",
+   "stage": "minutes",
+   "hash": "9ec7409b26417abb",
+   "fetched_at": "2026-10-14T17:33:18+00:00",
+   "first_seen": "2026-10-14T17:33:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuus_ja_turvallisuusvaliokunta/Kokous_2632026": {
+   "id": "tulevaisuus-ja-turvallisuusvaliokunta/2026-03-26",
+   "date": "2026-03-26",
+   "stage": "minutes",
+   "hash": "f34e79b8ae8a1d25",
+   "fetched_at": "2026-10-14T17:33:25+00:00",
+   "first_seen": "2026-10-14T17:33:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Lasten_nuorten_perheiden_ja_tyoumlikaumlisten_valiokunta/Kokous_2532026": {
+   "id": "lasten-nuorten-perheiden-ja-tyoikaisten-valiokunta/2026-03-25",
+   "date": "2026-03-25",
+   "stage": "minutes",
+   "hash": "c28956ec95138a3d",
+   "fetched_at": "2026-10-14T17:33:32+00:00",
+   "first_seen": "2026-10-14T17:33:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Asiakkuus_ja_laatujaosto/Kokous_2432026": {
+   "id": "asiakkuus-ja-laatujaosto/2026-03-24",
+   "date": "2026-03-24",
+   "stage": "minutes",
+   "hash": "1c93735136b99a40",
+   "fetched_at": "2026-10-14T17:33:43+00:00",
+   "first_seen": "2026-10-14T17:33:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Konserni_ja_toimitilajaosto/Kokous_2432026": {
+   "id": "konserni-ja-toimitilajaosto/2026-03-24",
+   "date": "2026-03-24",
+   "stage": "minutes",
+   "hash": "5ede8344602042a3",
+   "fetched_at": "2026-10-14T17:33:58+00:00",
+   "first_seen": "2026-10-14T17:33:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_2332026": {
+   "id": "aluevaltuusto/2026-03-23",
+   "date": "2026-03-23",
+   "stage": "minutes",
+   "hash": "15bd4acd991432b0",
+   "fetched_at": "2026-10-14T17:34:15+00:00",
+   "first_seen": "2026-10-14T17:34:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_1932026": {
+   "id": "nuorisovaltuusto/2026-03-19",
+   "date": "2026-03-19",
+   "stage": "minutes",
+   "hash": "9bb3659b06ada63b",
+   "fetched_at": "2026-10-14T17:34:28+00:00",
+   "first_seen": "2026-10-14T17:34:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_1832026": {
+   "id": "vammaisneuvosto/2026-03-18",
+   "date": "2026-03-18",
+   "stage": "minutes",
+   "hash": "a05b86f8ab20e38a",
+   "fetched_at": "2026-10-14T17:34:35+00:00",
+   "first_seen": "2026-10-14T17:34:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneiden_ja_vammaisten_henkiloumliden_valiokunta/Kokous_1732026": {
+   "id": "ikaantyneiden-ja-vammaisten-henkiloiden-valiokunta/2026-03-17",
+   "date": "2026-03-17",
+   "stage": "minutes",
+   "hash": "ccf873211f3e7674",
+   "fetched_at": "2026-10-14T17:34:43+00:00",
+   "first_seen": "2026-10-14T17:34:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_932026": {
+   "id": "aluehallitus/2026-03-09",
+   "date": "2026-03-09",
+   "stage": "minutes",
+   "hash": "bff444cc4a725e2c",
+   "fetched_at": "2026-10-14T17:34:57+00:00",
+   "first_seen": "2026-10-14T17:34:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_332026": {
+   "id": "vanhusneuvosto/2026-03-03",
+   "date": "2026-03-03",
+   "stage": "minutes",
+   "hash": "4534fbef7b057dec",
+   "fetched_at": "2026-10-14T17:35:10+00:00",
+   "first_seen": "2026-10-14T17:35:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Konserni_ja_toimitilajaosto/Kokous_1922026": {
+   "id": "konserni-ja-toimitilajaosto/2026-02-19",
+   "date": "2026-02-19",
+   "stage": "minutes",
+   "hash": "cb9f3f83bbc5edc8",
+   "fetched_at": "2026-10-14T17:35:15+00:00",
+   "first_seen": "2026-10-14T17:35:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuus_ja_turvallisuusvaliokunta/Kokous_1922026": {
+   "id": "tulevaisuus-ja-turvallisuusvaliokunta/2026-02-19",
+   "date": "2026-02-19",
+   "stage": "minutes",
+   "hash": "6c30258187ba0a15",
+   "fetched_at": "2026-10-14T17:35:23+00:00",
+   "first_seen": "2026-10-14T17:35:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_1822026": {
+   "id": "vammaisneuvosto/2026-02-18",
+   "date": "2026-02-18",
+   "stage": "minutes",
+   "hash": "8f4090097a6f06e7",
+   "fetched_at": "2026-10-14T17:35:34+00:00",
+   "first_seen": "2026-10-14T17:35:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Lasten_nuorten_perheiden_ja_tyoumlikaumlisten_valiokunta/Kokous_1722026": {
+   "id": "lasten-nuorten-perheiden-ja-tyoikaisten-valiokunta/2026-02-17",
+   "date": "2026-02-17",
+   "stage": "minutes",
+   "hash": "2fec4a3106186669",
+   "fetched_at": "2026-10-14T17:35:42+00:00",
+   "first_seen": "2026-10-14T17:35:42+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1722026": {
+   "id": "tarkastuslautakunta/2026-02-17",
+   "date": "2026-02-17",
+   "stage": "minutes",
+   "hash": "d047a9dfeb2fa217",
+   "fetched_at": "2026-10-14T17:35:51+00:00",
+   "first_seen": "2026-10-14T17:35:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1622026": {
+   "id": "aluehallitus/2026-02-16",
+   "date": "2026-02-16",
+   "stage": "minutes",
+   "hash": "d8991553c65ac32f",
+   "fetched_at": "2026-10-14T17:36:16+00:00",
+   "first_seen": "2026-10-14T17:36:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_1622026": {
+   "id": "aluevaltuusto/2026-02-16",
+   "date": "2026-02-16",
+   "stage": "minutes",
+   "hash": "20d41e31fc2f6d65",
+   "fetched_at": "2026-10-14T17:36:27+00:00",
+   "first_seen": "2026-10-14T17:36:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_1222026": {
+   "id": "nuorisovaltuusto/2026-02-12",
+   "date": "2026-02-12",
+   "stage": "minutes",
+   "hash": "34f739feaa8edd15",
+   "fetched_at": "2026-10-14T17:36:58+00:00",
+   "first_seen": "2026-10-14T17:36:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneiden_ja_vammaisten_henkiloumliden_valiokunta/Kokous_1122026": {
+   "id": "ikaantyneiden-ja-vammaisten-henkiloiden-valiokunta/2026-02-11",
+   "date": "2026-02-11",
+   "stage": "minutes",
+   "hash": "aa304ab585c031fd",
+   "fetched_at": "2026-10-14T17:37:06+00:00",
+   "first_seen": "2026-10-14T17:37:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_922026": {
+   "id": "aluehallitus/2026-02-09",
+   "date": "2026-02-09",
+   "stage": "minutes",
+   "hash": "d458a481a687b8b9",
+   "fetched_at": "2026-10-14T17:37:11+00:00",
+   "first_seen": "2026-10-14T17:37:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Asiakkuus_ja_laatujaosto/Kokous_922026": {
+   "id": "asiakkuus-ja-laatujaosto/2026-02-09",
+   "date": "2026-02-09",
+   "stage": "minutes",
+   "hash": "f458213774d73825",
+   "fetched_at": "2026-10-14T17:37:26+00:00",
+   "first_seen": "2026-10-14T17:37:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Konserni_ja_toimitilajaosto/Kokous_322026": {
+   "id": "konserni-ja-toimitilajaosto/2026-02-03",
+   "date": "2026-02-03",
+   "stage": "minutes",
+   "hash": "8b1fe3a37a6cbdb7",
+   "fetched_at": "2026-10-14T17:37:35+00:00",
+   "first_seen": "2026-10-14T17:37:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_322026": {
+   "id": "vanhusneuvosto/2026-02-03",
+   "date": "2026-02-03",
+   "stage": "minutes",
+   "hash": "1f795a78831ab146",
+   "fetched_at": "2026-10-14T17:37:49+00:00",
+   "first_seen": "2026-10-14T17:37:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_222026": {
+   "id": "aluehallitus/2026-02-02",
+   "date": "2026-02-02",
+   "stage": "minutes",
+   "hash": "789f1864cc3516c2",
+   "fetched_at": "2026-10-14T17:38:01+00:00",
+   "first_seen": "2026-10-14T17:38:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Pirkanmaan_hyvinvointialueen_yhteistyoumlalueen_tutkimustoimikunta/Kokous_2912026": {
+   "id": "pirkanmaan-hyvinvointialueen-yhteistyoalueen-tutkimustoimikunta/2026-01-29",
+   "date": "2026-01-29",
+   "stage": "minutes",
+   "hash": "901345e947783ba0",
+   "fetched_at": "2026-10-14T17:38:09+00:00",
+   "first_seen": "2026-10-14T17:38:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_2812026": {
+   "id": "vammaisneuvosto/2026-01-28",
+   "date": "2026-01-28",
+   "stage": "minutes",
+   "hash": "49fea18df2c99840",
+   "fetched_at": "2026-10-14T17:38:18+00:00",
+   "first_seen": "2026-10-14T17:38:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2712026": {
+   "id": "tarkastuslautakunta/2026-01-27",
+   "date": "2026-01-27",
+   "stage": "minutes",
+   "hash": "3b08455522a75d3e",
+   "fetched_at": "2026-10-14T17:38:26+00:00",
+   "first_seen": "2026-10-14T17:38:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2612026": {
+   "id": "aluehallitus/2026-01-26",
+   "date": "2026-01-26",
+   "stage": "minutes",
+   "hash": "50ab8919b095326d",
+   "fetched_at": "2026-10-14T17:38:39+00:00",
+   "first_seen": "2026-10-14T17:38:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_2612026": {
+   "id": "aluevaltuusto/2026-01-26",
+   "date": "2026-01-26",
+   "stage": "minutes",
+   "hash": "f82b3decbd058a01",
+   "fetched_at": "2026-10-14T17:38:49+00:00",
+   "first_seen": "2026-10-14T17:38:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuus_ja_turvallisuusvaliokunta/Kokous_2212026": {
+   "id": "tulevaisuus-ja-turvallisuusvaliokunta/2026-01-22",
+   "date": "2026-01-22",
+   "stage": "minutes",
+   "hash": "ff57efcbf8f1a294",
+   "fetched_at": "2026-10-14T17:38:55+00:00",
+   "first_seen": "2026-10-14T17:38:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Lasten_nuorten_perheiden_ja_tyoumlikaumlisten_valiokunta/Kokous_2112026": {
+   "id": "lasten-nuorten-perheiden-ja-tyoikaisten-valiokunta/2026-01-21",
+   "date": "2026-01-21",
+   "stage": "minutes",
+   "hash": "c1ab78d340025d6e",
+   "fetched_at": "2026-10-14T17:39:02+00:00",
+   "first_seen": "2026-10-14T17:39:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneiden_ja_vammaisten_henkiloumliden_valiokunta/Kokous_2012026": {
+   "id": "ikaantyneiden-ja-vammaisten-henkiloiden-valiokunta/2026-01-20",
+   "date": "2026-01-20",
+   "stage": "minutes",
+   "hash": "aea603fef36b9197",
+   "fetched_at": "2026-10-14T17:39:07+00:00",
+   "first_seen": "2026-10-14T17:39:07+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1212026": {
+   "id": "aluehallitus/2026-01-12",
+   "date": "2026-01-12",
+   "stage": "minutes",
+   "hash": "22b2687447cc2099",
+   "fetched_at": "2026-10-14T17:39:29+00:00",
+   "first_seen": "2026-10-14T17:39:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_712026": {
+   "id": "nuorisovaltuusto/2026-01-07",
+   "date": "2026-01-07",
+   "stage": "minutes",
+   "hash": "1da28b6de11b9095",
+   "fetched_at": "2026-10-14T17:39:34+00:00",
+   "first_seen": "2026-10-14T17:39:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Konserni_ja_toimitilajaosto/Kokous_16122025": {
+   "id": "konserni-ja-toimitilajaosto/2025-12-16",
+   "date": "2025-12-16",
+   "stage": "minutes",
+   "hash": "f37b1684979f84c4",
+   "fetched_at": "2026-10-14T17:39:45+00:00",
+   "first_seen": "2026-10-14T17:39:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_16122025": {
+   "id": "tarkastuslautakunta/2025-12-16",
+   "date": "2025-12-16",
+   "stage": "minutes",
+   "hash": "221cf761ce9e6692",
+   "fetched_at": "2026-10-14T17:39:51+00:00",
+   "first_seen": "2026-10-14T17:39:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_16122025": {
+   "id": "vanhusneuvosto/2025-12-16",
+   "date": "2025-12-16",
+   "stage": "minutes",
+   "hash": "4663164d0d17eb99",
+   "fetched_at": "2026-10-14T17:40:05+00:00",
+   "first_seen": "2026-10-14T17:40:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_15122025": {
+   "id": "aluehallitus/2025-12-15",
+   "date": "2025-12-15",
+   "stage": "minutes",
+   "hash": "04710b949f750a33",
+   "fetched_at": "2026-10-14T17:40:26+00:00",
+   "first_seen": "2026-10-14T17:40:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_11122025": {
+   "id": "nuorisovaltuusto/2025-12-11",
+   "date": "2025-12-11",
+   "stage": "minutes",
+   "hash": "ff5b25fc9d580523",
+   "fetched_at": "2026-10-14T17:40:40+00:00",
+   "first_seen": "2026-10-14T17:40:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_10122025": {
+   "id": "vammaisneuvosto/2025-12-10",
+   "date": "2025-12-10",
+   "stage": "minutes",
+   "hash": "7cd9efa822bda193",
+   "fetched_at": "2026-10-14T17:40:47+00:00",
+   "first_seen": "2026-10-14T17:40:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Lasten_nuorten_perheiden_ja_tyoumlikaumlisten_valiokunta/Kokous_9122025": {
+   "id": "lasten-nuorten-perheiden-ja-tyoikaisten-valiokunta/2025-12-09",
+   "date": "2025-12-09",
+   "stage": "minutes",
+   "hash": "8b9c1be565f2eb6a",
+   "fetched_at": "2026-10-14T17:40:53+00:00",
+   "first_seen": "2026-10-14T17:40:53+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_8122025": {
+   "id": "aluehallitus/2025-12-08",
+   "date": "2025-12-08",
+   "stage": "minutes",
+   "hash": "2231ef45741cc822",
+   "fetched_at": "2026-10-14T17:40:59+00:00",
+   "first_seen": "2026-10-14T17:40:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_8122025": {
+   "id": "aluevaltuusto/2025-12-08",
+   "date": "2025-12-08",
+   "stage": "minutes",
+   "hash": "efa849c78f50858d",
+   "fetched_at": "2026-10-14T17:41:15+00:00",
+   "first_seen": "2026-10-14T17:41:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuus_ja_turvallisuusvaliokunta/Kokous_4122025": {
+   "id": "tulevaisuus-ja-turvallisuusvaliokunta/2025-12-04",
+   "date": "2025-12-04",
+   "stage": "minutes",
+   "hash": "fb25c82dda4aaf74",
+   "fetched_at": "2026-10-14T17:41:21+00:00",
+   "first_seen": "2026-10-14T17:41:21+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_4122025": {
+   "id": "vammaisneuvosto/2025-12-04",
+   "date": "2025-12-04",
+   "stage": "minutes",
+   "hash": "9682f60db2123f08",
+   "fetched_at": "2026-10-14T17:41:28+00:00",
+   "first_seen": "2026-10-14T17:41:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_3122025": {
+   "id": "aluehallitus/2025-12-03",
+   "date": "2025-12-03",
+   "stage": "minutes",
+   "hash": "87ad6b4f59470250",
+   "fetched_at": "2026-10-14T17:41:37+00:00",
+   "first_seen": "2026-10-14T17:41:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneiden_ja_vammaisten_henkiloumliden_valiokunta/Kokous_3122025": {
+   "id": "ikaantyneiden-ja-vammaisten-henkiloiden-valiokunta/2025-12-03",
+   "date": "2025-12-03",
+   "stage": "minutes",
+   "hash": "fc04d4dce0aeb4b3",
+   "fetched_at": "2026-10-14T17:41:45+00:00",
+   "first_seen": "2026-10-14T17:41:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Asiakkuus_ja_laatujaosto/Kokous_1122025": {
+   "id": "asiakkuus-ja-laatujaosto/2025-12-01",
+   "date": "2025-12-01",
+   "stage": "minutes",
+   "hash": "8bc938c769c4fcda",
+   "fetched_at": "2026-10-14T17:41:54+00:00",
+   "first_seen": "2026-10-14T17:41:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_25112025": {
+   "id": "vanhusneuvosto/2025-11-25",
+   "date": "2025-11-25",
+   "stage": "minutes",
+   "hash": "6d92aad8d385ef2a",
+   "fetched_at": "2026-10-14T17:42:10+00:00",
+   "first_seen": "2026-10-14T17:42:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_24112025": {
+   "id": "aluehallitus/2025-11-24",
+   "date": "2025-11-24",
+   "stage": "minutes",
+   "hash": "04e13bab481fc185",
+   "fetched_at": "2026-10-14T17:42:32+00:00",
+   "first_seen": "2026-10-14T17:42:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_20112025": {
+   "id": "nuorisovaltuusto/2025-11-20",
+   "date": "2025-11-20",
+   "stage": "minutes",
+   "hash": "9d381251a72c8d15",
+   "fetched_at": "2026-10-14T17:42:42+00:00",
+   "first_seen": "2026-10-14T17:42:42+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Konserni_ja_toimitilajaosto/Kokous_18112025": {
+   "id": "konserni-ja-toimitilajaosto/2025-11-18",
+   "date": "2025-11-18",
+   "stage": "minutes",
+   "hash": "09b60d470debaa51",
+   "fetched_at": "2026-10-14T17:42:56+00:00",
+   "first_seen": "2026-10-14T17:42:56+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_18112025": {
+   "id": "tarkastuslautakunta/2025-11-18",
+   "date": "2025-11-18",
+   "stage": "minutes",
+   "hash": "47ea9ba1e372dde1",
+   "fetched_at": "2026-10-14T17:43:05+00:00",
+   "first_seen": "2026-10-14T17:43:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Asiakkuus_ja_laatujaosto/Kokous_17112025": {
+   "id": "asiakkuus-ja-laatujaosto/2025-11-17",
+   "date": "2025-11-17",
+   "stage": "minutes",
+   "hash": "036a5f4389b5c9d6",
+   "fetched_at": "2026-10-14T17:43:17+00:00",
+   "first_seen": "2026-10-14T17:43:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_12112025": {
+   "id": "vammaisneuvosto/2025-11-12",
+   "date": "2025-11-12",
+   "stage": "minutes",
+   "hash": "778ae541f2c05552",
+   "fetched_at": "2026-10-14T17:43:31+00:00",
+   "first_seen": "2026-10-14T17:43:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Lasten_nuorten_perheiden_ja_tyoumlikaumlisten_valiokunta/Kokous_11112025": {
+   "id": "lasten-nuorten-perheiden-ja-tyoikaisten-valiokunta/2025-11-11",
+   "date": "2025-11-11",
+   "stage": "minutes",
+   "hash": "c45f8372b6de1ce6",
+   "fetched_at": "2026-10-14T17:43:40+00:00",
+   "first_seen": "2026-10-14T17:43:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_10112025": {
+   "id": "aluehallitus/2025-11-10",
+   "date": "2025-11-10",
+   "stage": "minutes",
+   "hash": "8c9a90144d310b1e",
+   "fetched_at": "2026-10-14T17:43:55+00:00",
+   "first_seen": "2026-10-14T17:43:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuus_ja_turvallisuusvaliokunta/Kokous_6112025": {
+   "id": "tulevaisuus-ja-turvallisuusvaliokunta/2025-11-06",
+   "date": "2025-11-06",
+   "stage": "minutes",
+   "hash": "6105fa01fbe4b1dd",
+   "fetched_at": "2026-10-14T17:44:01+00:00",
+   "first_seen": "2026-10-14T17:44:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneiden_ja_vammaisten_henkiloumliden_valiokunta/Kokous_5112025": {
+   "id": "ikaantyneiden-ja-vammaisten-henkiloiden-valiokunta/2025-11-05",
+   "date": "2025-11-05",
+   "stage": "minutes",
+   "hash": "80ef7a92a1db4783",
+   "fetched_at": "2026-10-14T17:44:10+00:00",
+   "first_seen": "2026-10-14T17:44:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_4112025": {
+   "id": "tarkastuslautakunta/2025-11-04",
+   "date": "2025-11-04",
+   "stage": "minutes",
+   "hash": "8701cd8041175b87",
+   "fetched_at": "2026-10-14T17:44:15+00:00",
+   "first_seen": "2026-10-14T17:44:15+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_3112025": {
+   "id": "aluevaltuusto/2025-11-03",
+   "date": "2025-11-03",
+   "stage": "minutes",
+   "hash": "79704fb1c021c222",
+   "fetched_at": "2026-10-14T17:44:31+00:00",
+   "first_seen": "2026-10-14T17:44:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_30102025": {
+   "id": "nuorisovaltuusto/2025-10-30",
+   "date": "2025-10-30",
+   "stage": "minutes",
+   "hash": "c445868cafe6de88",
+   "fetched_at": "2026-10-14T17:44:51+00:00",
+   "first_seen": "2026-10-14T17:44:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Pirkanmaan_hyvinvointialueen_yhteistyoumlalueen_tutkimustoimikunta/Kokous_30102025": {
+   "id": "pirkanmaan-hyvinvointialueen-yhteistyoalueen-tutkimustoimikunta/2025-10-30",
+   "date": "2025-10-30",
+   "stage": "minutes",
+   "hash": "9410ccafbc68c6ad",
+   "fetched_at": "2026-10-14T17:45:02+00:00",
+   "first_seen": "2026-10-14T17:45:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_28102025": {
+   "id": "vanhusneuvosto/2025-10-28",
+   "date": "2025-10-28",
+   "stage": "minutes",
+   "hash": "e1b92748e707dc93",
+   "fetched_at": "2026-10-14T17:45:18+00:00",
+   "first_seen": "2026-10-14T17:45:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_27102025": {
+   "id": "aluehallitus/2025-10-27",
+   "date": "2025-10-27",
+   "stage": "minutes",
+   "hash": "03af72bba02eae13",
+   "fetched_at": "2026-10-14T17:45:38+00:00",
+   "first_seen": "2026-10-14T17:45:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_22102025": {
+   "id": "vammaisneuvosto/2025-10-22",
+   "date": "2025-10-22",
+   "stage": "minutes",
+   "hash": "ee137711cd51195f",
+   "fetched_at": "2026-10-14T17:45:57+00:00",
+   "first_seen": "2026-10-14T17:45:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Konserni_ja_toimitilajaosto/Kokous_21102025": {
+   "id": "konserni-ja-toimitilajaosto/2025-10-21",
+   "date": "2025-10-21",
+   "stage": "minutes",
+   "hash": "137c101db284f307",
+   "fetched_at": "2026-10-14T17:46:12+00:00",
+   "first_seen": "2026-10-14T17:46:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_21102025": {
+   "id": "tarkastuslautakunta/2025-10-21",
+   "date": "2025-10-21",
+   "stage": "minutes",
+   "hash": "69675cb7771b55fc",
+   "fetched_at": "2026-10-14T17:46:22+00:00",
+   "first_seen": "2026-10-14T17:46:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Asiakkuus_ja_laatujaosto/Kokous_20102025": {
+   "id": "asiakkuus-ja-laatujaosto/2025-10-20",
+   "date": "2025-10-20",
+   "stage": "minutes",
+   "hash": "0410e6cf77119b31",
+   "fetched_at": "2026-10-14T17:46:33+00:00",
+   "first_seen": "2026-10-14T17:46:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_13102025": {
+   "id": "aluehallitus/2025-10-13",
+   "date": "2025-10-13",
+   "stage": "minutes",
+   "hash": "191b5b9241720565",
+   "fetched_at": "2026-10-14T17:46:41+00:00",
+   "first_seen": "2026-10-14T17:46:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuus_ja_turvallisuusvaliokunta/Kokous_9102025": {
+   "id": "tulevaisuus-ja-turvallisuusvaliokunta/2025-10-09",
+   "date": "2025-10-09",
+   "stage": "minutes",
+   "hash": "112bdf198df43115",
+   "fetched_at": "2026-10-14T17:46:54+00:00",
+   "first_seen": "2026-10-14T17:46:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneiden_ja_vammaisten_henkiloumliden_valiokunta/Kokous_8102025": {
+   "id": "ikaantyneiden-ja-vammaisten-henkiloiden-valiokunta/2025-10-08",
+   "date": "2025-10-08",
+   "stage": "minutes",
+   "hash": "c4415b56a6b02ae4",
+   "fetched_at": "2026-10-14T17:47:09+00:00",
+   "first_seen": "2026-10-14T17:47:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Lasten_nuorten_perheiden_ja_tyoumlikaumlisten_valiokunta/Kokous_7102025": {
+   "id": "lasten-nuorten-perheiden-ja-tyoikaisten-valiokunta/2025-10-07",
+   "date": "2025-10-07",
+   "stage": "minutes",
+   "hash": "4d42db0cd85d838f",
+   "fetched_at": "2026-10-14T17:47:19+00:00",
+   "first_seen": "2026-10-14T17:47:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_6102025": {
+   "id": "aluehallitus/2025-10-06",
+   "date": "2025-10-06",
+   "stage": "minutes",
+   "hash": "6e9336591fd62850",
+   "fetched_at": "2026-10-14T17:47:46+00:00",
+   "first_seen": "2026-10-14T17:47:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluevaalilautakunta/Kokous_2102025": {
+   "id": "aluevaalilautakunta/2025-10-02",
+   "date": "2025-10-02",
+   "stage": "minutes",
+   "hash": "3fd2bec6b4c7b7ca",
+   "fetched_at": "2026-10-14T17:47:54+00:00",
+   "first_seen": "2026-10-14T17:47:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Konserni_ja_toimitilajaosto/Kokous_1102025": {
+   "id": "konserni-ja-toimitilajaosto/2025-10-01",
+   "date": "2025-10-01",
+   "stage": "minutes",
+   "hash": "7074b34a91df42ae",
+   "fetched_at": "2026-10-14T17:48:05+00:00",
+   "first_seen": "2026-10-14T17:48:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_3092025": {
+   "id": "aluehallitus/2025-09-30",
+   "date": "2025-09-30",
+   "stage": "minutes",
+   "hash": "6f574deb6c82575a",
+   "fetched_at": "2026-10-14T17:48:11+00:00",
+   "first_seen": "2026-10-14T17:48:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_2492025": {
+   "id": "vammaisneuvosto/2025-09-24",
+   "date": "2025-09-24",
+   "stage": "minutes",
+   "hash": "ec0287c2fc8de5d2",
+   "fetched_at": "2026-10-14T17:48:26+00:00",
+   "first_seen": "2026-10-14T17:48:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2392025": {
+   "id": "tarkastuslautakunta/2025-09-23",
+   "date": "2025-09-23",
+   "stage": "minutes",
+   "hash": "bf520cd6fe865952",
+   "fetched_at": "2026-10-14T17:48:46+00:00",
+   "first_seen": "2026-10-14T17:48:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2292025": {
+   "id": "aluehallitus/2025-09-22",
+   "date": "2025-09-22",
+   "stage": "minutes",
+   "hash": "d39929682c5db64c",
+   "fetched_at": "2026-10-14T17:49:06+00:00",
+   "first_seen": "2026-10-14T17:49:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_1892025": {
+   "id": "nuorisovaltuusto/2025-09-18",
+   "date": "2025-09-18",
+   "stage": "minutes",
+   "hash": "c46bed15046ce68a",
+   "fetched_at": "2026-10-14T17:49:33+00:00",
+   "first_seen": "2026-10-14T17:49:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_1592025": {
+   "id": "aluevaltuusto/2025-09-15",
+   "date": "2025-09-15",
+   "stage": "minutes",
+   "hash": "ac0ae57b88351c28",
+   "fetched_at": "2026-10-14T17:50:00+00:00",
+   "first_seen": "2026-10-14T17:50:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneiden_ja_vammaisten_henkiloumliden_valiokunta/Kokous_1192025": {
+   "id": "ikaantyneiden-ja-vammaisten-henkiloiden-valiokunta/2025-09-11",
+   "date": "2025-09-11",
+   "stage": "minutes",
+   "hash": "1d882fcbeab60c62",
+   "fetched_at": "2026-10-14T17:50:21+00:00",
+   "first_seen": "2026-10-14T17:50:21+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Lasten_nuorten_perheiden_ja_tyoumlikaumlisten_valiokunta/Kokous_1192025": {
+   "id": "lasten-nuorten-perheiden-ja-tyoikaisten-valiokunta/2025-09-11",
+   "date": "2025-09-11",
+   "stage": "minutes",
+   "hash": "6142b29ff51fa7d6",
+   "fetched_at": "2026-10-14T17:50:34+00:00",
+   "first_seen": "2026-10-14T17:50:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuus_ja_turvallisuusvaliokunta/Kokous_1192025": {
+   "id": "tulevaisuus-ja-turvallisuusvaliokunta/2025-09-11",
+   "date": "2025-09-11",
+   "stage": "minutes",
+   "hash": "54121828ce47ac7b",
+   "fetched_at": "2026-10-14T17:50:49+00:00",
+   "first_seen": "2026-10-14T17:50:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Asiakkuus_ja_laatujaosto/Kokous_992025": {
+   "id": "asiakkuus-ja-laatujaosto/2025-09-09",
+   "date": "2025-09-09",
+   "stage": "minutes",
+   "hash": "a07816e19da5e83a",
+   "fetched_at": "2026-10-14T17:51:12+00:00",
+   "first_seen": "2026-10-14T17:51:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Konserni_ja_toimitilajaosto/Kokous_992025": {
+   "id": "konserni-ja-toimitilajaosto/2025-09-09",
+   "date": "2025-09-09",
+   "stage": "minutes",
+   "hash": "612431db497ced25",
+   "fetched_at": "2026-10-14T17:51:36+00:00",
+   "first_seen": "2026-10-14T17:51:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_892025": {
+   "id": "aluehallitus/2025-09-08",
+   "date": "2025-09-08",
+   "stage": "minutes",
+   "hash": "82163ff22d57976f",
+   "fetched_at": "2026-10-14T17:51:50+00:00",
+   "first_seen": "2026-10-14T17:51:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2582025": {
+   "id": "aluehallitus/2025-08-25",
+   "date": "2025-08-25",
+   "stage": "minutes",
+   "hash": "da9dc62467b7100e",
+   "fetched_at": "2026-10-14T17:52:23+00:00",
+   "first_seen": "2026-10-14T17:52:23+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_2182025": {
+   "id": "nuorisovaltuusto/2025-08-21",
+   "date": "2025-08-21",
+   "stage": "minutes",
+   "hash": "a985437902db4e83",
+   "fetched_at": "2026-10-14T17:52:49+00:00",
+   "first_seen": "2026-10-14T17:52:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_2082025": {
+   "id": "vammaisneuvosto/2025-08-20",
+   "date": "2025-08-20",
+   "stage": "minutes",
+   "hash": "049c4de46f791ff3",
+   "fetched_at": "2026-10-14T17:53:14+00:00",
+   "first_seen": "2026-10-14T17:53:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Konserni_ja_toimitilajaosto/Kokous_1982025": {
+   "id": "konserni-ja-toimitilajaosto/2025-08-19",
+   "date": "2025-08-19",
+   "stage": "minutes",
+   "hash": "3a29335e6ff9c3cc",
+   "fetched_at": "2026-10-14T17:53:27+00:00",
+   "first_seen": "2026-10-14T17:53:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Lasten_nuorten_perheiden_ja_tyoumlikaumlisten_valiokunta/Kokous_1982025": {
+   "id": "lasten-nuorten-perheiden-ja-tyoikaisten-valiokunta/2025-08-19",
+   "date": "2025-08-19",
+   "stage": "minutes",
+   "hash": "ab7325df1a1d4b1c",
+   "fetched_at": "2026-10-14T17:53:38+00:00",
+   "first_seen": "2026-10-14T17:53:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1982025": {
+   "id": "tarkastuslautakunta/2025-08-19",
+   "date": "2025-08-19",
+   "stage": "minutes",
+   "hash": "753016ba4eed8679",
+   "fetched_at": "2026-10-14T17:53:51+00:00",
+   "first_seen": "2026-10-14T17:53:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_1982025": {
+   "id": "vanhusneuvosto/2025-08-19",
+   "date": "2025-08-19",
+   "stage": "minutes",
+   "hash": "cdb82eadbcd40036",
+   "fetched_at": "2026-10-14T17:54:04+00:00",
+   "first_seen": "2026-10-14T17:54:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Asiakkuus_ja_laatujaosto/Kokous_1882025": {
+   "id": "asiakkuus-ja-laatujaosto/2025-08-18",
+   "date": "2025-08-18",
+   "stage": "minutes",
+   "hash": "e92edb1954fdb124",
+   "fetched_at": "2026-10-14T17:54:17+00:00",
+   "first_seen": "2026-10-14T17:54:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuus_ja_turvallisuusvaliokunta/Kokous_1482025": {
+   "id": "tulevaisuus-ja-turvallisuusvaliokunta/2025-08-14",
+   "date": "2025-08-14",
+   "stage": "minutes",
+   "hash": "919b4961c12226da",
+   "fetched_at": "2026-10-14T17:54:27+00:00",
+   "first_seen": "2026-10-14T17:54:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1182025": {
+   "id": "aluehallitus/2025-08-11",
+   "date": "2025-08-11",
+   "stage": "minutes",
+   "hash": "cbfbff7c9e17d4f6",
+   "fetched_at": "2026-10-14T17:54:39+00:00",
+   "first_seen": "2026-10-14T17:54:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneiden_ja_vammaisten_henkiloumliden_valiokunta/Kokous_782025": {
+   "id": "ikaantyneiden-ja-vammaisten-henkiloiden-valiokunta/2025-08-07",
+   "date": "2025-08-07",
+   "stage": "minutes",
+   "hash": "1f60fc2489122d36",
+   "fetched_at": "2026-10-14T17:54:48+00:00",
+   "first_seen": "2026-10-14T17:54:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_3062025": {
+   "id": "aluehallitus/2025-06-30",
+   "date": "2025-06-30",
+   "stage": "minutes",
+   "hash": "471699fc254af94e",
+   "fetched_at": "2026-10-14T17:54:59+00:00",
+   "first_seen": "2026-10-14T17:54:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1662025": {
+   "id": "aluehallitus/2025-06-16",
+   "date": "2025-06-16",
+   "stage": "minutes",
+   "hash": "0b5aef931ebb6bb2",
+   "fetched_at": "2026-10-14T17:55:35+00:00",
+   "first_seen": "2026-10-14T17:55:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_1262025": {
+   "id": "nuorisovaltuusto/2025-06-12",
+   "date": "2025-06-12",
+   "stage": "minutes",
+   "hash": "c3296785e6d1779e",
+   "fetched_at": "2026-10-14T17:55:53+00:00",
+   "first_seen": "2026-10-14T17:55:53+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_962025": {
+   "id": "aluevaltuusto/2025-06-09",
+   "date": "2025-06-09",
+   "stage": "minutes",
+   "hash": "a552e29e7b164b89",
+   "fetched_at": "2026-10-14T17:56:28+00:00",
+   "first_seen": "2026-10-14T17:56:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Asiakkuus_ja_laatujaosto/Kokous_962025": {
+   "id": "asiakkuus-ja-laatujaosto/2025-06-09",
+   "date": "2025-06-09",
+   "stage": "minutes",
+   "hash": "fbf84f7311f9c558",
+   "fetched_at": "2026-10-14T17:56:40+00:00",
+   "first_seen": "2026-10-14T17:56:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuus_ja_turvallisuusvaliokunta/Kokous_8102026": {
+   "id": "tulevaisuus-ja-turvallisuusvaliokunta/2026-10-08",
+   "date": "2026-10-08",
+   "stage": "minutes",
+   "hash": "d40705337d9292ed",
+   "fetched_at": "2026-10-19T01:02:44+00:00",
+   "first_seen": "2026-10-19T01:02:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_19102026": {
+   "id": "aluehallitus/2026-10-19",
+   "date": "2026-10-19",
+   "stage": "minutes",
+   "hash": "b0850786baf4a783",
+   "fetched_at": "2026-10-26T01:09:14+00:00",
+   "first_seen": "2026-10-26T01:09:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Asiakkuus_ja_laatujaosto/Kokous_19102026": {
+   "id": "asiakkuus-ja-laatujaosto/2026-10-19",
+   "date": "2026-10-19",
+   "stage": "minutes",
+   "hash": "1f2d2a82b86e3677",
+   "fetched_at": "2026-10-26T01:09:24+00:00",
+   "first_seen": "2026-10-26T01:09:24+00:00",
+   "parser_version": "0.1.0"
+  }
+ },
+ "last_run": "2026-10-26T01:12:49+00:00"
+}

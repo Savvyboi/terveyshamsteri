@@ -1,0 +1,1040 @@
+{
+ "meetings": {
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Monikulttuurisuusasiain_neuvottelukunta/Kokous_6102026": {
+   "id": "monikulttuurisuusasiain-neuvottelukunta/2026-10-06",
+   "date": "2026-10-06",
+   "stage": "minutes",
+   "hash": "16a077954e02a5c2",
+   "fetched_at": "2026-10-14T17:57:32+00:00",
+   "first_seen": "2026-10-14T17:57:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Pelastuslautakunta/Kokous_6102026": {
+   "id": "pelastuslautakunta/2026-10-06",
+   "date": "2026-10-06",
+   "stage": "minutes",
+   "hash": "bc243e725e177b4c",
+   "fetched_at": "2026-10-14T17:57:41+00:00",
+   "first_seen": "2026-10-14T17:57:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_6102026": {
+   "id": "vammaisneuvosto/2026-10-06",
+   "date": "2026-10-06",
+   "stage": "minutes",
+   "hash": "6bb0a77e6ba0cfb6",
+   "fetched_at": "2026-10-14T17:57:58+00:00",
+   "first_seen": "2026-10-14T17:57:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_5102026": {
+   "id": "nuorisovaltuusto/2026-10-05",
+   "date": "2026-10-05",
+   "stage": "minutes",
+   "hash": "290b9330346ef7fc",
+   "fetched_at": "2026-10-14T17:58:13+00:00",
+   "first_seen": "2026-10-14T17:58:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_1102026": {
+   "id": "vanhusneuvosto/2026-10-01",
+   "date": "2026-10-01",
+   "stage": "minutes",
+   "hash": "cfaa4a4f03330f74",
+   "fetched_at": "2026-10-14T17:58:36+00:00",
+   "first_seen": "2026-10-14T17:58:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2992026": {
+   "id": "aluehallitus/2026-09-29",
+   "date": "2026-09-29",
+   "stage": "minutes",
+   "hash": "d83c4a5e5ec80476",
+   "fetched_at": "2026-10-14T17:59:30+00:00",
+   "first_seen": "2026-10-14T17:59:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Laumlhidemokratia_ja_osallisuuslautakunta/Kokous_2292026": {
+   "id": "lahidemokratia-ja-osallisuuslautakunta/2026-09-22",
+   "date": "2026-09-22",
+   "stage": "minutes",
+   "hash": "2e988fe3a2b9278d",
+   "fetched_at": "2026-10-14T17:59:47+00:00",
+   "first_seen": "2026-10-14T17:59:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Edunvalvontajaosto/Kokous_1692026": {
+   "id": "edunvalvontajaosto/2026-09-16",
+   "date": "2026-09-16",
+   "stage": "minutes",
+   "hash": "8b76db109d45274e",
+   "fetched_at": "2026-10-15T01:12:31+00:00",
+   "first_seen": "2026-10-14T18:00:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_1492026": {
+   "id": "aluevaltuusto/2026-09-14",
+   "date": "2026-09-14",
+   "stage": "minutes",
+   "hash": "842d2838a27392fd",
+   "fetched_at": "2026-10-14T18:00:27+00:00",
+   "first_seen": "2026-10-14T18:00:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_992026": {
+   "id": "tarkastuslautakunta/2026-09-09",
+   "date": "2026-09-09",
+   "stage": "minutes",
+   "hash": "bf985ea937ef4b21",
+   "fetched_at": "2026-10-14T18:00:50+00:00",
+   "first_seen": "2026-10-14T18:00:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_892026": {
+   "id": "aluehallitus/2026-09-08",
+   "date": "2026-09-08",
+   "stage": "minutes",
+   "hash": "98506850f06a351a",
+   "fetched_at": "2026-10-14T18:01:26+00:00",
+   "first_seen": "2026-10-14T18:01:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Pelastuslautakunta/Kokous_892026": {
+   "id": "pelastuslautakunta/2026-09-08",
+   "date": "2026-09-08",
+   "stage": "minutes",
+   "hash": "9535b59d820e9cba",
+   "fetched_at": "2026-10-14T18:01:46+00:00",
+   "first_seen": "2026-10-14T18:01:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nationalspraringksnaumlmnden/Kokous_792026": {
+   "id": "nationalspraksnamnden/2026-09-07",
+   "date": "2026-09-07",
+   "stage": "minutes",
+   "hash": "a5d859b019a103c0",
+   "fetched_at": "2026-10-14T18:01:59+00:00",
+   "first_seen": "2026-10-14T18:01:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_292026": {
+   "id": "nuorisovaltuusto/2026-09-02",
+   "date": "2026-09-02",
+   "stage": "minutes",
+   "hash": "101224618c9610fc",
+   "fetched_at": "2026-10-14T18:02:22+00:00",
+   "first_seen": "2026-10-14T18:02:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_292026": {
+   "id": "vammaisneuvosto/2026-09-02",
+   "date": "2026-09-02",
+   "stage": "minutes",
+   "hash": "9ccbefe645f759ff",
+   "fetched_at": "2026-10-14T18:03:05+00:00",
+   "first_seen": "2026-10-14T18:03:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Monikulttuurisuusasiain_neuvottelukunta/Kokous_192026": {
+   "id": "monikulttuurisuusasiain-neuvottelukunta/2026-09-01",
+   "date": "2026-09-01",
+   "stage": "minutes",
+   "hash": "d24043d3e3fb0da9",
+   "fetched_at": "2026-10-14T18:03:59+00:00",
+   "first_seen": "2026-10-14T18:03:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_2782026": {
+   "id": "vanhusneuvosto/2026-08-27",
+   "date": "2026-08-27",
+   "stage": "minutes",
+   "hash": "b8efc1b0954dbc30",
+   "fetched_at": "2026-10-14T18:07:31+00:00",
+   "first_seen": "2026-10-14T18:07:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Laumlhidemokratia_ja_osallisuuslautakunta/Kokous_2582026": {
+   "id": "lahidemokratia-ja-osallisuuslautakunta/2026-08-25",
+   "date": "2026-08-25",
+   "stage": "minutes",
+   "hash": "ca67a24bddd1c888",
+   "fetched_at": "2026-10-14T18:10:14+00:00",
+   "first_seen": "2026-10-14T18:10:14+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1982026": {
+   "id": "tarkastuslautakunta/2026-08-19",
+   "date": "2026-08-19",
+   "stage": "minutes",
+   "hash": "8e95e622adfdf52c",
+   "fetched_at": "2026-10-14T18:16:52+00:00",
+   "first_seen": "2026-10-14T18:16:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_652026": {
+   "id": "tarkastuslautakunta/2026-05-06",
+   "date": "2026-05-06",
+   "stage": "minutes",
+   "hash": "b5d607e6f772682c",
+   "fetched_at": "2026-10-14T18:56:17+00:00",
+   "first_seen": "2026-10-14T18:56:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Edunvalvontajaosto/Kokous_742026": {
+   "id": "edunvalvontajaosto/2026-04-07",
+   "date": "2026-04-07",
+   "stage": "minutes",
+   "hash": "7960352fe4291af2",
+   "fetched_at": "2026-10-14T19:10:40+00:00",
+   "first_seen": "2026-10-14T19:10:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_142026": {
+   "id": "tarkastuslautakunta/2026-04-01",
+   "date": "2026-04-01",
+   "stage": "minutes",
+   "hash": "b947b36b69b56df6",
+   "fetched_at": "2026-10-14T19:11:24+00:00",
+   "first_seen": "2026-10-14T19:11:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_3132026": {
+   "id": "aluehallitus/2026-03-31",
+   "date": "2026-03-31",
+   "stage": "minutes",
+   "hash": "c127d21b79e14b81",
+   "fetched_at": "2026-10-14T19:12:30+00:00",
+   "first_seen": "2026-10-14T19:12:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Laumlhidemokratia_ja_osallisuuslautakunta/Kokous_2432026": {
+   "id": "lahidemokratia-ja-osallisuuslautakunta/2026-03-24",
+   "date": "2026-03-24",
+   "stage": "minutes",
+   "hash": "a8f49f07a6178fc8",
+   "fetched_at": "2026-10-14T19:12:47+00:00",
+   "first_seen": "2026-10-14T19:12:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Pelastuslautakunta/Kokous_1832026": {
+   "id": "pelastuslautakunta/2026-03-18",
+   "date": "2026-03-18",
+   "stage": "minutes",
+   "hash": "794302f74b02a182",
+   "fetched_at": "2026-10-14T19:13:12+00:00",
+   "first_seen": "2026-10-14T19:13:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_1632026": {
+   "id": "aluevaltuusto/2026-03-16",
+   "date": "2026-03-16",
+   "stage": "minutes",
+   "hash": "1f7016dc29f4517a",
+   "fetched_at": "2026-10-14T19:13:25+00:00",
+   "first_seen": "2026-10-14T19:13:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_1232026": {
+   "id": "vanhusneuvosto/2026-03-12",
+   "date": "2026-03-12",
+   "stage": "minutes",
+   "hash": "4ae62fac07260f0e",
+   "fetched_at": "2026-10-14T19:13:39+00:00",
+   "first_seen": "2026-10-14T19:13:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1132026": {
+   "id": "tarkastuslautakunta/2026-03-11",
+   "date": "2026-03-11",
+   "stage": "minutes",
+   "hash": "bee31bde183bc545",
+   "fetched_at": "2026-10-14T19:13:50+00:00",
+   "first_seen": "2026-10-14T19:13:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_1032026": {
+   "id": "nuorisovaltuusto/2026-03-10",
+   "date": "2026-03-10",
+   "stage": "minutes",
+   "hash": "3baf16cb67a49b4f",
+   "fetched_at": "2026-10-14T19:14:09+00:00",
+   "first_seen": "2026-10-14T19:14:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_1032026": {
+   "id": "vammaisneuvosto/2026-03-10",
+   "date": "2026-03-10",
+   "stage": "minutes",
+   "hash": "1a9466c2a0a886bc",
+   "fetched_at": "2026-10-14T19:14:19+00:00",
+   "first_seen": "2026-10-14T19:14:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nationalspraringksnaumlmnden/Kokous_432026": {
+   "id": "nationalspraksnamnden/2026-03-04",
+   "date": "2026-03-04",
+   "stage": "minutes",
+   "hash": "bceb6eae5664bd9a",
+   "fetched_at": "2026-10-14T19:14:26+00:00",
+   "first_seen": "2026-10-14T19:14:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_332026": {
+   "id": "aluehallitus/2026-03-03",
+   "date": "2026-03-03",
+   "stage": "minutes",
+   "hash": "d7d9b50eabefd9e2",
+   "fetched_at": "2026-10-14T19:14:58+00:00",
+   "first_seen": "2026-10-14T19:14:58+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Edunvalvontajaosto/Kokous_1322026": {
+   "id": "edunvalvontajaosto/2026-02-13",
+   "date": "2026-02-13",
+   "stage": "minutes",
+   "hash": "fae70fbbf9eeb4e6",
+   "fetched_at": "2026-10-14T19:15:05+00:00",
+   "first_seen": "2026-10-14T19:15:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_1222026": {
+   "id": "nuorisovaltuusto/2026-02-12",
+   "date": "2026-02-12",
+   "stage": "minutes",
+   "hash": "ecd96b4023750c56",
+   "fetched_at": "2026-10-14T19:15:25+00:00",
+   "first_seen": "2026-10-14T19:15:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_1222026": {
+   "id": "vanhusneuvosto/2026-02-12",
+   "date": "2026-02-12",
+   "stage": "minutes",
+   "hash": "ac1f70d38b7120e8",
+   "fetched_at": "2026-10-14T19:15:41+00:00",
+   "first_seen": "2026-10-14T19:15:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1122026": {
+   "id": "tarkastuslautakunta/2026-02-11",
+   "date": "2026-02-11",
+   "stage": "minutes",
+   "hash": "09ce70cb96d64557",
+   "fetched_at": "2026-10-14T19:15:50+00:00",
+   "first_seen": "2026-10-14T19:15:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1022026": {
+   "id": "aluehallitus/2026-02-10",
+   "date": "2026-02-10",
+   "stage": "minutes",
+   "hash": "670f3d97933ced01",
+   "fetched_at": "2026-10-14T19:16:18+00:00",
+   "first_seen": "2026-10-14T19:16:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Laumlhidemokratia_ja_osallisuuslautakunta/Kokous_1022026": {
+   "id": "lahidemokratia-ja-osallisuuslautakunta/2026-02-10",
+   "date": "2026-02-10",
+   "stage": "minutes",
+   "hash": "921ecb3d9f1e3788",
+   "fetched_at": "2026-10-14T19:16:27+00:00",
+   "first_seen": "2026-10-14T19:16:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Monikulttuurisuusasiain_neuvottelukunta/Kokous_1022026": {
+   "id": "monikulttuurisuusasiain-neuvottelukunta/2026-02-10",
+   "date": "2026-02-10",
+   "stage": "minutes",
+   "hash": "0ec68707e8a48733",
+   "fetched_at": "2026-10-14T19:16:40+00:00",
+   "first_seen": "2026-10-14T19:16:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nationalspraringksnaumlmnden/Kokous_1022026": {
+   "id": "nationalspraksnamnden/2026-02-10",
+   "date": "2026-02-10",
+   "stage": "minutes",
+   "hash": "2aacf0b79aee486b",
+   "fetched_at": "2026-10-14T19:16:45+00:00",
+   "first_seen": "2026-10-14T19:16:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Pelastuslautakunta/Kokous_522026": {
+   "id": "pelastuslautakunta/2026-02-05",
+   "date": "2026-02-05",
+   "stage": "minutes",
+   "hash": "5e714b169f9e2f08",
+   "fetched_at": "2026-10-14T19:16:52+00:00",
+   "first_seen": "2026-10-14T19:16:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_522026": {
+   "id": "vammaisneuvosto/2026-02-05",
+   "date": "2026-02-05",
+   "stage": "minutes",
+   "hash": "c5231cd3d8fa91fa",
+   "fetched_at": "2026-10-14T19:17:08+00:00",
+   "first_seen": "2026-10-14T19:17:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_222026": {
+   "id": "aluevaltuusto/2026-02-02",
+   "date": "2026-02-02",
+   "stage": "minutes",
+   "hash": "406b5bbc33664c12",
+   "fetched_at": "2026-10-14T19:17:38+00:00",
+   "first_seen": "2026-10-14T19:17:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2012026": {
+   "id": "aluehallitus/2026-01-20",
+   "date": "2026-01-20",
+   "stage": "minutes",
+   "hash": "0d7365ba4b720298",
+   "fetched_at": "2026-10-14T19:18:16+00:00",
+   "first_seen": "2026-10-14T19:18:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1412026": {
+   "id": "tarkastuslautakunta/2026-01-14",
+   "date": "2026-01-14",
+   "stage": "minutes",
+   "hash": "43da1984d7aed8f8",
+   "fetched_at": "2026-10-14T19:18:29+00:00",
+   "first_seen": "2026-10-14T19:18:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Laumlhidemokratia_ja_osallisuuslautakunta/Kokous_1312026": {
+   "id": "lahidemokratia-ja-osallisuuslautakunta/2026-01-13",
+   "date": "2026-01-13",
+   "stage": "minutes",
+   "hash": "ed4969cccf7c6e28",
+   "fetched_at": "2026-10-14T19:18:42+00:00",
+   "first_seen": "2026-10-14T19:18:42+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nationalspraringksnaumlmnden/Kokous_1212026": {
+   "id": "nationalspraksnamnden/2026-01-12",
+   "date": "2026-01-12",
+   "stage": "minutes",
+   "hash": "e728b6b996409694",
+   "fetched_at": "2026-10-14T19:18:59+00:00",
+   "first_seen": "2026-10-14T19:18:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_17122025": {
+   "id": "vanhusneuvosto/2025-12-17",
+   "date": "2025-12-17",
+   "stage": "minutes",
+   "hash": "8bbed32c57e01dc6",
+   "fetched_at": "2026-10-14T19:19:21+00:00",
+   "first_seen": "2026-10-14T19:19:21+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_16122025": {
+   "id": "aluehallitus/2025-12-16",
+   "date": "2025-12-16",
+   "stage": "minutes",
+   "hash": "2ac81c2732cd1f74",
+   "fetched_at": "2026-10-14T19:20:01+00:00",
+   "first_seen": "2026-10-14T19:20:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Pelastuslautakunta/Kokous_16122025": {
+   "id": "pelastuslautakunta/2025-12-16",
+   "date": "2025-12-16",
+   "stage": "minutes",
+   "hash": "682720b8e7dff651",
+   "fetched_at": "2026-10-14T19:20:13+00:00",
+   "first_seen": "2026-10-14T19:20:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluevaalilautakunta/Kokous_11122025": {
+   "id": "aluevaalilautakunta/2025-12-11",
+   "date": "2025-12-11",
+   "stage": "minutes",
+   "hash": "3255b945f3d5d780",
+   "fetched_at": "2026-10-14T19:20:18+00:00",
+   "first_seen": "2026-10-14T19:20:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_11122025": {
+   "id": "vammaisneuvosto/2025-12-11",
+   "date": "2025-12-11",
+   "stage": "minutes",
+   "hash": "05222789a4765de9",
+   "fetched_at": "2026-10-14T19:20:31+00:00",
+   "first_seen": "2026-10-14T19:20:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nationalspraringksnaumlmnden/Kokous_10122025": {
+   "id": "nationalspraksnamnden/2025-12-10",
+   "date": "2025-12-10",
+   "stage": "minutes",
+   "hash": "2b814f76aa538894",
+   "fetched_at": "2026-10-14T19:20:48+00:00",
+   "first_seen": "2026-10-14T19:20:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_10122025": {
+   "id": "tarkastuslautakunta/2025-12-10",
+   "date": "2025-12-10",
+   "stage": "minutes",
+   "hash": "4262879a372a7f24",
+   "fetched_at": "2026-10-14T19:21:02+00:00",
+   "first_seen": "2026-10-14T19:21:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_9122025": {
+   "id": "aluevaltuusto/2025-12-09",
+   "date": "2025-12-09",
+   "stage": "minutes",
+   "hash": "ea5f2432f9ea8ea4",
+   "fetched_at": "2026-10-14T19:21:27+00:00",
+   "first_seen": "2026-10-14T19:21:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Edunvalvontajaosto/Kokous_5122025": {
+   "id": "edunvalvontajaosto/2025-12-05",
+   "date": "2025-12-05",
+   "stage": "minutes",
+   "hash": "eaba92ed1881365c",
+   "fetched_at": "2026-10-14T19:21:42+00:00",
+   "first_seen": "2026-10-14T19:21:42+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_3122025": {
+   "id": "nuorisovaltuusto/2025-12-03",
+   "date": "2025-12-03",
+   "stage": "minutes",
+   "hash": "bfd5322f752806d3",
+   "fetched_at": "2026-10-14T19:21:59+00:00",
+   "first_seen": "2026-10-14T19:21:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Laumlhidemokratia_ja_osallisuuslautakunta/Kokous_2122025": {
+   "id": "lahidemokratia-ja-osallisuuslautakunta/2025-12-02",
+   "date": "2025-12-02",
+   "stage": "minutes",
+   "hash": "55f88586be2e5048",
+   "fetched_at": "2026-10-14T19:22:07+00:00",
+   "first_seen": "2026-10-14T19:22:07+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Monikulttuurisuusasiain_neuvottelukunta/Kokous_2122025": {
+   "id": "monikulttuurisuusasiain-neuvottelukunta/2025-12-02",
+   "date": "2025-12-02",
+   "stage": "minutes",
+   "hash": "c150cc0075940bf6",
+   "fetched_at": "2026-10-14T19:22:20+00:00",
+   "first_seen": "2026-10-14T19:22:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_25112025": {
+   "id": "aluehallitus/2025-11-25",
+   "date": "2025-11-25",
+   "stage": "minutes",
+   "hash": "fde4f34b84e2c227",
+   "fetched_at": "2026-10-14T19:23:02+00:00",
+   "first_seen": "2026-10-14T19:23:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_19112025": {
+   "id": "vanhusneuvosto/2025-11-19",
+   "date": "2025-11-19",
+   "stage": "minutes",
+   "hash": "dab2c7c383f92d14",
+   "fetched_at": "2026-10-14T19:23:16+00:00",
+   "first_seen": "2026-10-14T19:23:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_13112025": {
+   "id": "vammaisneuvosto/2025-11-13",
+   "date": "2025-11-13",
+   "stage": "minutes",
+   "hash": "fd90b270ff42076f",
+   "fetched_at": "2026-10-14T19:23:30+00:00",
+   "first_seen": "2026-10-14T19:23:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nationalspraringksnaumlmnden/Kokous_12112025": {
+   "id": "nationalspraksnamnden/2025-11-12",
+   "date": "2025-11-12",
+   "stage": "minutes",
+   "hash": "8622ed6ee0e75cfe",
+   "fetched_at": "2026-10-14T19:23:43+00:00",
+   "first_seen": "2026-10-14T19:23:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Pelastuslautakunta/Kokous_12112025": {
+   "id": "pelastuslautakunta/2025-11-12",
+   "date": "2025-11-12",
+   "stage": "minutes",
+   "hash": "333a0353b487ee35",
+   "fetched_at": "2026-10-14T19:23:55+00:00",
+   "first_seen": "2026-10-14T19:23:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Edunvalvontajaosto/Kokous_10112025": {
+   "id": "edunvalvontajaosto/2025-11-10",
+   "date": "2025-11-10",
+   "stage": "minutes",
+   "hash": "6111f4bf4d0b7a7b",
+   "fetched_at": "2026-10-14T19:24:06+00:00",
+   "first_seen": "2026-10-14T19:24:06+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_10112025": {
+   "id": "nuorisovaltuusto/2025-11-10",
+   "date": "2025-11-10",
+   "stage": "minutes",
+   "hash": "2ef3f569fa56ee1f",
+   "fetched_at": "2026-10-14T19:24:24+00:00",
+   "first_seen": "2026-10-14T19:24:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Monikulttuurisuusasiain_neuvottelukunta/Kokous_4112025": {
+   "id": "monikulttuurisuusasiain-neuvottelukunta/2025-11-04",
+   "date": "2025-11-04",
+   "stage": "minutes",
+   "hash": "60cc1f44e0d68ecc",
+   "fetched_at": "2026-10-14T19:24:37+00:00",
+   "first_seen": "2026-10-14T19:24:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_29102025": {
+   "id": "tarkastuslautakunta/2025-10-29",
+   "date": "2025-10-29",
+   "stage": "minutes",
+   "hash": "5c5d95af6cec9d66",
+   "fetched_at": "2026-10-14T19:24:46+00:00",
+   "first_seen": "2026-10-14T19:24:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_28102025": {
+   "id": "aluehallitus/2025-10-28",
+   "date": "2025-10-28",
+   "stage": "minutes",
+   "hash": "c6c59f784e271ca5",
+   "fetched_at": "2026-10-14T19:25:12+00:00",
+   "first_seen": "2026-10-14T19:25:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Laumlhidemokratia_ja_osallisuuslautakunta/Kokous_28102025": {
+   "id": "lahidemokratia-ja-osallisuuslautakunta/2025-10-28",
+   "date": "2025-10-28",
+   "stage": "minutes",
+   "hash": "6687e77ddcd52745",
+   "fetched_at": "2026-10-14T19:25:22+00:00",
+   "first_seen": "2026-10-14T19:25:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_27102025": {
+   "id": "aluevaltuusto/2025-10-27",
+   "date": "2025-10-27",
+   "stage": "minutes",
+   "hash": "3803babb9958e1a8",
+   "fetched_at": "2026-10-14T19:25:45+00:00",
+   "first_seen": "2026-10-14T19:25:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_15102025": {
+   "id": "tarkastuslautakunta/2025-10-15",
+   "date": "2025-10-15",
+   "stage": "minutes",
+   "hash": "88fd5d6b638c751a",
+   "fetched_at": "2026-10-14T19:25:55+00:00",
+   "first_seen": "2026-10-14T19:25:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_15102025": {
+   "id": "vanhusneuvosto/2025-10-15",
+   "date": "2025-10-15",
+   "stage": "minutes",
+   "hash": "ff42fac2b4beef1f",
+   "fetched_at": "2026-10-14T19:26:11+00:00",
+   "first_seen": "2026-10-14T19:26:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_9102025": {
+   "id": "nuorisovaltuusto/2025-10-09",
+   "date": "2025-10-09",
+   "stage": "minutes",
+   "hash": "46a8518f744ed1e1",
+   "fetched_at": "2026-10-14T19:26:22+00:00",
+   "first_seen": "2026-10-14T19:26:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_9102025": {
+   "id": "vammaisneuvosto/2025-10-09",
+   "date": "2025-10-09",
+   "stage": "minutes",
+   "hash": "8fb2c6f91943547c",
+   "fetched_at": "2026-10-14T19:26:33+00:00",
+   "first_seen": "2026-10-14T19:26:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Monikulttuurisuusasiain_neuvottelukunta/Kokous_8102025": {
+   "id": "monikulttuurisuusasiain-neuvottelukunta/2025-10-08",
+   "date": "2025-10-08",
+   "stage": "minutes",
+   "hash": "78ba5da3832ffb6f",
+   "fetched_at": "2026-10-14T19:26:42+00:00",
+   "first_seen": "2026-10-14T19:26:42+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_7102025": {
+   "id": "aluehallitus/2025-10-07",
+   "date": "2025-10-07",
+   "stage": "minutes",
+   "hash": "9c3652a69b24b3bb",
+   "fetched_at": "2026-10-14T19:27:25+00:00",
+   "first_seen": "2026-10-14T19:27:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nationalspraringksnaumlmnden/Kokous_7102025": {
+   "id": "nationalspraksnamnden/2025-10-07",
+   "date": "2025-10-07",
+   "stage": "minutes",
+   "hash": "5616fb95e6339f35",
+   "fetched_at": "2026-10-14T19:27:32+00:00",
+   "first_seen": "2026-10-14T19:27:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Pelastuslautakunta/Kokous_7102025": {
+   "id": "pelastuslautakunta/2025-10-07",
+   "date": "2025-10-07",
+   "stage": "minutes",
+   "hash": "41c39663bd6c275f",
+   "fetched_at": "2026-10-14T19:27:39+00:00",
+   "first_seen": "2026-10-14T19:27:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluevaalilautakunta/Kokous_2592025": {
+   "id": "aluevaalilautakunta/2025-09-25",
+   "date": "2025-09-25",
+   "stage": "minutes",
+   "hash": "66c1461d51725c84",
+   "fetched_at": "2026-10-14T19:27:47+00:00",
+   "first_seen": "2026-10-14T19:27:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Laumlhidemokratia_ja_osallisuuslautakunta/Kokous_2492025": {
+   "id": "lahidemokratia-ja-osallisuuslautakunta/2025-09-24",
+   "date": "2025-09-24",
+   "stage": "minutes",
+   "hash": "76ee36e4822e378b",
+   "fetched_at": "2026-10-14T19:27:57+00:00",
+   "first_seen": "2026-10-14T19:27:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2392025": {
+   "id": "aluehallitus/2025-09-23",
+   "date": "2025-09-23",
+   "stage": "minutes",
+   "hash": "4fdb64c78f21ec3c",
+   "fetched_at": "2026-10-14T19:28:24+00:00",
+   "first_seen": "2026-10-14T19:28:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nationalspraringksnaumlmnden/Kokous_1692025": {
+   "id": "nationalspraksnamnden/2025-09-16",
+   "date": "2025-09-16",
+   "stage": "minutes",
+   "hash": "0c739bfa49abec23",
+   "fetched_at": "2026-10-14T19:28:32+00:00",
+   "first_seen": "2026-10-14T19:28:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_1592025": {
+   "id": "aluevaltuusto/2025-09-15",
+   "date": "2025-09-15",
+   "stage": "minutes",
+   "hash": "81f02f506e3405ad",
+   "fetched_at": "2026-10-14T19:28:51+00:00",
+   "first_seen": "2026-10-14T19:28:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Edunvalvontajaosto/Kokous_492025": {
+   "id": "edunvalvontajaosto/2025-09-04",
+   "date": "2025-09-04",
+   "stage": "minutes",
+   "hash": "293994a38253795b",
+   "fetched_at": "2026-10-14T19:29:05+00:00",
+   "first_seen": "2026-10-14T19:29:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Pelastuslautakunta/Kokous_392025": {
+   "id": "pelastuslautakunta/2025-09-03",
+   "date": "2025-09-03",
+   "stage": "minutes",
+   "hash": "aede275ce9f0f745",
+   "fetched_at": "2026-10-14T19:29:17+00:00",
+   "first_seen": "2026-10-14T19:29:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_392025": {
+   "id": "tarkastuslautakunta/2025-09-03",
+   "date": "2025-09-03",
+   "stage": "minutes",
+   "hash": "d94ff3d82f6a312f",
+   "fetched_at": "2026-10-14T19:29:26+00:00",
+   "first_seen": "2026-10-14T19:29:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Laumlhidemokratia_ja_osallisuuslautakunta/Kokous_2682025": {
+   "id": "lahidemokratia-ja-osallisuuslautakunta/2025-08-26",
+   "date": "2025-08-26",
+   "stage": "minutes",
+   "hash": "26889eb96a45a2eb",
+   "fetched_at": "2026-10-14T19:29:37+00:00",
+   "first_seen": "2026-10-14T19:29:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2082025": {
+   "id": "tarkastuslautakunta/2025-08-20",
+   "date": "2025-08-20",
+   "stage": "minutes",
+   "hash": "666e4d435e26bb17",
+   "fetched_at": "2026-10-14T19:29:59+00:00",
+   "first_seen": "2026-10-14T19:29:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1982025": {
+   "id": "aluehallitus/2025-08-19",
+   "date": "2025-08-19",
+   "stage": "minutes",
+   "hash": "8ce2b11483fadea6",
+   "fetched_at": "2026-10-14T19:30:21+00:00",
+   "first_seen": "2026-10-14T19:30:21+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1762025": {
+   "id": "aluehallitus/2025-06-17",
+   "date": "2025-06-17",
+   "stage": "minutes",
+   "hash": "06d51f2976c0f00c",
+   "fetched_at": "2026-10-14T19:30:44+00:00",
+   "first_seen": "2026-10-14T19:30:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_962025": {
+   "id": "aluevaltuusto/2025-06-09",
+   "date": "2025-06-09",
+   "stage": "minutes",
+   "hash": "baec2e94bce06fb0",
+   "fetched_at": "2026-10-14T19:31:09+00:00",
+   "first_seen": "2026-10-14T19:31:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1882026": {
+   "id": "aluehallitus/2026-08-18",
+   "date": "2026-08-18",
+   "stage": "minutes",
+   "hash": "fed332185e1a75e2",
+   "fetched_at": "2026-10-15T01:14:40+00:00",
+   "first_seen": "2026-10-15T01:14:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_1662026": {
+   "id": "aluehallitus/2026-06-16",
+   "date": "2026-06-16",
+   "stage": "minutes",
+   "hash": "d033f68397b62b86",
+   "fetched_at": "2026-10-15T01:14:57+00:00",
+   "first_seen": "2026-10-15T01:14:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_1562026": {
+   "id": "aluevaltuusto/2026-06-15",
+   "date": "2026-06-15",
+   "stage": "minutes",
+   "hash": "71d8e692343caf24",
+   "fetched_at": "2026-10-15T01:15:07+00:00",
+   "first_seen": "2026-10-15T01:15:07+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Pelastuslautakunta/Kokous_1162026": {
+   "id": "pelastuslautakunta/2026-06-11",
+   "date": "2026-06-11",
+   "stage": "minutes",
+   "hash": "0e11377ce7abf614",
+   "fetched_at": "2026-10-15T01:15:17+00:00",
+   "first_seen": "2026-10-15T01:15:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_1062026": {
+   "id": "tarkastuslautakunta/2026-06-10",
+   "date": "2026-06-10",
+   "stage": "minutes",
+   "hash": "de5fc4da2751ca6f",
+   "fetched_at": "2026-10-15T01:15:24+00:00",
+   "first_seen": "2026-10-15T01:15:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_962026": {
+   "id": "nuorisovaltuusto/2026-06-09",
+   "date": "2026-06-09",
+   "stage": "minutes",
+   "hash": "54805ba1b2c266d1",
+   "fetched_at": "2026-10-15T01:15:32+00:00",
+   "first_seen": "2026-10-15T01:15:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nationalspraringksnaumlmnden/Kokous_162026": {
+   "id": "nationalspraksnamnden/2026-06-01",
+   "date": "2026-06-01",
+   "stage": "minutes",
+   "hash": "21dafb7afce485ab",
+   "fetched_at": "2026-10-15T01:15:39+00:00",
+   "first_seen": "2026-10-15T01:15:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2652026": {
+   "id": "aluehallitus/2026-05-26",
+   "date": "2026-05-26",
+   "stage": "minutes",
+   "hash": "4fc2e3c5276e7eaf",
+   "fetched_at": "2026-10-15T01:16:03+00:00",
+   "first_seen": "2026-10-15T01:16:03+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Laumlhidemokratia_ja_osallisuuslautakunta/Kokous_2652026": {
+   "id": "lahidemokratia-ja-osallisuuslautakunta/2026-05-26",
+   "date": "2026-05-26",
+   "stage": "minutes",
+   "hash": "edb3f0868baae7b5",
+   "fetched_at": "2026-10-15T01:16:10+00:00",
+   "first_seen": "2026-10-15T01:16:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2052026": {
+   "id": "tarkastuslautakunta/2026-05-20",
+   "date": "2026-05-20",
+   "stage": "minutes",
+   "hash": "27e582132784e340",
+   "fetched_at": "2026-10-15T01:16:17+00:00",
+   "first_seen": "2026-10-15T01:16:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Edunvalvontajaosto/Kokous_1952026": {
+   "id": "edunvalvontajaosto/2026-05-19",
+   "date": "2026-05-19",
+   "stage": "minutes",
+   "hash": "10e3f925279bdf70",
+   "fetched_at": "2026-10-15T01:16:24+00:00",
+   "first_seen": "2026-10-15T01:16:24+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Monikulttuurisuusasiain_neuvottelukunta/Kokous_1952026": {
+   "id": "monikulttuurisuusasiain-neuvottelukunta/2026-05-19",
+   "date": "2026-05-19",
+   "stage": "minutes",
+   "hash": "16647d3ef9b32276",
+   "fetched_at": "2026-10-15T01:16:31+00:00",
+   "first_seen": "2026-10-15T01:16:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto/Kokous_1852026": {
+   "id": "aluevaltuusto/2026-05-18",
+   "date": "2026-05-18",
+   "stage": "minutes",
+   "hash": "c4bfbdcf54c4f214",
+   "fetched_at": "2026-10-15T01:16:48+00:00",
+   "first_seen": "2026-10-15T01:16:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto/Kokous_1252026": {
+   "id": "nuorisovaltuusto/2026-05-12",
+   "date": "2026-05-12",
+   "stage": "minutes",
+   "hash": "b900782d99c950de",
+   "fetched_at": "2026-10-15T01:16:59+00:00",
+   "first_seen": "2026-10-15T01:16:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto/Kokous_752026": {
+   "id": "vanhusneuvosto/2026-05-07",
+   "date": "2026-05-07",
+   "stage": "minutes",
+   "hash": "9a9206775a05a4f8",
+   "fetched_at": "2026-10-15T01:17:10+00:00",
+   "first_seen": "2026-10-15T01:17:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto/Kokous_552026": {
+   "id": "vammaisneuvosto/2026-05-05",
+   "date": "2026-05-05",
+   "stage": "minutes",
+   "hash": "ba2067665247add4",
+   "fetched_at": "2026-10-15T01:17:20+00:00",
+   "first_seen": "2026-10-15T01:17:20+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2842026": {
+   "id": "aluehallitus/2026-04-28",
+   "date": "2026-04-28",
+   "stage": "minutes",
+   "hash": "7ebba165ca1ddede",
+   "fetched_at": "2026-10-15T01:17:40+00:00",
+   "first_seen": "2026-10-15T01:17:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Pelastuslautakunta/Kokous_2842026": {
+   "id": "pelastuslautakunta/2026-04-28",
+   "date": "2026-04-28",
+   "stage": "minutes",
+   "hash": "bc8ac2f43cae89bc",
+   "fetched_at": "2026-10-15T01:17:47+00:00",
+   "first_seen": "2026-10-15T01:17:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_2242026": {
+   "id": "tarkastuslautakunta/2026-04-22",
+   "date": "2026-04-22",
+   "stage": "minutes",
+   "hash": "86cdb8f79d00b29f",
+   "fetched_at": "2026-10-15T01:17:52+00:00",
+   "first_seen": "2026-10-15T01:17:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Laumlhidemokratia_ja_osallisuuslautakunta/Kokous_2142026": {
+   "id": "lahidemokratia-ja-osallisuuslautakunta/2026-04-21",
+   "date": "2026-04-21",
+   "stage": "minutes",
+   "hash": "b99eacd27679003d",
+   "fetched_at": "2026-10-15T01:18:01+00:00",
+   "first_seen": "2026-10-15T01:18:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Nationalspraringksnaumlmnden/Kokous_2142026": {
+   "id": "nationalspraksnamnden/2026-04-21",
+   "date": "2026-04-21",
+   "stage": "minutes",
+   "hash": "e353d61983e4da75",
+   "fetched_at": "2026-10-15T01:18:10+00:00",
+   "first_seen": "2026-10-15T01:18:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Aluevaalilautakunta/Kokous_8102026": {
+   "id": "aluevaalilautakunta/2026-10-08",
+   "date": "2026-10-08",
+   "stage": "minutes",
+   "hash": "7bf08478cc7a5b10",
+   "fetched_at": "2026-10-19T01:08:30+00:00",
+   "first_seen": "2026-10-19T01:08:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://vakehyva.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta/Kokous_8102026": {
+   "id": "tarkastuslautakunta/2026-10-08",
+   "date": "2026-10-08",
+   "stage": "minutes",
+   "hash": "07aba78730d5c195",
+   "fetched_at": "2026-10-19T01:08:37+00:00",
+   "first_seen": "2026-10-19T01:08:37+00:00",
+   "parser_version": "0.1.0"
+  }
+ },
+ "last_run": "2026-10-26T01:18:30+00:00"
+}

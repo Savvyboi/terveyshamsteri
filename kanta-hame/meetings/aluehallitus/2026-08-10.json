@@ -1,0 +1,1533 @@
+{
+ "id": "aluehallitus/2026-08-10",
+ "region": "kanta-hame",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2026-08-10",
+ "stage": "minutes",
+ "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026241",
+ "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026241.PDF",
+ "time": "09:07 - 13:07",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "259",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026241-1",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026241-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää todeta kokouksen lailliseksi ja päätösvaltaiseksi.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallituksen kokouskutsusta on säädetty hallintosäännön 139 §:ssä. Hyvinvointialueesta annetun lain 108 §:n 2 momentin mukaan aluehallitus on päätösvaltainen, kun yli puolet jäsenistä on läsnä."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluehallitus päättää todeta kokouksen lailliseksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "260",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026241-2",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026241-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää valita kaksi jäsentä tarkastamaan tämän kokouksen pöytäkirjan.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hallintosäännön 159 §:n mukaan pöytäkirja tarkastetaan toimielimen päättämällä tavalla. Pöytäkirja voidaan allekirjoittaa ja tarkastaa sähköisesti.\n\nAluehallituksen pöytäkirjan tarkastaa kaksi kullakin kerralla tähän tehtävään valittua hallituksen jäsentä, jollei aluehallitus jonkin asian kohdalla toisin päätä. Tällä kertaa tarkastusvuorossa ovat Tarja Filatov ja Pasi Honkanen (varalla Eero Pura)."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluehallitus päättää valita kaksi jäsentä tarkastamaan tämän kokouksen pöytäkirjan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "261",
+   "title": "Kokouksen työjärjestyksen hyväksyminen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026241-3",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026241-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää hyväksyä tämän kokouksen työjärjestyksen.",
+   "decision": "Aluehallitus päätti käsitellä asiat esityslistan mukaisessa järjestyksessä.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluehallitus päättää hyväksyä tämän kokouksen työjärjestyksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti käsitellä asiat esityslistan mukaisessa järjestyksessä."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "262",
+   "title": "Ilmoitusasiat",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026241-4",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026241-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä tiedoksi esitetyt ilmoitusasiat.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.\n\nAapo Reima poistui kokouksesta ja palasi kokoukseen tämän asian käsittelyn aikana ennen päätöksentekoa.\n\nTalousjohtaja Sampo Salo ja rahoitus- ja investointijohtaja Petrus Kukkonen olivat kokouksessa paikalla asiantuntijoina tämän asian käsittelyn aikana.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallituksen aamukouluasiat\n\n- Talouden ajankohtaiskatsaus / talousjohtaja Sampo Salo, rahoitus- ja investointijohtaja Petrus Kukkonen"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä tiedoksi esitetyt ilmoitusasiat."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen.\n\nAapo Reima poistui kokouksesta ja palasi kokoukseen tämän asian käsittelyn aikana ennen päätöksentekoa.\n\nTalousjohtaja Sampo Salo ja rahoitus- ja investointijohtaja Petrus Kukkonen olivat kokouksessa paikalla asiantuntijoina tämän asian käsittelyn aikana."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "263",
+   "title": "Hankintasuunnitelman täydennys",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026241-5",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026241-5.PDF",
+   "diary_number": "15548/02.08.00/2025",
+   "preparer": "hankinta- ja laadunhallintajohtaja Jouni Sakomaa",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää hyväksyä hankintasuunnitelman täydennyksen liitteen mukaisesti.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "hankinta- ja laadunhallintajohtaja Jouni Sakomaa"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Kanta-Hämeen hyvinvointialueen hallintosäännön 10 §:n aluehallitus päättää kaikista tavara- ja palveluhankinnoista sekä hankintaoikaisuista, ellei toimivaltaa ole hallintosäännössä osoitettu muulle toimielimelle tai viranhaltijalle\n\nAluehallitus on aikaisemmin hyväksynyt voimassa olevan hankintasuunnitelman (AH 15.12.2025 § 453). Hankintasuunnitelmaa täydennetään tarvittaessa vuoden aikana siten, että suunnitelma vastaa mahdollisimman hyvin tiedossa olevia hankintatarpeita ja mahdollistaa hankintojen tarkoituksenmukaisen toteuttamisen.\n\nNyt käsiteltävänä olevassa täydennyksessä hankintasuunnitelmaan esitetään lisättäväksi hankintoja erityisesti hankintalain muutosten edellyttämien kilpailutusten osalta. Lisäksi suunnitelmaa on täydennetty ikäihmisten palveluiden hankintojen osalta, joissa palvelutarpeen kehitys ja toiminnan järjestämistavat ovat edellyttäneet täsmennyksiä suunniteltuihin hankintoihin.\n\nAluehallitus on käsitellyt toukokuussa 2026 hankintasuunnitelman täydennystä (AH 11.5.2026 § 197). Tuolloin osasta esitettyjä hankintoja on hankinnan ennakoitu arvo ollut vielä selvityksessä, tässä nyt käsittelyssä olevassa hankintasuunnitelman täydennyksessä puuttuneet ennakoidut arvot on lisätty.\n\nHankintasuunnitelman täydennykseen sisältyvät hankinnat ovat sellaisia, joiden kilpailuttaminen edellyttää hankintasuunnitelmaan sisällyttämistä tai joiden toteuttaminen muutoin edellyttää suunnitelman tarkentamista.\n\nHankintasuunnitelman aikaisemmin hyväksytyt muut osat säilyvät ennallaan. Aluehallitus päättää edelleen erikseen niistä hankinnoista, joita se haluaa seurata tai käsitellä tarkemmin.\n\nHankintasuunnitelman täydennys on liitteenä. Aluehallituksen päätökset 15.12.2025 (§ 453) ja 11.5.2026 (§ 197) ovat oheismateriaalina.\n\n(S-AK)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 10.5 § 15 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää hyväksyä hankintasuunnitelman täydennyksen liitteen mukaisesti."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Asiaote / hankinta- ja laadunhallintajohtaja Jouni Sakomaa, toimialajohtajat"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Hankintasuunnitelman täydennys 10.8.2026",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026241-5-419562.PDF"
+    },
+    {
+     "title": "Oheismateriaali 1 Aluehallituksen päätös 15.12.2025 § 453",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026241-5-423382.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Aluehallituksen päätös 11.5.2026 § 197",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026241-5-423384.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "264",
+   "title": "Kanta-Hämeen hyvinvointialueen ohjeet vieraanvaraisuudesta, edustamisesta, lahjoista ja muistamisesta",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026241-6",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026241-6.PDF",
+   "diary_number": "7683/00.01.02.00/2026",
+   "preparer": "hallintojohtaja Katja Tommiska",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää\n\nhyväksyä ohjeet Kanta-Hämeen hyvinvointialueen vieraanvaraisuudesta, edustamisesta, lahjoista ja muistamisesta\n\nviedä ohjeen tiedoksi aluevaltuustolle\n\nvaltuuttaa hallintojohtajan tekemään tarvittaessa vähäisiä teknisluonteisia korjauksia ohjeeseen.",
+   "decision": "Aluehallitus hyväksyi hyvinvointialuejohtajan muutetun päätösesityksen.",
+   "discussion": "Keskustelun aikana Pasi Honkanen esitti muutosta ohjeen kohtaan 4.1 seuraavasti:\n\n”4.1. Vieraanvaraisuuden osoittaminen\n\ntoinen pallukka muotoon:\n\nruoka- ja tarjoilukuluista päättää tilaisuuden vastaava johtaja tai lähijohtaja. Alkoholitarjoilu ei kuulu hyvinvointialueen edustustilaisuuksiin eikä muihinkaan tilaisuuksiin.”\n\nPuheenjohtaja totesi Pasi Honkasen muutosesityksen raukeavan kannattamattomana.\n\nHyvinvointialuejohtajan muutettu päätösesitys:\n\nAluehallitus päättää palauttaa asian uudelleen valmisteltavaksi.",
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hyvään hallintoon kuuluu, että kansalaiset voivat luottaa viranomaisen ja viranhaltijan toimintaan sekä riippumattomuuteen ja avoimuuteen. Tasapuolisuus ja viranhaltijan puolueettomuus luovat perustan viranomaistoiminnalle. Toiminnan on oltava puolueetonta ja sen on myös näytettävä puolueettomalta sidosryhmien ja kansalaisten näkökulmasta. Kun esimerkiksi yksityinen yritys on tarjoamassa hyvinvointialueen henkilöstölle tai luottamushenkilölle matkaa, matkan hyväksyttävyyden arvioinnissa keskeisenä arviointikriteerinä on se, voiko etuuden hyväksyminen tai lahjan vastaanottaminen olla omiaan heikentämään luottamusta viranomaistoiminnan tasapuolisuuteen.\n\nTämän ohjeen tarkoituksena on vastata kysymyksiin ja käytännön tilanteisiin siitä, mitä asioita Kanta-Hämeen hyvinvointialueen viranhaltijoiden, henkilöstön ja luottamushenkilöiden on otettava huomioon, jos heille tarjotaan etuja, lahjoja tai vieraanvaraisuutta sidos-ryhmäyhteistyössä tai muussa viranomaistoiminnassa. Lähtökohtana on henkilön oma arvio toiminnan hyväksyttävyydestä. Vaikka etujen vastaanottaminen ei täyttäisi rikoksen tunnusmerkistöä, saattaa tulkinnanvaraisten etujen vastaanottaminen aiheuttaa negatiivista julkisuutta.\n\nOhjeessa annetaan myös periaatteet hyvinvointialueen varojen käytöstä vieraanvaraisuuden tai huomaavaisuuden osoittamiseksi. Lisäksi ohje sisältää ohjeistuksen koskien muistamista.\n\nOhje koskee Kanta-Hämeen hyvinvointialueen virka- ja työsopimussuhteista henkilöstöä sekä luottamushenkilöitä. Toimialojen johto voi tarvittaessa antaa tarkentavia ohjeita omalle henkilöstölleen. Lisäksi ohje koskee hyvinvointialueen konsernin tytäryhteisöjä soveltuvin osin.\n\nOhjeistuksen lähteenä on käytetty soveltaen Kuntaliiton vuonna 2017 kunnille laatimaa suositusta siitä, mitä seikkoja kunnan henkilöstön ja luottamushenkilön on otettava huomioon, jos heille tarjotaan etuja, lahjoja tai vieraanvaraisuutta sidosryhmäyhteistyössä tai muussa toiminnassa (Yleiskirje 17/2017).\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 10.5 § 33 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\nhyväksyä ohjeet Kanta-Hämeen hyvinvointialueen vieraanvaraisuudesta, edustamisesta, lahjoista ja muistamisesta\n\nviedä ohjeen tiedoksi aluevaltuustolle\n\nvaltuuttaa hallintojohtajan tekemään tarvittaessa vähäisiä teknisluonteisia korjauksia ohjeeseen."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Keskustelun aikana Pasi Honkanen esitti muutosta ohjeen kohtaan 4.1 seuraavasti:\n\n”4.1. Vieraanvaraisuuden osoittaminen\n\ntoinen pallukka muotoon:\n\nruoka- ja tarjoilukuluista päättää tilaisuuden vastaava johtaja tai lähijohtaja. Alkoholitarjoilu ei kuulu hyvinvointialueen edustustilaisuuksiin eikä muihinkaan tilaisuuksiin.”\n\nPuheenjohtaja totesi Pasi Honkasen muutosesityksen raukeavan kannattamattomana.\n\nHyvinvointialuejohtajan muutettu päätösesitys:\n\nAluehallitus päättää palauttaa asian uudelleen valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi hyvinvointialuejohtajan muutetun päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Luonnos_Kanta-Hämeen hyvinvointialueen ohjeet vieraanvaraisuudesta edustamisesta lahjoista ja muistamisesta",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026241-6-414168.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "265",
+   "title": "Tietohallinnon yhteistoimintaneuvottelujen päättyminen, neuvottelutulos ja virkojen perustaminen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026241-7",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026241-7.PDF",
+   "diary_number": "7752/01.04.00/2026",
+   "preparer": "kehitys- ja ICT-johtaja Toni Suihko, HR-erityisasiantuntija Pilvi Rounala",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää\n\nmerkitä neuvottelutuloksen tiedoksi\n\nperustaa kaksi (2) ICT-palvelupäällikön virkaa.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "kehitys- ja ICT-johtaja Toni Suihko, HR-erityisasiantuntija Pilvi Rounala"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluehallitus päätti 30.3.2026 § 136 valtuuttaa hyvinvointialuejohtajan toteuttamaan tarvittavat toimenpiteet sovellustuen siirtämiseksi hyvinvointialueen omaksi toiminnaksi. Tämän perusteella hyvinvointialuejohtaja päätti 28.4.2026 (§ 16/2026) käynnistää konserni- ja tukipalveluiden toimialan tietohallintoa koskevat yhteistoimintaneuvottelut tuotannollis-taloudellisilla perusteilla. Muutoksen tavoitteena oli siirtää sovellustuki kokonaisuudessaan hyvinvointialueen omaksi toiminnaksi, parantaa toiminnan ohjattavuutta ja yhtenäistää toimintamalleja, vahvistaa ICT-omavaraisuutta, lisätä käyttäjä- ja prosessituntemusta sekä saavuttaa pitkällä aikavälillä kustannussäästöjä. Yhteistoimintaneuvottelut käynnistettiin, koska toiminnan uudelleenjärjestelyjen arvioitiin vaikuttavan henkilöstön työtehtäviin, työnkuviin, palvelussuhteen ehtoihin, työyhteisöihin ja esihenkilöjärjestelyihin. Neuvottelujen tavoitteena ei ollut henkilöstön vähentäminen, vaan tietohallinnon rakenteen ja tehtävien uudistaminen siten, että sovellustuen tuottaminen omana toimintana voidaan järjestää tarkoituksenmukaisesti.\n\nHyvinvointialuejohtajan päätöksen mukaisesti hyvinvointialue kävi konserni- ja tukipalveluiden toimialan tietohallintoa koskevat yhteistoimintaneuvottelut henkilöstöä edustavien ammattijärjestöjen kanssa. Neuvottelut alkoivat 5.5.2026, ja niitä käytiin yhteensä viisi neuvottelukertaa. Neuvotteluissa käsiteltiin yhteensä 42 asiakohtaa ja neuvottelujen piirissä oli noin 40 työntekijää. Neuvottelut käytiin hyvässä yhteistyössä työnantajan ja henkilöstön edustajien välillä. Neuvottelut päättyivät 5.6.2026, minkä jälkeen sovitut toimenpiteet käynnistettiin välittömästi. Kaikille irtisanotuille tarjottiin mahdollisuutta jatkaa työskentelyä tietohallinnossa.\n\nOsana neuvottelutuloksen toimeenpanoa konserni- ja tukipalveluiden toimialan tietohallintoon esitetään perustettavaksi kaksi (2) ICT-palvelupäällikön virkaa. ICT-palvelupäällikkö toimii vastuullisena viranhaltijana järjestelmä- ja palvelukokonaisuuksien ohjauksessa, palvelutuotannon johtamisessa, toimittajahallinnassa, hankintoihin liittyvässä valmistelussa sekä muutosten hallinnassa. Virkaan kuuluu viranomaisorganisaation toimintaan liittyviä päätöksentekotehtäviä, jotka edellyttävät julkisen vallan käyttöä. Lisäksi virkaan sisältyy lähijohtajavastuu, ja Kanta-Hämeen hyvinvointialueella lähijohtajat toimivat virkasuhteessa. Virkojen perustaminen ei lisää henkilöstömäärää eikä kustannuksia, sillä kahdessa työsuhteessa hoidettavat tehtävät siirretään osaksi virkatehtäviä. Virat on huomioitu tietohallinnon henkilöstö- ja taloussuunnittelussa.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 10 § ja 38 §."
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\nmerkitä neuvottelutuloksen tiedoksi\n\nperustaa kaksi (2) ICT-palvelupäällikön virkaa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / HR-erityisasiantuntija Pilvi Rounala, kehitys- ja ICT-johtaja Toni Suihko"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Uuden viran perustaminen_lomake",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026241-7-423031.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "266",
+   "title": "Eron myöntäminen luottamustoimesta ja tarkastuslautakunnan täydentäminen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026241-8",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026241-8.PDF",
+   "diary_number": "8370/00.00.01/2026",
+   "preparer": "hallintojohtaja Katja Tommiska",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää esittää aluevaltuustolle, että\n\naluevaltuusto myöntää Miia Antinille eron tarkastuslautakunnan jäsenen luottamustoimesta\n\naluevaltuusto valitsee tarkastuslautakuntaan Miia Antinin tilalle uuden jäsenen jäljellä olevaksi toimikaudeksi",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Miia Antin on pyytänyt 10.6.2026 saapuneella kirjeellä eroa tarkastuslautakunnan jäsenen luottamustoimesta vedoten ajankäytöllisiin syihin.\n\nHyvinvointialueesta annetun lain (611/2021) 75.3 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin. Aluevaltuusto myöntää eron valtuutetulle ja varavaltuutetulle.\n\nKanta-Hämeen hyvinvointialueen hallintosäännön 73 §:n mukaan aluevaltuusto asettaa tarkastuslautakunnan toimikauttaan vastaavaksi ajaksi. Tarkastuslautakunnassa on 13 jäsentä, joista aluevaltuusto valitsee lautakunnan puheenjohtajan ja varapuheenjohtajan. Puheenjohtajan ja varapuheenjohtajan tulee olla valtuutettuja ja jäsenistä vähintään viiden tulee olla valtuutettuja tai varavaltuutettuja. Jokaisella jäsenellä on henkilökohtainen varajäsen.\n\nHyvinvointialuelain 80 §:ssä säädetään vaalikelpoisuudesta tarkastuslautakuntaan. Vaalikelpoinen tarkastuslautakuntaan ei ole:\n\n1) aluehallituksen jäsen;\n\n2) henkilö, joka on aluehallituksen jäsenen tai hyvinvointialuejohtajan hallintolain 28 §:n 2 ja 3 momentissa tarkoitettu läheinen;\n\n3) henkilö, joka on hyvinvointialueen tai hyvinvointialueen määräysvallassa olevan yhteisön tai säätiön palveluksessa taikka toimitusjohtajana tai siihen rinnastuvassa asemassa hyvinvointialueen määräysvallassa olevassa yhteisössä tai säätiössä;\n\n4) henkilö, joka ei ole vaalikelpoinen aluehallitukseen.\n\nHyvinvointialuelain 78.1 §:n mukaan vaalikelpoinen aluehallitukseen on henkilö, joka on vaalikelpoinen aluevaltuustoon, ei kuitenkaan:\n\n1) välittömästi aluehallituksen alaisena toimiva hyvinvointialueen palveluksessa oleva henkilö;\n\n2) hyvinvointialueen määräysvallassa olevan yhteisön tai säätiön palveluksessa oleva henkilö, joka toimii 1 kohdassa tarkoitettuun tehtävään rinnastuvassa tehtävässä;\n\n3) hyvinvointialueen palveluksessa oleva henkilö, joka lautakunnan esittelijänä tai muuten vastaa aluehallituksen käsiteltäviksi tulevien asioiden valmistelusta;\n\n4) henkilö, joka on hallituksen tai siihen rinnastettavan toimielimen jäsenenä taikka johtavassa ja vastuullisessa tehtävässä tai siihen rinnastettavassa asemassa liiketoimintaa harjoittavassa yhteisössä tai säätiössä, jos kysymyksessä on sellainen yhteisö, jolle aluehallituksessa tavanomaisesti käsiteltävien asioiden ratkaisu on omiaan tuottamaan olennaista hyötyä tai vahinkoa.\n\nEdellä mainittua 78.1 §:n 4 kohtaa ei sovelleta hyvinvointialueen määräysvallassa olevan yhteisön hallituksen tai siihen rinnastettavan toimielimen jäseneen.\n\nHyvinvointialueesta annetun lain 78.2 §:n mukaan henkilöstön edunvalvonnasta asianomaisella hyvinvointialueella huolehtivan yhteisön hallituksen tai siihen rinnastettavan toimielimen puheenjohtaja ei ole vaalikelpoinen aluehallitukseen. Vaalikelpoinen ei myöskään ole henkilö, joka yhteisön neuvottelijana tai muussa vastaavassa ominaisuudessa vastaa sen edunvalvonnasta.\n\nVaalikelpoinen tarkastuslautakuntaan ei ole myöskään aluehallituksen alaisen jaoston jäsen tai varajäsen. Yksilöasioiden jaosto on Kanta-Hämeen hyvinvointialueen hallintosäännön 15 §:n mukaan aluehallituksen alainen jaosto. Hyvinvointialuelain 35 §:n perusteella aluehallituksen jaostoihin sovelletaan, mitä aluehallituksesta säädetään. Toimielinten varajäseniin sovelletaan mitä varsinaisista jäsenistä säädetään. Hyvinvointialuelain 80 §:ssä säädetään, että aluehallituksen jäsenyydestä seuraa vaalikelvottomuus tarkastuslautakuntaan, mikä koskee myös aluehallituksen alaisen jaoston jäsentä ja varajäsentä.\n\nLisäksi toimielimen jäsenten valinnassa on otettava huomioon tasa-arvolain (609/1986) vaatimukset. Tasa-arvolain 4a §:n mukaan hyvinvointialueen, hyvinvointiyhtymän ja hyvinvointialueiden välisenyhteistoiminnan toimielimissä sekä kunnallisissa ja kuntien välisen yhteistoiminnan toimielimissä, lukuun ottamatta aluevaltuustoja ja kunnanvaltuustoja, tulee olla sekä naisia että miehiä kumpiakin vähintään 40 prosenttia, jollei erityisestä syystä muuta johdu. Tasa-arvovaatimus koskee erikseen varsinaisia jäseniä ja varajäseniä.\n\nTarkastuslautakunnan kokoonpano on liitteenä.\n\n(JS)\n\nToimivallan peruste\nLaki hyvinvointialueesta (611/2021) 75.3 §, Kanta-Hämeen hyvinvointialueen hallintosääntö 73 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää esittää aluevaltuustolle, että\n\naluevaltuusto myöntää Miia Antinille eron tarkastuslautakunnan jäsenen luottamustoimesta\n\naluevaltuusto valitsee tarkastuslautakuntaan Miia Antinin tilalle uuden jäsenen jäljellä olevaksi toimikaudeksi"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösesitys / aluevaltuusto"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Tarkastuslautakunnan kokoonpano",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026241-8-423248.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "267",
+   "title": "Vastaus hyvinvointialuealoitteeseen koskien Oma Hämeen strategian toteutumista Hattulassa",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026241-9",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026241-9.PDF",
+   "diary_number": "3466/00.01.03.00/2026",
+   "preparer": "tulosaluejohtaja, perusterveydenhuollon avopalvelut Tiina Merivuori",
+   "presenter": null,
+   "proposal": "Aluehallitus\n\n1. päättää hyväksyä hyvinvointialuealoitteeseen annetun vastauksen omalta osaltaan ja\n\n2. esittää aluevaltuustolle, että se hyväksyy vastauksen hyvinvointialuealoitteeseen ja toteaa lisäksi, ettei aloite anna aihetta muihin kuin vastauksessa mainittuihin toimenpiteisiin ja että hyvinvointialuealoite on käsitelty loppuun.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Terveyden ja toimintakyvyn edistämisen lautakunta 26.05.2026 § 42"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "tulosaluejohtaja, perusterveydenhuollon avopalvelut Tiina Merivuori"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Pirkko Kivikari on tehnyt 8.3.2026 hyvinvointialuealoitteen, jossa esitetään, että Kanta-Hämeen hyvinvointialue toteuttaisi Oma Hämeen hyväksymää palvelustrategiaa siten, että se toteutuu myös Hattulassa. Aloitteessa korostetaan Parolan terveysaseman toiminnan jatkumisen merkitystä lähipalvelujen saatavuuden, alueen asukkaiden hyvinvoinnin sekä Oma Hämeen strategisten painopisteiden toteutumisen näkökulmasta.\n\nAloitteessa tuodaan esiin huoli siitä, että strategisilla linjauksilla ei olisi tosiasiallista merkitystä päätöksenteossa, mikäli toimivia lähipalveluja lakkautetaan.\n\nAloitteen tekijää on informoitu käsittelyn etenemisestä 7.4.2026. Hänelle on annettu mahdollisuus tulla kuulluksi ja alla oleva vastaus on toimitettu hänelle nähtäväksi 23.4.2026. Aloitteen tekijä ei ole kommentoinut vastausta pyydetyssä määräajassa (10.5.2026 mennessä).\n\nSelostus ja arviointi\n\nAluevaltuusto on hyväksynyt lokakuussa 2025 Oma Hämeen uuden strategiakauden painopisteet, jotka ohjaavat hyvinvointialueen toimintaa strategiakaudella 2026–2029. Aluevaltuuston hyväksymät strategiset painopisteet ovat:\n\n- asiakkuus keskiössä\n\n- kestävä uudistaminen\n\n- strategisten kumppanuuksien kehittäminen sekä\n\n- ennaltaehkäisyssä onnistuminen.\n\n- kaikkia näitä läpileikkaavana huomioidaan vaikuttavuus.\n\nStrategia on hyvinvointialueen ylin toiminnallinen ohjausasiakirja ja sitä sovelletaan päätöksenteossa, palvelujen suunnittelussa sekä toiminnan kehittämisessä koko hyvinvointialueen laajuisesti.\n\nStrategia ei määrittele yksittäisten palveluyksiköiden sijaintia tai olemassaoloa, vaan ohjaa sitä, millaisilla palveluratkaisuilla ja toimintamalleilla hyvinvointialueen asukkaiden palvelutarpeisiin vastataan vaikuttavasti, yhdenvertaisesti ja taloudellisesti kestävällä tavalla. Palveluratkaisuja tarkastellaan osana kokonaisuutta, huomioiden väestön tarpeet, hoitoon pääsy, palvelujen laatu ja vaikuttavuus, henkilöstöresurssit sekä taloudelliset reunaehdot.\n\nKanta-Hämeen hyvinvointialueen aluevaltuusto hyväksyi 9.4.2024 § 30 hyvinvointialueen palveluverkkosuunnitelman. Palveluverkkosuunnitelman mukaisesti palvelurakenne perustuu kiinteisiin, siirrettäviin ja etä- ja digipalveluihin. Palveluita tarjotaan palvelukeskuksissa, palvelupisteissä ja lähipalveluna, sekä etä- ja digitaalisina palveluina. Palvelupisteiden ja -keskusten arviointi tehtiin neljästä eri näkökulmasta, jotka ovat palveluiden saavutettavuus ja etäisyydet, henkilöstön saatavuus, toimipisteen kustannustehokkuus ja toimipisteen tekninen kunto.\n\nAloitteessa esiin nostettu lähipalvelujen saatavuus on keskeinen osa strategian asiakkuus- ja vaikuttavuuspainopisteitä. Hyvinvointialueen tavoitteena on turvata asukkaille oikea-aikainen ja tarkoituksenmukainen hoito ja palvelu, mikä voi toteutua eri tavoin eri alueilla. Tämä voi sisältää fyysisiä palvelupisteitä, liikkuvia palveluja sekä digitaalisia ja monikanavaisia ratkaisuja.\n\nHattulan alue on osa Oma Hämeen kokonaispalveluverkkoa, ja palvelujen kehittämistä arvioidaan osana koko hyvinvointialuetta. Mahdolliset muutokset palvelurakenteeseen perustuvat strategian toimeenpanoon, palvelustrategiaan sekä erillisiin vaikutusarvioihin, eivätkä ne merkitse strategian sivuuttamista. Päätöksenteossa tavoitteena on varmistaa, että strategian linjaukset toteutuvat pitkäjänteisesti ja yhdenvertaisesti kaikkien kantahämäläisten hyväksi. Hattulan terveyspalvelujen järjestämistä tarkastellaan hyvinvointialueen 2027 talousarvion valmistelun yhteydessä.\n\nAluevaltuusto on strategian painopisteiden hyväksymisen yhteydessä korostanut strategian käytännön toimeenpanon merkitystä. Strategia kytketään palvelustrategiaan, talousarvioon, vuosittaisiin tavoitteisiin ja toiminnan seurantaan, jotta strategisilla linjauksilla on todellinen vaikutus päätöksentekoon ja palvelujen järjestämiseen.\n\nEdellä esitetyn perusteella voidaan todeta, että näkemykset lähipalvelujen saatavuudesta ja strategian merkityksestä päätöksenteossa on huomioitu osana strategian toimeenpanoa, eikä aloite anna aihetta muihin toimenpiteisiin.\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 162 §\n\nTerveydenhuollon\n\ntoimialajohtajan"
+    },
+    {
+     "heading": "päätösesitys",
+     "text": "Terveyden ja toimintakyvyn edistämisen lautakunta\n\npäättää hyväksyä omalta osaltaan hyvinvointialuealoitteeseen annetun vastauksen ja esittää sen aluehallitukselle ja edelleen aluevaltuustollolle hyväksyttäväksi\n\ntoteaa omalta osaltaan hyvinvointialuealoitteen käsittelyn päättyneeksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Terveyden ja toimintakyvyn edistämisen lautakunta hyväksyi päätösesityksen.\n\nVille Viitanen poistui esteellisenä kokouksesta tämän asian käsittelyn ajaksi (yhteisöjäävi)."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Terveyden ja toimitakyvyn edistämisen lautakunnasta on tullut aluehallituksen ja edelleen aluevaltuuston käsiteltäväksi vastaus hyvinvointialuealoitteeseen koskien Oma Hämeen strategian toteutumista Hattulassa.\n\n(JL)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 162 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus\n\n1. päättää hyväksyä hyvinvointialuealoitteeseen annetun vastauksen omalta osaltaan ja\n\n2. esittää aluevaltuustolle, että se hyväksyy vastauksen hyvinvointialuealoitteeseen ja toteaa lisäksi, ettei aloite anna aihetta muihin kuin vastauksessa mainittuihin toimenpiteisiin ja että hyvinvointialuealoite on käsitelty loppuun."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösesitys / aluevaltuusto"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "268",
+   "title": "Vastaus valtuustoaloitteeseen koskien ikäihmisten neuvolatoiminnan kehittämistä ja sen käyttöönottoa seuraavalla valtuustokaudella Kanta-Hämeen hyvinvointialueella",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026241-10",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026241-10.PDF",
+   "diary_number": "734/00.01.03.00/2025",
+   "preparer": "hallintojohtaja Katja Tommiska",
+   "presenter": null,
+   "proposal": "Aluehallitus\n\npäättää hyväksyä valtuustoaloitteeseen annetun vastauksen omalta osaltaan ja\n\nesittää aluevaltuustolle, että se merkitsee valtuustoaloitteeseen saadun vastauksen tiedoksi ja toteaa lisäksi, ettei aloite anna aihetta muihin kuin vastauksessa mainittuihin toimenpiteisiin ja että valtuustoaloite on käsitelty loppuun.\n\nLisäksi aluehallitus toteaa, että Kanta-Hämeen hyvinvointialueen hallintosääntö tuntee toimenpidealoitteen ainoastaan aluevaltuuston kokouksiin liittyen (HS 120 §), minkä takia toimenpidealoite ei ole muissa toimielimissä kuten aluehallituksessa tai lautakunnissa käytettävissä.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": "Keskustelun aikana Johanna Häggman teki Eero Puran kannattamana seuraavan muutosesityksen:\n\n”Aluehallitus\n\nmerkitsee osaltaan tiedoksi saadun aloitevastauksen.\n\nesittää aluevaltuustolle, että se merkitsee valtuustoaloitteeseen saadun vastauksen tiedoksi ja päättää tehtävän ikäihmisten neuvolapalveluista Kanta-Hämeen mallin. Malli pilotoidaan hyvinvointialueella ja sen jälkeen päätetään ikäihmisten neuvolapalvelujen jatkosta. Lisäksi aluevaltuusto toteaa, että valtuustoaloite on käsitelty loppuun.”\n\nKoska oli tehty kannatettu muutosesitys, puheenjohtaja teki seuraavan äänestysesityksen: Ne, jotka kannattavat käsittelyn pohjana olevaa hyvinvointialuejohtajan esitystä äänestävät JAA ja ne, jotka kannattavat Johanna Häggmanin muutosesitystä, äänestävät EI. Puheenjohtaja esitti, että äänestys toimitetaan nimenhuutona. Puheenjohtajan esitykset hyväksyttiin.\n\nÄänestyksessä annettiin 10 JAA-ääntä (Alijärvi, Bitter, Filatov, Hellstén, Honkanen, Jormanainen, Lehkonen, Rautio, Vanttaja, Lepola) ja 3 EI-ääntä (Häggman, Pura, Reima). Puheenjohtaja totesi pohjaesityksen tulleen aluehallituksen päätökseksi.",
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluevaltuusto 27.05.2025 § 43"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Valtuuston kokouksessa 27.5.2025 on jätetty valtuustoaloite ikäihmisten neuvolatoiminnan kehittämisestä ja sen käyttöönotosta seuraavalla valtuustokaudella Kanta-Hämeen hyvinvointialueella.\n\nAloitteen on jättänyt keskustan valtuustoryhmä ja sen ovat allekirjoittaneet Seppo Kuparinen, Johanna Häggman, Eero Pura, Heini Ristavaara, Hannele Saari, Merja Taponen, Kristiina Ruuskanen, Leena Suojala ja Anne Eve.\n\nValtuustoaloite:\n\n”Oma Hämeen hyvinvointialueen palvelujen kehittäminen on hyväksytty strategian suuntaisesti seuraavasti: järjestetään vaikuttavat palvelut, autetaan sopivalle polulle ja osataan ennakoida toisiimme luottaen. Kanta Hämeen ikäihmisten määrä ja siihen liittyvä hoidon tarve sekä hoitoon käytettävä euromäärä tulee merkittävästi kasvamaan tulevaisuudessa. Näihin haasteisiin pystymme tehokkaimmin vaikuttamaan ennaltaehkäisevillä toimilla.\n\nNäihin tuleviin haasteisiin vastataan parhaiten strategiamme mukaisesti ennakoimalla. Ennalta ehkäisevällä ikäihmisten neuvolatoiminnalla tullaan säästämään kustannuksia, tullaan vähentämään ruuhkia erikoissairaanhoidossa sekä vähennetään potilaiden inhimillistä kärsimystä. Ennalta ehkäisevä toiminta, sairauden aikainen havaitseminen ja hoidon aloittaminen ajoissa, alentaa tunnetusti hoitoaikoja, vähentää ruuhkia muissa hoitopisteissä sekä säästää siten myös kustannuksia. Terveyden ja toimintakyvyn edistämisen lautakunta on myös ottanut kantaa ikäihmisten neuvolatoiminnan tärkeyteen lausunnossaan alueelliseen ikäihmisten hyvinvointisuunnitelmaan Kanta- Hämeen hyvinvointialueella.\n\nValtuustoaloitteenamme esitämme, että ikäihmisten neuvolatoiminnan suunnittelu ja toteutus tehdään seuraavan nyt alkavan uuden valtuustokauden aikana 2025-2028.\n\nRiihimäellä 27.5.2025\n\nKeskustan Valtuustoryhmä”"
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluevaltuusto päättää merkitä tiedoksi kokouksessa jätetyn valtuustoaloitteen ja lähettää sen aluehallitukselle valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nAluehallitus 09.06.2025 § 212"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluevaltuuston kokouksessa 27.5.2025 on jätetty valtuustoaloite koskien ikäihmisten neuvolatoiminnan kehittämistä ja sen käyttöönottoa seuraavalla valtuustokaudella Kanta-Hämeen hyvinvointialueella.\n\n(JS)"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä valtuustoaloitteen tiedoksi ja lähettää sen ikäihmisten palvelujen toimialalle valmisteltavaksi. Lautakuntakäsittelyä varten talous- ja henkilöstöpalvelut antavat arvionsa valtuustoaloitteen talous- ja henkilöstövaikutuksista."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nElämänkaarilautakunta 26.11.2025 § 64\n\n734/00.01.03.00/2025"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "asiakasohjauksen tulosaluejohtaja Annukka Kuismin\n\n\n\nkuntoutuksen tulosaluejohtaja Virpi Kröger\n\n\n\ntulosalueylihoitaja Auli Anttila\n\n\n\nkumppanuuspäällikkö Päivi Niiranen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Valtuuston kokouksessa 27.5.2025 Keskustan Valtuustoryhmä jätti valtuustoaloitteen ikäihmisten neuvolatoiminnan kehittämisestä ja sen käyttöönotosta seuraavalla valtuustokaudella Kanta-Hämeen hyvin-vointialueella. Aloitteen ovat allekirjoittaneet Seppo Kuparinen, Johanna Häggman, Eero Pura, Heini Ristavaara, Hannele Saari, Merja Taponen, Kristiina Ruuskanen, Leena Suojala ja Anne Eve.\n\nValtuustoaloitteessa todetaan:\n\n”Oma Hämeen hyvinvointialueen palvelujen kehittäminen on hyväksytty strategian suuntaisesti seuraavasti: järjestetään vaikuttavat palvelut, autetaan sopivalle polulle ja osataan ennakoida toisiimme luottaen. Kanta Hämeen ikäihmisten määrä ja siihen liittyvä hoidon tarve sekä hoitoon käytettävä euromäärä tulee merkittävästi kasvamaan tulevaisuudessa. Näihin haasteisiin pystymme tehokkaimmin vaikuttamaan ennaltaehkäisevillä toimilla.\n\nNäihin tuleviin haasteisiin vastataan parhaiten strategiamme mukaisesti ennakoimalla. Ennalta ehkäisevällä ikäihmisten neuvolatoiminnalla tullaan säästämään kustannuksia, tullaan vähentämään ruuhkia erikoissairaanhoidossa sekä vähennetään potilaiden inhimillistä kärsimystä. Ennalta ehkäisevä toiminta, sairauden aikainen havaitseminen ja hoidon aloittaminen ajoissa, alentaa tunnetusti hoitoaikoja, vähentää ruuhkia muissa hoitopisteissä sekä säästää siten myös kustannuksia. Terveyden ja toimintakyvyn edistämisen lautakunta on myös ottanut kantaa ikäihmisten neuvolatoiminnan tärkeyteen lausunnossaan alueelliseen ikäihmisten hyvinvointisuunnitelmaan Kanta- Hämeen hyvinvointialueella.\n\nValtuustoaloitteenamme esitämme, että ikäihmisten neuvolatoiminnan suunnittelu ja toteutus tehdään seuraavan nyt alkavan uuden valtuus-tokauden aikana 2025 - 2028.”\n\nAluehallitus käsitteli kokouksessaan 9.6.2025 § 212 em. valtuustoaloitetta ja päätti merkitä valtuustoaloitteen tiedoksi ja lähettää sen ikäihmisten palvelujen toimialalle valmisteltavaksi. Edelleen aluehallitus päätti, että lautakuntakäsittelyä varten talous- ja henkilöstöpalvelut antavat arvionsa valtuustoaloitteen talous- ja henkilöstövaikutuksista.\n\nVastine valtuutettujen jättämään valtuustoaloitteeseen ikäihmisten neuvolapalvelujen kehittämiseksi ja käyttöönottamiseksi seuraavalla valtuustokaudella\n\nValtuustoaloitetta on valmisteltu ikäihmisten palveluiden vs. toimialajohtajan ohjeen mukaisesti pohjautuen vuonna 2023 käsiteltyyn (aluevaltuusto 5.9.2023, § 79) vastaavaa palvelutoimintaa koskevan valtuustoaloitteen valmisteluun.\n\nLaissa ikääntyneen väestön toimintakyvyn tukemisesta sekä iäkkäiden sosiaali- ja terveyspalveluista (980/2012) 12 §:ssä säädetään Hyvinvointia edistävistä palveluista seuraavasti:\n\n”Hyvinvointialueen on järjestettävä ikääntyneen väestön hyvinvointia, terveyttä, toimintakykyä ja itsenäistä suoriutumista tukevia neuvontapalveluja.\n\nLisäksi hyvinvointialueen on tarjottava hyvinvointia, terveyttä, toimintakykyä ja itsenäistä suoriutumista tukevia terveystarkastuksia, vastaanottoja tai kotikäyntejä erityisesti niille ikääntyneeseen väestöön kuuluville, joiden elinoloihin tai elämäntilanteeseen arvioidaan tutkimustiedon tai yleisen elämänkokemuksen perusteella liittyvän palveluntarvetta lisääviä riskitekijöitä.\n\nEdellä 1 ja 2 momentissa tarkoitettuihin palveluihin on sisällytettävä:\n\n1) hyvinvoinnin, terveellisten elintapojen ja toimintakyvyn edistämiseen sekä sairauksien, tapaturmien ja onnettomuuksien ehkäisyyn tähtäävä ohjaus;\n\n2) ikääntyneen väestön terveyden ja toimintakyvyn heikkenemisestä aiheutuvien sosiaalisten ja terveydellisten ongelmien tunnistaminen ja niihin liittyvä varhainen tuki;\n\n3) sosiaalihuoltoa ja muuta sosiaaliturvaa koskeva ohjaus;\n\n4) sairaanhoitoa, monialaista kuntoutusta ja turvallista lääkehoitoa koskeva ohjaus; sekä\n\n5) ohjaus kunnassa ja hyvinvointialueella tarjolla olevien hyvinvointia, terveyttä, toimintakykyä ja itsenäistä suoriutumista edistävien palvelujen käyttöön.\n\nEdellä 1 momentissa tarkoitetussa neuvonnassa on kannustettava ikääntynyttä väestöä oman asumisensa ennakointiin ja itsenäistä asumista tukevien ratkaisujen toteuttamiseen.\n\nEdellä 1 ja 2 momentissa tarkoitetut palvelut voidaan järjestää ja tarjota ikääntyneen väestön neuvolatoimintana.”\n\nVuonna 2023 selvitettiin, että ikäihmisille kohdennettua neuvolatoimintaa oli monella hyvinvointialueella, mm. Pohjois-Karjalan, Pohjanmaan, Keski-Pohjanmaan ja Etelä-Savon hyvinvointialueilla. Sitä kehitettiin ja tutkittiin myös muutoin; esimerkiksi Turussa oli tuolloin pyydetty terveystarkastukseen 75-vuotiaat asukkaat, jotka eivät olleet julkisten palvelujen piirissä. Varsinais-Suomen hyvinvointialue on sittemmin ottanut käyttöönsä ikäneuvolapalvelut, jotka on kohdennettu kotona asuville 75 vuotta täyttäneille henkilöille, jotka eivät ole säännöllisen kotihoidon eivätkä omaishoidon piirissä.\n\nKanta-Hämeen hyvinvointialueella terveysasemat tarjoavat ikäihmisille samoja palveluja kuin muillekin väestöryhmille. Nykyisistä palveluista omaishoitajien terveystarkastukset suuntautuvat käytännössä pää-sääntöisesti ikäihmisiin. Vuonna 2023 valmistelusta todettiin, että mikäli halutaan toteuttaa ikääntyneisiin kohdennettuja tarkastuksia, tulee arvioida tarvittavien palveluiden määrää ja tarvittavaa resurssia. Vuoden 2023 valtuustoaloitteen valmistelussa terveyspalveluista todettiin, ettei nykyisillä resursseilla terveystarkastuksia voitu toteuttaa uusille asiakasryhmille.\n\nAloitetta koskien palvelutarvetta ja käytettävissä olevia henkilöstöresursseja on tarkastettu uudelleen syksyllä 2025, mutta tilanne on edelleen vuoden 2023 mukainen. Vaikka yksi ammattihenkilö tekisi viisi tarkastusta päivässä, huomioiden työpäivien lukumäärän 240 pv/tt/ v, tarvittaisiin 75–80-vuotiaiden asukkaiden tarkastamiseen vähintään 10 hoitajan työpanos.\n\nVuoden 2023 valtuustoaloitteen valmistelukeskustelussa nähtiin tärkeänä kolminapainen yhteistyö hyvinvointialueella aloitetta koskevan toiminnan näkökulmasta: avoterveydenhuollon palvelut, ikäihmisten asiakasohjaus ja kuntoutus. Yhteisesti oltiin sitä mieltä, että ikääntyneet ovat hyvin heterogeeninen ryhmä ja tämän vuoksi kohdentamattomat ikäryhmäkohtaiset tarkastukset eivät välttämättä ole tuloksekkainta ennaltaehkäisyä. Tärkeänä pidettiin sen pohdintaa, minkä tason preventioon pyritään. Esimerkiksi kuntoutuksen näkökulmana on toimintakyvyn näkökulma, ja tutkimusten perusteella on selvää, että toimintakyvyn ongelmat alkavat lisääntyä 75-ikävuoden jälkeen.\n\nLähde: Pitkälä K & Strandberg T, 2018, Sairauksien ehkäisy kannattaa vielä vanhanakin, Duodecim, Vuosikerta. 134, Nro 11, Sivut 1141-1148. https://helda.helsinki.fi/bitstream/handle/10138/237452/duo14362.pdf?sequence=1\n\nKoska ikääntyneen toimintakykyä uhkaavat \"geriatrian jättiläiset\": hauraus-raihnausoireyhtymä eli gerastenia, muistisairaudet, kaatumiset, osteoporoottiset murtumat, krooninen kipu ja inkontinenssi, olisi tärkeä tunnistaa nämä asiakkaat koko palveluketjussa. Tunnistamista tulee yhdenmukaistaa ja ottaa käyttöön yksinkertaisia tunnistamisen työkaluja sekä miettiä mitä ovat ne kohtaamiset, joissa ammattilaisten tulee erityisesti muistaa tunnistamisen tärkeys ja huomata arjessa pärjäämättömyyden ennusmerkit. Henkilöstön toimintakykyosaamista tulee lisätä ja sitä tulee tulevaisuudessa ylläpitää säännöllisellä koulutuksella.\n\nVuoden 2023 valmistelussa nähtiin tärkeänä se, että hyvinvointialueen asukkailla tulisi olla mahdollisuus sähköiseen terveystarkastukseen ja sähköiseen toimintakyvyn itsearviointiin, joka voisi tuottaa ammattilaisille tietoa asiakkaan omasta kokemuksesta toimintakyvystä. Tärkeää olisi myös taata niille asiakkaille mahdollisuus toimintakyvyn itsearviointiin, jotka eivät sähköisiä välineitä käytä. Yksilön toimintakyky on kokonaisvaltainen dynaaminen tila, joka koostuu terveydentilan sekä yksilön ja ympäristötekijöiden yhteisvaikutuksesta.\n\nLisäksi vuoden 2023 valtuustoaloitteen valmistelukeskusteluista viestittiin sen pohdinnan tärkeyttä, mitä hyvinvointialue tarjoaa, mikäli asiakkaalla todetaan terveystarkastuksessa jokin ongelma. Esimerkiksi hauraus-raihnausoireyhtymään voidaan vaikuttaa liikuntaharjoittelulla ja ravitsemusta tehostamalla. Tätä kautta voidaan myös ennaltaehkäistä kaatumisia. Kipuun, mielialaan ja inkontinenssiin voidaan myös vaikuttaa liikuntaharjoittelulla.\n\nYksittäinen terveystarkastus ei siis riitä, kun kyseessä on alkava tai edennyt gerastenia. Varhaisen ohjautumisen kuntoutukseen ja liikun-taan tulee toimia ja hyvinvointialueella tulee olla paitsi terveydenhoitajia myös muistihoitajia ja fysioterapeutteja vastaamaan tarkastuksista nouseviin tarpeisiin.\n\nLähde: Pitkälä K & Strandberg T, 2018, Sairauksien ehkäisy kannattaa vielä vanhanakin, Duodecim, Vuosikerta. 134, Nro 11, Sivut 1141-1148 . https://helda.helsinki.fi/bitstream/handle/10138/237452/duo14362.pdf?sequence=1\n\nVuoden 2023 valtuusaloitteen valmistelun aikana pyydettiin kannanotto vanhusneuvostolta ikäihmisten neuvolapalveluiden järjestämiseen. Vanhusneuvosto totesi 12.5.2023 puoltavansa tuolloin tehtyä valtuustoaloitetta ikäihmisten neuvolatoiminnan perustamiseksi ikäihmisten ennalta-ehkäisevänä sosiaali- ja terveydenhuollon palveluna koko Kanta-Hämeen alueella ja suositti sen toteuttamista.\n\nVastauksena vuoden 2023 valtuustoaloitteeseen monialainen valmisteluryhmä totesi, että huomiota tulee kiinnittää seuraaviin seikkoihin:\n\n- kohdentamattomista terveystarkastuksista ei ole näyttöä isommissa tutkimuksissa\n\n- haasteena on, että hyväkuntoiset ja itseään hyvin hoitavat hakeu-tuvat palvelun piiriin, mutta oikeasti sitä tarvitsevat eivät välttämättä aktiivisesti hakeudu palveluihin. Tässä korostuu tunnistaminen erilaisissa kohtaamisissa\n\n- ikäneuvolatarkastuksiin valittava ikäryhmä ja asiakkaiden tunnistaminen kannattaa miettiä siten, että resurssin kohdentaminen on mahdollisimman vaikuttavaa\n\n- avuksi sähköiset terveystarkastukset, kuntoutuksen ja sosiaalipalveluiden käyttämät mittarit, herätteenä myös palvelujen käyttö jne.\n\n- HVA:lla tarvittaisiin työkaluja, joilla asiakaskunnasta poimitaan hoidosta hyötyvät (esimerkkinä terveyshyötyarviotyökalu), jolloin hoito voidaan kohdentaa siitä eniten hyötyviin\n\n- neuvolatoiminnan lisäksi tulee miettiä ja rakentaa palvelupolut, joille asiakkaat tarkastuksilta huomioiden perusteella ohjataan.\n\nEdelleen todettiin, ettei ikäihmisten neuvolatoiminnan ei tarvitse olla pelkästään terveystarkastuksia, se voi olla myöskin monen erilaisen toimijan muodostama verkosto, jossa on erilaisia käytäntöjä, joilla pyritään tunnistamaan ikääntyneiden tilanteita ja kohdistamaan niihin sopivia interventioita, ohjausta ja neuvontaa sekä palveluita ennaltaehkäisevässä mielessä ikäihmisten hyvinvoinnin, terveyden ja kotona asumisen arjen tukemiseen.\n\nEdelleen todettiin, että ikäihmisten neuvolatoiminnan valmistelua on tarkoituksenmukaista jatkaa osana hyvinvointialueen talouden tasapainottamisohjelman toimeenpanoa. Varsinaiset päätökset asiasta tehdään valmistelun perusteella. Mikäli päätökset edellyttävät talousarviomäärä-rahaa, käsitellään asia osana normaalia vuotuista talousarvioprosessia.\n\nEm. valmistelu vuoden 2023 valtuustoaloitteeseen hyväksyttiin aluevaltuustossa ja asian käsittely päättyi. Sittemmin hyvinvointialueen talouden tasapainottamisohjelmassa eikä talousarvioissa 2024 - 2025 ole ollut esillä toiminnallisista ja taloudellisista syistä ikäneuvolatoiminnan perustamiseen liittyviä esityksiä tai määrärahoja.\n\nKanta-Hämeen hyvinvointialueella on jatkettu ikäihmisten ennaltaehkäisevien palveluiden osalta verkostomaista yhteistyötä ikääntyneiden tilanteiden tunnistamiseksi ja olemassa oleviin interventioihin ohjaamiseen niin perusterveydenhuollon avopalveluiden, kuntoutuksen ja ikäihmisten asiakasohjauksen osalta. Organisaatiossa ovat lisäksi lähteneet kehittymään asiakkaita varten erilaiset digitaaliset palvelut ja asiointimahdollisuudet, ohjauksen ja neuvonnan ensilinjat ja myöskin hyvinvointialueen moniammatillisen henkilöstön osaamista ja työkaluja on kehitetty mm. laajalla hyvinvoinnin ja terveyden edistämisen materiaalipaketin koostamisella intraan.\n\nKuntoutuspalveluissa on käytössä iäkkäiden ennalta ehkäisevän kuntoutuksen malli, jossa tunnistetaan varhaisia toimintakyvyn heikkenemisen merkkejä henkilöillä, joilla ei ole kotihoidon palveluita. Heidät ohjataan fysioterapeutin arvioon. Toimintamallissa iäkkään tilanteesta riippuen asiakas ohjataan liikuntatoimen tai kuntoutuspalveluiden voimatasapaino -ryhmään ja kartoitetaan mm. apuvälineiden tarpeita. Toimintamallin varhaiset tulokset näyttävät siltä, että toiminta on vaikuttavaa ja parantaa iäkkäiden toimintakykyä.\n\nHyvinvoinnin ja terveyden edistämisen vahvistamiseksi hyvinvointialueella on RRP2 -hankkeen avulla kehitetty Hyte-palveluohjauksen toimintamallia ja siihen liittyviä työkaluja, kuten esimerkiksi Hyvinvointisi tueksi -sivusto. Sivustolle on koottu kantahämäläisille tarkoitettuja hyvinvointia edistäviä palveluja ja toimintaa, joita järjestävät kunnat, järjestöt, seurakunnat ja hyvinvointialue.\n\nKanta-Hämeen hyvinvointialue tarjoaa asukkailleen, myös ikääntyneille, elintapaohjausta, joka sisältää ohjausta hyvinvoinnin, terveellisten elintapojen ja toimintakyvyn edistämiseen sekä sairauksien, tapaturmien ja onnettomuuksien ehkäisyyn.\n\nEnnaltaehkäisevää ja varhaista tukea edistävää tukea viedään parhaillaan eteenpäin edelleen kahden STM:n rahoittaman hankkeen kautta. Muisti-jälki - aivoterveyttä elämän varrelle hankkeessa kehitetään näyttöön perustuvaa FINGER-toimintaa alueella toimivaksi muistisairauksien ennalta-ehkäisyn toimintamalliksi. Hankkeen toimenpiteinä on esimerkiksi tiedottaminen, elintapaohjausryhmät ja riskitestit suuremmalle joukolle. Kohderyhmä on rajattu ikääntyneisiin ihmisiin. Ikä iloiten - selvästi eteenpäin -hankkeen tarkoituksena on kantahämäläisten ikääntyneiden (eläköityvät ja yli 65-vuotiaat) hyvinvoinnin ja terveyden edistäminen erityisesti ryhmissä, joita ei tavoiteta nykyisillä palveluilla. Hankkeessa lisätään eri toimijoiden yhteistyötä, luodaan varhaisen puuttumisen toimintamalli ja kehitetään ikääntyneiden elämän taitekohtiin ryhmäohjausta ja matalan kynnyksen kohtaamispaikkoja.\n\nToimialoilla nähdään edelleen toimivana ja taloudellisena ratkaisuna jatkaa verkostomaisen työn kehittämistä ja työkalujen tuottamista niin väestön ja ikääntyneiden kuin eri puolilla hyvinvointialuetta työskentelevien, ikääntyneitä kohtaavien ammattilaistan käyttöön.\n\nYhteenveto: Hyvinvointialueella ei ole taloudellisia mahdollisuuksia perustaa laaja-alaista ikäihmisten neuvolatoimintaa. Kohdentamattoman neuvolatoiminnan hyödyistä ei ole näyttöä. Hyvinvointialueella toimialojen ja tulosalueiden yhteistyönä panostetaan ikääntyneiden toimintakyvyn alenemisen riskien tunnistamiseen ja niihin puuttumiseen.\n\nTodetaan, että vanhusneuvosto käsittelee vastineen valtuustoaloitteeseen kokouksessaan 27.11.2025 ja toimittaa sen jälkeen lausuntonsa aluehallituksen käyttöön.\n\nToimivallan peruste Kanta-Hämeen hyvinvointialueen hallintosääntö 13.4 § kohta 4\n\nVs. toimialajohtajan/\n\nikäihmisten palvelut"
+    },
+    {
+     "heading": "päätösesitys",
+     "text": "Elämänkaarilautakunta\n\n1 .päättää hyväksyä omalta osaltaan valtuustoaloitteeseen annetun vas-tauksen ja esittää sen aluehallitukselle ja edelleen aluevaltuustolle hy-väksyttäväksi.\n\n2. toteaa omalta osaltaan valtuustoaloitteen käsittelyn päättyneeksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Elämänkaarilautakunta päätti hyväksyä päätösesityksen.\n\nTulosaluejohtaja Annukka Kuismin oli kokouksessa paikalla asiantuntijana tämän asian käsittelyn aikana ja hän poistui kokouksesta ennen päätöksentekoa."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösesitys / aluehallitus"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nTerveyden ja toimintakyvyn edistämisen lautakunta 26.11.2025 § 77"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "asiakasohjauksen tulosaluejohtaja Annukka Kuismin, kuntoutuksen tulosaluejohtaja Virpi Kröger, tulosalueylihoitaja Auli Anttila, kumppanuuspäällikkö Päivi Niiranen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluevaltuuston kokouksessa 27.5.2025 § 43 on jätetty valtuustoaloite koskien palvelusetelien käyttöönottoa suun terveydenhuollossa.\n\nAluehallitus käsitteli kokouksessaan 9.6.2025 § 212 em. valtuustoaloitetta ja päätti merkitä valtuustoaloitteen tiedoksi ja lähettää sen ikäihmisten palvelujen toimialalle valmisteltavaksi. Edelleen aluehallitus päätti, että lautakuntakäsittelyä varten talous- ja henkilöstöpalvelut antavat arvionsa valtuustoaloitteen talous- ja henkilöstövaikutuksista.\n\nVastaus valtuustoaloitteeseen:\n\nValtuustoaloitetta on valmisteltu ikäihmisten palveluiden vs. toimialajohtajan ohjeen mukaisesti pohjautuen vuonna 2023 käsiteltyyn (aluevaltuusto 5.9.2023, § 79) vastaavaa palvelutoimintaa koskevan valtuustoaloitteen valmisteluun.\n\nLaissa ikääntyneen väestön toimintakyvyn tukemisesta sekä iäkkäiden sosiaali- ja terveyspalveluista (980/2012) 12 §:ssä säädetään Hyvinvointia edistävistä palveluista seuraavasti:\n\n”Hyvinvointialueen on järjestettävä ikääntyneen väestön hyvinvointia, terveyttä, toimintakykyä ja itsenäistä suoriutumista tukevia neuvontapalveluja.\n\nLisäksi hyvinvointialueen on tarjottava hyvinvointia, terveyttä, toimintakykyä ja itsenäistä suoriutumista tukevia terveystarkastuksia, vastaanottoja tai kotikäyntejä erityisesti niille ikääntyneeseen väestöön kuuluville, joiden elinoloihin tai elämäntilanteeseen arvioidaan tutkimustiedon tai yleisen elämänkokemuksen perusteella liittyvän palveluntarvetta lisääviä riskitekijöitä.\n\nEdellä 1 ja 2 momentissa tarkoitettuihin palveluihin on sisällytettävä:\n\n1) hyvinvoinnin, terveellisten elintapojen ja toimintakyvyn edistämiseen sekä sairauksien, tapaturmien ja onnettomuuksien ehkäisyyn tähtäävä ohjaus;\n\n2) ikääntyneen väestön terveyden ja toimintakyvyn heikkenemisestä aiheutuvien sosiaalisten ja terveydellisten ongelmien tunnistaminen ja niihin liittyvä varhainen tuki;\n\n3) sosiaalihuoltoa ja muuta sosiaaliturvaa koskeva ohjaus;\n\n4) sairaanhoitoa, monialaista kuntoutusta ja turvallista lääkehoitoa koskeva ohjaus; sekä\n\n5) ohjaus kunnassa ja hyvinvointialueella tarjolla olevien hyvinvointia, terveyttä, toimintakykyä ja itsenäistä suoriutumista edistävien palvelujen käyttöön.\n\nEdellä 1 momentissa tarkoitetussa neuvonnassa on kannustettava ikääntynyttä väestöä oman asumisensa ennakointiin ja itsenäistä asumista tukevien ratkaisujen toteuttamiseen.\n\nEdellä 1 ja 2 momentissa tarkoitetut palvelut voidaan järjestää ja tarjota ikääntyneen väestön neuvolatoimintana.”\n\nVuonna 2023 selvitettiin, että ikäihmisille kohdennettua neuvolatoimintaa oli monella hyvinvointialueella, mm. Pohjois-Karjalan, Pohjanmaan, Keski-Pohjanmaan ja Etelä-Savon hyvinvointialueilla. Sitä kehitettiin ja tutkittiin myös muutoin; esimerkiksi Turussa oli tuolloin pyydetty terveystarkastukseen 75-vuotiaat asukkaat, jotka eivät olleet julkisten palvelujen piirissä. Varsinais-Suomen hyvinvointialue on sittemmin ottanut käyttöönsä ikäneuvolapalvelut, jotka on kohdennettu kotona asuville 75 vuotta täyttäneille henkilöille, jotka eivät ole säännöllisen kotihoidon eivätkä omaishoidon piirissä.\n\nKanta-Hämeen hyvinvointialueella terveysasemat tarjoavat ikäihmisille samoja palveluja kuin muillekin väestöryhmille. Nykyisistä palveluista omaishoitajien terveystarkastukset suuntautuvat käytännössä pääsääntöisesti ikäihmisiin. Vuonna 2023 valmistelusta todettiin, että mikäli halutaan toteuttaa ikääntyneisiin kohdennettuja tarkastuksia, tulee arvioida tarvittavien palveluiden määrää ja tarvittavaa resurssia. Vuoden 2023 valtuustoaloitteen valmistelussa terveyspalveluista todettiin, ettei nykyisillä resursseilla terveystarkastuksia voitu toteuttaa uusille asiakasryhmille.\n\nAloitetta koskien palvelutarvetta ja käytettävissä olevia henkilöstöresursseja on tarkastettu uudelleen syksyllä 2025, mutta tilanne on edelleen vuoden 2023 mukainen. Vaikka yksi ammattihenkilö tekisi viisi tarkastusta päivässä, huomioiden työpäivien lukumäärän 240 pv/tt/v, tarvittaisiin 75–80-vuotiaiden asukkaiden tarkastamiseen vähintään 10 hoitajan työpanos.\n\nVuoden 2023 valtuustoaloitteen valmistelukeskustelussa nähtiin tärkeänä kolminapainen yhteistyö hyvinvointialueella aloitetta koskevan toiminnan näkökulmasta: avoterveydenhuollon palvelut, ikäihmisten asiakasohjaus ja kuntoutus. Yhteisesti oltiin sitä mieltä, että ikääntyneet ovat hyvin heterogeeninen ryhmä ja tämän vuoksi kohdentamattomat ikäryhmäkohtaiset tarkastukset eivät välttämättä ole tuloksekkainta ennaltaehkäisyä. Tärkeänä pidettiin sen pohdintaa, minkä tason preventioon pyritään. Esimerkiksi kuntoutuksen näkökulmana on toimintakyvyn näkökulma, ja tutkimusten perusteella on selvää, että toimintakyvyn ongelmat alkavat lisääntyä 75-ikävuoden jälkeen.\n\nLähde: Pitkälä K & Strandberg T, 2018, Sairauksien ehkäisy kannattaa vielä vanhanakin, Duodecim, Vuosikerta. 134, Nro 11, Sivut 1141–1148. https://helda.helsinki.fi/bitstream/handle/10138/237452/duo14362.pdf?sequence=1\n\nKoska ikääntyneen toimintakykyä uhkaavat \"geriatrian jättiläiset\": hauraus-raihnausoireyhtymä eli gerastenia, muistisairaudet, kaatumiset, osteoporoottiset murtumat, krooninen kipu ja inkontinenssi, olisi tärkeä tunnistaa nämä asiakkaat koko palveluketjussa. Tunnistamista tulee yhdenmukaistaa ja ottaa käyttöön yksinkertaisia tunnistamisen työkaluja sekä miettiä mitä ovat ne kohtaamiset, joissa ammattilaisten tulee erityisesti muistaa tunnistamisen tärkeys ja huomata arjessa pärjäämättömyyden ennusmerkit. Henkilöstön toimintakykyosaamista tulee lisätä ja sitä tulee tulevaisuudessa ylläpitää säännöllisellä koulutuksella.\n\nVuoden 2023 valmistelussa nähtiin tärkeänä se, että hyvinvointialueen asukkailla tulisi olla mahdollisuus sähköiseen terveystarkastukseen ja sähköiseen toimintakyvyn itsearviointiin, joka voisi tuottaa ammattilaisille tietoa asiakkaan omasta kokemuksesta toimintakyvystä. Tärkeää olisi myös taata niille asiakkaille mahdollisuus toimintakyvyn itsearviointiin, jotka eivät sähköisiä välineitä käytä. Yksilön toimintakyky on kokonaisvaltainen dynaaminen tila, joka koostuu terveydentilan sekä yksilön ja ympäristötekijöiden yhteisvaikutuksesta.\n\nLisäksi vuoden 2023 valtuustoaloitteen valmistelukeskusteluista viestittiin sen pohdinnan tärkeyttä, mitä hyvinvointialue tarjoaa, mikäli asiakkaalla todetaan terveystarkastuksessa jokin ongelma. Esimerkiksi hauraus-raihnausoireyhtymään voidaan vaikuttaa liikuntaharjoittelulla ja ravitsemusta tehostamalla. Tätä kautta voidaan myös ennaltaehkäistä kaatumisia. Kipuun, mielialaan ja inkontinenssiin voidaan myös vaikuttaa liikuntaharjoittelulla.\n\nYksittäinen terveystarkastus ei siis riitä, kun kyseessä on alkava tai edennyt gerastenia. Varhaisen ohjautumisen kuntoutukseen ja liikun-taan tulee toimia ja hyvinvointialueella tulee olla paitsi terveydenhoitajia myös muistihoitajia ja fysioterapeutteja vastaamaan tarkastuksista nouseviin tarpeisiin.\n\nLähde: Pitkälä K & Strandberg T, 2018, Sairauksien ehkäisy kannattaa vielä vanhanakin, Duodecim, Vuosikerta. 134, Nro 11, Sivut 1141–1148 . https://helda.helsinki.fi/bitstream/handle/10138/237452/duo14362.pdf?sequence=1\n\nVuoden 2023 valtuusaloitteen valmistelun aikana pyydettiin kannanotto vanhusneuvostolta ikäihmisten neuvolapalveluiden järjestämiseen. Vanhusneuvosto totesi 12.5.2023 puoltavansa tuolloin tehtyä valtuustoaloitetta ikäihmisten neuvolatoiminnan perustamiseksi ikäihmisten ennalta-ehkäisevänä sosiaali- ja terveydenhuollon palveluna koko Kanta-Hämeen alueella ja suositti sen toteuttamista.\n\nVastauksena vuoden 2023 valtuustoaloitteeseen monialainen valmisteluryhmä totesi, että huomiota tulee kiinnittää seuraaviin seikkoihin:\n\n- kohdentamattomista terveystarkastuksista ei ole näyttöä isommissa tutkimuksissa\n\n- haasteena on, että hyväkuntoiset ja itseään hyvin hoitavat hakeutuvat palvelun piiriin, mutta oikeasti sitä tarvitsevat eivät välttämättä aktiivisesti hakeudu palveluihin. Tässä korostuu tunnistaminen erilaisissa kohtaamisissa\n\n- ikäneuvolatarkastuksiin valittava ikäryhmä ja asiakkaiden tunnistaminen kannattaa miettiä siten, että resurssin kohdentaminen on mahdollisimman vaikuttavaa\n\n- avuksi sähköiset terveystarkastukset, kuntoutuksen ja sosiaalipalveluiden käyttämät mittarit, herätteenä myös palvelujen käyttö jne.\n\n- HVA:lla tarvittaisiin työkaluja, joilla asiakaskunnasta poimitaan hoidosta hyötyvät (esimerkkinä terveyshyötyarviotyökalu), jolloin hoito voidaan kohdentaa siitä eniten hyötyviin\n\n- neuvolatoiminnan lisäksi tulee miettiä ja rakentaa palvelupolut, joille asiakkaat tarkastuksilta huomioiden perusteella ohjataan.\n\nEdelleen todettiin, ettei ikäihmisten neuvolatoiminnan ei tarvitse olla pelkästään terveystarkastuksia, se voi olla myöskin monen erilaisen toimijan muodostama verkosto, jossa on erilaisia käytäntöjä, joilla pyritään tunnistamaan ikääntyneiden tilanteita ja kohdistamaan niihin sopivia interventioita, ohjausta ja neuvontaa sekä palveluita ennaltaehkäisevässä mielessä ikäihmisten hyvinvoinnin, terveyden ja kotona asumisen arjen tukemiseen.\n\nEdelleen todettiin, että ikäihmisten neuvolatoiminnan valmistelua on tarkoituksenmukaista jatkaa osana hyvinvointialueen talouden tasapainottamisohjelman toimeenpanoa. Varsinaiset päätökset asiasta tehdään valmistelun perusteella. Mikäli päätökset edellyttävät talousarviomäärärahaa, käsitellään asia osana normaalia vuotuista talousarvioprosessia.\n\nEm. valmistelu vuoden 2023 valtuustoaloitteeseen hyväksyttiin aluevaltuustossa ja asian käsittely päättyi. Sittemmin hyvinvointialueen talouden tasapainottamisohjelmassa eikä talousarvioissa 2024–2025 ole ollut esillä toiminnallisista ja taloudellisista syistä ikäneuvolatoiminnan perustamiseen liittyviä esityksiä tai määrärahoja.\n\nKanta-Hämeen hyvinvointialueella on jatkettu ikäihmisten ennaltaehkäisevien palveluiden osalta verkostomaista yhteistyötä ikääntyneiden tilanteiden tunnistamiseksi ja olemassa oleviin interventioihin ohjaamiseen niin perusterveydenhuollon avopalveluiden, kuntoutuksen ja ikäihmisten asiakasohjauksen osalta. Organisaatiossa ovat lisäksi lähteneet kehittymään asiakkaita varten erilaiset digitaaliset palvelut ja asiointimahdollisuudet, ohjauksen ja neuvonnan ensilinjat ja myöskin hyvinvointialueen moniammatillisen henkilöstön osaamista ja työkaluja on kehitetty mm. laajalla hyvinvoinnin ja terveyden edistämisen materiaalipaketin koostamisella intraan.\n\nKuntoutuspalveluissa on käytössä iäkkäiden ennalta ehkäisevän kuntoutuksen malli, jossa tunnistetaan varhaisia toimintakyvyn heikkenemisen merkkejä henkilöillä, joilla ei ole kotihoidon palveluita. Heidät ohjataan fysioterapeutin arvioon. Toimintamallissa iäkkään tilanteesta riippuen asiakas ohjataan liikuntatoimen tai kuntoutuspalveluiden voimatasapainoryhmään ja kartoitetaan mm. apuvälineiden tarpeita. Toimintamallin varhaiset tulokset näyttävät siltä, että toiminta on vaikuttavaa ja parantaa iäkkäiden toimintakykyä.\n\nHyvinvoinnin ja terveyden edistämisen vahvistamiseksi hyvinvointialueella on RRP2-hankkeen avulla kehitetty Hyte-palveluohjauksen toimintamallia ja siihen liittyviä työkaluja, kuten esimerkiksi Hyvinvointisi tueksi -sivusto. Sivustolle on koottu kantahämäläisille tarkoitettuja hyvinvointia edistäviä palveluja ja toimintaa, joita järjestävät kunnat, järjestöt, seurakunnat ja hyvinvointialue.\n\nKanta-Hämeen hyvinvointialue tarjoaa asukkailleen, myös ikääntyneille, elintapaohjausta, joka sisältää ohjausta hyvinvoinnin, terveellisten elintapojen ja toimintakyvyn edistämiseen sekä sairauksien, tapaturmien ja onnettomuuksien ehkäisyyn.\n\nEnnaltaehkäisevää ja varhaista tukea edistävää tukea viedään parhaillaan eteenpäin edelleen kahden STM:n rahoittaman hankkeen kautta. Muistijälki - aivoterveyttä elämän varrelle hankkeessa kehitetään näyttöön perustuvaa FINGER-toimintaa alueella toimivaksi muistisairauksien ennalta-ehkäisyn toimintamalliksi. Hankkeen toimenpiteinä on esimerkiksi tiedottaminen, elintapaohjausryhmät ja riskitestit suuremmalle joukolle. Kohderyhmä on rajattu ikääntyneisiin ihmisiin. Ikä iloiten - selvästi eteenpäin -hankkeen tarkoituksena on kantahämäläisten ikääntyneiden (eläköityvät ja yli 65-vuotiaat) hyvinvoinnin ja terveyden edistäminen erityisesti ryhmissä, joita ei tavoiteta nykyisillä palveluilla. Hankkeessa lisätään eri toimijoiden yhteistyötä, luodaan varhaisen puuttumisen toimintamalli ja kehitetään ikääntyneiden elämän taitekohtiin ryhmäohjausta ja matalan kynnyksen kohtaamispaikkoja.\n\nToimialoilla nähdään edelleen toimivana ja taloudellisena ratkaisuna jatkaa verkostomaisen työn kehittämistä ja työkalujen tuottamista niin väestön ja ikääntyneiden kuin eri puolilla hyvinvointialuetta työskentelevien, ikääntyneitä kohtaavien ammattilaistan käyttöön.\n\nYhteenveto: Hyvinvointialueella ei ole taloudellisia mahdollisuuksia perustaa laaja-alaista ikäihmisten neuvolatoimintaa. Kohdentamattoman neuvolatoiminnan hyödyistä ei ole näyttöä. Hyvinvointialueella toimialojen ja tulosalueiden yhteistyönä panostetaan ikääntyneiden toimintakyvyn alenemisen riskien tunnistamiseen ja niihin puuttumiseen.\n\nTodetaan, että vanhusneuvosto käsittelee vastineen valtuustoaloitteeseen kokouksessaan 27.11.2025 ja toimittaa sen jälkeen lausuntonsa lautakuntien käyttöön.\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 12.4 § kohta 4\n\nTerveydenhuollon\n\ntoimialajohtajan"
+    },
+    {
+     "heading": "päätösesitys",
+     "text": "Terveyden ja toimintakyvyn edistämisen lautakunta\n\n1. päättää hyväksyä omalta osaltaan valtuustoaloitteeseen annetun vastauksen ja esittää sen aluehallitukselle ja edelleen aluevaltuustolle hyväksyttäväksi.\n\n2. toteaa omalta osaltaan valtuustoaloitteen käsittelyn päättyneeksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Terveyden ja toimintakyvyn edistämisen lautakunta hyväksyi päätösesityksen.\n\nAbouessa Ehab saapui tämän asian käsittelyn aikana ennen päätöksentekoa."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nAluehallitus 08.12.2025 § 442"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Elämänkaarilautakunta sekä terveyden ja toimintakyvyn edistämisen lautakunta ovat osaltaan antaneet vastaukset valtuustoaloitteeseen koskien ikäihmisten neuvolatoiminnan kehittämistä ja sen käyttöönottoa seuraavalla valtuustokaudella Kanta-Hämeen hyvinvointialueella. Vanhusneuvoston lausunto on liitteenä.\n\n(JH, JL)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus\n\n1. päättää hyväksyä valtuustoaloitteeseen annetun vastauksen omalta osaltaan ja\n\n2. esittää aluevaltuustolle, että se merkitsee valtuustoaloitteeseen saadun vastauksen tiedoksi ja toteaa lisäksi, ettei aloite anna aihetta muihin kuin vastauksessa mainittuihin toimenpiteisiin ja että valtuustoaloite on käsitelty loppuun."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nAluevaltuusto 16.12.2025 § 125\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 §"
+    },
+    {
+     "heading": "Aluehallituksen päätösesitys",
+     "text": "Aluevaltuusto päättää merkitä valtuustoaloitteeseen saadun vastauksen tiedoksi ja toteaa lisäksi, ettei aloite anna aihetta muihin kuin vastauksessa mainittuihin toimenpiteisiin ja että valtuustoaloite on käsitelty loppuun."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Keskustelun aikana Johanna Häggman esitti, että asia palautetaan uudelleen valmisteltavaksi.\n\nPuheenjohtaja totesi aluevaltuuston kannattavan yksimielisesti Johanna Häggmanin esitystä asian palauttamisesta uudelleen valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto päätti yksimielisesti palauttaa asian uudelleen valmisteltavaksi."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "jättäjä"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nVanhusneuvosto 19.01.2026 § 5"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vanhusneuvoston puheenjohtaja Soila Nordström\n\n1. varapuheenjohtaja Pirjo-Liisa Snellman-Tenhunen\n\n2. varapuheenjohtaja Lea Mäkelä"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Vanhusneuvosto sai hyvinvointialueen vastauksen valtuustoaloitteeseen ja kuuli esittelyn asiasta kokouksessaan 27.11.2025. Vanhusneuvosto päätti tuolloin, että se haluaa vielä tulevissa kokouksissaan jatkaa asian käsittelyä sekä saada lisää tietoa ja perusteluita hyvinvointialueella nyt tehtyihin suunnitelmiin.\n\nAluevaltuusto päätti kokouksessaan 16.12.2025 palauttaa asian uudelleen valmisteltavaksi.\n\nLiitteenä vanhusneuvoston 27.11.2025 kokouksen pykälä 29 sekä vanhusneuvoston kannanotto 1/2026 Ikäihmisten neuvolatoiminta."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Vanhusneuvosto\n\n1. käy lähetekeskustelun, jonka perusteella puheenjohtajisto valmistelee lausunnon koskien valtuustoaloitetta ikäihmisten neuvolatoiminnan kehittä-misestä ja sen käyttöönotosta Kanta-Hämeen hyvinvointialueella.\n\n2. lähettää sen edelleen elämänkaari- ja terveyden ja toimintakyvyn edis-tämisen lautakunnille tiedoksi ja käsiteltäväksi.\n\nMuutettu päätösehdotus\n\nVanhusneuvosto\n\n1. Puheenjohtajisto muokkaa käydyn keskustelun perusteella kokouksessa esitellyn lausuntoluonnoksen, jonka jälkeen lausunto lähetetään sähköpostilla jäsenille kommentoitavaksi määräajassa. Jäsenten kommentoinnin jälkeen puheenjohtajisto lähettää lausunnon eteenpäin.\n\n2. lähettää sen edelleen elämänkaari- ja terveyden ja toimintakyvyn edistämisen lautakunnille tiedoksi ja käsiteltäväksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nElämänkaarilautakunta 27.05.2026 § 49"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "asiakasohjauksen tulosaluejohtaja Annukka Kuismin, kuntoutuksen tulosaluejohtaja Virpi Kröger, tulosalueylihoitaja Auli Anttila, tulosaluejohtaja, perusterveydenhuollon avopalvelut Tiina Merivuori"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Ikäihmisten neuvolatoiminnan kehittäminen – täydennetty vastaus\n\nTäydennykset on laadittu vanhusneuvoston kannanoton 1/2026 (19.1.2026) perusteella ja ne on tarkoitettu liitettäväksi osaksi aiempaa vastausta lautakunta- ja valtuustokäsittelyihin.\n\nVanhusneuvoston kannanotossa on korostettu tarvetta tehdä näkyväksi, millä konkreettisilla tavoilla ikääntyvien hyvinvointiin ja toimintakykyyn liittyviä riskejä tunnistetaan ja miten tunnistaminen johtaa käytännön toimenpiteisiin.\n\nAluevaltuuston aiemmissa käsittelyissä on todettu, että laaja-alaisen, koko ikääntyvää väestöä koskevan erillisen neuvolatoiminnan perustaminen ei ole vaikuttavuuden ja resurssien näkökulmasta tarkoituksenmukaista. Ikääntyvien ennaltaehkäisevä ja hyvinvointia tukeva toiminta toteutuu käytännössä olemassa olevien palvelujen, omahoitajamallin, moniammatillisen yhteistyön, kuntoutuksen ja asiakasohjauksen kautta sekä yhteistyössä kuntien ja kolmannen sektorin kanssa.\n\nKansansairauksien riskejä tunnistetaan jo työikäisillä aikuisilla ja riskeihin puututaan; tulevien terveysongelmien ennakoinnin pohja luodaan jo tässä vaiheessa.\n\nOma Hämeessä on jo nyt ennakoivia toimintamalleja ja olemme kehittämässä niitä lisää ja myös toimintamalleja kootaan yhtenäisiksi kokonaisuuksiksi tavoitteena kaikille asiakkaille soveltuvat vaikuttavat hoitoketjut. Ikääntyvien ja iäkkäiden kohdalla tämä tarkoittaa sitä, että neuvolatoiminta on ikään kuin integroituna kaikkeen toimintaan, jotta tavoitamme ja saamme hoidon piiriin ne, jotka hyötyvät toimenpiteistä. ”Integroitu vanhusneuvola” voidaan ymmärtää olemassa olevien palveluprosessien kokonaisuutena, ei erillisenä uutena palveluna. Digitaalisia ratkaisuja kuten digitaalisia hoitopolkuja kehitetään samalla kuin myös toimintamalleja, joilla tavoitetaan ikääntyviä paremmin. Asiakasohjauksen käytänteitä ja prosesseja muokataan parhaillaan, jotta voidaan paremmin vastata ikääntyvän väestön tarpeisiin tiukan talouden aikana.\n\nHyvinvoinnin ja terveyden edistämisen toimintamallit ovat käytössä kaikissa ikäluokissa: Liikunta, mielen hyvinvointi ja päihteet, ravitsemus, uni ja palautuminen, kulttuuri, sosiaaliset suhteet ja osallisuus, arki ja toimeentulo ja arjen turvallisuus. Toimintamallit ovat käytössä kaikissa palveluissa.\n\nKohdistamattomat eli koko ikääntyvien väestöön kohdistuvat seulonnat/vastaanotot eivät ole vaikuttavia. Osa väestöstä on jo hoidon piirissä ja heille ennalta ehkäisy tulee toteuttaa yksilöllisesti osana palvelua. Osa väestöstä ei osallistu seulontatyyppisille vastaanotoille, vaan tarvitaan muistijälki-hankkeen mukaisia työtapoja yhteistyössä kuntien ja kolmannen sektorin kanssa, jotta tavoitetaan niitä, jotka eivät ole palveluiden piirissä, mutta joilla on suurentunut sairastumisen tai toimintakyvyn laskun riski.\n\nMuistisairaudet, sydän ja verisuonisairaudet, diabetes\n\nMuistijälki-hankkeessa tavoitetaan muistisairauden riskissä olevia, jotka hyötyvät ennaltaehkäisevistä toimenpiteistä, Finger-mallin mukaisesta toiminnasta ja hankkeessa edistetään aivoterveyttä. Yhteistyötä tehdään verkostomaisesti kuuntien ja yhdistysten kanssa ja kootaan yhteen ja juurrutetaan toimintaan Kanta-Hämeen muistipolkumalli muistisairauksien tunnistamiseksi ja palveluihin ohjaamiseksi. FINGER-toimintamalli on tutkimusnäyttöön perustuva kokonaisvaltainen elintapaohjelma, jonka tavoitteena on ehkäistä muistisairauksia ja edistää aivoterveyttä. Sydän- ja verisuonisairauksien riskitekijöiden hallinta on osa toimintamallia. Diabetesriskin tunnistamisen digipolku on käytössä koko väestöllä. Tämän avulla voi arvioida riskiä sairastua tyypin II diabetekseen ja riskissä olevat ohjautuvat hoidon piiriin.\n\nLaboratoriokokeiden seulonnat eivät ole vaikuttavia ikääntyneelle, vaan ne tulee valita oireiden ja riskiarvioiden perusteella.\n\nToimintakyvyn lasku, kulkemisvaikeudet, kaatumiset\n\nTällä hetkellä ensirollaattorin hakijoille tarjotaan fysioterapeutin vastaanottoa ja terveysasemien muilla vastaanotoilla tunnistetaan fyysisen toimintakyvyn lasku ikääntyneellä ja heidät ohjataan fysioterapeutin arvioon. Toimintatavan tehostamiseksi luodaan lisäksi toimintamalli muistidigipolkuun sekä alueen päivystyspisteisiin, josta ohjataan fysioterapeutin arvioon ikääntyvät, joilla kaatumisia tai liikkumisvaikeuksia ilman akuuttia sairautta. Samoin fysioterapeutin vastaanotolta ohjataan tarvittaessa jatkoselvittelyyn terveysaseman hoitajalle ja lääkärille.\n\nFyysisen toimintakyvyn parantamiseksi on käytössä vaikuttava ikääntyvän ennalta ehkäisevä kuntoutus, jossa kartoitetaan apuvälineiden tarve sekä ohjataan voima-tasapainoryhmäkuntoutukseen.\n\nLisäksi voidaan hyödyntää liikuntalähetettä kuntien liikuntapalveluihin, mikä annetaan fysioterapeutin vastaanotolta, kun ei ole kuntoutuspalveluiden tarvetta, mutta asiakas tarvitsee ohjausta sopivan liikuntamuodon löytymiseksi tai ohjauksen liikuntatoimen voima-tasapainoryhmiin.\n\nAlkoholi-interventio\n\nAlkoholin käytön puheeksi otto ja lyhytneuvonta –toimintamallit on kuvattu ja otettu käyttöön sosiaali-ja terveyspalveluissa. Esimerkiksi ikääntyvien ennalta ehkäisevässä kuntoutuksessa ollaan ottamassa toimintamalli käyttöön.\n\nYksinäisyys\n\nYksinäisyys on ikääntyneillä merkittävä hyvinvointi- ja terveysriski, joka voi heikentää toimintakykyä ja lisätä palvelujen tarvetta sekä fyysisen että psyykkisen terveyden näkökulmasta.\n\nYksinäisyyden tunnistaminen edellyttää, että se huomioidaan systemaattisesti osana ikääntyneiden kaikkia palvelukontakteja. Yksinäisyyden kokemusta tunnistetaan erityisesti omahoitajan kartoituksissa, palvelutarpeen arvioinnin yhteydessä sekä ikääntyvien ennalta ehkäisevän kuntoutuksen kontakteissa. Kun yksinäisyys nousee keskeiseksi asiakkaan hyvinvointiin vaikuttavaksi tekijäksi, asiakas voidaan ohjata jatkotoimenpiteisiin, joita ovat esimerkiksi yhteistyö asiakasohjauksen kanssa, ohjaus kolmannen sektorin tarjoamaan toimintaan, ryhmämuotoisiin palveluihin tai muuhun yhteisöllistä osallisuutta tukevaan toimintaan. Tavoitteena ei ole luoda erillistä palvelua yksinäisyyden hoitamiseksi, vaan varmistaa, että yksinäisyyden riski tunnistetaan osana nykyisiä palveluprosesseja ja että ammattilaisilla on käytössään selkeät toimintamallit jatko-ohjaukseen.\n\nJohtopäätös\n\nVanhusneuvosto on nostanut tärkeitä näkökohtia, joita olemme jo huomioineet ja huomioimme toiminnassamme. Esimerkkinä mainittakoon ennakoiva riskien tunnistaminen palvelutapahtumien yhteydessä, fysioterapeutin kohdennettu interventio ensirollaattorin haun yhteydessä tai yhteistyö Muistijälki-hankkeessa. Emme näe kuitenkaan tarpeellisena käynnistää varsinaista ikäneuvolatoimintaa kohdentamattomalle väestölle, koska laaja-alaisen, koko ikääntyvää väestöä koskevan erillisen neuvolatoiminnan perustaminen ei ole vaikuttavuuden ja resurssien näkökulmasta tarkoituksenmukaista.\n\nToimivallan peruste\nKanta-Hämen hyvinvointialueen hallintosääntö 13.4 § kohta 4\n\nVs. toimialajohtajan/\n\nikäihmisten palvelut"
+    },
+    {
+     "heading": "päätösesitys",
+     "text": "Elämänkaarilautakunta\n\npäättää hyväksyä omalta osaltaan valtuustoaloitteeseen annetun vastauksen ja esittää sen aluehallitukselle ja edelleen aluevaltuustolle hyväksyttäväksi.\n\ntoteaa omalta osaltaan valtuustoaloitteen käsittelyn päättyneeksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Elämänkaarilautakunta hyväksyi päätösesityksen.\n\nLisäksi elämänkaarilautakunta päätti esittää samalla toimenpidealoitteena, että selvitettäisiin mahdollisuus käynnistää esimerkiksi hankerahoituksella seuraavalla valtuustokaudella pilotti ikäihmisten neuvolatoiminnan kehittämiseksi siten, että se kohdistuisi niihin henkilöihin, jotka eivät ole säännöllisten palveluiden piirissä."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Elämänkaarilautakunta on osaltaan antanut vastauksen valtuustoaloitteeseen koskien ikäihmisten neuvolatoiminnan kehittämistä ja sen käyttöönottoa seuraavalla valtuustokaudella Kanta-Hämeen hyvinvointialueella.\n\nKanta-Hämeen hyvinvointialueen hallintosääntö tuntee toimenpidealoitteen ainoastaan aluevaltuuston kokouksiin liittyen (HS 120 §). Muissa toimielimissä kuten aluehallituksessa tai lautakunnissa ei toimenpidealoite ole hallintosäännön mukaan käytettävissä.\n\n(JH)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus\n\npäättää hyväksyä valtuustoaloitteeseen annetun vastauksen omalta osaltaan ja\n\nesittää aluevaltuustolle, että se merkitsee valtuustoaloitteeseen saadun vastauksen tiedoksi ja toteaa lisäksi, ettei aloite anna aihetta muihin kuin vastauksessa mainittuihin toimenpiteisiin ja että valtuustoaloite on käsitelty loppuun.\n\nLisäksi aluehallitus toteaa, että Kanta-Hämeen hyvinvointialueen hallintosääntö tuntee toimenpidealoitteen ainoastaan aluevaltuuston kokouksiin liittyen (HS 120 §), minkä takia toimenpidealoite ei ole muissa toimielimissä kuten aluehallituksessa tai lautakunnissa käytettävissä."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Keskustelun aikana Johanna Häggman teki Eero Puran kannattamana seuraavan muutosesityksen:\n\n”Aluehallitus\n\nmerkitsee osaltaan tiedoksi saadun aloitevastauksen.\n\nesittää aluevaltuustolle, että se merkitsee valtuustoaloitteeseen saadun vastauksen tiedoksi ja päättää tehtävän ikäihmisten neuvolapalveluista Kanta-Hämeen mallin. Malli pilotoidaan hyvinvointialueella ja sen jälkeen päätetään ikäihmisten neuvolapalvelujen jatkosta. Lisäksi aluevaltuusto toteaa, että valtuustoaloite on käsitelty loppuun.”\n\nKoska oli tehty kannatettu muutosesitys, puheenjohtaja teki seuraavan äänestysesityksen: Ne, jotka kannattavat käsittelyn pohjana olevaa hyvinvointialuejohtajan esitystä äänestävät JAA ja ne, jotka kannattavat Johanna Häggmanin muutosesitystä, äänestävät EI. Puheenjohtaja esitti, että äänestys toimitetaan nimenhuutona. Puheenjohtajan esitykset hyväksyttiin.\n\nÄänestyksessä annettiin 10 JAA-ääntä (Alijärvi, Bitter, Filatov, Hellstén, Honkanen, Jormanainen, Lehkonen, Rautio, Vanttaja, Lepola) ja 3 EI-ääntä (Häggman, Pura, Reima). Puheenjohtaja totesi pohjaesityksen tulleen aluehallituksen päätökseksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösesitys / aluevaltuusto"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Vanhusneuvoston päätös valtuustoaloitteeseen",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026241-10-384362.PDF"
+    },
+    {
+     "title": "Liite 2 Kannanotto 1⁄2026 Ikäihmisten neuvolatoiminta",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026241-10-393420.PDF"
+    }
+   ],
+   "votes": [
+    {
+     "counts": {
+      "jaa": 10,
+      "ei": 3
+     },
+     "context": "Äänestyksessä annettiin 10 JAA-ääntä (Alijärvi, Bitter, Filatov, Hellstén, Honkanen, Jormanainen, Lehkonen, Rautio, Vanttaja, Lepola) ja 3 EI-ääntä (Häggman, Pura, Reima). Puheenjohtaja totesi pohjaesityksen tulleen aluehallituksen päätökseksi.",
+     "provisional": true,
+     "names": {
+      "jaa": [
+       "Alijärvi",
+       "Bitter",
+       "Filatov",
+       "Hellstén",
+       "Honkanen",
+       "Jormanainen",
+       "Lehkonen",
+       "Rautio",
+       "Vanttaja",
+       "Lepola"
+      ],
+      "ei": [
+       "Häggman",
+       "Pura",
+       "Reima"
+      ]
+     },
+     "question": {
+      "jaa": "Käsittelyn pohjana olevaa hyvinvointialuejohtajan esitystä",
+      "ei": "Johanna Häggmanin muutosesitystä"
+     },
+     "motion": null
+    }
+   ],
+   "redacted": false
+  },
+  {
+   "number": "269",
+   "title": "Vastaus valtuustoaloitteeseen koskien yhteisöllisen asumisen sisältöä",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026241-11",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026241-11.PDF",
+   "diary_number": "734/00.01.03.00/2025",
+   "preparer": "hallintojohtaja Katja Tommiska",
+   "presenter": null,
+   "proposal": "Aluehallitus\n\n1. päättää hyväksyä valtuustoaloitteeseen annetun vastauksen omalta osaltaan ja\n\n2. esittää aluevaltuustolle, että se merkitsee valtuustoaloitteeseen saadun vastauksen tiedoksi ja toteaa lisäksi, ettei aloite anna aihetta muihin kuin vastauksessa mainittuihin toimenpiteisiin ja että valtuustoaloite on käsitelty loppuun.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluevaltuusto 28.10.2025 § 97"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Valtuuston kokouksessa 28.10.2025 on jätetty valtuustoaloite Yhteisöllisen asumisen sisältö\n\nAloitteen on jättänyt kristillisdemokraattinen valtuustoryhmä ja sen ovat allekirjoittaneet Vuokko Syväntö, Elise Oikari, Päivi Räsänen, Antti Ahonen, Kylli Kylliäinen ja Johanna Häggman.\n\nValtuustoaloite:\n\n”Vanhuuden asumisen kivijalkoina ovat koti, kotihoito ja asiakasohjaus. Nyt on kuitenkin niin että muutaman minuutin kotihoidon käynti vanhuksen kotona ei riitä vanhuksen mielen hyvinvoinnin tarpeisiin vaan ainoastaan varmistamaan vanhuksen perushoidon fyysiset tarpeet.\n\nYksinäisyyden ja vanhuksen sairauteen liittyvät epävarmuuden tunteet aiheuttavat lukuisia ambulanssireissuja. Tähän arjenhallinnan tarpeeseen on hyvinvointialue tarjonnut Yhteisöllistä asumista, jossa vanhus saa tukea ja sosiaalisia kontakteja päiväsaikaan joko lyhytaikaisilla jaksoilla tai pitkäaikaisempana sijoituksena Yhteisölliseen asumisyksikköön. Teoriatasolla suunnitelma on hyvä.\n\nOn kuitenkin huomioitava kolikon toinen puoli. Vanhukselle muutto pois omasta kodista on jo ensimmäinen trauma. On oletettavaa, että asuminen Yhteisöllisen asumisen yksikössäkin tulee olemaan välivaihe vanhuksen asumisjärjestelyissä. Edessä on vielä yksi muutto ympärivuorokautiseen palveluasumiseen, jolloin vanhuksen elämän loppusuora muodostuu muutoista, luopumisesta ja elämänhallinnan murentumisesta.\n\nToinen tärkeä kysymys on, mitä yhteisöllisen asumisen sosiaalista kanssakäymistä edistävä toiminta on ja kuka sitä tekee? Jotta yhteisöllisen asumisen arki olisi muutakin kuin TV:n yhdessä katsomista, tarvitaan arjenaktivointiin ja vanhuksen yhteisöllisyyden tukemiseen siihen koulutettu ohjaaja. Ammattitaitoisen ohjaajan toimesta aikaan orientoituminen, ohjattu ryhmätoiminta ja yksilökuntoutus taiteen ja kulttuurin keinoin huomioiden muistikuntoutus, Tunteva -kohtaamisen malli sekä muut sosiokulttuurisen kuntoutuksen keinot tuottaisi maksimaalisen yhteisöllisen asumisen hyödyt.\n\nKristillisdemokraatit esittävät, että Yhteisöllisen asumisen sosiaalisen kanssakäymisen edistävästä toiminnasta tehdään tarvittava suunnitelma sisältäen siihen tarvittavan henkilöstömitoituksen.”\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 § 1-2 mom."
+    },
+    {
+     "heading": "Aluehallituksen päätösesitys",
+     "text": "Aluevaltuusto päättää merkitä tiedoksi kokouksessa jätetyn valtuustoaloitteen ja lähettää sen aluehallitukselle valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nAluehallitus 03.11.2025 § 370"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluevaltuuston kokouksessa 28.10.2025 on jätetty valtuustoaloite koskien yhteisöllisen asumisen sisältöä.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä valtuustoaloitteen tiedoksi ja lähettää sen ikäihmisten palveluiden toimialalle valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nVanhusneuvosto 27.03.2026 § 13"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "ikäihmisten palveluiden vs. toimialajohtaja Jorma Haapanen\n\n\n\nkotihoidon tulosaluejohtaja Anne Hintsala\n\n\n\nasiantuntija Mari Nummela"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hyvinvointialueen järjestämisvastuulle kuuluu sosiaalihuoltolain mukainen yhteisöllinen asuminen, jonka tarjontaa on Kanta Hämeessä tarkoitus lisätä arviolta noin 50 paikalla vuosittain. Yhteisöllinen asuminen muodostaa kuitenkin vain osan ikäihmisten asumisen kokonaisuudesta, eikä se yksin vastaa alueen moninaisiin asumistarpeisiin. Kanta Hämeen kunnissa on tarvetta myös muunlaisille ikäihmisille suunnatuille asumisratkaisuille, kuten erilaisille senioriasumisen muodoille, ja kunnilla on keskeinen rooli näiden kehittämisessä.\n\nSosiaalihuoltolain mukainen yhteisöllinen asuminen on valtakunnallisesti vielä varsin uusi palvelumuoto, jonka palvelusisältöä ja toteuttamistapoja tullaan täsmentämään tulevien vuosien aikana. Kanta-Hämeen hyvinvointialueella yhteisöllisen asumisen palvelun sisältö, toteuttamistavat sekä resurssit on määritelty yhteisöllisen asumisen palvelukuvauksessa, jota toteutetaan asiakaslähtöisesti yksilöllisen palvelutarpeen arvioinnin ja asiakassuunnitelman perusteella. Tavoitteena on, että ikääntynyt henkilö siirtyy yhteisölliseen asumiseen oikea-aikaisesti ja saa siellä riittävän ja yksilöllisen tuen siten, että asuminen mahdollistaa turvallisen elämän samassa kodissa elämän loppuvaiheeseen saakka ilman tarvetta myöhemmille muutoksille asumismuodossa.\n\nSosiaalista kanssakäymistä edistävä toiminta (SKE-toiminta) on olennainen ja lakisääteinen osa sosiaalihuoltolain mukaista yhteisöllistä asumista. Palvelukuvauksessa (päivitetty 12/2025) on määritelty SKE-toiminnan tavoitteet, sisällöt, järjestämistavat sekä toimintaan osallistuvan henkilöstön määrä ja osaamisvaatimukset.\n\nPalvelukuvauksen mukaan SKE-toiminta tulee olla monipuolista, jotta se ylläpitää ja edistää asiakkaiden fyysistä, psyykkistä, sosiaalista ja henkistä toimintakykyä. SKE-toiminta on aina ryhmämuotoista ja tukee osallistujien vuorovaikutusta ja keskinäisiä suhteita. SKE-toiminta tulee olla tavoitteellista ja sitä pitää kehittää jatkuvasti. SKE-toiminta ja yhteisöllisyys ovat osa yhteisöllisen asumisen yksikön arkea. Asiakkaat nähdään oman elämänsä asiantuntijoina ja heillä on oikeus päättää omasta arjestaan. Asiakkaaseen tulee tutustua heti hänen muuttaessaan. Asiakkaan omahoitaja (tai muu vastaava henkilökuntaan kuuluva) haastattelee asiakkaan. Asiakkaan elämänhistorian, henkilökohtaisten voimavarojen, kiinnostuksenkohteiden sekä yhteisölliseen toimintaan ja uuteen asuinympäristöön liittyvien odotusten tunnistaminen on keskeistä palvelujen laadun ja yksilöllisyyden varmistamisessa.\n\nAsiakkaan osallisuuden ja toimijuuden vahvistaminen ja siihen liittyvät tuen tarpeet tulee huomioida osana hänen yksilöllistä toteuttamissuunnitelmaansa. Omahoitaja ja SKE-toiminnan ohjaaja yhdessä asiakkaan kanssa suunnittelevat hänen tarpeidensa ja toiveidensa mukaan, miten usein tapahtuvaan ja millaiseen SKE-toimintaan asiakas on halukas osallistumaan. Yhteisöllisen asumisen henkilöstö on tietoinen saatavilla olevasta SKE-toiminnasta ja aktiivisesti kannustaa asiakkaita osallistumaan siihen, huomioiden sekä asiakkaiden yksilölliset toiveet, että voimavarat. Jos asiakas tarvitsee yksilöllistä saattoapua osallistuakseen toimintaan, tuen tarve arvioidaan ja mahdollinen saattoapu sisällytetään kotihoidon palveluaikaan kuntouttavana toimintana. Asiakkaiden muistuttaminen ja paikalle kutsuminen ovat SKE-toiminnan ohjaajan tai muun vastuuhenkilön tehtäviä.\n\nSosiaalista kanssakäymistä edistävää toimintaa järjestetään viikko-ohjelman mukaisesti, ja ohjelma tulee olla asiakkaiden saatavilla viimeistään viikkoa ennen toiminnan alkua. Sosiaalista kanssakäymistä tukeva toimintatuokio toteutetaan vähintään viitenä päivänä viikossa. Viikko-ohjelmaan sisältyvän toiminnan minimikesto on 30 minuuttia kerrallaan. Lisäksi voidaan järjestää myös lyhyempiä toimintatuokioita tarpeen mukaan. Toimintaa voidaan toteuttaa osittain yhteisesti talon muiden asukkaiden / yksiköiden kanssa esimerkiksi järjestämällä yhteisiä tilaisuuksia, joissa ovat mukana senioriasumisen sekä ympärivuorokautisen palveluasumisen asiakkaita. Yhteisöllisen asumisen asiakkaille on järjestettävä vähintään kaksi omaa viikoittaista toimintatuokiota, jotka kohdistetaan erityisesti heille. Näissä tuokioissa otetaan huomioon asiakkaiden yksilölliset toiveet, tarpeet ja tavoitteet. Toimintaa järjestetään vaihtelevasti sisä- ja ulkotiloissa. Toiminnan suunnittelussa huomioidaan vuodenkiertoon liittyvät teema- ja juhlapäivät. Asiakkaat voivat käyttää yhteisiä tiloja myös omaehtoisiin kokoontumisiin ohjatun toiminnan ulkopuolella, johon heitä myös tuetaan ja kannustetaan. Yhteisöllisen asumisen yksiköissä on esillä tavaroita ja tarvikkeita, kuten lehtiä, kirjoja, pelejä ja jumppavälineitä, joita saa lainata ja käyttää yhteisten pelisääntöjen mukaisesti silloinkin, kun henkilökunta ei ole paikalla. Tarvittaessa henkilökunta opastaa välineiden käytössä, esimerkiksi osana SKE- toiminnan tuokiota.\n\nErilaisia SKE-toiminnan järjestämistapoja:\n\nYksikössä voi olla tehtävään nimetty oma SKE-toiminnan ohjaaja tai yhteinen ohjaaja muiden ikääntyneiden palveluiden yksiköiden kanssa (esim. toinen asumisyksikkö tai päivätoiminnan yksikkö). Asiakkaat voivat osittain osallistua toisen, lähellä olevan ikääntyneiden palveluyksikön toimintaan sovitun aikataulun mukaisesti. Tällöin varmistetaan, että molempien asiakasryhmien tarpeet ja tavoitteet otetaan huomioon sekä henkilöstö on tietoinen niistä. Toiminta sisällytetään kummankin yksikön viikko-ohjelmaan. Sosiaalista kanssakäymistä edistävässä toiminnassa voidaan käyttää ulkopuolisia toimijoita (esim. vapaaehtoiset ja järjestöt). Vastuu toiminnan turvallisesta toteuttamisesta ja kokonaisorganisoinnista säilyy yksikön henkilökunnalla. Osa yhteisöllisen asumisen sosiaalista kanssakäymistä edistävästä toiminnasta voidaan järjestää etähoivateknologian avulla. Työntekijän on kuitenkin oltava läsnä asiakkaiden kanssa.\n\nSKE-toiminnan koordinointi ja kehittäminen:\n\nYksikössä tulee olla tehtävään nimetty oma SKE-toiminnan ohjaaja tai yhteinen ohjaaja muiden ikääntyneiden palveluiden yksiköiden kanssa. SKE- toiminnan ohjaajalla tulee olla koulutuksensa tai kokemuksensa perusteella riittävät taidot ja kyky edistää yksikön asiakkaiden toimijuutta ja osallisuutta, sekä yhteisöllisyyttä arjessa. SKE- toiminnan ohjaajalla on vastuu koordinoida ja kehittää yksikön yhteisöllistä toimintaa ja toimia yhteyshenkilönä talossa yhteisöllistä toimintaa toteuttavien tahojen kanssa, esim. yhdistystoimijat, kolmannen sektorin toimijat jne. Yhteyshenkilö huolehtii, että yhteisöllisestä toiminnasta tiedotetaan ja asiakkailla on mahdollisuus valita ja osallistua haluamaansa toimintaan. SKE: n toiminnan ohjaaja tekee yhteistyötä tilaajan kanssa sekä tuntee talon yhteisöllisyyden tilanteen ja asukkaat. Yhteisöllisyys ei tarkoita vain sosiaalista kanssakäymistä tukevien toimintatuokioiden järjestämistä ja niihin osallistumista. Yhteisöllisyyden luominen ja vahvistaminen yksikössä ei ole yksin yhteisöllisen toiminnan SKE toiminnan ohjaajan vastuulla, vaan kaikki yhteisöllisen asumisen yksikössä työskentelevät sitoutuvat yhteisöllisyyden vahvistamiseen. Kaikessa arjen toiminnassa huomioidaan yhteisöllisyyden lisäämisen ja tukemisen periaatteet.\n\nAsiakkailla on mahdollisuus osallistua yksikön toiminnan suunnitteluun ja sitä koskevaan päätöksentekoon. Yhteisöllisen asumisen yksikössä tulee toimia asukasraati, jonka toimintaan kaikilla asukkailla on mahdollisuus osallistua. Asukasraati kokoontuu säännöllisesti kuukausittain. Asukasraati tarjoaa asukkaille mahdollisuuden tuoda esiin näkemyksiään toiminnan kehittämisen suunnasta. Asukasraadin toiminnasta laaditaan dokumentaatio, kokousmuistioiden muodossa, jotka tulee saattaa asukkaiden saataville. Yhteisöllisen toiminnan sekä asukasraatien toteutumista valvoo hyvinvointialue.\n\nKanta-Hämeen hyvinvointialueen lyhytaikaisessa yhteisöllisessä asumisessa järjestetään muutaman kerran viikossa ohjattuja toimintatuokioita henkilöstön toimesta ja yhteiset tilat tukevat asukkaiden välistä kanssakäymistä.\n\nYhteisöllisen asumisen yksiköt valvovat toimintansa laatua, turvallisuutta ja asianmukaisuutta pääasiassa omavalvonnalla, kuten muissakin sosiaalihuollon yksiköissä. Yhteisöllisen asumisen omavalvontasuunnitelmasta pitää käydä ilmi sosiaalista kanssakäymistä edistävän toiminnan sisältö ja palvelun tuottamisen resurssit. Toiminnan sisältö ja asiakkaiden palvelujen tarve määrittää toteutukseen osallistuvan henkilöstön määrän ja osaamisvaatimukset. Hyvinvointialue huolehtii sosiaalista kanssakäymistä tukevan toiminnan ohjauksesta ja valvonnasta Lupa- ja valvontaviraston (lvv) sekä yhteisöllisen asumisen palvelukuvauksen edellyttämällä tavalla ohjaus- ja valvontakäyntien yhteydessä.\n\nEdellä esitetyn perusteella todetaan, että Kanta-Hämeen hyvinvointialueella yhteisöllisen asumisen nykyinen palvelukuvaus ja toimintamalli vastaavat valtuustoaloitteessa esitettyihin tarpeisiin sosiaalista kanssakäymistä edistävän toiminnan sisällön, suunnitelmallisuuden ja henkilöstöresursoinnin osalta. Tämän vuoksi erillisen uuden suunnitelman laatiminen ei ole tarpeen, vaan toiminnan kehittäminen jatkuu osana olemassa olevaa yhteisöllisen asumisen palvelukokonaisuutta.\n\nLiitteenä yhteisöllinen asuminen -kuvaus."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "1. Vanhusneuvosto merkitsee asian tiedoksi.\n\n2. Puheenjohtajisto valmistelee käydyn keskustelun perusteella lausunto-luonnoksen, jonka jälkeen lausunto lähetetään sähköpostilla jäsenille kommentoitavaksi määräajassa. Jäsenten kommentoinnin jälkeen puheenjohtajisto lähettää lausunnon eteenpäin."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Vanhusneuvosto\n\npäätti merkitä asian tiedoksi.\n\npäätti että puheenjohtajiston valmistelema lausuntoluonnos molempiin yhteisöllisen asumisen valtuustoaloitteisiin lähetetään kokouksen jälkeen jäsenille ja varajäsenille kommentoitavaksi määräajassa, jonka jälkeen puheenjohtajisto viimeistelee lausunnon kommenttien ja kokouksessa käydyn keskustelun perusteella. Viimeistelty lausunto lähetetään vielä jäsenille nähtäväksi ennen lausunnon eteenpäin lähettämistä."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nElämänkaarilautakunta 27.05.2026 § 50"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "ikäihmisten palveluiden vs. toimialajohtaja Jorma Haapanen\n\n\n\nkotihoidon tulosaluejohtaja Anne Hintsala\n\n\n\nasiantuntija Mari Nummela"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hyvinvointialueen järjestämisvastuulle kuuluu sosiaalihuoltolain mukainen yhteisöllinen asuminen, jonka tarjontaa on Kanta Hämeessä tarkoitus lisätä arviolta noin 50 paikalla vuosittain. Yhteisöllinen asuminen muodostaa kuitenkin vain osan ikäihmisten asumisen kokonaisuudesta, eikä se yksin vastaa alueen moninaisiin asumistarpeisiin. Kanta Hämeen kunnissa on tarvetta myös muunlaisille ikäihmisille suunnatuille asumisratkaisuille, kuten erilaisille senioriasumisen muodoille, ja kunnilla on keskeinen rooli näiden kehittämisessä.\n\nSosiaalihuoltolain mukainen yhteisöllinen asuminen on valtakunnallisesti vielä varsin uusi palvelumuoto, jonka palvelusisältöä ja toteuttamistapoja tullaan täsmentämään tulevien vuosien aikana. Kanta-Hämeen hyvinvointialueella yhteisöllisen asumisen palvelun sisältö, toteuttamistavat sekä resurssit on määritelty yhteisöllisen asumisen palvelukuvauksessa, jota toteutetaan asiakaslähtöisesti yksilöllisen palvelutarpeen arvioinnin ja asiakassuunnitelman perusteella. Tavoitteena on, että ikääntynyt henkilö siirtyy yhteisölliseen asumiseen oikea aikaisesti ja saa siellä riittävän ja yksilöllisen tuen siten, että asuminen mahdollistaa turvallisen elämän samassa kodissa elämän loppuvaiheeseen saakka ilman tarvetta myöhemmille muutoksille asumismuodossa.\n\nSosiaalista kanssakäymistä edistävä toiminta (SKE-toiminta) on olennainen ja lakisääteinen osa sosiaalihuoltolain mukaista yhteisöllistä asumista. Palvelukuvauksessa (päivitetty 12/2025) on määritelty SKE-toiminnan tavoitteet, sisällöt, järjestämistavat sekä toimintaan osallistuvan henkilöstön määrä ja osaamisvaatimukset.\n\nPalvelukuvauksen mukaan SKE-toiminta tulee olla monipuolista, jotta se ylläpitää ja edistää asiakkaiden fyysistä, psyykkistä, sosiaalista ja henkistä toimintakykyä. SKE-toiminta on aina ryhmämuotoista ja tukee osallistujien vuorovaikutusta ja keskinäisiä suhteita. SKE-toiminta tulee olla tavoitteellista ja sitä pitää kehittää jatkuvasti. SKE-toiminta ja yhteisöllisyys ovat osa yhteisöllisen asumisen yksikön arkea. Asiakkaat nähdään oman elämänsä asiantuntijoina ja heillä on oikeus päättää omasta arjestaan. Asiakkaaseen tulee tutustua heti hänen muuttaessaan. Asiakkaan omahoitaja (tai muu vastaava henkilökuntaan kuuluva) haastattelee asiakkaan. Asiakkaan elämänhistorian, henkilökohtaisten voimavarojen, kiinnostuksen kohteiden sekä yhteisölliseen toimintaan ja uuteen asuinympäristöön liittyvien odotusten tunnistaminen on keskeistä palvelujen laadun ja yksilöllisyyden varmistamisessa.\n\nLiitteenä hyvinvointialueen vanhusneuvoston kannanotto.\n\nToimivallan peruste\nKanta-Hämen hyvinvointialueen hallintosääntö 13.4 § kohta 4\n\nVs. toimialajohtajan/\n\nikäihmisten palvelut"
+    },
+    {
+     "heading": "päätösesitys",
+     "text": "Elämänkaarilautakunta\n\npäättää hyväksyä omalta osaltaan valtuustoaloitteeseen annetun vastauksen ja esittää sen aluehallitukselle ja edelleen aluevaltuustolle hyväksyttäväksi.\n\ntoteaa omalta osaltaan valtuustoaloitteen käsittelyn päättyneeksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Elämänkaarilautakunta hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Elämänkaarilautakunta on osaltaan antanut vastauksen valtuustoaloitteeseen koskien yhteisöllisen asumisen sisältöä.\n\n(JH)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus\n\n1. päättää hyväksyä valtuustoaloitteeseen annetun vastauksen omalta osaltaan ja\n\n2. esittää aluevaltuustolle, että se merkitsee valtuustoaloitteeseen saadun vastauksen tiedoksi ja toteaa lisäksi, ettei aloite anna aihetta muihin kuin vastauksessa mainittuihin toimenpiteisiin ja että valtuustoaloite on käsitelty loppuun."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösesitys / aluevaltuusto"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Hyvinvointialueen vanhusneuvoston kannanotto",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026241-11-406115.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "270",
+   "title": "Vastaus valtuustoaloitteeseen koskien käyttövaran säätämistä yhteisölliseen asumiseen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026241-12",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026241-12.PDF",
+   "diary_number": "734/00.01.03.00/2025",
+   "preparer": "hallintojohtaja Katja Tommiska",
+   "presenter": null,
+   "proposal": "Aluehallitus\n\n1. päättää hyväksyä valtuustoaloitteeseen annetun vastauksen omalta osaltaan ja\n\n2. esittää aluevaltuustolle, että se merkitsee valtuustoaloitteeseen saadun vastauksen tiedoksi ja toteaa lisäksi, ettei aloite anna aihetta muihin kuin vastauksessa mainittuihin toimenpiteisiin ja että valtuustoaloite on käsitelty loppuun.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluevaltuusto 28.10.2025 § 96"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Valtuuston kokouksessa 28.10.2025 on jätetty valtuustoaloite Käyttövaran säätäminen yhteisölliseen asumiseen\n\nAloitteen on jättänyt Satu Taiveaho ja sen ovat allekirjoittaneet Satu Taiveaho, Terhi Lehtonen, Kylli Kylliäinen, Salla Fagerström, Silja Nurmi, Ranjith Kumar Prabhakaran, Timo Viitanen, Mia Heinonen, Lauri Jormanainen, Piritta Järvinen, Marko Mustiala, Minna Lax, Minna Belik, Tarja Kirkkola-Helenius, Satu Viksten, Juhani Lehto, Erja Hirviniemi, Sari Auvinen, Eija Saksala, Emma Kolu, Päivi Räsänen, Vuokko Syväntö, Elise Oikari ja Johanna Wiisak.\n\nValtuustoaloite:\n\n”Yhteisöllinen on lisääntynyt ja on osin korvaamassa aiempaa palveluasumista ja jopa ympärivuorokautista asumista.\n\nYhteisöllisessä asumisessa ei ole kuitenkaan lailla turvattu ns. käyttövaraa eli oman rahan, mikä tulee jäädä pakollisten palvelun maksujen jälkeen.\n\nTällainen käyttövara on ympärivuorokautisessa palveluasumisessa ja oli aiemmin olleessa palveluasumisessa.\n\nYhteisöllisessä asumisessa asiakkaat maksavat erikseen vuokran ja vuokrasopimuksessa määritellyt asumismaksut sekä yhteisöllisen toiminnan maksun, kotihoidon maksut sekä ateriapalvelun ja muun kotona asumisen tukipalveluiden maksut.\n\nYhteisöllisessä asumisessa asuvilla on usein ravintokuluja, isoja lääkekulujen omavastuuosuuksia, silmälasi- ja hammashoitomenoja ynnä muita menoja, jotka maksavat itse. Myös yhteisöllisessä asumisessa asuvan henkilön vaate- ja muut arkiseen elämään kuuluvat menot ovat usein suurempia kuin ympärivuorokautisen asumispalvelun piirissä olevilla.\n\nYhteisöllisessä asumisessa asuvat ovat usein ympärivuorokautisen asumispalvelun asiakkaita parempikuntoisia toimintakyvyltään, jolloin myös kulutustarpeet ja -mahdollisuudet ovat suuremmat. On siis perusteltua, että yhteisöllisessä asumisessa määriteltäisiin ympärivuorokautista asumispalvelua korkeampi minimikäyttövara.\n\nKäyttövaraksi voisi asettaa esimerkiksi toimeentulotuen perusosaa vastaava summa, koska asiakkailla on itse maksettavana myös ruokakulut.\n\nOma Hämeessä on valtakunnallisen linjan mukaan vähennetty ja vähentämässä ympärivuorokautista palveluasumista merkittävästi (mm. 120 asumispaikkaa vuonna 2026) ja samalla ollaan lisäämässä yhteisöllistä asumista (50 asumispaikkaa lisää vuonna 2026).\n\nJotta tämän suunnitelman mukaan voidaan edetä ja jotta palvelu olisi kaikkien ulottuvissa tasavertaisesti, on välttämätöntä määritellä Oma Hämeen alueella tälle asumismuodolle myös käyttövara. Näin toimittiin aiemmin kunnissa myös palveluasumisen (tavallisen ja tehostetun palveluasumisen) osalta ennen kuin asiasta säädettiin valtakunnallisesti lailla.\n\nOn myös huomioitava, että asumisratkaisut tulee aina määrittyä asiakkaan tarpeista lähtöisin eikä yhteisöllinen asuminen sovi kaikille asiakasryhmille.\n\nMe allekirjoittaneet esitämme, että Oma Häme ryhtyy tarvittaviin toimenpiteisiin käyttövaran säätämiseksi Oma Hämeen alueen yhteisölliseen asumiseen.”\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 § 1-2 mom."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluevaltuusto päättää merkitä tiedoksi kokouksessa jätetyn valtuustoaloitteen ja lähettää sen aluehallitukselle valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nAluehallitus 03.11.2025 § 369"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluevaltuuston kokouksessa 28.10.2025 on jätetty valtuustoaloite koskien käyttövaran säätämistä yhteisölliseen asumiseen.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä valtuustoaloitteen tiedoksi ja lähettää sen ikäihmisten palveluiden toimialalle valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nVanhusneuvosto 27.03.2026 § 14"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "ikäihmisten palveluiden vs. toimialajohtaja Jorma Haapanen\n\n\n\nkotihoidon tulosaluejohtaja Anne Hintsala\n\n\n\nasiantuntija Mari Nummela"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Sosiaalihuoltolain mukainen yhteisöllinen asuminen on suhteellisen uusi palvelumuoto, joka on ollut käytössä vasta muutaman vuoden ajan. Yhteisöllinen asuminen korvasi sosiaalihuoltolaissa aiemmin käytetyn käsitteen tavallinen palveluasuminen. Laki astui voimaan 1.1.2023, ja Kanta Hämeessä palvelu otettiin käyttöön sen perusteella 1.12.2023.\n\nNykyisen sosiaalihuoltolain (1301/2014) mukaan yhteisöllinen asuminen on hyvinvointialueen järjestämää asumista esteettömässä ja turvallisessa asu-misyksikössä, jossa asukkaat asuvat omissa asunnoissaan, saavat yksilöl-listä apua arkeensa ja voivat osallistua sosiaalista kanssakäymistä edistä-vään toimintaan. Keskeinen ero aiempaan palveluasumiseen verrattuna on se, että yhteisöllisessä asumisessa asuminen ja palvelut on erotettu toisis-taan. Asiakkaalla on oma vuokra-asunto, ja hänen tarvitsemansa palvelut järjestetään erikseen kotihoitona ja tukipalveluina. Henkilöstö ei ole yhteisöllisen asumisen yksiköissä jatkuvasti läsnä, toisin kuin ympärivuorokautisessa palveluasumisessa. Palveluihin voi sisältyä esimerkiksi kotihoitoa, ateriapalveluja, siivous- ja asiointiapua, turvapalveluja sekä yhteisöllistä toimintaa. Palvelut voivat olla hyvinvointialueen omaa tuotantoa, ostopalveluja tai palvelusetelillä järjestettyjä. Kanta-Hämeen hyvinvointialueen tavoitteena on lisätä vuosittain noin 50 paikkaa ikääntyneiden yhteisölliseen asumiseen. Valtaosa paikoista toteutetaan ostopalveluina, ja omaa palvelutuotantoa kehitetään erityisesti seuduille, joilla ostopalvelupaikkoja on niukasti tai ei ollenkaan.\n\nYhteisöllisen asumisen maksut muodostuvat useista toistuvista maksuista, jotka liittyvät eri palveluihin. Näitä voivat olla muun muassa asunnon vuokra, kotihoidon asiakasmaksu, ateriapalvelut, siivous, turvapalvelut, turva-auttajakäynnit sekä yhteisöllisyyttä tukeva sosiaalinen toiminta. Ostopalveluissa palveluntuottaja perii asiakkaalta vuokran ja asumiseen liittyvät kulut. Vuokra ilmoitetaan kuukausisummaa kohden ja sisältää lämmitys- ja kiinteistökulut. Mikäli sähkö ja vesi eivät sisälly vuokraan, voidaan niistä periä erikseen enintään 22 euroa kuukaudessa sähköstä ja 20 euroa kuukaudessa vedestä. Palveluntuottajan perimä vuokra ei saa ylittää Kelan eläkkeensaajan asumistuen enimmäisasumismenoja korotettuna 20 prosentilla, tai ARA-kohteissa ARA-lainsäädännön mukaisia rajoja.\n\nKotihoidon säännöllisestä ja jatkuvasta palvelusta voidaan periä kuukausi-maksu, joka määräytyy palvelutuntien määrän, asiakkaan maksukyvyn ja perhekoon perusteella. Maksua määriteltäessä huomioidaan asiakkaan ja hänen kanssaan yhteistaloudessa elävän puolison tulot. Vuonna 2026 valtakunnallisesti määritellyt maksukyvyn alarajat ovat yksinasuvilla 699 euroa ja pariskunnilla 1 290 euroa kuukaudessa. Nämä toimivat säännöllisen kotihoidon valtakunnallisesti määriteltyinä maksukyvyn alarajoina, joita on tarkistettu yleisen elinkustannustason perusteella. Kotihoidon maksujen määräytymisen lähtökohtana on, että asiakkaalle jää aina kohtuullinen käyttövara elämiseen. Yhteisöllisen asumisessa ja säännöllisessä kotihoidossa asiakkaat maksavat kuukausimaksun lisäksi erilaisista lisäpalveluista, kuten tukipalveluista. Tämän seurauksena maksut koostuvat useasta eri osasta. Tukipalvelumaksut ovat myös yleensä merkittävä tekijä asiakkaan taloudellisessa kuormituksessa.\n\nLakisääteinen käyttövara on sosiaali- ja terveydenhuollon asiakasmaksu-lainsäädäntöön perustuva vähimmäismäärä, joka on jätettävä asiakkaan omaan käyttöön. Käyttövarasäädökset koskevat pitkäaikaista ympärivuoro-kautista palveluasumista, laitoshoitoa ja perhehoitoa. Käyttövara tarkoittaa asiakkaalle laissa turvattua vähimmäissummaa, joka hänelle on jäätävä käyttöön pakollisten asiakasmaksujen jälkeen. Kyseessä on lakisääteinen vähimmäistaso, joka ei ole harkinnanvarainen. Käyttövara on tarkoitettu henkilökohtaisiin menoihin, kuten vaatteisiin, lääkkeisiin, terveydenhuollon kuluihin, liikkumiseen ja harrastuksiin. Näissä palveluissa asiakkaalta voi-daan periä enintään 85 prosenttia hänen kuukausituloistaan siten, että hä-nelle jää aina lain mukainen käyttövara. Käyttövara ei kata hoitoon, ruokaan, lääkkeisiin tai ylläpitoon liittyviä asioita, koska ne sisältyvät pitkäaikaisen hoidon maksun perusteella palveluun. Pitkäaikaisessa ympärivuorokautisessa palvelussa asiakasmaksu lasketaan nettotuloista, ja ennen maksun määrittämistä voidaan tehdä tiettyjä vähennyksiä, kuten: elatusapuvelvoitteet, tietyt perhesuhteisiin liittyvät kustannukset, tuomioistuimen määräämät hyvitykset, asunnosta aiheutuvat menot (rajatusti ja määräajan), tulojen hankkimisesta aiheutuvat kulut (palkkatuloissa). Kun asiakasmaksu on laskettu näiden vähennysten jälkeen, tarkistetaan vielä, että jäljelle jää vähintään lakisääteinen käyttövara.\n\nYhteisöllinen asuminen perustuu sosiaalihuoltolain 21 b §: ään, jossa käyt-tövarasta ei ole erillistä säännöstä. Myöskään asiakasmaksulaissa ei ole määritelty käyttövaraa yhteisölliseen asumiseen. Mikäli asiakasmaksujen periminen vaarantaa asiakkaan toimeentulon, hyvinvointialueella on kuiten-kin velvollisuus alentaa maksua tai jättää se perimättä.\n\nSosiaali- ja terveysministeriön mukaan asiakasmaksulakia ei ole tällä hetkellä valmisteilla muutettavaksi käyttövaran osalta. Ministeriön näkemyksen mukaan käyttövaraa ei ole määritelty yhteisölliseen asumiseen, koska kyseessä ei ole yksi yhtenäinen asiakasmaksu, vaan useista erillisistä maksuista koostuva kokonaisuus.\n\nValtakunnallisessa asiakasohjauksen verkostossa on selvitetty yhteisöllisen asumisen käyttövarakäytäntöjä eri hyvinvointialueilla. Kyselyyn vastasi 15 aluetta, joiden mukaan yhteisöllisen asumisen kustannushaasteet tunnetaan laajalti, mutta käyttövaran käyttöönottoa ei yleisesti suunnitella. Keusoten hyvinvointialueella käyttövara on jo otettu käyttöön, jolloin asiakkaalle taataan vähintään 182 euroa kuukaudessa henkilökohtaista käyttörahaa. Länsi-Uudenmaan hyvinvointialueella käyttövara on suunniteltu vuoden 2026 alkuun. Vastaajat nostivat esiin huolia yhdenvertaisuudesta, sillä kotihoidon asiakkaille käyttövaraa ei ole määritelty, vaikka myös heillä on vastaavia kustannuksia kuin yhteisöllisen asumisen asukkailla.\n\nHyvinvointialueen tapa järjestää yhteisöllisen asumiseen kuuluvat palvelut vaikuttavat siihen, miten lakisääteisiä maksualennuksia tai niiden poistamista voidaan soveltaa asiakkaiden kokonaiskustannuksiin. Jos hyvinvointialue tuottaa tukipalvelut itse ja perii niistä maksuja, nämä voidaan ottaa huomioon maksualennushakemuksissa. Sen sijaan, jos maksut määräytyvät markkinaehtoisesti, näihin palveluihin ei voi myöntää maksualennuksia.\n\nYhteisöllinen asuminen ei sellaisenaan sisällä yksittäistä palvelua, jolle voi-taisiin määritellä käyttövara. Käytännössä käyttövara kohdistuisi ensisijai-sesti kotihoidon maksuun, jota koskevaa käyttövaraa ei ole lainsäädännös-sä. Käyttövaran määrittely vain yhteisöllisessä asumisessa oleville kotihoi-don asiakkaille herättäisi yhdenvertaisuuteen liittyviä kysymyksiä. Yksittäis-tapauksissa asiakasmaksulain 11 §:n perusteella maksua voidaan alentaa tai jättää se perimättä, mikäli maksun periminen vaarantaa asiakkaan toi-meentulon. Kanta Hämeen hyvinvointialueella yhteisöllisen asumisen palveluista perittävien asiakasmaksujen alentamista koskevista hakemuksista valtaosa johtaa maksun alentamiseen vahvistettujen perusteiden mukaisesti. Lisäksi osalle asiakkaista myönnetään hyvinvointialueen perimistä maksuista kokonaan maksuvapautus. Yhteisöllisen asumisen asiakkaista 8 prosenttia on saanut maksualennuksen tai -vapautuksen kotihoidon maksuihin.\n\nTässä vaiheessa käyttövaran käyttöönottoa ei esitetä. Kokonaisuutta seurataan aktiivisesti, ja asiaan palataan tarvittaessa, mikäli lainsäädäntö, valtakunnalliset ohjeet ja käytännön kokemukset antavat siihen aihetta."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "1.Vanhusneuvosto merkitsee asiat tiedoksi.\n\n2.Puheenjohtajisto valmistelee käydyn keskustelun perusteella lausuntoluonnoksen, jonka jälkeen lausunto lähetetään sähköpostilla jäsenille kommentoitavaksi määräajassa. Jäsenten kommentoinnin jälkeen puheenjohtajisto lähettää lausunnon eteenpäin."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Vanhusneuvosto\n\npäätti merkitä asian tiedoksi.\n\npäätti että puheenjohtajiston valmistelema lausuntoluonnos molempiin yhteisöllisen asumisen valtuustoaloitteisiin lähetetään kokouksen jälkeen jäsenille ja varajäsenille kommentoitavaksi määräajassa, jonka jälkeen puheenjohtajisto viimeistelee lausunnon kommenttien ja kokouksessa käydyn keskustelun perusteella. Viimeistelty lausunto lähetetään vielä jäsenille nähtäväksi ennen lausunnon eteenpäin lähettämistä."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nElämänkaarilautakunta 27.05.2026 § 51"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "ikäihmisten palveluiden vs. toimialajohtaja Jorma Haapanen\n\n\n\nkotihoidon tulosaluejohtaja Anne Hintsala\n\n\n\nasiantuntija Mari Nummela"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Sosiaalihuoltolain mukainen yhteisöllinen asuminen on suhteellisen uusi palvelumuoto, joka on ollut käytössä vasta muutaman vuoden ajan. Yhteisöllinen asuminen korvasi sosiaalihuoltolaissa aiemmin käytetyn käsitteen tavallinen palveluasuminen. Laki astui voimaan 1.1.2023, ja Kanta Hämeessä palvelu otettiin käyttöön sen perusteella 1.12.2023.\n\nNykyisen sosiaalihuoltolain (1301/2014) mukaan yhteisöllinen asuminen on hyvinvointialueen järjestämää asumista esteettömässä ja turvallisessa asumisyksikössä, jossa asukkaat asuvat omissa asunnoissaan, saavat yksilöllistä apua arkeensa ja voivat osallistua sosiaalista kanssakäymistä edistävään toimintaan. Keskeinen ero aiempaan palveluasumiseen verrattuna on se, että yhteisöllisessä asumisessa asuminen ja palvelut on erotettu toisistaan. Asiakkaalla on oma vuokra-asunto, ja hänen tarvitsemansa palvelut järjestetään erikseen kotihoitona ja tukipalveluina. Henkilöstö ei ole yhteisöllisen asumisen yksiköissä jatkuvasti läsnä, toisin kuin ympärivuorokautisessa palveluasumisessa. Palveluihin voi sisältyä esimerkiksi kotihoitoa, ateriapalveluja, siivous- ja asiointiapua, turvapalveluja sekä yhteisöllistä toimintaa. Palvelut voivat olla hyvinvointialueen omaa tuotantoa, ostopalveluja tai palvelusetelillä järjestettyjä. Kanta-Hämeen hyvinvointialueen tavoitteena on lisätä vuosittain noin 50 paikkaa ikääntyneiden yhteisölliseen asumiseen. Valtaosa paikoista toteutetaan ostopalveluina, ja omaa palvelutuotantoa kehitetään erityisesti seuduille, joilla ostopalvelupaikkoja on niukasti tai ei ollenkaan.\n\nYhteisöllisen asumisen maksut muodostuvat useista toistuvista maksuista, jotka liittyvät eri palveluihin. Näitä voivat olla muun muassa asunnon vuokra, kotihoidon asiakasmaksu, ateriapalvelut, siivous, turvapalvelut, turva-auttajakäynnit sekä yhteisöllisyyttä tukeva sosiaalinen toiminta. Ostopalveluissa palveluntuottaja perii asiakkaalta vuokran ja asumiseen liittyvät kulut. Vuokra ilmoitetaan kuukausisummaa kohden ja sisältää lämmitys- ja kiinteistökulut. Mikäli sähkö ja vesi eivät sisälly vuokraan, voidaan niistä periä erikseen enintään 22 euroa kuukaudessa sähköstä ja 20 euroa kuukaudessa vedestä. Palveluntuottajan perimä vuokra ei saa ylittää Kelan eläkkeensaajan asumistuen enimmäisasumismenoja korotettuna 20 prosentilla, tai ARA-kohteissa ARA-lainsäädännön mukaisia rajoja.\n\nKotihoidon säännöllisestä ja jatkuvasta palvelusta voidaan periä kuukausimaksu, joka määräytyy palvelutuntien määrän, asiakkaan maksukyvyn ja perhekoon perusteella. Maksua määriteltäessä huomioidaan asiakkaan ja hänen kanssaan yhteistaloudessa elävän puolison tulot. Vuonna 2026 valtakunnallisesti määritellyt maksukyvyn alarajat ovat yksinasuvilla 699 euroa ja pariskunnilla 1 290 euroa kuukaudessa. Nämä toimivat säännöllisen kotihoidon valtakunnallisesti määriteltyinä maksukyvyn alarajoina, joita on tarkistettu yleisen elinkustannustason perusteella. Kotihoidon maksujen määräytymisen lähtökohtana on, että asiakkaalle jää aina kohtuullinen käyttövara elämiseen. Yhteisöllisen asumisessa ja säännöllisessä kotihoidossa asiakkaat maksavat kuukausimaksun lisäksi erilaisista lisäpalveluista, kuten tukipalveluista. Tämän seurauksena maksut koostuvat useasta eri osasta. Tukipalvelumaksut ovat myös yleensä merkittävä tekijä asiakkaan taloudellisessa kuormituksessa.\n\nLakisääteinen käyttövara koskee pitkäaikaista ympärivuorokautista asumispalvelua, laitoshoitoa ja perhehoitoa. Näissä palveluissa asiakkaalle on turvattava lain mukainen vähimmäismäärä henkilökohtaiseen käyttöön. Käyttövara on tarkoitettu henkilökohtaisiin menoihin, kuten vaatteisiin, lääkkeisiin, terveydenhuollon kuluihin, liikkumiseen ja harrastuksiin. Näissä palveluissa asiakkaalta voidaan periä enintään 85 prosenttia hänen kuukausituloistaan siten, että hänelle jää aina lain mukainen käyttövara. Käyttövara ei kata hoitoon, ruokaan, lääkkeisiin tai ylläpitoon liittyviä asioita, koska ne sisältyvät pitkäaikaisen hoidon maksun perusteella palveluun. Pitkäaikaisessa ympärivuorokautisessa palvelussa asiakasmaksu lasketaan nettotuloista, ja ennen maksun määrittämistä voidaan tehdä tiettyjä vähennyksiä, kuten: elatusapuvelvoitteet, tietyt perhesuhteisiin liittyvät kustannukset, tuomioistuimen määräämät hyvitykset, asunnosta aiheutuvat menot (rajatusti ja määräajan), tulojen hankkimisesta aiheutuvat kulut (palkkatuloissa). Kun asiakasmaksu on laskettu näiden vähennysten jälkeen, tarkistetaan vielä, että jäljelle jää vähintään lakisääteinen käyttövara.\n\nYhteisöllinen asuminen perustuu sosiaalihuoltolain 21 b §: ään, jossa käyttövarasta ei ole erillistä säännöstä. Myöskään asiakasmaksulaissa ei ole määritelty käyttövaraa yhteisölliseen asumiseen. Mikäli asiakasmaksujen periminen vaarantaa asiakkaan toimeentulon, hyvinvointialueella on kuitenkin velvollisuus alentaa maksua tai jättää se perimättä.\n\nSosiaali- ja terveysministeriön mukaan asiakasmaksulakia ei ole tällä hetkellä valmisteilla muutettavaksi käyttövaran osalta. Ministeriön näkemyksen mukaan käyttövaraa ei ole määritelty yhteisölliseen asumiseen, koska kyseessä ei ole yksi yhtenäinen asiakasmaksu, vaan useista erillisistä maksuista koostuva kokonaisuus.\n\nValtakunnallisessa asiakasohjauksen verkostossa on selvitetty yhteisöllisen asumisen käyttövarakäytäntöjä eri hyvinvointialueilla. Kyselyyn vastasi 15 aluetta, joiden mukaan yhteisöllisen asumisen kustannushaasteet tunnetaan laajalti, mutta käyttövaran käyttöönottoa ei yleisesti suunnitella. Keusoten hyvinvointialueella käyttövara on jo otettu käyttöön, jolloin asiakkaalle taataan vähintään 182 euroa kuukaudessa henkilökohtaista käyttörahaa. Länsi-Uudenmaan hyvinvointialueella käyttövara on suunniteltu vuoden 2026 alkuun. Vastaajat nostivat esiin huolia yhdenvertaisuudesta, sillä kotihoidon asiakkaille käyttövaraa ei ole määritelty, vaikka myös heillä on vastaavia kustannuksia kuin yhteisöllisen asumisen asukkailla.\n\nHyvinvointialueen tapa järjestää yhteisöllisen asumiseen kuuluvat palvelut vaikuttavat siihen, miten lakisääteisiä maksualennuksia tai niiden poistamista voidaan soveltaa asiakkaiden kokonaiskustannuksiin. Jos hyvinvointialue tuottaa tukipalvelut itse ja perii niistä maksuja, nämä voidaan ottaa huomioon maksualennushakemuksissa. Sen sijaan, jos maksut määräytyvät markkinaehtoisesti, näihin palveluihin ei voi myöntää maksualennuksia.\n\nYhteisöllinen asuminen ei sellaisenaan sisällä yksittäistä palvelua, jolle voitaisiin määritellä käyttövara. Käytännössä käyttövara kohdistuisi ensisijaisesti kotihoidon maksuun, jota koskevaa käyttövaraa ei ole lainsäädännössä. Käyttövaran määrittely vain yhteisöllisessä asumisessa oleville kotihoidon asiakkaille herättäisi yhdenvertaisuuteen liittyviä kysymyksiä. Yksittäistapauksissa asiakasmaksulain 11 §:n perusteella maksua voidaan alentaa tai jättää se perimättä, mikäli maksun periminen vaarantaa asiakkaan toimeentulon. Kanta Hämeen hyvinvointialueella yhteisöllisen asumisen palveluista perittävien asiakasmaksujen alentamista koskevista hakemuksista valtaosa johtaa maksun alentamiseen vahvistettujen perusteiden mukaisesti. Lisäksi osalle asiakkaista myönnetään hyvinvointialueen perimistä maksuista kokonaan maksuvapautus. Yhteisöllisen asumisen asiakkaista n. 8 prosenttia on saanut maksualennuksen tai -vapautuksen kotihoidon maksuihin.\n\nAsiassa on saatu Kanta-Hämeen hyvinvointialueen vanhusneuvoston kannanotto (27.3.2026) (Liite 1). Vanhusneuvosto korostaa yhteisöllisen asumisen kehittämisen tärkeyttä sekä riittävän käyttövaran merkitystä ikääntyneiden elämänlaadulle ja taloudelliselle turvallisuudelle. Se tuo esiin myös huolia palvelun kustannusrakenteesta, yhdenvertaisuudesta sekä asiakkaiden tosiasiallisesta mahdollisuudesta selviytyä asumisen kokonaiskustannuksista. Vanhusneuvosto katsoo, että riittävä käyttövara tukee ikääntyneiden arjen toimivuutta, osallisuutta ja hyvinvointia ja puoltaa käyttövaran määrittämistä yhteisölliseen asumiseen. Ikäihmisten toimiala huomioi vanhusneuvoston näkemykset osana palvelun kehittämistä ja seurannan vahvistamista.\n\nIkäihmisten palvelujen toimialalla tunnistetaan käyttövaraan liittyvät haasteet sekä yhteisöllisen asumisen kustannusrakenteeseen liittyvät kehittämistarpeet. Asiakasmaksujen kokonaisvaikutusta asiakkaiden taloudelliseen tilanteeseen seurataan mm. asiakasmaksualennusten määrän, asiakaspalautteen sekä palveluun sijoittumisen esteiden näkökulmasta. Tässä vaiheessa erillisen käyttövaran käyttöönottoa ei kuitenkaan esitetä. Arvio perustuu nykyiseen lainsäädäntöön, valtakunnallisiin linjauksiin sekä siihen, että asiakkaiden toimeentuloa turvataan jo nykyisillä maksualennus- ja -vapautusmenettelyillä. Hyvinvointialue seuraa aktiivisesti palvelun kustannuskehitystä ja asiakkaiden taloudellista asemaa. Mikäli yhteisöllisen asumisen kulurakenne muodostuu sellaiseksi, että se heikentää asiakkaiden mahdollisuuksia hakeutua palveluun tai vaarantaa toimeentulon, asia tuodaan uudelleen päätöksentekoon. Lisäksi kehittämistyössä kiinnitetään huomiota siihen, että asiakkaat ja heidän läheisensä saavat riittävän selkeän ja ajantasaisen tiedon palvelun sisällöstä ja siihen liittyvistä maksuista ennen palveluun siirtymistä.\n\nLiitteenä hyvinvointialueen vanhusneuvoston kannanotto.\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 13.4.§ kohta 4\n\nVs. toimialajohtajan/\n\nikäihmisten palvelut"
+    },
+    {
+     "heading": "päätösesitys",
+     "text": "Elämänkaarilautakunta\n\npäättää hyväksyä omalta osaltaan valtuustoaloitteeseen annetun vastauksen ja esittää sen aluehallitukselle ja edelleen aluevaltuustolle hyväksyttäväksi.\n\ntoteaa omalta osaltaan valtuustoaloitteen käsittelyn päättyneeksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Elämänkaarilautakunta hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": ""
+    },
+    {
+     "heading": "Selostus",
+     "text": "Elämänkaarilautakunta on osaltaan antanut vastauksen valtuustoaloitteeseen koskien käyttövaran säätämistä yhteisölliseen asumiseen.\n\n(JH)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus\n\n1. päättää hyväksyä valtuustoaloitteeseen annetun vastauksen omalta osaltaan ja\n\n2. esittää aluevaltuustolle, että se merkitsee valtuustoaloitteeseen saadun vastauksen tiedoksi ja toteaa lisäksi, ettei aloite anna aihetta muihin kuin vastauksessa mainittuihin toimenpiteisiin ja että valtuustoaloite on käsitelty loppuun."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösesitys / aluevaltuusto"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Hyvinvointialueen vanhusneuvoston kannanotto",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026241-12-405278.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "271",
+   "title": "Vastaus valtuustoaloitteeseen koskien lapsiperheiden kotipalvelun asiakasmaksun perimättä jättämistä Kanta-Hämeen hyvinvointialueella",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026241-13",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026241-13.PDF",
+   "diary_number": "4508/00.01.02.00/2026",
+   "preparer": "toimialajohtaja Marika Paasikoski-Junninen, tulosaluejohtaja Riikka Lammintausta-Mäkelä",
+   "presenter": null,
+   "proposal": "Aluehallitus\n\n1. päättää hyväksyä valtuustoaloitteeseen annetun vastauksen omalta osaltaan ja\n\n2. esittää aluevaltuustolle, että se merkitsee valtuustoaloitteeseen saadun vastauksen tiedoksi ja toteaa lisäksi, ettei aloite anna aihetta muihin kuin vastauksessa mainittuihin toimenpiteisiin ja että valtuustoaloite on käsitelty loppuun.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 30.03.2026 § 147"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "toimialajohtaja Marika Paasikoski-Junninen, tulosaluejohtaja Riikka Lammintausta-Mäkelä"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Lapsiperheiden kotipalvelu\n\nSosiaalihuoltolain (1301/2014) 18 a § (26.8.2022/790) nojalla myönnettävä lapsiperheen kotipalvelu on ennaltaehkäisevää varhaisen tuen palvelua, jonka tehtävänä on tukea perheen jaksamista joko tilapäisissä tai pidempiaikaisissa kuormittavissa elämän tilanteissa. Lapsiperheellä on oikeus saada välttämätön kotipalvelu, jos lapsen hyvinvoinnin turvaaminen ilman kyseistä palvelua ei ole mahdollista synnytyksen, sairauden, vamman tai muun vastaavan toimintakykyä alentavan syyn taikka erityisen perhe- tai elämäntilanteen vuoksi (Sosiaalihuoltolaki 18 a §).\n\nKotipalvelu on määräaikaista ja tavoitteellista yhdessä perheen ja muiden yhteistyötahojen kanssa tehtävää vanhemmuuden ja arjessa selviytymisen tukemista. Myös lastensuojeluperheet ovat oikeutettuja sosiaalihuoltolain mukaiseen lapsiperheiden kotipalveluun. Lisäksi sosiaali- ja kriisipäivystys voi myöntää kriisitilanteessa palvelusetelin päivystyksellisesti, jolloin kotipalvelun apua saa nopeasti.\n\nTavoitteena on muun muassa perheen omien voimavarojen vahvistaminen, mikä tapahtuu ohjaamalla ja tukemalla perhettä lasten- ja kodinhoidossa, sekä vahvistamalla arjen hallintaa esimerkiksi hoitamalla arkirutiineja yhdessä vanhempien kanssa. Kotipalveluna annettava apu voi olla myös konkreettista auttamista kotitöissä.\n\nKanta-Hämeen hyvinvointialueella lapsiperheiden kotipalvelusta peritään asiakasmaksu aluevaltuuston päätöksen 17.12.2024 § 106 perusteella. Päätöksen mukaan lapsiperheiden tilapäisestä kotipalvelusta peritään asiakasmaksuna 50 % aluevaltuuston vuosittain vahvistamasta tilapäisen kotihoidon käyntihinnasta / tunti. Maksimimaksu on neljä (4) tuntia / vuorokausi. Lisäksi on päätetty, että tilapäisen lapsiperheiden kotipalvelun maksua ei jatkossakaan peritä sosiaalihuoltolain lapsiperheiden sosiaalityön eikä lastensuojelulain avohuollon tukitoimena toteutettavasta kotipalvelusta tai, jos perheen bruttotulot alittavat perhekoon mukaisen maksuttomuuden ylärajan. Päätöksen mukaisesti lapsiperheiden säännöllisen kotipalvelun asiakasmaksu määräytyy asiakasmaksulain 10 e §:n mukaan maksukyvyn, perhekoon ja palvelutuntien perusteella.\n\nAsiakasmaksujen määrittäminen, alentamisen hakemusten käsittely ja maksujen alentamisesta päättäminen, sekä palvelujen laskutus on keskitetty konsernipalveluiden talouspalveluihin, jonne on keskitetty asiakasmaksujen määräämiseen ja laskutukseen edellytettyä osaamista ja voimavaroja. Maksuja on peritty 1.9.2025 alkaen.\n\nTällä aluehallituksen ja edelleen aluevaltuuston päätettäväksi valmistellulla päätösesityksellä esitetään muutettavaksi valtuuston aiempaa päätöstä periä asiakasmaksuja lapsiperheiden kotipalvelusta asiakasmaksulainsäädännön mahdollistamalla ja määrittämällä tavalla. Lapsiperheiden kotipalvelun asiakasmaksun perimisestä on perusteltua luopua palvelun saavutettavuuden ja vaikuttavuuden varmistamiseksi.\n\nPalveluja käyttävien asiakkaiden määrä on laskenut maksullisuuden myötä merkittävästi. Vuonna 2024 tehtiin yhteensä 628 palvelupäätöstä ja vuonna 2025 yhteensä 506 palvelupäätöstä. Palvelupäätösten määrä on ennen maksullisuuden käyttöönottoa ollut noin 50-60 kuukausittain. Nyt määrä näyttää vakiintuneen noin 30 kuukausittaiseen päätökseen. Päätösten määrän laskua saattaa selittää osittain muutkin tekijät kuin maksullisuuden voimaantulo syyskuussa 2025, mutta asiakkailta saadun palautteen mukaan se on vaikuttanut palvelun vastaanottamiseen. Maksullisuuden käyttöönotto näyttää vähentäneen palvelun käyttöä, vaikkakaan palvelutarpeen muutoksesta sinänsä ei ole näyttöä. Ennaltaehkäisevän palvelun saavutettavuutta tulee erityisesti pyrkiä lisäämään niissä perheissä, joissa sillä voida arvioida olevan vaikuttavuutta.\n\nLapsiperheiden kotipalvelu toimii varhaisen vaiheen palveluna, jonka kautta voidaan tarjota perheille tukea ennen kuin haasteet ovat monimutkaistuneet. Toisaalta palvelu voi toimia täydentävänä tukena esim. osana lastensuojelun asiakkuutta haastavissakin perhetilanteissa. Kotipalvelun vaikuttavuuden edellytyksenä on oikea-aikaisuus ja palveluun pääsy viivytyksettä. Maksun määrääminen, poistaminen ja alentaminen edellyttävät asiakasmaksuyksikön tekemää selvitystyötä. Tämä on osaltaan hidastanut palvelun vastaanottamista ja työskentelyn aloittamista perheissä.\n\nHyvinvointialueelle on kertynyt maksutuottoja lapsiperheiden kotipalvelusta ajalta 1.9.2025-24.3.2026 yhteensä 11 062 euroa eli noin 1580 euroa kuukaudessa. Kertynyt maksutuotto on vähäinen verrattuna työvoimakustannuksiin, joita laskutuksesta, maksujen perimättä jättämisestä ja alentamisesta koituu. Laskutuksen prosessi toimii tällä hetkellä, eikä maksutuottojen kasvua ole odotettavissa.\n\n(MP-J)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 9.3 § 10 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää esittää aluevaltuustolle, että lapsiperheiden kotipalvelu on maksutonta kaikille palvelun myöntämisen perusteet täyttäville asiakkaille."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nAluevaltuusto 21.04.2026 § 16\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 9.3 § 10 kohta"
+    },
+    {
+     "heading": "Aluehallituksen päätösesitys",
+     "text": "Aluevaltuusto päättää, että lapsiperheiden kotipalvelu on maksutonta kaikille palvelun myöntämisen perusteet täyttäville asiakkaille"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Aluevalitus\n\nElämänkaarilautakunta 27.05.2026 § 48"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "toimialajohtaja Marika Paasikoski-Junninen\n\ntulosaluejohtaja Riikka Lammintausta-Mäkelä"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Valtuuston kokouksessa 17.6.2025 on jätetty valtuustoaloite: Lapsiperheiden kotipalvelun oltava jatkossakin maksutonta Oma Hämeessä.\n\nVastaus valtuustoaloitteeseen\n\nLapsiperheiden kotipalvelun maksullisuutta koskevan päätöksen yhteydessä sovittiin, että maksun vaikutuksia seurataan tarkkaan. Maksullisuuden jälkeen asiakkaiden määrä alkoi vähentyä ja eikä yksilöllisen maksun alentamisen tai poistamisenkaan mahdollisuus vaikuttanut palvelunkäyttöön riittävän suotuisasti. Lapsiperheiden kotipalvelun käytön on kuitenkin todettu olevan tärkeä lapsiperheiden vaikeuksia ennaltaehkäisevä palvelu. Tämän takia tehtiin esitys lapsiperheiden kotipalvelun maksuttomuuteen palaamisesta saavutettavuuden ja vaikuttavuuden varmistamiseksi.\n\nAluevaltuusto on 21.4.2026 § 16 päättänyt, että lapsiperheiden kotipalvelu on maksutonta kaikille palvelun myöntämisen perusteet täyttäville asiakkaille. Aluevaltuuston päätöksellä muutettiin valtuuston aiempaa päätöstä periä asiakasmaksuja lapsiperheiden kotipalvelusta asiakasmaksulainsäädännön mahdollistamalla ja määrittämällä tavalla.\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 13.4 § kohta 4\n\nToimialajohtajan/\n\nperhe-, sosiaali- ja\n\nvammaispalvelut"
+    },
+    {
+     "heading": "päätösesitys",
+     "text": "Elämänkaarilautakunta\n\npäättää hyväksyä omalta osaltaan valtuustoaloitteeseen annetun vastauksen ja esittää sen aluehallitukselle ja edelleen aluevaltuustolle hyväksyttäväksi.\n\ntoteaa omalta osaltaan valtuustoaloitteen käsittelyn päättyneeksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Elämänkaarilautakunta hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Valtuuston kokouksessa 17.6.2025 on jätetty valtuustoaloite: Lapsiperheiden kotipalvelun oltava jatkossakin maksutonta Oma Hämeessä.\n\nAloitteen on jättänyt vasemmistoliiton valtuustoryhmä ja sen ovat allekirjoittaneet Satu Viksten, Minna Belik, Tarja Kirkkola-Helenius, Juhani Lehto, Erja Hirviniemi, Aapo Reima, Marko Mustiala, Silja Nurmi, Miia Heinonen, Kylli Kylliäinen, Prabhakaran Ranjith Kumar, Mirka Soinikoski, Heini Ristavaara, Johanna Häggman, Merja Taponen, Eija Saksala, Harri Aaltonen, Elise Oikari, Piia Aitto-oja, Vuokko Syväntö, Karri Vanttaja, Maija Kranni ja Emma Kolu.\n\n”Aluevaltuusto on 17.12.2024 §106 päättänyt lapsiperheiden tilapäisen ja säännöllisen kotipalvelun asiakasmaksut seuraavasti:\n\n”1.lapsiperheiden tilapäisestä kotipalvelusta peritään asiakasmaksuna 50 % aluevaltuuston vuosittain vahvistamasta tilapäisen kotihoidon käyntihinnasta /tunti. Maksimimaksu on neljä (4) tuntia / vuorokausi.\n\n2.tilapäisen lapsiperheiden kotipalvelun maksua ei jatkossakaan peritä\n\nsosiaalihuoltolain lapsiperheiden sosiaalityön eikä lastensuojelulain avohuollon tukitoimena toteutettavasta kotipalvelusta tai, jos perheen bruttotulot alittavat perhekoon mukaisen maksuttomuuden ylärajan.\n\n3.lapsiperheiden säännöllisen kotipalvelun asiakasmaksu määräytyy asiakasmaksulain 10 e §:n mukaan maksukyvyn, perhekoon ja palvelutuntien perusteella.\n\nMaksuja aletaan periä, kun se on järjestelmäteknisesti mahdollista.\n\nLapsiperheiden kotipalvelu on sosiaalihuoltolain (790/2022) mukainen varhaisen tuen palvelu, jonka tarkoituksena on tukea vanhemmuutta, edistää perheen arjessa selviytymistä ja voimavarojen vahvistumista. Kotipalvelu on siis sosiaalipalvelu ja sitä myönnetään päätöksellä perheen tarpeita vastaavasti. Kotipalvelua ei ole siis mahdollista saada ilman selkeää tuen tarvetta esimerkiksi lastenhoitoavuksi. Lapsiperheiden kotipalvelu on palvelu joka oikea-aikaisena säästää niin hyvinvointialueen kuin koko yhteiskunnan varoja ja vähentää inhimillistä kärsimystä ja kodin ulkopuolisia sijoituksia. 1990-luvun laman ja sosiaalihuoltolain uudistuksen myötä (2015) on havaittu, että varhaisemman tuen palveluista tinkiminen lisää raskaampien ja kalliimpien palveluiden käyttöä sekä päinvastoin.\n\n10.5.25 julkaistiin Valtioneuvoston tutkimus (https://julkaisut.valtioneuvosto.fi/handle/10024/165618), jossa selvitettiin lasten ja perheiden sosiaalipalveluiden varhaisen tuen tilannekuvaa ja kehittämistarpeita. Tutkimuksessa todettiin, että palvelut ovat liian sosiaalityöntekijäpainotteisia, perheitä ei pystytä tukemaan riittävän varhaisessa vaiheessa ja, että kotiin annettavat palvelut ovat hyödyllisiä ja niitä tulisi lisätä. Tutkimuksessa korostettiin myös, että monialaista yhteistyötä pitäisi tehdä enemmän.\n\nValtionneuvoston tutkimuksessa mainitaan erikseen lapsiperheiden kotipalvelun asiakasmaksusta seuraavaa ”Maksullisuuden myötä vanhempien taloudellisten ja henkisten resurssien puute on osaltaan hankaloittanut kotiin vietävien palveluiden saatavuutta” (Pitkänen ym. 2025, 139-140). Perheet ja työntekijät ovat tuoneet esille huolensa siitä, että kotipalvelun tuleva maksullisuus on jo vaikuttanut Oma Hämeen alueella palvelunkäyttöön ja osa perheistä ei ota jatkossa kotipalvelua vastaan sen maksullisuuden vuoksi, vaikka tarvitsisivat sitä. Kotipalvelun maksullisuus vaikuttaa paitsi palvelun saatavuuteen niin myös siihen, että perheitä ohjautuu suoraan raskaampiin ilmaisiin palveluihin kuten perhetyöhön, vaikka perheen tueksi riittäisi kotipalvelu. Oma Hämeessä kotipalvelun työntekijöillä kuluu kertomansa mukaan jo nyt merkittävästi työaikaa siihen, että he neuvovat maksullisuuteen liittyen ja vastaavat tätä koskeviin kysymyksiin. Oma Hämeessä yhtenä säästötavoitteena on suoran asiakastyön lisääminen, joten asiakasmaksu päätös on ristiriidassa myös tämän tavoitteen kanssa. Asiakasmaksun tarkkaa määrää ei voi myöskään tietää, joten maksu voi olla suurempi kuin asiakas osaa odottaa. Valmiiksi haasteellisessa elämäntilanteessa olevia perheitä kuormittaa tulotietojen toimittaminen, jotka on itsenäisesti toimitettava, vaikka maksua ei perittäisi. Kotipalvelun käyntimäärien muutos vaikuttaa aina asiakasmaksuihin ja näin ollen sosiaalityötä ei voida tehdä perheen tarpeista käsin ja muuttaa käyntimääriä joustavasti. Maksullisuus käytännössä poistaa myös mahdollisuuden tarjota lisäkäyntejä. Lapsiperheiden kotipalvelun maksullisuus vaikeuttaa myös monialaisen yhteistyön tekemistä, koska yhteiset käynnit maksuttomien palveluiden kanssa eivät ole samalla tavalla mahdollisia.\n\nIso osa hyvinvointialueista on päätynyt keräämään asiakasmaksuja, mutta tietoja taloudellisiin vaikutuksiin tästä ei vielä ole. Sen sijaan Helsinki on aiemmin kerännyt asiakasmaksuja ja nyt vuoden alussa Helsinki päätti luopua lapsiperheiden kotipalvelun asiakasmaksuista, koska Helsingissä asiakasmaksu ohjasi palveluntarvetta enemmän palvelun käyttöä. Helsingin päätöksessä todettiin myös, että asiakasmaksuprosessi on kuormittava palvelulle ja siihen meni merkittävä määrä palvelun voimavaroja. Helsingissä 40% palvelua käyttävistä maksoi asiakasmaksuja. Kerätyt asiakasmaksut olivat 61 000€, kun taas asiakasmaksujen keräämisestä aiheutuvat kulut olivat 120 000€. Asiakasmaksujen keräämisestä aiheutuvat rahalliset kustannukset olivat siis liki tuplaten siitä saatuja tuloja suuremmat.\n\nOma Hämeessä kotipalvelun asiakasmaksuja on perusteltu siitä saatavilla säästöillä. Viranhaltijoilla ei ole kuitenkaan ollut esittää minkäänlaisia laskelmia säästöpotentiaalista tai siitä minkä verran kuluja aiheutuu asiakasmaksujen keräämisestä. Asiakasmaksuista aiheutuvat kulut voivat siis olla Helsingin tavoin suurempia, kuin siitä saatavat tulot. Viranhaltijoilla ei ole ollut esittää myöskään tietoa siitä missä suhteessa myönnetyt kotipalvelun päätökset ovat säännöllistä tai tilapäistä. Työntekijöiltä saadun tiedon mukaan kotipalvelun käynnit ovat pääosin säännöllistä kotipalvelua eli jatkossa maksullisia kaikille. Viranhaltijoita saadun tiedon mukaan lapsiperheiden kotipalvelun vuosittainen kulu laskettuna kuluvan vuoden viiden kuukauden toteutumasta on noin 890 000€, eli noin 0,1% koko Oma Hämeen vuosibudjetista. Verraten sama summa kuluu, jos kotipalvelun maksullisuuden myötä perheet jäävät vaille riittävän varhaista tukea ja yksi lapsi päätyy kolmeksi vuodeksi vaativan erityisen tason laitoshoitoon.\n\nLapsiperheiden kotipalvelun maksuttomuus turvaa palvelun saavutettavuutta ja ratkaisee asiakasmaksulakiin liittyviä haasteita, jotka estävät palvelun järjestämisen tehokkaasti ja tarkoituksenmukaisesti. Oma Hämeen visio ja missio on ”askeleen edellä elämäsi polulla”. Lapsiperheiden kotipalvelun maksullisuus ei ole tämän mukainen päätös. Asiakasmaksujen kerääminen ei voi perustua ajatukselle, että peritään maksuja, kun se on mahdollista. Olemassa olevan tutkimuksen ja Helsingin käytännön kokemuksen perusteella on siis todettavissa, että varhaisemman tuen palveluiden maksullisuus ja väheneminen lisää raskaampien ja myös kalliimpien palveluiden käyttöä. Inhimillisesti ja taloudellisesti ei ole järkevää ottaa tällä tietoa riskiä sen suhteen, että asiakasmaksupäätöksellä kasvatetaan kodin ulkopuolelle sijoitettujen lasten määrää.\n\nVasemmistoliiton valtuustoryhmä ja me allekirjoittaneet ehdotamme, että aluehallitus valmistelee kiireisesti aluevaltuustolle päätöksen, jolla palvelun oikeaa kohdentamista vääristävä ja hyvinvointialueelle enemmän menoja, kuin lisätuloja aiheuttava lapsiperheiden kotipalvelun maksullisuutta koskeva päätös perutaan.\n\nHämeenlinna 17.6.2025”\n\nElämänkaarilautakunta on osaltaan antanut vastauksen valtuustoaloitteeseen koskien lapsiperheiden kotipalvelun asiakasmaksun perimättä jättämistä Kanta-Hämeen hyvinvointialueella.\n\n(MP-J)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus\n\n1. päättää hyväksyä valtuustoaloitteeseen annetun vastauksen omalta osaltaan ja\n\n2. esittää aluevaltuustolle, että se merkitsee valtuustoaloitteeseen saadun vastauksen tiedoksi ja toteaa lisäksi, ettei aloite anna aihetta muihin kuin vastauksessa mainittuihin toimenpiteisiin ja että valtuustoaloite on käsitelty loppuun."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösesitys / aluevaltuusto"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "272",
+   "title": "Vastaus valtuustoaloitteeseen koskien sosiaalisen akuuttinumeron selvittämistä omaksi palvelukseen hätänumeron 112 rinnalle",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026241-14",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026241-14.PDF",
+   "diary_number": "734/00.01.03.00/2025",
+   "preparer": "hallintojohtaja Katja Tommiska",
+   "presenter": null,
+   "proposal": "Aluehallitus\n\n1. päättää hyväksyä valtuustoaloitteeseen annetun vastauksen omalta osaltaan ja\n\n2. esittää aluevaltuustolle, että se merkitsee valtuustoaloitteeseen saadun vastauksen tiedoksi ja toteaa lisäksi, ettei aloite anna aihetta muihin kuin vastauksessa mainittuihin toimenpiteisiin ja että valtuustoaloite on käsitelty loppuun.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluevaltuusto 25.11.2025 § 111\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 § 1-2 mom."
+    },
+    {
+     "heading": "Selostus",
+     "text": "Valtuuston kokouksessa 25.11.2025 on jätetty valtuustoaloite ”Sosiaalista akuuttinumeroa selvitettävä omaksi palvelukseen hätänumeron 112 rinnalle”.\n\nAloitteen on jättänyt Antti Ahonen ja sen ovat allekirjoittaneet Antti Ahonen, Päivi Kankaanmäki, Kalle Virtanen, Lotta Saarenmaa, Riku Bitter, Helena Lehkonen, Mika Walkamo, Veli-Antti Silpola, Sari Rautio, Jarkko Stråhle, Jessica Sonko, Elise Oikari, Erja Hirviniemi, Hanna Aronen, Marko Mustiala, Salla Fagerström, Tuomas Koskinen, Ehab Abouessa ja Juha Isosuo.\n\nValtuustoaloite:\n\n”Tällä hetkellä hyvinvointialueita velvoitetaan ilmoittamaan nettisivuillaan sosiaallihuoltolain mukaisista kriisipalveluista alueellisen kriispäivystyksen tiedot. Käytännön kokemus ja merkittävä kysyntä osoittavat, että palvelut eivät ole helposti saavutettavia: nettiin ei ole kaikilla eikä kaikissa oloissa pääsyä – varsinkaan kriistilanteessa. Digitaidottoman näkökulmasta tiedot ovat monesti vaikeasti saavutettavien polkujen takana, eikä yhteystietoja pysty joka tilanteessa nopeasti etsimään. Etenkin lapset, ikäihmiset ja syrjäytyneet ovat vaarassa jäädä ulos näistä palveluista.\n\nOlisi tarpeellista, että valtakunnallisesti – lainsäädännön päivityksellä – sosiaalihuoltolain mukaisten kriisipalvelujen saavutettavuuden ja yhdenvertaisuuden lisäämiseksi palvelunumerosta 114 tai palvelunumerosta 505 (”SOS) saisi sosiaalipäivystykseen valtakunnallisesti yhteyden, puhelimitse tai tekstiviestillä ympäri vuorokauden. Uuden, sosiaalipäivystyksen palvelunumeron lanseeraamisella valtio tunnistaisi sosiaaliset kriisit sekä akuuttitilanteet yhtä merkittäviksi, kuin yleiseen turvallisuuteen ja fyysiseen terveyteen kohdistuvat hätätilanteet. Pahimmillaan sosiaalinen kriisi tai akuutti tilanne voi eskaloitua myös turvallisuutta ja fyysistä terveyttä uhkaavaksi hädäksi, jos apua ei saa riittävän nopeasti.\n\nKanta-Hämeen hyvinvointialueella olisi ensi vaiheessa toimena syytä selvittää mahdollisuus alueelliseen, hyvinvointialuetasolla toteutettavaan – mahdollisesti useamman hyvinvointialueen yhteistyössä – yhteen, helposti muistettavaan ja saavutettavaan puhelinnumeroon sosiaalipäivystyksen osalta.\n\nKuka tahansa voi joutua yllättäen sosiaaliseen kriisitilanteeseen, jossa valtakunnallinen hätäkeskus (112-numero) ei ole velvollinen tarjoamaan apua, mutta tilanteen ratkaisemiseen tarvitaan akuutisti sosiaalihuollon apua järjestelyineen. Kriisitilanteissa yksilön toimintakapasiteetti voi alentua, vaikuttaen kykyyn järjestää itselle apua. Kaikilla ei ole omia verkostoja, joihin tukeutua. Jokaisella kansalaisella ei ole avun hakemiseen tarvittavia välineitä, kuten verkkoyhteyttä tai selaamiseen vaadittavaa laitetta, digitaalisia taitoja taikka fyysistä kykyä laitteiden käyttöön, eikä siten resursseja tai mahdollisuuksia käyttää digitaalisia palveluja. Hätäkeskus tai poliisi eivät aina pysty auttamaan sosiaalisia kriisejä kohdanneita ihmisiä. Siksi työssä tarvitaan sosiaalialan osaajia ja ammattilaisia. Avun tarjoamatta jättämisen ei tule olla vaihtoehto.\n\nHelposti muistettavan sosiaalipäivystyksen numeron lanseeraamiselle ja käyttöönotolle voisi yhdenvertaisuuden ja heikommassa asemassa olevien suojelun lisäämisen nimissä hakea myös hankerahoitusta (esim. ESR tai valtion hankerahoituksen instrumentit). Kanta-Hämeen hyvinvointialue voisi olla asiassa edelläkävijä.\n\nPerusteluja numerovaihtoehtojen osalta:\n\n- sosiaalipalvelulaki velvoittaa sosiaalisten kriisipalvelujen saatavuuteen kansalaisille 24/h.\n\n- hätänumero 114 olisi saatavilla tähän käyttöön; olisi yhtä helppo näppäillä kuin 112 (2 on näppäinvalikossa 1 vieressä, 4 sen alla); olisi helposti muistettava myös lapsille sekä ikäihmisille; ja voitaisiin tehdä näppäinlukosta riippumatta helpoksi soittaa, sekä olisi samaa sarjaa kuin 112 ja 118\n\n- vaihtoehtoisesti 505-numero = SOS, yhdistyy mielikuvana sosiaalityöhön; jos palvelu haluttaisiin eriyttää kokonaan hätänumerosta, tämä olisi yhtä helppokäyttöinen; myös tätä vaihtoehtoa koskisivat samat näppäinlukko-ohitus, tekstiviesti- ja ilmaisuusasetukset, kuin 114-numeroa.\n\nLanseerattavassa palvelunumerossa päivystäviltä vastaajilta tulisi löytyä yksinkertaiset palvelupolut ja tiedot esimerkiksi turvakodeista, ensi- ja yösuojista, päihdekriisipaikoista, rikosuhripäivystyksestä, seksuaalirikosten jälkihoidosta, sekä vammaisten, lasten ja ikäihmisten kriisipaikoista. Sosiaalihuollon palvelunumeron kautta voitaisiin tarvittaessa järjestää kiireellisesti ja turvallisesti siirtymät kriisipaikoille. Numeroon 114 (tai 505) tulisi liittää mahdollisuus tekstiviesteihin, jotta uhkaavan tilanteen kehittyessä soittamisesta ei tarvitse jäädä kiinni. Numero olisi yhtä lailla yhteydessä poliisin kanssa, kuin hätäkeskus – etenkin, jos kyseessä olisi uhkaavan tai jo alkaneeseen väkivaltaan liittyvä asia, seksuaalirikokseen liittyvä asia tai päihdeperheeseen liittyvä asia. Numeron palveluihin voitaisiin kytkeä ensihoidon palveluita, jalkautuva ja etsivä sosiaalityö, sekä esimerkiksi etsivä nuorisotyö, yhteistyössä kuntasektorin kanssa. Numeron kautta voitaisiin yhdistää puhelu paikalliselle päivystävälle viranomaiselle tai kolmannen sektorin toimijalle, joilla on tiedot paikallisista toimintamalleista.\n\nSosiaalipalvelujen saatavuuteen kriisitilanteissa liittyy merkittäviä riskejä, koska oikeanlaiset palvelut eivät ole aina helposti löydettävissä.Hyvinvointialueella on erilaisia palvelurakenteita. Oikeanlaisten, tarpeen mukaisten palvelujen etsiminen netistä voi olla haastavaa, etenkin kriisiytyneessä mielentilassa. Palveluihin hakeutuminen nettisivujen kautta tietoa hakemalla sisältää riskejä – kuten tietojen ajantasaisuus tai sivustojen huoltokatkot ja verkon häiriöt. Apua tarvitsevalla asukkaalla ei aina ole selvää käsitystä, millaiselle työntekijälle tai mihin tahoon yhteydenotto on asianmukaista. Syntyy paljon häiriökysyntää, kun asiaan tai asioihin ei saa selvyyttä kerralla.\n\nSuurella joukolla ihmisistä on haasteita digitaalisten palvelujen saavuttamisessa. Syitä voivat olla puutteelliset materiaaliset resurssit (älylaitteet ja puhelin- tai nettiliittymät, liittymän käyttösaldot) tai kapasiteetti (kyky käyttää digitaalisia laitteita johtuen iästä tai sairaudesta). Talvella puhelin voi myös jäätyä, jos apua tarvitseva joutuu olemaan ulkona kauan.\n\nHätänumeron 112 kautta sosiaalipalveluihin pääseminen tai oikenalaisen avun löytäminen ei ole itsestään selvää ja saavutettavuus voi olla kiinni päivystäjän taidoista, sosiaalialan kentän osaamisesta tai jopa auttamismotivaatiosta. Sosiaaliohjaus ei ole hätänumeron ensisijainen tehtävä. Hätänumeroon 112 syntyy myös tarpeetonta kuormitusta. Sosiaalisiin kriisitilanteisiin kohdennettu oma akuuttinumero vähentäisi hätänumeron osalta häiriökysyntää sekä toisi asiakkaalle avun nopeammin ja paremmin tarpeita vastaavasti. Tämä vähentäisi kansallisen hätänumeron kuormitusta ja voisi pelastaa ihmishenkiä. Tämä voisi vähentää kuormitusta myös neuvoloiden, ensiavun, poliisin ja terveysasemien osalta.\n\nPalvelunumero 114 (tai 505) madaltaisi kynnystä hakea apua sosiaalisiin ongelmiin, jotka ovat osin myös rikoksia – esimerkiksi asunnottomuuteen, seksuaalirikoksiin sekä näiden ehkäisyyn ja jälkupuintiin, perheväkivaltaan tai uhkaaviin tilanteisiin sosiaalisissa kontakteissa, tai muuhun akuuttiin hätään. Maksuton palvelunumero lisäisi mahdollisuuksia hakea apua. Tekstiviestiyhteys mahdollistaisi avun hakemisen myös tilanteessa, jossa avun hakija ei turvallisuuttaan riskeeraamatta voi puhua puhelimessa, tai selata internetiä löytääkseen oikeanlaista apua. Palvelunumero 114 olisi helppo näppäillä, muistaa ja samaa sarjaa 112-numeron kanssa – vaihtoehtoisesti numerona 505, johon liittyisi muistisääntö ”SOS”.\n\nPalvelunumeron käyttöön ottamisesta mahdollisimman laajalti voisi olla merkittävää kansallista hyötyä. Ensivaiheessa Kanta-Hämeen hyvinvointialue, sekä mahdollisesti muut hyvinvointialueet – esimerkiksi saman YTA-alueen alueet – voisivat pilotin kautta auttaa valtakunnallisten palvelupolkujen selkiytymistä sekä kriisipaikkojen tarpeen hahmottumista. Pilottiin olisi tarpeen liittää yhteydenottojen tilastollista seurantaa sekä sen seurantaa, miten häiriökysyntä vähenisi muista palveluista.\n\nMe allekirjoittaneet esitämme, että:\n\nKanta-Hämeen hyvinvointialue selvittää helposti muistettavan, aloitetekstissä kuvatun sosiaalipäivystyksen palvelunumeron käyttöönottoa – esimerkiksi pilottina – sekä mahdollista hankerahoitusta ja hyvinvointialueiden tai muiden toimijoiden yhteistyötä kokonaisuuteen liittyen.”"
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluevaltuusto päättää merkitä tiedoksi kokouksessa jätetyn valtuustoaloitteen ja lähettää sen aluehallitukselle valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nAluehallitus 15.12.2025 § 467"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Valtuuston kokouksessa 25.11.2025 on jätetty valtuustoaloite ”Sosiaalista akuuttinumeroa selvitettävä omaksi palvelukseen hätänumeron 112 rinnalle”.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä valtuustoaloitteen tiedoksi ja lähettää sen perhe-, sosiaali- ja vammaispalveluiden toimialalle valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen.\n\nTarja Filatov palasi kokoukseen tämän asian käsittelyn aikana ennen päätöksentekoa.\n\nKylli Kylliäinen poistui kokouksesta tämän asian käsittelyn jälkeen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nElämänkaarilautakunta 27.05.2026 § 52"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "toimialajohtaja Marika Paasikoski-Junninen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Vastaus aloitteeseen:\n\nKanta-Hämeen hyvinvointialueella toimii sosiaali- ja kriisipäivystyksen yksikkö, josta on saatavilla sosiaalihuoltolain mukaisia kiireellisiä palveluita ympäri vuorokauden ajan. Sosiaali- ja kriisipäivystys on ensivasteyksikkö. Sosiaalisissa hätätilanteissa ja nimenomaan todellisen hädän keskellä ihmiset ovat yhteydessä hätäkeskusnumeroon 112. Hätäkeskuksen työntekijä arvioi tilanteen kiireellisyyttä ja välittää tehtävän sosiaali- ja kriisipäivystykselle kuten muillekin ensivasteyksiköille hätätilanteen sattuessa.\n\nSosiaali- ja kriisipäivystystyöskentelyn näkökulmasta hätäkeskuksen osaaminen ohjaa hädässä olevan henkilön tarvetta joko sosiaali- tai terveyspalveluihin. Hätäkeskukseen soittava henkilö ei useinkaan osaa itse kertoa, vaatiiko hänen tilanteensa sosiaali- vai terveydenhuollon palveluita, tai kenties molempia. Toiminnan kannalta on ensisijaisen tärkeää, että tämän arvion tekee ammattilainen. Hätäkeskuksessa kehitetään parhaillaan sosiaalihuollon tehtävänkäsittelyohjetta, joka antaa hätäkeskuspäivystäjälle ajankohtaista tietoa ja koulutusta sosiaalihuollon asioista. Mainittakoon, että sosiaalihuollon päivystys – viitekehyksenä on hankalammin ymmärrettävä kuin terveydenhuollon päivystys.\n\nKanta-Hämeen sosiaali- ja kriisipäivystykseen on lisäksi olemassa myös suora asiakasnumero, johon asiakas voi tarvittaessa soittaa ja saa tarvitsemaansa ohjausta/apua tilanteessaan. Asiakaslinjan vasteaika tammikuun osalta on ollut 12 sekuntia/puhelu. Asiakaslinjan ruuhkauduttua asiakas ohjautuu soittamaan hätäkeskusnumeroon.\n\nSosiaali- ja kriisipäivystyksen osalta on kehitetty tiedottamista saatavuuden näkökulmasta yhteistyössä muiden kiireellisten palveluiden kanssa. Sosiaali- ja kriisipäivystyksen yhteystiedot löytyvät samasta osoitteista/linkeistä kuin hyvinvointialueen muut kiireellisiä palveluita tarjoavat yksiköt.\n\nSosiaali- ja kriisipäivystyksessä on olemassa olevat toimivat rakenteet yhteistyön- sekä palveluiden järjestämiseksi valtuustoaloitteessa esille nostettujen sosiaalisten kriisitilanteiden osalta.\n\nSosiaali- ja kriisipäivystyksen näkökulmasta apua tarvitsevalle henkilölle ei tulisi lisätä valittavissa olevia puhelinnumeroita, vaan kehittämissuunta tulisi olla enemmänkin puhelinnumeroiden yhdistämisen suuntainen. Useimmissa tilanteissa palveluntarve on yhteinen sosiaali- ja terveydenhuollon osalta ja puhelinnumeroiden eriyttäminen hankaloittaisi tilanteissa tarvittavaa kokonaisuuden hahmottamista.\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 13.4 § kohta 4\n\nToimialajohtajan/\n\nperhe-, sosiaali- ja\n\nvammaispalvelut"
+    },
+    {
+     "heading": "päätösesitys",
+     "text": "Elämänkaarilautakunta\n\npäättää hyväksyä omalta osaltaan valtuustoaloitteeseen annetun vastauksen ja esittää sen aluehallitukselle ja edelleen aluevaltuustolle hyväksyttäväksi.\n\ntoteaa omalta osaltaan valtuustoaloitteen käsittelyn päättyneeksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Elämänkaarilautakunta hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Elämänkaarilautakunta on osaltaan antanut vastauksen valtuustoaloitteeseen koskien sosiaalisen akuuttinumeron selvittämistä omaksi palvelukseen hätänumeron 112 rinnalle.\n\n(MP-J)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus\n\n1. päättää hyväksyä valtuustoaloitteeseen annetun vastauksen omalta osaltaan ja\n\n2. esittää aluevaltuustolle, että se merkitsee valtuustoaloitteeseen saadun vastauksen tiedoksi ja toteaa lisäksi, ettei aloite anna aihetta muihin kuin vastauksessa mainittuihin toimenpiteisiin ja että valtuustoaloite on käsitelty loppuun."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösesitys / aluevaltuusto"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "273",
+   "title": "Valtuustoaloite ”Ikäihmisten ympärivuorokautiseen hoivaan systemaattisesti riittävä henkilöstö”",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026241-15",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026241-15.PDF",
+   "diary_number": "3908/00.01.03.00/2026",
+   "preparer": "Katja Tommiska",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä valtuustoaloitteen tiedoksi ja lähettää sen asumisen ja kotiin vietävien palvelujen toimialalle valmisteltavaksi.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluevaltuusto 09.06.2026 § 39"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Valtuuston kokouksessa 9.6.2026 on jätetty valtuustoaloite Ikäihmisten ympärivuorokautiseen hoivaan systemaattisesti riittävä henkilöstö.\n\nAloitteen on allekirjoittanut Johanna Häggman, Eija Saksala, Heini Ristavaara, Matti Alanko, Kristiina Ruuskanen, Eero Pura, Leena Suojala, Merja Taponen, Mikko Kautto, Hannele Saari, Päivi Räsänen, Vuokko Syväntö, Karri Vanttaja, Anne Lindgren, Emma Kolu, Mirka Soinikoski, Tarja Kirkkola-Helenius, Sari Auvinen, Satu Viksten, Erja Hirviniemi, Aapo Reima, Minna Belik, Marko Mustiala, Minna Lax, Kari Masalin, Piritta Järvinen, Silja Nurmi, Timo Viitanen, Salla Fagerström, Piia Olkinuora, Mia Heinonen, Nina Aitola, Ehab Abouessa, Ranjith Kumar Prabhakaran ja Terhi Lehtonen.\n\nValtuustoaloite:\n\n”Ikäihmisten ympärivuorokautisessa palveluasumisessa asukkaiden hoitoisuus tulee huomioida aidosti henkilöstöresurssien arvioinnissa lakisääteisen vähimmäismitoituksen lisäksi. Pelkkä minimimitoituksen täyttyminen ei kaikissa tilanteissa riitä turvaamaan laadukasta ja turvallista hoitoa.\n\nValvira ja sosiaali- ja terveysministeriö ohjeistavat, että ympärivuorokautisen palveluasumisen henkilöstömitoituksessa tulee arvioida asukkaiden palveluntarve ja toimintakyky eli käytännössä hoitoisuus. Arvioinnissa huomioidaan esimerkiksi lääkehoidon vaativuus, muistisairauden aste, avuntarve päivittäisissä toiminnoissa, yöaikaisen valvonnan tarve, käyttäytymisoireet sekä erityisen valvonnan tarve. Arvioinnin tukena käytetään muun muassa RAI-arviointijärjestelmää.\n\nHenkilöstöä tulee olla riittävästi vastaamaan todellista hoidon tarvetta jokaisessa työvuorossa ja kaikkina vuorokauden aikoina. Mikäli asukkaiden hoitoisuus kasvaa, henkilöstömäärän tulee ylittää lakisääteinen vähimmäistaso. Minimimitoitusta ei voida alittaa missään tilanteessa, mutta korkea hoitoisuus edellyttää tarvittaessa lisäresursointia vähimmäistason yli.\n\nKäytännössä ongelmia syntyy tilanteissa, joissa henkilöstömitoitus näyttää keskiarvotasolla riittävältä, mutta yksittäisissä vuoroissa henkilöstöä ei ole tarpeeksi esimerkiksi poissaolojen, sijaisten puutteen tai kasvaneen hoitoisuuden vuoksi. Tällöin henkilöstö joutuu työskentelemään vajaamitoituksella, mikä kuormittaa työntekijöitä, lisää sairauspoissaoloja ja heikentää hoidon laatua sekä asukkaiden turvallisuutta.\n\nRiittävä henkilöstö on keskeinen edellytys laadukkaalle hoidolle, henkilöstön työssäjaksamiselle ja ikäihmisten arvokkaalle arjelle.\n\nEdellä olevan perusteella esitämme, että Kanta-Hämeen hyvinvointialue:\n\nlaatii helposti käytettävän ja yhtenäisen toimintamallin ikäihmisten ympärivuorokautisen palveluasumisen henkilöstöresurssien arviointiin\n\nvarmistaa, että henkilöstömitoituksessa huomioidaan systemaattisesti asukkaiden todellinen hoitoisuus ja palveluntarve\n\nhuolehtii henkilöstön riittävyydestä kaikkiin työvuoroihin kaikkina vuorokauden aikoina, sekä\n\nkehittää käytäntöjä poissaolojen nopeaan paikkaamiseen ja vajaamitoituksen ehkäisemiseen.”\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 §"
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluevaltuusto päättää merkitä tiedoksi kokouksessa jätetyn valtuustoaloitteen ja lähettää sen aluehallitukselle valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluevaltuuston kokouksessa 9.6.2026 on jätetty valtuustoaloite ”Ikäihmisten ympärivuorokautiseen hoivaan systemaattisesti riittävä henkilöstö”.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä valtuustoaloitteen tiedoksi ja lähettää sen asumisen ja kotiin vietävien palvelujen toimialalle valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / toimialajohtaja Jorma Haapanen"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "274",
+   "title": "Valtuustoaloite \"Suun terveydenhuollon ajanvarauksen ja vastaanottoaikojen kehittäminen Kanta-Hämeen hyvinvointialueella\"",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026241-16",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026241-16.PDF",
+   "diary_number": "3908/00.01.03.00/2026",
+   "preparer": "hallintojohtaja Katja Tommiska",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä valtuustoaloitteen tiedoksi ja lähettää sen terveydenhuollon toimialalle valmisteltavaksi.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluevaltuusto 09.06.2026 § 40"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Valtuuston kokouksessa 9.6.2026 on jätetty valtuustoaloite Suun terveydenhuollon ajanvarauksen ja vastaanottoaikojen kehittäminen Kanta-Hämeen hyvinvointialueella.\n\nAloitteen on allekirjoittanut Vuokko Syväntö, Hannele Saari, Päivi Räsänen, Veli-Antti Silpola, Mika Walkamo, Lotta Saarenmaa, Sari Rautio, Helena Lehkonen, Nina Aitola, Ehab Abouessa, Päivi Kankaanmäki, Jenni Rauhaniemi, Kati Voutilainen, Salla Fagerström, Timo Viitanen, Minna Lax, Marko Mustiala, Satu Viksten, Tarja Kirkkola-Helenius, Sari Auvinen, Pasi Niemi, Pasi Honkanen ja Teijo Pullinen.\n\nValtuustoaloite:\n\n”Kanta-Hämeen hyvinvointialueella suun terveydenhuollon palveluita keskitetään vaiheittain kolmeen palvelukeskukseen vuoteen 2030 mennessä. Useat muutokset tapahtuvat jo tämän vuoden aikana. Tämä merkitsee monille lapsiperheille huomattavasti piteneviä asiointimatkoja hammastarkastuksiin ja oikomishoitoihin. Jo nyt tiedossa olevien muutosten seurauksena esimerkiksi Hauholta Hämeenlinnan Viipurintien toimipisteeseen kertyy matkaa noin 31 kilometriä yhteen suuntaan. Käytännössä tämä tarkoittaa sitä, että vanhempi joutuu kesken työpäivän hakemaan lapsen, kuljettamaan hänet vastaanotolle ja palaamaan takaisin – usein useiden tuntien ajankäytöllä.\n\nNykyinen vastaanottoaikojen tarjonta klo 8-15 ei vastaa riittävästi työssäkäyvien perheiden tarpeisiin. Pitkät etäisyydet yhdistettynä rajallisiin vastaanottoaikoihin johtavat:\n\n- vanhempien poissaoloihin työstä\n\n- lasten poissaoloihin koulusta\n\n- perheiden lisääntyneisiin kustannuksiin\n\n- arjen kuormituksen kasvuun\n\n- palvelujen saavutettavuuden heikentymiseen erityisesti reuna-alueilla\n\nOn olemassa riski, että palvelujen käyttö vaikeutuu siinä määrin, että tarkastuksiin hakeutuminen viivästyy, mikä ei ole ennaltaehkäisevän suun terveydenhuollon tavoitteiden mukaista.\n\nPalveluverkon muutosten yhteydessä on välttämätöntä tarkastella myös palvelujen saavutettavuutta ajallisesti, ei pelkästään rakenteellisesti.\n\nEsitämme, että Kanta-Hämeen hyvinvointialue:\n\nLaajentaa suun terveydenhuollon vastaanottoaikoja siten, että hammastarkastusaikoja tarjotaan säännöllisesti myös iltaisin (esimerkiksi klo 18-20 saakka)\n\nKehittää ajanvarausjärjestelmää asiakaslähtöisemmäksi niin, että:\n\n- ajan varaaminen ja muuttaminen on sujuvaa\n\n- perhe voi varata useamman lapsen ajat samalle käynnille\n\n- palvelu huomioi paremmin erilaisten asiakasryhmien tarpeet\n\n- selvittää sähköisen ajanvarauksen mahdollisuudet\n\nPalvelujen kehittäminen edellyttää rinnalle toimenpiteitä, joilla varmistetaan, että palvelut ovat käytännössä saavutettavissa kaikille hyvinvointialueen asukkaille.”\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 §"
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluevaltuusto päättää merkitä tiedoksi kokouksessa jätetyn valtuustoaloitteen ja lähettää sen aluehallitukselle valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluevaltuuston kokouksessa 9.6.2026 on jätetty valtuustoaloite \"Suun terveydenhuollon ajanvarauksen ja vastaanottoaikojen kehittäminen Kanta-Hämeen hyvinvointialueella\"\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä valtuustoaloitteen tiedoksi ja lähettää sen terveydenhuollon toimialalle valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / toimialajohtaja Jarmo Lappalainen"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "275",
+   "title": "Hyvinvointialueesta annetun lain 97 §:n mukaista ottomenettelyä varten saapuneet pöytäkirjat ja päätökset",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026241-17",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026241-17.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää, ettei se käytä otto-oikeutta edellä mainittuihin päätöksiin.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvointialueesta annetun lain 97 §:n mukaan aluehallitus, aluehallituksen puheenjohtaja, hyvinvointialuejohtaja ja hallintosäännössä määrätty hyvinvointialueen viranhaltija voivat ottaa aluehallituksen käsiteltäväksi asian, joka on tämän lain nojalla siirretty aluehallituksen alaisen viranomaisen tai aluehallituksen jaoston toimivaltaan ja jossa asianomainen viranomainen on tehnyt päätöksen.\n\nHyvinvointialueen hallintosäännön 32 §:n mukaan asian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nHallintosäännön 33 §:n mukaan aluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan.\n\nPöytäkirjat:\n\n- Terveyden ja toimintakyvyn edistämisen lautakunta 16.6.2026\n\nToimielimien pöytäkirjat ovat katsottavissa hyvinvointialueen verkkosivuilla osoitteessa: https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting_frames\n\nViranhaltijoiden päätösluettelo on liitteenä. Päätösasiakirjat ovat nähtävillä hyvinvointialueen verkkosivuilla osoitteessa: https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=official_frames"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää, ettei se käytä otto-oikeutta edellä mainittuihin päätöksiin."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Päätösluettelo 3.8.2026",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026241-17-423154.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "276",
+   "title": "Muut asiat",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026241-18",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026241-18.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä muut asiat tiedoksi.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.\n\nRiku Bitter poistui kokouksesta tämän asian käsittelyn aikana ennen päätöksentekoa.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kanta-Hämeen hyvinvointialueelle on saapunut seuraavat kirjeet:\n\n- Valtiovarainministeriön muutospäätös 28.5.2026: Varajäsenten nimeäminen Kunta ja hyvinvointialuetyönantajat KT:n hyvinvointialuejaostoon\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 5.6.2026: Lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle EHDS-asetuksen toissijaista käyttöä ja asetuksen seuraamuksia täydentäväksi sääntelyksi. Lausunto pyydetään antamaan viimeistään 31.7.2026.\n\n- Forssan kaupunginhallituksen pöytäkirjanote 8.6.2026 § 147: Forssan kaupungin asuntopoliittisen ohjelman laadinta. Lausunto pyydetään toimittamaan elokuun 2026 loppuun mennessä.\n\n- Hämeen liiton lausuntopyyntö 11.6.2026: valtion palvelu- ja toimitilaverkon alueellinen tavoitetila 2030 Kanta-Hämeessä, sen riskianalyysi ja tila- ja palveluyhteistyön mahdollisuudet. Vastaus lausuntopyyntöön pyydetään lähettämään 12.8.2026 mennessä.\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 12.6.2026: Lausuntopyyntö hallituksen esityksestä eduskunnalle lääkkeiden\n\narviointitoiminnan kehittämisestä. Lausunto pyydetään antamaan viimeistään 7.8.2026.\n\n- Lahden kaupunginhallituksen pöytäkirjanote 15.6.2026 § 192: Hankintalain muutoksesta johtuva linjaus Provincia Oy:n tulevaisuuden omistukseen\n\n- Heinolan kaupunginhallituksen pöytäkirjanote 15.6.2026 § 124: Provincia Oy ja hankintalain muutoksien vaikutukset\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 16.6.2026: Lausuntopyyntö terveydenhuollon asiakasmaksuja koskevasta\n\nluonnoksesta hallituksen esitykseksi ja valtioneuvoston asetukseksi. Lausunnot pyydetään toimittamaan viimeistään 4.8.2026.\n\n- Hämeenlinnan hallinto-oikeuden välipäätös 17.6.2026: Täytäntöönpanon kieltovaatimus hyvinvointialueasiassa\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 18.6.2026: Lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laiksi lääkelain muuttamisesta ja siihen liittyviksi laeiksi sekä asetusluonnoksesta lääkeasetuksen muuttamiseksi. Lausuntoja voi antaa 18.6.-13.8.2026 välisenä aikana.\n\n- Oikeusministeriön lausuntopyyntö 18.6.2026: Lausuntopyyntö Oikeuspalveluvirastosta annetun valtioneuvoston\n\nasetuksen muuttamisesta. Lausunto pyydetään antamaan viimeistään 20.8.2026.\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 22.6.2026: Lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laeiksi kuolemansyyn selvittämisestä annetun lain sekä kudoslain muuttamisesta. Lausunnot pyydetään toimittamaan viimeistään 12.8.2026.\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 23.6.2026: Sosiaali- ja terveysministeriön asetus lapsiin liittyvien rikosepäilyjen selvittämisessä avustavista terveydenhuollon yksiköistä. Lausunnot pyydetään toimittamaan viimeistään tiistaina 18.8.2026.\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 23.6.2026: Lausunto luonnoksesta hallituksen esitykseksi laeiksi terveydenhuollon ammattihenkilöistä annetun lain, sosiaalihuollon ammattihenkilöistä annetun lain sekä Lupa- ja valvontavirastosta annetun lain (15 ja 20 §) muuttamisesta. Lausunnot pyydetään toimittamaan viimeistään 17.8 klo 16.15.\n\n- Oikeusministeriön lausuntopyyntö 24.6.2026: Lausuntopyyntö Oikeuspalveluviraston toimipaikoista annetun oikeusministeriön asetuksen muuttamisesta. Lausunto pyydetään antamaan viimeistään 20.8.2026.\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 25.6.2026: Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta valtioneuvoston asetukseksi tartuntataudeista. Lausunnot pyydetään antamaan 9.8.2026 klo 16.00 mennessä Lausuntopalvelu.fi -sivustolla.\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 25.6.2026: Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta sosiaali- ja terveysministeriön asetukseksi rokotuksista ja tartuntatautien ilmoittamisesta. Lausunnot pyydetään antamaan 9.8.2026 klo 16.00 mennessä Lausuntopalvelu.fi -sivustolla.\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 25.6.2026: Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta valtioneuvoston asetukseksi tartuntatautien neuvottelukunnasta. Lausunnot pyydetään antamaan 9.8.2026 klo 16.00 mennessä Lausuntopalvelu.fi -sivustolla.\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 25.6.2026: Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta sosiaali- ja terveysministeriön asetukseksi mikrobilääkeresistenssin torjunnan kansallisesta asiantuntijaryhmästä ja kansallisesta rokotusasiantuntijaryhmästä. Lausunnot pyydetään antamaan 9.8.2026 klo 16.00 mennessä Lausuntopalvelu.fi -sivustolla.\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 29.6.2026: Terveydenhuollon palveluvalikoimaneuvoston päätös oireettoman henkilön tietokonetomografia- ja positroniemissiotomografiatutkimukseen pääsyn kriteerit hoidetun suolistosyövän jälkeen suolistosyövän varhaiseksi toteamiseksi. Lausunto pyydetään toimittamaan Terveydenhuollon palveluvalikoimaneuvostolle viimeistään 10.8.2026.\n\n- Sosiaali- ja terveysministeriön päätös 29.6.2026: Valtionavustuksen myöntäminen hoidon jatkuvuusmallien kehittämiseksi\n\nKanta-Hämeen hyvinvointialueelle\n\n- Terveyden ja hyvinvoinnin laitoksen lausuntopyyntö 30.6.2026: Lausuntopyyntö ehdotuksesta yhtenäisten hoidon perusteiden\n\njatkuvan ylläpidon toimintamalliksi. Lausunnot pyydetään toimittamaan 31.8.2026 mennessä.\n\n- Valtiovarainministeriön päätös 2.7.2026: Päätös Kanta-Hämeen hyvinvointialueen hakemukseen alijäämän kattamiskauden\n\njatkamisesta vuoteen 2029\n\n- Ympäristöministeriön lausuntopyyntö 2.7.2026: Lausuntopyyntö ilmastotoimien sosiaalisen tuen suunnitelmasta. Lausunto pyydetään antamaan viimeistään 26.8.2026.\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 3.7.2026: Lausuntopyyntö luonnoksesta koskien alle 15-vuotiaana rikollisesta teosta epäillyn säilöönottamista. Lausunnot pyydetään ystävällisesti antamaan viimeistään 5.8.2026.\n\n- Valtiovarainministeriön lausuntopyyntö 10.7.2026: Lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laiksi hyvinvointialueesta annetun lain 21 §:n muuttamisesta. Lausunto pyydetään antamaan viimeistään 24.8.2026.\n\n- Valtioneuvoston päätös 14.7.2026: Kanta-Hämeen hyvinvointialueen\n\nvaltionavustus EQ-5D-5L-mittarin käyttöönottoon\n\n- Hämeenlinnan kaupungin lausuntopyyntö 16.7.2026: Lausunto-/ kannanottopyyntö asemakaavaluonnoksesta 2658, Kekkurinkuja asemakaavan muutos\n\nKanta-Hämeen hyvinvointialueen tekemä valituskirjelmä:\n\n- Kanta-Hämeen hyvinvointialueen valitus HAO:lle 26.6.2026 Valtiovarainministeriön päätöksestä 8.6.2026\n\nKanta-Hämeen hyvinvointialueen antamat lausunnot:\n\n- Kanta-Hämeen hyvinvointialueen vastaus 3.7.2026 luonnokseen hallituksen esitykseksi laiksi lapsen erityisestä suojelusta ja siihen liittyviksi laeiksi\n\n- Kanta-Hämeen hyvinvointialueen lausunto 4.8.2026 diaarinumerolla VN/13449/2026 annettuun lausuntopyyntöön"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä muut asiat tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen.\n\nRiku Bitter poistui kokouksesta tämän asian käsittelyn aikana ennen päätöksentekoa."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Lepola Kaisa",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Alijärvi Pirjo",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Bitter Riku",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Filatov Tarja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hellstén Tapani",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Honkanen Pasi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Häggman Johanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Jormanainen Lauri",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lehkonen Helena",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pura Eero",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Reima Aapo",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Vanttaja Karri",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Isosuo Juha",
+   "role": "aluevaltuuston puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kylliäinen Kylli",
+   "role": "aluevaltuuston 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Ristavaara Heini",
+   "role": "aluevaltuuston 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Naukkarinen Olli",
+   "role": "esittelijä, hyvinvointialuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Savola Jussi",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Tommiska Katja",
+   "role": "pöytäkirjanpitäjä, hallintojohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Rautio Sari",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Salo Sampo",
+   "role": "talousjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kukkonen Petrus",
+   "role": "rahoitus- ja investointijohtaja",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026241",
+  "fetched_at": "2026-10-14T16:51:04+00:00",
+  "content_hash": "bcc4dfb7f3517c68",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T16:51:04+00:00"
+ }
+}

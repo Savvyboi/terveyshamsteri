@@ -1,0 +1,537 @@
+{
+ "id": "asiakaskokemusjaosto/2026-10-07",
+ "region": "pohjois-savo",
+ "body_id": "asiakaskokemusjaosto",
+ "body_name": "Asiakaskokemusjaosto",
+ "date": "2026-10-07",
+ "stage": "minutes",
+ "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261168",
+ "pdf_url": "https://pshva.oncloudos.com/kokous/20261168.PDF",
+ "time": "08:30 - 10:40",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "185",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261168-1",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261168-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen laillisuus ja päätösvaltaisuus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "186",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261168-2",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261168-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Ahokas Jarkko ja Hämäläinen Vuokko.",
+   "decision": "Pöytäkirjantarkastajiksi valittiin Ahokas Jarkko ja Hämäläinen Vuokko.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pöytäkirjantarkastajien valinta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Ahokas Jarkko ja Hämäläinen Vuokko."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Ahokas Jarkko ja Hämäläinen Vuokko."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "187",
+   "title": "Asioiden käsittelyjärjestys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261168-3",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261168-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asioiden käsittelyjärjestys"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "188",
+   "title": "Tiedoksisaatettavat asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261168-4",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261168-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Päätösehdotus",
+   "proposal": "Asiakaskokemusjaosto merkitsee asiat tiedoksi.\n\nTiedoksisaatettavat asiat:\n\n- Kuljetuspalvelut hyvinvointialueella",
+   "decision": "Päätösehdotus hyväksyttiin. Merkitään pöytäkirjaan, että: Laila Hytönen saapui klo 9.30 Sanna Suomi ja Pasi Mattinen poistuivat klo 9.44",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Tiedoksisaatettavat asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin. Merkitään pöytäkirjaan, että: Laila Hytönen saapui klo 9.30 Sanna Suomi ja Pasi Mattinen poistuivat klo 9.44"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": ""
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto merkitsee asiat tiedoksi.\n\nTiedoksisaatettavat asiat:\n\n- Kuljetuspalvelut hyvinvointialueella"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "189",
+   "title": "Pohjois-Savon hyvinvointialueen toiminnallinen tasa-arvo- ja yhdenvertaisuussuunnitelma 2026-2029",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261168-5",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261168-5.PDF",
+   "diary_number": "6459/00.01.02.00/2025",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto hyväksyy tasa-arvo- ja yhdenvertaisuussuuunnitelman vuosille 2026-2029, ja lähettää sen edelleen aluehallitukselle tiedoksi\n\nEnnakkovaikutusten arviointi\n\nToiminnallinen tasa-arvo ja yhdenvertaisuussuunnitelma antaa suunnan palvelujen tuottamiselle siitä näkökulmasta, että kaikille taataan yhdenmukaiset ja tasa-arvoiset mahdollisuudet saada palveluja ja tulla kohdelluksi tasa-arvoisesti.\n\nToimivallan peruste\nHallintosääntö § 39\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nPohjois-Savon hyvonvointialueen toiminnallinen tasa-arvo- ja yhdenvertaisuussuunnitelma 2026-2029\n\nValmistelu\nJohtoryhmä on hyväksynyt toiminnallisen tasa-arvo- ja yhdenvertaisuussuunnitelman 25.8.2026 § 28, jonka jälkeen palveluiden edustajat ovat vielä tarkistaneet vastuullaan olevat toimenpiteet.\n\nSuunnitelmaan on siinä yhteydessä tehty seuraavat muutokset/lisäykset:\n\n- s.11: Pohjois-Savon hyvinvointialueella viestinnästä vastaa viestintä- ja markkinointiyksikkö. Korjattu: Pohjois-Savon hyvinvointialueella ulkoisesta viestinnästä vastaa viestintä- ja markkinointiyksikkö.\n\n- s.12: Sosiaalisen median kanavista poistettu Viestipalvelu X, jota ei enää käytetä.\n\n- s.26 lisätty: Suunnitelma on merkitty tiedoksi asiakaskokemusjaostossa 17.6.2026. Johtoryhmä hyväksyi suunnitelman 25.8.2026. Palveluiden edustajat ovat sen jälkeen vielä tarkistaneet vastuullaan olevat toimenpiteet ennen suunnitelman viemistä hyväksyttäväksi asiakaskokemusjaostoon ja sen jälkeen aluehallitukseen.\n\n- s. 26 poistettu: Yksiköt raportoivat toteuttamisesta omavalvonnan raportoinnin yhteydessä.\n\n- s. 26: Toiminnallinen yhdenvertaisuus- ja tasa-arvosuunnitelma päivitetään kokonaisuudessaan valtuustokausittain. Muutettu: Suunnitelma päivitetään kokonaisuudessaan valtuustokausittain ja siinä yhteydessä toteutetaan kyselyt henkilöstölle, asiakkaille ja sidosryhmille.\n\nJory 25.08.2026 § 28\n\nValmistelija(t)\nLaila Hytönen, Minna Mykkänen, Säde Rytkönen",
+   "decision": "Esittelijä esitti kokouksessa muutetun päätösehdotuksen kuulumaan seuraavasti: Asiakaskokemusjaosto merkitsee tasa-arvo ja yhdenvertaisuussuunnitelman tiedoksi ja lähettää sen aluehallitukselle hyväksyttäväksi.\n\nMuutettu päätösehdotus hyväksyttiin yksimielisesti.\n\nPäätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että Laila Hytönen ja Riitta Raatikainen poistuivat klo 10.18",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nLaila Hytönen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Esittelijä esitti kokouksessa muutetun päätösehdotuksen kuulumaan seuraavasti: Asiakaskokemusjaosto merkitsee tasa-arvo ja yhdenvertaisuussuunnitelman tiedoksi ja lähettää sen aluehallitukselle hyväksyttäväksi.\n\nMuutettu päätösehdotus hyväksyttiin yksimielisesti.\n\nPäätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että Laila Hytönen ja Riitta Raatikainen poistuivat klo 10.18"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto hyväksyy tasa-arvo- ja yhdenvertaisuussuuunnitelman vuosille 2026-2029, ja lähettää sen edelleen aluehallitukselle tiedoksi\n\nEnnakkovaikutusten arviointi\n\nToiminnallinen tasa-arvo ja yhdenvertaisuussuunnitelma antaa suunnan palvelujen tuottamiselle siitä näkökulmasta, että kaikille taataan yhdenmukaiset ja tasa-arvoiset mahdollisuudet saada palveluja ja tulla kohdelluksi tasa-arvoisesti.\n\nToimivallan peruste\nHallintosääntö § 39\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nPohjois-Savon hyvonvointialueen toiminnallinen tasa-arvo- ja yhdenvertaisuussuunnitelma 2026-2029\n\nValmistelu\nJohtoryhmä on hyväksynyt toiminnallisen tasa-arvo- ja yhdenvertaisuussuunnitelman 25.8.2026 § 28, jonka jälkeen palveluiden edustajat ovat vielä tarkistaneet vastuullaan olevat toimenpiteet.\n\nSuunnitelmaan on siinä yhteydessä tehty seuraavat muutokset/lisäykset:\n\n- s.11: Pohjois-Savon hyvinvointialueella viestinnästä vastaa viestintä- ja markkinointiyksikkö. Korjattu: Pohjois-Savon hyvinvointialueella ulkoisesta viestinnästä vastaa viestintä- ja markkinointiyksikkö.\n\n- s.12: Sosiaalisen median kanavista poistettu Viestipalvelu X, jota ei enää käytetä.\n\n- s.26 lisätty: Suunnitelma on merkitty tiedoksi asiakaskokemusjaostossa 17.6.2026. Johtoryhmä hyväksyi suunnitelman 25.8.2026. Palveluiden edustajat ovat sen jälkeen vielä tarkistaneet vastuullaan olevat toimenpiteet ennen suunnitelman viemistä hyväksyttäväksi asiakaskokemusjaostoon ja sen jälkeen aluehallitukseen.\n\n- s. 26 poistettu: Yksiköt raportoivat toteuttamisesta omavalvonnan raportoinnin yhteydessä.\n\n- s. 26: Toiminnallinen yhdenvertaisuus- ja tasa-arvosuunnitelma päivitetään kokonaisuudessaan valtuustokausittain. Muutettu: Suunnitelma päivitetään kokonaisuudessaan valtuustokausittain ja siinä yhteydessä toteutetaan kyselyt henkilöstölle, asiakkaille ja sidosryhmille.\n\nJory 25.08.2026 § 28\n\nValmistelija(t)\nLaila Hytönen, Minna Mykkänen, Säde Rytkönen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n-Laila Hytönen oli läsnä kokouksessa asian esittelyn ajan klo 10.36 - 10.58\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": ""
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Johtoryhmä päättää hyväksyä toiminnallisen tasa-arvo- ja yhdenvertaisuussuunnitelman 2026-2029 ja esittää sen edelleen asiakaskokemusjaostolle hyväksyttäväksi.\n\nEnnakkovaikutusten arviointi\n\nToiminnallinen tasa-arvo ja yhdenvertaisuussuunnitelma antaa suunnan palvelujen tuottamiselle siitä näkökulmasta, että kaikille taataan yhdenmukaiset ja tasa-arvoiset mahdollisuudet saada palveluja ja tulla kohdelluksi tasa-arvoisesti.\n\nToimivallan peruste\nHallintosääntö § -\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nPohjois-savon hyvinvointialueen toiminnallinen tasa-arvo- ja yhdenvertaisuussuunnitelma 2026-2029\n\nValmistelu\nYhdenvertaisuuslain (1325/2014) mukaan viranomaisen on arvioitava, miten sen toiminta vaikuttaa eri väestöryhmiin ja miten yhdenvertaisuus muutoin toteutuu sen toiminnassa, ja ryhdyttävä tarvittaviin toimenpiteisiin yhdenvertaisuuden toteutumisen edistämiseksi. Edistämistoimenpiteiden on oltava viranomaisen toimintaympäristö, voimavarat ja muut olosuhteet huomioon ottaen tehokkaita, tarkoituksenmukaisia ja oikeasuhtaisia. Viranomaisella on oltava suunnitelma tarvittavista toimenpiteistä yhdenvertaisuuden edistämiseksi.\n\nPohjois-Savon hyvinvointialueen toiminnallisen tasa-arvo- ja yhdenvertaisuussuunnitelman avulla tunnistetaan, ylläpidetään ja kehitetään asiakkaiden tasa-arvoista ja yhdenvertaista palvelua ja kohtelua. Yhdenvertaisuussuunnitelmassa kuvataan, miten hyvinvointialueen toiminnassa edistetään asiakkaiden yhdenvertaisuutta, ehkäistään ja puututaan syrjintään ja lisätään asiakasosallisuutta. Lähtökohtana on se, että erilaiset asiakasryhmät voivat käyttää palveluja yhdenvertaisesti ja että yhdenvertaisuus toteutuu kaikessa toiminnassa. Tavoitteena on myös syventää henkilöstön tietoisuutta yhdenvertaisuuden ja syrjimättömyyden periaatteesta.\n\nSuunnitelmassa määritellään yhdenvertaisuustyön kehittämiskohteet. Nykytilan kartoituksen perusteella keskeisiksi kehittämiskohteiksi tunnistettiin seuraavat:\n\n Erilaiset asiakasryhmät huomioiva tiedottaminen ja viestintä\n\n Digipalvelujen saavutettavuus\n\n Palvelujen alueellinen saatavuus\n\n Tilojen esteettömyys erilaiset käyttäjäryhmät huomioiden\n\n Erilaisten asiakkaiden kohtaaminen\n\n Kielellisten oikeuksien ja saavutettavan kommunikoinnin varmistaminen asiakas- ja potilastyössä\n\nSuunnitelmassa on lisäksi määritelty kehittämiskohteiden tavoitteet ja -toimenpiteet, seuranta/arviointi sekä vastuutahot.\n\nSuunnitelman laatimisesta on vastannut toimialueiden edustajista koostuva työryhmä. Prosessin eri vaiheisiin on osallistettu henkilöstöä, asiakkaita, sidosryhmiä sekä hyvinvointialueen vammaisneuvosto, ikäihmisten neuvosto, nuorisovaltuusto ja järjestöneuvosto."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Pohjois-Savon hyvinvointialueen toiminnallinen tasa-arvo- ja yhdenvertaisuussuunnitelma 2026-2029",
+     "url": "https://pshva.oncloudos.com/kokous/20261168-5-290649.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "190",
+   "title": "Oikaisuvaatimus, erikoissairaanhoito Varkaus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261168-6",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261168-6.PDF",
+   "diary_number": "3407/06.03.02/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "191",
+   "title": "Oikaisuvaatimus, vammaispalvelut Siilinjärvi",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261168-7",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261168-7.PDF",
+   "diary_number": "3384/05.21.01/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "192",
+   "title": "Oikaisuvaatimus, peruspalvelut",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261168-8",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261168-8.PDF",
+   "diary_number": "3943/06.03.02/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "193",
+   "title": "Oikaisuvaatimus, erikoissairaanhoito",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261168-9",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261168-9.PDF",
+   "diary_number": "2983/02.05.00.01/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "194",
+   "title": "Oikaisuvaatimus, yhteisöllinen asuminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261168-10",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261168-10.PDF",
+   "diary_number": "3956/06.03.02/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "195",
+   "title": "Oikaisuvaatimus, perusterveydenhuolto",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261168-11",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261168-11.PDF",
+   "diary_number": "3591/02.05.00.01/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "196",
+   "title": "Oikaisuvaatimus, päivystys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261168-12",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261168-12.PDF",
+   "diary_number": "4057/06.03.02/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "197",
+   "title": "Oikaisuvaatimus, KYS",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261168-13",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261168-13.PDF",
+   "diary_number": "4289/06.03.02/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "198",
+   "title": "Oikaisuvaatimus, suun terveydenhuolto",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261168-14",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261168-14.PDF",
+   "diary_number": "4384/02.05.00.01/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "199",
+   "title": "Oikaisuvaatimus, KYS",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261168-15",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261168-15.PDF",
+   "diary_number": "4257/06.03.02/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "200",
+   "title": "Oikaisuvaatimus, ikääntyneiden palvelut",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261168-16",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261168-16.PDF",
+   "diary_number": "4532/05.17.01/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "201",
+   "title": "Oikaisuvaatimus, erikoissairaanhoito",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261168-17",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261168-17.PDF",
+   "diary_number": "4588/06.03.02/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "202",
+   "title": "Muut asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261168-18",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261168-18.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Puheenjohtaja päätti kokouksen klo 10.40",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja päätti kokouksen klo 10.40"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Rossi Markku",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Miettinen Heikki",
+   "role": "varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Ahokas Jarkko",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hämäläinen Vuokko",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Koistinen Minna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pitkänen Eveliina",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Väätäinen Jenna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Eskelinen Päivi",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Hiltunen Miia",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Raatikainen Riitta",
+   "role": "aluehallituksen puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Mattinen Pasi",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Suomi Sanna",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Pekkanen Leila",
+   "role": "asiantuntija",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261168",
+  "fetched_at": "2026-10-19T01:10:05+00:00",
+  "content_hash": "54b996964767fc0e",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T17:50:45+00:00"
+ }
+}

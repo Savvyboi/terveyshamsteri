@@ -1,0 +1,15 @@
+{
+ "region": "kainuu",
+ "started_at": "2026-10-26T01:03:21+00:00",
+ "parser_version": "0.1.0",
+ "fetched": 10,
+ "changed": 1,
+ "unchanged": 49,
+ "removed": 0,
+ "errors": [],
+ "complete": true,
+ "result": "ok",
+ "requests": 111,
+ "finished_at": "2026-10-26T01:05:13+00:00",
+ "meetings_total": 59
+}

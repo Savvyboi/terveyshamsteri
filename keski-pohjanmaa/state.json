@@ -1,0 +1,1130 @@
+{
+ "meetings": {
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261192": {
+   "id": "keski-pohjanmaan-aluevaltuusto/2026-10-05",
+   "date": "2026-10-05",
+   "stage": "minutes",
+   "hash": "8c3a5db5d3d66a1a",
+   "fetched_at": "2026-10-14T17:01:43+00:00",
+   "first_seen": "2026-10-14T17:01:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261203": {
+   "id": "mellersta-osterbottens-valfardsomradesfullmaktige/2026-10-05",
+   "date": "2026-10-05",
+   "stage": "minutes",
+   "hash": "0133608c82bf3461",
+   "fetched_at": "2026-10-14T17:01:56+00:00",
+   "first_seen": "2026-10-14T17:01:56+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261205": {
+   "id": "keski-pohjanmaan-tarkastuslautakunta/2026-10-02",
+   "date": "2026-10-02",
+   "stage": "minutes",
+   "hash": "554bc0ac47f3362f",
+   "fetched_at": "2026-10-14T17:02:19+00:00",
+   "first_seen": "2026-10-14T17:02:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261190": {
+   "id": "keski-pohjanmaan-tarkastuslautakunta/2026-09-24",
+   "date": "2026-09-24",
+   "stage": "minutes",
+   "hash": "baea48e5c8e58d1d",
+   "fetched_at": "2026-10-14T17:02:25+00:00",
+   "first_seen": "2026-10-14T17:02:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261181": {
+   "id": "keski-pohjanmaan-vanhusneuvosto/2026-09-24",
+   "date": "2026-09-24",
+   "stage": "minutes",
+   "hash": "a83e075cc0aac75d",
+   "fetched_at": "2026-10-14T17:02:34+00:00",
+   "first_seen": "2026-10-14T17:02:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261191": {
+   "id": "keski-pohjanmaan-aluevaalilautakunta/2026-09-22",
+   "date": "2026-09-22",
+   "stage": "minutes",
+   "hash": "bc029ad32bf6405b",
+   "fetched_at": "2026-10-14T17:02:41+00:00",
+   "first_seen": "2026-10-14T17:02:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261161": {
+   "id": "keski-pohjanmaan-hyvinvointi-ja-tulevaisuuslautakunta/2026-09-22",
+   "date": "2026-09-22",
+   "stage": "minutes",
+   "hash": "e73315d7d310c111",
+   "fetched_at": "2026-10-14T17:02:49+00:00",
+   "first_seen": "2026-10-14T17:02:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261179": {
+   "id": "keski-pohjanmaan-aluehallitus/2026-09-21",
+   "date": "2026-09-21",
+   "stage": "minutes",
+   "hash": "74aada7dc1ffb8f9",
+   "fetched_at": "2026-10-14T17:03:11+00:00",
+   "first_seen": "2026-10-14T17:03:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261183": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2026-09-21",
+   "date": "2026-09-21",
+   "stage": "minutes",
+   "hash": "eed067ebeacb8c27",
+   "fetched_at": "2026-10-14T17:03:33+00:00",
+   "first_seen": "2026-10-14T17:03:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261185": {
+   "id": "keski-pohjanmaan-turvallisuus-ja-pelastuslautakunta/2026-09-08",
+   "date": "2026-09-08",
+   "stage": "minutes",
+   "hash": "dec0202ab9263961",
+   "fetched_at": "2026-10-14T17:03:50+00:00",
+   "first_seen": "2026-10-14T17:03:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261188": {
+   "id": "keski-pohjanmaan-vammaisneuvosto/2026-09-08",
+   "date": "2026-09-08",
+   "stage": "minutes",
+   "hash": "d97a315792e84179",
+   "fetched_at": "2026-10-14T17:03:59+00:00",
+   "first_seen": "2026-10-14T17:03:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261156": {
+   "id": "keski-pohjanmaan-aluevaltuusto/2026-08-31",
+   "date": "2026-08-31",
+   "stage": "minutes",
+   "hash": "087011f49e77a3ee",
+   "fetched_at": "2026-10-19T01:02:12+00:00",
+   "first_seen": "2026-10-14T17:04:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261168": {
+   "id": "mellersta-osterbottens-valfardsomradesfullmaktige/2026-08-31",
+   "date": "2026-08-31",
+   "stage": "minutes",
+   "hash": "06a5649348999f3f",
+   "fetched_at": "2026-10-19T01:02:29+00:00",
+   "first_seen": "2026-10-14T17:04:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261172": {
+   "id": "keski-pohjanmaan-asiakasraati/2026-08-27",
+   "date": "2026-08-27",
+   "stage": "minutes",
+   "hash": "972f0d38339ef4cb",
+   "fetched_at": "2026-10-14T17:04:41+00:00",
+   "first_seen": "2026-10-14T17:04:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261136": {
+   "id": "mellersta-osterbottens-nationalspraksnamnden/2026-08-26",
+   "date": "2026-08-26",
+   "stage": "minutes",
+   "hash": "2afc9be3cedfdd99",
+   "fetched_at": "2026-10-14T17:04:51+00:00",
+   "first_seen": "2026-10-14T17:04:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261174": {
+   "id": "keski-pohjanmaan-aluehallitus/2026-08-24",
+   "date": "2026-08-24",
+   "stage": "minutes",
+   "hash": "5ceaa7f94563c4db",
+   "fetched_at": "2026-10-14T17:05:05+00:00",
+   "first_seen": "2026-10-14T17:05:05+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261175": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2026-08-24",
+   "date": "2026-08-24",
+   "stage": "minutes",
+   "hash": "201dae43e113a33d",
+   "fetched_at": "2026-10-14T17:05:19+00:00",
+   "first_seen": "2026-10-14T17:05:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261176": {
+   "id": "keski-pohjanmaan-tarkastuslautakunta/2026-08-20",
+   "date": "2026-08-20",
+   "stage": "minutes",
+   "hash": "cc1aa8330bf47872",
+   "fetched_at": "2026-10-14T17:05:27+00:00",
+   "first_seen": "2026-10-14T17:05:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261150": {
+   "id": "keski-pohjanmaan-aluehallitus/2026-08-17",
+   "date": "2026-08-17",
+   "stage": "minutes",
+   "hash": "0b6d1b5e3b3b3800",
+   "fetched_at": "2026-10-15T01:06:04+00:00",
+   "first_seen": "2026-10-14T17:05:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261167": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2026-08-17",
+   "date": "2026-08-17",
+   "stage": "minutes",
+   "hash": "27ad8807c371cc8c",
+   "fetched_at": "2026-10-14T17:06:09+00:00",
+   "first_seen": "2026-10-14T17:06:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261157": {
+   "id": "keski-pohjanmaan-aluehallitus/2026-06-24",
+   "date": "2026-06-24",
+   "stage": "minutes",
+   "hash": "17db10c3fda45cf7",
+   "fetched_at": "2026-10-14T17:06:18+00:00",
+   "first_seen": "2026-10-14T17:06:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261159": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2026-06-24",
+   "date": "2026-06-24",
+   "stage": "minutes",
+   "hash": "9fefcf0d04206853",
+   "fetched_at": "2026-10-14T17:06:27+00:00",
+   "first_seen": "2026-10-14T17:06:27+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261131": {
+   "id": "keski-pohjanmaan-vammaisneuvosto/2026-06-24",
+   "date": "2026-06-24",
+   "stage": "minutes",
+   "hash": "5e0b745311e7fccb",
+   "fetched_at": "2026-10-14T17:06:36+00:00",
+   "first_seen": "2026-10-14T17:06:36+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261148": {
+   "id": "keski-pohjanmaan-aluehallitus/2026-06-15",
+   "date": "2026-06-15",
+   "stage": "minutes",
+   "hash": "fa430f1f0d047db0",
+   "fetched_at": "2026-10-14T17:06:49+00:00",
+   "first_seen": "2026-10-14T17:06:49+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261154": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2026-06-15",
+   "date": "2026-06-15",
+   "stage": "minutes",
+   "hash": "dbea5a318eac4ac0",
+   "fetched_at": "2026-10-14T17:07:02+00:00",
+   "first_seen": "2026-10-14T17:07:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261143": {
+   "id": "keski-pohjanmaan-tarkastuslautakunta/2026-06-12",
+   "date": "2026-06-12",
+   "stage": "minutes",
+   "hash": "1c9b9583e1f89424",
+   "fetched_at": "2026-10-14T17:07:08+00:00",
+   "first_seen": "2026-10-14T17:07:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261120": {
+   "id": "keski-pohjanmaan-aluehallitus/2026-06-03",
+   "date": "2026-06-03",
+   "stage": "minutes",
+   "hash": "e9f2681a6c33a96c",
+   "fetched_at": "2026-10-14T17:07:26+00:00",
+   "first_seen": "2026-10-14T17:07:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261147": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2026-06-03",
+   "date": "2026-06-03",
+   "stage": "minutes",
+   "hash": "34353bfdfe8e3d9c",
+   "fetched_at": "2026-10-14T17:07:44+00:00",
+   "first_seen": "2026-10-14T17:07:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261135": {
+   "id": "mellersta-osterbottens-nationalspraksnamnden/2026-06-03",
+   "date": "2026-06-03",
+   "stage": "minutes",
+   "hash": "82e1024d6c7a4589",
+   "fetched_at": "2026-10-14T17:07:53+00:00",
+   "first_seen": "2026-10-14T17:07:53+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261149": {
+   "id": "keski-pohjanmaan-alueneuvottelukunta/2026-05-28",
+   "date": "2026-05-28",
+   "stage": "minutes",
+   "hash": "b76f661ba32e2d91",
+   "fetched_at": "2026-10-14T17:08:01+00:00",
+   "first_seen": "2026-10-14T17:08:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261123": {
+   "id": "keski-pohjanmaan-hyvinvointi-ja-tulevaisuuslautakunta/2026-05-26",
+   "date": "2026-05-26",
+   "stage": "minutes",
+   "hash": "6e72e1d2bdefc843",
+   "fetched_at": "2026-10-14T17:08:12+00:00",
+   "first_seen": "2026-10-14T17:08:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261125": {
+   "id": "keski-pohjanmaan-nuorisovaltuusto/2026-05-26",
+   "date": "2026-05-26",
+   "stage": "minutes",
+   "hash": "5ca08390db9de4d6",
+   "fetched_at": "2026-10-14T17:08:22+00:00",
+   "first_seen": "2026-10-14T17:08:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261110": {
+   "id": "keski-pohjanmaan-aluevaltuusto/2026-05-25",
+   "date": "2026-05-25",
+   "stage": "minutes",
+   "hash": "ed10edc7a3abbdf8",
+   "fetched_at": "2026-10-14T17:08:38+00:00",
+   "first_seen": "2026-10-14T17:08:38+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261146": {
+   "id": "mellersta-osterbottens-valfardsomradesfullmaktige/2026-05-25",
+   "date": "2026-05-25",
+   "stage": "minutes",
+   "hash": "83707621b54be184",
+   "fetched_at": "2026-10-14T17:08:54+00:00",
+   "first_seen": "2026-10-14T17:08:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261127": {
+   "id": "keski-pohjanmaan-aluevaalilautakunta/2026-05-21",
+   "date": "2026-05-21",
+   "stage": "minutes",
+   "hash": "51785e781e62be85",
+   "fetched_at": "2026-10-14T17:09:00+00:00",
+   "first_seen": "2026-10-14T17:09:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261130": {
+   "id": "keski-pohjanmaan-vanhusneuvosto/2026-05-21",
+   "date": "2026-05-21",
+   "stage": "minutes",
+   "hash": "63459c6df09a0786",
+   "fetched_at": "2026-10-14T17:09:09+00:00",
+   "first_seen": "2026-10-14T17:09:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261132": {
+   "id": "keski-pohjanmaan-turvallisuus-ja-pelastuslautakunta/2026-05-19",
+   "date": "2026-05-19",
+   "stage": "minutes",
+   "hash": "2a9582b89f37e3d6",
+   "fetched_at": "2026-10-14T17:09:18+00:00",
+   "first_seen": "2026-10-14T17:09:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261116": {
+   "id": "keski-pohjanmaan-aluehallitus/2026-05-11",
+   "date": "2026-05-11",
+   "stage": "minutes",
+   "hash": "8c57b592ac5c29ff",
+   "fetched_at": "2026-10-14T17:09:44+00:00",
+   "first_seen": "2026-10-14T17:09:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261133": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2026-05-11",
+   "date": "2026-05-11",
+   "stage": "minutes",
+   "hash": "7aed89d9f1af7bcd",
+   "fetched_at": "2026-10-14T17:10:10+00:00",
+   "first_seen": "2026-10-14T17:10:10+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261126": {
+   "id": "keski-pohjanmaan-tarkastuslautakunta/2026-05-07",
+   "date": "2026-05-07",
+   "stage": "minutes",
+   "hash": "17f53d702878fecb",
+   "fetched_at": "2026-10-14T17:10:17+00:00",
+   "first_seen": "2026-10-14T17:10:17+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261121": {
+   "id": "keski-pohjanmaan-tarkastuslautakunta/2026-04-30",
+   "date": "2026-04-30",
+   "stage": "minutes",
+   "hash": "e7e888c30df3f64a",
+   "fetched_at": "2026-10-14T17:10:22+00:00",
+   "first_seen": "2026-10-14T17:10:22+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261095": {
+   "id": "keski-pohjanmaan-aluehallitus/2026-04-27",
+   "date": "2026-04-27",
+   "stage": "minutes",
+   "hash": "a854a144ff4b474f",
+   "fetched_at": "2026-10-14T17:10:45+00:00",
+   "first_seen": "2026-10-14T17:10:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261112": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2026-04-27",
+   "date": "2026-04-27",
+   "stage": "minutes",
+   "hash": "c94e6a8fd0f8ee10",
+   "fetched_at": "2026-10-14T17:11:08+00:00",
+   "first_seen": "2026-10-14T17:11:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261119": {
+   "id": "keski-pohjanmaan-tarkastuslautakunta/2026-04-23",
+   "date": "2026-04-23",
+   "stage": "minutes",
+   "hash": "45f68e48e31be5bc",
+   "fetched_at": "2026-10-14T17:11:13+00:00",
+   "first_seen": "2026-10-14T17:11:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261113": {
+   "id": "keski-pohjanmaan-asiakasraati/2026-04-21",
+   "date": "2026-04-21",
+   "stage": "minutes",
+   "hash": "d189580433482080",
+   "fetched_at": "2026-10-14T17:11:21+00:00",
+   "first_seen": "2026-10-14T17:11:21+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261114": {
+   "id": "keski-pohjanmaan-tarkastuslautakunta/2026-04-16",
+   "date": "2026-04-16",
+   "stage": "minutes",
+   "hash": "2d46e364cf53f390",
+   "fetched_at": "2026-10-14T17:11:26+00:00",
+   "first_seen": "2026-10-14T17:11:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261111": {
+   "id": "keski-pohjanmaan-vammaisneuvosto/2026-04-15",
+   "date": "2026-04-15",
+   "stage": "minutes",
+   "hash": "57fef88116b275aa",
+   "fetched_at": "2026-10-14T17:11:35+00:00",
+   "first_seen": "2026-10-14T17:11:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261107": {
+   "id": "keski-pohjanmaan-vanhusneuvosto/2026-04-15",
+   "date": "2026-04-15",
+   "stage": "minutes",
+   "hash": "ee90f983764d6f1c",
+   "fetched_at": "2026-10-14T17:11:44+00:00",
+   "first_seen": "2026-10-14T17:11:44+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261092": {
+   "id": "keski-pohjanmaan-hyvinvointi-ja-tulevaisuuslautakunta/2026-04-14",
+   "date": "2026-04-14",
+   "stage": "minutes",
+   "hash": "b56caf3eecb23b52",
+   "fetched_at": "2026-10-14T17:11:53+00:00",
+   "first_seen": "2026-10-14T17:11:53+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261099": {
+   "id": "keski-pohjanmaan-tarkastuslautakunta/2026-04-09",
+   "date": "2026-04-09",
+   "stage": "minutes",
+   "hash": "9ed0dcfdac4dce40",
+   "fetched_at": "2026-10-14T17:11:59+00:00",
+   "first_seen": "2026-10-14T17:11:59+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261103": {
+   "id": "keski-pohjanmaan-turvallisuus-ja-pelastuslautakunta/2026-03-31",
+   "date": "2026-03-31",
+   "stage": "minutes",
+   "hash": "e46234e0582ab2b1",
+   "fetched_at": "2026-10-14T17:12:07+00:00",
+   "first_seen": "2026-10-14T17:12:07+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261078": {
+   "id": "keski-pohjanmaan-aluevaltuusto/2026-03-30",
+   "date": "2026-03-30",
+   "stage": "minutes",
+   "hash": "5a910e78d2898d78",
+   "fetched_at": "2026-10-14T17:12:25+00:00",
+   "first_seen": "2026-10-14T17:12:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261100": {
+   "id": "mellersta-osterbottens-valfardsomradesfullmaktige/2026-03-30",
+   "date": "2026-03-30",
+   "stage": "minutes",
+   "hash": "c45ead3f7749e312",
+   "fetched_at": "2026-10-14T17:12:43+00:00",
+   "first_seen": "2026-10-14T17:12:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261086": {
+   "id": "keski-pohjanmaan-aluehallitus/2026-03-18",
+   "date": "2026-03-18",
+   "stage": "minutes",
+   "hash": "252ee54bd06f8186",
+   "fetched_at": "2026-10-14T17:13:11+00:00",
+   "first_seen": "2026-10-14T17:13:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261094": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2026-03-18",
+   "date": "2026-03-18",
+   "stage": "minutes",
+   "hash": "bd16fcfd3800dc3c",
+   "fetched_at": "2026-10-14T17:13:39+00:00",
+   "first_seen": "2026-10-14T17:13:39+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261081": {
+   "id": "mellersta-osterbottens-nationalspraksnamnden/2026-03-18",
+   "date": "2026-03-18",
+   "stage": "minutes",
+   "hash": "627b9d42a7095420",
+   "fetched_at": "2026-10-14T17:13:50+00:00",
+   "first_seen": "2026-10-14T17:13:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261082": {
+   "id": "keski-pohjanmaan-tarkastuslautakunta/2026-03-12",
+   "date": "2026-03-12",
+   "stage": "minutes",
+   "hash": "4cfa18ea997225d2",
+   "fetched_at": "2026-10-14T17:13:57+00:00",
+   "first_seen": "2026-10-14T17:13:57+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261090": {
+   "id": "keski-pohjanmaan-nuorisovaltuusto/2026-03-10",
+   "date": "2026-03-10",
+   "stage": "minutes",
+   "hash": "8c49ac05017f6304",
+   "fetched_at": "2026-10-14T17:14:07+00:00",
+   "first_seen": "2026-10-14T17:14:07+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261083": {
+   "id": "keski-pohjanmaan-vammaisneuvosto/2026-02-19",
+   "date": "2026-02-19",
+   "stage": "minutes",
+   "hash": "d5cac7b619d727ac",
+   "fetched_at": "2026-10-14T17:14:16+00:00",
+   "first_seen": "2026-10-14T17:14:16+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261067": {
+   "id": "keski-pohjanmaan-hyvinvointi-ja-tulevaisuuslautakunta/2026-02-17",
+   "date": "2026-02-17",
+   "stage": "minutes",
+   "hash": "991fec048b2cfeef",
+   "fetched_at": "2026-10-14T17:14:28+00:00",
+   "first_seen": "2026-10-14T17:14:28+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261071": {
+   "id": "keski-pohjanmaan-turvallisuus-ja-pelastuslautakunta/2026-02-17",
+   "date": "2026-02-17",
+   "stage": "minutes",
+   "hash": "450d1a8e55add00c",
+   "fetched_at": "2026-10-14T17:14:37+00:00",
+   "first_seen": "2026-10-14T17:14:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261080": {
+   "id": "keski-pohjanmaan-vanhusneuvosto/2026-02-17",
+   "date": "2026-02-17",
+   "stage": "minutes",
+   "hash": "61654f5c6b76695b",
+   "fetched_at": "2026-10-14T17:14:45+00:00",
+   "first_seen": "2026-10-14T17:14:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261068": {
+   "id": "keski-pohjanmaan-aluehallitus/2026-02-16",
+   "date": "2026-02-16",
+   "stage": "minutes",
+   "hash": "8aba113aecebef34",
+   "fetched_at": "2026-10-14T17:15:11+00:00",
+   "first_seen": "2026-10-14T17:15:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261076": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2026-02-16",
+   "date": "2026-02-16",
+   "stage": "minutes",
+   "hash": "4d96e236665a2ac2",
+   "fetched_at": "2026-10-14T17:15:37+00:00",
+   "first_seen": "2026-10-14T17:15:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261074": {
+   "id": "keski-pohjanmaan-asiakasraati/2026-02-12",
+   "date": "2026-02-12",
+   "stage": "minutes",
+   "hash": "85d86f9914115e06",
+   "fetched_at": "2026-10-14T17:15:45+00:00",
+   "first_seen": "2026-10-14T17:15:45+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261060": {
+   "id": "keski-pohjanmaan-tarkastuslautakunta/2026-02-05",
+   "date": "2026-02-05",
+   "stage": "minutes",
+   "hash": "2948b06d5dfdf70d",
+   "fetched_at": "2026-10-14T17:15:52+00:00",
+   "first_seen": "2026-10-14T17:15:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261061": {
+   "id": "keski-pohjanmaan-aluehallitus/2026-01-26",
+   "date": "2026-01-26",
+   "stage": "minutes",
+   "hash": "95795ee4cfefd677",
+   "fetched_at": "2026-10-14T17:16:11+00:00",
+   "first_seen": "2026-10-14T17:16:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261064": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2026-01-26",
+   "date": "2026-01-26",
+   "stage": "minutes",
+   "hash": "33b8eb9557f53595",
+   "fetched_at": "2026-10-14T17:16:30+00:00",
+   "first_seen": "2026-10-14T17:16:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261049": {
+   "id": "mellersta-osterbottens-nationalspraksnamnden/2026-01-15",
+   "date": "2026-01-15",
+   "stage": "minutes",
+   "hash": "f0ec1d68ecab52fc",
+   "fetched_at": "2026-10-14T17:16:40+00:00",
+   "first_seen": "2026-10-14T17:16:40+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261052": {
+   "id": "keski-pohjanmaan-nuorisovaltuusto/2026-01-13",
+   "date": "2026-01-13",
+   "stage": "minutes",
+   "hash": "c68fb387ac206228",
+   "fetched_at": "2026-10-14T17:16:48+00:00",
+   "first_seen": "2026-10-14T17:16:48+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261055": {
+   "id": "keski-pohjanmaan-tarkastuslautakunta/2026-01-08",
+   "date": "2026-01-08",
+   "stage": "minutes",
+   "hash": "05e7155e9835d5b4",
+   "fetched_at": "2026-10-14T17:16:54+00:00",
+   "first_seen": "2026-10-14T17:16:54+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251039": {
+   "id": "keski-pohjanmaan-aluehallitus/2025-12-22",
+   "date": "2025-12-22",
+   "stage": "minutes",
+   "hash": "f0313e016933917c",
+   "fetched_at": "2026-10-14T17:17:12+00:00",
+   "first_seen": "2026-10-14T17:17:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251054": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2025-12-22",
+   "date": "2025-12-22",
+   "stage": "minutes",
+   "hash": "1150d283e6126dee",
+   "fetched_at": "2026-10-14T17:17:30+00:00",
+   "first_seen": "2026-10-14T17:17:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251041": {
+   "id": "keski-pohjanmaan-aluevaltuusto/2025-12-15",
+   "date": "2025-12-15",
+   "stage": "minutes",
+   "hash": "9adc217094f2ea91",
+   "fetched_at": "2026-10-14T17:17:47+00:00",
+   "first_seen": "2026-10-14T17:17:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251053": {
+   "id": "mellersta-osterbottens-valfardsomradesfullmaktige/2025-12-15",
+   "date": "2025-12-15",
+   "stage": "minutes",
+   "hash": "67c36623def7fdaa",
+   "fetched_at": "2026-10-14T17:18:04+00:00",
+   "first_seen": "2026-10-14T17:18:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251047": {
+   "id": "keski-pohjanmaan-vammaisneuvosto/2025-12-10",
+   "date": "2025-12-10",
+   "stage": "minutes",
+   "hash": "d0fe7b069f443411",
+   "fetched_at": "2026-10-14T17:18:18+00:00",
+   "first_seen": "2026-10-14T17:18:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251032": {
+   "id": "keski-pohjanmaan-hyvinvointi-ja-tulevaisuuslautakunta/2025-12-09",
+   "date": "2025-12-09",
+   "stage": "minutes",
+   "hash": "d4418fe938fd2626",
+   "fetched_at": "2026-10-14T17:18:29+00:00",
+   "first_seen": "2026-10-14T17:18:29+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251037": {
+   "id": "keski-pohjanmaan-vanhusneuvosto/2025-12-09",
+   "date": "2025-12-09",
+   "stage": "minutes",
+   "hash": "995e9496a17828b1",
+   "fetched_at": "2026-10-14T17:18:43+00:00",
+   "first_seen": "2026-10-14T17:18:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251045": {
+   "id": "keski-pohjanmaan-tarkastuslautakunta/2025-12-03",
+   "date": "2025-12-03",
+   "stage": "minutes",
+   "hash": "e5c529b5a5cd56a1",
+   "fetched_at": "2026-10-14T17:18:52+00:00",
+   "first_seen": "2026-10-14T17:18:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251046": {
+   "id": "keski-pohjanmaan-turvallisuus-ja-pelastuslautakunta/2025-12-02",
+   "date": "2025-12-02",
+   "stage": "minutes",
+   "hash": "40f681221eefd8a2",
+   "fetched_at": "2026-10-14T17:19:01+00:00",
+   "first_seen": "2026-10-14T17:19:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251025": {
+   "id": "keski-pohjanmaan-aluehallitus/2025-12-01",
+   "date": "2025-12-01",
+   "stage": "minutes",
+   "hash": "d11121a0dd681f1b",
+   "fetched_at": "2026-10-14T17:19:31+00:00",
+   "first_seen": "2026-10-14T17:19:31+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251040": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2025-12-01",
+   "date": "2025-12-01",
+   "stage": "minutes",
+   "hash": "84a6f857636e2ecc",
+   "fetched_at": "2026-10-14T17:20:01+00:00",
+   "first_seen": "2026-10-14T17:20:01+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251038": {
+   "id": "keski-pohjanmaan-aluevaalilautakunta/2025-11-25",
+   "date": "2025-11-25",
+   "stage": "minutes",
+   "hash": "36b16452ad6c126d",
+   "fetched_at": "2026-10-14T17:20:09+00:00",
+   "first_seen": "2026-10-14T17:20:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251011": {
+   "id": "keski-pohjanmaan-alueneuvottelukunta/2025-11-24",
+   "date": "2025-11-24",
+   "stage": "minutes",
+   "hash": "898480062a903603",
+   "fetched_at": "2026-10-14T17:20:18+00:00",
+   "first_seen": "2026-10-14T17:20:18+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251034": {
+   "id": "keski-pohjanmaan-asiakasraati/2025-11-13",
+   "date": "2025-11-13",
+   "stage": "minutes",
+   "hash": "e16f50dc07911758",
+   "fetched_at": "2026-10-14T17:20:25+00:00",
+   "first_seen": "2026-10-14T17:20:25+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251029": {
+   "id": "keski-pohjanmaan-aluehallitus/2025-11-10",
+   "date": "2025-11-10",
+   "stage": "minutes",
+   "hash": "6e1528278e5702f4",
+   "fetched_at": "2026-10-14T17:20:34+00:00",
+   "first_seen": "2026-10-14T17:20:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251031": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2025-11-10",
+   "date": "2025-11-10",
+   "stage": "minutes",
+   "hash": "3bc006fbaf615675",
+   "fetched_at": "2026-10-14T17:20:43+00:00",
+   "first_seen": "2026-10-14T17:20:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251026": {
+   "id": "keski-pohjanmaan-tarkastuslautakunta/2025-11-06",
+   "date": "2025-11-06",
+   "stage": "minutes",
+   "hash": "d241ac2e7d5bbaca",
+   "fetched_at": "2026-10-14T17:20:50+00:00",
+   "first_seen": "2026-10-14T17:20:50+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251006": {
+   "id": "keski-pohjanmaan-aluevaltuusto/2025-11-03",
+   "date": "2025-11-03",
+   "stage": "minutes",
+   "hash": "ac3a07dfb8a5f2a5",
+   "fetched_at": "2026-10-14T17:21:12+00:00",
+   "first_seen": "2026-10-14T17:21:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251017": {
+   "id": "mellersta-osterbottens-valfardsomradesfullmaktige/2025-11-03",
+   "date": "2025-11-03",
+   "stage": "minutes",
+   "hash": "89e4ecb675caf3d2",
+   "fetched_at": "2026-10-14T17:21:34+00:00",
+   "first_seen": "2026-10-14T17:21:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251018": {
+   "id": "keski-pohjanmaan-hyvinvointi-ja-tulevaisuuslautakunta/2025-10-30",
+   "date": "2025-10-30",
+   "stage": "minutes",
+   "hash": "1247687fcccf6324",
+   "fetched_at": "2026-10-14T17:21:41+00:00",
+   "first_seen": "2026-10-14T17:21:41+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251003": {
+   "id": "keski-pohjanmaan-aluehallitus/2025-10-27",
+   "date": "2025-10-27",
+   "stage": "minutes",
+   "hash": "ca8dcd2cc28df7da",
+   "fetched_at": "2026-10-14T17:22:09+00:00",
+   "first_seen": "2026-10-14T17:22:09+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251015": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2025-10-27",
+   "date": "2025-10-27",
+   "stage": "minutes",
+   "hash": "56a09e7eec33dca8",
+   "fetched_at": "2026-10-14T17:22:37+00:00",
+   "first_seen": "2026-10-14T17:22:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251019": {
+   "id": "mellersta-osterbottens-nationalspraksnamnden/2025-10-23",
+   "date": "2025-10-23",
+   "stage": "minutes",
+   "hash": "0796c07b0caba662",
+   "fetched_at": "2026-10-14T17:22:47+00:00",
+   "first_seen": "2026-10-14T17:22:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251021": {
+   "id": "keski-pohjanmaan-turvallisuus-ja-pelastuslautakunta/2025-10-21",
+   "date": "2025-10-21",
+   "stage": "minutes",
+   "hash": "b23ee59e1fdd943c",
+   "fetched_at": "2026-10-14T17:23:00+00:00",
+   "first_seen": "2026-10-14T17:23:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251008": {
+   "id": "keski-pohjanmaan-nuorisovaltuusto/2025-10-21",
+   "date": "2025-10-21",
+   "stage": "minutes",
+   "hash": "22df45e93802629a",
+   "fetched_at": "2026-10-14T17:23:11+00:00",
+   "first_seen": "2026-10-14T17:23:11+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251009": {
+   "id": "keski-pohjanmaan-tarkastuslautakunta/2025-10-02",
+   "date": "2025-10-02",
+   "stage": "minutes",
+   "hash": "f34bf8a3b29512ea",
+   "fetched_at": "2026-10-14T17:23:21+00:00",
+   "first_seen": "2026-10-14T17:23:21+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251004": {
+   "id": "keski-pohjanmaan-asiakasraati/2025-09-18",
+   "date": "2025-09-18",
+   "stage": "minutes",
+   "hash": "3ab3bf06944102f3",
+   "fetched_at": "2026-10-14T17:23:30+00:00",
+   "first_seen": "2026-10-14T17:23:30+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025990": {
+   "id": "keski-pohjanmaan-aluehallitus/2025-09-15",
+   "date": "2025-09-15",
+   "stage": "minutes",
+   "hash": "2bdf835977f6998e",
+   "fetched_at": "2026-10-14T17:23:51+00:00",
+   "first_seen": "2026-10-14T17:23:51+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025992": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2025-09-15",
+   "date": "2025-09-15",
+   "stage": "minutes",
+   "hash": "35e5bdbc31ccea2c",
+   "fetched_at": "2026-10-14T17:24:12+00:00",
+   "first_seen": "2026-10-14T17:24:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025997": {
+   "id": "keski-pohjanmaan-hyvinvointi-ja-tulevaisuuslautakunta/2025-09-11",
+   "date": "2025-09-11",
+   "stage": "minutes",
+   "hash": "175665bf9fcf2e68",
+   "fetched_at": "2026-10-14T17:24:26+00:00",
+   "first_seen": "2026-10-14T17:24:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025986": {
+   "id": "keski-pohjanmaan-turvallisuus-ja-pelastuslautakunta/2025-09-09",
+   "date": "2025-09-09",
+   "stage": "minutes",
+   "hash": "08eae26b3b43c474",
+   "fetched_at": "2026-10-14T17:24:35+00:00",
+   "first_seen": "2026-10-14T17:24:35+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025996": {
+   "id": "keski-pohjanmaan-tarkastuslautakunta/2025-09-04",
+   "date": "2025-09-04",
+   "stage": "minutes",
+   "hash": "a90d0d9985cdd828",
+   "fetched_at": "2026-10-14T17:24:43+00:00",
+   "first_seen": "2026-10-14T17:24:43+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025994": {
+   "id": "keski-pohjanmaan-nuorisovaltuusto/2025-09-01",
+   "date": "2025-09-01",
+   "stage": "minutes",
+   "hash": "b6cd4f7915705d65",
+   "fetched_at": "2026-10-14T17:24:52+00:00",
+   "first_seen": "2026-10-14T17:24:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025988": {
+   "id": "keski-pohjanmaan-aluehallitus/2025-08-27",
+   "date": "2025-08-27",
+   "stage": "minutes",
+   "hash": "97912ccacbf46c66",
+   "fetched_at": "2026-10-14T17:25:12+00:00",
+   "first_seen": "2026-10-14T17:25:12+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025991": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2025-08-27",
+   "date": "2025-08-27",
+   "stage": "minutes",
+   "hash": "dc0eeef64aaad11b",
+   "fetched_at": "2026-10-14T17:25:32+00:00",
+   "first_seen": "2026-10-14T17:25:32+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025980": {
+   "id": "keski-pohjanmaan-tarkastuslautakunta/2025-06-27",
+   "date": "2025-06-27",
+   "stage": "minutes",
+   "hash": "3a8bb96bda912419",
+   "fetched_at": "2026-10-14T17:25:37+00:00",
+   "first_seen": "2026-10-14T17:25:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025969": {
+   "id": "keski-pohjanmaan-aluehallitus/2025-06-16",
+   "date": "2025-06-16",
+   "stage": "minutes",
+   "hash": "dfdd6a4479c54750",
+   "fetched_at": "2026-10-14T17:26:02+00:00",
+   "first_seen": "2026-10-14T17:26:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025976": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2025-06-16",
+   "date": "2025-06-16",
+   "stage": "minutes",
+   "hash": "0962f87f88a090d7",
+   "fetched_at": "2026-10-14T17:26:26+00:00",
+   "first_seen": "2026-10-14T17:26:26+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025974": {
+   "id": "mellersta-osterbottens-nationalspraksnamnden/2025-06-11",
+   "date": "2025-06-11",
+   "stage": "minutes",
+   "hash": "2fe7e4232ba87a59",
+   "fetched_at": "2026-10-14T17:26:37+00:00",
+   "first_seen": "2026-10-14T17:26:37+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025978": {
+   "id": "rrf-keski-pohjanmaa-hankkeen-ohjausryhma/2025-06-10",
+   "date": "2025-06-10",
+   "stage": "minutes",
+   "hash": "f585a5e41063af6d",
+   "fetched_at": "2026-10-14T17:26:46+00:00",
+   "first_seen": "2026-10-14T17:26:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025967": {
+   "id": "keski-pohjanmaan-aluevaltuusto/2025-06-09",
+   "date": "2025-06-09",
+   "stage": "minutes",
+   "hash": "9244cf743fe836f6",
+   "fetched_at": "2026-10-14T17:27:02+00:00",
+   "first_seen": "2026-10-14T17:27:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025972": {
+   "id": "mellersta-osterbottens-valfardsomradesfullmaktige/2025-06-09",
+   "date": "2025-06-09",
+   "stage": "minutes",
+   "hash": "2389276796dfb41e",
+   "fetched_at": "2026-10-14T17:27:19+00:00",
+   "first_seen": "2026-10-14T17:27:19+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025949": {
+   "id": "keski-pohjanmaan-aluehallitus/2025-06-02",
+   "date": "2025-06-02",
+   "stage": "minutes",
+   "hash": "35e0925fb32f42e9",
+   "fetched_at": "2026-10-14T17:27:33+00:00",
+   "first_seen": "2026-10-14T17:27:33+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025963": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2025-06-02",
+   "date": "2025-06-02",
+   "stage": "minutes",
+   "hash": "262d5fac16dfda5e",
+   "fetched_at": "2026-10-14T17:27:47+00:00",
+   "first_seen": "2026-10-14T17:27:47+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=C84DEC0AX690EX4A78XBDEDX38050700BB0C": {
+   "id": "keski-pohjanmaan-tarkastuslautakunta/2026-10-22",
+   "date": "2026-10-22",
+   "stage": "agenda",
+   "hash": "b14727745e0d85e4",
+   "fetched_at": "2026-10-19T00:59:02+00:00",
+   "first_seen": "2026-10-19T00:59:02+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=39484EFCXBE39X4008XB502X2BCFEC5F9ABD": {
+   "id": "keski-pohjanmaan-turvallisuus-ja-pelastuslautakunta/2026-10-20",
+   "date": "2026-10-20",
+   "stage": "minutes",
+   "hash": "00cbf23c4f587a05",
+   "fetched_at": "2026-10-26T01:06:46+00:00",
+   "first_seen": "2026-10-19T00:59:08+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=9E52D483XA25BX47F6XB1E8XC6A97D4252F6": {
+   "id": "keski-pohjanmaan-aluehallitus/2026-10-05-2",
+   "date": "2026-10-05",
+   "stage": "minutes",
+   "hash": "aaece944df5ba591",
+   "fetched_at": "2026-10-19T01:00:00+00:00",
+   "first_seen": "2026-10-19T01:00:00+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2CC7BEF5XEF4EX4920X9CE6X028BDA1FA4C6": {
+   "id": "keski-pohjanmaan-hyvinvointi-ja-tulevaisuuslautakunta/2026-10-27",
+   "date": "2026-10-27",
+   "stage": "agenda",
+   "hash": "191350e1c3446571",
+   "fetched_at": "2026-10-26T01:05:52+00:00",
+   "first_seen": "2026-10-26T01:05:52+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=C90A5D68X1413X464EX81E7X9A8ADC6BBA37": {
+   "id": "keski-pohjanmaan-aluehallitus/2026-10-26",
+   "date": "2026-10-26",
+   "stage": "agenda",
+   "hash": "198975a32fe535e5",
+   "fetched_at": "2026-10-26T01:06:13+00:00",
+   "first_seen": "2026-10-26T01:06:13+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=15A317D1X4890X4A30XBC6BXF7318FA9F53C": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2026-10-26",
+   "date": "2026-10-26",
+   "stage": "agenda",
+   "hash": "1e7d0471ad331a29",
+   "fetched_at": "2026-10-26T01:06:34+00:00",
+   "first_seen": "2026-10-26T01:06:34+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=BDFBE0CFX8220X40FBXB4BEX0BAAD0BC570D": {
+   "id": "keski-pohjanmaan-aluehallitus/2026-10-12-2",
+   "date": "2026-10-12",
+   "stage": "minutes",
+   "hash": "980657d857aacbe9",
+   "fetched_at": "2026-10-26T01:06:55+00:00",
+   "first_seen": "2026-10-26T01:06:55+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2B33E470XF963X4417X9823X31CCA27D2480": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2026-10-12-2",
+   "date": "2026-10-12",
+   "stage": "minutes",
+   "hash": "f12a3126659fbccd",
+   "fetched_at": "2026-10-26T01:07:04+00:00",
+   "first_seen": "2026-10-26T01:07:04+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=1AB9E5E1XA17AX4D27XA72FX9F12163BCA03": {
+   "id": "mellersta-osterbottens-valfardsomradesstyrelse/2026-10-05-2",
+   "date": "2026-10-05",
+   "stage": "minutes",
+   "hash": "1928d7cdad358b68",
+   "fetched_at": "2026-10-26T01:07:46+00:00",
+   "first_seen": "2026-10-26T01:07:46+00:00",
+   "parser_version": "0.1.0"
+  },
+  "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=AB0F18ACXA0E1X4261XBAF2X0843D8EC9C8D": {
+   "id": "keski-pohjanmaan-yrittajafoorumi/2026-09-17-2",
+   "date": "2026-09-17",
+   "stage": "minutes",
+   "hash": "0fd0028636c80214",
+   "fetched_at": "2026-10-26T01:09:16+00:00",
+   "first_seen": "2026-10-26T01:09:16+00:00",
+   "parser_version": "0.1.0"
+  }
+ },
+ "last_run": "2026-10-26T01:10:15+00:00"
+}

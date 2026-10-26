@@ -1,0 +1,475 @@
+{
+ "id": "asiakaskokemusjaosto/2025-06-18",
+ "region": "pohjois-savo",
+ "body_id": "asiakaskokemusjaosto",
+ "body_name": "Asiakaskokemusjaosto",
+ "date": "2025-06-18",
+ "stage": "minutes",
+ "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025793",
+ "pdf_url": "https://pshva.oncloudos.com/kokous/2025793.PDF",
+ "time": "09:00 - 11:36",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "91",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025793-1",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025793-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen laillisuus ja päätösvaltaisuus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "92",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025793-2",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025793-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Ahokas Jarkko ja Hämäläinen Vuokko.",
+   "decision": "Pöytäkirjantarkastajiksi valittiin Ahokas Jarkko ja Hämäläinen Vuokko.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pöytäkirjantarkastajien valinta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Ahokas Jarkko ja Hämäläinen Vuokko."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Ahokas Jarkko ja Hämäläinen Vuokko."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "93",
+   "title": "Asioiden käsittelyjärjestys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025793-3",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025793-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asioiden käsittelyjärjestys"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "94",
+   "title": "Asiakaskokemusjaoston pöytäkirjanpitäjän valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025793-4",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025793-4.PDF",
+   "diary_number": "2/00.00.01/2022",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto päättää valita kokousten pöytäkirjanpitäjiksi Miia Hiltusen, Riikka Turusen ja Mirka Räsäsen.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 39\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nHyvinvointialuelain 112 §:n mukaan toimielimen päätöksistä pidetään pöytäkirjaa.\n\nAsiakaskokemusjaoston kokouksia varten tulee valita pöytäkirjanpitäjä.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nPäivi Eskelinen palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto päättää valita kokousten pöytäkirjanpitäjiksi Miia Hiltusen, Riikka Turusen ja Mirka Räsäsen.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 39\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nHyvinvointialuelain 112 §:n mukaan toimielimen päätöksistä pidetään pöytäkirjaa.\n\nAsiakaskokemusjaoston kokouksia varten tulee valita pöytäkirjanpitäjä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "95",
+   "title": "Ajankohtaiset asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025793-5",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025793-5.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto merkitsee ajankohtaiset asiat tiedoksi.\n\nEsittelijä tuo jaostolle tiedoksi ajankohtaiset asiat.",
+   "decision": "Ei ajankohtaisia.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Ajankohtaiset asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ei ajankohtaisia."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto merkitsee ajankohtaiset asiat tiedoksi.\n\nEsittelijä tuo jaostolle tiedoksi ajankohtaiset asiat."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "96",
+   "title": "Asiakaskokemusjaoston tehtävät ja toimivalta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025793-6",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025793-6.PDF",
+   "diary_number": "3855/00.01.02.00/2025",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto merkitsee tiedoksi katsauksen asiakaskokeumusjaoston tehtäviin ja hyväksyy jaoston vuosisuunnitelman.\n\nToimivallan peruste\nHallintosääntö § 39\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nAsiakaskokemusjaoston tehtävät on määritelty Pohjois-Savon hyvinvointialueen hallintosäännössä, pykälässä 39:\n\n39 § Asiakaskokemusjaoston tehtävät\n\nvastaa yksityisten sosiaali- ja terveyspalvelujen tuottajien valvonnasta ja koontiraportoinnista aluehallitukselle;\n\nvastaa hyvinvointialueen omien sosiaali- ja terveyspalvelujen tuotantoyksiköiden valvonnasta ja koontiraportoinnista aluehallitukselle;\n\nvastaa potilas- ja sosiaaliasiamiespalvelun järjestämiseen liittyvistä linjauksista ja suosituksista sekä em. koontiraporttien käsittelystä ja esityksistä aluehallitukselle;\n\nvastaa asiakaspalautejärjestelmän järjestämisvastuun linjauksista ja kehittämisestä sekä koontiraporttien seurannasta;\n\nvastaa asukkaiden aloitteiden käsittelystä sekä tarvittaessa esityksistä aluehallitukselle;\n\nvastaa palvelupalautteiden käsittelystä (yleinen koonti) sekä esityksistä aluehallitukselle;\n\nvastaa järjestäjätehtävän tuesta antamalla tarvittaessa lausuntoja merkittävistä palvelutuotannon uudistuksista ja muutoksista aluehallitukselle;\n\nvastaa jaostolle erikseen määrätyistä tehtävistä;\n\nvastaa ihmiskaupan uhrien auttamisjärjestelmän kehittämisestä ja seurannasta;\n\nvastaa rakenteellisen sosiaalityön koontiraporttien käsittelystä;\n\nvastaa kuntayhdyspintojen koontiraporttien käsittelystä;\n\nvastaa omais- ja perhehoidon työhyvinvointi raporteista;\n\npäättää myönnettävistä järjestöavustuksista\n\nkäsittelee sosiaali- ja terveydenhuollon asiakasmaksuja koskevat oikaisuvaatimukset\n\nvalmistelee aluehallitukselle omavalvontaohjelman sosiaali- ja terveyspalveluiden osalta\n\nAsiakaskokemusjaoston esittelijä ja valmistelijat antavat katsauksen asiakakokemusjaoston tehtäviin ja niiden toteutustapaan.\n\nEsittelijä käy läpi kokoamansa vuosisuunnitelman tehtävien toteuttamiseksi. Vuosisuunnitelma toimii sisäisenä työkaluna jaoston tehtävien toteutumisen seurannassa ja kokousten asiasisällön hallinnassa.",
+   "decision": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että:\n\n- Kati Kinnunen poistui klo 9.33\n\n- Riitta Raatikainen poistui klo 9.55\n\n- Jukka Heiskanen poistui klo 10.37\n\n- Sirpa Kononen saapui klo 10.43\n\n- Tuija Pakkala, Hanna Leinonen ja Tarja Tervo-Heikkinen poistuivat klo 10.50",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nHYTE- ja osallisuuspäällikkö Säde Rytkönen, Valvontapäällikkö Henna Leinonen\n\nPalvelualuepäällikkö, asiakkuudet ja laatu Päivi Eskelinen, puh tai"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että:\n\n- Kati Kinnunen poistui klo 9.33\n\n- Riitta Raatikainen poistui klo 9.55\n\n- Jukka Heiskanen poistui klo 10.37\n\n- Sirpa Kononen saapui klo 10.43\n\n- Tuija Pakkala, Hanna Leinonen ja Tarja Tervo-Heikkinen poistuivat klo 10.50"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto merkitsee tiedoksi katsauksen asiakaskokeumusjaoston tehtäviin ja hyväksyy jaoston vuosisuunnitelman.\n\nToimivallan peruste\nHallintosääntö § 39\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nAsiakaskokemusjaoston tehtävät on määritelty Pohjois-Savon hyvinvointialueen hallintosäännössä, pykälässä 39:\n\n39 § Asiakaskokemusjaoston tehtävät\n\nvastaa yksityisten sosiaali- ja terveyspalvelujen tuottajien valvonnasta ja koontiraportoinnista aluehallitukselle;\n\nvastaa hyvinvointialueen omien sosiaali- ja terveyspalvelujen tuotantoyksiköiden valvonnasta ja koontiraportoinnista aluehallitukselle;\n\nvastaa potilas- ja sosiaaliasiamiespalvelun järjestämiseen liittyvistä linjauksista ja suosituksista sekä em. koontiraporttien käsittelystä ja esityksistä aluehallitukselle;\n\nvastaa asiakaspalautejärjestelmän järjestämisvastuun linjauksista ja kehittämisestä sekä koontiraporttien seurannasta;\n\nvastaa asukkaiden aloitteiden käsittelystä sekä tarvittaessa esityksistä aluehallitukselle;\n\nvastaa palvelupalautteiden käsittelystä (yleinen koonti) sekä esityksistä aluehallitukselle;\n\nvastaa järjestäjätehtävän tuesta antamalla tarvittaessa lausuntoja merkittävistä palvelutuotannon uudistuksista ja muutoksista aluehallitukselle;\n\nvastaa jaostolle erikseen määrätyistä tehtävistä;\n\nvastaa ihmiskaupan uhrien auttamisjärjestelmän kehittämisestä ja seurannasta;\n\nvastaa rakenteellisen sosiaalityön koontiraporttien käsittelystä;\n\nvastaa kuntayhdyspintojen koontiraporttien käsittelystä;\n\nvastaa omais- ja perhehoidon työhyvinvointi raporteista;\n\npäättää myönnettävistä järjestöavustuksista\n\nkäsittelee sosiaali- ja terveydenhuollon asiakasmaksuja koskevat oikaisuvaatimukset\n\nvalmistelee aluehallitukselle omavalvontaohjelman sosiaali- ja terveyspalveluiden osalta\n\nAsiakaskokemusjaoston esittelijä ja valmistelijat antavat katsauksen asiakakokemusjaoston tehtäviin ja niiden toteutustapaan.\n\nEsittelijä käy läpi kokoamansa vuosisuunnitelman tehtävien toteuttamiseksi. Vuosisuunnitelma toimii sisäisenä työkaluna jaoston tehtävien toteutumisen seurannassa ja kokousten asiasisällön hallinnassa."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "97",
+   "title": "Vuodelle 2025 jatkettavat kumppanuusavustukset 3 kpl",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025793-7",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025793-7.PDF",
+   "diary_number": "1551/02.05.01/2024",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto päättää, että vuoden 2025 osalta myönnetään jatkettavaksi seuraavat kumppanuusavustukset ja avustussummat\n\nMansikka ry 33 200 euroa\n\nKirkkopalvelut ry 8 850 euroa\n\nHelsingin Diakonissalaitoksen säätiö sr 45 000 euroa\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Kehittämisyhdistys Mansikka ry\n\n- Liite 1, HEK 2024 – 2025 Talousraportti, Kehittämisyhdistys Mansikka ry\n\n- Liite 2, HEK väliraportti 2024, Kehittämisyhdistys Mansikka ry\n\n- Raportti kumppanuusavustustoiminnasta, Kirkkopalvelut ry\n\n- Liite 1, Kumppanuustoiminnan raportointi Erityisesti isä -toiminta PShva, Kirkkopalvelut ry\n\n- Raportti kumppanuusavustustoiminnasta, Helsingin Diakonissalaitoksen säätiö sr\n\n- Liite 1, Tuloslaskelma 2024, Helsingin Diakkonissalaitoksen säätiö sr\n\n- Liite 2, Tuloslaskelma 1 – 4.2025, Helsingin Diakonissalaitoksen säätiö sr\n\n- Liite 3, Väliraportti 2024 – 2025 Vamos HDL, Helsingin Diakonissalaitoksen säätiö sr\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa. Hyvinvointialue huolehtii myönnetyn avustuksen uusimisesta olemassa olevien käytänteiden mukaisesti.\n\nAsiakaskokemusjaosto on päättänyt 22.1.2025 kokouksessa jatkettavien kumppanuusavustusten budjettivarauksesta vuodelle 2025. Sen yhteenlaskettu summa on ollut 535 050 euroa. Varattu summa kattaa yhteensä 21 kpl jatkettavia kumppanuusavustuksia.\n\nKumppanuusavustusopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun. Raportoinnin aikataulu muodostuu siitä kuukaudesta, jolle kumppanuusavustus on saajalle myönnetty. Raportointi tehdään pääsääntöisesti 12 kk toiminnasta. Valmistelija tuo jatkettavat kumppanuusavustukset asiakaskokemusjaostolle päätettäväksi sen mukaan, kun väliraportti on saajalta saapunut hyvinvointialueelle.\n\nHyvinvointialueelle on saapunut nyt kolme väliraportti jatkettavista kumppanuusavustuksista. Toiminta on ollut kaikissa raporteissa sovitun mukaista. Väliraportti on välitetty myös kumppanuussopimuksen hyvinvointialueen toimialojen osapuolille.\n\nVuoden 2025 osalta ehdotetaan jatkettavaksi ja myönnettäväksi seuraavat kumppanuusavustukset ja avustussummat:\n\nMansikka ry\n33 200 euroa\n\nKirkkopalvelut ry\n8 850 euroa\n\nHelsingin Diakonissalaitoksen säätiö sr\n45 000 euroa\n\nMyönnettävä avustussumma jatkettavien kolmen kumppanuusavustuksen osalta on yhteensä 87 050 euroa. Jatkettavien sopimusten osalle varattua avustusbudjettia on ehdotuksen jälkeen jäljellä vielä 125 000 euroa.",
+   "decision": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että Säde Rytkönen ja Sirpa Kononen poistuivat asian käsittelyn ja päätöksenteon jälkeen klo 11.02",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nSirpa Kononen, hyvinvointikoordinaattori, HYTE- ja osallisuuspalveluyksikkö"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että Säde Rytkönen ja Sirpa Kononen poistuivat asian käsittelyn ja päätöksenteon jälkeen klo 11.02"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto päättää, että vuoden 2025 osalta myönnetään jatkettavaksi seuraavat kumppanuusavustukset ja avustussummat\n\nMansikka ry 33 200 euroa\n\nKirkkopalvelut ry 8 850 euroa\n\nHelsingin Diakonissalaitoksen säätiö sr 45 000 euroa\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Kehittämisyhdistys Mansikka ry\n\n- Liite 1, HEK 2024 – 2025 Talousraportti, Kehittämisyhdistys Mansikka ry\n\n- Liite 2, HEK väliraportti 2024, Kehittämisyhdistys Mansikka ry\n\n- Raportti kumppanuusavustustoiminnasta, Kirkkopalvelut ry\n\n- Liite 1, Kumppanuustoiminnan raportointi Erityisesti isä -toiminta PShva, Kirkkopalvelut ry\n\n- Raportti kumppanuusavustustoiminnasta, Helsingin Diakonissalaitoksen säätiö sr\n\n- Liite 1, Tuloslaskelma 2024, Helsingin Diakkonissalaitoksen säätiö sr\n\n- Liite 2, Tuloslaskelma 1 – 4.2025, Helsingin Diakonissalaitoksen säätiö sr\n\n- Liite 3, Väliraportti 2024 – 2025 Vamos HDL, Helsingin Diakonissalaitoksen säätiö sr\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa. Hyvinvointialue huolehtii myönnetyn avustuksen uusimisesta olemassa olevien käytänteiden mukaisesti.\n\nAsiakaskokemusjaosto on päättänyt 22.1.2025 kokouksessa jatkettavien kumppanuusavustusten budjettivarauksesta vuodelle 2025. Sen yhteenlaskettu summa on ollut 535 050 euroa. Varattu summa kattaa yhteensä 21 kpl jatkettavia kumppanuusavustuksia.\n\nKumppanuusavustusopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun. Raportoinnin aikataulu muodostuu siitä kuukaudesta, jolle kumppanuusavustus on saajalle myönnetty. Raportointi tehdään pääsääntöisesti 12 kk toiminnasta. Valmistelija tuo jatkettavat kumppanuusavustukset asiakaskokemusjaostolle päätettäväksi sen mukaan, kun väliraportti on saajalta saapunut hyvinvointialueelle.\n\nHyvinvointialueelle on saapunut nyt kolme väliraportti jatkettavista kumppanuusavustuksista. Toiminta on ollut kaikissa raporteissa sovitun mukaista. Väliraportti on välitetty myös kumppanuussopimuksen hyvinvointialueen toimialojen osapuolille.\n\nVuoden 2025 osalta ehdotetaan jatkettavaksi ja myönnettäväksi seuraavat kumppanuusavustukset ja avustussummat:\n\nMansikka ry\n33 200 euroa\n\nKirkkopalvelut ry\n8 850 euroa\n\nHelsingin Diakonissalaitoksen säätiö sr\n45 000 euroa\n\nMyönnettävä avustussumma jatkettavien kolmen kumppanuusavustuksen osalta on yhteensä 87 050 euroa. Jatkettavien sopimusten osalle varattua avustusbudjettia on ehdotuksen jälkeen jäljellä vielä 125 000 euroa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Raportti kumppanuusavustustoiminnasta, Kehittämisyhdistys Mansikka ry",
+     "url": "https://pshva.oncloudos.com/kokous/2025793-7-191354.PDF"
+    },
+    {
+     "title": "Liite 1, HEK 2024-2025 Talousraportti, Kehittämisyhdistys Mansikka ry",
+     "url": "https://pshva.oncloudos.com/kokous/2025793-7-191355.PDF"
+    },
+    {
+     "title": "Liite 2, HEK väliraportti 2024, Kehittämisyhdistys Mansikka ry",
+     "url": "https://pshva.oncloudos.com/kokous/2025793-7-191357.PDF"
+    },
+    {
+     "title": "Raportti kumppanuusavustustoiminnasta, Kirkkopalvelut ry",
+     "url": "https://pshva.oncloudos.com/kokous/2025793-7-191360.PDF"
+    },
+    {
+     "title": "Liite 1, Kumppanuusavustustoiminnan raportointi Erityisesti isä -toiminta PShva, Kirkkopalvelut ry",
+     "url": "https://pshva.oncloudos.com/kokous/2025793-7-191362.PDF"
+    },
+    {
+     "title": "Raportti kumppanuusavustustoiminnasta, Helsingin Diakonissalaitoksen säätiö sr.",
+     "url": "https://pshva.oncloudos.com/kokous/2025793-7-191365.PDF"
+    },
+    {
+     "title": "Liite 1, Tuloslaskelma 2024, Helsingin Diakonissalaitoksen säätiö sr.",
+     "url": "https://pshva.oncloudos.com/kokous/2025793-7-191366.PDF"
+    },
+    {
+     "title": "Liite 2, Tuloslaskelma 1-4.2025, Helsingin Diakonissalaitoksen säätiö sr.",
+     "url": "https://pshva.oncloudos.com/kokous/2025793-7-191368.PDF"
+    },
+    {
+     "title": "Liite 3, Väliraportti 2024-2025 Vamos HDL, Helsingin Diakonissalaitoksen säätiö sr.",
+     "url": "https://pshva.oncloudos.com/kokous/2025793-7-191370.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "98",
+   "title": "Oikaisuvaatimus, suun terveydenhuolto",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025793-8",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025793-8.PDF",
+   "diary_number": "2083/06.03.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "99",
+   "title": "Oikaisuvaatimus, kotihoidon maksu",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025793-9",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025793-9.PDF",
+   "diary_number": "2921/02.05.00.01/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "100",
+   "title": "Oikaisuvaatimus, tukipalvelumaksu",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025793-10",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025793-10.PDF",
+   "diary_number": "1863/06.03.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "101",
+   "title": "Oikaisuvaatimus, poliklinikka maksu",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025793-11",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025793-11.PDF",
+   "diary_number": "3037/02.05.00.01/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "102",
+   "title": "Muut asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025793-12",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025793-12.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Puheenjohtaja päätti kokouksen klo 11.36",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja päätti kokouksen klo 11.36"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Rossi Markku",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Miettinen Heikki",
+   "role": "varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Ahokas Jarkko",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hämäläinen Vuokko",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Koistinen Minna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pitkänen Eveliina",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Väätäinen Jenna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Eskelinen Päivi",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Hiltunen Miia",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Raatikainen Riitta",
+   "role": "aluehallituksen puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Rytkönen Säde",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Pakkala Tuija",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Leinonen Hanna",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Tervo-Heikkinen Tarja",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Heiskanen Jukka",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Kinnunen Kati",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Kononen Sirpa",
+   "role": "asiantuntija",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025793",
+  "fetched_at": "2026-10-14T18:36:27+00:00",
+  "content_hash": "604e3c862b423628",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T18:36:27+00:00"
+ }
+}
