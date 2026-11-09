@@ -1,0 +1,587 @@
+{
+ "id": "aluehallitus/2026-02-24",
+ "region": "pohjois-karjala",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2026-02-24",
+ "stage": "minutes",
+ "source_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100783",
+ "pdf_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783.PDF",
+ "time": "13:00 - 13:55",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "29",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetingitem&id=2026100783-1",
+   "pdf_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Puheenjohtaja:\n\nTodetaan kokous laillisesti koollekutsutuksi ja päätösvaltaiseksi.",
+   "decision": "Todettiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Päätösehdotus",
+     "text": "Puheenjohtaja:\n\nTodetaan kokous laillisesti koollekutsutuksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Todettiin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "30",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetingitem&id=2026100783-2",
+   "pdf_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nAluehallitus päättää valita pöytäkirjantarkastajiksi Tapio Hämäläisen ja Karita Kaidan. Pöytäkirja tarkastetaan sähköisesti kokouksen jälkeen.",
+   "decision": "Hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Päätösehdotus",
+     "text": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nAluehallitus päättää valita pöytäkirjantarkastajiksi Tapio Hämäläisen ja Karita Kaidan. Pöytäkirja tarkastetaan sähköisesti kokouksen jälkeen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin."
+    },
+    {
+     "heading": "Selostus",
+     "text": "Pöytäkirja tarkastetaan toimielimen päättämällä tavalla."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "31",
+   "title": "Esityslistan hyväksyminen",
+   "source_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetingitem&id=2026100783-3",
+   "pdf_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nAluehallitus hyväksyy kokouksen esityslistan.",
+   "decision": "Hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Päätösehdotus",
+     "text": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nAluehallitus hyväksyy kokouksen esityslistan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "32",
+   "title": "Salassa pidettävien asioiden käsittely",
+   "source_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetingitem&id=2026100783-4",
+   "pdf_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nToimielin käsittelee salaisen esityslistan erikseen.",
+   "decision": "Hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Päätösehdotus",
+     "text": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nToimielin käsittelee salaisen esityslistan erikseen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin."
+    },
+    {
+     "heading": "Selostus",
+     "text": "Kokouksessa käsitellään salaiselta esityslistalta:\n\n- oikaisuvaatimus vahingonkorvauspäätökseen (JulkL 24 § 1 mom. 25 -kohta)."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "33",
+   "title": "Kuukausiraportti - tammikuu 2026",
+   "source_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetingitem&id=2026100783-5",
+   "pdf_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-5.PDF",
+   "diary_number": "1292/00.01.03.00/2026",
+   "preparer": "Talousjohtaja Ismo Rouvinen; Puh.",
+   "presenter": null,
+   "proposal": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nAluehallitus merkitsee kuukausiraportin tammikuulta tiedokseen.",
+   "decision": "Keskustelun kuluessa Eeva-Liisa Auvinen esitti seuraavaa:\n\nhyvinvointialueella otetaan käyttöön kaikissa vakinaisten virkojen ja toimien rekrytoinneissa täyttölupamenettely\n\nhallitus pyytää 31.3.2026 hallituksen kokoukseen talouden tasapainotusohjelman, joka sisältää sekä toimenpiteet että eurot talousarviossa pysymiseksi.\n\nPuheenjohtaja kysyi hallitukselta, voidaanko Auvisen esitykset hyväksyä liitettäväksi päätökseen yksimielisesti. Hallitus hyväksyi esitykset yksimielisesti.\n\nHallitus merkitsi kuukausiraportin tammikuulta tiedokseen ja päätti lisätä päätökseen edellä kirjatut toimenpiteet.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Lisätiedot",
+     "text": "Talousjohtaja Ismo Rouvinen\n\n\n\nPuh."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nAluehallitus merkitsee kuukausiraportin tammikuulta tiedokseen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Keskustelun kuluessa Eeva-Liisa Auvinen esitti seuraavaa:\n\nhyvinvointialueella otetaan käyttöön kaikissa vakinaisten virkojen ja toimien rekrytoinneissa täyttölupamenettely\n\nhallitus pyytää 31.3.2026 hallituksen kokoukseen talouden tasapainotusohjelman, joka sisältää sekä toimenpiteet että eurot talousarviossa pysymiseksi.\n\nPuheenjohtaja kysyi hallitukselta, voidaanko Auvisen esitykset hyväksyä liitettäväksi päätökseen yksimielisesti. Hallitus hyväksyi esitykset yksimielisesti.\n\nHallitus merkitsi kuukausiraportin tammikuulta tiedokseen ja päätti lisätä päätökseen edellä kirjatut toimenpiteet."
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluehallituksen hyväksymän talousarvion täytäntöönpano-ohjeen mukaisesti toiminnan ja talouden toteutumista käsitellään kuukausittain johtoryhmässä ja aluehallituksessa. Lisäksi taloudesta ja sitovien tavoitteiden toteutumisesta raportoidaan osavuosikatsauksilla aluevaltuustolle, aluehallitukselle ja tarkastuslautakunnalle. Osavuosikatsauksia tehdään kolme kertaa vuodessa: tammi-maaliskuun, tammi-kesäkuun ja tammi-syyskuun tiedoilla. Neljäs eli viimeinen raportti on tilinpäätös, joka kattaa koko vuoden seurannan. Talouden toteutumista on arvioitava kokonaisuutena ja aluehallitukselle laaditaan tulosennuste sekä katsaus strategisten mittareiden ja tuottavuusohjelman toteumasta kuukausiraportoinnin yhteydessä.\n\nStrategiset mittarit\n\nHyvinvointialueen strategiset mittarit on johdettu strategisen palvelustrategian keskeisistä päämääristä. Strategiset mittarit (taulukko 1) ovat aluehallitukseen ja -valtuustoon nähden sitovia.\n\nTavoitteenamme on, että toimintamme on asiakaslähtöistä ja laadukasta. Asiakaskokemusta mitataan NPS-suositteluindeksin avulla kaikilla palvelutuotannon toimialueilla. Organisaatiotasoiseksi tavoitetasoksi on asetettu, että NPS ≥ 75. Asiakaskokemuksen koko organisaation tunnusluku tammikuussa oli 78,8, eli tavoite olisi toteutumassa.\n\nTavoitteenamme on järjestää asukkaillemme heidän tarvitsemansa palvelut oikea-aikaisesti ja lakisääteisissä ajoissa. Palvelujen saatavuutta arvioidaan “liikennevalomallin” avulla: punainen < 90 %, keltainen 90 ≤ x < 100 % ja vihreä 100 % palveluista toteutuu lakisääteisessä ajassa. Tätä mittaria on mahdollista tarkastella kuukausittain. Hyvinvointialuetasolla toimialueiden mittareiden keskiarvo oli tammikuun lopussa 85,5 %, joka on tavoitteen alapuolella. Talousarvioon sisällytettyjen lisäpanostusten avulla palvelujen lakisääteisyys on parantunut edellisvuodesta.\n\nTavoitteenamme on, että hyvinvointialueella on riittävä, osaava ja hyvinvoiva henkilöstö. Vuoden 2026 tavoitteena on, että henkilöstön lähtövaihtuvuus on enintään 6 %. Tätä mittaria on mahdollista tarkastella kuukausittain. Tammikuun lopussa lähtövaihtuvuus oli 3,6 %, joten toteuma on tavoitteessa.\n\nTavoitteenamme on, että toimintamme on taloudellisesti kestävällä pohjalla. Hyvinvointialueen rahoitusmallissa vuosikate on tunnusluku, jonka perusteella tulevien vuosien lainanottovaltuudet määritellään. Vuoden 2026 tavoitteena on, että vuosikate on vähintään 37,9 milj. euroa. Hyvinvointialuetasolla tavoitteen toteutumista seurataan tilikauden tulosennusteen perusteella kuukausittain. Tammikuun taloustietojen perusteella vuosikate olisi asettumassa noin 27,9 milj. euron tasolle, joten taloustavoite ei olisi toteutumassa.\n\nTavoitteenamme on, että olemme luotettava organisaatio asiakkaillemme ja työntekijöillemme. Työntekijäkokemusta mitataan eNPS suositteluindeksin avulla. Tavoitearvoksi vuodelle 2026 on asetettu luku 20, joka määräytyy hyvinvointialueiden kansallisten tuloksien perusteella. Tätä mittaria on mahdollista tarkastella kvartaaleittain. Seuraava työntekijäkokemuksen mittaus on maaliskuussa.\n\nTalousennuste\n\nTulosennusteen (taulukko 2.) arvioidaan kuluvan vuoden lopussa olevan 7,0 milj. euroa ylijäämäinen, mikä olisi noin 10 milj. euroa talousarviota huonompi tulos. Valtion rahoitukseen tuli joulukuussa 2025 n. 2 milj. euron lisäys, koska iäkkäiden ympärivuorokautisen hoivan henkilöstömitoituksen keventäminen teknologian avulla lakimuutos on eduskunnassa edelleen kesken ja siihen liittyvä alueille asetettu sopeuttamistavoite peruttiin. Tähän liittyvä talousarviomuutos on tarkoitus tehdä 1. osavuosikatsauksen yhteydessä, tulosennusteessa muutoksen vaikutus on kuitenkin jo huomioitu. Talouden toteumaa seurataan kuukausittain talousarvioon verrattuna.\n\nKumulatiivinen toimintakulujen kasvu edellisvuoteen verrattuna on tammikuussa 1,0 %. Tammikuussa toimintakuluissa ei vielä ole mukana kaikki toimitilojen vuokrakustannukset eivätkä myöskään tammikuussa tehdyt lisäpanostukset lakisääteisyyden parantamiseksi, joten toimintakulujen todellinen kasvu on suurempi. Tämä on kuitenkin huomioitu tulosennusteessa. Tässä vaiheessa toimintakulujen arvioidaan ylittävän talousarvion noin 12 milj. eurolla. Tällä hetkellä talousarvioon verrattuna sosiaalipalveluissa on kaikkiaan yli 16 milj. euron ylitysuhka palvelujen ostoissa. Vastaavasti konsernipalveluissa toimintakulujen arvioidaan alittuvan yli 4 milj. euroa pääasiassa toimitilojen vuokrakustannusten myötä. Muilla toimialueilla arvioidaan tammikuun tietojen perusteella toiminnasta aiheutuvien kustannusten olevan talousarvion mukaisella tasolla.\n\nToimintatuottojen kertymän ennustetaan olevan talousarvion mukaista. Valtionrahoituksen ennusteessa huomioitu n. 2 milj. euron rahoituksen lisäys. Myös muiden kuluerien arvioidaan toteutuvan talousarvion mukaisesti.\n\nKun tiedossa olevat arviot sekä tulo- että menopuolen merkittävimmistä tekijöistä huomioidaan, hyvinvointialueen tulosennusteen arvioidaan olevan 10 milj. euroa talousarviota heikompi, mikä tarkoittaisi 7,0 milj. euron ylijäämäistä tulosta.\n\nParhaillaan on valmistelussa hyvinvointialuelain väliaikainen muuttaminen, joka mahdollistaisi niille alueille, joilla on aluevaltuuston hyväksymä suunnitelma kertyneen alijämän kattamiseksi viipymättä, mahdollisuuden hakea lisäaikaa kumulatiivisen alijämänsä kattamiseksi vuoden 2027 tai vuoden 2028 loppuun mennessä. Laki on tarkoitettu tulemaan voimaan mahdollisimman pian. Pohjois-Karjalan hyvinvointialue on omassa lakilausunnossaan esittänyt, että alijäämien kattamisen määräaikaa pitäisi kuitenkin jatkaa yhdestä neljään vuoteen (2027–2030), koska rahoituslain III-vaiheen muutokset ovat heikentämässä entisestään alueiden rahoitusta. Hyvinvointialueet ovat tehneet nykyiset taloussuunnitelmansa ja talouden sopeuttamisohjelmansa voimassa olevien valtion painelaskelmien mukaisesti. Nyt III-vaiheessa esitetyt rahoituslain heikennykset vaikuttavat merkittävästi alueiden talouden sopeuttamissuunnitelmiin ja kykyyn kattaa alijäämät ilman lakisääteisten palvelujen saatavuuden vaarantumista.\n\nTuottavuusohjelma\n\nAluehallitukselle raportoidaan myös tuottavuusohjelman toteutumisesta. Tuottavuusohjelma sisältää merkittävimmät palvelukokonaisuudet (lisäpanostukset) lakisääteisyyden turvaamiseksi, rakenteelliset muutokset (toiminnan uudistaminen) ja talouden sopeuttamisohjelman (säästöt). Tuottavuusohjelmalla ja strategisilla kehittämishankkeilla vastataan ministeriöiden hyvinvointialueelle asettamiin toimenpidesuosituksiin ja alueelle myönnetyn lisärahoituksen ehtoihin.\n\nTalouden sopeuttamisohjelman toteutumisesta on arvio taulukossa 3. Sen mukaan tällä hetkellä toimenpiteiden vastuuhenkilöt ovat arvioineet, että talouden sopeuttamisohjelman suunnitellut toimenpiteet olisivat toteutumassa.\n\nMerkittävien palvelukokonaisuuksien edistäminen lakisääteisyyden parantamiseksi on alkanut suunnitellusti. Panostuksista aiheutuneet toimintakulut eivät vielä tammikuussa ole realisoituneet, mutta niiden toteutuminen on huomioitu talousennusteessa. Toiminnallisesti tapahtuva lakisääteisyyden raportointi on parhaillaan valmistelussa ja palvelutuotannon toimialueiden johto tulee raportoimaan tästä kehityksestä tarkemmin tulevissa kuukausiraporteissa.\n\nRakenteellisten muutoksien valmistelu on parhaillaan käynnissä. Lähtökohtaisesti rakenteellisilla muutoksilla on löydettävä myös taloudellisia hyötyjä täydentämään mahdollisia talousarvion ylityksiä, jotta hyvinvointialueen taloussuunnittelukauden alijäämän kattamistavoite ei vaarannu."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Toiminta- ja talouskatsaus - tammikuu 2026",
+     "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-5-211133.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "34",
+   "title": "Ehkäisevän päihdetyön toimintasuunnitelman 2023–2025 loppuarviointi ja ehkäisevän päihdetyön toimintasuunnitelman hyväksyminen vuosille 2026–2029",
+   "source_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetingitem&id=2026100783-6",
+   "pdf_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-6.PDF",
+   "diary_number": "1004/00.01.03.00/2026",
+   "preparer": "Hyvinvoinnin ja terveyden edistämisen asiantuntija Ellinoora Ojala",
+   "presenter": null,
+   "proposal": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nAluehallitus merkitsee tiedokseen ehkäisevän päihdetyön toimintasuunnitelman 2023–2025 loppuarvioinnin ja ehkäisevän päihdetyön toimintasuunnitelman vuosille 2026–2029.",
+   "decision": "Merkittiin tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvoinnin ja terveyden edistämisen lautakunta 18.02.2026 § 16"
+    },
+    {
+     "heading": "Lisätiedot",
+     "text": "Hyvinvoinnin ja terveyden edistämisen asiantuntija Ellinoora Ojala"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Strategiajohtaja Pirskanen Ilkka:\n\nHyvinvoinnin ja terveyden edistämisen lautakunta merkitsee tiedoksi toimintasuunnitelman loppuarvioinnin vuosille 2023–2025 ja hyväksyy toimintasuunnitelman vuosille 2026 - 2029 sekä antaa sen tiedoksi aluehallitukselle."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkittiin pöytäkirjalle, että Jussi Laakkosen tilalle pöytäkirjantarkastajaksi vaihdettiin Ville Elonheimo.\n\nMerkittiin tiedoksi. Hyväksyttiin.\n\nHyvinvoinnin ja terveyden edistämisen lautakunta saattaa toimintasuunnitelman tiedoksi aluehallitukselle."
+    },
+    {
+     "heading": "Selostus",
+     "text": "Pohjois-Karjalan hyvinvointialueen hallintosäännön § 11:n mukaan Hyvinvoinnin ja terveyden edistämisen lautakunta toimii laissa ehkäisevästä päihdetyöstä säädettynä ehkäisevän päihdetyön toimielimenä ja käsittelee ja tarvittaessa hyväksyy hyvinvoinnin ja terveyden edistämisen kansalliset ohjelmat ja suositukset. Osana näitä hallintosäännössä osoitettuja tehtäviä lautakunta päättää ehkäisevän päihdetyön toimintasuunnitelmasta.\n\nEhkäisevä päihdetyö kuuluu kuntien ja hyvinvointialueiden lakisääteisiin tehtäviin. Laki ehkäisevän päihdetyön järjestämisestä (523/2015) varmistaa ehkäisevän päihdetyön toimintaedellytykset ja edistää siten terveyden ja hyvinvoinnin tasa-arvoa. Kunnan ja hyvinvointialueen ehkäisevään päihdetyöhön sovelletaan lisäksi, mitä sosiaali- ja terveydenhuollon järjestämisestä annetun lain (612/2021) 6 ja 7 §:ssä säädetään terveyden ja hyvinvoinnin edistämisestä sekä sitä koskevasta suunnittelusta ja raportoinnista. Pohjois-Karjalassa on laadittu ensimmäinen ehkäisevän päihdetyön toimintasuunnitelma vuosille 2023–2025, joka hyväksyttiin hyvinvoinnin ja terveyden edistämisen lautakunnassa 12.1.2023.\n\nAlueellisessa ehkäisevän päihdetyön toimintasuunnitelmassa vuosille 2026–2029 on kuvattu alueella tehtävän ehkäisevän päihdetyön kokonaisuus hyvinvointialueen ehkäisevän päihdetyön tehtävien sekä yhteistyössä muiden toimijoiden kanssa tehtävän työn näkökulmasta. Suunnitelmaan on kirjattu keskeiset keinot ehkäisevän päihdetyön laadun parantamiseen, varhaisen tunnistamisen, tuen ja tiedon lisäämiseen sekä arkiympäristöjen ja yhteisöjen päihteettömyyden edistämiseen. Toimintasuunnitelma on laadittu laajassa yhteistyössä eri toimijoiden kanssa ja vaikuttamistoimielimillä on ollut mahdollisuus sen kommentointiin.\n\nToimintasuunnitelman esittelee hyvinvoinnin ja terveyden edistämisen asiantuntija Ellinoora Ojala."
+    },
+    {
+     "heading": "Lisätiedot",
+     "text": "Hyvinvoinnin ja terveyden edistämisen asiantuntija Ellinoora Ojala\n\n\n\nPuh."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nAluehallitus merkitsee tiedokseen ehkäisevän päihdetyön toimintasuunnitelman 2023–2025 loppuarvioinnin ja ehkäisevän päihdetyön toimintasuunnitelman vuosille 2026–2029."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkittiin tiedoksi."
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hyvinvoinnin ja terveyden edistämisen lautakunta § 16/18.2.2026."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Alueellinen ehkäisevän päihdetyön toimintasuunnitelma 2026-2029",
+     "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-6-211131.PDF"
+    },
+    {
+     "title": "Liite 2 Ehkäisevän päihdetyön toimintasuunnitelma 2023-2025 kokonaisarviointi",
+     "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-6-211132.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "35",
+   "title": "Oikaisuvaatimus aluehallituksen päätöksestä 10.2.2026 § 22",
+   "source_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetingitem&id=2026100783-7",
+   "pdf_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-7.PDF",
+   "diary_number": "981/00.01.01.01/2026",
+   "preparer": "Vs. sosiaalipalvelujen toimialuejohtaja Tuuli Ollila; Puh.",
+   "presenter": null,
+   "proposal": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nAluehallitus hylkää oikaisuvaatimuksen.",
+   "decision": "Hyväksyttiin.\n\nMerkittiin pöytäkirjaan, että\n\nTarja Hyykky ilmoitti olevansa esteellinen (yhteisöjäävi) tämän asian käsittelyssä. Esteellisyys hyväksyttiin. Tarja Hyykky poistui kokoustilasta asian käsittelyn ajaksi\n\nJuristi Sakari Kela oli paikalla asiantuntijana tämän asian käsittelyn aikana.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Lisätiedot",
+     "text": "Vs. sosiaalipalvelujen toimialuejohtaja Tuuli Ollila\n\n\n\nPuh."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nAluehallitus hylkää oikaisuvaatimuksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin.\n\nMerkittiin pöytäkirjaan, että\n\nTarja Hyykky ilmoitti olevansa esteellinen (yhteisöjäävi) tämän asian käsittelyssä. Esteellisyys hyväksyttiin. Tarja Hyykky poistui kokoustilasta asian käsittelyn ajaksi\n\nJuristi Sakari Kela oli paikalla asiantuntijana tämän asian käsittelyn aikana."
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluehallitus päätti 10.2.2026 § 22 muuttaa tukipalvelujen palvelusetelin sisältöä siten, että palvelusetelillä ei ole jatkossa mahdollista myöntää palvelusetelipalvelua kylvetyksessä ja pesussa avustamiseen, pihatyöpalvelua eikä ulkoiluapua.\n\nPäätöksestä Sari Oinonen on tehnyt 13.2.2026 päivätyn kirjallisen oikaisuvaatimuksen, joka liitteineen esityslistan liitteenä.\n\nOikaisuvaatimuksen johdosta on todettava seuraavaa:\n\nAluehallituksen päätöksessä on kyse siitä, että päätöksessä tarkoitetut tukipalvelut tuotetaan jatkossa ostopalveluina, kun edeltävästi yhtenä tuottamistapana on ollut palvelusetelin antaminen kyseisiin palveluihin. Jatkossakin asiakkaalla on siis mahdollisuus tarvitsemiinsa tukipalveluihin. Aluehallituksen päätös tarkoittaa tuottamistavan muuttamista, ei palvelujen tuottamatta jättämistä. Oikaisuvaatimuksen liitteenä oleva dokumentti tukipalvelujen arvonlisäverokohtelusta on vuodelta 2020, eli ajalta ennen 1.1.2024 voimaan tullutta lakia sosiaali- ja terveydenhuollon valvonnasta. Valvontalain mukaisesti päivitetty verottajan syventävä ohje sosiaalihuoltopalvelujen arvonlisäverotuksesta on julkaistu 2.1.2024:\n\nSosiaalihuoltopalvelujen arvonlisäverotus - vero.fi\n\nVerottajalta saadun tiedon mukaan verottaja tulkitsee jatkossa kylvetyksessä, pesuavussa ja pihatöissä tuotettavat palvelun arvonlisäverolliseksi toiminnaksi. Palvelusetelijärjestelmässä käytettävä tietojärjestelmä (Efficor) ei sellaisenaan taivu järjestelyyn, jossa palvelusetelin arvossa olisi huomioitu arvonlisäveron osuus. Sen sijaan ostopalveluna hankittavaan palveluun sisältyvän arvonlisäveron hyvinvointialue saa palautuksena takaisin. Verottajan tulkinnan muutoksesta johtuen kyseisten palvelujen tuottaminen palvelusetelin avulla on hyvin epätarkoituksenmukaista ja aiheuttaa runsaasti ylimääräistä työtä.\n\nPalvelusetelilain 4 §:n 1 momentin mukaan hyvinvointialue päättää ne sosiaali- ja terveyspalvelut, joiden järjestämisessä se käyttää palveluseteliä hyvinvointialueesta annetun lain (611/2021) 9 §:n 1 momentin mukaisesti. Palvelusetelin käytettävyyttä harkittaessa määräävää on asiakkaan palvelutarve, käytettävissä olevat palveluntuottajien resurssit ja palvelusetelin soveltuminen osaksi palvelujen kokonaisuutta. Tässä tapauksessa palveluseteli ei ole osoittautunut tarkoituksenmukaiseksi tavaksi tuottaa kyseisiä palveluja, johtuen palveluun sisältyvän arvonlisäveron käsittelystä. Tällöin hyvinvointialueella on palvelusetelilain 4 §:n 1 momentin mukaisesti mahdollisuus päättää, että näitä palveluja ei jatkossa tuoteta palvelusetelillä.\n\nOikaisuvaatimus on näin ollen hylättävä."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Oikaisuvaatimus aluehallituksen päätöksestä 10.2.2022 § 22",
+     "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-7-210278.PDF"
+    },
+    {
+     "title": "Liite 2 Liite - Sosiaalihuoltolain 19 §:n mukaisten kotipalvelujen ja liikkumisen tuen arvonlisäverokohtelu - Oikaisuvaatimus aluehallituksen päätöksestä 10.2.2022 § 22",
+     "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-7-210287.PDF"
+    },
+    {
+     "title": "Liite 3 Aluehallituksen päätös 10.2.2022 § 22 - Sosiaalipalvelujen tukipalveluja koskevan palvelusetelin käyttökohteiden rajaaminen",
+     "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-7-210288.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "36",
+   "title": "Ohje valtuustoryhmien tukemiseksi - ohjeen päivitys",
+   "source_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetingitem&id=2026100783-8",
+   "pdf_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-8.PDF",
+   "diary_number": "1293/00.01.01.01/2026",
+   "preparer": "Hallintojohtaja Ilkka Naukkarinen; Puh.",
+   "presenter": null,
+   "proposal": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nAluehallitus esittää aluevaltuustolle, että se hyväksyy liitteenä olevan ohjeen valtuustoryhmien tukemiseksi, ja että ohjetta noudatetaan takautuvasti vuoden 2026 alusta lukien.",
+   "decision": "Hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Lisätiedot",
+     "text": "Hallintojohtaja Ilkka Naukkarinen\n\n\n\nPuh."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nAluehallitus esittää aluevaltuustolle, että se hyväksyy liitteenä olevan ohjeen valtuustoryhmien tukemiseksi, ja että ohjetta noudatetaan takautuvasti vuoden 2026 alusta lukien."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin."
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hyvinvointialuelain 27 §:ää (Valtuustoryhmä ja sen toiminnan tukeminen) on muutettu 5.12.2025 lailla 1114/2025 (HE 91/2025). Samalla lailla on muutettu myös HvaL 87 §, jossa säädetään luottamushenkilöiden palkkioista ja korvauksista. Lain perustelujen mukaan muutoksella lisätään päätöksenteon tehokkuutta hyvinvointialueilla rajoittamalla pysyvästi valtion rahoituksen käyttöä 5 miljoonalla eurolla ryhmärahojen kustannuksia. Pohjois-Karjalan hyvinvointialueen vuoden 2026 rahoitusta on pienennetty lakimuutoksen myötä n. 160.000 eurolla. Lakimuutoksilla on vaikutusta hyvinvointialueen valtuustoryhmien tuen ohjeeseen ja palkkiosääntöön, ja niitä on päivitettävä. Palkkiosäännön päivitys tuodaan myöhemmin erikseen päätettäväksi.\n\nVanhan HvaL 27 § 2 mom. kuuluu: Valtuustoryhmien toimintaedellytyksien parantamiseksi hyvinvointialue voi taloudellisesti tukea valtuustoryhmien sisäistä toimintaa sekä toimenpiteitä, joilla valtuustoryhmät edistävät hyvinvointialueen asukkaiden osallistumis- ja vaikuttamismahdollisuuksia. Tukea myönnettäessä on yksilöitävä tuen käyttötarkoitus. Tuen määrä valtuustoryhmittäin on ilmoitettava hyvinvointialueen tilinpäätöksessä.\n\nMuutettu 2 mom. kuuluu: Valtuustoryhmien toimintaedellytyksien parantamiseksi hyvinvointialue voi taloudellisesti tukea valtuustoryhmien sisäistä toimintaa sekä valtuustoryhmän päätöksentekoon liittyvää muuta toimintaa. Tukea myönnettäessä hyvinvointialueen on yksilöitävä tuen käyttötarkoitus. Tiedot tuen määrästä ja käyttökohteesta on ilmoitettava valtuustoryhmittäin hyvinvointialueen tilinpäätöksessä.\n\nLakimuutoksen perusteluissa todetaan, että lailla ei enää säädetä mahdollisuudesta tukea toimenpiteitä, joilla valtuustoryhmät edistävät hyvinvointialueen asukkaiden osallistumis- ja vaikuttamismahdollisuuksia. Tätä perustellaan mm. sillä, että asukkaiden osallistumis- ja vaikuttamismahdollisuudet on huomioitu hyvinvointialueiden toiminnassa HvaL 5 luvun sääntelyn nojalla (esim. aloiteoikeus, aluevaltuuston vastuulla olevat keskustelu- ja kuulemistilaisuudet, vaikuttamistoimielimet, asukasraadit ym.). Jatkossa hyvinvointialue voi tukea taloudellisesti valtuustoryhmien sisäistä toimintaa sekä valtuustoryhmän päätöksentekoon liittyvää muuta toimintaa. Sisäistä toimintaa ei vanhassa lakitekstissä ollut määritelty, eikä sitä tarkasti määritellä uudessakaan sisällössä, vaan ne jäävät jatkossakin paikalliseen harkintaan.\n\nVuodesta 2026 lukien tilinpäätöksessä tulee antaa tiedot tuen määrästä ja käyttökohteesta valtuustoryhmittäin. Aikaisemmin tukea myönnettäessä on pitänyt yksilöidä käyttötarkoitus, mutta siitä ei ole tarvinnut tehdä tarkempaa selkoa tilinpäätöksessä. Lain perusteluissa tuen käyttökohteina nimetään ryhmien käyttöön osoitettavat tilat, sihteerityö tai vastaava kustannus, tietoyhteydet ja laitteet, luottamushenkilöiden koulutus tai sellaiset tilaisuudet, jotka liittyvät hyvinvointialueen päätöksentekoon liittyvien asioiden käsittelyyn.\n\nAluevaltuusto on hyväksynyt valtuustoryhmien toiminnan tukemisen ohjeet joulukuussa 22.12.2022. Ohje on perustunut vanhaan HvaL 27 §:n sisältöön ja siinä hyvinvointialueen asukkaiden osallistumis- ja vaikuttamismahdollisuudet ovat olleet hyväksytty tuen käyttötarkoitus.\n\nAluevaltuuston 22.12.2022 hyväksymää ohjetta valtuustoryhmien tukemiseksi on muokattu hyvinvointialuelain 1114/2025 muutosten johdosta. Merkittävimpänä muutoksena on asukkaiden osallistumis- ja vaikuttamismahdollisuuksien edistämisen poistaminen tuen käyttötarkoituksesta. Laissa mainittu tuen käyttötarkoitus kuitenkin tunnistaa tilanteet, jotka liittyvät hyvinvointialueen päätöksentekoon liittyvien asioiden käsittelyyn valtuustoryhmien toiminnassa. Tämän käyttökohteen osalta valtuustoryhmän tulisi antaa sanallinen selvitys tuen käytöstä, miten se liittyy hyvinvointialueen päätöksenteon valmisteluun. Lisäksi valtuustoryhmän tulisi jakaa oma-aloitteisesti tuen kohdentuminen edellä mainittujen viiden käyttökohteen kesken. Tätä jakoa käytettäisiin myös tilinpäätöksen liitetiedoissa vaaditun erittelyn pohjana.\n\nToinen isompi muutos on, että valtuustoryhmiltä ei pyydettäisi etukäteissuunnitelmaa tuen käyttämisestä vaan tarkennettu ohjeistus toimii tuen käyttöä ohjaavana. Lisäksi ohjeeseen on tehty tarkennuksia ja korjattu havaittuja ongelmia hakemusten ja niiden liitteiden sisällöissä. Tuen myöntämisestä päättäisi edelleen hyvinvointialuejohtajan nimeämä viranhaltija, joka tällä hetkellä on hallintojohtaja.\n\nOhje esitetään aluevaltuustolle hyväksyttäväksi takautuvasti vuoden 2026 alusta lukien. Ohjeen sisältö on näin ohjeellisena valtuustoryhmien tiedossa suunniteltaessa toimintaa, johon tukea on tarkoitus käyttää lakimuutoksen jälkeisenä aikana."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Ohje valtuustoryhmien tukemiseksi",
+     "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-8-211306.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "37",
+   "title": "Sosiaali- ja terveysministeriön selvitys hyvinvointialueiden sosiaali- ja terveydenhuollon järjestämisvastuun toteutumisesta 2025",
+   "source_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetingitem&id=2026100783-9",
+   "pdf_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-9.PDF",
+   "diary_number": "1423/00.04/2026",
+   "preparer": "Hyvinvointialuejohtaja Kirsi Leivonen; Puh.",
+   "presenter": null,
+   "proposal": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nAluehallitus merkitsee sosiaali- ja terveysministeriön selvityksen tiedokseen.",
+   "decision": "Hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Lisätiedot",
+     "text": "Hyvinvointialuejohtaja Kirsi Leivonen\n\n\n\nPuh."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nAluehallitus merkitsee sosiaali- ja terveysministeriön selvityksen tiedokseen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin."
+    },
+    {
+     "heading": "Selostus",
+     "text": "Sosiaali- ja terveydenhuollon järjestämislain (612/2021) 31 §:n mukaisesti sosiaali- ja terveysministeriö laatii vuosittain valtakunnallisen selvityksen.\n\nSelvityksessä arvioidaan hyvinvointialueiden sosiaali- ja terveydenhuollon yhdenvertaista toteutumista ja rahoituksen tason riittävyyttä. Hyvinvointialueiden toiminnallinen ja taloudellinen eriytyminen voimistui vuoden 2025 aikana. Hyvinvointialueiden eriytymiskehityksen arvioidaan edelleen syvenevän tulevina vuosina väestön ikääntyessä, palvelutarpeen kasvaessa ja alueellisten muuttoliikkeiden pysyessä epätasaisina. Tästä huolimatta STM arvioi selvityksessään, että hyvinvointialueet ovat järjestäneet lakisääteisen sosiaali- ja terveydenhuollon kokonaisuudessaan aiempaa vuotta ja julkisessa keskustelussa esitettyä paremmin. Perusterveydenhuollon kiireettömään hoitoon pääsy on nopeutunut ja hoidon jatkuvuusmalleja on kehitetty ja käyttöönotettu kaikilla hyvinvointialueilla. Kiireellinen ja päivystyksellinen hoitoon pääsy toimii hyvin kaikkialla Suomessa. Henkilöstön riittävyys ja saatavuus ovat parantuneet keskeisimpien henkilöstövajeryhmien osalta koko maassa ja digitalisaatio ja tietojärjestelmien yhtenäistäminen ja muu kehittäminen on edennyt. Monista myönteisistä kehityskuluista huolimatta kaikilla hyvinvointialueilla on edelleen joitain lakisääteisiä sosiaali- ja terveyspalveluja, joiden järjestäminen on vaarantunut.\n\nHyvinvointialueiden talous on kääntynyt kokonaisuutena selkeästi ylijäämäiseksi. Vuoden 2025 kustannusten kasvu oli hitaampaa kuin rahoituksen kasvu, vaikka tarkasteltaisiin rahoituksen kasvua ilman vuonna 2025 rahoitukseen lisättyä jälkikäteistarkistusta. Jälkikäteistarkistuksesta huolimatta vuoden 2025 talous oli alijäämäinen yhdeksällä alueella.\n\nHuomiona selvityksestä, Pohjois-Karjalan hyvinvointialueen suunterveydenhuollon hoitoonpääsyprosentit poikkeavat julkaisussa selvästi hyvinvointialueemme omista tiedoista. Tietojen eroa selvitetään."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Sosiaali- ja terveysministeriön selvitys hyvinvointialueiden sosiaali- ja terveydenhuollon järjestämisvastuun toteutumisesta 2025",
+     "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-9-210895.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "38",
+   "title": "Islab hyvinvointiyhtymän omistajakokoukset ja yhtymäkokous",
+   "source_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetingitem&id=2026100783-10",
+   "pdf_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-10.PDF",
+   "diary_number": "270/00.01.00/2026",
+   "preparer": "Hallintojohtaja Ilkka Naukkarinen; Puh.",
+   "presenter": null,
+   "proposal": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nAluehallitus nimeää yhtymäkokoukseen 29.4.2026 edustajiksi aluevaltuuston puheenjohtajan, aluehallituksen puheenjohtajan ja hyvinvointialuejohtajan tai tämän määräämän.\n\nOmistajakokouksiin 25.3. ja 27.5. hallitus nimeää samat em. edustajat.",
+   "decision": "Hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Lisätiedot",
+     "text": "Hallintojohtaja Ilkka Naukkarinen\n\n\n\nPuh."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nAluehallitus nimeää yhtymäkokoukseen 29.4.2026 edustajiksi aluevaltuuston puheenjohtajan, aluehallituksen puheenjohtajan ja hyvinvointialuejohtajan tai tämän määräämän.\n\nOmistajakokouksiin 25.3. ja 27.5. hallitus nimeää samat em. edustajat."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin."
+    },
+    {
+     "heading": "Selostus",
+     "text": "Islab hyvinvointiyhtymän yhtymäkokous pidetään 29.4.2026. Yhtymäkokouksen asialistalla ovat tilinpäätöksen vahvistaminen, henkilöstökertomus, arviointikertomus sekä vastuuvapauden myöntäminen vuodelta 2025. Esityslista tuodaan aluehallitukselle tiedoksi myöhemmin, kun Islabin hallitus on sen käsitellyt.\n\nLisäksi Islab on ilmoittanut, että omistajakokouksia järjestetään sekä ennen että jälkeen yhtymäkokouksen 25.3. ja 27.5.\n\nIslabin perussopimuksen mukaan jäsenyhteisöt valitsevat kuhunkin yhtymäkokoukseen jokainen jäsenyhteisö erikseen 3 edustajaa. Hyvinvointialuelain 63 §:n mukaan aluehallitus tai aluevaltuuston päättämä muu toimielin, ja yhtymäkokousedustajat on valittava kuhunkin kokoukseen erikseen.\n\nOmistajakokoukseen osallistujien osalta on noudatettu samaa käytäntöä kuin yhtymäkokousedustajien nimeämisessä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "39",
+   "title": "Tiedoksi annettavat asiat",
+   "source_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetingitem&id=2026100783-11",
+   "pdf_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-11.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nAluehallitus merkitsee alla mainitut asiakirjat tiedokseen ja päättää, ettei käytä otto-oikeutta viranhaltija- eikä toimielinpäätöksiin.",
+   "decision": "Hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Päätösehdotus",
+     "text": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nAluehallitus merkitsee alla mainitut asiakirjat tiedokseen ja päättää, ettei käytä otto-oikeutta viranhaltija- eikä toimielinpäätöksiin."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin."
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluehallitukselle saatetaan tiedoksi seuraavat asiat:\n\n- Valviran ja AVI:n myöntämät uudet toimiluvat yksityisille toimijoille:\n\n1082/05.00.01.00/2026 - Lupa- ja valvontaviraston päätös (LVV S/10260/2026) palveluntuottajan ja palveluyksikön rekisteröinnistä Juurevasti Oy (Y-tunnus 3580999-3)\n\n1091/06.00.04.00/2026 - Lupa- ja valvontaviraston päätös (LVV S/2382/2026) palveluntuottajan ja palveluyksikön rekisteröinnistä – TerapiaVartti Oy (Y-tunnus 3578769-1)\n\n- Muut tiedoksi annettavat asiat:\n\nKirjallinen asiantuntijalausunto - HE 189/2025 vp - Hyvinvointialueesta annetun lain muuttaminen ja väliaikainen muuttaminen\n\n- Aluehallituksen alaiset viranhaltijapäätökset ajalta 6.2.-19.2.2026\n\nAluehallituksen alaisten toimielinten pöytäkirjat:\n\nHyvinvoinnin ja terveyden edistämisen lautakunta 18.2.2026\n\nTulevaisuuslautakunta 17.2.2026\n\nTurvallisuuden ja varautumisen lautakunta 12.2.2026\n\nHenkilöstöjaosto 11.2.2026\n\nMuiden toimielinten tiedoksi annettavat pöytäkirjat:\n\nTarkastuslautakunta 9.2.2026"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Kirjallinen asiantuntijalausunto - HE 189⁄2025 vp - Hyvinvointialueesta annetun lain muuttaminen ja väliaikainen muuttaminen",
+     "url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-11-211304.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "40",
+   "title": "Hyvinvointialuejohtajan katsaus ajankohtaisiin asioihin",
+   "source_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetingitem&id=2026100783-12",
+   "pdf_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-12.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nAluehallitus merkitsee tiedokseen hyvinvointialuejohtajan katsauksen ajankohtaisista asioista.",
+   "decision": "Merkittiin tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Päätösehdotus",
+     "text": "Hyvinvointialuejohtaja Leivonen Kirsi:\n\nAluehallitus merkitsee tiedokseen hyvinvointialuejohtajan katsauksen ajankohtaisista asioista."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkittiin tiedoksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "41",
+   "title": "Muut asiat",
+   "source_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetingitem&id=2026100783-13",
+   "pdf_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-13.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Hyvinvointialuejohtaja Leivonen Kirsi\n\nEi muita asioita.",
+   "decision": "Ei muita asioita.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Päätösehdotus",
+     "text": "Hyvinvointialuejohtaja Leivonen Kirsi\n\nEi muita asioita."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ei muita asioita."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "42",
+   "title": "Kokouksen päättäminen",
+   "source_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meetingitem&id=2026100783-14",
+   "pdf_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/kokous/2026100783-14.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Puheenjohtaja päättää kokouksen.",
+   "decision": "Puheenjohtaja päätti kokouksen klo 13.55.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Päätösehdotus",
+     "text": "Puheenjohtaja päättää kokouksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja päätti kokouksen klo 13.55."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Reijonen Eero",
+   "role": "Puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Puruskainen-Saarelainen Anna",
+   "role": "1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kaita Karita",
+   "role": "2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Auvinen Eeva-Liisa",
+   "role": "Jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Eronen Erika",
+   "role": "Varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hämäläinen Tapio",
+   "role": "Jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kastinen Outi",
+   "role": "Varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kosonen Sanna",
+   "role": "Jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Mara Outi",
+   "role": "Jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Nuutinen Pekka",
+   "role": "Jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Tirkkonen Hilkka",
+   "role": "Jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Mäkisalo-Ropponen Merja",
+   "role": "Aluevaltuuston puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Hyykky Tarja",
+   "role": "Aluevaltuuston 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Karhinen Mirja",
+   "role": "Aluevaltuuston 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Leivonen Kirsi",
+   "role": "Esittelijä, hyvinvointialuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Naukkarinen Ilkka",
+   "role": "Pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Härkönen Tommi",
+   "role": "Tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Kela Sakari",
+   "role": "Juristi, asiantuntija § 35",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://dynastyjulkaisu.pohjoiskarjala.net/VateJulk/cgi/DREQUEST.PHP?page=meeting&id=2026100783",
+  "fetched_at": "2026-10-14T17:40:57+00:00",
+  "content_hash": "29ca859d26afa953",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T17:40:57+00:00"
+ }
+}

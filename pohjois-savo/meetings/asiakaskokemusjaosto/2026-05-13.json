@@ -1,0 +1,981 @@
+{
+ "id": "asiakaskokemusjaosto/2026-05-13",
+ "region": "pohjois-savo",
+ "body_id": "asiakaskokemusjaosto",
+ "body_name": "Asiakaskokemusjaosto",
+ "date": "2026-05-13",
+ "stage": "minutes",
+ "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261053",
+ "pdf_url": "https://pshva.oncloudos.com/kokous/20261053.PDF",
+ "time": "08:30 - 10:56",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "109",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-1",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen laillisuus ja päätösvaltaisuus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "110",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-2",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Miettinen Heikki ja Pitkänen Eveliina.",
+   "decision": "Pöytäkirjantarkastajiksi valittiin Miettinen Heikki ja Pitkänen Eveliina.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pöytäkirjantarkastajien valinta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Miettinen Heikki ja Pitkänen Eveliina."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Miettinen Heikki ja Pitkänen Eveliina."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "111",
+   "title": "Asioiden käsittelyjärjestys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-3",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asioiden käsittelyjärjestys"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "112",
+   "title": "Ajankohtaiset asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-4",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "- Esittelijän ajankohtaiset asiat",
+   "decision": "Esittelijän ajankohtaiset asiat:\n\n- Suomi.fi-valtuuksien rekisteröinti -pilotti - Valtuuksien avulla asiakkaan valitsema luottohenkilö voi hoitaa hänen sosiaali ja terveydenhuollon asioitaan digitaalisesti\n\nAsiakaskokemusjaosto merkitsi ajankohtaiset asiat tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Ajankohtaiset asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Esittelijän ajankohtaiset asiat:\n\n- Suomi.fi-valtuuksien rekisteröinti -pilotti - Valtuuksien avulla asiakkaan valitsema luottohenkilö voi hoitaa hänen sosiaali ja terveydenhuollon asioitaan digitaalisesti\n\nAsiakaskokemusjaosto merkitsi ajankohtaiset asiat tiedoksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "- Esittelijän ajankohtaiset asiat"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "113",
+   "title": "Vuodelle 2026 jatkettava kumppanuusavustus, Nuorten Palvelu ry, Meidän kylän nuoret 2.0",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-5",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-5.PDF",
+   "diary_number": "5667/02.05.01/2024",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto päättää, että Nuorten Palvelu ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 18 000 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Nuorten Palvelu ry\n\n- Liite 1, HVA kumppanuusraportointi Meidän kylän nuoret 2.0 tuloslaskelma 1.1. – 31.12.2025, Nuorten Palvelu ry\n\n- Liite 2, Kirjallinen kooste avustetusta toiminnasta vuonna 2025 Meidän kylän nuoret 2.0, Nuorten Palvelu ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 28.1.2026 Nuorten Palvelu ry:ltä väliraportti koskien Meidän kylän nuoret 2.0 -toimintaa. Hanke on kaksivuotinen vuosille 2025–2026 ja kumppanuusavustussopimus on solmittu hankeajalle. Raportti on annettu 1.1. – 31.12.2025 toiminta-ajalta. Vuodelle 2025 myönnetty avustussumma oli 18 000 euroa. Summa koskee ESR-rahoitteisen hankkeen omarahoitusosuutta.\n\nRaportin mukaan toiminta-ajalla hanke on kohdannut 807 nuorta, joista Meidän kylän nuoret 2.0 -toimintaan on osallistunut 106 nuorta Kuopio (Juankoski, Nilsiä), Suonenjoki, Pielavesi, Tervo, Vesanto, Rautalampi ja Tuusniemi paikkakunnilta. Vuosi 2025 on ollut hankkeen käynnistys- ja valmisteluvuosi edeten paikkakuntakohtaisiin toteutuksiin ja luoden rakenteita, toimintamalleja ja yhteistyösuhteita. Toimet ovat vahvistaneet nuorten osallisuutta, tulevaisuususkoa ja toimijuutta sekä luoneet perustaa toimintamallin vakiinnuttamiselle ja kehittämiselle jatkossa.\n\nVäliraportti on välitetty hyvinvointialueen palvelujen osapuolille – lastensuojelupalvelut ja työikäisten sosiaalipalvelut. Yhteistyö osapuolten välillä on ollut sovitun mukaista, pääasiassa viestinnällistä yhteistyötä hanke-esittelyinä ja esitteiden jakamisena. Syvempää yhteistyötä haastaa palvelujen henkilöstöresurssi ja tämä tunnistetaan. Raportoijaa pyydetään olemaan yhteydessä sopimuksen yhdyshenkilöihin, jos hyvinvointialueen työntekijöiden yhteydenpidon saatavuudessa esiintyy ongelmaa.\n\nEhdotuksena on, että Nuorten Palvelu ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 18 000 euroa.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nHyvinvointikoordinaattori, Sirpa Kononen, HYTE- ja osallisuuspäällikkö Säde Rytkönen, p. ."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto päättää, että Nuorten Palvelu ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 18 000 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Nuorten Palvelu ry\n\n- Liite 1, HVA kumppanuusraportointi Meidän kylän nuoret 2.0 tuloslaskelma 1.1. – 31.12.2025, Nuorten Palvelu ry\n\n- Liite 2, Kirjallinen kooste avustetusta toiminnasta vuonna 2025 Meidän kylän nuoret 2.0, Nuorten Palvelu ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 28.1.2026 Nuorten Palvelu ry:ltä väliraportti koskien Meidän kylän nuoret 2.0 -toimintaa. Hanke on kaksivuotinen vuosille 2025–2026 ja kumppanuusavustussopimus on solmittu hankeajalle. Raportti on annettu 1.1. – 31.12.2025 toiminta-ajalta. Vuodelle 2025 myönnetty avustussumma oli 18 000 euroa. Summa koskee ESR-rahoitteisen hankkeen omarahoitusosuutta.\n\nRaportin mukaan toiminta-ajalla hanke on kohdannut 807 nuorta, joista Meidän kylän nuoret 2.0 -toimintaan on osallistunut 106 nuorta Kuopio (Juankoski, Nilsiä), Suonenjoki, Pielavesi, Tervo, Vesanto, Rautalampi ja Tuusniemi paikkakunnilta. Vuosi 2025 on ollut hankkeen käynnistys- ja valmisteluvuosi edeten paikkakuntakohtaisiin toteutuksiin ja luoden rakenteita, toimintamalleja ja yhteistyösuhteita. Toimet ovat vahvistaneet nuorten osallisuutta, tulevaisuususkoa ja toimijuutta sekä luoneet perustaa toimintamallin vakiinnuttamiselle ja kehittämiselle jatkossa.\n\nVäliraportti on välitetty hyvinvointialueen palvelujen osapuolille – lastensuojelupalvelut ja työikäisten sosiaalipalvelut. Yhteistyö osapuolten välillä on ollut sovitun mukaista, pääasiassa viestinnällistä yhteistyötä hanke-esittelyinä ja esitteiden jakamisena. Syvempää yhteistyötä haastaa palvelujen henkilöstöresurssi ja tämä tunnistetaan. Raportoijaa pyydetään olemaan yhteydessä sopimuksen yhdyshenkilöihin, jos hyvinvointialueen työntekijöiden yhteydenpidon saatavuudessa esiintyy ongelmaa.\n\nEhdotuksena on, että Nuorten Palvelu ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 18 000 euroa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Raportti kumppanuusavustustoiminnasta, Nuorten Palvelu ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-5-259114.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 LIITE1 HVA kumppanuusavustusraportointi, Meidän kylän nuoret 2.0 tuloslaskelma 1.1.- 31.12.2025, Nuorten Palvelu ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-5-259115.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 LIITE2, Kirjallinen kooste avustetusta toiminnasta vuonna 2025 Meidän kylän nuoret 2.0, Nuorten Palvelu ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-5-259116.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "114",
+   "title": "Vuodelle 2026 jatkettava kumppanuusavustus, Mielihyvin Savosta ry, TOUKO-hanke",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-6",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-6.PDF",
+   "diary_number": "5667/02.05.01/2024",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto päättää, että Mielihyvin Savosta ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 8 000 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 13\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Mielihyvin Savosta ry\n\n- Liite 1, TOUKO-hankkeen toiminta tiivistetysti 1.7. – 31.12.2025 Liite hyvinvointialueen väliraporttiin, Mielihyvin Savosta ry\n\n- Liite 2, Tuloslaskelma PSHVA kumppanuusavustuksen väliraportti KPtulos 400, Mielihyvin Savosta ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 24.2.2026 Mielihyvin Savosta ry:ltä väliraportti koskien TOUKO – tuetusta vapaaehtoistoiminnasta opintoihin ja työelämään -hanketta. Hanke on kaksivuotinen vuosille 2025–2026 ja kumppanuusavustussopimus on solmittu hankeajalle. Raportti on annettu 1.7. – 31.12.2025 toiminta-ajalta. Vuodelle 2025 myönnetty avustussumma oli 8 000 euroa. Summa koskee ESR-rahoitteisen hankkeen omarahoitusosuutta.\n\nRaportin mukaan toiminta-ajalla hanke on saavuttanut kohderyhmään kuuluvia 18–65-vuotiaita yhteensä 14 paikkakunnilta Kaavi, Tuusniemi ja Juankoski. Palautteen perusteella osallistujat ovat saaneet hankkeen yksilötyöstä apua ja tukea työllistymiseensä. Hanke on tehnyt monitoimijaista yhteistyötä ko. paikkakunnilla eri toimijoiden kanssa. Yhteistyö hyvinvointialueen palvelujen kanssa on toteutunut tapaamisina ja hankkeesta tiedottamisena. Tiiviimpää yhteistyötä haastaa hyvinvointialueen ammattilaisten resurssi.\n\nVäliraportit on välitetty hyvinvointialueen palvelujen osapuolille – työikäisten sosiaalipalvelut ja mielenterveys ja hyvinvointipalvelut. Sosialipalvelujen puolella Koillis-Savon alueella työntekijäresurssi on pieni ja toiminta-alue laaja. Alueella on tällä hetkellä useampi hanke, jotka täydentävät hyvinvointialueen lakisääteistä toimintaa. Osa asukkaista on aiemmin osallistunut vastaavanlaiseen toimintaan, joten se voi osaltaan vaikuttaa ko. hankkeen asiakasohjautumisen vähyyteen.\n\nRaportin mukaan TOUKO-hanke on edennyt kuitenkin suunnitelman mukaisesti. Hankkeen pyrkimyksenä on tiivistää yhteistyötä asiakkaille olennaisten yhteistyökumppaneiden osalta toisena toimintavuonna.\n\nEhdotuksena on, että Mielihyvin Savosta ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 8 000 euroa.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nSirpa Kononen, hyvinvointikoordinaattori, HYTE- ja osallisuuspalveluyksikkö"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto päättää, että Mielihyvin Savosta ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 8 000 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 13\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Mielihyvin Savosta ry\n\n- Liite 1, TOUKO-hankkeen toiminta tiivistetysti 1.7. – 31.12.2025 Liite hyvinvointialueen väliraporttiin, Mielihyvin Savosta ry\n\n- Liite 2, Tuloslaskelma PSHVA kumppanuusavustuksen väliraportti KPtulos 400, Mielihyvin Savosta ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 24.2.2026 Mielihyvin Savosta ry:ltä väliraportti koskien TOUKO – tuetusta vapaaehtoistoiminnasta opintoihin ja työelämään -hanketta. Hanke on kaksivuotinen vuosille 2025–2026 ja kumppanuusavustussopimus on solmittu hankeajalle. Raportti on annettu 1.7. – 31.12.2025 toiminta-ajalta. Vuodelle 2025 myönnetty avustussumma oli 8 000 euroa. Summa koskee ESR-rahoitteisen hankkeen omarahoitusosuutta.\n\nRaportin mukaan toiminta-ajalla hanke on saavuttanut kohderyhmään kuuluvia 18–65-vuotiaita yhteensä 14 paikkakunnilta Kaavi, Tuusniemi ja Juankoski. Palautteen perusteella osallistujat ovat saaneet hankkeen yksilötyöstä apua ja tukea työllistymiseensä. Hanke on tehnyt monitoimijaista yhteistyötä ko. paikkakunnilla eri toimijoiden kanssa. Yhteistyö hyvinvointialueen palvelujen kanssa on toteutunut tapaamisina ja hankkeesta tiedottamisena. Tiiviimpää yhteistyötä haastaa hyvinvointialueen ammattilaisten resurssi.\n\nVäliraportit on välitetty hyvinvointialueen palvelujen osapuolille – työikäisten sosiaalipalvelut ja mielenterveys ja hyvinvointipalvelut. Sosialipalvelujen puolella Koillis-Savon alueella työntekijäresurssi on pieni ja toiminta-alue laaja. Alueella on tällä hetkellä useampi hanke, jotka täydentävät hyvinvointialueen lakisääteistä toimintaa. Osa asukkaista on aiemmin osallistunut vastaavanlaiseen toimintaan, joten se voi osaltaan vaikuttaa ko. hankkeen asiakasohjautumisen vähyyteen.\n\nRaportin mukaan TOUKO-hanke on edennyt kuitenkin suunnitelman mukaisesti. Hankkeen pyrkimyksenä on tiivistää yhteistyötä asiakkaille olennaisten yhteistyökumppaneiden osalta toisena toimintavuonna.\n\nEhdotuksena on, että Mielihyvin Savosta ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 8 000 euroa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Raportti kumppanuusavustustoiminnasta, Mielihyvin Savosta ry (1)",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-6-259124.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 LIITE1 TOUKO-hankkeen toiminta tiivistetysti 1.7. - 31.12.2025 Liite hyvinvointialueen väliraporttiin, Mielihyvin Savosta ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-6-259125.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Liite 2, Tuloslaskelma_PSHVA kumppanuusavustuksen väliraportti_KPtulos 400, Mielihyvin Savosta ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-6-259126.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "115",
+   "title": "Vuodelle 2026 jatkettava kumppanuusavustus, Arkkitehtuuri ja ympäristökulttuurikoulu Lastu ry, Arjen kulttuuriresepti, taide- ja kulttuurineuvolatoiminta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-7",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-7.PDF",
+   "diary_number": "5667/02.05.01/2024",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto päättää, että Arkkitehtuuri- ja ympäristökulttuurikoulu Lastu ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 15 000 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Arkkitehtuuri- ja ympäristökulttuurikoulu Lastu ry\n\n- Liite 1, Neuvolayhteistyö Lastu compressed, Arkkitehtuuri- ja ympäristökulttuurikoulu Lastu ry\n\n- Liite 2, Kustannuspaikkaraportti Lastu, Arkkitehtuuri- ja ympäristökulttuurikoulu Lastu ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 27.1.2026 Arkkitehtuuri- ja ympäristökulttuurikoulu Lastu ry:ltä väliraportti koskien Arjen kulttuuriresepti, taide- ja kulttuurineuvolatoimintaa. Kumppanuusavustussopimus on tehty kolmeksi vuodeksi vuosille 2025–2027. Raportti on annettu 1.1. – 31.12.2025 toiminta-ajalta. Vuodelle 2025 myönnetty avustussumma oli 15 000 euroa.\n\nRaportin mukaan taide- ja kulttuurineuvolatoiminta on toteutunut Lapinlahden, Siilinjärven, Vuorelan ja Iisalmen neuvoloissa. Kohderyhmänä ovat olleet 0–6-vuotiaat lapset ja heidän perheensä. Neuvolan aulan taide- ja kulttuuritoimintaan on osallistunut toimintavuoden aikana yhteensä 624 henkilöä neuvolayhteistyön, ryhmätoimintojen, ja erilaisten tapahtumien kautta. Yhteistyötä hyvinvointialueen kanssa on tehty neuvolahenkilökunnan kanssa ja kehitetty toimintaa yhdessä tarpeita vastaavaksi. Palautteen mukaan toiminta on ollut perheille käytännönläheistä ja uusia ideoita arkeen antavaa.\n\nVäliraportti on välitetty hyvinvointialueen perhepalvelujen puolelle ja sieltä saadun palautteen mukaan yhteistyö 6 kk:n ryhmäneuvolatoimintoihin on koettu erittäin hyvänä ja täydentävänä lisänä neuvolapalveluissa.\n\nEhdotuksena on, että Arkkitehtuuri- ja ympäristökulttuurikoulu Lastu ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 15 000 euroa.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nHyvinvointikoordinaattori, Sirpa Kononen, HYTE- ja osallisuuspäällikkö Säde Rytkönen, p. ."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto päättää, että Arkkitehtuuri- ja ympäristökulttuurikoulu Lastu ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 15 000 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Arkkitehtuuri- ja ympäristökulttuurikoulu Lastu ry\n\n- Liite 1, Neuvolayhteistyö Lastu compressed, Arkkitehtuuri- ja ympäristökulttuurikoulu Lastu ry\n\n- Liite 2, Kustannuspaikkaraportti Lastu, Arkkitehtuuri- ja ympäristökulttuurikoulu Lastu ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 27.1.2026 Arkkitehtuuri- ja ympäristökulttuurikoulu Lastu ry:ltä väliraportti koskien Arjen kulttuuriresepti, taide- ja kulttuurineuvolatoimintaa. Kumppanuusavustussopimus on tehty kolmeksi vuodeksi vuosille 2025–2027. Raportti on annettu 1.1. – 31.12.2025 toiminta-ajalta. Vuodelle 2025 myönnetty avustussumma oli 15 000 euroa.\n\nRaportin mukaan taide- ja kulttuurineuvolatoiminta on toteutunut Lapinlahden, Siilinjärven, Vuorelan ja Iisalmen neuvoloissa. Kohderyhmänä ovat olleet 0–6-vuotiaat lapset ja heidän perheensä. Neuvolan aulan taide- ja kulttuuritoimintaan on osallistunut toimintavuoden aikana yhteensä 624 henkilöä neuvolayhteistyön, ryhmätoimintojen, ja erilaisten tapahtumien kautta. Yhteistyötä hyvinvointialueen kanssa on tehty neuvolahenkilökunnan kanssa ja kehitetty toimintaa yhdessä tarpeita vastaavaksi. Palautteen mukaan toiminta on ollut perheille käytännönläheistä ja uusia ideoita arkeen antavaa.\n\nVäliraportti on välitetty hyvinvointialueen perhepalvelujen puolelle ja sieltä saadun palautteen mukaan yhteistyö 6 kk:n ryhmäneuvolatoimintoihin on koettu erittäin hyvänä ja täydentävänä lisänä neuvolapalveluissa.\n\nEhdotuksena on, että Arkkitehtuuri- ja ympäristökulttuurikoulu Lastu ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 15 000 euroa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Raportti kumppanuusavustustoiminnasta, Arkkitehtuuri- ja ympäristökulttuurikoulu Lastu",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-7-259131.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Liite 1, NEUVOLAYHTEISTYÖ_Lastu-compressed, Arkkitehtuuri- ja ympäristökulttuurikoulu Lastu",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-7-259132.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Liite 2, Kustannuspaikkaraportti_Lastu, Arkkitehtuuri- ja ympäristökulttuurikoulu Lastu",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-7-259133.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "116",
+   "title": "Vuodelle 2026 jatkettava kumppanuusavustus, Pohjois-Savon Liikunta ry, Nuori Mieli urheilussa -toiminnan sisältöjen jalkauttaminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-8",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-8.PDF",
+   "diary_number": "5667/02.05.01/2024",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto päättää, että Pohjois-Savon Liikunta ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 30 000 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Pohjois-Savon Liikunta ry\n\n- Liite 1, Tiivistetty kooste avustetusta toiminnasta 2025, Pohjois-Savon Liikunta ry\n\n- Liite 2, Kustannuspaikan tuloslaskelma 2025, Pohjois-Savon Liikunta ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut Pohjois-Savon Liikunta ry:ltä väliraportti 22.1.2026 koskien Nuori Mieli urheilussa -toiminnan sisältöjen jalkauttamista. Kumppanuusavustussopimus on tehty kahdeksi vuodeksi vuosille 2025–2026. Raportti on annettu vuoden 2025 toiminta-ajalta, myönnetty avustussumma oli 30 000 euroa.\n\nRaportin mukaan toiminnalla on edistetty suunnitelman mukaisesti pohjoissavolaisten lasten ja nuorten mielen hyvinvointia ja lasten, nuorten ja perheiden hyvän ravitsemuksen toteutumista seuratoiminnan kautta. Vuoden 2025 toiminta-ajalla on tavoitettu 372 osallistumista eri teemanmukaisin toimenpitein Iisalmessa, Kuopiossa, Leppävirralla, Pielavedellä, Rautavaaralla, Siilinjärvellä ja Varkaudessa. Osallistujia näillä paikkakunnilla on ollut ympäri Pohjois-Savoa. Osallistujat ovat kokeneet teemat hyödyllisinä ja hyvinvointia edistävinä. Yhteistyöhyvinvointialueen palvelujen kanssa on ollut vuorovaikutteista, keskustelevaa ja toiminnan teemojen sisältöjä tukevaa.\n\nVäliraportti on välitetty hyvinvointialueen palvelujen osapuolille - perhepalvelut ja HYTE- ja osallisuuspalvelut. Yhteistyö Nuori Mieli urheilussa -toimintojen kanssa on ollut hyvien yhteistyöpalaverien lisäksi viestinnällistä. Viestimateriaalit ovat olleet laadukkaita ja kohderyhmälle sopivia jaettavaksi. Perhepalvelujen esihenkilöt on otettu hyvin infoihin ja koulutuksiin mukaan. Yhteistyö osapuolien välillä on ollut kaikin puolin sujuvaa.\n\nEhdotuksena on, että Pohjois-Savon Liikunta ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 30 000 euroa.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nHyvinvointikoordinaattori, Sirpa Kononen, HYTE- ja osallisuuspäällikkö Säde Rytkönen, , p. ."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto päättää, että Pohjois-Savon Liikunta ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 30 000 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Pohjois-Savon Liikunta ry\n\n- Liite 1, Tiivistetty kooste avustetusta toiminnasta 2025, Pohjois-Savon Liikunta ry\n\n- Liite 2, Kustannuspaikan tuloslaskelma 2025, Pohjois-Savon Liikunta ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut Pohjois-Savon Liikunta ry:ltä väliraportti 22.1.2026 koskien Nuori Mieli urheilussa -toiminnan sisältöjen jalkauttamista. Kumppanuusavustussopimus on tehty kahdeksi vuodeksi vuosille 2025–2026. Raportti on annettu vuoden 2025 toiminta-ajalta, myönnetty avustussumma oli 30 000 euroa.\n\nRaportin mukaan toiminnalla on edistetty suunnitelman mukaisesti pohjoissavolaisten lasten ja nuorten mielen hyvinvointia ja lasten, nuorten ja perheiden hyvän ravitsemuksen toteutumista seuratoiminnan kautta. Vuoden 2025 toiminta-ajalla on tavoitettu 372 osallistumista eri teemanmukaisin toimenpitein Iisalmessa, Kuopiossa, Leppävirralla, Pielavedellä, Rautavaaralla, Siilinjärvellä ja Varkaudessa. Osallistujia näillä paikkakunnilla on ollut ympäri Pohjois-Savoa. Osallistujat ovat kokeneet teemat hyödyllisinä ja hyvinvointia edistävinä. Yhteistyöhyvinvointialueen palvelujen kanssa on ollut vuorovaikutteista, keskustelevaa ja toiminnan teemojen sisältöjä tukevaa.\n\nVäliraportti on välitetty hyvinvointialueen palvelujen osapuolille - perhepalvelut ja HYTE- ja osallisuuspalvelut. Yhteistyö Nuori Mieli urheilussa -toimintojen kanssa on ollut hyvien yhteistyöpalaverien lisäksi viestinnällistä. Viestimateriaalit ovat olleet laadukkaita ja kohderyhmälle sopivia jaettavaksi. Perhepalvelujen esihenkilöt on otettu hyvin infoihin ja koulutuksiin mukaan. Yhteistyö osapuolien välillä on ollut kaikin puolin sujuvaa.\n\nEhdotuksena on, että Pohjois-Savon Liikunta ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 30 000 euroa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Raportti kumppanuusavustustoiminnasta, Pohjois-Savon Liikunta ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-8-259139.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 LIITE1 Tiivistetty kooste avustetusta toiminnasta 2025, Pohjois-Savon Liikunta ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-8-259140.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Liite 2, Kustannuspaikan tuloslaskelma 2025, Pohjois-Savon Liikunta ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-8-259141.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "117",
+   "title": "Vuodelle 2026 jatkettava kumppanuusavustus, Turvalinkki ry, matalan kynnyksen etäryhmä -toiminta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-9",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-9.PDF",
+   "diary_number": "5667/02.05.01/2024",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto päättää, että Turvalinkki ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 10 000 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Turvalinkki ry\n\n- Liite 1, tuloslaskelma, pääkirja PSHVA avustus 2025 Turvalinkki ry\n\n- Liite 2, PSHVA raportti vuodesta 2025, Turvalinkki ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 12.2.2026 Turvalinkki ry:ltä väliraportti koskien verkkovälitteisten matalankynnyksen etäryhmien järjestämistä Pohjois-Savon alueella. Kumppanuusavustus on solmittu kolmeksi vuodeksi vuosille 2025–2027. Raportti on annettu 1.1. – 31.12.2025 toiminta-ajalta. Vuodelle 2025 myönnetty avustussumma oli 10 000 euroa.\n\nRaportin mukaan etäryhmiä on toteutettu 2–3 ryhmää viikoittain. Uutena toimintana on aloitettu viikoittaiset etätutustumisajat. Vuoden 2025 aikana on keskimäärin ollut 240 kohtaamiskertaa. Osallistujia on ollut Kuopio, Siilinjärvi, Iisalmi ja Varkaus paikkakunnilta. Palaute etäryhmistä on ollut hyvää, toiminta on vähentänyt yksinäisyyden kokemusta ja antanut tietoa hyvinvoinnin ja terveyden edistämiseen liittyvistä aiheista. Ryhmiin osallistujien määrää on saatu nostettua loppuvuodesta. Yhteistyö hyvinvointialueen palvelujen kanssa on ollut viestinnällistä.\n\nVäliraportit on välitetty hyvinvointialueen osapuolille työikäisten sosiaalipalvelut ja HYTE- ja osallisuuspalveluyksikkö. Yhteistyö HYTE:n kanssa on ollut pääasiassa ryhmistä viestimistä eri viestintäkanavissa. Työikäisten sosiaalipalvelujen ja raportoijan välillä yhteistyö on ollut tiivistä ja reaaliaikaista tiedottamista etäryhmistä sekä palautteen perusteella toimintojen ja ryhmien sisältöjen kehittämistä. Asiakasohjausta etäryhmiin pyritään vielä tehostamaan.\n\nEhdotuksena on, että Turvalinkki ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 10 000 euroa.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nHyvinvointikoordinaattori, Sirpa Kononen , HYTE- ja osallisuuspäällikkö Säde Rytkönen, , p. ."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto päättää, että Turvalinkki ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 10 000 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Turvalinkki ry\n\n- Liite 1, tuloslaskelma, pääkirja PSHVA avustus 2025 Turvalinkki ry\n\n- Liite 2, PSHVA raportti vuodesta 2025, Turvalinkki ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 12.2.2026 Turvalinkki ry:ltä väliraportti koskien verkkovälitteisten matalankynnyksen etäryhmien järjestämistä Pohjois-Savon alueella. Kumppanuusavustus on solmittu kolmeksi vuodeksi vuosille 2025–2027. Raportti on annettu 1.1. – 31.12.2025 toiminta-ajalta. Vuodelle 2025 myönnetty avustussumma oli 10 000 euroa.\n\nRaportin mukaan etäryhmiä on toteutettu 2–3 ryhmää viikoittain. Uutena toimintana on aloitettu viikoittaiset etätutustumisajat. Vuoden 2025 aikana on keskimäärin ollut 240 kohtaamiskertaa. Osallistujia on ollut Kuopio, Siilinjärvi, Iisalmi ja Varkaus paikkakunnilta. Palaute etäryhmistä on ollut hyvää, toiminta on vähentänyt yksinäisyyden kokemusta ja antanut tietoa hyvinvoinnin ja terveyden edistämiseen liittyvistä aiheista. Ryhmiin osallistujien määrää on saatu nostettua loppuvuodesta. Yhteistyö hyvinvointialueen palvelujen kanssa on ollut viestinnällistä.\n\nVäliraportit on välitetty hyvinvointialueen osapuolille työikäisten sosiaalipalvelut ja HYTE- ja osallisuuspalveluyksikkö. Yhteistyö HYTE:n kanssa on ollut pääasiassa ryhmistä viestimistä eri viestintäkanavissa. Työikäisten sosiaalipalvelujen ja raportoijan välillä yhteistyö on ollut tiivistä ja reaaliaikaista tiedottamista etäryhmistä sekä palautteen perusteella toimintojen ja ryhmien sisältöjen kehittämistä. Asiakasohjausta etäryhmiin pyritään vielä tehostamaan.\n\nEhdotuksena on, että Turvalinkki ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 10 000 euroa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Raportti kumppanuusavustustoiminnasta, TURVALINKKI ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-9-259143.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Liite 1, tuloslaskelma, pääkirja PSHVA_avustus_ 2025_Turvalinkki, TURVALINKKI ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-9-259144.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Liite 2, PSHVA raportti 2025 vuodesta_TURVALINKKI ry, TURVALINKKI ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-9-259145.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "118",
+   "title": "Vuodelle 2026 jatkettava kumppanuusavustus, Varkauden Seudun Mielenterveysväki ry, Mielitupa -toiminta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-10",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-10.PDF",
+   "diary_number": "5667/02.05.01/2024",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto päättää, että Varkauden Seudun Mielenterveys ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 10 000 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Varkauden Seudun Mielenterveysväki ry\n\n- Liite 1, Yhteenveto Mielituvan toiminnasta 2025, Varkauden Seudun Mielenterveysväki ry\n\n- Liite 2, Tuloslaskelma 31.12.2025, Varkauden Seudun Mielenterveysväki ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 3.2.2026 Varkauden Seudun Mielenterveysväki ry:ltä väliraportti matalan kynnyksen kohtaamispaikka Mielitupa -toiminnasta. Kumppanuusavustussopimus on solmittu kolmeksi vuodeksi vuosille 2025–2027. Raportti on annettu vuoden 2025 toiminnasta, myönnetty avustussumma oli 10 000 euroa ja se kohdistuu pääasiassa Mielitupa -toiminnan tilavuokraan.\n\nRaportin mukaan toimintavuonna on yhteydenottoja/kohtaamisia on ollut 9 850. Toiminta kohdistuu varkautelaisille ja lähikuntien Joroinen ja Leppävirta eläkkeellä, kuntoutustuella, sairauslomalla tai työttömänä oleviin aikuisiin mielenterveyskuntoutujiin ja heidän omaisiinsa. Päivittäin kävijöitä on ollut 25–40. Palautteen mukaan kävijät ovat kokeneet elämänlaadun parantuneen, turvallisuuden tunteen ja sosiaalisten taitojen lisääntyneen. Terveyspainotteiset ryhmätoiminnat ovat antaneet apua ja tukea mm. ravitsemuksen, liikunnan ja mielen virkistykseen. Yhteistyötä hyvinvointipalvelujen kanssa on tehty mielenterveys- ja päihdepalvelujen, työikäisten sosiaalipalvelujen ja ikääntyneiden palvelujen kanssa.\n\nVäliraportit on välitetty hyvinvointialueen palvelujen osapuolille – työikäisten sosiaalipalvelut ja eteläinen sotekeskus. Yhteistyö näyttäytyy näiden palvelujen osalta positiivisena erityisesti kohderyhmän näkökulmasta. Alueella on runsaasti mielenterveyden ongelmia ja työttömyyttä. Moni kävijöistä on sote-palvelujen piirissä ja saa Mielituvan kautta lisätukea arkisten ongelmien tai elämänkriisin kohdatessa.\n\nEhdotuksena on, että Varkauden Seudun Mielenterveys ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 10 000 euroa.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nHyvinvointikoordinaattori, Sirpa Kononen , HYTE- ja osallisuuspäällikkö Säde Rytkönen, , p. ."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto päättää, että Varkauden Seudun Mielenterveys ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 10 000 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Varkauden Seudun Mielenterveysväki ry\n\n- Liite 1, Yhteenveto Mielituvan toiminnasta 2025, Varkauden Seudun Mielenterveysväki ry\n\n- Liite 2, Tuloslaskelma 31.12.2025, Varkauden Seudun Mielenterveysväki ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 3.2.2026 Varkauden Seudun Mielenterveysväki ry:ltä väliraportti matalan kynnyksen kohtaamispaikka Mielitupa -toiminnasta. Kumppanuusavustussopimus on solmittu kolmeksi vuodeksi vuosille 2025–2027. Raportti on annettu vuoden 2025 toiminnasta, myönnetty avustussumma oli 10 000 euroa ja se kohdistuu pääasiassa Mielitupa -toiminnan tilavuokraan.\n\nRaportin mukaan toimintavuonna on yhteydenottoja/kohtaamisia on ollut 9 850. Toiminta kohdistuu varkautelaisille ja lähikuntien Joroinen ja Leppävirta eläkkeellä, kuntoutustuella, sairauslomalla tai työttömänä oleviin aikuisiin mielenterveyskuntoutujiin ja heidän omaisiinsa. Päivittäin kävijöitä on ollut 25–40. Palautteen mukaan kävijät ovat kokeneet elämänlaadun parantuneen, turvallisuuden tunteen ja sosiaalisten taitojen lisääntyneen. Terveyspainotteiset ryhmätoiminnat ovat antaneet apua ja tukea mm. ravitsemuksen, liikunnan ja mielen virkistykseen. Yhteistyötä hyvinvointipalvelujen kanssa on tehty mielenterveys- ja päihdepalvelujen, työikäisten sosiaalipalvelujen ja ikääntyneiden palvelujen kanssa.\n\nVäliraportit on välitetty hyvinvointialueen palvelujen osapuolille – työikäisten sosiaalipalvelut ja eteläinen sotekeskus. Yhteistyö näyttäytyy näiden palvelujen osalta positiivisena erityisesti kohderyhmän näkökulmasta. Alueella on runsaasti mielenterveyden ongelmia ja työttömyyttä. Moni kävijöistä on sote-palvelujen piirissä ja saa Mielituvan kautta lisätukea arkisten ongelmien tai elämänkriisin kohdatessa.\n\nEhdotuksena on, että Varkauden Seudun Mielenterveys ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 10 000 euroa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Raportti kumppanuusavustustoiminnasta, Varkauden Seudun Mielenterveysväki ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-10-259147.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 LIITE1 Yhteenveto Mielituvan toiminnasta 2025, Varkauden Seudun Mielenterveysväki ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-10-259148.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Liite 2, Tuloslaskelma 31.12.2025, Varkauden Seudun Mielenterveysväki ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-10-259149.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "119",
+   "title": "Vuodelle 2026 jatkettava kumppanuusavustus, ViaDia Pohjois-Savo ry, Osaava työikä -kehittämishanke",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-11",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-11.PDF",
+   "diary_number": "5667/02.05.01/2024",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto päättää, että ViaDia Pohjois-Savo ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 7 500 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, ViaDia Pohjois-Savo ry\n\n- Liite 1, Kooste Osaava työikä -hanke 2025 HVA, ViaDia Pohjois-Savo ry\n\n- Liite 2, Tuloslaskelma 6090 Saadut ennakot, maksatusrahat ja palkkakulut 2025, ViaDia Pohjois-Savo ry\n\n- Liite 3, Pääkirjaote 6090, ViaDia Pohjois-Savo ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 26.1.2026 ViaDia Pohjois-Savo ry:ltä väliraportti koskien Osaava työikä kehittämishanketta, jolla tuetaan vaikeasti työllistyviä työttömiä henkilöitä tarjoamalla matalan kynnyksen kohtaavaa toimintaa, yksilöllistä ohjausta ja rinnalla kulkemista. Hanke on kaksivuotinen vuosille 2025–2026. Kumppanuusavustussopimus on solmittu hankeajalle. Raportti on annettu 1.1 – 31.12.2025 toiminta-ajalta. Vuodelle 2025 myönnetty avustussumma oli 7 500 euroa. Summa koskee ESR-rahoitteisen hankkeen omarahoitusosuutta.\n\nRaportin mukaan toimintaan on osallistunut yli 500 henkilö, joista 100 on kirjautunut hankkeeseen mukaan. Toteutustapana on ollut etsivä ja jalkautuva työ Kaavi, Siilinjärvi, Kuopio, Juankoski, Suonenjoki, Leppävirta, Varkaus ja Joroinen alueilla. Asiakaskyselyn perusteella asiakkaat ovat kokeneet toiminnan edistäneen omaa hyvinvointia ja terveyttä, saaneet kiireetöntä kohtaamista, joka on auttanut löytämään vahvuuksia työllistymiselle ja löytämään oikealle jatkopolulle. Yhteistyö hyvinvointialueen palvelujen kanssa on ollut molemmin puolista asiakasohjautumista palveluihin tai hankkeen toimintoihin. Yhteistyö on sisältänyt tiedonvaihtoa, verkostokeskusteluja, ohjausryhmätyötä ja tarvittaessa neuvontaa.\n\nVäliraportti on välitetty hyvinvointialueen työikäisten sosiaalipalveluihin. Yhteistyö on näyttäytynyt hyvänä ja säännöllisenä tiedottamisena hankkeen toiminnasta sekä ohjausryhmätyönä. Hanke on tavoittanut merkittävän määrän työttömiä henkilöitä ja se on edistänyt jatkosuunnitelmia. Hanke on täydentänyt hyvin lakisääteisiä sosiaalipalveluja ja saanut sitouttamaan asiakkaat alkuselvitykseen ja asiakkuuteen hankkeessa.\n\nEhdotuksena on, että ViaDia Pohjois-Savo ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 7 500 euroa.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nHyvinvointikoordinaattori, Sirpa Kononen , HYTE- ja osallisuuspäällikkö Säde Rytkönen, , p. ."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto päättää, että ViaDia Pohjois-Savo ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 7 500 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, ViaDia Pohjois-Savo ry\n\n- Liite 1, Kooste Osaava työikä -hanke 2025 HVA, ViaDia Pohjois-Savo ry\n\n- Liite 2, Tuloslaskelma 6090 Saadut ennakot, maksatusrahat ja palkkakulut 2025, ViaDia Pohjois-Savo ry\n\n- Liite 3, Pääkirjaote 6090, ViaDia Pohjois-Savo ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 26.1.2026 ViaDia Pohjois-Savo ry:ltä väliraportti koskien Osaava työikä kehittämishanketta, jolla tuetaan vaikeasti työllistyviä työttömiä henkilöitä tarjoamalla matalan kynnyksen kohtaavaa toimintaa, yksilöllistä ohjausta ja rinnalla kulkemista. Hanke on kaksivuotinen vuosille 2025–2026. Kumppanuusavustussopimus on solmittu hankeajalle. Raportti on annettu 1.1 – 31.12.2025 toiminta-ajalta. Vuodelle 2025 myönnetty avustussumma oli 7 500 euroa. Summa koskee ESR-rahoitteisen hankkeen omarahoitusosuutta.\n\nRaportin mukaan toimintaan on osallistunut yli 500 henkilö, joista 100 on kirjautunut hankkeeseen mukaan. Toteutustapana on ollut etsivä ja jalkautuva työ Kaavi, Siilinjärvi, Kuopio, Juankoski, Suonenjoki, Leppävirta, Varkaus ja Joroinen alueilla. Asiakaskyselyn perusteella asiakkaat ovat kokeneet toiminnan edistäneen omaa hyvinvointia ja terveyttä, saaneet kiireetöntä kohtaamista, joka on auttanut löytämään vahvuuksia työllistymiselle ja löytämään oikealle jatkopolulle. Yhteistyö hyvinvointialueen palvelujen kanssa on ollut molemmin puolista asiakasohjautumista palveluihin tai hankkeen toimintoihin. Yhteistyö on sisältänyt tiedonvaihtoa, verkostokeskusteluja, ohjausryhmätyötä ja tarvittaessa neuvontaa.\n\nVäliraportti on välitetty hyvinvointialueen työikäisten sosiaalipalveluihin. Yhteistyö on näyttäytynyt hyvänä ja säännöllisenä tiedottamisena hankkeen toiminnasta sekä ohjausryhmätyönä. Hanke on tavoittanut merkittävän määrän työttömiä henkilöitä ja se on edistänyt jatkosuunnitelmia. Hanke on täydentänyt hyvin lakisääteisiä sosiaalipalveluja ja saanut sitouttamaan asiakkaat alkuselvitykseen ja asiakkuuteen hankkeessa.\n\nEhdotuksena on, että ViaDia Pohjois-Savo ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 7 500 euroa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Raportti kumppanuusavustustoiminnasta, ViaDia Pohjois-Savo ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-11-259151.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Liite 1, Kooste_Osaava_työikä_hanke_2025_HVA, ViaDia Pohjois-Savo ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-11-259152.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 LIITE2, tuloslaskelma 6090 saadut ennakot, maksatusrahat ja palkkakulut 2025, ViaDia Pohjois-Savo ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-11-259153.PDF"
+    },
+    {
+     "title": "Oheismateriaali 4 Liite 3, Pääkirja_ote_6090, ViaDia Pohjois-Savo ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-11-259154.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "120",
+   "title": "Vuodelle 2026 jatkettava kumppanuusavustus, Pohjois-Savon Omaishoitajat ry, Auttava -toiminta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-12",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-12.PDF",
+   "diary_number": "5667/02.05.01/2024",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto päättää, että Pohjois-Savon Omaishoitajat ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 25 000 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Pohjois-Savon Omaishoitajat ry\n\n- Liite 1, Auttava -toimintakertomus 2025, Pohjois-Savon Omaishoitajat ry\n\n- Liite 2, Auttava tuloslaskelma lopullinen, Pohjois-Savon Omaishoitajat ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 2.3.2026 Pohjois-Savon Omaishoitajat ry:ltä väliraportti koskien Auttava -toimintaa. Kumppanuusavustussopimus on tehty kolmeksi vuodeksi vuosille 2025–2027. Raportti on annettu 1.1. – 31.12.2025 toiminta-ajalta. Vuodelle 2025 myönnetty avustussumma oli 25 000 euroa.\n\nRaportin mukaan Auttava -toiminta on tarjonnut lyhytaikaisia kotikäyntejä Kuopion, Siilinjärven, Tervon ja Suonenjoen alueilla. Yhteensä on toteutunut 447 asiakaskäyntiä, joiden kesto on ollut 2–8 tunnin välillä. Asiakasperheitä on tavoitettu 36 ja uusia 16 kpl. Laajempi alueellinen leviäminen tarvitsee vielä hyvinvointialueyhteistyön tiivistämistä. Toiminta on saanut autettavilta henkilöiltä ja heidän omaisiltansa saadun palautteen mukaan mm. tärkeää apua arkeen, huolenpitoa ja turvaa. Ammattilaisyhteistyöltä saatu palaute on ollut myös hyvää. Hyvinvointialueen palvelujen kanssa yhteistyötä raportoija on tehnyt asiakasohjauksen, muistiohjaajien ja muistikoordinaattorien kanssa.\n\nVäliraportti on välitetty hyvinvointialueen ikääntyneiden palvelujen asiakasohjauksen palveluihin. Palautteen mukaan Auttava -toiminta on kohdennettu juuri siihen toimintaan, joka tukee omaishoitoperheitä eli toiminta menee kotiin. Muistikoordinaattorit ovat linkki tukea tarvitsevaan perheeseen ja ohjautuminen Auttava -toimintaan on sieltä kautta toteutunut. Yhteistyötä on hyvä vielä tiivistää asiakasohjauksen ja muistikoordinaattorien välillä, jotta Auttava -toiminta tunnistetaan palveluissa paremmin ja saadaan alueellista laajentumista aikaiseksi.\n\nEhdotuksena on, että Pohjois-Savon Omaishoitajat ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 25 000 euroa.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nHyvinvointikoordinaattori, Sirpa Kononen , HYTE- ja osallisuuspäällikkö Säde Rytkönen, , p. ."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto päättää, että Pohjois-Savon Omaishoitajat ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 25 000 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Pohjois-Savon Omaishoitajat ry\n\n- Liite 1, Auttava -toimintakertomus 2025, Pohjois-Savon Omaishoitajat ry\n\n- Liite 2, Auttava tuloslaskelma lopullinen, Pohjois-Savon Omaishoitajat ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 2.3.2026 Pohjois-Savon Omaishoitajat ry:ltä väliraportti koskien Auttava -toimintaa. Kumppanuusavustussopimus on tehty kolmeksi vuodeksi vuosille 2025–2027. Raportti on annettu 1.1. – 31.12.2025 toiminta-ajalta. Vuodelle 2025 myönnetty avustussumma oli 25 000 euroa.\n\nRaportin mukaan Auttava -toiminta on tarjonnut lyhytaikaisia kotikäyntejä Kuopion, Siilinjärven, Tervon ja Suonenjoen alueilla. Yhteensä on toteutunut 447 asiakaskäyntiä, joiden kesto on ollut 2–8 tunnin välillä. Asiakasperheitä on tavoitettu 36 ja uusia 16 kpl. Laajempi alueellinen leviäminen tarvitsee vielä hyvinvointialueyhteistyön tiivistämistä. Toiminta on saanut autettavilta henkilöiltä ja heidän omaisiltansa saadun palautteen mukaan mm. tärkeää apua arkeen, huolenpitoa ja turvaa. Ammattilaisyhteistyöltä saatu palaute on ollut myös hyvää. Hyvinvointialueen palvelujen kanssa yhteistyötä raportoija on tehnyt asiakasohjauksen, muistiohjaajien ja muistikoordinaattorien kanssa.\n\nVäliraportti on välitetty hyvinvointialueen ikääntyneiden palvelujen asiakasohjauksen palveluihin. Palautteen mukaan Auttava -toiminta on kohdennettu juuri siihen toimintaan, joka tukee omaishoitoperheitä eli toiminta menee kotiin. Muistikoordinaattorit ovat linkki tukea tarvitsevaan perheeseen ja ohjautuminen Auttava -toimintaan on sieltä kautta toteutunut. Yhteistyötä on hyvä vielä tiivistää asiakasohjauksen ja muistikoordinaattorien välillä, jotta Auttava -toiminta tunnistetaan palveluissa paremmin ja saadaan alueellista laajentumista aikaiseksi.\n\nEhdotuksena on, että Pohjois-Savon Omaishoitajat ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 25 000 euroa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Raportti kumppanuusavustustoiminnasta, Pohjois-Savon Omaishoitajat ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-12-259192.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 LIITE1 Auttava toimintakertomus 2025, Pohjois-Savon Omaishoitajat ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-12-259193.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Liite 2, Auttava_tuloslaskelma_lopullinen, Pohjois-Savon Omaishoitajat ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-12-259195.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "121",
+   "title": "Vuodelle 2026 jatkettava kumppanuusavustus, Sairaalaklovnit ry, Ikiklovni -toiminta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-13",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-13.PDF",
+   "diary_number": "5667/02.05.01/2024",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto päättää, että Sairaalaklovnit ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 16 000 euroa vuodelle 2026.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Sairaalaklovnit ry\n\n- Liite 1, Projekti 9906, Sairaalaklovnit ry\n\n- Liite 2, Väliraportti, Sairaalaklovnit ry\n\n- Kumppanuusavustushakemus, Sairaalaklovnit ry\n\n- Toiminnankuvaus, hakemuksen liite, Sairaalaklovnit ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 23.1.2026 Sairaalaklovnit ry:ltä väliraportti koskien Ikilovnit -Iloa kaiken ikää! -toimintaa muistisairaille ikäihmisille ympärivuorokautisen hoivan ryhmäkodeissa Pohjois-Savon alueella. Kumppanuusavustussopimus on tehty kolmeksi vuodeksi vuosille 2025–2027. Raportti on annettu 20.10. – 22.12.2025 toiminta-ajalta. Vuodelle 2025 myönnetty avustussumma oli 15 000 euroa. Myönnetystä summasta on osa siirretty kevään 2026 toiminnan toteutukseen.\n\nRaportin mukaan klovnivierailuja on toteutettu suunnitellusti Vanhan Pappilan palvelukodissa Siilinjärvellä 10 klovnityöpäivää. 5 klovnityöpäivää toteutetaan kevään 2026 puolella. Toiminta-ajalla on tavoitettu 60 ikäihmistä, omaisia noin 15 ja hoitohenkilökuntaa noin 35. Ikäihmisten kanssa kohtaamisia on ollut yhteensä 294 kpl. Palautteen perusteella ikäihmisissä on havaittu mm. piristymistä, virkistymistä, aktivoitumista ja mielialan kohoamista. Hoitohenkilökunnan kanssa yhteistyö on ollut vastaanottavaista ja se on sujunut hyvin. Raportoija sopii hyvinvointialueen edustajien kanssa vuosittain palvelukodin, jossa Ikiklovni -toiminta toteutetaan.\n\nVäliraportti on välitetty hyvinvointialueen ikääntyneiden palvelujen asumispalveluihin. Palautteen mukaan klovnivierailut ovat tuoneet yksikköön paljon iloa, ja klovnit ovat olleet yksikössä tykättyjä. Yhteistyö klovnien ja henkilökunnan kanssa on ollut hyvää ja vierailut onnistuneita. Vierailut ovat olleet hyvin suunniteltuja ja toiminta on tuonut asiakkaille iloa, arkeen vaihtelua, erilaisia kohtaamisia sekä viestintää ja kommunikointia henkilöiden välillä. Klovnivierailuja on hyvä suunnitella yhdessä vielä niin, että ne toteutuvat muillakin paikkakunnilla.\n\nVuoden 2025 avustussumman alkuperäinen ehdotus oli 16 000 euroa, jota sopeutettiin 15 000 euroon.\n\nEhdotuksena on, että Sairaalaklovnit ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 16 000 euroa vuodelle 2026.",
+   "decision": "Esittelijä esitti kokouksessa muutetun päätösehdotukseen kuulumaan seuraavasti:\n\nAsiakaskokemusjaosto päättää, että Sairaalaklovnit ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 16 000 euroa vuodelle 2026. Lisätään myöntöperusteisiin hakemuksen mukaisesti: Toimintaan valitaan vuosittain uudet hoivakodit ja mahdollisuuksien mukaan joka toinen vuosi yksi 18 viikon toimintajakso toteutetaan hyvinvointialueen keskusta-alueen ulkopuolella. Tällöin toiminnan saavutettavuus laajenee Kuopion lähimaakuntiin.\n\nAsiakaskokemusjaosto hyväksyi muutetun päätösehdotuksen yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nHyvinvointikoordinaattori, Sirpa Kononen , HYTE- ja osallisuuspäällikkö Säde Rytkönen, , p. ."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Esittelijä esitti kokouksessa muutetun päätösehdotukseen kuulumaan seuraavasti:\n\nAsiakaskokemusjaosto päättää, että Sairaalaklovnit ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 16 000 euroa vuodelle 2026. Lisätään myöntöperusteisiin hakemuksen mukaisesti: Toimintaan valitaan vuosittain uudet hoivakodit ja mahdollisuuksien mukaan joka toinen vuosi yksi 18 viikon toimintajakso toteutetaan hyvinvointialueen keskusta-alueen ulkopuolella. Tällöin toiminnan saavutettavuus laajenee Kuopion lähimaakuntiin.\n\nAsiakaskokemusjaosto hyväksyi muutetun päätösehdotuksen yksimielisesti."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto päättää, että Sairaalaklovnit ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 16 000 euroa vuodelle 2026.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Sairaalaklovnit ry\n\n- Liite 1, Projekti 9906, Sairaalaklovnit ry\n\n- Liite 2, Väliraportti, Sairaalaklovnit ry\n\n- Kumppanuusavustushakemus, Sairaalaklovnit ry\n\n- Toiminnankuvaus, hakemuksen liite, Sairaalaklovnit ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 23.1.2026 Sairaalaklovnit ry:ltä väliraportti koskien Ikilovnit -Iloa kaiken ikää! -toimintaa muistisairaille ikäihmisille ympärivuorokautisen hoivan ryhmäkodeissa Pohjois-Savon alueella. Kumppanuusavustussopimus on tehty kolmeksi vuodeksi vuosille 2025–2027. Raportti on annettu 20.10. – 22.12.2025 toiminta-ajalta. Vuodelle 2025 myönnetty avustussumma oli 15 000 euroa. Myönnetystä summasta on osa siirretty kevään 2026 toiminnan toteutukseen.\n\nRaportin mukaan klovnivierailuja on toteutettu suunnitellusti Vanhan Pappilan palvelukodissa Siilinjärvellä 10 klovnityöpäivää. 5 klovnityöpäivää toteutetaan kevään 2026 puolella. Toiminta-ajalla on tavoitettu 60 ikäihmistä, omaisia noin 15 ja hoitohenkilökuntaa noin 35. Ikäihmisten kanssa kohtaamisia on ollut yhteensä 294 kpl. Palautteen perusteella ikäihmisissä on havaittu mm. piristymistä, virkistymistä, aktivoitumista ja mielialan kohoamista. Hoitohenkilökunnan kanssa yhteistyö on ollut vastaanottavaista ja se on sujunut hyvin. Raportoija sopii hyvinvointialueen edustajien kanssa vuosittain palvelukodin, jossa Ikiklovni -toiminta toteutetaan.\n\nVäliraportti on välitetty hyvinvointialueen ikääntyneiden palvelujen asumispalveluihin. Palautteen mukaan klovnivierailut ovat tuoneet yksikköön paljon iloa, ja klovnit ovat olleet yksikössä tykättyjä. Yhteistyö klovnien ja henkilökunnan kanssa on ollut hyvää ja vierailut onnistuneita. Vierailut ovat olleet hyvin suunniteltuja ja toiminta on tuonut asiakkaille iloa, arkeen vaihtelua, erilaisia kohtaamisia sekä viestintää ja kommunikointia henkilöiden välillä. Klovnivierailuja on hyvä suunnitella yhdessä vielä niin, että ne toteutuvat muillakin paikkakunnilla.\n\nVuoden 2025 avustussumman alkuperäinen ehdotus oli 16 000 euroa, jota sopeutettiin 15 000 euroon.\n\nEhdotuksena on, että Sairaalaklovnit ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 16 000 euroa vuodelle 2026."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Raportti kumppanuusavustustoiminnasta, Sairaalaklovnit ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-13-259214.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Liite 1, Projekti 9906, Sairaalaklovnit ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-13-259215.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Liite 2, Välirapotti, Sairaalaklovnit ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-13-259216.PDF"
+    },
+    {
+     "title": "Oheismateriaali 4 Kumppanuusavustushakemus, Sairaalaklovnit ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-13-259824.PDF"
+    },
+    {
+     "title": "Oheismateriaali 5 Toiminnankuvaus, hakemuksen liite, Sairaalaklovnit ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-13-259826.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "122",
+   "title": "Vuodelle 2026 jatkettava kumppanuusavustus, Huoltoliitto ry, Siilinjärven perheentalo",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-14",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-14.PDF",
+   "diary_number": "5667/02.05.01/2024",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto päättää, että Huoltoliitto ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 20 000 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Huoltoliitto ry\n\n- Liite 1, Siilinjärven perheentalo hva raportti 2025, Huoltoliitto ry\n\n- Liite 2, Tuloslaskelma 2025 hva, Huoltoliitto ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 26.1.2026 Huoltoliitto ry:ltä väliraportti koskien Siilinjärven perheentalon jalkautuvaa kohtaamispaikkatoimintaa. Kumppanuusavustussopimus on tehty kolmeksi vuodeksi vuosille 2025–2027. Raportti on annettu 1.1. – 31.12.2025 toiminta-ajalta. Vuodelle 2025 myönnetty avustussumma oli 20 000 euroa.\n\nRaportin mukaan jalkautuvaa kohtaamispaikkatoimintaa on toteutettu Maaningalla, Varpaisjärvellä ja Nilsiässä. Vuoden 2025 aikana toimintaa on toteutettu näillä paikkakunnilla yhteensä 61 kertaa ja käyntimäärät ovat vaihdelleet 200–400 välillä / paikkakunta / vuosi. Toiminta on sujunut suunnitelman mukaisesti ja osallistujat ovat olleet palautteen perusteella tyytyväisiä siihen. Hyvinvointialueen kanssa on tehty yhteistyötä neuvolan, perheneuvojien ja perheohjaajien kanssa.\n\nVäliraportti on välitetty hyvinvointialueen perhepalvelujen puolelle. Yhteistyö Siilinjärven perheentalon kanssa on ollut erittäin aktiivista ja perheneuvojat ovat kohdanneet perheitä perheentalolla. Ryhmäneuvolatoimintaa on myös suunniteltu perheentalon tiloihin. Yhteistyö jatkuu ja on erittäin hedelmällistä.\n\nEhdotuksena on, että Huoltoliitto ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 20 000 euroa.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nHyvinvointikoordinaattori, Sirpa Kononen, HYTE- ja osallisuuspäällikkö Säde Rytkönen, p. ."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto päättää, että Huoltoliitto ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 20 000 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Huoltoliitto ry\n\n- Liite 1, Siilinjärven perheentalo hva raportti 2025, Huoltoliitto ry\n\n- Liite 2, Tuloslaskelma 2025 hva, Huoltoliitto ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 26.1.2026 Huoltoliitto ry:ltä väliraportti koskien Siilinjärven perheentalon jalkautuvaa kohtaamispaikkatoimintaa. Kumppanuusavustussopimus on tehty kolmeksi vuodeksi vuosille 2025–2027. Raportti on annettu 1.1. – 31.12.2025 toiminta-ajalta. Vuodelle 2025 myönnetty avustussumma oli 20 000 euroa.\n\nRaportin mukaan jalkautuvaa kohtaamispaikkatoimintaa on toteutettu Maaningalla, Varpaisjärvellä ja Nilsiässä. Vuoden 2025 aikana toimintaa on toteutettu näillä paikkakunnilla yhteensä 61 kertaa ja käyntimäärät ovat vaihdelleet 200–400 välillä / paikkakunta / vuosi. Toiminta on sujunut suunnitelman mukaisesti ja osallistujat ovat olleet palautteen perusteella tyytyväisiä siihen. Hyvinvointialueen kanssa on tehty yhteistyötä neuvolan, perheneuvojien ja perheohjaajien kanssa.\n\nVäliraportti on välitetty hyvinvointialueen perhepalvelujen puolelle. Yhteistyö Siilinjärven perheentalon kanssa on ollut erittäin aktiivista ja perheneuvojat ovat kohdanneet perheitä perheentalolla. Ryhmäneuvolatoimintaa on myös suunniteltu perheentalon tiloihin. Yhteistyö jatkuu ja on erittäin hedelmällistä.\n\nEhdotuksena on, että Huoltoliitto ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 20 000 euroa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Raportti kumppanuusavustustoiminnasta, Huoltoliitto ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-14-259233.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Liite 2, Tuloslaskelma 2025 hva, Huoltoliitto ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-14-259235.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Liite 1, Siilinjärven Perheentalo hva raportti 2025, Huoltoliitto ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-14-259278.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "123",
+   "title": "Vuodelle 2026 jatkettava kumppanuusavustus, Hope Yhdessä & Yhteisesti ry, Kuopion toiminta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-15",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-15.PDF",
+   "diary_number": "5667/02.05.01/2024",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto päättää, että Hope Yhdessä & Yhteisesti ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 7 000 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Hope – Yhdessä & Yhteisesti ry\n\n- Liite 1, HOP tuloslaskelma 1.1. – 31.12.2024 tp170, Hope, Yhdessä & Yhteisesti ry\n\n- Liite 2, lisätietolomake HOPE Kuopio, Hope Yhdessä & Yhteisesti ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut Hope Yhdessä & Yhteisesti ry:ltä väliraportti 12.3.2026 koskien Kuopion osaston toimintaa – avustustyö vapaaehtoisvoimin alueen vähävaraisille perheille. Kumppanuusavustussopimus on tehty kolmeksi vuodeksi vuosille 2025–2027. Raportti on annettu 1.1. – 31.12.2025 toiminta-ajalta. Vuodelle 2025 myönnetty avustussumma oli 7 000 euroa.\n\nRaportin mukaan saajalla on toiminta-ajalla ollut mukana 45 vapaaehtoista. Vuoden aikana on keskitytty erityisesti vähävaraisten lapsiperheiden arjen tukemiseen, 0–17-vuotiaat lapset ja nuoret. Lahjoituksina saatuja tuotteita on pystytty jakamaan Kuopion alueella sekä postitse kauempana asuville perheille laajasti eri kuntiin Pohjois-Savon alueella. Myönnetty avustussumma kohdentuu pääasiassa Kuopion tilojen tilavuokraan mahdollistaen sen toiminnan. Vaikutukset ovat näkyneet konkreettisesti perheiden arjessa mahdollistaen lasten ja nuorten harrastamisen ja osallistumisen erilaisiin tapahtumiin. Tähän on vaikuttanut vapaaehtoisten antama työpanos toiminnalle.\n\nVäliraportti on välitetty hyvinvointialueen perhepalvelujen osapuolelle. Yhteistyö on ollut viestinnällistä. Hope ry:n toiminnan esitteitä on asetettu perhepalvelujen toimipaikoissa esille ja asiakkaille jaettavaksi. Yhteistyötoiveena raportilla nostettu yhteydenpito esimerkiksi perheiden muuttuviin ja syventyviin tarpeisiin huomioidaan jatkossa palvelutuotannossa. Tarkoituksenmukaista on myös vahvistaa Hope ry:n näkyvyyttä perhepalvelujen nettisivuilla.\n\nEhdotuksena on, että Hope Yhdessä & Yhteisesti ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 7 000 euroa.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nHyvinvointikoordinaattori Sirpa Kononen, HYTE- ja osallisuuspäällikkö Säde Rytkönen, p. ."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto päättää, että Hope Yhdessä & Yhteisesti ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 7 000 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Hope – Yhdessä & Yhteisesti ry\n\n- Liite 1, HOP tuloslaskelma 1.1. – 31.12.2024 tp170, Hope, Yhdessä & Yhteisesti ry\n\n- Liite 2, lisätietolomake HOPE Kuopio, Hope Yhdessä & Yhteisesti ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut Hope Yhdessä & Yhteisesti ry:ltä väliraportti 12.3.2026 koskien Kuopion osaston toimintaa – avustustyö vapaaehtoisvoimin alueen vähävaraisille perheille. Kumppanuusavustussopimus on tehty kolmeksi vuodeksi vuosille 2025–2027. Raportti on annettu 1.1. – 31.12.2025 toiminta-ajalta. Vuodelle 2025 myönnetty avustussumma oli 7 000 euroa.\n\nRaportin mukaan saajalla on toiminta-ajalla ollut mukana 45 vapaaehtoista. Vuoden aikana on keskitytty erityisesti vähävaraisten lapsiperheiden arjen tukemiseen, 0–17-vuotiaat lapset ja nuoret. Lahjoituksina saatuja tuotteita on pystytty jakamaan Kuopion alueella sekä postitse kauempana asuville perheille laajasti eri kuntiin Pohjois-Savon alueella. Myönnetty avustussumma kohdentuu pääasiassa Kuopion tilojen tilavuokraan mahdollistaen sen toiminnan. Vaikutukset ovat näkyneet konkreettisesti perheiden arjessa mahdollistaen lasten ja nuorten harrastamisen ja osallistumisen erilaisiin tapahtumiin. Tähän on vaikuttanut vapaaehtoisten antama työpanos toiminnalle.\n\nVäliraportti on välitetty hyvinvointialueen perhepalvelujen osapuolelle. Yhteistyö on ollut viestinnällistä. Hope ry:n toiminnan esitteitä on asetettu perhepalvelujen toimipaikoissa esille ja asiakkaille jaettavaksi. Yhteistyötoiveena raportilla nostettu yhteydenpito esimerkiksi perheiden muuttuviin ja syventyviin tarpeisiin huomioidaan jatkossa palvelutuotannossa. Tarkoituksenmukaista on myös vahvistaa Hope ry:n näkyvyyttä perhepalvelujen nettisivuilla.\n\nEhdotuksena on, että Hope Yhdessä & Yhteisesti ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 7 000 euroa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Raportti kumppanuusavustustoiminnasta, Hope - Yhdessä & Yhteisesti ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-15-259289.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Liite 1, HOP tuloslaskelma 1.1. - 31.12.2025 tp 170 Hope - Yhdessä & Yhteisesti ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-15-259290.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Liite 2, lisätietolomake HOPE Kuopio, Hope Yhdessä & Yhteisesti ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-15-259291.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "124",
+   "title": "Vuodelle 2026 jatkettava kumppanuusavustus, Kuopion Setlementti Puijola ry, kohti turvallisempaa arkea -toiminta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-16",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-16.PDF",
+   "diary_number": "5667/02.05.01/2024",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto päättää, että Kuopion Setlementti Puijola ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 35 000 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Kuopion Setlementti Puijola ry\n\n- Liite 1, Yhteenvetosyksy 2025, Kuopin Setlementti Puijola ry\n\n- Liite 2, Kohti turvallisempaa arkea väliraportin tuloslaskelma, Kuopion Setlementti Puijola ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 27.1.2026 Kuopion Setlementti Puijola ry:ltä väliraportti koskien Kohti turvallisempaa arkea -hanke, seksuaalikasvatushetket 5.–6. -luokkalaisille Pohjois-Savon alakouluilla. Kumppanuusavustussopimus on tehty kolmeksi vuodeksi vuosille 2025–2027. Raportti on annettu 1.9. – 31.12.2025 toiminta-ajalta. Vuodelle myönnetty avustussumma oli 35 000 euroa. Aloituksen viivästyksen vuoksi vuoden 2025 avustusrahaa on siirretty kevään 2026 toteutukseen.\n\nRaportin mukaan toiminta-ajalla on tavoitettu kuusi Pohjois-Savolaista koulua Kuopiossa, Varkaudessa, Joroisissa, Kaavilla ja Rautavaaralla. Kasvatushetkissä on kohdattu noin 160 viidesluokkalaista ja 197 kuudesluokkalaista. Ammatillista koulutusta on annettu 36 terveydenhoitajalle ja tunne- ja turvataito -materiaaleja jaettu kouluille. Oppilaiden palautteissa tunne- ja turvataidot osio on ollut mieluisin. Avustus on mahdollistanut kouluvierailut. Yhteistyön toivotaan olevan avointa, joka mahdollistaa tiedon ja asiantuntijuuden jakamisen sekä kohdentamisen alueiden tarpeisiin.\n\nVäliraportti on välitetty hyvinvointialueen osapuolille – perhepalvelut ja HYTE- ja osallisuuspalveluyksikkö. HYTE- työn osalta yhteistyö on ollut selkeää ja suunnitelman mukaista. Yhteistyötä on tehty alkuvaiheen suunnittelussa ja tilannekuvan työstämisen vaiheissa. Tiedotus on ollut toivottua ja tarpeellisista aiheista ja hankkeesta on osallistuttu seksuaaliterveyden ja -kasvatuksen työryhmään aktiivisesti.\n\nEhdotuksena on, että Kuopion Setlementti Puijola ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 35 000 euroa.",
+   "decision": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että Sirpa Kononen poistui asian käsittelyn ja päätöksenteon jälkeen klo 9.43",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nHyvinvointikoordinaattori, Sirpa Kononen, HYTE- ja osallisuuspäällikkö Säde Rytkönen, p. ."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että Sirpa Kononen poistui asian käsittelyn ja päätöksenteon jälkeen klo 9.43"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto päättää, että Kuopion Setlementti Puijola ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 35 000 euroa.\n\nEnnakkovaikutusten arviointi\n\nPäätös toteuttaa hyvinvointialueen strategian mukaista toimintaa edistäen yleishyödyllisten yhteisöjen toimintaedellytyksiä ja yhteistyötä hyvinvointialueen palvelutuotannon kanssa.\n\nToimivallan peruste\nHallintosääntö 39 § 14\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Raportti kumppanuusavustustoiminnasta, Kuopion Setlementti Puijola ry\n\n- Liite 1, Yhteenvetosyksy 2025, Kuopin Setlementti Puijola ry\n\n- Liite 2, Kohti turvallisempaa arkea väliraportin tuloslaskelma, Kuopion Setlementti Puijola ry\n\nValmistelu\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta ja toiminnallisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 13.12.2023) mukaisesti kumppanuusavustus solmitaan pidempikestoiseksi jaksoksi, 2–3 vuodeksi. Myönnetystä avustuksesta tehdään kumppanuusavustussopimus, joka tarkistetaan vuosittain talousarvion määrärahan puitteissa.\n\nSopimuksen mukaisesti avustuksen saaja raportoi hyvinvointialueelle toteutetusta toiminnasta vuosittain ennen uuden maksatuskauden alkua. Saaja toimittaa väliraportin hyvinvointialueen ohjeistuksen ja aikataulun mukaisesti Pohjois-Savon hyvinvointialueen sähköiseen asiointipalveluun.\n\nHyvinvointialueelle on saapunut 27.1.2026 Kuopion Setlementti Puijola ry:ltä väliraportti koskien Kohti turvallisempaa arkea -hanke, seksuaalikasvatushetket 5.–6. -luokkalaisille Pohjois-Savon alakouluilla. Kumppanuusavustussopimus on tehty kolmeksi vuodeksi vuosille 2025–2027. Raportti on annettu 1.9. – 31.12.2025 toiminta-ajalta. Vuodelle myönnetty avustussumma oli 35 000 euroa. Aloituksen viivästyksen vuoksi vuoden 2025 avustusrahaa on siirretty kevään 2026 toteutukseen.\n\nRaportin mukaan toiminta-ajalla on tavoitettu kuusi Pohjois-Savolaista koulua Kuopiossa, Varkaudessa, Joroisissa, Kaavilla ja Rautavaaralla. Kasvatushetkissä on kohdattu noin 160 viidesluokkalaista ja 197 kuudesluokkalaista. Ammatillista koulutusta on annettu 36 terveydenhoitajalle ja tunne- ja turvataito -materiaaleja jaettu kouluille. Oppilaiden palautteissa tunne- ja turvataidot osio on ollut mieluisin. Avustus on mahdollistanut kouluvierailut. Yhteistyön toivotaan olevan avointa, joka mahdollistaa tiedon ja asiantuntijuuden jakamisen sekä kohdentamisen alueiden tarpeisiin.\n\nVäliraportti on välitetty hyvinvointialueen osapuolille – perhepalvelut ja HYTE- ja osallisuuspalveluyksikkö. HYTE- työn osalta yhteistyö on ollut selkeää ja suunnitelman mukaista. Yhteistyötä on tehty alkuvaiheen suunnittelussa ja tilannekuvan työstämisen vaiheissa. Tiedotus on ollut toivottua ja tarpeellisista aiheista ja hankkeesta on osallistuttu seksuaaliterveyden ja -kasvatuksen työryhmään aktiivisesti.\n\nEhdotuksena on, että Kuopion Setlementti Puijola ry:lle myönnetään vuodelle 2026 jatkettava kumppanuusavustus 35 000 euroa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Raportti kumppanuusavustustoiminnasta, Kuopion Setlementti Puijola ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-16-259348.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Liite 1, Yhteenvetosyksy2025, Kuopion Setlementti Puijola ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-16-259349.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 LIITE2 Kohti turvallisempaa arkea väliraportin tuloslaskelma, Kuopion Setlementti Puijola ry",
+     "url": "https://pshva.oncloudos.com/kokous/20261053-16-259350.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "125",
+   "title": "Palveluiden asiakaslähtöisyyden parantaminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-17",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-17.PDF",
+   "diary_number": "2817/01.03.00/2026",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto merkitsee asian tiedoksi\n\nEnnakkovaikutusten arviointi\n\nAsiakaslähtöisyys ja asiakaslähtöinen toimintatapa on strateginen painopiste ja toiminnan lähtökohta. Henkilöstön kuuleminen ja osallistaminen palvelujen suunnittelussa ja kehittämisessä on myös strategiasta johdettu lähtökohta. Asiakaslähtöisyyskyselyn tuloksia tullaan hyödyntämään osana palvelustrategiaa, sillä kysely antaa arvokasta tietoa arjen sujumisesta palveluketjuissa\n\nToimivallan peruste\nHallintosääntö § 39\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nPohjois-Savon hyvinvointialueella tehtiin asiakaslähtöisyyskysely henkilöstölle 11/2025-2/2026. Hyvinvointialueen työyksiköitä pyydettiin keskustelemaan yhdessä viidestä asiakaslähtöisyyskysymyksestä työpaikkakokouksessa, ja keräämään vastaukset yksiköittäin HowSpace-alustalle. Viisi kysymystä, joista pyydettiin keskustelemaan olivat\n\nMitä asiakaslähtöisyys tarkoittaa meidän tiimin tai yksikön työssä\n\nMiten asiakaslähtöisyys näkyy meidän tiimin tai yksikön työskentelyssä, tai työn suunnittelussa\n\nMitä voimme omassa tiimissä tai yksikössämme tehdä, jotta työstämme tulee nykyistä asiakaslähtöisempää\n\nMitkä asiat hankaloittavat asiakaslähtöisyyden vahvistamista työssämme\n\nMitkä asiat tukevat tai helpottavat asiakaslähtöisyyden vahvistamista työssämme\n\nVastauksia saatiin runsaasti jokaiseen kohtaan. Osassa oli yhdessä vastauksessa merkitty luettelonomaisesti asioita, ja siinä saattoi olla useita asioita yhdessä vastauksessa. Näitä asioita kertyi yli 1000 kpl.\n\nKyselyn tulokset ovat henkilöstön näkemyksiä oman yksikön asiakaslähtöisyydestä, eikä niitä voi suoraan yleistää koskemaan koko hyvinvointialueen toimintaa. Koska kyselyssä ei ollut yksilöiviä tunnistetietoja, ei vastauksia voida tarkastella toimialoittain tai palveluittain.\n\nKyselyssä nousi esille se, että henkilöstö on motivoitunut toimimaan asiakaslähtöisesti ja on valmis kehittämään toimintaa sen edistämiseksi. Vastauksissa nousi samoja asioita niin kehittämiskohteina kuin vahvuuksina, joka kertoo osaltaan siitä, että palvelut ovat kehittyneet hyvinvointialueella osin eritahtisesti. Osassa palveluissa koettiin asiakaslähtöisyyden esteeksi korkealle karannut päätöksenteko, kun taas osassa vastauksissa se ja esihenkilön tuki koettiin tiimin vahvuudeksi. Asiakkaiden osallistaminen päätöksentekoon oli myös osassa vastauksissa vahvuus ja osassa heikkous. Asiakaslähtöisyyden esteenä koettiin se, että asiakkaalle ei ole yhteisissä palvelupoluissa määritetty vastaavaa työntekijää, jolla olisi kokonaisuuden hallinta. Omassa työssä ja oman tiimin sisällä vastuutyöntekijä koettiin asiakaslähtöisyyden vahvuudeksi. Henkilökunnan vastauksissa nousi esille asiakaslähtöisyyden vahvistamiseksi tarvittavat rakenteet, joissa olisi määritetty esimerkiksi asiakasraadit, kokemusasiantuntijoiden käyttö ja asiakkaiden osallistaminen. Vastaukissa nousi esille myös se, että asiakaslähtöisyyttä ei voida mitata tällä hetkellä niin, että se olisi yksiselitteistä. Mittarit kohdentuvat enemmänkin suoritteisiin ja laadulliset mittarit ovat epäselvempiä henkilöstölle. Henkilöstö nosti samoja asioita niin oman tiimin vahvuuksina kuin toisissa vastauksissa oman tiimin heikkouksina. Tästä voidaan tehdä johtopäätös, että hyvinvointialueella tarvitaan selkeä rakenne, kuinka asiakaslähtöisyyttä jatkossa parannetaan jakamalla hyviä käytäntöjä ja miettimällä yhteisiä toimintatapoja.\n\nKyselyssä esille nousseita asioita käydään läpi koko henkilöstölle intrassa julkaistavissa Strategiakahveissa ja jatkotyöskentelystä tiedotetaan henkilöstöä intrauutisten muodossa.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nPalvelualuepäällikkö, asiakkuudet ja laatu, Päivi Eskelinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto merkitsee asian tiedoksi\n\nEnnakkovaikutusten arviointi\n\nAsiakaslähtöisyys ja asiakaslähtöinen toimintatapa on strateginen painopiste ja toiminnan lähtökohta. Henkilöstön kuuleminen ja osallistaminen palvelujen suunnittelussa ja kehittämisessä on myös strategiasta johdettu lähtökohta. Asiakaslähtöisyyskyselyn tuloksia tullaan hyödyntämään osana palvelustrategiaa, sillä kysely antaa arvokasta tietoa arjen sujumisesta palveluketjuissa\n\nToimivallan peruste\nHallintosääntö § 39\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nPohjois-Savon hyvinvointialueella tehtiin asiakaslähtöisyyskysely henkilöstölle 11/2025-2/2026. Hyvinvointialueen työyksiköitä pyydettiin keskustelemaan yhdessä viidestä asiakaslähtöisyyskysymyksestä työpaikkakokouksessa, ja keräämään vastaukset yksiköittäin HowSpace-alustalle. Viisi kysymystä, joista pyydettiin keskustelemaan olivat\n\nMitä asiakaslähtöisyys tarkoittaa meidän tiimin tai yksikön työssä\n\nMiten asiakaslähtöisyys näkyy meidän tiimin tai yksikön työskentelyssä, tai työn suunnittelussa\n\nMitä voimme omassa tiimissä tai yksikössämme tehdä, jotta työstämme tulee nykyistä asiakaslähtöisempää\n\nMitkä asiat hankaloittavat asiakaslähtöisyyden vahvistamista työssämme\n\nMitkä asiat tukevat tai helpottavat asiakaslähtöisyyden vahvistamista työssämme\n\nVastauksia saatiin runsaasti jokaiseen kohtaan. Osassa oli yhdessä vastauksessa merkitty luettelonomaisesti asioita, ja siinä saattoi olla useita asioita yhdessä vastauksessa. Näitä asioita kertyi yli 1000 kpl.\n\nKyselyn tulokset ovat henkilöstön näkemyksiä oman yksikön asiakaslähtöisyydestä, eikä niitä voi suoraan yleistää koskemaan koko hyvinvointialueen toimintaa. Koska kyselyssä ei ollut yksilöiviä tunnistetietoja, ei vastauksia voida tarkastella toimialoittain tai palveluittain.\n\nKyselyssä nousi esille se, että henkilöstö on motivoitunut toimimaan asiakaslähtöisesti ja on valmis kehittämään toimintaa sen edistämiseksi. Vastauksissa nousi samoja asioita niin kehittämiskohteina kuin vahvuuksina, joka kertoo osaltaan siitä, että palvelut ovat kehittyneet hyvinvointialueella osin eritahtisesti. Osassa palveluissa koettiin asiakaslähtöisyyden esteeksi korkealle karannut päätöksenteko, kun taas osassa vastauksissa se ja esihenkilön tuki koettiin tiimin vahvuudeksi. Asiakkaiden osallistaminen päätöksentekoon oli myös osassa vastauksissa vahvuus ja osassa heikkous. Asiakaslähtöisyyden esteenä koettiin se, että asiakkaalle ei ole yhteisissä palvelupoluissa määritetty vastaavaa työntekijää, jolla olisi kokonaisuuden hallinta. Omassa työssä ja oman tiimin sisällä vastuutyöntekijä koettiin asiakaslähtöisyyden vahvuudeksi. Henkilökunnan vastauksissa nousi esille asiakaslähtöisyyden vahvistamiseksi tarvittavat rakenteet, joissa olisi määritetty esimerkiksi asiakasraadit, kokemusasiantuntijoiden käyttö ja asiakkaiden osallistaminen. Vastaukissa nousi esille myös se, että asiakaslähtöisyyttä ei voida mitata tällä hetkellä niin, että se olisi yksiselitteistä. Mittarit kohdentuvat enemmänkin suoritteisiin ja laadulliset mittarit ovat epäselvempiä henkilöstölle. Henkilöstö nosti samoja asioita niin oman tiimin vahvuuksina kuin toisissa vastauksissa oman tiimin heikkouksina. Tästä voidaan tehdä johtopäätös, että hyvinvointialueella tarvitaan selkeä rakenne, kuinka asiakaslähtöisyyttä jatkossa parannetaan jakamalla hyviä käytäntöjä ja miettimällä yhteisiä toimintatapoja.\n\nKyselyssä esille nousseita asioita käydään läpi koko henkilöstölle intrassa julkaistavissa Strategiakahveissa ja jatkotyöskentelystä tiedotetaan henkilöstöä intrauutisten muodossa."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "126",
+   "title": "Omavalvontaohjelman seurantaraportti 1⁄2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-18",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-18.PDF",
+   "diary_number": "3030/06.00.01/2026",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto merkitsee raportin tiedoksi ja lähettää sen edelleen tiedoksi aluehallitukselle.\n\nEnnakkovaikutusten arviointi\n\nOmavalvontaohjelman seuranta tuottaa asukkaille, päättäjille ja henkilöstölle ajantasaista tietoa hyvinvointialueen toiminnasta ja laadusta. Palvelujen järjestäjien osavuosikatsaukset kertovat palvelukohtaisesta toiminnasta tarkemmalla tasolla. Omavalvontaohjelman seuranta on tärkeää, jotta toiminnan riskit ja muutostarpeet tunnistetaan jo ennakolta, ja niihin voidaan vaikuttaa.\n\nToimivallan peruste\nHallintosääntö § 39\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nOmavalvonnalla tarkoitetaan niitä keinoja ja toimia, joilla palvelunjärjestäjä ja palveluntuottaja valvovat, seuraavat ja arvioivat toimintaansa. Omavalvonnalla varmistetaan asiakkaiden yhdenvertaisuus sekä palvelujen saatavuus, jatkuvuus, turvallisuus ja laatu.\n\nOmavalvonta on valvonnan ensisijaisin muoto. Omavalvonnalla varmistetaan, että toimintaa toteutetaan lainmukaisesti ja sopimuksia noudattaen. Omavalvonta on ennakoivaa ja aktiivista toimintaa, ja siihen kuuluu riskitilanteiden tunnistaminen ja epäkohtiin puuttuminen.\n\nPalvelunjärjestäjän ja -tuottajan tekemän omavalvonnan lisäksi jokaisella sosiaali- ja terveydenhuollon ammattihenkilöllä on velvollisuus toimia turvallisesti työssään sekä ilmoittaa havaitsemistaan riskeistä tai epäkohdista työnantajalleen.\n\nPalvelunjärjestäjän pitää kehittää laadukkaat, turvalliset ja vaikuttavat prosessit, palveluketjut ja toimintatavat. Tämä edellyttää keskeisten prosessien ja hoito- ja palveluketjujen tunnistamista, määrittelyä, kuvaamista sekä jatkuvaa kehittämistä.\n\nPalvelunjärjestäjä määrittelee keskeiset turvallisuutta edistävät linjaukset ja ohjeistukset sekä tarvittavan resursoinnin toiminnan kehittämiseen ja jatkuvaan parantamiseen. Prosesseihin liittyvät riskit pitää tunnistaa ja prosesseja suojaavat toimenpiteet määritellä.\n\nProsessien kehittämisessä on huomioitava moniammatillinen yhteistyö ja toiminnan arvioinnissa teknisen turvallisuuden lisäksi asiakas- ja potilaskokemus.\n\nHyvinvointialueet järjestävät sosiaali- ja terveydenhuollon palvelut alueellaan. Niiden laajaan omavalvontavelvoitteeseen kuuluu oman järjestämistehtävänsä ja oman palvelutuotantonsa valvonnan lisäksi yksityisten palveluntuottajien valvonta.",
+   "decision": "Päätösehdotus hyväksyttiin. Merkitään pöytäkirjaan, että Säde Rytkönen poistui asian käsittelyn ja päätöksenteon jälkeen klo 10.34",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nPalvelualuepäällikkö Päivi Eskelinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin. Merkitään pöytäkirjaan, että Säde Rytkönen poistui asian käsittelyn ja päätöksenteon jälkeen klo 10.34"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto merkitsee raportin tiedoksi ja lähettää sen edelleen tiedoksi aluehallitukselle.\n\nEnnakkovaikutusten arviointi\n\nOmavalvontaohjelman seuranta tuottaa asukkaille, päättäjille ja henkilöstölle ajantasaista tietoa hyvinvointialueen toiminnasta ja laadusta. Palvelujen järjestäjien osavuosikatsaukset kertovat palvelukohtaisesta toiminnasta tarkemmalla tasolla. Omavalvontaohjelman seuranta on tärkeää, jotta toiminnan riskit ja muutostarpeet tunnistetaan jo ennakolta, ja niihin voidaan vaikuttaa.\n\nToimivallan peruste\nHallintosääntö § 39\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nOmavalvonnalla tarkoitetaan niitä keinoja ja toimia, joilla palvelunjärjestäjä ja palveluntuottaja valvovat, seuraavat ja arvioivat toimintaansa. Omavalvonnalla varmistetaan asiakkaiden yhdenvertaisuus sekä palvelujen saatavuus, jatkuvuus, turvallisuus ja laatu.\n\nOmavalvonta on valvonnan ensisijaisin muoto. Omavalvonnalla varmistetaan, että toimintaa toteutetaan lainmukaisesti ja sopimuksia noudattaen. Omavalvonta on ennakoivaa ja aktiivista toimintaa, ja siihen kuuluu riskitilanteiden tunnistaminen ja epäkohtiin puuttuminen.\n\nPalvelunjärjestäjän ja -tuottajan tekemän omavalvonnan lisäksi jokaisella sosiaali- ja terveydenhuollon ammattihenkilöllä on velvollisuus toimia turvallisesti työssään sekä ilmoittaa havaitsemistaan riskeistä tai epäkohdista työnantajalleen.\n\nPalvelunjärjestäjän pitää kehittää laadukkaat, turvalliset ja vaikuttavat prosessit, palveluketjut ja toimintatavat. Tämä edellyttää keskeisten prosessien ja hoito- ja palveluketjujen tunnistamista, määrittelyä, kuvaamista sekä jatkuvaa kehittämistä.\n\nPalvelunjärjestäjä määrittelee keskeiset turvallisuutta edistävät linjaukset ja ohjeistukset sekä tarvittavan resursoinnin toiminnan kehittämiseen ja jatkuvaan parantamiseen. Prosesseihin liittyvät riskit pitää tunnistaa ja prosesseja suojaavat toimenpiteet määritellä.\n\nProsessien kehittämisessä on huomioitava moniammatillinen yhteistyö ja toiminnan arvioinnissa teknisen turvallisuuden lisäksi asiakas- ja potilaskokemus.\n\nHyvinvointialueet järjestävät sosiaali- ja terveydenhuollon palvelut alueellaan. Niiden laajaan omavalvontavelvoitteeseen kuuluu oman järjestämistehtävänsä ja oman palvelutuotantonsa valvonnan lisäksi yksityisten palveluntuottajien valvonta."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "127",
+   "title": "Oikaisuvaatimus, asiakaslaskutus, peruspalvelut",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-19",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-19.PDF",
+   "diary_number": "1583/06.03.02/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "128",
+   "title": "Oikaisuvaatimus, laitoshoidon maksu",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-20",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-20.PDF",
+   "diary_number": "1731/05.17.01/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "129",
+   "title": "Oikaisuvaatimus, säännöllisen kotihoidon laskutus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-21",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-21.PDF",
+   "diary_number": "1732/05.17.01/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "130",
+   "title": "Oikaisuvaatimus, laskutus peruspalvelut",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-22",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-22.PDF",
+   "diary_number": "2120/02.05.00.01/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "131",
+   "title": "Oikaisuvaatimus, kotihoito",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-23",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-23.PDF",
+   "diary_number": "2497/05.17.01/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "132",
+   "title": "Oikaisuvaatimus, peruspalvelut",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-24",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-24.PDF",
+   "diary_number": "2310/02.05.00.01/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "133",
+   "title": "Muut asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261053-25",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261053-25.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Puheenjohtaja päätti kokouksen klo 10.56",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja päätti kokouksen klo 10.56"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Rossi Markku",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Miettinen Heikki",
+   "role": "varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Ahokas Jarkko",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hämäläinen Vuokko",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Koistinen Minna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pitkänen Eveliina",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Väätäinen Jenna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Eskelinen Päivi",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Hiltunen Miia",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Rytkönen Säde",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Kononen Sirpa",
+   "role": "asiantuntija",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261053",
+  "fetched_at": "2026-10-14T18:04:27+00:00",
+  "content_hash": "172ab4f16178612b",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T18:04:27+00:00"
+ }
+}

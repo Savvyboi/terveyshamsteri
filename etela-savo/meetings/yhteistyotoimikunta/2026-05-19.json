@@ -1,0 +1,365 @@
+{
+ "id": "yhteistyotoimikunta/2026-05-19",
+ "region": "etela-savo",
+ "body_id": "yhteistyotoimikunta",
+ "body_name": "Yhteistyötoimikunta",
+ "date": "2026-05-19",
+ "stage": "minutes",
+ "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=1960CE1DX20A6X4DE8XB684X7C4AF335C774",
+ "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/1960CE1DX20A6X4DE8XB684X7C4AF335C774.PDF",
+ "time": null,
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "31",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=1960CE1DX20A6X4DE8XB684X7C4AF335C774-1",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/1960CE1DX20A6X4DE8XB684X7C4AF335C774-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouskutsun antaa puheenjohtaja tai hänen estyneenä ollessaan varapuheenjohtaja.\n\nKokouskutsussa on ilmoitettava kokouksen aika ja paikka sekä käsiteltävät asiat. Kokouskutsu lähetetään vähintään neljä päivää ennen kokousta. Kirjallinen kutsu on toimitettu jäsenille sähköpostitse 13.5.2026.\n\nEsityslista, joka sisältää selostuksen käsiteltävistä asioista ja ehdotukset toimielimen päätöksiksi, lähetetään kokouskutsun yhteydessä, jollei erityiset syyt ole esteenä.\n\nKokouskutsu lähetetään jäsenille ja muille, joilla on läsnäolo-oikeus tai -velvollisuus toimielimen päättämällä tavalla.\n\nKokouskutsu, esityslista, liitteet ja oheismateriaali lähetetään ensisijaisesti sähköisesti. Tällöin valmistelutoimielin tai sen nimeämä viranhaltija vastaa siitä, että tähän tarvittavat tekniset laitteet, järjestelmät ja tietoliikenneyhteydet ovat käytettävissä. Salassa pidettäviä tietoja voidaan lähettää vain suojatulla yhteydellä.\n\nTodetaan läsnäolijat sähköisessä kokoushallintajärjestelmässä. Kokous on päätösvaltainen kun yli puolet jäsenistä on läsnä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokous todettiin lailliseksi ja päätösvaltaiseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "32",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=1960CE1DX20A6X4DE8XB684X7C4AF335C774-2",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/1960CE1DX20A6X4DE8XB684X7C4AF335C774-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Tämän kokouksen pöytäkirjantarkastajiksi valitaan Hanna Kulla-Numminen ja Ani Kannonmäki sekä varalle Johanna Laukkanen ja Tiia Rautpalo.",
+   "decision": "Pöytäkirjan tarkastajiksi valittiin Hanna Kulla-Numminen ja Ani Kannonmäki.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Toimielin valitsee pöytäkirjantarkastajiksi kaksi toimielimen jäsentä ja varalle kaksi jäsentä aakkosjärjestyksessä."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Tämän kokouksen pöytäkirjantarkastajiksi valitaan Hanna Kulla-Numminen ja Ani Kannonmäki sekä varalle Johanna Laukkanen ja Tiia Rautpalo."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjan tarkastajiksi valittiin Hanna Kulla-Numminen ja Ani Kannonmäki."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "33",
+   "title": "Työjärjestyksen hyväksyminen",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=1960CE1DX20A6X4DE8XB684X7C4AF335C774-3",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/1960CE1DX20A6X4DE8XB684X7C4AF335C774-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Hyväksytään esityslistan mukainen työjärjestys.",
+   "decision": "Hyväksyttiin esityslistan mukainen työjärjestys.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Työjärjestyksen hyväksyminen\n\nAsiat käsitellään esityslistan mukaisessa järjestyksessä, ellei työjärjestystä päätetä muuttaa."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Hyväksytään esityslistan mukainen työjärjestys."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityslistan mukainen työjärjestys."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "34",
+   "title": "Talouden ajankohtaiset",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=1960CE1DX20A6X4DE8XB684X7C4AF335C774-4",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/1960CE1DX20A6X4DE8XB684X7C4AF335C774-4.PDF",
+   "diary_number": "3297/00.01.02.02/2026",
+   "preparer": "Rahoitusjohtaja Arto Jalkanen; Rahoitusjohtaja selostaa talouden ajankohtaisia asioita.",
+   "presenter": null,
+   "proposal": "Yhteistyötoimikunta merkitsee asian tiedoksi.",
+   "decision": "Yhteistyötoimikunta merkitsi asian tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Rahoitusjohtaja Arto Jalkanen\n\nRahoitusjohtaja selostaa talouden ajankohtaisia asioita."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Yhteistyötoimikunta merkitsee asian tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Yhteistyötoimikunta merkitsi asian tiedoksi."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Yhteistyötoimikunta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "35",
+   "title": "Työsuojelun ajankohtaiset",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=1960CE1DX20A6X4DE8XB684X7C4AF335C774-5",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/1960CE1DX20A6X4DE8XB684X7C4AF335C774-5.PDF",
+   "diary_number": "3295/00.01.02.02/2026",
+   "preparer": "Turvallisuuspäällikkö Jari Smedberg; Turvallisuuspäällikkö selostaa työsuojelun ajankohtaisia asioita.",
+   "presenter": null,
+   "proposal": "Yhteistyötoimikunta merkitsee asian tiedoksi.",
+   "decision": "Yhteistyötoimikunta keskusteli asiasta ja merkitsi asian tiedoksi. Yhteistyötoimikunta totesi, että väkivaltatilanteiden suureen määrään ja kasvuun tulisi kiinnittää huomioita sekä pohtia toimenpiteitä asian parantamiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Turvallisuuspäällikkö Jari Smedberg\n\nTurvallisuuspäällikkö selostaa työsuojelun ajankohtaisia asioita."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Yhteistyötoimikunta merkitsee asian tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Yhteistyötoimikunta keskusteli asiasta ja merkitsi asian tiedoksi. Yhteistyötoimikunta totesi, että väkivaltatilanteiden suureen määrään ja kasvuun tulisi kiinnittää huomioita sekä pohtia toimenpiteitä asian parantamiseksi."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Yhteistyötoimikunta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "36",
+   "title": "Mikkelin keskussairaalan henkilöstöruokasalin sulkeminen viikonlopuilta ja arkipyhiltä",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=1960CE1DX20A6X4DE8XB684X7C4AF335C774-6",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/1960CE1DX20A6X4DE8XB684X7C4AF335C774-6.PDF",
+   "diary_number": "3296/00.01.02.02/2026",
+   "preparer": "Tila- tukipalvelupäällikkö Marjukka Hokkanen; Mikkelin keskussairaalan henkilöstöruokailun viikonloppujen ja arkipyhien kävijämäärät ovat pienentyneet. Tällä hetkellä ruokailijoita on noin 30 / päivä (la – su).; Tästä johtuen henkilöstöruokasalissa ei enää tarjota henkilökunnalle aterioita viikonlop",
+   "presenter": null,
+   "proposal": "Yhteistyötoimikunta merkitsee asian tiedoksi.",
+   "decision": "Yhteistyötoimikunta merkitsi asian tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Tila- tukipalvelupäällikkö Marjukka Hokkanen\n\nMikkelin keskussairaalan henkilöstöruokailun viikonloppujen ja arkipyhien kävijämäärät ovat pienentyneet. Tällä hetkellä ruokailijoita on noin 30 / päivä (la – su).\n\nTästä johtuen henkilöstöruokasalissa ei enää tarjota henkilökunnalle aterioita viikonloppuisin eikä arkipyhäpäivinä. Ruokapalvelut kohdentavat viikonlopuilta siirtyneen työajan arkipäivien ateriatuotannon vahvistamiseen."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Yhteistyötoimikunta merkitsee asian tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Yhteistyötoimikunta merkitsi asian tiedoksi."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Yhteistyötoimikunta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "37",
+   "title": "Tehtävänimikkeet",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=1960CE1DX20A6X4DE8XB684X7C4AF335C774-7",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/1960CE1DX20A6X4DE8XB684X7C4AF335C774-7.PDF",
+   "diary_number": "3323/00.01.02.02/2026",
+   "preparer": "Henkilöstöpäällikkö Kati Nieminen; Etelä-Savon hyvinvointialueella on toteutettu tehtävänimikkeitä koskevaa yhdenmukaistamista vuodesta 2024 alkaen. Uuden palkkausjärjestelmän käyttöönoton yhteydessä tehdyssä tehtäväkuvien tarkastelussa on havaittu, että osin täysin samansisältöisiä tehtäviä hoideta",
+   "presenter": null,
+   "proposal": "Yhteistyötoimikunta merkitsee asian tiedoksi.",
+   "decision": "Yhteistyötoimikunta merkitsi asian tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Henkilöstöpäällikkö Kati Nieminen\n\nEtelä-Savon hyvinvointialueella on toteutettu tehtävänimikkeitä koskevaa yhdenmukaistamista vuodesta 2024 alkaen. Uuden palkkausjärjestelmän käyttöönoton yhteydessä tehdyssä tehtäväkuvien tarkastelussa on havaittu, että osin täysin samansisältöisiä tehtäviä hoidetaan edelleen eri tehtävänimikkeillä.\n\nTehtävänimikkeitä tullaan jatkossa yhdenmukaistamaan siten, että tehtäväkuva ja tehtävänimike vastaavat toisiaan. Nimikkeiden valinnan lähtökohtana on, että nimike kuvaa mahdollisimman täsmällisesti ja tarkoituksenmukaisesti tehtävään kuuluvia tosiasiallisia työtehtäviä ja vastuita.\n\nNimikemuutokset toteutetaan hallitusti. Ennen nimikemuutoksen tekemistä järjestetään kuuleminen, joka voidaan toteuttaa yksilökuulemisena, ryhmäkuulemisena tai edustuksellisena kuulemisena tilanteen ja muutoksen laajuuden mukaisesti."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Yhteistyötoimikunta merkitsee asian tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Yhteistyötoimikunta merkitsi asian tiedoksi."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Yhteistyötoimikunta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "38",
+   "title": "Muut asiat",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=1960CE1DX20A6X4DE8XB684X7C4AF335C774-8",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/1960CE1DX20A6X4DE8XB684X7C4AF335C774-8.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Muita asioita ei ollut.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat\n\nYhteistyötoimikunta merkitsee tiedoksi kokouksessa esille tulleet muut asiat."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Muita asioita ei ollut."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "39",
+   "title": "Kokouksen päättäminen",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=1960CE1DX20A6X4DE8XB684X7C4AF335C774-9",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/1960CE1DX20A6X4DE8XB684X7C4AF335C774-9.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Puheenjohtaja päättää kokouksen.",
+   "decision": "Puheenjohtaja päätti kokouksen klo 14:51.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Esitys",
+     "text": "Puheenjohtaja päättää kokouksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja päätti kokouksen klo 14:51."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Juntunen Taru",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Alaluusua Petri",
+   "role": "varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Haarala Maria",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kannonmäki Ani",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kulla-Numminen Hanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Laukkanen Johanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Nieminen Kati",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Rautpalo Tiia",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Torniainen Mari",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kinnunen Riikka",
+   "role": "kokoussihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Koivunoro Anna-Helena",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Stedt Pinja",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hokkanen Marjukka",
+   "role": "tila- ja tukipalvelupäällikkö",
+   "group": "other"
+  },
+  {
+   "name": "Jalkanen Arto",
+   "role": "rahoitusjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Smedberg Jari",
+   "role": "turvallisuuspäällikkö",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=1960CE1DX20A6X4DE8XB684X7C4AF335C774",
+  "fetched_at": "2026-10-14T16:52:05+00:00",
+  "content_hash": "f4dd1905c9652bf8",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T16:52:05+00:00"
+ }
+}

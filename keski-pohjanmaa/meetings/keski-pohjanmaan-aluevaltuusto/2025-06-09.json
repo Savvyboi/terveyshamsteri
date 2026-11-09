@@ -1,0 +1,952 @@
+{
+ "id": "keski-pohjanmaan-aluevaltuusto/2025-06-09",
+ "region": "keski-pohjanmaa",
+ "body_id": "keski-pohjanmaan-aluevaltuusto",
+ "body_name": "Keski-Pohjanmaan aluevaltuusto",
+ "date": "2025-06-09",
+ "stage": "minutes",
+ "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025967",
+ "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/2025967.PDF",
+ "time": "10:03 - 11:02",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "22",
+   "title": "Aluevaltuuston kokouksen avaus",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025967-1",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/2025967-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluevaltuuston kokouksen avaa iältään vanhin läsnä oleva valtuutettu, joka johtaa puhetta kunnes aluevaltuuston puheenjohtaja ja varapuheenjohtaja on valittu.",
+   "decision": "Aluevaltuuston vanhin jäsen Tapani Hankaniemi avasi kokouksen kello 10:03.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluevaltuuston kokouksen avaa iältään vanhin läsnä oleva valtuutettu, joka johtaa puhetta kunnes aluevaltuuston puheenjohtaja ja varapuheenjohtaja on valittu."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuuston vanhin jäsen Tapani Hankaniemi avasi kokouksen kello 10:03."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "23",
+   "title": "Nimenhuuto",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025967-2",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/2025967-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Kokous aloitetaan nimenhuudolla ja todetaan läsnäolijat. Valtuuston jäsenet ja heidän varajäsenensä ilmenevät liitteestä, joka samalla toimii äänestysluettelona.\n\nLiite A, Jäsen- ja äänestysluettelo",
+   "decision": "Suoritettiin nimenhuuto ja todettiin läsnäolijat.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Päätösesitys",
+     "text": "Kokous aloitetaan nimenhuudolla ja todetaan läsnäolijat. Valtuuston jäsenet ja heidän varajäsenensä ilmenevät liitteestä, joka samalla toimii äänestysluettelona.\n\nLiite A, Jäsen- ja äänestysluettelo"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Suoritettiin nimenhuuto ja todettiin läsnäolijat."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite §23 _Valtuuston jasen_ ja aanestysluettelo_nimet ja puolueet",
+     "url": "https://kpshp-hva.oncloudos.com/kokous/2025967-2-96098.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "24",
+   "title": "Kokouksen laillisuuden ja päätösvaltaisuuden toteaminen",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025967-3",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/2025967-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Hyvinvointialuelain 108 §:n mukaan aluevaltuusto on päätösvaltainen, kun vähintään kaksi kolmasosaa valtuutetuista on läsnä. Läsnä oleviksi katsotaan myös toimielimen jäsenet, jotka osallistuvat kokoukseen sähköisesti.\n\nKutsu valtuuston kokoukseen annetaan ja lähetetään vähintään 5 päivää ennen kokousta aluevaltuuston ja hallituksen jäsenille.",
+   "decision": "Todettiin kokous lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Päätösesitys",
+     "text": "Hyvinvointialuelain 108 §:n mukaan aluevaltuusto on päätösvaltainen, kun vähintään kaksi kolmasosaa valtuutetuista on läsnä. Läsnä oleviksi katsotaan myös toimielimen jäsenet, jotka osallistuvat kokoukseen sähköisesti.\n\nKutsu valtuuston kokoukseen annetaan ja lähetetään vähintään 5 päivää ennen kokousta aluevaltuuston ja hallituksen jäsenille."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Todettiin kokous lailliseksi ja päätösvaltaiseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "25",
+   "title": "Työjärjestyksen hyväksyminen",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025967-4",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/2025967-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluevaltuusto päättää hyväksyä esityslistan kokouksen työjärjestykseksi.",
+   "decision": "Valtuutettu Anna Nurmi-Lehto ilmoitti jättävänsä aloitteen §:ssä 36.\n\nHyväksyttiin esityslista kokouksen työjärjestykseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluevaltuusto päättää hyväksyä esityslistan kokouksen työjärjestykseksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Valtuutettu Anna Nurmi-Lehto ilmoitti jättävänsä aloitteen §:ssä 36.\n\nHyväksyttiin esityslista kokouksen työjärjestykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "26",
+   "title": "Pöytäkirjan tarkastus",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025967-5",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/2025967-5.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluevaltuuston pöytäkirjan tarkistaa kaksi kullakin kerralla tähän tehtävään valittua valtuutettua, jollei aluevaltuusto jonkin asian kohdalla toisin päätä.\n\nValitaan kokoukselle kaksi pöytäkirjantarkastajaa. Tarkastusvuorossa ovat valtuutetut Hanna-Lea Ahlskog ja Virpi Ali-Haapala.",
+   "decision": "Valittiin kokouksen pöytäkirjantarkastajiksi valtuutetut Hanna-Lea Ahlskog ja Virpi Ali-Haapala.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluevaltuuston pöytäkirjan tarkistaa kaksi kullakin kerralla tähän tehtävään valittua valtuutettua, jollei aluevaltuusto jonkin asian kohdalla toisin päätä.\n\nValitaan kokoukselle kaksi pöytäkirjantarkastajaa. Tarkastusvuorossa ovat valtuutetut Hanna-Lea Ahlskog ja Virpi Ali-Haapala."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Valittiin kokouksen pöytäkirjantarkastajiksi valtuutetut Hanna-Lea Ahlskog ja Virpi Ali-Haapala."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "27",
+   "title": "Vaalilautakunnan vaali",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025967-6",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/2025967-6.PDF",
+   "diary_number": "1825/00.02.00/2025",
+   "preparer": "vs hallintolakimies Aino Aurala; Hallintosäännön 136 §:n mukaan:; Aluevaltuusto valitsee toimikaudelleen vaalilautakunnan suhteellisten vaalien toimittamista varten. Vaalilautakunnassa on 3 jäsentä ja 5 etusijajärjestykseen asetettua varajäsentä.; Aluevaltuusto valitsee jäseniksi valituista lautakun",
+   "presenter": null,
+   "proposal": "Aluevaltuusto aluehallituksen esityksen mukaisesti\n\n1. valitsee keskuudestaan vaalilautakunnan, johon kuuluu kolme varsinaista ja viisi etusijajärjestykseen asetettua varajäsentä; ja\n\n2. nimeää lautakunnan puheenjohtajan ja varapuheenjohtajan.",
+   "decision": "Valtuutettu Pasi Kanniainen esitti vaalilautakunnan varsinaisiksi jäseniksi Veikko Laitilaa, Helinä Marjamaata ja Risto Koljosta sekä varajäseniksi Minna Koskelaa, Mauri Saloa, Seppo Tastulaa, Mari Pitkästä ja Mats Brandtia tässä etusijajärjestyksessä. Kanniainen esitti, että lautakunnan puheenjohtajasi nimettäisiin Veikko Laitila ja varapuheenjohtajaksi Helinä Marjamaa.\n\nEsitys hyväksyttiin yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Keski-Pohjanmaan aluehallitus 12.05.2025 § 131"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs hallintolakimies Aino Aurala\n\nHallintosäännön 136 §:n mukaan:\n\nAluevaltuusto valitsee toimikaudelleen vaalilautakunnan suhteellisten vaalien toimittamista varten. Vaalilautakunnassa on 3 jäsentä ja 5 etusijajärjestykseen asetettua varajäsentä.\n\nAluevaltuusto valitsee jäseniksi valituista lautakunnan puheenjohtajan puheenjohtajan ja varapuheenjohtajan.\n\nLautakunnan sihteerinä toimii aluevaltuuston pöytäkirjanpitäjä, jollei aluevaltuusto toisin päätä."
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluehallitus esittää, että aluevaltuusto\n\n1. valitsee keskuudestaan vaalilautakunnan, johon kuuluu kolme varsinaista ja viisi etusijajärjestykseen asetettua varajäsentä; ja\n\n2. nimeää lautakunnan puheenjohtajan ja varapuheenjohtajan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösesitys hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs hallintolakimies Aino Aurala"
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluevaltuusto aluehallituksen esityksen mukaisesti\n\n1. valitsee keskuudestaan vaalilautakunnan, johon kuuluu kolme varsinaista ja viisi etusijajärjestykseen asetettua varajäsentä; ja\n\n2. nimeää lautakunnan puheenjohtajan ja varapuheenjohtajan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Valtuutettu Pasi Kanniainen esitti vaalilautakunnan varsinaisiksi jäseniksi Veikko Laitilaa, Helinä Marjamaata ja Risto Koljosta sekä varajäseniksi Minna Koskelaa, Mauri Saloa, Seppo Tastulaa, Mari Pitkästä ja Mats Brandtia tässä etusijajärjestyksessä. Kanniainen esitti, että lautakunnan puheenjohtajasi nimettäisiin Veikko Laitila ja varapuheenjohtajaksi Helinä Marjamaa.\n\nEsitys hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "28",
+   "title": "Aluevaltuuston puheenjohtajiston vaali",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025967-7",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/2025967-7.PDF",
+   "diary_number": "1825/00.02.00/2025",
+   "preparer": "vs hallintolakimies Aino Aurala; Hyvinvointialueista annetun lain 38 §:n mukaan aluevaltuusto tai muu valinnasta vastaava toimielin valitsee jäseniksi valituista toimielimen puheenjohtajan ja tarpeellisen määrän varapuheenjohtajia. Puheenjohtaja ja varapuheenjohtajat valitaan samassa vaalitoimitukse",
+   "presenter": null,
+   "proposal": "Aluevaltuusto aluehallituksen esityksen mukaisesti toimittaa aluevaltuuston puheenjohtajiston vaalin ja valitsee keskuudestaan toimikaudekseen puheenjohtajan ja kolme varapuheenjohtajaa.",
+   "decision": "Valtuutettu Miia Pöppönen esitti valtuuston puheenjohtajaksi valtuutettu Matti Kaivosojaa.\n\nValtuutettu Pekka Kauppi esitti valtuuston ensimmäiseksi varapuheenjohtajaksi valtuutettu Pekka Nurmea.\n\nValtuutettu Pasi Kanniainen esitti valtuuston toiseksi varapuheenjohtajaksi valtuutettu Asko Syrjälää.\n\nValtuutettu Tomi Kivelä esitti valtuuston kolmanneksi varapuheenjohtajaksi valtuutettu Ulpu Kerästä.\n\nEsitykset hyväksyttiin yksimielisesti.\n\nTämä päätöskohta tarkistettiin valtuuston kokouksessa.\n\nKokouksessa pidettiin tauko 10:15-10:20.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Keski-Pohjanmaan aluehallitus 12.05.2025 § 132"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs hallintolakimies Aino Aurala\n\nHyvinvointialueista annetun lain 38 §:n mukaan aluevaltuusto tai muu valinnasta vastaava toimielin valitsee jäseniksi valituista toimielimen puheenjohtajan ja tarpeellisen määrän varapuheenjohtajia. Puheenjohtaja ja varapuheenjohtajat valitaan samassa vaalitoimituksessa. Aluevaltuusto voi päättää, että aluevaltuuston ja aluehallituksen puheenjohtaja ja varapuheenjohtajat sekä lautakuntien puheenjohtajat toimivat päätoimisina tai osa-aikaisina luottamushenkilöinä.\n\nHallintosäännön 7 §:n mukaan aluevaltuusto valitsee puheenjohtajan sekä kolme (3) varapuheenjohtajaa.\n\nAluevaltuuston puheenjohtajalla ja varapuheenjohtajilla on läsnäolo- ja puheoikeus aluehallituksen kokouksessa (laki hyvinvointialueesta 26 § 2 mom., hallintosääntö 155 § 1 mom. 1 kohta)"
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluehallitus esittää, että aluevaltuusto toimittaa aluevaltuuston puheenjohtajiston vaalin ja valitsee keskuudestaan toimikaudekseen puheenjohtajan ja kolme varapuheenjohtajaa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösesitys hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs hallintolakimies Aino Aurala"
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluevaltuusto aluehallituksen esityksen mukaisesti toimittaa aluevaltuuston puheenjohtajiston vaalin ja valitsee keskuudestaan toimikaudekseen puheenjohtajan ja kolme varapuheenjohtajaa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Valtuutettu Miia Pöppönen esitti valtuuston puheenjohtajaksi valtuutettu Matti Kaivosojaa.\n\nValtuutettu Pekka Kauppi esitti valtuuston ensimmäiseksi varapuheenjohtajaksi valtuutettu Pekka Nurmea.\n\nValtuutettu Pasi Kanniainen esitti valtuuston toiseksi varapuheenjohtajaksi valtuutettu Asko Syrjälää.\n\nValtuutettu Tomi Kivelä esitti valtuuston kolmanneksi varapuheenjohtajaksi valtuutettu Ulpu Kerästä.\n\nEsitykset hyväksyttiin yksimielisesti.\n\nTämä päätöskohta tarkistettiin valtuuston kokouksessa.\n\nKokouksessa pidettiin tauko 10:15-10:20."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "29",
+   "title": "Aluehallituksen vaali ja puheenjohtajiston nimeäminen",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025967-8",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/2025967-8.PDF",
+   "diary_number": "1825/00.02.00/2025",
+   "preparer": "vs hallintolakimies Aino Aurala; Aluehallituksen kokoonpano ja tehtävät; Hallintosäännön 8 §:n mukaan aluevaltuusto valitsee aluehallituksen, jossa on 11 jäsentä. Aluevaltuusto nimeää valtuutettujen keskuudesta valituista jäsenistä aluehallituksen puheenjohtajan ja 2 varapuheenjohtajaa. Jokaisella j",
+   "presenter": null,
+   "proposal": "Aluevaltuusto aluehallituksen esityksen mukaisesti\n\n1. toimittaa aluehallituksen vaalin; ja\n\n2. nimeää jäsenistä puheenjohtajan ja kaksi varapuheenjohtajaa.",
+   "decision": "Valtuutettu Pasi Kanniainen teki menettelytapaesityksen, jonka mukaan puheenjohtaja esittäisi seuraavissa §:ssä puolueiden tekemän neuvottelutuloksen ja tarvittaessa tästä käytäisiin keskustelu. Kanniaisen menettelytapaesitys hyväksyttiin yksimielisesti.\n\nPuheenjohtaja esitti aluehallitukseen puolueiden neuvottelutuloksen mukaisesti seuraavaa kokoonpanoa:\n\nSari Innanen (varajäsen Susanna Lindholm)\n\nTapio Pajunpää (varajäsen Pasi Kanniainen)\n\nKristiina Teerikangas (varajäsen Miia Pöppönen)\n\nMarja Tiala (varajäsen Piia Rautiola)\n\nHannu Haukilahti (varajäsen Tapio Peltokangas)\n\nSakari Telimaa (varajäsen Patrik Friis)\n\nMagnus Björkgren (varajäsen Hans Snellman)\n\nAnna Nurmi-Lehto (varajäsen Sirkka Juusela-Pekkarinen)\n\nAri Huuki (varajäsen Ulla-Riitta Harju)\n\nHanna-Lea Ahlskog (varajäsen Virpi Ali-Haapala)\n\nPia Sillanpää (varajäsen Tomi Kivelä)\n\nPuheenjohtaja esitti puolueiden neuvotteluesityksen mukaisesti, että aluehallituksen puheenjohtajaksi nimettäisiin Sari Innanen, ensimmäiseksi varapuheenjohtajaksi Tapio Pajunpää ja toiseksi varapuheenjohtajaksi Kristiina Teerikangas.\n\nEsitykset hyväksyttiin yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Keski-Pohjanmaan aluehallitus 12.05.2025 § 133"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs hallintolakimies Aino Aurala\n\nAluehallituksen kokoonpano ja tehtävät\n\nHallintosäännön 8 §:n mukaan aluevaltuusto valitsee aluehallituksen, jossa on 11 jäsentä. Aluevaltuusto nimeää valtuutettujen keskuudesta valituista jäsenistä aluehallituksen puheenjohtajan ja 2 varapuheenjohtajaa. Jokaisella jäsenellä on henkilökohtainen varajäsen.\n\nKokoonpanossa tuleen noudattaa naisten ja miesten välisestä tasa-arvosta annetun lain 4a §:ää, jonka mukaan hyvinvointialueen toimielimessä, lukuun ottamatta aluevaltuustoa, tulee olla sekä naisia että miehiä kumpiakin väintään 40 %, jollei erityisestä syytä muuta johdu.\n\nHallintosäännön 3 §:n mukaan aluehallitus vastaa aluevaltuuston päätösten valmistelusta, täytäntöönpanosta ja laillisuuden valvonnasta. Hyvinvointialueen toimintaa johdetaan aluevaltuuston hyväksymän hyvinvointialuestrategian ja sen osana olevan palvelustrategian mukaisesti kokonaisuutena.\n\nAluehallitus johtaa hyvinvointialueen toimintaa, hallintoa ja taloutta. Aluehallitus vastaa hyvinvointialueen toiminnan yhteensovittamisesta, palvelujen saatavuudesta ja saavutet-tavuudesta, omistajaohjauksesta, henkilöstöpolitiikasta sekä sisäisen valvonnan, riskienhallinnan ja sopimushallinnan järjestämisestä.\n\nAluehallitus vastaa sisäisen tarkastuksen järjestämisestä.\n\nHyvinvointialuejohtaja johtaa aluehallituksen alaisena hyvinvointialueen hallintoa, taloudenhoitoa ja muuta toimintaa. Hyvinvointialuejohtaja vastaa asioiden valmistelusta aluehallituksen käsiteltäväksi.\n\nHallintosäännön 20 §:n mukaan aluehallituksen tehtävä on:\n\nvastata hyvinvointialueen hallinnosta ja taloudenhoidosta;\n\nvastata aluevaltuuston päätösten valmistelusta, täytäntöönpanosta ja laillisuuden valvonnasta;\n\nvalvoa hyvinvointialueen etua ja, jollei hallintosäännössä toisin määrätä, edustaa hyvinvointialuetta ja käyttää sen puhevaltaa;\n\nedustaa hyvinvointialuetta työnantajana ja vastata hyvinvointialueen henkilöstöpolitiikasta;\n\nvastata hyvinvointialueen toiminnan yhteensovittamisesta;\n\nvastata hyvinvointialuekonsernin omistajaohjauksesta sekä hyvinvointialueen järjestämisvastuulle kuuluvien palvelujen muiden tuottajien ohjauksesta ja valvonnasta;\n\nhuolehtia hyvinvointialueen sisäisestä valvonnasta ja riskienhallinnan järjestämisestä;\n\nhuolehtia hyvinvointialueen sisäisen tarkastuksen järjestämisestä.\n\nvastata järjestämisvastuun toteutumisesta;\n\npäättää osakeyhtiön perustamisesta sekä osakkeiden ostamisesta;\n\npäättää virkojen perustamisesta ja lakkauttamisesta, jollei viran perustaminen kuulu lain tai hallintosäännön mukaan aluevaltuuston toimivaltaan;\n\npäättää hyvinvointialuejohtajaa koskevista henkilöstöhallinnollista asioista, jollei hallintosäännössä toisin määrätä;\n\nvahvistaa hinnat ja maksut aluevaltuuston vahvistamien hinnoitteluperiaatteiden mukaisesti, jollei hallintosäännössä toisin määrätä;\n\nvastata tiedonhallinnan ja arkistotoimen järjestämisestä;\n\npäättää hyvinvointialueen toimialojen erityislainsäädännössä edellytetyistä vastuuviranhaltijoista;\n\npäättää hankinnoissa noudatettavista yleisistä perusteista ja hyväksyy hyvinvointialueen hankintasäännön;\n\npäättää lainanotosta valtuuston talousarviossa tai erikseen tekemän päätöksen asettamissa rajoissa;\n\npäättää valtuustokausittain lyhytaikaisen rahoituksen enimmäismäärästä;\n\nvalvoa ja vastata hyvinvointialuekonsernin kokonaisturvallisuudesta sekä valvoa, että turvallisuus- ja varautumisjärjestelyt toimeenpannaan ohjeistusten mukaisesti;\n\nkäsitellä vuosittain potilas- ja sosiaalivastaavan selvitys.\n\nAluehallitus voi edelleen delegoida päätösvaltaa johtosäännöllä. Mikäli toimivallasta ei ole säädetty laissa eikä määrätty hallintosäännössä tai edelleen delegointipäätöksessä, toimivalta on aluehallituksella.\n\nAluehallituksen puheenjohtajan tehtävät\n\nHallintosäännön 4 §:n mukaan aluehallituksen puheenjohtajan tehtävänä on\n\njohtaa hyvinvointialuestrategian edellyttämää poliittista yhteistyötä;\n\njohtaa aluehallituksen tehtävien toteuttamisen edellyttämää poliittista yhteistyötä käymällä asioiden käsittelyn edellyttämiä keskusteluja poliittisten ryhmien kanssa sekä pitää sopivin tavoin yhteyttä hyvinvointialueen asukkaisiin ja muihin sidosryhmiin;\n\nvastaa hyvinvointialuejohtajan johtajasopimuksen valmistelusta ja huolehtii aluehallituksen ja -aluevaltuuston kytkemisestä valmistelu prosessiin tarkoituksenmukaisella tavalla;\n\nvastaa siitä, että hyvinvointialuejohtajan kanssa käydään vuosittain tavoite- ja arviointikeskustelut sekä myöntää hyvinvointialuejohtajalle\n\nvuosiloman sekä muut lakiin, määräyksiin tai sopimukseen perustuvat virkavapaudet ja etuudet sekä\n\nenintään kahden (2) kuukauden mittaisen palkattoman virkavapaan ja\n\nhyväksyy virkamatkamääräykset sekä matka- ja kululaskut.\n\nVaalikelpoisuus aluehallitukseen\n\nHyvinvointialueista annetun lain 78 § perusteella vaalikelpoinen aluehallitukseen on henkilö, joka on vaalikelpoinen aluevaltuustoon, ei kuitenkaan:\n\n1) välittömästi aluehallituksen alaisena toimiva hyvinvointialueen palveluksessa oleva henkilö;\n\n2) hyvinvointialueen määräysvallassa olevan yhteisön tai säätiön palveluksessa oleva henkilö, joka toimii 1 kohdassa tarkoitettuun tehtävään rinnastuvassa tehtävässä;\n\n3) hyvinvointialueen palveluksessa oleva henkilö, joka lautakunnan esittelijänä tai muuten vastaa aluehallituksen käsiteltäviksi tulevien asioiden valmistelusta;\n\n4) henkilö, joka on hallituksen tai siihen rinnastettavan toimielimen jäsenenä taikka johtavassa ja vastuullisessa tehtävässä tai siihen rinnastettavassa asemassa liiketoimintaa harjoittavassa yhteisössä tai säätiössä, jos kysymyksessä on sellainen yhteisö, jolle aluehallituksessa tavanomaisesti käsiteltävien asioiden ratkaisu on omiaan tuottamaan olennaista hyötyä tai vahinkoa.\n\nHenkilöstön edunvalvonnasta asianomaisella hyvinvointialueella huolehtivan yhteisön hallituksen tai siihen rinnastettavan toimielimen puheenjohtaja ei ole vaalikelpoinen aluehallitukseen. Vaalikelpoinen ei myöskään ole henkilö, joka yhteisön neuvottelijana tai muussa vastaavassa ominaisuudessa vastaa sen edunvalvonnasta.\n\nEnemmistön aluehallituksen jäsenistä on oltava muita kuin hyvinvointialueen tai hyvinvointialueen määräysvallassa olevan yhteisön tai säätiön palveluksessa olevia henkilöitä.\n\nEdellä 1 momentin 4 kohtaa ei sovelleta hyvinvointialueen määräysvallassa olevan yhteisön hallituksen tai siihen rinnastettavan toimielimen jäseneen."
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluehallitus esittää, että aluevaltuusto\n\n1. toimittaa aluehallituksen vaalin; ja\n\n2. nimeää jäsenistä puheenjohtajan ja kaksi varapuheenjohtajaa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösesitys hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs hallintolakimies Aino Aurala"
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluevaltuusto aluehallituksen esityksen mukaisesti\n\n1. toimittaa aluehallituksen vaalin; ja\n\n2. nimeää jäsenistä puheenjohtajan ja kaksi varapuheenjohtajaa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Valtuutettu Pasi Kanniainen teki menettelytapaesityksen, jonka mukaan puheenjohtaja esittäisi seuraavissa §:ssä puolueiden tekemän neuvottelutuloksen ja tarvittaessa tästä käytäisiin keskustelu. Kanniaisen menettelytapaesitys hyväksyttiin yksimielisesti.\n\nPuheenjohtaja esitti aluehallitukseen puolueiden neuvottelutuloksen mukaisesti seuraavaa kokoonpanoa:\n\nSari Innanen (varajäsen Susanna Lindholm)\n\nTapio Pajunpää (varajäsen Pasi Kanniainen)\n\nKristiina Teerikangas (varajäsen Miia Pöppönen)\n\nMarja Tiala (varajäsen Piia Rautiola)\n\nHannu Haukilahti (varajäsen Tapio Peltokangas)\n\nSakari Telimaa (varajäsen Patrik Friis)\n\nMagnus Björkgren (varajäsen Hans Snellman)\n\nAnna Nurmi-Lehto (varajäsen Sirkka Juusela-Pekkarinen)\n\nAri Huuki (varajäsen Ulla-Riitta Harju)\n\nHanna-Lea Ahlskog (varajäsen Virpi Ali-Haapala)\n\nPia Sillanpää (varajäsen Tomi Kivelä)\n\nPuheenjohtaja esitti puolueiden neuvotteluesityksen mukaisesti, että aluehallituksen puheenjohtajaksi nimettäisiin Sari Innanen, ensimmäiseksi varapuheenjohtajaksi Tapio Pajunpää ja toiseksi varapuheenjohtajaksi Kristiina Teerikangas.\n\nEsitykset hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "30",
+   "title": "Tarkastuslautakunnan vaali ja puheenjohtajiston nimeäminen",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025967-9",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/2025967-9.PDF",
+   "diary_number": "1825/00.02.00/2025",
+   "preparer": "vs hallintolakimies Aino Aurala; Tarkastuslautakunnan tehtävät; Hallintosäännön 92 §:n mukaan tarkastuslautakunta huolehtii hyvinvointialuelaissa säädettyjen tehtävien mukaisesti hallinnon ja talouden tarkastuksen järjestämisestä, hyvinvointialueen ja hyvinvointialuekonsernin toimintaan ja talouteen",
+   "presenter": null,
+   "proposal": "Aluevaltuusto aluehallituksen esityksen mukaisesti\n\n1. toimittaa toimikaudekseen tarkastuslautakunnan vaalin; ja\n\n2. nimeää jäsenistä puheenjohtajan ja varapuheenjohtajan.",
+   "decision": "Puheenjohtaja esitti tarkastuslautakuntaan puolueiden neuvottelutuloksen mukaisesti seuraavaa kokoonpanoa:\n\nMarko Malvisto (varalla Mauri Salo)\n\nTuija Leivo-Rintakorpi (varalla Vesa-Matti Viirre)\n\nJukka Ylikarjula (varalla Maria Hassel-Sandström)\n\nMinna Björk (varalla Marko Kautto)\n\nErkki Huuki (varalla Helinä Tuomela)\n\nManolis Huuki (varalla Outi Hakunti)\n\nTiina Tervola (varalla Maria Nyblom)\n\nPuheenjohtaja esitti puolueiden neuvotteluesityksen mukaisesti, että tarkastuslautakunnan puheenjohtajaksi nimettäisiin Marko Malvisto ja varapuheenjohtajaksi Tuija Leivo-Rintakorpi.\n\nEsitykset hyväksyttiin yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Keski-Pohjanmaan aluehallitus 12.05.2025 § 134"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs hallintolakimies Aino Aurala\n\nTarkastuslautakunnan tehtävät\n\nHallintosäännön 92 §:n mukaan tarkastuslautakunta huolehtii hyvinvointialuelaissa säädettyjen tehtävien mukaisesti hallinnon ja talouden tarkastuksen järjestämisestä, hyvinvointialueen ja hyvinvointialuekonsernin toimintaan ja talouteen kohdistuvasta tavoite-, tuloksellisuus- ja tarkoituksenmukaisuusarvioinnista sekä sidonnaisuusilmoitusten ilmoitusvelvollisuuden noudattamisen valvonnasta.\n\nTarkastuslautakunta tekee aluevaltuustolle esityksen siitä, voidaanko tilinpäätös hyväksyä ja vastuuvapaus myöntää tilivelvollisille.\n\nTarkastuslautakunnan tehtävät, toimivalta ja raportointi:\n\nvalmistella aluevaltuuston päätettävät hallinnon ja talouden tarkastusta koskevat asiat;\n\narvioida, ovatko aluevaltuuston asettamat toiminnan ja talouden tavoitteet hyvinvointialueella ja hyvinvointialuekonsernissa toteutuneet ja onko toiminta järjestetty tuloksellisella ja tarkoituksenmukaisella tavalla;\n\narvioida talouden tasapainotuksen toteutumista tilikaudella sekä taloussuunnitelmassa asetettujen tavoitteiden ja toimenpiteiden riittävyyttä talouden tasapainotuksen kannalta;\n\nhuolehtia hyvinvointialueen ja sen tytäryhteisöjen tarkastuksen yhteensovittamisesta;\n\nvalvoa, että hyvinvointialuelain 89 §:ssä säädettyä velvollisuutta ilmoittaa sidonnaisuuksista noudatetaan, ja saattaa ilmoitukset aluevaltuuston tiedoksi sekä toimii sidonnaisuusrekisterin rekisterinpitäjänä;\n\nvalmistella aluehallitukselle esitys tehtäviään koskeviksi hallintosäännön määräyksiksi sekä arvioinnin ja tarkastuksen talousarvioksi;\n\nhyväksyy tarkastuslautakunnan arviointisuunnitelman;\n\nseuraa tilintarkastajan tarkastussuunnitelman toteutumista ja tilintarkastajan tehtävien suorittamista sekä tekee tarpeen mukaan esityksiä tilin- tarkastuksen kehittämiseksi;\n\nhuolehtii, että tilintarkastusta varten on tarpeelliset voimavarat, jotka mahdollistavat tilintarkastuksen suorittamisen julkishallinnon hyvän tilin- tarkastustavan edellyttämässä laajuudessa;\n\ntekee aloitteita ja esityksiä tarkastuslautakunnan, tilintarkastajan ja sisäisen tarkastuksen, sekä Valtiontalouden tarkastusviraston tehtävien yhteensovittamisesta tarkoituksenmukaisella tavalla.\n\nTarkastuslautakunta tiedottaa ja raportoi tehtäviinsä liittyvistä asioista ensisijaisesti aluevaltuustolle. Muu tiedottaminen tapahtuu tarkastuslautakunnan päättämällä tavalla. Tiedotuksessa noudatetaan soveltuvin osin aluehallituksen hyväksymiä yleisiä ohjeita tiedottamisen periaatteista.\n\nTarkastuslautakunnan kokoonpano\n\nHallintosäännön 9 §:n mukaan aluevaltuusto valitsee tarkastuslautakunnan, jossa on 7 jäsentä. Puheenjohtajan ja varapuheenjohtajan tulee olla valtuutettuja. Jokaisella jäsenellä on henkilökohtainen varajäsen.\n\nKokoonpanossa tuleen noudattaa naisten ja miesten välisestä tasa-arvosta annetun lain 4a §:ää, jonka mukaan hyvinvointialueen toimielimessä, lukuun ottamatta aluevaltuustoa, tulee olla sekä naisia että miehiä kumpiakin väintään 40 %, jollei erityisestä syytä muuta johdu.\n\nVaalikelpoisuus tarkastuslautakuntaan\n\nHyvinvointialueesta annetun lain 80 §:n mukaan vaalikelpoinen tarkastuslautakuntaan ei ole:\n\n1) aluehallituksen jäsen;\n\n2) henkilö, joka on aluehallituksen jäsenen tai hyvinvointialuejohtajan hallintolain 28 §:n 2 ja 3 momentissa tarkoitettu läheinen;\n\n3) henkilö, joka on hyvinvointialueen tai hyvinvointialueen määräysvallassa olevan yhteisön tai säätiön palveluksessa taikka toimitusjohtajana tai siihen rinnastuvassa asemassa hyvinvointialueen määräysvallassa olevassa yhteisössä tai säätiössä;\n\n4) henkilö, joka ei ole vaalikelpoinen aluehallitukseen."
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluehallitus esittää, että aluevaltuusto\n\n1. toimittaa toimikaudekseen tarkastuslautakunnan vaalin; ja\n\n2. nimeää jäsenistä puheenjohtajan ja varapuheenjohtajan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösesitys hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs hallintolakimies Aino Aurala"
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluevaltuusto aluehallituksen esityksen mukaisesti\n\n1. toimittaa toimikaudekseen tarkastuslautakunnan vaalin; ja\n\n2. nimeää jäsenistä puheenjohtajan ja varapuheenjohtajan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja esitti tarkastuslautakuntaan puolueiden neuvottelutuloksen mukaisesti seuraavaa kokoonpanoa:\n\nMarko Malvisto (varalla Mauri Salo)\n\nTuija Leivo-Rintakorpi (varalla Vesa-Matti Viirre)\n\nJukka Ylikarjula (varalla Maria Hassel-Sandström)\n\nMinna Björk (varalla Marko Kautto)\n\nErkki Huuki (varalla Helinä Tuomela)\n\nManolis Huuki (varalla Outi Hakunti)\n\nTiina Tervola (varalla Maria Nyblom)\n\nPuheenjohtaja esitti puolueiden neuvotteluesityksen mukaisesti, että tarkastuslautakunnan puheenjohtajaksi nimettäisiin Marko Malvisto ja varapuheenjohtajaksi Tuija Leivo-Rintakorpi.\n\nEsitykset hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "31",
+   "title": "Hyvinvointi- ja tulevaisuuslautakunnan vaali",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025967-10",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/2025967-10.PDF",
+   "diary_number": "1825/00.02.00/2025",
+   "preparer": "vs hallintolakimies Aino Aurala; Hyvinvointi- ja tulevaisuuslautakunnan tehtävät; Hallintosäännön 22 §:n mukaan hyvinvointi- ja tulevaisuuslautakunnan tehtävänä on:; arvioida ja ennakoida hyvinvointialueen palvelutarvetta;; edistää hyvinvointialueen strategian ja sote-palvelustrategian valmistelua;;",
+   "presenter": null,
+   "proposal": "Aluevaltuusto aluehallituksen esityksen mukaisesti\n\n1. toimittaa hyvinvointi- ja tulevaisuuslautakunnan vaalin; ja\n\n2. nimeää jäsenistä puheenjohtajan ja varapuheenjohtajan.",
+   "decision": "Puheenjohtaja esitti hyvinvointi- ja tulevaisuuslautakuntaan puolueiden neuvottelutuloksen mukaisesti seuraavaa kokoonpanoa:\n\nHannes Torppa (varalla Jouni Koskinen)\n\nPirjo Urpilainen (varalla Aino Riikkilä)\n\nJonas Heinola (varalla Vuokko Möttönen)\n\nKai-Eerik Känsälä (varalla Asta Pilvilampi)\n\nMinna Koskela (varalla Tina Sulkakoski)\n\nReetta Hjelm (varalla Sirpa Nevasaari)\n\nHeidi Glevizcky (varalla Jaakko Palola)\n\nJuuso Tuohisto-Kokko (varalla Johanna Laakso)\n\nSaara Lång (varalla Heikki Järvi)\n\nPuheenjohtaja esitti puolueiden neuvotteluesityksen mukaisesti, että hyvinvointi- ja tulevaisuuslautakunnan puheenjohtajaksi nimettäisiin Hannes Torppa ja varapuheenjohtajaksi Pirjo Urpilainen.\n\nEsitykset hyväksyttiin yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Keski-Pohjanmaan aluehallitus 12.05.2025 § 135"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs hallintolakimies Aino Aurala\n\nHyvinvointi- ja tulevaisuuslautakunnan tehtävät\n\nHallintosäännön 22 §:n mukaan hyvinvointi- ja tulevaisuuslautakunnan tehtävänä on:\n\narvioida ja ennakoida hyvinvointialueen palvelutarvetta;\n\nedistää hyvinvointialueen strategian ja sote-palvelustrategian valmistelua;\n\nedistää sosiaali- ja terveydenhuollon järjestämissuunnitelman valmistelua;\n\nedistää yhteistoiminta-alueen yhteistyösopimuksen valmistelua;\n\nvalmistella hyvinvointia ja alueen tulevaisuutta koskeva hyvinvointikertomus;\n\nkehittää hyvinvoinnin ja terveyden edistämisen (HYTE) toteutumista yhteistyössä eri toimijoiden kesken\n\nedistää ja seurata uusien toimintamallien käyttöönottoa;\n\nkehittää ja koordinoida hyvinvointialueen tutkimus-, kehittämis-, innovaatio- ja osaamistoimintaa (TKIO-toiminta);\n\narvioida ja ennakoida henkilöstön riittävyyttä ja edistää henkilöstön rekrytointia\n\nedistää henkilöstön saatavuuden turvaamista ja hyvän työn tekemistä.\n\nLautakunnan kokoonpano\n\nHallintosäännön 10 §:n mukaan hyvinvointi- ja tulevaisuuslautakunnassa on 9 jäsentä. Aluevaltuusto valitsee lautakuntien jäsenistä puheenjohtajan ja varapuheenjohtajan. Jokaisella jäsenellä on henkilökohtainen varajäsen.\n\nKokoonpanossa tuleen noudattaa naisten ja miesten välisestä tasa-arvosta annetun lain 4a §:ää, jonka mukaan hyvinvointialueen toimielimessä, lukuun ottamatta aluevaltuustoa, tulee olla sekä naisia että miehiä kumpiakin väintään 40 %, jollei erityisestä syytä muuta johdu.\n\nVaalikelpoisuus hyvinvointi- ja tulevaisuuslautakuntaan\n\nHyvinvointialueesta annetun lain 79 §:n, jossa on säädetty vaalikelpoisuudesta muihin toimielimiin, mukaan vaalikelpoinen lautakuntaan on henkilö, joka on vaalikelpoinen aluevaltuustoon, ei kuitenkaan:\n\n1) asianomaisen lautakunnan alainen hyvinvointialueen palveluksessa oleva henkilö;\n\n2) henkilö, joka on asianomaisen lautakunnan tehtäväalueella toimivan, hyvinvointialueen määräysvallassa olevan yhteisön tai säätiön palveluksessa;\n\n3) henkilö, joka on hallituksen tai siihen rinnastettavan toimielimen jäsenenä taikka johtavassa ja vastuullisessa tehtävässä tai siihen rinnastettavassa asemassa liiketoimintaa harjoittavassa yhteisössä, jos kysymyksessä on sellainen yhteisö, jolle asianomaisessa lautakunnassa tavanomaisesti käsiteltävien asioiden ratkaisu on omiaan tuottamaan olennaista hyötyä tai vahinkoa.\n\nPääasiallisesti henkilöstöasioita hoitavaan toimielimeen sovelletaan, mitä 78 §:n 2 momentissa säädetään.\n\nJohtokuntaan ja toimikuntaan voidaan valita sellainenkin henkilö, joka ei ole vaalikelpoinen aluehallitukseen ja lautakuntaan tai joka ei ole kyseisen hyvinvointialueen asukas."
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluehallitus esittää, että aluevaltuusto\n\n1. toimittaa hyvinvointi- ja tulevaisuuslautakunnan vaalin; ja\n\n2. nimeää jäsenistä puheenjohtajan ja varapuheenjohtajan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösesitys hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs hallintolakimies Aino Aurala"
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluevaltuusto aluehallituksen esityksen mukaisesti\n\n1. toimittaa hyvinvointi- ja tulevaisuuslautakunnan vaalin; ja\n\n2. nimeää jäsenistä puheenjohtajan ja varapuheenjohtajan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja esitti hyvinvointi- ja tulevaisuuslautakuntaan puolueiden neuvottelutuloksen mukaisesti seuraavaa kokoonpanoa:\n\nHannes Torppa (varalla Jouni Koskinen)\n\nPirjo Urpilainen (varalla Aino Riikkilä)\n\nJonas Heinola (varalla Vuokko Möttönen)\n\nKai-Eerik Känsälä (varalla Asta Pilvilampi)\n\nMinna Koskela (varalla Tina Sulkakoski)\n\nReetta Hjelm (varalla Sirpa Nevasaari)\n\nHeidi Glevizcky (varalla Jaakko Palola)\n\nJuuso Tuohisto-Kokko (varalla Johanna Laakso)\n\nSaara Lång (varalla Heikki Järvi)\n\nPuheenjohtaja esitti puolueiden neuvotteluesityksen mukaisesti, että hyvinvointi- ja tulevaisuuslautakunnan puheenjohtajaksi nimettäisiin Hannes Torppa ja varapuheenjohtajaksi Pirjo Urpilainen.\n\nEsitykset hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "32",
+   "title": "Turvallisuus- ja pelastuslautakunnan vaali",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025967-11",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/2025967-11.PDF",
+   "diary_number": "1825/00.02.00/2025",
+   "preparer": "vs hallintolakimies Aino Aurala; Lautakunnan tehtävät; Hallintosäännön 23 §:n mukaan Turvallisuus- ja pelastuslautakunnan tehtävänä on:; valmistella turvallisuutta ja varautumista koskevan osion toimintakertomukseen sekä sisäisen valvonnan raportin ja selvityksen merkittävimmistä turvallisuuteen ja ",
+   "presenter": null,
+   "proposal": "Aluevaltuusto aluehallituksen esityksen mukaisesti\n\n1. toimittaa turvallisuus- ja pelastuslautakunnan vaalin; ja\n\n2. nimeää jäsenistä puheenjohtajan ja varapuheenjohtajan.",
+   "decision": "Puheenjohtaja esitti Turvallisuus- ja pelastuslautakuntaan puolueiden neuvottelutuloksen mukaisesti seuraavaa kokoonpanoa:\n\nPekka Kauppi (varalla Catarina Silvander)\n\nPetteri Palosaari (varalla Ville Leppälä)\n\nVille Hirvikoski (varalla Aino Humalajoki)\n\nJanne Ilola (varalla Harri Pulkkinen)\n\nSanna-Kaisa Göös (varalla Anja Törmä)\n\nMerja Kivelä (varalla Tapani Hankaniemi)\n\nMiia Laakso (varalla Mikko Tamminen)\n\nTiia Horila (varalla Arja Vakkuri)\n\nHannu Kippo (varalla Hannele Ilola).\n\nPuheenjohtaja esitti puolueiden neuvotteluesityksen mukaisesti, että turvallisuus- ja pelastuslautakunnan puheenjohtajaksi nimettäisiin Pekka Kauppi ja varapuheenjohtajaksi Petteri Palosaari.\n\nEsitykset hyväksyttiin yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Keski-Pohjanmaan aluehallitus 12.05.2025 § 136"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs hallintolakimies Aino Aurala\n\nLautakunnan tehtävät\n\nHallintosäännön 23 §:n mukaan Turvallisuus- ja pelastuslautakunnan tehtävänä on:\n\nvalmistella turvallisuutta ja varautumista koskevan osion toimintakertomukseen sekä sisäisen valvonnan raportin ja selvityksen merkittävimmistä turvallisuuteen ja varautumiseen liittyvistä riskeistä ja epävarmuustekijöistä;\n\nvalvoa turvallisuuden ja varautumisen toimenpiteiden toteutusta, arvioi kehittämistarpeita sekä tekee tarvittaessa esityksiä aluehallitukselle;\n\nvastata turvallisuuden ja varautumisen toimivuuden seurannasta hyvinvointialueen oman toiminnan, sopimustoiminnan ja konsernin osalta;\n\nvalvoa, että turvallisuus- ja varautumisjärjestelyt toimeenpannaan ohjeistusten mukaisesti;\n\ntoimia alueen pelastustoimilain mukaisena monijäsenisenä toimielimenä;\n\nvalmistella palvelutasopäätös aluehallitukselle ja edelleen aluevaltuuston hyväksyttäväksi.\n\nTurvallisuus- ja pelastuslautakunnan kokoonpano\n\nHallintosäännön 11 §:n mukaan lautakunnassa on 9 jäsentä. Aluevaltuusto valitsee lautakuntien jäsenistä puheenjohtajan ja varapuheenjohtajan. Jokaisella jäsenellä on henkilökohtainen varajäsen.\n\nKokoonpanossa tuleen noudattaa naisten ja miesten välisestä tasa-arvosta annetun lain 4a §:ää, jonka mukaan hyvinvointialueen toimielimessä, lukuun ottamatta aluevaltuustoa, tulee olla sekä naisia että miehiä kumpiakin väintään 40 %, jollei erityisestä syytä muuta johdu.\n\nVaalikelpoisuus turvallisuus- ja pelastuslautakuntaan\n\nHyvinvointialueesta annetun lain 79 §:n, jossa on säädetty vaalikelpoisuudesta muihin toimielimiin, mukaan vaalikelpoinen lautakuntaan on henkilö, joka on vaalikelpoinen aluevaltuustoon, ei kuitenkaan:\n\n1) asianomaisen lautakunnan alainen hyvinvointialueen palveluksessa oleva henkilö;\n\n2) henkilö, joka on asianomaisen lautakunnan tehtäväalueella toimivan, hyvinvointialueen määräysvallassa olevan yhteisön tai säätiön palveluksessa;\n\n3) henkilö, joka on hallituksen tai siihen rinnastettavan toimielimen jäsenenä taikka johtavassa ja vastuullisessa tehtävässä tai siihen rinnastettavassa asemassa liiketoimintaa harjoittavassa yhteisössä, jos kysymyksessä on sellainen yhteisö, jolle asianomaisessa lautakunnassa tavanomaisesti käsiteltävien asioiden ratkaisu on omiaan tuottamaan olennaista hyötyä tai vahinkoa.\n\nPääasiallisesti henkilöstöasioita hoitavaan toimielimeen sovelletaan, mitä 78 §:n 2 momentissa säädetään.\n\nJohtokuntaan ja toimikuntaan voidaan valita sellainenkin henkilö, joka ei ole vaalikelpoinen aluehallitukseen ja lautakuntaan tai joka ei ole kyseisen hyvinvointialueen asukas."
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluehallitus esittää, että aluevaltuusto\n\n1. toimittaa turvallisuus- ja pelastuslautakunnan vaalin; ja\n\n2. nimeää jäsenistä puheenjohtajan ja varapuheenjohtajan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösesitys hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs hallintolakimies Aino Aurala"
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluevaltuusto aluehallituksen esityksen mukaisesti\n\n1. toimittaa turvallisuus- ja pelastuslautakunnan vaalin; ja\n\n2. nimeää jäsenistä puheenjohtajan ja varapuheenjohtajan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja esitti Turvallisuus- ja pelastuslautakuntaan puolueiden neuvottelutuloksen mukaisesti seuraavaa kokoonpanoa:\n\nPekka Kauppi (varalla Catarina Silvander)\n\nPetteri Palosaari (varalla Ville Leppälä)\n\nVille Hirvikoski (varalla Aino Humalajoki)\n\nJanne Ilola (varalla Harri Pulkkinen)\n\nSanna-Kaisa Göös (varalla Anja Törmä)\n\nMerja Kivelä (varalla Tapani Hankaniemi)\n\nMiia Laakso (varalla Mikko Tamminen)\n\nTiia Horila (varalla Arja Vakkuri)\n\nHannu Kippo (varalla Hannele Ilola).\n\nPuheenjohtaja esitti puolueiden neuvotteluesityksen mukaisesti, että turvallisuus- ja pelastuslautakunnan puheenjohtajaksi nimettäisiin Pekka Kauppi ja varapuheenjohtajaksi Petteri Palosaari.\n\nEsitykset hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "33",
+   "title": "Kansalliskielilautakunnan vaali",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025967-12",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/2025967-12.PDF",
+   "diary_number": "1825/00.02.00/2025",
+   "preparer": "vs hallintolakimies Aino Aurala; Kansalliskielilautakunnan tehtävät; Hallintosäännön 24 §:n mukaan kansalliskielilautakunnan tehtävänä on:; selvittää, arvioida ja lausua siitä, miten aluevaltuuston päätökset vaikuttavat kielellisten oikeuksien käytännön toteutumiseen;; selvittää, arvioida ja määrite",
+   "presenter": null,
+   "proposal": "Aluevaltuusto aluehallituksen esityksen mukaisesti\n\n1. toimittaa kansalliskielilautakunnan vaalin; ja\n\n2. nimeää jäsenistä puheenjohtajan ja varapuheenjohtajan.",
+   "decision": "Puheenjohtaja esitti kansalliskielilautakuntaan puolueiden neuvottelutuloksen mukaisesti seuraavaa kokoonpanoa:\n\nMarlén Timonen (varalla Christin Isaksson)\n\nMikael Hagström (varalla Seija Häggdahl)\n\nLinda Boberg-Santala (varalla Jesper Sundström)\n\nMikael Prest (varalla Anders Nyman)\n\nTina Sulkakoski (varalla Boris Nygård).\n\nPuheenjohtaja esitti puolueiden neuvotteluesityksen mukaisesti, että kansalliskielilautakunnan puheenjohtajaksi nimettäisiin Marlén Timonen ja ensimmäiseksi varapuheenjohtajaksi Mikael Hagström.\n\nEsitykset hyväksyttiin yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Keski-Pohjanmaan aluehallitus 12.05.2025 § 137"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs hallintolakimies Aino Aurala\n\nKansalliskielilautakunnan tehtävät\n\nHallintosäännön 24 §:n mukaan kansalliskielilautakunnan tehtävänä on:\n\nselvittää, arvioida ja lausua siitä, miten aluevaltuuston päätökset vaikuttavat kielellisten oikeuksien käytännön toteutumiseen;\n\nselvittää, arvioida ja määritellä hyvinvointialueen vähemmistökielellä tarjottavien palvelujen tarvetta, viestintää sekä seurata näiden palvelujen saatavuutta ja laatua;\n\nselvitysten, arvioinnin ja seurannan perusteella tehdä aluehallitukselle ehdotuksia toimenpiteiksi kielivähemmistön palvelujen ja palveluketjujen kehittämiseksi sekä henkilöstön kielitaitovaatimuksiksi ja kielitaidon kehittämiseksi;\n\nkaksikielisellä hyvinvointialueella, jonka vähemmistökieli on ruotsi, tehdä ehdotuksia kaksikielisten hyvinvointialueiden yhteistyötä ja työnjakoa koskevan sosiaali- ja terveydenhuollon järjestämisestä annetun lain 39 §:ssä tarkoitetun sopimuksen sisällöksi, antaa sopimuksesta lausunto aluevaltuustolle sekä seurata sopimuksen toteutumista;\n\nantaa lausuntoja kielipalveluita koskevista valituksista;\n\nvalmistella hyvinvointialueen kieliohjelma;\n\nantaa vuosittain aluehallitukselle kertomuksen vähemmistö-kielisten palveluiden toteutumisesta hyvinvointialueella.\n\nHyvinvointialueesta annetun lain 33 § 5 mom. mukaan kansalliskielilautakunnan puheenjohtajalla on läsnäolo- ja puheoikeus akuehallituksessa.\n\nKansalliskielilautakunnan kokoonpano\n\nHallintosäännön 12 §:n mukaan lautakunnassa on viisi (5) jäsentä, joista aluevaltuusto valitsee puheenjohtajan ja varapuheenjohtajan. Jäsenet valitaan kielivähemmistöön kuuluvista henkilöistä. Jokaisella jäsenellä on henkilökohtainen varajäsen.\n\nKokoonpanossa tuleen noudattaa naisten ja miesten välisestä tasa-arvosta annetun lain 4a §:ää, jonka mukaan hyvinvointialueen toimielimessä, lukuun ottamatta aluevaltuustoa, tulee olla sekä naisia että miehiä kumpiakin väintään 40 %, jollei erityisestä syytä muuta johdu.\n\nVaalikelpoisuus kansalliskielilautakuntaan\n\nHyvinvointialueesta annetun lain 79 §:n, jossa on säädetty vaalikelpoisuudesta muihin toimielimiin, mukaan vaalikelpoinen lautakuntaan on henkilö, joka on vaalikelpoinen aluevaltuustoon, ei kuitenkaan:\n\n1) asianomaisen lautakunnan alainen hyvinvointialueen palveluksessa oleva henkilö;\n\n2) henkilö, joka on asianomaisen lautakunnan tehtäväalueella toimivan, hyvinvointialueen määräysvallassa olevan yhteisön tai säätiön palveluksessa;\n\n3) henkilö, joka on hallituksen tai siihen rinnastettavan toimielimen jäsenenä taikka johtavassa ja vastuullisessa tehtävässä tai siihen rinnastettavassa asemassa liiketoimintaa harjoittavassa yhteisössä, jos kysymyksessä on sellainen yhteisö, jolle asianomaisessa lautakunnassa tavanomaisesti käsiteltävien asioiden ratkaisu on omiaan tuottamaan olennaista hyötyä tai vahinkoa.\n\nPääasiallisesti henkilöstöasioita hoitavaan toimielimeen sovelletaan, mitä 78 §:n 2 momentissa säädetään.\n\nJohtokuntaan ja toimikuntaan voidaan valita sellainenkin henkilö, joka ei ole vaalikelpoinen aluehallitukseen ja lautakuntaan tai joka ei ole kyseisen hyvinvointialueen asukas."
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluehallitus esittää, että aluevaltuusto\n\n1. toimittaa kansalliskielilautakunnan vaalin; ja\n\n2. nimeää jäsenistä puheenjohtajan ja varapuheenjohtajan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösesitys hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs hallintolakimies Aino Aurala"
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluevaltuusto aluehallituksen esityksen mukaisesti\n\n1. toimittaa kansalliskielilautakunnan vaalin; ja\n\n2. nimeää jäsenistä puheenjohtajan ja varapuheenjohtajan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja esitti kansalliskielilautakuntaan puolueiden neuvottelutuloksen mukaisesti seuraavaa kokoonpanoa:\n\nMarlén Timonen (varalla Christin Isaksson)\n\nMikael Hagström (varalla Seija Häggdahl)\n\nLinda Boberg-Santala (varalla Jesper Sundström)\n\nMikael Prest (varalla Anders Nyman)\n\nTina Sulkakoski (varalla Boris Nygård).\n\nPuheenjohtaja esitti puolueiden neuvotteluesityksen mukaisesti, että kansalliskielilautakunnan puheenjohtajaksi nimettäisiin Marlén Timonen ja ensimmäiseksi varapuheenjohtajaksi Mikael Hagström.\n\nEsitykset hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "34",
+   "title": "Aluevaalilautakunnan vaali",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025967-13",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/2025967-13.PDF",
+   "diary_number": "1825/00.02.00/2025",
+   "preparer": "vs hallintolakimies Aino Aurala; Hallintosäännön 13 §:n mukaan aluevaalilautakunnassa on viisi (5) jäsentä, joista aluevaltuusto valitsee puheenjohtajan ja varapuheenjohtajan sekä viisi (5) varajäsentä.; Aluevaalilautakuntaa ja sen tehtäviä sääntelee vaalilaki. Aluevaalilautakunnan ensisijaisena teh",
+   "presenter": null,
+   "proposal": "Aluevaltuusto aluehallituksen esityksen mukaisesti\n\n1. toimittaa aluevaalilautakunnan vaalin; ja\n\n2. nimeää jäsenistä puheenjohtajan ja varapuheenjohtajan.",
+   "decision": "Puheenjohtaja esitti puolueiden neuvottelutuloksen mukaisesti aluevaalilautakunnan jäseniksi Raija Potilaa, Irja Kivistöä, Raimo Märsylää, Tuomo Ojalaa ja Merja Heikkilää sekä varajäseniksi Irma Keiskiä, Nanna Jokelaa, Simo Kattilakoskea, Joakim Hongaa ja Matti Mustajärveä tässä etusijajärjestyksessä.\n\nPuheenjohtaja esitti puolueiden neuvotteluesityksen mukaisesti, että aluevaalilautakunnan puheenjohtajaksi nimettäisiin Raija Potila ja varapuheenjohtajaksi Irja Kivistö.\n\nEsitykset hyväksyttiin yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Keski-Pohjanmaan aluehallitus 12.05.2025 § 138"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs hallintolakimies Aino Aurala\n\nHallintosäännön 13 §:n mukaan aluevaalilautakunnassa on viisi (5) jäsentä, joista aluevaltuusto valitsee puheenjohtajan ja varapuheenjohtajan sekä viisi (5) varajäsentä.\n\nAluevaalilautakuntaa ja sen tehtäviä sääntelee vaalilaki. Aluevaalilautakunnan ensisijaisena tehtävänä on vastata aluevaalien järjestämisestä alueellisena toimijana.\n\nVaalilain 12a §:n mukaan aluevaltuuston on asetettava hyvinvointialueelle toimikaudekseen aluevaalilautakunta. Siihen kuuluu puheenjohtaja, varapuheenjohtaja ja kolme muuta jäsentä sekä tarpeellinen määrä varajäseniä, joita on kuitenkin oltava vähintään viisi. Varajäsenet on asetettava siihen järjestykseen, jossa he tulevat jäsenten sijaan.\n\nSekä jäsenten että varajäsenten tulee mahdollisuuksien mukaan edustaa hyvinvointialueella edellisissä aluevaaleissa ehdokkaita asettaneita äänestäjäryhmiä. Jäsen tai varajäsen, joka aluevaalilautakunnalle toimitetun ehdokashakemuksen mukaan on asetettu puolueen tai valitsijayhdistyksen ehdokkaaksi aluevaaleissa, ei voi osallistua aluevaalilautakunnan työskentelyyn kyseisissä vaaleissa.\n\nVaalilain 12 b §:ssä säädetään aluevaalilautakunnan työskentelystä. Aluevaalilautakunta on päätösvaltainen viisijäsenisenä. Jos varajäsen on kuollut taikka estynyt tai esteellinen, aluehallitus saa tarvittaessa määrätä väliaikaisen varajäsenen.\n\nAluevaalilautakunnan jäsenen ja varajäsenen esteellisyydestä säädetään hallintolain 27–30 §:ssä.\n\nAluevaalilautakunta ottaa itselleen sihteerin ja muun tarvittavan henkilöstön. Se päättää muiden kuin sen kokouksiin tässä laissa tarkoitettujen tehtäviensä vuoksi osallistumaan oikeutettujen henkilöiden läsnäolo- ja puheoikeudesta kokouksissaan.\n\nAluevaalilautakuntaan ei sovelleta hyvinvointialueesta annetussa laissa tarkoitetun hallintosäännön määräyksiä aluehallituksen edustajan ja hyvinvointialuejohtajan läsnäolo- ja puheoikeudesta kokouksissa eikä oikeudesta ottaa asia ylemmän toimielimen käsiteltäväksi.\n\nKokoonpanossa tuleen noudattaa naisten ja miesten välisestä tasa-arvosta annetun lain 4a §:ää, jonka mukaan hyvinvointialueen toimielimessä, lukuun ottamatta aluevaltuustoa, tulee olla sekä naisia että miehiä kumpiakin väintään 40 %, jollei erityisestä syytä muuta johdu."
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluehallitus esittää, että aluevaltuusto\n\n1. toimittaa aluevaalilautakunnan vaalin; ja\n\n2. nimeää jäsenistä puheenjohtajan ja varapuheenjohtajan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösesitys hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs hallintolakimies Aino Aurala"
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluevaltuusto aluehallituksen esityksen mukaisesti\n\n1. toimittaa aluevaalilautakunnan vaalin; ja\n\n2. nimeää jäsenistä puheenjohtajan ja varapuheenjohtajan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja esitti puolueiden neuvottelutuloksen mukaisesti aluevaalilautakunnan jäseniksi Raija Potilaa, Irja Kivistöä, Raimo Märsylää, Tuomo Ojalaa ja Merja Heikkilää sekä varajäseniksi Irma Keiskiä, Nanna Jokelaa, Simo Kattilakoskea, Joakim Hongaa ja Matti Mustajärveä tässä etusijajärjestyksessä.\n\nPuheenjohtaja esitti puolueiden neuvotteluesityksen mukaisesti, että aluevaalilautakunnan puheenjohtajaksi nimettäisiin Raija Potila ja varapuheenjohtajaksi Irja Kivistö.\n\nEsitykset hyväksyttiin yksimielisesti."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "35",
+   "title": "Eläkeläiset ry/Pohjanmaan aluejärjestö ry:n aloite",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025967-14",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/2025967-14.PDF",
+   "diary_number": "1051/00.02.01/2025",
+   "preparer": "vs. hallintolakimies Aino Aurala, hallintoasiantuntija Mia Lukkarila; Keski-Pohjanmaan hyvinvointialueelle on 6.3.2024 toimitettu liitteenä oleva aloite. Aloitteen tekijä on Eläkeläiset ry / Pohjanmaan aluejärjestö ry. Aloite koskee ympärivurokautisen asumispalvelujen paikkojen määrää.; Keski-Pohjan",
+   "presenter": null,
+   "proposal": "Aluevaltuusto aluehallituksen esityksen mukaisesti\n\n1. merkitsee aloitteen ja aloitteeseen annetun vastauksen tiedoksi; ja\n\n2. katsoo, että aloite on tällä päätöksellä loppuun käsitelty.",
+   "decision": "Valtuutettu Tuija Leivo-Rintakorpi esitti, että aloitevastaus palautetaan valmisteluun ja kehotetaan aluehallitusta tekemään vastaukseen seuraavat tarkennukset:\n\n1. Ympärivuorokautisten hoivapaikkojen määrät vuosilta 2021–2025 – kokonaisuutena ja alueittain.\n\n2. Tiedot palvelutarpeen kehityksestä, nykytilanne ja arviot seuraaville vuosille.\n\n3. Tiedot jonotilanteesta ja palveluihin pääsyn odotusajoista.\n\n4. Kotihoidon nykytilan kuvaus: asiakasmäärät, henkilöstöresurssit ja kantokyky suhteessa palvelutarpeeseen.\n\n5. Alueellinen saavutettavuus: palveluiden saatavuus eri kunnissa tai alueilla suhteessa ikääntyneiden määrään.\n\nValtuutetut Kristiina Teerikangas, Marlén Timonen, Sari Innanen, Anja Törmä ja Magnus Björkgren kannattivat esitystä.\n\nPuheenjohtaja esitti, että Leivo-Rintakorven esitys hyväksyttäisiin yksimielisesti ja vastauksessa huomioitaisiin lisäksi kielinäkökohdat ja syrjintänäkökohdat.\n\nEsitys hyväksyttiin puheenjohtajan esittämin tarkennuksin yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Keski-Pohjanmaan aluehallitus 24.03.2025 § 74"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs. hallintolakimies Aino Aurala, hallintoasiantuntija Mia Lukkarila\n\nKeski-Pohjanmaan hyvinvointialueelle on 6.3.2024 toimitettu liitteenä oleva aloite. Aloitteen tekijä on Eläkeläiset ry / Pohjanmaan aluejärjestö ry. Aloite koskee ympärivurokautisen asumispalvelujen paikkojen määrää.\n\nKeski-Pohjanmaan hyvinvointialueen hallintosäännön 174 §:n mukaan aloitteen käsittelee se hyvinvointialueen viranomainen, jolla on toimivalta tehdä päätöksiä aloitteen tarkoittamassa asiassa. Jos toimivaltainen viranomainen on toimielin, aloitteista ja aloitteiden perusteella suoritetuista toimenpiteistä on annettava toimielimelle tieto jäljempänä määrätyllä tavalla. Aluehallituksen on vuosittain toukokuun loppuun mennessä esitettävä aluevaltuustolle luettelo sen toimivaltaan kuuluvista aloitteista ja niiden perusteella suoritetuista toimenpiteistä. Aluevaltuusto voi samalla päättää, mitkä aloitteista on loppuun käsitelty. Muun toimielimen kuin aluevaltuuston toimivaltaan kuuluvista aloitteista on annettava tieto toimielimelle niiden päättämällä tavalla. Toimielin voi samalla päättää, mitkä aloitteista ovat loppuun käsiteltyjä.\n\nHyvinvointialuelain 30 §:ssä säädetään aloiteoikeudesta hyvinvointialueella. Aloitteen tekijälle on ilmoitettava aloitteen johdosta suoritetut toimenpiteet. Aloitetta käsiteltäessä hyvinvointialueen on varattava aloitteen tekijöiden edustajille tilaisuus tulla kuulluiksi. Säännöstä koskevien lain esitöiden mukaan ”Hyvään hallintoon kuuluu, että aloitteen tekijä saa kohtuullisen pian aloitteen jätettyään tiedon siitä, mikä hyvinvointialueen viranomainen käsittelee aloitteen ja missä aikataulussa.” (HE 241/2020 vp., s. 543)\n\nLiite\nAloite/Eläkeläiset ry/Pohjanmaan aluejärjestö ry"
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "1. Aluehallitus merkitsee aloitteen tiedoksi.\n\n2. Aluehallitus antaa aloitteen vastauksen ikääntyneiden ja vammaisten palveluiden toimialuejohtaja Tarja Oikarainen-Nybackan valmisteltavaksi. Aloitteeseen annettava vastaus pyritään käsittelemään huhtikuun 2025 aikana."
+    },
+    {
+     "heading": "Päätös",
+     "text": "1. Merkittiin tiedoksi; ja\n\n2. Annettiin aloitteen vastaus Tarja Oikarinen-Nybackan valmisteltavaksi.\n\nKeski-Pohjanmaan aluehallitus 28.04.2025 § 119"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "sosiaalijohtaja Tarja Oikarinen-Nybacka\n\nAluehallituksen kokouksen 24.03.2025 § 74 pöytäkirjan mukaan Eläkeläiset ry / Pohjanmaan aluejärjestö ry:n aloite oli toimitettu Keski-Pohjanmaan hyvinvointialueelle ”6.3.2024”. Korjauksena todetaan, että aloite on toimitettu hyvinvointialueelle 6.3.2025 (vuosiluvun korjaus).\n\nVastaus aloitteeseen\n\nEläkeläiset ry/Pohjanmaan eläkeläiset ry nostaa aloitteessaan esille iäkkäiden palvelut otsikolla ”iäkkäiden syrjintä”. Järjestö kiinnittää huomiota ympärivuorokautisen palveluasumisen asumispaikkoihin ja niiden vähentämiseen sekä nostaa esille myös iäkkäiden kotihoidon ja yhteisöllisen asumisen. He toteavat, että aina on henkilöitä, jotka tarvitsevat toisen apua, kun he eivät pärjää omassa kodissaan ilman ympärivuorokautista valvontaa, apua tai seurantaa.\n\nKeski-Pohjanmaan hyvinvointialueella on kehitetty ikääntyneiden palveluja pitkäjänteisesti voimassa olevan lainsäädännön ja valtakunnallisten ohjeistusten ja linjausten mukaisesti. Lainsäädäntö takaa ikäihmisille tietyt palvelut. Hyvinvointialueuudistuksen tavoitteiden ja valtion ohjauksen mukaisesti Keski-Pohjanmaalla painotetaan asiakaslähtöisiä ja monipuolisia palveluja sekä ikääntyneiden hyvinvoinnin ja terveyden edistämistä. Valtakunnallisesti keskeistä on painottaa kotiin suunnattuja palveluja. Tähän liittyen Keski-Pohjanmaan hyvinvointialuetta on mm. vuoden 2024 hyvinvointialueneuvottelussa ohjeistettu edelleen kehittämään avopalveluja ja kohtelemaan asiakkaita tasapuolisesti palvelujen suuntaamisessa.\n\nKeski-Pohjanmaan hyvinvointialueella on eritasoisia palveluja ikääntyneille. Ikääntyneiden tarpeet ovat erilaisia ja erivaiheissa toimintakyvyn rajoitteisiin vastataan tilanteeseen sopivilla palveluilla.\n\nHyvinvoinnin edistämisessä ja turvaamisessa ennaltaehkäisevä hyvinvointia ja terveyttä edistävä ja ylläpitävä toiminta on keskeisessä roolissa. Tätä hyvinvointialue toteuttaa yhteistyössä järjestöjen ja kuntien kanssa. Tavoitteena on, että kaikki ikääntyneet saisivat elää mahdollisimman pitkään toimintakykyisiä aikoja ja terveysongelmat pysyisivät poissa/hallinnassa ja tarvittaessa terveysongelmiin ja sairauksiin löytyisi sopiva hoito. Kuitenkin kun ikävuosia tulee lisää tai vakavat sairaudet kohtaavat, voi tulla tarve erilaisille iäkkäille suunnatuille palveluille.\n\nKeski-Pohjanmaan hyvinvointialue vastaa palvelutarpeisiin eritasoisilla palveluille alkaen tukipalveluista, esimerkkeinä ateriapalvelu ja pesuapu. Kotihoitoa annetaan kotiin ja se sisältää kotipalvelun ja kotisairaanhoidon kokonaisuuden. Tukipalveluja kotiin tuottaa myös kotiin vietävien palvelujen tukitiimi. Hyvinvointialue järjestää iäkkäiden kuntouttavaa päivätoimintaa kotona asumisen tueksi eri puolilla aluetta. Erilaisia toiminnallisia ryhmiä järjestävät myös kolmannen sektorit toimijat, eri yhdistykset, seurakunnat ja kunnat. Kunnilla ja yhdistyksillä on myös paljon projekteja ja kehittämistyötä, joissa kehitetään toimintoja ikäihmisille. Kotihoitoa ja kotona selviytymistä tukee myös hyvinvointialueen tehostetun kotikuntoutumisen tiimi, yöpartiotoiminta ja etähoiva. Etähoivan ja lääkerobottien avulla toteutetaan palvelua niille kotihoidon asiakkaille, joille ko. laitteiden käyttö soveltuu. Tilapäistä kotihoitoa hankitaan myös palvelusetelillä yksityisiltä yrityksiltä.\n\nOmaishoito muodostaa merkittävän palvelukokonaisuuden (omaishoidon tuki, omaishoitajille suunnatut palvelut, esimerkiksi omaishoitajien terveydenhoitajan palvelut, omaishoitajien vapaat), jonka avulla monet iäkkäät ja heidän omaishoitajansa pystyvät asumaan kotona hyvinkin pitkään. Omaishoitoa tuetaan tarvittaessa myös tukipalveluilla, perhehoidolla ja kotihoidolla.\n\nPerhehoitoa on hyvinvointialueella kehitetty viime vuosina tarmokkaasti. Perhehoidossa on monia palvelumuotoja, on ympärivuorokautisesti ja osavuorokautisesti toimivia perhekoteja, joihin ikäihminen muuttaa asumaan vakituisesti/pitkäaikaisesti tai käy perhekodissa lyhytaikaisella jaksolla. Osavuorokautinen perhekoti tarjoaa mm. omaishoitajille vapaahetkiä ja hoidettaville vaihtelua ja toisten ihmisten seuraa. Kiertävät perhehoitajat toimivat asiakkaiden omissa kodeissa ja ottavat siellä hoitovastuun sovituksi ajaksi esimerkiksi omaishoidettavista.\n\nYhteisöllinen asuminen on palvelumuoto, jossa yhdistyvät tukipalvelut, kotihoito ja sosiaalista kanssakäymistä edistävä toiminta. Kaikilla asiakkailla on oma koti, mutta myös yhteisiä tiloja käytettävissä ja niissä yhteistä toimintaa, jota hyvinvointialue järjestää itse ja yhteistyössä muiden toimijoiden kanssa. Myös toisten seurassa oleminen ja eläminen on tärkeä osa yhteisöllistä asumista, se tarjoaa tukea ja yhteisöllisessä asumisessa voi myös itse toimia toisten tukena tai järjestää yhteistä tekemistä, jos siihen on voimavaroja ja halua.\n\nJaksohoitoyksiköt ovat ympärivuorokautista hoitoa ja kuntoutusta tarjoavia yksiköitä, jotka myös osaltaan tukevat kotona asumista. Jaksohoitoa tarjotaan erilaisiin elämäntilanteisiin, esimerkiksi sairaalahoidon jälkeiseen kuntoutumiseen, omaishoidon tukemiseen/vapaapäivien toteuttamiseen, toimintakyvyn heikkenemisen tilanteisiin.\n\nYmpärivuorokautista palveluasumista järjestetään asiakkaille, joilla on paljon toimintakyvyn haasteita ja usein myös monia sairauksia eivätkä he pysty asumaan yksinään ilman jatkuvaa valvontaa ja henkilökunnan läsnäoloa. Hyvin suuri osa ympärivuorokautisen asumisen asiakkaista on vaikeasti muistisairaita. Hyvinvointialueella on ympärivuorokautisen palveluasumisen yksiköitä eri puolilla aluetta. Osa palveluista ostetaan yksityisiltä palveluntuottajilta. Myös yksityiset palveluntuottajat ovat osa samaa ikäihmisten palveluketjua.\n\nIkääntyneille erityisesti suunnattujen sosiaalipalvelujen lisäksi kaiken ikäisten käytössä ovat hyvinvointialueen terveyspalvelut, vammaispalvelut, päihde- ja mielenterveyspalvelut tarpeen mukaan. Muissa palveluissa ikääntyneitä palvellaan siinä missä muitakin ikäryhmiä.\n\nHyvinvointialue toteaa vastauksena Eläkeläiset ry/Pohjanmaan aluejärjestö ry, että se jatkaa ylläselostettujen ikääntyneiden palveluiden ylläpitoa ja kehittämistä. Ympärivuorokautinen palveluasuminen on tärkeä toimintamuoto ja osa ikääntyneistä tarvitsee tätä palvelua. Hyvin suuri osa ikääntyneistä tarvitsee kuitenkin myös edellä selostettuja kotiin vietäviä ja kotona asumista tukevia palveluja. Hyvinvointialueella kaikkien palvelutarpeet otetaan huomioon yksilöllisesti ja palveluketjun toimivuus asiakaskohtaisesti on tärkeää. Ammatillista osaamista ja asiakkaita arvostavaa asennetta ikääntyneiden palvelutuotannossa vaalitaan ja edistetään mm. täydennyskoulutuksella. Hyvinvointialue ei jätä ikäihmisiä heitteille, vaan vastaa laajasti palvelutarpeisiin taloudellisen raamin puitteissa tasapuolisesti muiden sosiaali- ja terveys- sekä pelastuspalvelujen kanssa."
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluehallitus päättää\n\n1. merkitä tiedoksi aloitteeseen annettavan vastauksen;\n\n2. lähettää aloitteeseen annettavan vastauksen aloiteen tekijälle;\n\n3. saattaa aloitteen ja aloitteeseen annettavan vastauksen tiedoksi aluevaltuustolle; ja\n\n4. että aloite katsotaan tällä päätöksellä loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösesitys hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs hallintolakimies Aino Aurala"
+    },
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluevaltuusto aluehallituksen esityksen mukaisesti\n\n1. merkitsee aloitteen ja aloitteeseen annetun vastauksen tiedoksi; ja\n\n2. katsoo, että aloite on tällä päätöksellä loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Valtuutettu Tuija Leivo-Rintakorpi esitti, että aloitevastaus palautetaan valmisteluun ja kehotetaan aluehallitusta tekemään vastaukseen seuraavat tarkennukset:\n\n1. Ympärivuorokautisten hoivapaikkojen määrät vuosilta 2021–2025 – kokonaisuutena ja alueittain.\n\n2. Tiedot palvelutarpeen kehityksestä, nykytilanne ja arviot seuraaville vuosille.\n\n3. Tiedot jonotilanteesta ja palveluihin pääsyn odotusajoista.\n\n4. Kotihoidon nykytilan kuvaus: asiakasmäärät, henkilöstöresurssit ja kantokyky suhteessa palvelutarpeeseen.\n\n5. Alueellinen saavutettavuus: palveluiden saatavuus eri kunnissa tai alueilla suhteessa ikääntyneiden määrään.\n\nValtuutetut Kristiina Teerikangas, Marlén Timonen, Sari Innanen, Anja Törmä ja Magnus Björkgren kannattivat esitystä.\n\nPuheenjohtaja esitti, että Leivo-Rintakorven esitys hyväksyttäisiin yksimielisesti ja vastauksessa huomioitaisiin lisäksi kielinäkökohdat ja syrjintänäkökohdat.\n\nEsitys hyväksyttiin puheenjohtajan esittämin tarkennuksin yksimielisesti."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite_Aloite_Eläkeläiset ry",
+     "url": "https://kpshp-hva.oncloudos.com/kokous/2025967-14-87965.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "36",
+   "title": "Tiedoksi / Muut asiat / Aloitteet",
+   "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025967-15",
+   "pdf_url": "https://kpshp-hva.oncloudos.com/kokous/2025967-15.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluevaltuusto merkitsee tiedoksi:\n\n1. Invalidiliiton liittovaltuuston kannanotto, oheisaineistona",
+   "decision": "Aluevaltuusto merkitsi tiedoksi:\n\n1. Invalidiliiton liittovaltuuston kannanoton ja\n\n2. valtuutettu Anna Nurmi-Lehdon aloitteen kuntoutuksen järjestämisestä. Aloitteen ovat allekirjoittaneet Pia Sillanpää, Tomi Kivelä, Ville Hirvikoski, Hannes Torppa, Janne Jukkola, Jukka Ylikarjula, Kai-Erik Känsälä, Petteri Palosaari, Anja Törmä, Tina Sulkakoski, Anette Johansson, Anna Nurmi-Lehto, Hanna-Lea Ahlskog, Tuija Leivo-Rintakorpi, Helinä Marjamaa, Virpi Ali-Haapala, Patrik Friis, Sirpa Orjala, Minna Koskela, Sanna-Kaisa Göös, Sari Innanen, Ville Leppälä, Pia Leinonen, Marko Malvisto, Mari Pitkänen, Ulpu Keränen, Ulla-Riitta Harju, Pekka Kauppi ja Pasi Kanniainen. Lisäksi aloitteen ovat allekirjoittaneet viisi muuta henkilöä, joiden allekirjoitukset eivät ole tulkittavissa. Aloite on pöytäkirjan liitteenä.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Päätösesitys",
+     "text": "Aluevaltuusto merkitsee tiedoksi:\n\n1. Invalidiliiton liittovaltuuston kannanotto, oheisaineistona"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto merkitsi tiedoksi:\n\n1. Invalidiliiton liittovaltuuston kannanoton ja\n\n2. valtuutettu Anna Nurmi-Lehdon aloitteen kuntoutuksen järjestämisestä. Aloitteen ovat allekirjoittaneet Pia Sillanpää, Tomi Kivelä, Ville Hirvikoski, Hannes Torppa, Janne Jukkola, Jukka Ylikarjula, Kai-Erik Känsälä, Petteri Palosaari, Anja Törmä, Tina Sulkakoski, Anette Johansson, Anna Nurmi-Lehto, Hanna-Lea Ahlskog, Tuija Leivo-Rintakorpi, Helinä Marjamaa, Virpi Ali-Haapala, Patrik Friis, Sirpa Orjala, Minna Koskela, Sanna-Kaisa Göös, Sari Innanen, Ville Leppälä, Pia Leinonen, Marko Malvisto, Mari Pitkänen, Ulpu Keränen, Ulla-Riitta Harju, Pekka Kauppi ja Pasi Kanniainen. Lisäksi aloitteen ovat allekirjoittaneet viisi muuta henkilöä, joiden allekirjoitukset eivät ole tulkittavissa. Aloite on pöytäkirjan liitteenä."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Valtuustoaloite Kuntoutuksen järjestäminen_julkinen",
+     "url": "https://kpshp-hva.oncloudos.com/kokous/2025967-15-96101.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Ahlskog Hanna-Lea",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Ali-Haapala Virpi",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Behluli Sofia",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Björkgren Magnus",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Boberg-Santala Linda",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Brandt Mats",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Friis Patrik",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Göös Sanna-Kaisa",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Hankaniemi Tapani",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Harju Ulla-Riitta",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Haukilahti Hannu",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Hirvikoski Ville",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Hjelm Reetta",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Huuki Ari",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Innanen Sari",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Johansson Anette",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Jukkola Janne",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Kaivosoja Matti",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Kanniainen Pasi",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Kauppi Pekka",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Keränen Ulpu",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Kippo Hannu",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Kivelä Merja",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Kivelä Tomi",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Koljonen Risto",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Koskela Minna",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Koskinen Jouni",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Känsälä Kai-Eerik",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Laitila Veikko",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Leinonen Pia",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Leivo-Rintakorpi Tuija",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Leppälä Ville",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Malvisto Marko",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Marjamaa Helinä",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Nurmi Pekka",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Nurmi-Lehto Anna",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Orjala Sirpa",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Pajunpää Tapio",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Palosaari Petteri",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Peltokangas Tapio",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Pitkänen Mari",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Pöppönen Miia",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Rautiola Piia",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Salo Mauri",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Sillanpää Pia",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Snellman Hans",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Syrjälä Asko",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Teerikangas Emilia",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Teerikangas Kristiina",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Telimaa Sakari",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Tiala Marja",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Timonen Marlén",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Torppa Hannes",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Törmä Anja",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Urpilainen Pirjo",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Ylikarjula Jukka",
+   "role": "valtuutettu",
+   "group": "member"
+  },
+  {
+   "name": "Komulainen Mikko",
+   "role": "hyvinvointialuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Virta Katja",
+   "role": "johtajaylilääkäri",
+   "group": "other"
+  },
+  {
+   "name": "Kurikkala Piia",
+   "role": "johtajaylihoitaja",
+   "group": "other"
+  },
+  {
+   "name": "Oikarinen-Nybacka Tarja",
+   "role": "sosiaalijohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Saarela Helinä",
+   "role": "talousjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Puronhaara Topi",
+   "role": "pelastusjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Salminen Jussi",
+   "role": "osallisuus- ja asiakkuuspäällikkö",
+   "group": "other"
+  },
+  {
+   "name": "Kanervo Mikko",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Aurala Aino",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Syrjälä Toni",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Haapasaari Emma",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Sulkakoski Tina",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Huusko Elma",
+   "role": "nuorisovaltuuston edustaja",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025967",
+  "fetched_at": "2026-10-14T17:27:02+00:00",
+  "content_hash": "9244cf743fe836f6",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T17:27:02+00:00"
+ }
+}

@@ -1,0 +1,425 @@
+{
+ "id": "pelastustoimen-jaosto/2026-04-22",
+ "region": "pohjanmaa",
+ "body_id": "pelastustoimen-jaosto",
+ "body_name": "Pelastustoimen jaosto",
+ "date": "2026-04-22",
+ "stage": "minutes",
+ "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026725",
+ "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026725.PDF",
+ "time": "09:00 - 12:29",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "1",
+   "title": "Kokouksen avaus, laillisuus ja päätösvaltaisuus",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026725-1",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026725-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Puheenjohtaja avaa kokouksen klo 9.00.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hallintosäännön 148 §:n mukaan toimielin päättää kokoustensa ajan ja paikan.?\n\nHallintosäännön 149 §:n mukaan kokouskutsun antaa puheenjohtaja tai hänen estyneenä ollessaan varapuheenjohtaja. Kokouskutsussa on ilmoitettava kokouksen aika ja paikka sekä käsiteltävät asiat.?\n\nHallintosäännön 157 §:n mukaan avattuaan kokouksen puheenjohtaja toteaa läsnä olevat sekä onko kokous laillisesti koolle kutsuttu ja päätösvaltainen.?\n\nLaki hyvinvointialueesta (611/2021) 108 §:n mukaan muu toimielin kuin valtuusto, on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.\n\nPuheenjohtaja avaa kokouksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja avaa kokouksen klo 9.00."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "2",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026725-2",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026725-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Pöytäkirjantarkastajiksi valitaan Sven Jerkku ja Peter Remahl. Pöytäkirja tarkastetaan sähköisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pohjanmaan hyvinvointialueen hallintosäännön 167 §:n mukaan pöytäkirja tarkastetaan toimielimen päättämällä tavalla.\n\nPöytäkirja voidaan allekirjoittaa ja tarkastaa sähköisesti.\n\nPöytäkirjantarkastajiksi ehdotetaan jäseniä aakkosjärjestyksessä siten, että esitetään aina kahta vuorossa seuraavana olevaa listalta.\n\nPöytäkirjantarkastajiksi ehdotetaan jäseniä: Sven Jerkku ja Kari Koskela.\n\nEhdotetaan, että pöytäkirja tarkastetaan sähköisesti."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valitaan Sven Jerkku ja Peter Remahl. Pöytäkirja tarkastetaan sähköisesti."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "3",
+   "title": "Kokouksen työjärjestyksen hyväksyminen",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026725-3",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026725-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksytään.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pohjanmaan hyvinvointialueen hallintosäännön 149 §:n mukaan kokouskutsun antaa puheenjohtaja tai hänen estyneenä ollessaan varapuheenjohtaja. Kokouskutsussa on ilmoitettava kokouksen aika ja paikka sekä käsiteltävät asiat.\n\nEsityslista, joka sisältää selostuksen käsiteltävistä asioista ja ehdotukset toimielimen päätöksiksi,lähetetään kokouskutsun yhteydessä, jolleivat erityiset syyt ole esteenä.\n\nEhdotetaan, että esityslista hyväksytään työjärjestykseksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksytään."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "4",
+   "title": "Pelastuslaitoksen osavuosiraportti Q1 2026 sekä ajankohtainen info",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026725-4",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026725-4.PDF",
+   "diary_number": "ÖVPH/1891/00.01.01/2026",
+   "preparer": "Lindström Torbjörn; Lisätietoja: puhelinnumero: (vaihde); Pelastuslaitos on laatinut osavuosiraportin Q1, toimintasuunnitelman mukaisesta toiminnasta, vuoden kolmesta ensimmäisistä kuukausista pelastustoimen jaostolle.; Pelastusjohtaja esittelee osavuosiraportin ja sen lisäksi ajankohtaista infoa pe",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Merkittiin tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Lindström Torbjörn\n\nLisätietoja: puhelinnumero: (vaihde)\n\nPelastuslaitos on laatinut osavuosiraportin Q1, toimintasuunnitelman mukaisesta toiminnasta, vuoden kolmesta ensimmäisistä kuukausista pelastustoimen jaostolle.\n\nPelastusjohtaja esittelee osavuosiraportin ja sen lisäksi ajankohtaista infoa pelastuslaitoksesta.\n\nPelastusjohtaja Lindström Torbjörn\n\nehdottaa, että pelastustoimen jaos päättää merkitä toimialueen osavuosikatsauksen sekä ajankohtaisen infon tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkittiin tiedoksi."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nPopela Verksamhetsplan - Toimintasuunnitelma 2026 Q1\n\nLiite 2\n\nÖR investeringar Popela Investoinnit 2026 sektionen Q1\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Popela Verksamhetsplan - Toimintasuunnitelma 2026 Q1",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026725-4-93795.PDF"
+    },
+    {
+     "title": "ÖR investeringar Popela Investoinnit 2026 sektionen Q1",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026725-4-93792.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "5",
+   "title": "Pelastuslaitoksen toimintakertomus 2025",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026725-5",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026725-5.PDF",
+   "diary_number": "ÖVPH/1893/00.01.01/2026",
+   "preparer": "Lindström Torbjörn; Lisätietoja: puhelinnumero: (vaihde); Pelastuslaitos on laatinut toimintakertomuksen vuodesta 2025.; Pelastusjohtaja Lindström Torbjörn; ehdottaa, että pelastustoimen jaos päättää hyväksyä pelastuslaitoksen toimintakertomuksen vuodesta 2025.",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksytään päätösesityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Lindström Torbjörn\n\nLisätietoja: puhelinnumero: (vaihde)\n\nPelastuslaitos on laatinut toimintakertomuksen vuodesta 2025.\n\nPelastusjohtaja Lindström Torbjörn\n\nehdottaa, että pelastustoimen jaos päättää hyväksyä pelastuslaitoksen toimintakertomuksen vuodesta 2025."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksytään päätösesityksen mukaan."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nVerksamhetsberättelse - Toimintakertomus 2025 Raddningsverket - Pelastuslaitos\n\nLiite 2\n\nÖR investeringar Popela Investoinnit 2025\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Verksamhetsberättelse - Toimintakertomus 2025 Raddningsverket - Pelastuslaitos",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026725-5-93783.PDF"
+    },
+    {
+     "title": "ÖR investeringar Popela Investoinnit 2025",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026725-5-93803.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "6",
+   "title": "Pelastustoimen osainvestointisuunnitelma 2027-2030",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026725-6",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026725-6.PDF",
+   "diary_number": "ÖVPH/1895/00.01.01/2026",
+   "preparer": "Lindström Torbjörn; Lisätietoja: puhelinnumero: (vaihde); Hyvinvointialueita koskee velvollisuus laatia investointisuunnitelma sosiaali- ja terveysministeriön ja sisäministeriön hyväksyttäväksi ja hyvinvointialueiden investointeja rajoittaa valtioneuvoston vahvistama lainanottovaltuus. Tarkoituksena",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksytään päätösesityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Lindström Torbjörn\n\nLisätietoja: puhelinnumero: (vaihde)\n\nHyvinvointialueita koskee velvollisuus laatia investointisuunnitelma sosiaali- ja terveysministeriön ja sisäministeriön hyväksyttäväksi ja hyvinvointialueiden investointeja rajoittaa valtioneuvoston vahvistama lainanottovaltuus. Tarkoituksena on varmistaa, että hyvinvointialue suunnittelee investoinnit taloudellisesti kestävästi siten, että niihin käytettävissä oleva rahoitus riittää ja että hyvinvointialueiden laajoja investointeja koskevat hankkeet suunnitellaan valtakunnallisten strategisten tavoitteiden mukaisesti ja kustannusvaikuttavasti huomioiden muiden hyvinvointialueiden vastaavat suunnitelmat sekä väestön palvelutarpeet. Hyvinvointialueen rahoituksen riittävyys varmistetaan vuosittain vahvistettavalla investointeja varten otettavan pitkäaikaisen lainan ottamista koskevalla rajoitteella. Investointisuunnitelma on hyväksyttävä, jos järjestämislakien mukaiset hylkäämisen kriteerit eivät täyty.\n\nHyvinvointialueen hallintosäännön 24 § mukaan, pelastustoimen jaoston tulee tehdä esitys hyvinvointialueen investointisuunnitelman pelastustoimea koskevasta osasta (pelastustoi-men osasuunnitelma).\n\nPelastuslaitos on laatinut ehdotuksen pelastustoimen osainvestointisuunnitelmaksi vuosille 2027-2030. Suunnitelman tavoitteena on ylläpitää nykyistä kalustotasoa ja uusia vanhaa kalustoa, mitä ei ole enää tarkoituksenmukaista ylläpitää tai on esim. työsuojelua ajatellen tarpeen uusia. Tämä koskee niin auto- kuin venekalustoa sekä esim. väestönvaroittimia. Pelastuslaitos panostaa jatkuvan toiminnan varmistamiseen sekä varautumiseen. Investointisuunnitelma esitellään kokouksessa.\n\nPelastusjohtaja Lindström Torbjörn\n\nehdottaa, että pelastustoimen jaos hyväksyy esitetyn ehdotuksen pelastuslaitoksen osainvestointisuunnitelmaksi vuosille 2027-2030, käytettäväksi edelleen Hyvinvointialueen talousarviokäsittelyssä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksytään päätösesityksen mukaan."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nRäddningsverket investeringsplan 2027-2030 Pelastuslaitos investointisuunnitelma\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Räddningsverket investeringsplan 2027-2030 Pelastuslaitos investointisuunnitelma",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026725-6-93793.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "7",
+   "title": "Pohjanmaan hyvinvointialueen pelastustoimen palvelutasopäätös",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026725-7",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026725-7.PDF",
+   "diary_number": "ÖVPH/7189/00.01.02.01/2025",
+   "preparer": "Nyqvist Thomas; Lisätietoja: puhelinnumero: (vaihde); Pelastustoimen jaosto päätti kokouksessaan 11.9.2025 § 19, että pelastuslaitos aloittaa Pohjanmaan hyvinvointialueen uuden määräaikaisen palvelutason päätöksen valmistelun. Pelastuslaitos esittelee jaoston kokouksessa 26.11.2025 tilannekatsauksen",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Merkittiin tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pelastustoimen jaosto 26.11.2025 § 36"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Nyqvist Thomas\n\nLisätietoja: puhelinnumero: (vaihde)\n\nPelastustoimen jaosto päätti kokouksessaan 11.9.2025 § 19, että pelastuslaitos aloittaa Pohjanmaan hyvinvointialueen uuden määräaikaisen palvelutason päätöksen valmistelun. Pelastuslaitos esittelee jaoston kokouksessa 26.11.2025 tilannekatsauksen nykyisestä palvelutasopäätöksestä.\n\nNykyinen palvelutason päätös on julkaistu Pohjanmaan hyvinvointialueen verkkosivuilla https://osterbottensvalfard.fi/vara-tjanster/raddningsverket/serviceniva/.\n\nLänsi- ja Sisä-Suomen aluehallintovirasto on julkaissut 21.10.2025 asiantuntija-arvionsa Pelastustoimen palvelut Pohjanmaan hyvinvointialueella 2024. Asiantuntija-arvio on liitetty taustamateriaalina nykyisen palvelutasopäätöksen tilannekatsaukseen.\n\nPelastusjohtaja Lindström Torbjörn\n\nehdottaa, että pelastuslaitoksen virkamiehet esittävät kokouksessa arvion nykyisestä palvelutasopäätöksestä. Tilannekatsaus ja arvio nykyisestä palvelutasopäätöksestä käsitellään kokouksessa ja merkitään tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkittiin tiedoksi.\n\nJakelu"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Nyqvist Thomas\n\nLisätietoja: puhelinnumero: (vaihde)\n\nPalvelutasopäätöstyön tilanne on, että palvelutastopäätöstekstien kirjoittaminen on käynnissä tulosalueilla. Riskianalyysin osalta tilanne on, että poikkeusolojen riskianalyysi on ajantasalla. Päivittäisten onnettomuuksien ja häiriötilanteiden riskianalyysin päivitys on vielä kesken ja tulee olemaan valmis huhtikuun loppuun mennessä. Riskianalyysit ovat salassa pidettäviä asiakirjoja.\n\nAikatauluna on, että esitys uudeksi määräaikaiseksi palvelutasopäätökseksi käsitellään jaoston seuraavassa kokouksessa 29.10.2026, jolloin aluehallitus ja -valtuusto ehtivät käsittelemään palvelutasopäätöstä ennen vuodenvaihdetta. Ennen jaoston kokousta pitää saada LVV:n lausunto palvelutasopäätösesityksestä.\n\nNykyinen palvelutason päätös on julkaistu Pohjanmaan hyvinvointialueen verkkosivuilla https://osterbottensvalfard.fi/vara-tjanster/raddningsverket/serviceniva/.\n\nPelastusjohtaja Lindström Torbjörn\n\nehdottaa, että palvelutasopäätösvalmistelun tilannekatsaus käsitellään kokouksessa ja merkitään tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkittiin tiedoksi."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nAsiantuntija-arvio Pohjanmaa 2025\n\nJakelu"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "8",
+   "title": "Uusi paloasema",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026725-8",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026725-8.PDF",
+   "diary_number": "ÖVPH/2361/09.05.02.00/2026",
+   "preparer": "Lindström Torbjörn; Lisätietoja: puhelinnumero: (vaihde); Hyvinvointialueen pelastustoimen palvelutason tulee vastata valtakunnallisia, alueellisia ja paikallisia tarpeita sekä onnettomuus- ja muita riskejä (Laki pelastustoimen järjestämisestä 613/2021).; Toimintavalmiudella tarkoitetaan pelastustoi",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksytään päätösesityksen mukaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Lindström Torbjörn\n\nLisätietoja: puhelinnumero: (vaihde)\n\nHyvinvointialueen pelastustoimen palvelutason tulee vastata valtakunnallisia, alueellisia ja paikallisia tarpeita sekä onnettomuus- ja muita riskejä (Laki pelastustoimen järjestämisestä 613/2021).\n\nToimintavalmiudella tarkoitetaan pelastustoimen riskianalyysin perusteella edellytettyä kykyä torjua onnettomuuksien vaikutuksia ja leviämistä. Pelastustoiminnan toimintavalmius koostuu toimintavalmiusajasta ja suorituskyvystä (Ohje pelastustoimen toimintavalmiuden suunnitteluun 2025:16). Toimintavalmiuden suunnittelu tulee tehdä sisäministeriön julkaisun 2025:16 mukaisesti.\n\nPohjanmaan hyvinvointialueen pelastustoimen palvelutasopäätöksen 2024-2026 mukaan on määritelty enimmäisajat minuutteina ensimmäisen yksikön toimintavalmiusajalle sekä pelastustoiminnan toimintavalmiusajalle, jotka vaihtelevat riskiruudun luokan mukaan. Jo aiempina vuosina on todettu haasteita täyttää toimintavalmiusaikavaatimukset Vaasan itäosissa. Pelastuslaitos teki vuonna 2018 selvityksen, joka osoitti, että paloasema voitaisiin sijoittaa Lisanlehtoon tuolloin havaittujen ongelmien ratkaisemiseksi. Paloaseman suunnittelua ei kuitenkaan aloitettu, koska tuolloin keskityttiin uuden pääpaloaseman suunnitteluun.\n\nVuonna 2018 tehdyn selvityksen jälkeen sitovissa ohjeissa ja toimintaympäristössä on tapahtunut merkittäviä muutoksia. Pelastustoimen toimintavalmiuden suunnittelua koskeva sitova ohje on päivitetty, ja vihreä siirtymä lisää pelastustoimen palvelutarvetta kaakkoon päin (GigaVaasa, Vikby II). Suunnitteilla olevat uudet tieyhteydet, Vaasan satamatie sekä Vikby-Martoinen maantieyhteys, parantavat pelastustoimen mahdollisuuksia saavuttaa useita alueita nopeasti. Lisäksi Vaasan uuden pääpaloaseman sijainti vastaa osaltaan aiempiin toimintavalmiusaikojen täyttämiseen liittyviin haasteisiin.\n\nAiemmin suunniteltu sijainti Lisanlehdossa ei ole enää optimaalinen, ja pelastuslaitos ehdottaa uusien tehtyjen selvitysten perusteella, että käynnistetään uuden paloaseman suunnittelu Vikbyhyn, valtateiden 3 ja 8 risteyksen läheisyyteen.\n\nPelastusjohtaja Lindström Torbjörn\n\nehdottaa, että jaosto hyväksyy ja esittää hyvinvointialuehallitukselle uuden paloaseman suunnittelun käynnistämistä Vikbyn alueella. Suunnittelussa tulee huomioida, että investointipäätöksissä hyväksytty 25 miljoonan euron määräraha pääpaloasemalle ja paloasemalle ei ylity."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksytään päätösesityksen mukaan."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Jakelu"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "9",
+   "title": "Muut mahdolliset asiat",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026725-9",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026725-9.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Merkittiin tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pohjanmaan hyvinvointialueen hallintosäännön 160 §:n mukaan asiat päätetään kokouksissa viranhaltijan esittelystä. Hallintosäännön 159 §:n mukaan toimielin voi esittelijän tai jäsenen ehdotuksesta, jota on kannatettu, ottaa enemmistöpäätöksellä käsiteltäväksi asian, jota ei ole mainittu kokouskutsussa.\n\nPykälän kohdalla voidaan esimerkiksi jakaa tietoa, ilmoittaa asioista, tehdä aloitteita ja esittää kysymyksiä.\n\n- Pohjanmaan hyvinvointialueen pelastustoimen varautumista ja väestönsuojeluun varautumista koskeva valvontamenettely päättyy.\n\no Länsi- ja Sisä-Suomen aluehallintovirasto määräsi Pohjanmaan hyvinvointialueen pelastustoimen varautumisen ja väestönsuojeluun varautumisen valvonnassa havaitut huomattavat puutteet korjattavaksi päätöksellään LSSAVI/15793/2023 28.2.2025.\n\no Lupa ja valvontavirasto toteaa Pohjanmaan pelastuslaitoksen selvitysten saapuneen määräajassa ja ne vastasivat määräyksessä annettuihin vaatimuksiin. Lisäksi todetaan, että Pohjanmaan hyvinvointialueen pelastuslaitoksen pelastustoimen varautumisen ja väestönsuojeluun liittyvä suunnittelu on näiltä osin saatettu ajan tasalle. Asia ei anna Lupa- ja valvontavirastolle aihetta enempään ja Pohjanmaan hyvinvointialueen pelastustoimen varautumista ja väestönsuojeluun varautumista koskeva valvontamenettely päättyy."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkittiin tiedoksi."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "2026_02_04, PO, asian päättäminen, työversio (2)",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026725-9-88720.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "10",
+   "title": "Kokouksen päättäminen",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026725-10",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026725-10.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Kokouksen päättäminen klo 12.29.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen päättäminen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokouksen päättäminen klo 12.29."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Bystedt Rainer",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Söder Walter",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Jerkku Sven",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Åminne Erica",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Backull Ann-Britt",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Ingo Jenni",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hjulfors-Sundqvist Maria",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Berts Johan",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Remahl Peter",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Ekman Charlotta",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kujala Sami",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Aro Erkki",
+   "role": "vanhusneuvoston edustaja",
+   "group": "other"
+  },
+  {
+   "name": "Lindström Torbjörn",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Dahlström Peter",
+   "role": "sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Rönnholm Viivi",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Nyqvist Thomas",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Gref Dan",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Östman Linus",
+   "role": "asiantuntija",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026725",
+  "fetched_at": "2026-10-14T17:32:20+00:00",
+  "content_hash": "02d720a6bff48560",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T17:32:20+00:00"
+ }
+}

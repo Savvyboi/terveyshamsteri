@@ -1,0 +1,562 @@
+{
+ "id": "aluehallitus/2025-12-22",
+ "region": "pohjois-savo",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2025-12-22",
+ "stage": "minutes",
+ "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025904",
+ "pdf_url": "https://pshva.oncloudos.com/kokous/2025904.PDF",
+ "time": "16:00 - 16:44",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "488",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025904-1",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025904-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.",
+   "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen laillisuus ja päätösvaltaisuus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokous todettiin lailliseksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "489",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025904-2",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025904-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Heikki Miettinen ja Juha Pitkänen.",
+   "decision": "Pöytäkirjantarkastajiksi valittiin Heikki Miettinen ja Juha Pitkänen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pöytäkirjantarkastajien valinta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Heikki Miettinen ja Juha Pitkänen."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Heikki Miettinen ja Juha Pitkänen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "490",
+   "title": "Asioiden käsittelyjärjestys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025904-3",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025904-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi.",
+   "decision": "Merkitään pöytäkirjaan, että: - § 491 käsitellään § 497 jälkeen. Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asioiden käsittelyjärjestys"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että: - § 491 käsitellään § 497 jälkeen. Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "491",
+   "title": "Aluevaltuuston 22.12.2025 täytäntöönpanot",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025904-4",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025904-4.PDF",
+   "diary_number": "93/00.01.02.00/2022",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää, että aluevaltuuston 22.12.2025 tekemiä päätöksiä ei ole tehty virheellisessä järjestyksessä eivätkä ne mene valtuuston toimivaltaa ulommaksi tai ei ole muutoin lainvastaisia sekä laittaa ne täytäntöön kokouksessa todetun mukaisesti.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nHyvinvointialueesta annetun lain 43 §:n mukaan aluehallituksen tulee vastata aluevaltuuston päätösten valmistelusta, täytäntöönpanosta ja laillisuuden valvonnasta.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää, että aluevaltuuston 22.12.2025 tekemiä päätöksiä ei ole tehty virheellisessä järjestyksessä eivätkä ne mene valtuuston toimivaltaa ulommaksi tai ei ole muutoin lainvastaisia sekä laittaa ne täytäntöön kokouksessa todetun mukaisesti.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nHyvinvointialueesta annetun lain 43 §:n mukaan aluehallituksen tulee vastata aluevaltuuston päätösten valmistelusta, täytäntöönpanosta ja laillisuuden valvonnasta."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "492",
+   "title": "Perhehoidon palkkioiden ja kulukorvauksien vahvistaminen vuodelle 2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025904-5",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025904-5.PDF",
+   "diary_number": "6648/02.05.00.00/2025",
+   "preparer": "Hanna Jokinen, Katja Rautiainen; , Sanna Suomi; Kati Kantanen; , Mikko Korhonen",
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää vahvistaa 1.1.2026 lähtien perhehoidon hoitopalkkioiden, kulukorvausten, käynnistämiskorvausten osalta indeksitarkistukset seuraavasti:• Lasten ja nuorten perhehoidon, vaativan sijaisperhehoidon (III, IV ja V) ja lyhytaikaisen perhehoidon hoitopalkkioihin sekä Lype-päivystysringin varallaolopalkkioihin sekä vähimmäishoitopalkkioihin ja tukiperhehoitoon perustuviin palkkioihin 2,33 prosentin indeksikorotus• Ikääntyneiden pitkäaikaisen (1 ja 2), lyhytaikaisen ja osavuorokautisen perhehoidon hoitopalkkioihin 2,33 prosentin indeksikorotus• Vammaispalvelujen pitkäaikaisen, lyhytaikaisen ja osavuorokautisen perhehoidon hoitopalkkioihin 2,33 prosentin indeksikorotus\n\n• Lasten ja nuorten, vammaisten ja ikääntyneiden perhehoidon käynnistämiskorvauksen enimmäismäärä 3558,60 euroa perhehoidossa olevaa henkilöä kohti.\n\nAluehallitus päättää pitää lasten ja nuorten, vammaisten ja ikääntyneiden perhehoidon ja lasten ja nuorten tukiperhehoidon kulukorvaukset ennallaan.\n\nAluehallitus päättää vahvistaa 1.1.2026 lähtien ikääntyneiden perhehoidon palkkiot tasokorotuksen mukaisesti osavuorokautinen perhehoidon, perhehoitajan sijaistamisesta maksettavan palkkion ja asiakkaan kodissa tapahtuvan perhehoidon palkkion osalta liitteen mukaisesti. Aluehallitus päättää vahvistaa 1.1.2026 lähtien lasten ja nuorten perhehoitoon liittyvät asiantuntijapalkkiot liitteen mukaisesti sekä lasten ja nuorten perhehoidossa ja tukiperhehoidossa kilometrikorvauksen 1.1.26 lähtien liitteen mukaisesti.\n\nAluehallitus päättää, että vammaispalveluissa otetaan käyttöön uutena palkkiona 1.1.2026 alkaen kiertävän perhehoitajan palkkio.\n\nEnnakkovaikutusten arviointi\n\nPerhehoidon palkkioiden ja kulukorvausten indeksikorotusten hyväksymisellä turvataan palkkioiden lainmukainen ajantasaisuus.\n\nPohjois-Savon hyvinvointialueella on määritelty, milloin on tehtävä määrämuotoinen ennakkovaikutusten arviointi. Nyt kyseessä olevaan päätökseen ei sisälly ennakkovaikutusten arviointia edellyttäviä vaikutuksia, sillä kyseessä lakisääteisiin korotuksiin perustuvien palkkioiden ja korvausten hyväksyminen. Siltä osin, kuin\n\nToimivallan peruste\nHallintosääntö § 36 kohta1 ja hallituksen yleistoimivalta\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nIkääntyneiden palvelujen perhehoidon palkkiot ja korvaukset 2026\n\nLasten ja nuorten perhehoidon ja tukiperhehoidon palkkiot ja korvaukset 2026\n\nVammaispalvelujen perhehoidon palkkiot ja korvaukset 2026\n\nEsityslistan oheisaineistona:\n\nSosiaali- ja terveysministeriön ohjausasiakirja 28.11.2025 VN/35233/2023, perhehoidon palkkiot ja korvaukset 2026\n\nValmistelu\nSosiaali- ja terveysministeriö on antanut 28.11.2025 ohjeen perhehoidon palkkioista ja korvauksista sekä niihin tehtävistä indeksikorotuksista 1.1.2026 lähtien. Perhehoitolain (263/2015) 16 §:n mukaista hoitopalkkiota tarkistetaan kalenterivuosittain työntekijän eläkelain (395/2006) 96 §:ssä tarkoitetulla palkkakertoimella. Vuodelle 2025 vahvistettu palkkakerroin on 1,673 ja vuodelle 2026 vahvistettu palkkakerroin 1,712 jolloin vähimmäismääräiset hoitopalkkiot nousevat 1.1.2026 lukien vuoden 2025 tasosta 2,33 prosenttia.\n\nHoitopalkkion vähimmäismäärä vuonna 2026 on 966,35 euroa. Jos hoitopalkkion on sovittu toimeksiantosopimuksessa vähimmäismäärää suuremmaksi tai pienemmäksi, korotetaan hoitopalkkiota indeksitarkastuksen johdosta 1.1.2026 lukien 2,33 prosenttia.\n\nPerhehoitajille maksettavia kulukorvauksia ja käynnistämiskorvauksia tulee perhehoitolain 19 §:n mukaan tarkistaa kalenterivuosittain vuoden alusta elinkustannusindeksi (lokakuu 1951=100) edellisen vuoden lokakuun vuosimuutoksen mukaisesti. Elinkustannusindeksin pisteluku lokakuussa 2024 oli 2343 ja lokakuussa 2025 se oli 2338. Indeksin pisteluku on laskenut noin 0,21 prosenttia. Perhehoitolain mukaisten korvausten vähimmäismäärää tulee nyt tarkistaa elinkustannusindeksin muutosta vastaavasti.\n\nPerhehoitolain 17 §:n mukaisten kulukorvausten vähimmäismäärä on 1.1.2026 alkaen 501,10 euroa. Myös muita kuin vähimmäismääräisiä kulukorvauksia tulee tarkistaa elinkustannusindeksin pisteluvun muutosta vastaavasti 1.1.2026 alkaen.\n\nPohjois-Savon hyvinvointialueella nykyiset kulukorvauksen määrät ylittävät kulukorvausten vähimmäismäärän ja indeksin pisteluvun vaikutus kulukorvaukseen on keskimäärin noin 1,50 €/kuukaudessa kokoaikaisesta perhehoidosta ja vähäisempi lyhytaikaisesta ja osavuorokautisesta perhehoidosta. Tämänhetkiset toimeksiantosopimusten sisällöt eivät perhe- ja vammaispalveluissa suoraan tunnista kulukorvauksen alentamisen mahdollisuutta alenevan indeksin vaikutuksesta ja sopimukset sisältävät tiedon kulukorvauksen määrästä, minkä johdosta sopimuksia tulisi muuttaa osapuolien yhteisellä sopimuksella tai soveltamalla irtisanomismenettelyä. Perhe- ja vammaispaleluiden toimialalla myös R3-palvelujärjestelmän uudistusohjelman mukaisena tavoitteena on perhehoidon suhteellisen osuuden lisääminen ja siten myös perhehoidon järjestämisedellytysten vahvistaminen. Edellä kuvatuin perustein ja Pohjois-Savon hyvinvointialueen perhehoitajien yhdenvertaisen kohtelun turvaamiseksi kulukorvaukset esitetään pysytettäväksi vuoden 2025 tasossa.\n\nMyös perhehoitolain 18 §:n mukaisen käynnistämiskorvauksen enimmäismäärä tulee tarkistaa elinkustannusindeksin pisteluvun muutosta vastaavasti. Käynnistämiskorvauksen enimmäismäärä on 1.1.2026 alkaen 3558,60 euroa perhehoidossa olevaa henkilöä kohti.\n\nPohjois-Savon hyvinvointialueella perhehoidon hoitopalkkioiden, kulukorvausten ja käynnistämiskorvausten osalta vuoden 2025 määrät on vahvistanut aluehallitus kokouksessaan 18.12.2024.\n\nIndeksikorotukset tulee tehdä seuraaviin palkkoihin ja korvauksiin:\n\n Lasten ja nuorten perhehoito ja perhehoidon palkkioihin perustuva tukiperhehoito, hoitopalkkiot\n\n Perushoitopalkkio ja 30 % korotettu hoitopalkkio\n\n Vaativa sijaisperhehoito III, IV, V\n\n Lyhytaikaisen perhehoidon hoitopalkkio\n\n Lype-päivystysringin varallaolopalkkio ja korotettu varallaolopalkkio\n\n Hoitopalkkio, joka maksetaan lapsen tarpeiden perusteella ansiotyöstä poissaolon ajalta\n\n Tukiperhepalkkiot, maksuluokat I-VI\n\n Ikääntyneiden perhehoito perhehoitajan kodissa tai asiakkaan kodissa toteutettuun perhehoitoon\n\n Pitkäaikainen perhehoito, maksuluokka 1 ja 2\n\n Lyhytaikainen perhehoito\n\n Osavuorokautinen perhehoito\n\n 30 % korotettu hoitopalkkio\n\n Vammaispalvelujen pitkäaikaisen, lyhytaikaisen ja osavuorokautisen perhehoidon palkkiot, maksuluokat 1, 2 ja 3\n\n Kulukorvaukset lasten ja nuorten, vammaisten ja ikääntyneiden perhehoitoon sekä lasten ja nuorten tukiperhehoitoon: kuukausittaiseen kulukorvaukseen perustuvat korvaukset sekä kilometrikorvaukset verohallinnon vuodelle 2026 hyväksymän verovapaiden matkakorvausten tason mukaisena\n\n Käynnistämiskorvauksen enimmäismäärä lasten ja nuorten, vammaisten ja ikääntyneiden perhehoitoon\n\nOsana lasten ja nuorten perhehoidon tuen toimintaa on organisoitu myös vertais- ja kokemustoimintaa lastensuojelun sijaishuoltoon liittyen. Tämän johdosta Lasten ja nuorten perhehoidon hoitopalkkioista ja kulukorvauksista laaditulla liitteellä on lisäksi määritelty joitakin asiantuntijapalkkioita vakiintuneiden toimintamuotojen mahdollistamiseksi. Voikukkia- ja perhehoidon mentoritoiminnan palkkiotaso perustuu koulutettujen kokemustoimijoiden palkkioista annettuihin suosituksiin ja käytössä olleeseen palkkiotasoon, jolla turvataan kokemustoimijoiden saatavuutta. Mainittuihin asiantuntijapalkkioihin on tehty vuodelle 2026 edellä kuvatun mukaiset indeksikorotukset ja kyseisiä palkkio- ja korvausmuotoja voidaan käyttää vain sosiaalihuollon asiakkaan tuen tarpeen perusteella järjestettävässä vertais- tai tukitoiminnassa lastensuojelupalveluissa.\n\nVammaispalveluissa otetaan uutena palkkiona käyttöön 1.1.2026 alkaen kiertävän perhehoitajan palkkio asiakkaan kodissa toteutettavassa perhehoidossa.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelijat",
+     "text": "Hanna Jokinen, Katja Rautiainen\n\n, Sanna Suomi\n\nKati Kantanen\n\n, Mikko Korhonen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää vahvistaa 1.1.2026 lähtien perhehoidon hoitopalkkioiden, kulukorvausten, käynnistämiskorvausten osalta indeksitarkistukset seuraavasti:• Lasten ja nuorten perhehoidon, vaativan sijaisperhehoidon (III, IV ja V) ja lyhytaikaisen perhehoidon hoitopalkkioihin sekä Lype-päivystysringin varallaolopalkkioihin sekä vähimmäishoitopalkkioihin ja tukiperhehoitoon perustuviin palkkioihin 2,33 prosentin indeksikorotus• Ikääntyneiden pitkäaikaisen (1 ja 2), lyhytaikaisen ja osavuorokautisen perhehoidon hoitopalkkioihin 2,33 prosentin indeksikorotus• Vammaispalvelujen pitkäaikaisen, lyhytaikaisen ja osavuorokautisen perhehoidon hoitopalkkioihin 2,33 prosentin indeksikorotus\n\n• Lasten ja nuorten, vammaisten ja ikääntyneiden perhehoidon käynnistämiskorvauksen enimmäismäärä 3558,60 euroa perhehoidossa olevaa henkilöä kohti.\n\nAluehallitus päättää pitää lasten ja nuorten, vammaisten ja ikääntyneiden perhehoidon ja lasten ja nuorten tukiperhehoidon kulukorvaukset ennallaan.\n\nAluehallitus päättää vahvistaa 1.1.2026 lähtien ikääntyneiden perhehoidon palkkiot tasokorotuksen mukaisesti osavuorokautinen perhehoidon, perhehoitajan sijaistamisesta maksettavan palkkion ja asiakkaan kodissa tapahtuvan perhehoidon palkkion osalta liitteen mukaisesti. Aluehallitus päättää vahvistaa 1.1.2026 lähtien lasten ja nuorten perhehoitoon liittyvät asiantuntijapalkkiot liitteen mukaisesti sekä lasten ja nuorten perhehoidossa ja tukiperhehoidossa kilometrikorvauksen 1.1.26 lähtien liitteen mukaisesti.\n\nAluehallitus päättää, että vammaispalveluissa otetaan käyttöön uutena palkkiona 1.1.2026 alkaen kiertävän perhehoitajan palkkio.\n\nEnnakkovaikutusten arviointi\n\nPerhehoidon palkkioiden ja kulukorvausten indeksikorotusten hyväksymisellä turvataan palkkioiden lainmukainen ajantasaisuus.\n\nPohjois-Savon hyvinvointialueella on määritelty, milloin on tehtävä määrämuotoinen ennakkovaikutusten arviointi. Nyt kyseessä olevaan päätökseen ei sisälly ennakkovaikutusten arviointia edellyttäviä vaikutuksia, sillä kyseessä lakisääteisiin korotuksiin perustuvien palkkioiden ja korvausten hyväksyminen. Siltä osin, kuin\n\nToimivallan peruste\nHallintosääntö § 36 kohta1 ja hallituksen yleistoimivalta\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nIkääntyneiden palvelujen perhehoidon palkkiot ja korvaukset 2026\n\nLasten ja nuorten perhehoidon ja tukiperhehoidon palkkiot ja korvaukset 2026\n\nVammaispalvelujen perhehoidon palkkiot ja korvaukset 2026\n\nEsityslistan oheisaineistona:\n\nSosiaali- ja terveysministeriön ohjausasiakirja 28.11.2025 VN/35233/2023, perhehoidon palkkiot ja korvaukset 2026\n\nValmistelu\nSosiaali- ja terveysministeriö on antanut 28.11.2025 ohjeen perhehoidon palkkioista ja korvauksista sekä niihin tehtävistä indeksikorotuksista 1.1.2026 lähtien. Perhehoitolain (263/2015) 16 §:n mukaista hoitopalkkiota tarkistetaan kalenterivuosittain työntekijän eläkelain (395/2006) 96 §:ssä tarkoitetulla palkkakertoimella. Vuodelle 2025 vahvistettu palkkakerroin on 1,673 ja vuodelle 2026 vahvistettu palkkakerroin 1,712 jolloin vähimmäismääräiset hoitopalkkiot nousevat 1.1.2026 lukien vuoden 2025 tasosta 2,33 prosenttia.\n\nHoitopalkkion vähimmäismäärä vuonna 2026 on 966,35 euroa. Jos hoitopalkkion on sovittu toimeksiantosopimuksessa vähimmäismäärää suuremmaksi tai pienemmäksi, korotetaan hoitopalkkiota indeksitarkastuksen johdosta 1.1.2026 lukien 2,33 prosenttia.\n\nPerhehoitajille maksettavia kulukorvauksia ja käynnistämiskorvauksia tulee perhehoitolain 19 §:n mukaan tarkistaa kalenterivuosittain vuoden alusta elinkustannusindeksi (lokakuu 1951=100) edellisen vuoden lokakuun vuosimuutoksen mukaisesti. Elinkustannusindeksin pisteluku lokakuussa 2024 oli 2343 ja lokakuussa 2025 se oli 2338. Indeksin pisteluku on laskenut noin 0,21 prosenttia. Perhehoitolain mukaisten korvausten vähimmäismäärää tulee nyt tarkistaa elinkustannusindeksin muutosta vastaavasti.\n\nPerhehoitolain 17 §:n mukaisten kulukorvausten vähimmäismäärä on 1.1.2026 alkaen 501,10 euroa. Myös muita kuin vähimmäismääräisiä kulukorvauksia tulee tarkistaa elinkustannusindeksin pisteluvun muutosta vastaavasti 1.1.2026 alkaen.\n\nPohjois-Savon hyvinvointialueella nykyiset kulukorvauksen määrät ylittävät kulukorvausten vähimmäismäärän ja indeksin pisteluvun vaikutus kulukorvaukseen on keskimäärin noin 1,50 €/kuukaudessa kokoaikaisesta perhehoidosta ja vähäisempi lyhytaikaisesta ja osavuorokautisesta perhehoidosta. Tämänhetkiset toimeksiantosopimusten sisällöt eivät perhe- ja vammaispalveluissa suoraan tunnista kulukorvauksen alentamisen mahdollisuutta alenevan indeksin vaikutuksesta ja sopimukset sisältävät tiedon kulukorvauksen määrästä, minkä johdosta sopimuksia tulisi muuttaa osapuolien yhteisellä sopimuksella tai soveltamalla irtisanomismenettelyä. Perhe- ja vammaispaleluiden toimialalla myös R3-palvelujärjestelmän uudistusohjelman mukaisena tavoitteena on perhehoidon suhteellisen osuuden lisääminen ja siten myös perhehoidon järjestämisedellytysten vahvistaminen. Edellä kuvatuin perustein ja Pohjois-Savon hyvinvointialueen perhehoitajien yhdenvertaisen kohtelun turvaamiseksi kulukorvaukset esitetään pysytettäväksi vuoden 2025 tasossa.\n\nMyös perhehoitolain 18 §:n mukaisen käynnistämiskorvauksen enimmäismäärä tulee tarkistaa elinkustannusindeksin pisteluvun muutosta vastaavasti. Käynnistämiskorvauksen enimmäismäärä on 1.1.2026 alkaen 3558,60 euroa perhehoidossa olevaa henkilöä kohti.\n\nPohjois-Savon hyvinvointialueella perhehoidon hoitopalkkioiden, kulukorvausten ja käynnistämiskorvausten osalta vuoden 2025 määrät on vahvistanut aluehallitus kokouksessaan 18.12.2024.\n\nIndeksikorotukset tulee tehdä seuraaviin palkkoihin ja korvauksiin:\n\n Lasten ja nuorten perhehoito ja perhehoidon palkkioihin perustuva tukiperhehoito, hoitopalkkiot\n\n Perushoitopalkkio ja 30 % korotettu hoitopalkkio\n\n Vaativa sijaisperhehoito III, IV, V\n\n Lyhytaikaisen perhehoidon hoitopalkkio\n\n Lype-päivystysringin varallaolopalkkio ja korotettu varallaolopalkkio\n\n Hoitopalkkio, joka maksetaan lapsen tarpeiden perusteella ansiotyöstä poissaolon ajalta\n\n Tukiperhepalkkiot, maksuluokat I-VI\n\n Ikääntyneiden perhehoito perhehoitajan kodissa tai asiakkaan kodissa toteutettuun perhehoitoon\n\n Pitkäaikainen perhehoito, maksuluokka 1 ja 2\n\n Lyhytaikainen perhehoito\n\n Osavuorokautinen perhehoito\n\n 30 % korotettu hoitopalkkio\n\n Vammaispalvelujen pitkäaikaisen, lyhytaikaisen ja osavuorokautisen perhehoidon palkkiot, maksuluokat 1, 2 ja 3\n\n Kulukorvaukset lasten ja nuorten, vammaisten ja ikääntyneiden perhehoitoon sekä lasten ja nuorten tukiperhehoitoon: kuukausittaiseen kulukorvaukseen perustuvat korvaukset sekä kilometrikorvaukset verohallinnon vuodelle 2026 hyväksymän verovapaiden matkakorvausten tason mukaisena\n\n Käynnistämiskorvauksen enimmäismäärä lasten ja nuorten, vammaisten ja ikääntyneiden perhehoitoon\n\nOsana lasten ja nuorten perhehoidon tuen toimintaa on organisoitu myös vertais- ja kokemustoimintaa lastensuojelun sijaishuoltoon liittyen. Tämän johdosta Lasten ja nuorten perhehoidon hoitopalkkioista ja kulukorvauksista laaditulla liitteellä on lisäksi määritelty joitakin asiantuntijapalkkioita vakiintuneiden toimintamuotojen mahdollistamiseksi. Voikukkia- ja perhehoidon mentoritoiminnan palkkiotaso perustuu koulutettujen kokemustoimijoiden palkkioista annettuihin suosituksiin ja käytössä olleeseen palkkiotasoon, jolla turvataan kokemustoimijoiden saatavuutta. Mainittuihin asiantuntijapalkkioihin on tehty vuodelle 2026 edellä kuvatun mukaiset indeksikorotukset ja kyseisiä palkkio- ja korvausmuotoja voidaan käyttää vain sosiaalihuollon asiakkaan tuen tarpeen perusteella järjestettävässä vertais- tai tukitoiminnassa lastensuojelupalveluissa.\n\nVammaispalveluissa otetaan uutena palkkiona käyttöön 1.1.2026 alkaen kiertävän perhehoitajan palkkio asiakkaan kodissa toteutettavassa perhehoidossa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Vammaispalvelujen perhehoidon palkkiot ja kulukorvaukset PSHVA 2025",
+     "url": "https://pshva.oncloudos.com/kokous/2025904-5-226950.PDF"
+    },
+    {
+     "title": "Liite 2 Ikäihmisten perhehoidon palkkiot ja kulukorvaus 2026",
+     "url": "https://pshva.oncloudos.com/kokous/2025904-5-226954.PDF"
+    },
+    {
+     "title": "Liite 3 Lasten ja nuorten perhehoidon ja tukiperhehoidon palkkiot ja korvaukset v. 2026 (1) (1)",
+     "url": "https://pshva.oncloudos.com/kokous/2025904-5-227530.PDF"
+    },
+    {
+     "title": "Oheismateriaali 1 Sosiaali- ja terveysministeriön ohje, perhehoidon palkkiot ja korvaukset 2026",
+     "url": "https://pshva.oncloudos.com/kokous/2025904-5-225086.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "493",
+   "title": "Omaishoidon tuen hoitopalkkiot ja sijaishoitopalkkiot 1.1.2026 alkaen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025904-6",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025904-6.PDF",
+   "diary_number": "460/00.01.02.00/2022",
+   "preparer": "Hanna Jokinen, Sanna Suomi, Kati Kantanan, Mikko Korhonen",
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää vahvistaa 1.1.2026 alkaen ensimmäisen (1.) hoitopalkkioluokan palkkioksi 530 euroa kuukaudessa.\n\nLisäksi päättää vahvistaa 1.1.2026 alkaen indeksitarkastuksen 2,33 prosenttia omaishoidon tuen muihin hoitopalkkioihin ja sijaishoidon palkkioihin liitteen mukaisesti.\n\nEnnakkovaikutusten arviointi\n\nOmaishoidon tuen hoitopalkkioiden Perhehoidon indeksikorotusten hyväksymisellä turvataan palkkioiden lainmukainen ajantasaisuus.\n\nPohjois-Savon hyvinvointialueella on määritelty, milloin on tehtävä määrämuotoinen ennakkovaikutusten arviointi. Nyt kyseessä olevaan päätökseen ei sisälly ennakkovaikutusten arviointia edellyttäviä vaikutuksia, sillä kyseessä lakisääteisiin korotuksiin perustuvien palkkioiden ja korvausten hyväksyminen.\n\nToimivallan peruste\nHallintosääntö § 36, kohta 1 ja hallituksen yleistoimivalta\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nOmaishoidon tuen hoitopalkkiot ja sijaishoitopalkkiot Pohjois-Savon hyvinvointialueella 2026\n\nEsityslistan oheisaineistona:\n\nSosiaali- ja terveysministeriön ohje, omaishoidon tuen hoitopalkkiot vuonna 2026\n\nValmistelu\nOmaishoitajille maksettavien hoitopalkkioiden määrästä ja alimmista hoitopalkkioista säädetään omaishoidon tuesta annetun lain (937/2005) 5 §:ssä. Lain 6 §:n mukaan hoitopalkkioita tarkistetaan kalenterivuosittain työntekijän eläkelain (395/2006) 96 §:ssä tarkoitetulla palkkakertoimella.\n\nHallitus on esittänyt korotusta omaishoidon tuen vähimmäispalkkioon 1.1.2026 alkaen (Hallituksen esitys eduskunnalle laeiksi omaishoidon tuesta annetun lain 5 §:n ja perhehoitolain 12 §:n muuttamisesta, HE 110/2025 vp). Esityksen mukaan omaishoidon tuen hoitopalkkion vähimmäismääräksi säädetään 1.1.2026 lukien 530 euroa kuukaudessa. Hoidollisesti raskaan siirtymävaiheen aikana maksettava vähimmäismäärä olisi 966 euroa kuukaudessa. Esityksen mukaisia uusia lakisääteisiä vähimmäispalkkiota korotetaan seuraavan kerran palkkakertoimella vuonna 2027.\n\nHoitopalkkion määrän tarkistus tehdään 1.1.2026 lukien vain sellaisiin hoitopalkkioihin, jotka on sovittu palkkion vähimmäismäärää suuremmiksi tai pienemmiksi, ja jotka perustuvat ennen tarkistusajankohtaa voimassa olleeseen omaishoitosopimukseen. Vuodelle 2025 vahvistettu palkkakerroin on 1,673 ja vuodelle 2026 vahvistettu palkkakerroin on 1,712. Vuodelle 2026 vahvistettu palkkakerroin merkitsee hoitopalkkioihin noin 2,33 prosentin korotusta vuoteen 2025 verrattuna. Hyvinvointialue voi järjestää omaishoitajan vapaan tai muun poissaolon aikaisen sijaishoidon tekemällä toimeksiantosopimuksen sijaishoitajan kanssa omaishoidon tuesta annetun lain 4 a §:n perusteella.\n\nHyvinvointialue päättää sijaishoidon hoitopalkkioiden suuruuden. Hoitopalkkioiden noin 2,33 prosentin korotus tehdään 1.1.2026 lukien myös omaishoidon tukena järjestettävän sijaishoidon palkkioihin.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelijat",
+     "text": "Hanna Jokinen, Sanna Suomi, Kati Kantanan, Mikko Korhonen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää vahvistaa 1.1.2026 alkaen ensimmäisen (1.) hoitopalkkioluokan palkkioksi 530 euroa kuukaudessa.\n\nLisäksi päättää vahvistaa 1.1.2026 alkaen indeksitarkastuksen 2,33 prosenttia omaishoidon tuen muihin hoitopalkkioihin ja sijaishoidon palkkioihin liitteen mukaisesti.\n\nEnnakkovaikutusten arviointi\n\nOmaishoidon tuen hoitopalkkioiden Perhehoidon indeksikorotusten hyväksymisellä turvataan palkkioiden lainmukainen ajantasaisuus.\n\nPohjois-Savon hyvinvointialueella on määritelty, milloin on tehtävä määrämuotoinen ennakkovaikutusten arviointi. Nyt kyseessä olevaan päätökseen ei sisälly ennakkovaikutusten arviointia edellyttäviä vaikutuksia, sillä kyseessä lakisääteisiin korotuksiin perustuvien palkkioiden ja korvausten hyväksyminen.\n\nToimivallan peruste\nHallintosääntö § 36, kohta 1 ja hallituksen yleistoimivalta\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nOmaishoidon tuen hoitopalkkiot ja sijaishoitopalkkiot Pohjois-Savon hyvinvointialueella 2026\n\nEsityslistan oheisaineistona:\n\nSosiaali- ja terveysministeriön ohje, omaishoidon tuen hoitopalkkiot vuonna 2026\n\nValmistelu\nOmaishoitajille maksettavien hoitopalkkioiden määrästä ja alimmista hoitopalkkioista säädetään omaishoidon tuesta annetun lain (937/2005) 5 §:ssä. Lain 6 §:n mukaan hoitopalkkioita tarkistetaan kalenterivuosittain työntekijän eläkelain (395/2006) 96 §:ssä tarkoitetulla palkkakertoimella.\n\nHallitus on esittänyt korotusta omaishoidon tuen vähimmäispalkkioon 1.1.2026 alkaen (Hallituksen esitys eduskunnalle laeiksi omaishoidon tuesta annetun lain 5 §:n ja perhehoitolain 12 §:n muuttamisesta, HE 110/2025 vp). Esityksen mukaan omaishoidon tuen hoitopalkkion vähimmäismääräksi säädetään 1.1.2026 lukien 530 euroa kuukaudessa. Hoidollisesti raskaan siirtymävaiheen aikana maksettava vähimmäismäärä olisi 966 euroa kuukaudessa. Esityksen mukaisia uusia lakisääteisiä vähimmäispalkkiota korotetaan seuraavan kerran palkkakertoimella vuonna 2027.\n\nHoitopalkkion määrän tarkistus tehdään 1.1.2026 lukien vain sellaisiin hoitopalkkioihin, jotka on sovittu palkkion vähimmäismäärää suuremmiksi tai pienemmiksi, ja jotka perustuvat ennen tarkistusajankohtaa voimassa olleeseen omaishoitosopimukseen. Vuodelle 2025 vahvistettu palkkakerroin on 1,673 ja vuodelle 2026 vahvistettu palkkakerroin on 1,712. Vuodelle 2026 vahvistettu palkkakerroin merkitsee hoitopalkkioihin noin 2,33 prosentin korotusta vuoteen 2025 verrattuna. Hyvinvointialue voi järjestää omaishoitajan vapaan tai muun poissaolon aikaisen sijaishoidon tekemällä toimeksiantosopimuksen sijaishoitajan kanssa omaishoidon tuesta annetun lain 4 a §:n perusteella.\n\nHyvinvointialue päättää sijaishoidon hoitopalkkioiden suuruuden. Hoitopalkkioiden noin 2,33 prosentin korotus tehdään 1.1.2026 lukien myös omaishoidon tukena järjestettävän sijaishoidon palkkioihin."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Omaishoidon tuen hoitopalkkiot ja sijaishoitopalkkiot Pohjois-Savon hyvinvointialueella 2026",
+     "url": "https://pshva.oncloudos.com/kokous/2025904-6-225271.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "494",
+   "title": "Viranhaltijapäätösten tarkastaminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025904-7",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025904-7.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Toimielimen puheenjohtaja",
+   "proposal": "Aluehallitus ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Aluehallitus hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 57 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava aluehallitukselle niistä päätöksistä, jotka voidaan ottaa aluehallituksen käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava aluehallituksen alaisten viranhaltijoiden osalta aluehallitukselle.\n\nAluehallituksen alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa aluehallituksen puheenjohtajalle ja hyvinvointialuejohtajalle.\n\nAluehallitukselle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 2.12.2025-15.12.2025.",
+   "decision": "Kirjoita tekstiä napsauttamalla tai napauttamalla tätä.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Viranhaltijapäätösten tarkastaminen 2.12.-15.12.2025"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kirjoita tekstiä napsauttamalla tai napauttamalla tätä."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Toimielimen puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Aluehallitus hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 57 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava aluehallitukselle niistä päätöksistä, jotka voidaan ottaa aluehallituksen käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava aluehallituksen alaisten viranhaltijoiden osalta aluehallitukselle.\n\nAluehallituksen alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa aluehallituksen puheenjohtajalle ja hyvinvointialuejohtajalle.\n\nAluehallitukselle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 2.12.2025-15.12.2025."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Viranhaltijapäätösluettelo 2.12.-15.12.2025 otsikot",
+     "url": "https://pshva.oncloudos.com/kokous/2025904-7-228543.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "495",
+   "title": "Lautakuntien ja jaostojen päätösten tarkistaminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025904-8",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025904-8.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Toimielimen puheenjohtaja",
+   "proposal": "Aluehallitus ei käytä otto-oikeutta toimielinten päätöksiin. Aluehallitus hyväksyy pöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nPohjois-Savon hyvinvointialueen hallintosäännössä § 57-59 on määritelty otto-oikeuden käytöstä seuraavaa:\n\nAsian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nAluehallituksella ei ole otto-oikeutta hyvinvointialueiden yhteisen toimielimen tekemiin päätöksiin.\n\nAsia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nYlemmän toimielimen käsiteltäväksi ei kuitenkaan saa ottaa:\n\n1) lain tai asetuksen mukaisia lupa-, ilmoitus- tai valvontamenettelyä koskevia asioita\n\n2) yksilöön kohdistuvia terveydenhuollon tai sosiaalitoimen asioita\n\n3) hyvinvointialuelain 54 §:ssä tarkoitetulle hyvinvointialueiden yhteiselle toimielimelle siirrettyjä asioita, jos asianomaiset hyvinvointialueet niin sopiva\n\nAsia voidaan hyvinvointialuelain 97 §:n mukaisesti ottaa lautakunnan käsiteltäväksi, jollei ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nAsian ottamisesta lautakunnan käsiteltäväksi voi päättää lautakunta, lautakunnan puheenjohtaja ja lautakunnan esittelijä.\n\nAluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan. Ilmoitus tehdään sähköisesti aluehallituksen puheenjohtajalle ja esittelijälle.\n\nPäätökset niissä asioissa, joista ei tarvitse ilmoittaa, voidaan otto-oikeuden estämättä panna täytäntöön, jollei yksittäistapauksessa ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nEsityslistan lisäaineistona jaetaan pöytäkirjat:\n\n- Ikäihmisten ja hoivapalveluiden lautakunta 11.12.2025\n\n- Perhe- ja vammaispalveluiden lautakunta -\n\n- Yleisten palveluiden lautakunta 11.12.2025\n\n- Kokonaisturvallisuuslautakunta -\n\n- Asiakaskokemusjaosto 3.12.2025\n\n- Tulevaisuus- ja strategiajaosto -\n\n- Omistajaohjaus- ja valvontajaosto 9.12.2025",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Lautakuntien ja jaostojen päätösten tarkistaminen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Toimielimen puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus ei käytä otto-oikeutta toimielinten päätöksiin. Aluehallitus hyväksyy pöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nPohjois-Savon hyvinvointialueen hallintosäännössä § 57-59 on määritelty otto-oikeuden käytöstä seuraavaa:\n\nAsian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nAluehallituksella ei ole otto-oikeutta hyvinvointialueiden yhteisen toimielimen tekemiin päätöksiin.\n\nAsia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nYlemmän toimielimen käsiteltäväksi ei kuitenkaan saa ottaa:\n\n1) lain tai asetuksen mukaisia lupa-, ilmoitus- tai valvontamenettelyä koskevia asioita\n\n2) yksilöön kohdistuvia terveydenhuollon tai sosiaalitoimen asioita\n\n3) hyvinvointialuelain 54 §:ssä tarkoitetulle hyvinvointialueiden yhteiselle toimielimelle siirrettyjä asioita, jos asianomaiset hyvinvointialueet niin sopiva\n\nAsia voidaan hyvinvointialuelain 97 §:n mukaisesti ottaa lautakunnan käsiteltäväksi, jollei ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nAsian ottamisesta lautakunnan käsiteltäväksi voi päättää lautakunta, lautakunnan puheenjohtaja ja lautakunnan esittelijä.\n\nAluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan. Ilmoitus tehdään sähköisesti aluehallituksen puheenjohtajalle ja esittelijälle.\n\nPäätökset niissä asioissa, joista ei tarvitse ilmoittaa, voidaan otto-oikeuden estämättä panna täytäntöön, jollei yksittäistapauksessa ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nEsityslistan lisäaineistona jaetaan pöytäkirjat:\n\n- Ikäihmisten ja hoivapalveluiden lautakunta 11.12.2025\n\n- Perhe- ja vammaispalveluiden lautakunta -\n\n- Yleisten palveluiden lautakunta 11.12.2025\n\n- Kokonaisturvallisuuslautakunta -\n\n- Asiakaskokemusjaosto 3.12.2025\n\n- Tulevaisuus- ja strategiajaosto -\n\n- Omistajaohjaus- ja valvontajaosto 9.12.2025"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 asiakaskokemusjaosto 03122025 ptk",
+     "url": "https://pshva.oncloudos.com/kokous/2025904-8-225701.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Omistajaohjaus- ja talousjaosto 9.12.2025 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/2025904-8-228553.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Yleisten palveluiden lautakunta 11.12.2025 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/2025904-8-228552.PDF"
+    },
+    {
+     "title": "Oheismateriaali 4 Ikäihmisten ja hoivapalveluiden lautakunta 11.12.2025 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/2025904-8-228554.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "496",
+   "title": "Aluehallitukselle tiedoksi annettavat lausuntopyynnöt ja lausunnot",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025904-9",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025904-9.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus merkitsee saapuneet lausuntopyynnöt ja annetut lausunnot tiedoksi.\n\nToimivallan peruste\nhallintosääntö 36 §\n\nValmistelu\nAluehallituksen 2.10.2023 § 308 mukaisesti aluehallitus päättää hallintosäännön määräyksiä noudattaen, että merkittävät lausunnot esim. hyvinvointialueiden rahoitukseen, lainsäädäntöön liittyvät ja niihin rinnasteiset lausunnot antaa aluehallitus. Lausunnon merkittävyys arvioidaan asian valmistelussa.\n\nPohjois-Savon hyvinvointialueen hallintosäännön määräykset lausuntojen antamisesta antavat mahdollisuuden viranhaltijoille antaa lausuntoja tietyissä rajoissa. Mikäli annettavat lausunnot eivät ole viranhaltijoiden toimivallassa, antaa niistä lausunnot aluehallitus.\n\nLausuntopyyntöihin vastaamiselle annettu määräaika on yleensä niin lyhyt, ettei lausuntojen käsittely aluehallituksessa ole mahdollista.\n\nSaapuneet lausuntopyynnöt:\n\n- Lausuntopyyntö, Säteilyturvakeskuksen määräys työperäisen säteilyaltistuksen selvittämisestä, arvioinnista ja seurannasta\n\n- Valtiovarainministeriön lausuntopyyntö, Hallituksen esitys eduskunnalle laiksi hallinnon yhteisistä sähköisen asioinnin tukipalveluista annetun lain muuttamisesta, yksityiset digipostipalvelut\n\n- Valtiontalouden tarkastusviraston lausuntopyyntö, tarkastuskertomusluonnos hyvinvointialueiden sidosyksikköhankinnoista\n\n- Lausuntopyyntö, Päiväkeskuspalvelujen järjestäminen Iisalmessa, Iisalmen sivistys- ja hyvinvointilautakunta\n\n- 20251209 Lausunto, luonnos hallituksen esitykseksi laeiksi terveydenhuoltolain 7 a §_n, sosiaalihuoltolain ja sosiaali- ja terveydenhuollo\n\n- Lausuntopyyntö, Valmiuslaki, Oikeusministeriö\n\nAnnetut lausunnot:\n\n-",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitukselle tiedoksi annettavat lausuntopyynnöt ja lausunnot\n\nValmistelija(t)\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus merkitsee saapuneet lausuntopyynnöt ja annetut lausunnot tiedoksi.\n\nToimivallan peruste\nhallintosääntö 36 §\n\nValmistelu\nAluehallituksen 2.10.2023 § 308 mukaisesti aluehallitus päättää hallintosäännön määräyksiä noudattaen, että merkittävät lausunnot esim. hyvinvointialueiden rahoitukseen, lainsäädäntöön liittyvät ja niihin rinnasteiset lausunnot antaa aluehallitus. Lausunnon merkittävyys arvioidaan asian valmistelussa.\n\nPohjois-Savon hyvinvointialueen hallintosäännön määräykset lausuntojen antamisesta antavat mahdollisuuden viranhaltijoille antaa lausuntoja tietyissä rajoissa. Mikäli annettavat lausunnot eivät ole viranhaltijoiden toimivallassa, antaa niistä lausunnot aluehallitus.\n\nLausuntopyyntöihin vastaamiselle annettu määräaika on yleensä niin lyhyt, ettei lausuntojen käsittely aluehallituksessa ole mahdollista.\n\nSaapuneet lausuntopyynnöt:\n\n- Lausuntopyyntö, Säteilyturvakeskuksen määräys työperäisen säteilyaltistuksen selvittämisestä, arvioinnista ja seurannasta\n\n- Valtiovarainministeriön lausuntopyyntö, Hallituksen esitys eduskunnalle laiksi hallinnon yhteisistä sähköisen asioinnin tukipalveluista annetun lain muuttamisesta, yksityiset digipostipalvelut\n\n- Valtiontalouden tarkastusviraston lausuntopyyntö, tarkastuskertomusluonnos hyvinvointialueiden sidosyksikköhankinnoista\n\n- Lausuntopyyntö, Päiväkeskuspalvelujen järjestäminen Iisalmessa, Iisalmen sivistys- ja hyvinvointilautakunta\n\n- 20251209 Lausunto, luonnos hallituksen esitykseksi laeiksi terveydenhuoltolain 7 a §_n, sosiaalihuoltolain ja sosiaali- ja terveydenhuollo\n\n- Lausuntopyyntö, Valmiuslaki, Oikeusministeriö\n\nAnnetut lausunnot:\n\n-"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Valtiontalouden tarkastusviraston lausuntopyyntö, tarkastuskertomusluonnos hyvinvointialueiden sidosyksikköhankinnoista",
+     "url": "https://pshva.oncloudos.com/kokous/2025904-9-225715.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 20251209 Lausunto, luonnos hallituksen esitykseksi laeiksi terveydenhuoltolain 7 a §_n, sosiaalihuoltolain ja sosiaali- ja terveydenhuollo",
+     "url": "https://pshva.oncloudos.com/kokous/2025904-9-227034.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Lausuntopyyntö, Säteilyturvakeskuksen määräys työperäisen säteilyaltistuksen selvittämisestä, arvioinnista ja seurannasta",
+     "url": "https://pshva.oncloudos.com/kokous/2025904-9-227555.PDF"
+    },
+    {
+     "title": "Oheismateriaali 4 Valtiovarainministeriön lausuntopyyntö, Hallituksen esitys eduskunnalle laiksi hallinnon yhteisistä sähköisen asioinnin tukipalveluista annetun lain muuttamisesta, yksityiset digipostipalvelut",
+     "url": "https://pshva.oncloudos.com/kokous/2025904-9-227834.PDF"
+    },
+    {
+     "title": "Oheismateriaali 5 Lausuntopyyntö, Päiväkeskuspalvelujen järjestäminen Iisalmessa, Iisalmen sivistys- ja hyvinvointilautakunta",
+     "url": "https://pshva.oncloudos.com/kokous/2025904-9-227536.PDF"
+    },
+    {
+     "title": "Oheismateriaali 6 Lausuntopyyntö, Valmiuslaki, Oikeusministeriö",
+     "url": "https://pshva.oncloudos.com/kokous/2025904-9-228572.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "497",
+   "title": "Pohjois-Savon hyvinvointialueen hankintasuunnitelma vuodelle 2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025904-10",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025904-10.PDF",
+   "diary_number": "16147/02.08.00/2023",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää: 1. hyväksyä Pohjois-Savon hyvinvointialueen hankintasuunnitelman vuodelle 2026 2. valtuuttaa hankintapalvelut toteuttamaan suunnitelman mukaiset hankinnat joko itse tai toimeksiantona yhteishankintayksiköille\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 93\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Pohjois-Savon hyvinvointialueen hankintasuunnitelma vuodelle 2026\n\nValmistelu\nHyvinvointialueen hankinnat ovat merkittävä osa sen vuosittaista talouden toteumaa. Julkiset hankinnat ovat tiukasti säänneltyjä ja niiden tulee aina perustua välttämättömään tarpeeseen ja lisäksi ennen niiden toteuttamista hankintayksikön on varmistuttava, että hankinnalle on olemassa tarvittava rahoitus.\n\nInvestointisuunnitelma on tarkasti hyvinvointialueen lainanottovaltuuksiin liittyvä kokonaisuus, jonka aluevaltuusto vahvistaa vuosittain erikseen. Suunnitelman ensimmäinen vuosi on aina sitova ja sen sisältämät hankinnat toteutetaan hyvinvointialueella muiden hankintojen periaatteiden mukaisesti. Investointisuunnitelman mukaiset hankinnat liitetään tähän hankintasuunnitelmaan, kun ne on erikseen vahvistettu.\n\nHankintojen valmistelu ja kilpailutus on tehtävä huolellisesti ja kilpailutuskierroksiin voi merkittävissä hankinnoissa, joita hyvinvointialueen hankinnoista on suurin osa, kulua aikaa jopa vuosi. Tarve kulloisenkin hankinnan kohteelle voi olla tasainen läpi kalenterivuoden tai vaihdella suuresti riippuen asiakkaiden ja potilaiden tilanteesta. Tämän vuoksi hankintojen suunnitelmaa tehdään vahvasti ennakoiden ja voimassa olevin sopimuksin varmistetaan hyvinvointialueen toimijoille tarvittavat työkalut aineiden, materiaalien ja palvelujen muodossa. Hankintasuunnitelman hyväksyminen tulevalle vuodelle kerrallaan mahdollistaa paitsi hankintojen joustavan toteuttamisen vuoden kuluessa niin myös antaa aluehallitukselle kattavan kuvan - millaisia ja minkä arvoisia hankintoja hyvinvointialueelle ollaan toteuttamassa seuraavan vuoden aikana.\n\nSuuri osa hyvinvointialueen materiaali- ja palveluhankinnoista sekä osa investointihankinnoista toteutetaan puitesopimushankintoina, enenevästi yhteistyössä YTA alueen muiden hyvinvointialueiden kanssa ja toteuttavana tahona on usein yhteishankintayksikkö tai sidosyksikkö. Päätöksenteko ja sopimuksen omistajuus on silloin yhtiöllä ja hyvinvointialue toimii sopimusta hyödyntävänä tilaajana. Hankinta antaa silloin hyvinvointialueelle valikoiman, jota hyödyntää tarpeen mukaan ja hyväksytyn investointisuunnitelman tai käyttötalouden puitteissa, mutta ei velvoita ostomääriin tai euroihin.\n\nHyvinvointialueen kilpailuttamista hankinnoista päättämisen toimivaltuudet määritellään hallintosäännössä. Kun päätöksenteko ja sopimuksen omistajuus on hyvinvointialueella viedään hankinta kilpailutuksen jälkeen päätökseen toimivaltuuksien mukaisesti toimielin- tai viranhaltijapäätöksellä.\n\nRiippumatta siitä, kuka hankinnan toteuttaa, sen sopimusten hyödyntäminen ja seuranta on hyvinvointialueen vastuulla. Hankintapalvelut koordinoi sopimuksia hyvinvointialueella yhtenä kokonaisuutena huolehtien sopimusten optimoinnista tarpeeseen nähden sekä niihin sisältyvien valikoimien hallinnasta.",
+   "decision": "Merkitään pöytäkirjaan, että: -Outi Kalske oli läsnä asian esittelyn ajan klo 16.13 - 16.24 -Jari Saarinen saapui kokoukseen asian käsittelyn aikana klo 16.13. Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJanne Niemeläinen, Outi Kalske"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että: -Outi Kalske oli läsnä asian esittelyn ajan klo 16.13 - 16.24 -Jari Saarinen saapui kokoukseen asian käsittelyn aikana klo 16.13. Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää: 1. hyväksyä Pohjois-Savon hyvinvointialueen hankintasuunnitelman vuodelle 2026 2. valtuuttaa hankintapalvelut toteuttamaan suunnitelman mukaiset hankinnat joko itse tai toimeksiantona yhteishankintayksiköille\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 93\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Pohjois-Savon hyvinvointialueen hankintasuunnitelma vuodelle 2026\n\nValmistelu\nHyvinvointialueen hankinnat ovat merkittävä osa sen vuosittaista talouden toteumaa. Julkiset hankinnat ovat tiukasti säänneltyjä ja niiden tulee aina perustua välttämättömään tarpeeseen ja lisäksi ennen niiden toteuttamista hankintayksikön on varmistuttava, että hankinnalle on olemassa tarvittava rahoitus.\n\nInvestointisuunnitelma on tarkasti hyvinvointialueen lainanottovaltuuksiin liittyvä kokonaisuus, jonka aluevaltuusto vahvistaa vuosittain erikseen. Suunnitelman ensimmäinen vuosi on aina sitova ja sen sisältämät hankinnat toteutetaan hyvinvointialueella muiden hankintojen periaatteiden mukaisesti. Investointisuunnitelman mukaiset hankinnat liitetään tähän hankintasuunnitelmaan, kun ne on erikseen vahvistettu.\n\nHankintojen valmistelu ja kilpailutus on tehtävä huolellisesti ja kilpailutuskierroksiin voi merkittävissä hankinnoissa, joita hyvinvointialueen hankinnoista on suurin osa, kulua aikaa jopa vuosi. Tarve kulloisenkin hankinnan kohteelle voi olla tasainen läpi kalenterivuoden tai vaihdella suuresti riippuen asiakkaiden ja potilaiden tilanteesta. Tämän vuoksi hankintojen suunnitelmaa tehdään vahvasti ennakoiden ja voimassa olevin sopimuksin varmistetaan hyvinvointialueen toimijoille tarvittavat työkalut aineiden, materiaalien ja palvelujen muodossa. Hankintasuunnitelman hyväksyminen tulevalle vuodelle kerrallaan mahdollistaa paitsi hankintojen joustavan toteuttamisen vuoden kuluessa niin myös antaa aluehallitukselle kattavan kuvan - millaisia ja minkä arvoisia hankintoja hyvinvointialueelle ollaan toteuttamassa seuraavan vuoden aikana.\n\nSuuri osa hyvinvointialueen materiaali- ja palveluhankinnoista sekä osa investointihankinnoista toteutetaan puitesopimushankintoina, enenevästi yhteistyössä YTA alueen muiden hyvinvointialueiden kanssa ja toteuttavana tahona on usein yhteishankintayksikkö tai sidosyksikkö. Päätöksenteko ja sopimuksen omistajuus on silloin yhtiöllä ja hyvinvointialue toimii sopimusta hyödyntävänä tilaajana. Hankinta antaa silloin hyvinvointialueelle valikoiman, jota hyödyntää tarpeen mukaan ja hyväksytyn investointisuunnitelman tai käyttötalouden puitteissa, mutta ei velvoita ostomääriin tai euroihin.\n\nHyvinvointialueen kilpailuttamista hankinnoista päättämisen toimivaltuudet määritellään hallintosäännössä. Kun päätöksenteko ja sopimuksen omistajuus on hyvinvointialueella viedään hankinta kilpailutuksen jälkeen päätökseen toimivaltuuksien mukaisesti toimielin- tai viranhaltijapäätöksellä.\n\nRiippumatta siitä, kuka hankinnan toteuttaa, sen sopimusten hyödyntäminen ja seuranta on hyvinvointialueen vastuulla. Hankintapalvelut koordinoi sopimuksia hyvinvointialueella yhtenä kokonaisuutena huolehtien sopimusten optimoinnista tarpeeseen nähden sekä niihin sisältyvien valikoimien hallinnasta."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Pohjois-Savon hyvinvointialueen hankintasuunnitelma vuodelle 2026, Ahall 22122025",
+     "url": "https://pshva.oncloudos.com/kokous/2025904-10-228963.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Raatikainen Riitta",
+   "role": "aluehallituksen puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Hedman Pia",
+   "role": "aluehallituksen 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Rossi Markku",
+   "role": "aluehallituksen 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kanniainen Aino",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lötjönen Vesa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Miettinen Heikki",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pitkänen Juha",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Rautiainen Merja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Suna Sassa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Taipale Pekka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Vornanen Ahti-Pekka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Väätäinen Tuula",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Åhman Kati",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kokki Hannu",
+   "role": "aluevaltuuston puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Pellikka Minna",
+   "role": "aluevaltuuston 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Korhonen Marko",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Niemeläinen Janne",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Janhonen Kari",
+   "role": "talousjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Jestola Eija",
+   "role": "toimilinjajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kantanen Kati",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kettunen Anne",
+   "role": "viestintä- ja markkinointijohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Koponen Jukka",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Korhonen Mikko",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Lampi Jussi",
+   "role": "strategiajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Remes Sami",
+   "role": "toimilinjajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Saarinen Jari",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kauppinen Virpi",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Räsänen Henna",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Kalske Outi",
+   "role": "asiantuntija",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025904",
+  "fetched_at": "2026-10-14T18:19:50+00:00",
+  "content_hash": "4d0ffbe666aa8031",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T18:19:50+00:00"
+ }
+}

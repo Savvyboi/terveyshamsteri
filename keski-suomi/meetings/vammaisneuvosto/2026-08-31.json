@@ -1,0 +1,716 @@
+{
+ "id": "vammaisneuvosto/2026-08-31",
+ "region": "keski-suomi",
+ "body_id": "vammaisneuvosto",
+ "body_name": "Vammaisneuvosto",
+ "date": "2026-08-31",
+ "stage": "minutes",
+ "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026315",
+ "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315.PDF",
+ "time": "10:04 - 13:01",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "16",
+   "title": "Laillisuus ja päätösvaltaisuus",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026315-1",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Puheenjohtaja toteaa kokouksen lailliseksi ja päätösvaltaiseksi.",
+   "decision": "Puheenjohtaja totesi kokouksen lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvointialuelain 108 § mukaan muu toimielin kuin aluevaltuusto on päätösvaltainen, kun yli puolet jäsenistä on läsnä. Läsnäoleviksi katsotaan myös ne toimielimen jäsenet, jotka osallistuvat kokoukseen sähköisesti.\n\nTästä kokouksesta on annettu tieto hallintosäännön 150 ja 151 §:n mukaisesti.\n\nKirjallinen kutsu on toimitettu sähköisesti vammaisneuvoston jäsenille 24.8.2026."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Puheenjohtaja toteaa kokouksen lailliseksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja totesi kokouksen lailliseksi ja päätösvaltaiseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "17",
+   "title": "Pöytäkirjan tarkastus",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026315-2",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Vammaisneuvosto valitsee pöytäkirjantarkastajiksi Marjaana Kotilaisen ja Toivo Lehtisen sekä varalle Jenna Laitisen ja Eila Sallisen.",
+   "decision": "Vammaisneuvosto valitsi pöytäkirjantarkastajiksi Marjaana Kotilaisen ja Toivo Lehtisen sekä varalle Eila Sallisen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvointialueesta annetun lain 95 §:n mukaan pöytäkirjan tarkastamisesta annetaan tarpeelliset määräykset hallintosäännössä.\n\nHallintosäännön 169 §:n mukaan pöytäkirja tarkastetaan toimielimen päättämällä tavalla. Pöytäkirja voidaan tarkastaa ja allekirjoittaa sähköisesti. Toimielin valitsee jokaisessa kokouksessaan kaksi läsnä olevaa jäsentä tarkastamaan kokouksesta laaditun pöytäkirjan siltä osin kuin pöytäkirjaa ei tarkasteta kokouksessa.\n\nPöytäkirja allekirjoitetaan ja tarkastetaan 4.9.2026 mennessä."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Vammaisneuvosto valitsee pöytäkirjantarkastajiksi Marjaana Kotilaisen ja Toivo Lehtisen sekä varalle Jenna Laitisen ja Eila Sallisen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Vammaisneuvosto valitsi pöytäkirjantarkastajiksi Marjaana Kotilaisen ja Toivo Lehtisen sekä varalle Eila Sallisen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "18",
+   "title": "Työjärjestyksen hyväksyminen",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026315-3",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Hyväksytään työjärjestys esityksen mukaisesti.",
+   "decision": "Työjärjestys hyväksyttiin esityksen mukaisesti.",
+   "discussion": "Hyvinvointialuejohtajan tervehdys (§ 19) käsitellään siinä vaiheessa, kun hyvinvointialuejohtaja Piia Vuorela pääsee paikan päälle kokoukseen.",
+   "sections": [
+    {
+     "heading": "",
+     "text": "Käsiteltävät asiat ilmoitetaan ennalta jaetussa kokouskutsussa ja sen mukana seuranneessa esityslistassa.\n\nAsiat käsitellään esityslistan mukaisessa järjestyksessä, jollei toimielin toisin päätä."
+    },
+    {
+     "heading": "Kokouskäsittely",
+     "text": "Hyvinvointialuejohtajan tervehdys (§ 19) käsitellään siinä vaiheessa, kun hyvinvointialuejohtaja Piia Vuorela pääsee paikan päälle kokoukseen."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Hyväksytään työjärjestys esityksen mukaisesti."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Työjärjestys hyväksyttiin esityksen mukaisesti."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "19",
+   "title": "Ajankohtaiset asiat",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026315-4",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Vammaisneuvosto merkitsee ajankohtaiset asiat tiedoksi.",
+   "decision": "Vammaisneuvosto merkitsi ajankohtaiset asiat tiedoksi.",
+   "discussion": "Orvokki Karstinen liittyi kokoukseen klo 10:14 ja Asko Muhonen osallistui\n\nkokoukseen klo 10:20 asian käsittelyn aikana.\n\nAsiakaspalvelupäällikkö Raija Harju-Kivinen liittyi kokoukseen klo 10:17\n\nasian käsittelyn aikana.\n\nKuljetuspalveluiden ajankohtaisia asioita esitteli palvelujohtaja Nina\n\nPeränen.",
+   "sections": [
+    {
+     "heading": "",
+     "text": "- Vammaispalveluiden ajankohtaiset\n\nEsittelijä palvelupäällikkö Elina Hienola\n\n- Kuljetuspalveluiden ajankohtaiset"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Vammaisneuvosto merkitsee ajankohtaiset asiat tiedoksi."
+    },
+    {
+     "heading": "Kokouskäsittely",
+     "text": "Orvokki Karstinen liittyi kokoukseen klo 10:14 ja Asko Muhonen osallistui\n\nkokoukseen klo 10:20 asian käsittelyn aikana.\n\nAsiakaspalvelupäällikkö Raija Harju-Kivinen liittyi kokoukseen klo 10:17\n\nasian käsittelyn aikana.\n\nKuljetuspalveluiden ajankohtaisia asioita esitteli palvelujohtaja Nina\n\nPeränen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Vammaisneuvosto merkitsi ajankohtaiset asiat tiedoksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "20",
+   "title": "Sosiaali- ja terveyspalvelujen asiakkuuskertomus 2025",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026315-5",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-5.PDF",
+   "diary_number": "1055/00.01.01.01/2026",
+   "preparer": "asiakaspalvelupäällikkö Raija Harju-Kivinen",
+   "presenter": "Palvelujohtaja, hyvinvointi ja kumppanuudet Peränen Nina",
+   "proposal": "Vammaisneuvosto merkitsee tiedoksi sosiaali- ja terveyspalvelujen asiakkuuskertomuksen vuodelta 2025.",
+   "decision": "Vammaispalvelut merkitsi tiedoksi sosiaali- ja terveyspalvelujen asiakkuuskertomuksen vuodelta 2025.",
+   "discussion": "Hyvinvointipäällikkö Susanna Mutanen osallistui kokoukseen klo 10:47 ja hyvinvointialuejohtaja Piia Vuorela klo 11:00 asian käsittelyn aikana.",
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "asiakaspalvelupäällikkö Raija Harju-Kivinen"
+    },
+    {
+     "heading": "Selostus asiasta",
+     "text": "Yleistä\n\nKeski-Suomen hyvinvointialueen sosiaali- ja terveyspalvelujen asiakkuuskertomus 2025 kuvaa asiakkaiden näkökulmasta, kuinka palveluissa on onnistuttu. Arvio perustuu asiakas- ja potilaskokemuksiin sekä tietoon palvelujen saatavuudesta, laadusta, yhdenvertaisuudesta, osallisuudesta ja ihmislähtöisyydestä. Tuloksia tarkastellaan suhteessa hyvinvointialueen strategisiin tavoitteisiin: kustannusvaikuttavuuteen, hyvinvoinnin ja terveyden vahvistamiseen, hyvinvointi- ja terveyserojen kaventamiseen sekä palvelujen yhdenvertaisuuden, saatavuuden ja saavutettavuuden turvaamiseen.\n\nAsiakkaiden näkökulmasta palveluissa onnistuttiin vuonna 2025 pääosin hyvin. Kasvavista palvelutarpeista sekä taloudellisista ja henkilöstöön kohdistuvista paineista huolimatta asiakkaat arvioivat palvelut enimmäkseen myönteisesti ja kokivat saamansa avun hyödylliseksi. Myönteiset kokemukset palvelujen laadusta, kohtaamisesta ja hyödystä osoittavat, että hyvinvointialue pystyi haastavassa toimintaympäristössä tuottamaan strategisten tavoitteiden mukaista asiakasarvoa.\n\nPalvelujen saatavuudessa oli sekä myönteistä kehitystä että merkittäviä haasteita.\n\nPerusterveydenhuollossa kiireettömään hoitoon pääsy toteutui vuonna 2025 pääosin hoitotakuun mukaisesti, ja vuoden lopussa kaikki asiakkaat hoidettiin säädetyissä määräajoissa. Myös erikoissairaanhoidon pitkät jonot lyhenivät merkittävästi. Sen sijaan määräaikojen toteutumisessa oli puutteita erityisesti lasten ja perheiden palveluissa sekä osassa ennaltaehkäiseviä palveluja. Vaikka ikääntyneiden palvelujen jonotusajat asumispalveluihin hieman pitenivät edellisiin vuosiin verrattuna, vuoden 2026 alkupuoliskolla kehitys kääntyi myönteiseksi ja jonot lyhenivät.\n\nAsiakkaan oma arvio palvelun hyödyllisyydestä, voinnistaan ja tavoitteidensa toteutumisesta täydentää muuta arviointitietoa, auttaa kohdentamaan palveluja tarpeiden mukaisesti ja tukee kustannusvaikuttavuutta.\n\nAsiakasosallisuutta on vahvistettu kehittäjäryhmien, asiakasraatien, vertaisarvioinnin ja palautetiedon hyödyntämisen avulla. Asiakkaiden kokemukset ja näkemykset auttavat tunnistamaan toimivat käytännöt ja kehittämistarpeet ja lisäävät siten palvelujen vaikuttavuutta. Henkilöstön arvioiden perusteella osallisuus ei kuitenkaan vielä toteudu kaikilta osin riittävällä tasolla. Asiakkaiden vaikutusmahdollisuuksia ja kokemustiedon järjestelmällistä hyödyntämistä palvelujen suunnittelussa, toteutuksessa ja arvioinnissa on siksi edelleen vahvistettava.\n\nJatkossa keskeistä on säilyttää myönteinen asiakaskokemus ja vahva asiakasarvo palvelutarpeiden sekä taloudellisten ja henkilöstöön kohdistuvien paineiden kasvaessa. Tämä edellyttää palvelujen yhdenvertaisuuteen, saatavuuteen, saavutettavuuteen ja jatkuvuuteen liittyviin riskeihin vastaamista ennakoivasti sekä asiakaskokemuksen, osallisuuden ja kokemus- ja vointitiedon nykyistä järjestelmällisempää hyödyntämistä johtamisessa ja kehittämisessä. Näin voidaan tunnistaa muuttuvat tarpeet ajoissa, kohdentaa voimavaroja tarkoituksenmukaisesti ja varmistaa, että palvelut tuottavat asiakkaille tavoiteltua hyötyä.\n\nYhteenveto\n\nAsiakkuuskertomuksen perusteella asiakkaat arvioivat palvelut vuonna 2025 pääosin myönteisesti, vaikka saatavuudessa, määräaikojen toteutumisessa ja osallisuudessa oli edelleen kehittämistarpeita. Jatkossa asiakaskokemusta sekä asiakkaiden kokemus- ja vointitietoa tulee hyödyntää nykyistä järjestelmällisemmin palvelujen johtamisessa ja kehittämisessä, jotta palvelut voidaan kohdentaa yhdenvertaisesti ja vaikuttavasti taloudellisesti haastavassa ympäristössä."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 28 §"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Palvelujohtaja, hyvinvointi ja kumppanuudet Peränen Nina"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Vammaisneuvosto merkitsee tiedoksi sosiaali- ja terveyspalvelujen asiakkuuskertomuksen vuodelta 2025."
+    },
+    {
+     "heading": "Kokouskäsittely",
+     "text": "Hyvinvointipäällikkö Susanna Mutanen osallistui kokoukseen klo 10:47 ja hyvinvointialuejohtaja Piia Vuorela klo 11:00 asian käsittelyn aikana."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Vammaispalvelut merkitsi tiedoksi sosiaali- ja terveyspalvelujen asiakkuuskertomuksen vuodelta 2025."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Asiakkuuskertomus 2025_Sosiaali- ja terveyspalvelut",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-5-125903.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "21",
+   "title": "Hyvinvointialuejohtajan tervehdys",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026315-6",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-6.PDF",
+   "diary_number": "797/00.01.01.01/2026",
+   "preparer": "palvelujohtaja Nina Peränen",
+   "presenter": "Palvelujohtaja, hyvinvointi ja kumppanuudet Peränen Nina",
+   "proposal": "Vammaisneuvosto merkitsee hyvinvointialuejohtajan tervehdyksen tiedoksi.",
+   "decision": "Vammaispalvelut merkitsi tiedoksi hyvinvointialuejohtajan tervehdyksen.",
+   "discussion": "Palvelupäällikkö Elina Hienola poistui kokouksesta klo 11:30 asian\n\nkäsittelyn aikana.\n\nHyvinvointialuejohtaja Piia Vuorela poistui kokouksesta asian esittelyn\n\njälkeen klo 11:36.",
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "palvelujohtaja Nina Peränen"
+    },
+    {
+     "heading": "Selostus asiasta",
+     "text": "Yleistä\n\nHyvinvointialuejohtaja Piia Vuorelan tervehdys ja ajankohtaiskatsaus."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 28 §"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Palvelujohtaja, hyvinvointi ja kumppanuudet Peränen Nina"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Vammaisneuvosto merkitsee hyvinvointialuejohtajan tervehdyksen tiedoksi."
+    },
+    {
+     "heading": "Kokouskäsittely",
+     "text": "Palvelupäällikkö Elina Hienola poistui kokouksesta klo 11:30 asian\n\nkäsittelyn aikana.\n\nHyvinvointialuejohtaja Piia Vuorela poistui kokouksesta asian esittelyn\n\njälkeen klo 11:36."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Vammaispalvelut merkitsi tiedoksi hyvinvointialuejohtajan tervehdyksen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "22",
+   "title": "Toiminnallinen yhdenvertaisuus- ja tasa-arvosuunnitelma",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026315-7",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-7.PDF",
+   "diary_number": "878/00.01.01.01/2026",
+   "preparer": "asiakaspalvelupäällikkö Raija Harju-Kivinen",
+   "presenter": "Palvelujohtaja, hyvinvointi ja kumppanuudet Peränen Nina",
+   "proposal": "Vammaisneuvosto valmistelee kokouksessaan lausunnon toiminnallisesta yhdenvertaisuus- ja tasa-arvosuunnitelmasta.",
+   "decision": "Vammaispalvelut päätti antaa liitteenä olevan lausunnon toiminnallisesta yhdenvertaisuus- ja tasa-arvosuunnitelmasta. Pöytäkirja tarkastettiin tämän pykälän osalta kokouksessa.",
+   "discussion": "Marjut Pollari poistui kokouksesta klo 11:40 ja turvallisuuslautakunnan edustaja Tapani Mäki klo 12:00 asian käsittelyn aikana.\n\nAsiakaspalvelupäällikkö Raija Harju-Kivinen poistui kokouksesta klo 12:13 asian esittelyn jälkeen.\n\nVammaispalvelut täydensi lausuntoa, jonka jälkeen se hyväksyttiin.",
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "asiakaspalvelupäällikkö Raija Harju-Kivinen"
+    },
+    {
+     "heading": "Selostus asiasta",
+     "text": "Yleistä\n\nHyvinvointialueen on viranomaisena ehkäistävä syrjintää ja edistettävä tasa-arvoa ja yhdenvertaisuutta tavoitteellisesti ja suunnitelmallisesti. Yhdenvertaisuuden ja tasa-arvon edistäminen tapahtuu osana monia eri tehtäväkokonaisuuksia: päätöksentekoa, toiminnan ja talouden ohjausta ja johtamista, palveluiden järjestämistä ja tuottamista. Toiminnallinen yhdenvertaisuus- ja tasa-arvosuunnitelma koskee alueen väestöä; asukkaita, asiakkaita ja potilaita.\n\nSuunnitelman laatiminen perustuu viranomaisen lakisääteiseen velvollisuuteen ehkäistä syrjintää, edistää yhdenvertaisuutta ja tasa-arvoa sekä varmistaa, että sosiaali-, terveys- ja pelastuspalvelut ovat kaikkien asukkaiden saatavilla, saavutettavissa ja tarpeenmukaisia. Lisäksi Valtakunnallisista sosiaali- ja terveydenhuollon tavoitteista säädetään sosiaali- ja terveydenhuollon järjestämisestä annetun lain (612/2021) 22 §:ssä. Valtakunnallisissa tavoitteissa kohdassa 2.5.2 yhtenä seurattavana mittarina on Toiminnallisen tasa-arvo ja yhdenvertaisuussuunnitelmien kehittyminen (THL:n arvio).\n\nKeski-Suomen hyvinvointialueen toiminnallisen yhdenvertaisuus- ja tasa-arvosuunnitelman tavoitteena on varmistaa, että palvelut ovat yhdenvertaisesti kaikkien asukkaiden, asiakkaiden ja potilaiden saatavilla ja saavutettavissa riippumatta esimerkiksi iästä, sukupuolesta, toimintakyvystä, kielestä, asuinpaikasta tai muista henkilöön liittyvistä tekijöistä. Suunnitelma tukee hyvinvointialueen strategista tavoitetta kohti ihmislähtöistä Keski-Suomea ja kokoaa yhteen konkreettiset toimenpiteet yhdenvertaisuuden, tasa-arvon ja syrjimättömyyden edistämiseksi palveluissa ja päätöksenteossa.\n\nSuunnitelmassa tunnistetaan nykytilan keskeiset kehittämistarpeet sekä määritellään yhteiset tavoitteet ja toimenpiteet vuosille 2027–2029. Painopisteitä ovat henkilöstön osaamisen vahvistaminen, yhdenvertaisuus- ja tasa-arvonäkökulmien huomioiminen päätöksenteossa, palveluiden ja toimitilojen esteettömyyden ja saavutettavuuden parantaminen sekä yhdenvertaisuuden toteutumisen systemaattinen seuranta ja raportointi.\n\nSuunnitelman toimeenpano käynnistyy vuonna 2027, ja sen toteutumista seurataan vuosittain osana hyvinvointialueen johtamista, kehittämistä ja asiakkuuskertomusta.\n\nSuunnitelman valmistelussa on kuultu henkilöstöä, asukkaita, asiakkaita, asiakasraatia sekä eri vähemmistö- ja vaikuttajaryhmiä. Valmistelussa on hyödynnetty asiakas- ja palautetietoa, omavalvonnan ja sosiaalisen raportoinnin havaintoja sekä tutkimus-, tilasto- ja indikaattoriaineistoja.\n\nYhteenveto\n\nToiminnallinen yhdenvertaisuus- ja tasa-arvosuunnitelma 2027–2029 ohjaa Keski-Suomen hyvinvointialuetta edistämään yhdenvertaisia, saavutettavia ja ihmislähtöisiä palveluja sekä ehkäisemään syrjintää kaikessa toiminnassaan."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 28 §\n\nToimintasääntö 2 §"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Palvelujohtaja, hyvinvointi ja kumppanuudet Peränen Nina"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Vammaisneuvosto valmistelee kokouksessaan lausunnon toiminnallisesta yhdenvertaisuus- ja tasa-arvosuunnitelmasta."
+    },
+    {
+     "heading": "Kokouskäsittely",
+     "text": "Marjut Pollari poistui kokouksesta klo 11:40 ja turvallisuuslautakunnan edustaja Tapani Mäki klo 12:00 asian käsittelyn aikana.\n\nAsiakaspalvelupäällikkö Raija Harju-Kivinen poistui kokouksesta klo 12:13 asian esittelyn jälkeen.\n\nVammaispalvelut täydensi lausuntoa, jonka jälkeen se hyväksyttiin."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Vammaispalvelut päätti antaa liitteenä olevan lausunnon toiminnallisesta yhdenvertaisuus- ja tasa-arvosuunnitelmasta. Pöytäkirja tarkastettiin tämän pykälän osalta kokouksessa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Vammaisneuvoston lausunto yhdenvertaisuus- ja tasa-arvosuunnitelmaan, 31.8.2026",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-7-127630.PDF"
+    },
+    {
+     "title": "Toiminnallinen yhdenvertaisuus- ja tasa-arvosuunnitelma 2027-2029_",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-7-125905.PDF"
+    },
+    {
+     "title": "Toiminnallinen yhdenvertaisuus- ja tasa-arvosuunnitelma_ liite 1",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-7-125906.PDF"
+    },
+    {
+     "title": "Toiminnallinen yhdenvertaisuus- ja tasa-arvosuunnitelma_ liite 2",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-7-125907.PDF"
+    },
+    {
+     "title": "Toiminnallinen yhdenvertaisuus- ja tasa-arvosuunnitelma_ liite 3",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-7-125908.PDF"
+    },
+    {
+     "title": "Toiminnallinen yhdenvertaisuus- ja tasa-arvosuunnitelma_ liite 4",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-7-125910.PDF"
+    },
+    {
+     "title": "Toiminnallinen yhdenvertaisuus- ja tasa-arvosuunnitelma_ liite 5",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-7-125911.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "23",
+   "title": "Alueellinen hyvinvointisuunnitelma 2026-2029",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026315-8",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-8.PDF",
+   "diary_number": "1768/00.01.01.01/2025",
+   "preparer": "hyvinvointipäällikkö Susanna Mutanen",
+   "presenter": "Palvelujohtaja, hyvinvointi ja kumppanuudet Peränen Nina",
+   "proposal": "Vammaisneuvosto antaa kokouksessa lausunnon alueellisesta hyvinvointisuunnitelmasta.",
+   "decision": "Vammaisneuvosto päätti antaa liitteenä olevan lausunnon alueellisesta hyvinvointisuunnitelmasta. Pöytäkirja tarkastettiin tämän pykälän osalta kokouksessa.",
+   "discussion": "Asian käsittelyn yhteydessä vammaisneuvostolle tuli huoli vammaisten kuljetuspalveluiden riittävyydestä ja kattavuudesta. Kuljetuspalvelujen toimivuutta tullaan seuraamaan.",
+   "sections": [
+    {
+     "heading": "",
+     "text": "Vammaisneuvosto 01.12.2025 § 68"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hyvinvointipäällikkö Susanna Mutanen"
+    },
+    {
+     "heading": "Selostus asiasta",
+     "text": "Yleistä\n\nLaki sosiaali- ja terveydenhuollon järjestämisestä 612/2024, 7 § määrittelee hyvinvointialueen tehtävät hyvinvoinnin, terveyden ja turvallisuuden (Hy-Te-Tu) edistämisessä. Hyvinvointialueen on seurattava asukkaittensa elinoloja, hyvinvointia ja terveyttä sekä niihin vaikuttavia tekijöitä alueittain ja väestöryhmittäin sekä raportoitava niihin kohdennetuista toimenpiteistä ja tilannekuvasta aluevaltuustolle vuosittain. Lisäksi hyvinvointialueella on valmisteltava aluevaltuustolle valtuustokausittain laaja hyvinvointikertomus (laaja tilannekuva) ja -suunnitelma sekä neuvoteltava niistä kumppaneiden kanssa. Tästä kertomus- ja suunnitelman valmistelutyöstä vastaa hyvinvointi ja kumppanuudet palvelualue.\n\nEdellisen valtuustokauden lopulla (3/2025) laadittiin laaja hyvinvointikertomus, joka toimii samalla myös nykyisen valtuustokauden 2026-2029 alueellisen hyvinvointisuunnitelmatyön pohjana. Kertomuksessa on nostettu esille Terveyden ja hyvinvoinnin laitoksen määrittelmiä vähimmäistietoindikaattoreita sekä kertomukseen on kytketty myös kuntakohtaiset kuntakortit sisältäen hyvinvointialueen ja kuntien yhteisiä indikaattoreita tilannekuvan muodostamiseksi.\n\nTämän kertomustyön pohjalta tälle valtuustokaudelle päivitetään alueellinen hyvinvointisuunnitelma, jossa määritellään keskeiset tavoitteet ja toimenpiteet hyvinvointialueelle sekä kuntien kanssa tehtävälle yhteistyölle. Suunnitelmatyön valmistelu aloitettiin keväällä heti laajan kertomustyön hyväksymisen jälkeen yhteistyössä lasten, nuorten ja perheiden-, ikääntyneiden-, työikäisten-, vammais- sekä terveydenhuollon palvelujohtajien, rakenteellisen sosiaalityön työryhmän ja verkoston, kuntien viranhaltijoiden ja hyte-koordinaattoreiden, HyTe-ohjausryhmän, sekä järjestöjen ja seurakuntien kanssa. Lisäksi asukasraadista on saatu eri painopisteisiin asukasnäkökulmaa.\n\nValmistelussa varmistetaan kytkös hyvinvointialueen strategiaan ja palvelustrategiaan, erityisesti ehkäisevän työn näkökulmasta. Tavoitteiden valmistelussa huomioidaan hyte-kertoimen osatavoitteet, talousarvion osatavoitteet, yhdyspintayhteistyön osatavoitteet, terveyseroihin kohdentuvat osatavoitteet sekä sisäiseen integraatioon kohdennetut osatavoitteet.\n\nHyvinvointialueen on neuvoteltava vuosittain kuntien, järjestöjen, seurakuntien ja palveluntuottajien kanssa hyvinvoinnin, terveyden ja turvallisuuden edistämisen tavoitteista, toimenpiteistä, yhteistyöstä, seurannasta, toimintamalleista ja tiedonkulusta. Vuoden 2025 neuvotteluissa on määritelty yhteistä tavoitteen asetantaa palvelujen ja kuntien toimijoiden kesken. Tavoite neuvotteluissa on, että sovimme yhteisten tavoitteiden ja toimenpiteiden toteuttamisesta sekä niiden kirjaamisesta strategisiin suunnitelmiin sekä hyvinvointialueella että kunnissa. Samalla valmistellaan kevään 2026 neuvotteluja, joissa keskeistä on sopia tavoitteita edistävästä yhteistyöstä ja niihin kytkettävistä toimenpiteistä erityisesti yhdyspintayhteistyön osatavoitteiden osalta. Keskeisenä yhteistyön tavoitteena on HYTE-kertoimen maksimointi sekä ehkäisevän työn painopisteen näkyväksi tekeminen. Alueellisen hyvinvointisuunnitelman on määrä valmistua päätöksentekoon keväällä 2026\n\nVaikutusten ennakkoarviointi\n\nVaikutusten ennakkoarviointi laaditaan alueellisen hyvinvointisuunnitelman valmistelun edetessä pidemmälle."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 28 §\n\nToimintasääntö 2 §\n\nAsian kokouskäsittely:\n\nVammaisneuvosto keskusteli palveluverkon muutoksista ja niiden vaikutuksista alueelliseen hyvinvointisuunnitelmaan sekä HYTE-kertoimista. Esille tuotiin huoli maakunnassa asuvien asukkaiden palvelun laadun heikkenemisestä. Toivottiin asiakaspalautekyselyä, jolla saataisiin vammaisten näkökulmaa palveluihin ja ajankohtaisiin asioihin. Kyselyllä saataisiin myös kohdennettua tietoa vammaisten hyvinvoinnin ja terveyden tilasta.\n\nTapani Mäki oli poissa kokouksesta § 68 käsittelyn aikana klo 10:27-10:41."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Palvelujohtaja, hyvinvointi ja kumppanuudet Peränen Nina"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Vammaisneuvosto kuulee alueellisen hyvinvointisuunnitelman luonnoksen esittelyn."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Vammaisneuvosto kuuli alueellisen hyvinvointisuunnitelman luonnoksen esittelyn.\n\nSusanna Mutanen poistui kokouksesta § 68 päätöksenteon jälkeen."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Hyvinvointipäällikkö, Susanna Mutanen"
+    },
+    {
+     "heading": "Selostus asiasta",
+     "text": "Yleistä\n\nAlueellisen hyvinvointisuunnitelma on nimeltään ”Hyvinvoiva keskisuomalainen” ja se on strateginen asiakirja, joka ohjaa Keski-Suomen hyvinvointialueen hyvinvoinnin ja terveyden edistämisen työtä niin hyvinvointialueen palveluissa kuin kumppanien kanssa tehtävässä yhdyspintatyössä. Lisäksi siihen liitetään hyvinvointialueen alueellinen lasten ja nuorten suunnitelma sekä suunnitelma ikääntyneen väestön hyvinvoinnin edistämiseksi.\n\nAlueellisen hyvinvointisuunnitelman tavoitteet ja yhdyspinta on neuvoteltu vuosien 2025 ja 2026 aikana alueen kuntien, järjestöjen ja seurakuntien kanssa. Keväällä 2026 tavoitteet on konkreetisoitu toimenpiteisiin ja mittareihin hyvinvointialueen sosiaali- ja terveyspalvelujen kanssa. Ne on kuvattu alueellisen suunnitelman sosiaali- ja terveyspalvelujen osiossa. Lisäksi vuonna 2025 kuntaneuvotteluissa sovitut tavoitteet on tänä keväänä täsmennetty yhdyspintayhteistyön toimenpiteiden osalta tarkemmalle tasolle yhteistyökumppaneiden kanssa. Yhdyspintayhteistyön tavoitteita on kuvattu alueelisen suunnitelman alueellisessa yhdyspintaosiossa. Lisäksi alueellisessa hyvinvointisuunnitelmassa on huomioitu alueen hyvinvoinnin ja terveyden edistämisen asiantuntijateemaverkostojen tekemät nostot osasuunnitelmakokonaisuuksina, joita on huomioitu tavoitteiden ja toimenpiteiden asetannassa.\n\nKeski-Suomen asukkaat ovat voineet kommentoida alueellista suunnitelmaa kevään aikana Otakantaa.fi palvelussa. Kommentit ovat käsitelty sen lisäksi myös asiakasraadissa ja sen pohjalta suunnitelmaan on nostettu asiakasraadin huomiot siitä, miten keskisuomalaiset voivat itse edistää omaa terveyttä ja hyvinvointia sekä millaista tukea esimerkiksi hyvinvointialueen tai kunnan olisi tärkeä tarjota, jos omat keinot eivät ole riittäviä.\n\nAlueellinen hyvinvointisuunnitelma on käsitelty tällä valtuustokaudella aiemmin nuorisovaltuustossa sekä vammaisten ja ikääntyneiden vaikuttamistoimielimissä.\n\nVammaisneuvosto evästi tuolloin valmistelijaa toteuttamaan kysely kohdennettuna vammaisille liittyen palveluihin ja ajankohtaisiin asioihin, sekä siihen, millainen tilanne vammaisilla on hyvinvoinnin ja terveyden edistämisessä. Kyselyä ei kuitenkaan ole voitu kohdentaa suoraan vammaisille, vaan toteutettiin yleinen asukkaille kohdennettu mahdollisuus lausua Otakantaa.fi kautta hyvinvointisuunnitelmasta. Vastaukset on käsitelty asiakasraadissa ja siitä on tehty nosto hyvinvointisuunnitelmaan. Lisäksi hyvinvoinnin ja terveyden edistämisen toimenpiteitä on tarkasteltu laajasti vammaispalvelujen kanssa kevään aikana.\n\nValmistelijan näkemys on, että sosiaali- ja terveyspalveluissa sekä yhdyspinnalla tapahtuvassa yhteistyössä vammaisneuvoston evästykset on huomioitu tarpeenmukaisesti ja ne on sisällytetty alueellisen suunnitelman osioihin aiemmin kuvatulla tavalla.\n\nTalous\n\nHyvinvointisuunnitelman toimepiteet ovat osa palvelujen omaa toimintaa.\n\nVaikutusten ennakkoarviointi\n\nVaikutusten ennakkoarviointi on erillisenä liitteenä.\n\nYhteenveto\n\nAlueellinen hyvinvointisuunnitelma, eli Hyvinvoiva keskisuomalainen on laadittu laajasti eri toimijoiden kanssa ja sen kytköstä hyvinvointialueen strategiaan ja palvelustrategiaan on tiivistetty. Myös verkostoja on osallistettu huomioimaan tietopohjan tarkastelua ja teemakohtaisten tavoitteiden asettamista alueelliseen suunnitelmaan, jolloin asiantuntijatyö on huomioitu kattavasti suunnitelman tekemisessä. Laajalla yhteistyöllä saadaan hyvinvoinnin ja terveyden edistämisen tavoitteet ja toimenpiteet yhtenäisemmiksi alueellamme ja pystymme toteuttamaan systemaattisemmin hyvinvoinnin ja terveyden edistämistötä tavoitteiden mukaisesti."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 28 §\n\nToimintasääntö 2 §"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Palvelujohtaja, hyvinvointi ja kumppanuudet Peränen Nina"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Vammaisneuvosto antaa kokouksessa lausunnon alueellisesta hyvinvointisuunnitelmasta."
+    },
+    {
+     "heading": "Kokouskäsittely",
+     "text": "Asian käsittelyn yhteydessä vammaisneuvostolle tuli huoli vammaisten kuljetuspalveluiden riittävyydestä ja kattavuudesta. Kuljetuspalvelujen toimivuutta tullaan seuraamaan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Vammaisneuvosto päätti antaa liitteenä olevan lausunnon alueellisesta hyvinvointisuunnitelmasta. Pöytäkirja tarkastettiin tämän pykälän osalta kokouksessa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Vammaisneuvoston lausunto alueelliseen hyvinvointisuunnitelmaan 2026, 31.8.2026",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-8-127645.PDF"
+    },
+    {
+     "title": "Vaikutusten ennakkoarviointi alueellinen suunnitelma 2026-2029",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-8-124112.PDF"
+    },
+    {
+     "title": "Hyvinvoiva keskisuomalainen",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-8-125190.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "24",
+   "title": "Muut asiat",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026315-9",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-9.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Vammaisneuvosto merkitsee muut asiat tiedoksi.",
+   "decision": "Vammaisneuvosto merkitsi muut asiat tiedoksi.",
+   "discussion": "Työryhmään ilmoittautuivat Jarkko Manninen, Satu-Maria Virtanen, Varpu Pöyhönen, Jan Hänninen, Marjaana Kotilainen sekä Nina Peränen. Nina Peränen kutsuu työryhmän koolle, jotta työryhmä pääsee suunnittelemaan tilaisuuden ajankohtaa ja sisältöä.",
+   "sections": [
+    {
+     "heading": "",
+     "text": "Vammaisneuvostopäivän suunnittelun käynnistäminen\n\n- ajankohta\n\n- työryhmän nimeäminen"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Vammaisneuvosto merkitsee muut asiat tiedoksi."
+    },
+    {
+     "heading": "Kokouskäsittely",
+     "text": "Työryhmään ilmoittautuivat Jarkko Manninen, Satu-Maria Virtanen, Varpu Pöyhönen, Jan Hänninen, Marjaana Kotilainen sekä Nina Peränen. Nina Peränen kutsuu työryhmän koolle, jotta työryhmä pääsee suunnittelemaan tilaisuuden ajankohtaa ja sisältöä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Vammaisneuvosto merkitsi muut asiat tiedoksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "25",
+   "title": "Ilmoitusasiat",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026315-10",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-10.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Palvelujohtaja, hyvinvointi ja kumppanuudet Peränen Nina",
+   "proposal": "Vammaisneuvosto merkitsee ilmoitusasiat tiedoksi.",
+   "decision": "Vammaisneuvosto merkitsi muut asiat tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "- Seuraava kokous on 19.10.2026 kello 9.00-12.00\n\nsairaala Novan luentosali ja Teams.\n\n- Invalidiliiton osallisuusbaromerti 2025 on julkaistu.\n\n- Hoitotarvikkeiden asiakasohje on päivitetty heinäkuussa 2026.\n\n- Kehitysvammaisten erityisen vaativan tuen asumispalvelu ja Hyvän arjen keskus käynnistyvät elokuun lopussa Kypärämäen uudessa toimipisteessä."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Palvelujohtaja, hyvinvointi ja kumppanuudet Peränen Nina"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Vammaisneuvosto merkitsee ilmoitusasiat tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Vammaisneuvosto merkitsi muut asiat tiedoksi."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Hoitotarvikkeet, asiakas- ja potilasohje",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-10-124473.PDF"
+    },
+    {
+     "title": "Osallisuusbarometrin raportti 2026",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-10-124475.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "26",
+   "title": "Saapuneet postit",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026315-11",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-11.PDF",
+   "diary_number": "711/00.02.05.00/2024",
+   "preparer": "palvelujohtaja Nina Peränen",
+   "presenter": "Palvelujohtaja, hyvinvointi ja kumppanuudet Peränen Nina",
+   "proposal": "Vammaisneuvosto merkitsee saapuneet postit tiedoksi.",
+   "decision": "Vammaisneuvosto merkitsi saapuneen postin tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "palvelujohtaja Nina Peränen"
+    },
+    {
+     "heading": "Selostus asiasta",
+     "text": "Yleistä\n\nJämsän vammaisneuvoston yhteydenotto"
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 28 §"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Palvelujohtaja, hyvinvointi ja kumppanuudet Peränen Nina"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Vammaisneuvosto merkitsee saapuneet postit tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Vammaisneuvosto merkitsi saapuneen postin tiedoksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "27",
+   "title": "Sosiaali- ja terveydenhuollon palvelustrategian seuranta 01-06/2026",
+   "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026315-12",
+   "pdf_url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-12.PDF",
+   "diary_number": "1209/00.01.01.04/2026",
+   "preparer": "strategiajohtaja Anu Pihl",
+   "presenter": "Palvelujohtaja, hyvinvointi ja kumppanuudet Peränen Nina",
+   "proposal": "Vammaisneuvosto merkitsee tiedoksi sosiaali- ja terveydenhuollon palvelustrategian seurannan raportin 01-06/2026.",
+   "decision": "Vammaisneuvosto merkitsi tiedoksi sosiaali -ja terveydenhuollon palvelustrategian seurannan raportin 01-06/2026.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "strategiajohtaja Anu Pihl"
+    },
+    {
+     "heading": "Selostus asiasta",
+     "text": "Yleistä\n\nKeski-Suomen hyvinvointialueen aluevaltuusto hyväksyi sosiaali- ja terveydenhuollon ensimmäisen palvelustrategian 9.12.2025, joka korvasi sosiaali- ja terveydenhuollon järjestämisen linjaukset. Palvelustrategia täsmentää hyvinvointialuestrategian toimeenpanoa sosiaali- ja terveyspalveluissa ja ohjaa palvelujen järjestämistä, palvelurakenteen uudistamista sekä palveluiden saatavuuden, saavutettavuuden ja kustannusvaikuttavuuden kehittämistä.\n\nPalvelustrategian toteutumista seurataan osana hyvinvointialueen strategista ohjausta ja puolivuosiraportointia. Nyt käsiteltävä raportti on ensimmäinen palvelustrategian toteutumista koskeva raportti, ja se käsittää ajanjakson 1.1.-30.6.2026. Raportointi sisältää sekä palvelustrategialle asetettujen indikaattorien toteumatietoja että palvelualueiden sanallista kuvausta tavoitteiden ja toimenpiteiden etenemisestä.\n\nPalvelustrategian toimeenpano kytketään tiiviisti vuosittaiseen talousarvioprosessiin siten, että palvelukokonaisuuksille määritellään vuosittaiset painopisteet strategian tavoitteiden toteuttamiseksi. Samalla varmistetaan, että palvelustrategia on dynaaminen asiakirja, jossa voidaan ottaa huomioon nopeasti muuttuva toimintaympäristö.\n\nPuolivuosiraportin havaintoja hyödynnetään vuoden 2027 talousarvion valmistelussa sekä palvelustrategian jatkokehittämisessä.\n\nPalvelustrategian rakenne ja raportoinnin tapa\n\nPalvelustrategia on rakennettu siten, että se sisältää strategiaan kytkeytyen neljä keskeistä kaikille sosiaali- ja terveyspalveluille yhteistä tavoitetta:\n\nPalvelutuotanto perustuu lakisääteisiin palveluihin ja vaikuttavimpiin toimintamalleihin, joissa talous ja toiminta sovitetaan yhteen kustannusvaikuttavasti ja palvelutarpeisiin vastaavasti.\n\nUudistamme palvelutuotantoa keventämällä rakennetta ja vahvistamalla oikea-aikaista, saavutettavaa ja monikanavaista palvelua. Hyödynnämme palveluissa digitaalisia ratkaisuja ja tuemme asukkaita oman hyvinvoinnin edistämisessä.\n\nRakennamme yhdenvertaiset, saavutettavat ja sujuvat palvelupolut, jotka toteutuvat tavoitteellisessa yhteistyössä asiakkaiden, ammattilaisten ja kumppaneiden kanssa.\n\nJohdamme ja kehitämme palveluja luotettavaan ja ajantasaiseen tietoon nojaten niin, että tieto tukee päätöksentekoa, palveluiden uudistamista ja arjen sujuvuutta.\n\nTavoitteet ovat palvelustrategiassa kaikille yhteiset, joten suunta on kaikille yhteinen, mutta asetetut tarkoittavat arjen työssä eri asioita eri puolilla sosiaali- ja terveydenhuoltoa, jonka vuoksi tavoitteet on täsmennetty siten, että niitä sanoitetaan tarkemmin\n\nlasten, nuorten ja perheiden palvelujen näkökulmasta\n\nTyöikäisten palvelujen näkökulmasta\n\nIkääntyneiden palvelujen näkökulmasta\n\nVammaispalveluiden näkökulmasta\n\nTerveydenhuollon näkökulmasta\n\nRaportointi tapahtuu näiden viiden palvelukokonaisuuden ja neljän päätavoitteen kautta. Indikaattoriseuranta tehdään keskeisimmille painopistetavoitteille, pyrkien välttämään päällekkäistä raportointia esimerkiksi osavuosikatsauksen sisältöjen kanssa. Esimerkiksi talous- ja kustannustiedot ovat keskeinen osa myös palvelustrategian toimeenpanon onnistumisen seurantaa, ja niistä raportoidaan laajasti osavuosikatsauksissa.\n\nRaportoinnilta on toivottu myös sanallista ja laadullista raportointia, joka avaa ja kuvaa tehtyjä toimenpiteitä ja etenemistä usein enemmän kuin pelkkä numero. Tämän vuoksi palvelukokonaisuuksien alatavoitteelle on laadittu myös sanallinen etenemisen kuvaus.\n\nYleistilanne ja yhteenveto 01-06/2026\n\nRaportointijakson aikana palvelustrategian toimeenpano on käynnistynyt kaikissa palvelukokonaisuuksissa. Keskeisiä edistysaskeleita ovat muun muassa palvelurakenteen keventämistä toteuttavat toimenpiteet, digitaalisten ja etäpalvelujen käytön laajentaminen, palvelupolkujen ja asiakasohjauksen kehittäminen sekä tiedolla johtamisen vahvistaminen.\n\nTarkempi kuvaus toimenpiteistä ja niissä etenemisestä annetaan kokouksessa."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 27 §"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Palvelujohtaja, hyvinvointi ja kumppanuudet Peränen Nina"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Vammaisneuvosto merkitsee tiedoksi sosiaali- ja terveydenhuollon palvelustrategian seurannan raportin 01-06/2026."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Vammaisneuvosto merkitsi tiedoksi sosiaali -ja terveydenhuollon palvelustrategian seurannan raportin 01-06/2026."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Palvelustrategian raportointi kevät 2026, vammaisneuvosto",
+     "url": "https://hyvaks-d10julk.oncloudos.com/kokous/2026315-12-126991.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Manninen Jarkko",
+   "role": "puheenjohtaja, Pihtipudas",
+   "group": "member"
+  },
+  {
+   "name": "Pöyhönen Varpu",
+   "role": "varapuheenjohtaja, Hankasalmi",
+   "group": "member"
+  },
+  {
+   "name": "Virtanen Satu-Maria",
+   "role": "varapuheenjohtaja, Jyväskylä",
+   "group": "member"
+  },
+  {
+   "name": "Asunmaa Kaija",
+   "role": "jäsen, Keuruu",
+   "group": "member"
+  },
+  {
+   "name": "Hammarén-Lankila Hannastiina",
+   "role": "jäsen, Muurame",
+   "group": "member"
+  },
+  {
+   "name": "Hartikka Seija",
+   "role": "jäsen, Uurainen",
+   "group": "member"
+  },
+  {
+   "name": "Hänninen Jan",
+   "role": "jäsen, Laukaa",
+   "group": "member"
+  },
+  {
+   "name": "Karstinen Orvokki",
+   "role": "jäsen, Kivijärvi",
+   "group": "member"
+  },
+  {
+   "name": "Kiviniemi Heikki",
+   "role": "jäsen, Luhanka",
+   "group": "member"
+  },
+  {
+   "name": "Koskelo Anna-Maria",
+   "role": "jäsen, Kyyjärvi",
+   "group": "member"
+  },
+  {
+   "name": "Kotilainen Marjaana",
+   "role": "jäsen, Viitasaari",
+   "group": "member"
+  },
+  {
+   "name": "Lehtinen Toivo",
+   "role": "jäsen, Jämsä",
+   "group": "member"
+  },
+  {
+   "name": "Mitronen Marjo",
+   "role": "jäsen, Multia",
+   "group": "member"
+  },
+  {
+   "name": "Muhonen Asko",
+   "role": "jäsen, Kinnula",
+   "group": "member"
+  },
+  {
+   "name": "Pollari Marjut",
+   "role": "jäsen, Saarijärvi",
+   "group": "member"
+  },
+  {
+   "name": "Raitio Tiina",
+   "role": "jäsen, Kannonkoski",
+   "group": "member"
+  },
+  {
+   "name": "Sallinen Eila",
+   "role": "jäsen, Karstula",
+   "group": "member"
+  },
+  {
+   "name": "Talso Tiina",
+   "role": "jäsen, Äänekoski",
+   "group": "member"
+  },
+  {
+   "name": "Teräväinen Virva",
+   "role": "jäsen, Joutsa",
+   "group": "member"
+  },
+  {
+   "name": "Uutela Niina",
+   "role": "jäsen, Petäjävesi",
+   "group": "member"
+  },
+  {
+   "name": "Korhonen Eeva-Liisa",
+   "role": "varajäsen, Konnevesi",
+   "group": "member"
+  },
+  {
+   "name": "Peränen Nina",
+   "role": "esittelijä, palvelujohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Salakka Hanna",
+   "role": "pöytäkirjanpitäjä, hallintosihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Vuorela Piia",
+   "role": "hyvinvointialuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Visakorpi-Kemppainen Marika",
+   "role": "aluehallituksen edustaja",
+   "group": "other"
+  },
+  {
+   "name": "Pippuri Linda",
+   "role": "hyvinvoinnin ja terveyden lautakunnan edustaja",
+   "group": "other"
+  },
+  {
+   "name": "Mäki Tapani",
+   "role": "turvallisuuslautakunnan edustaja",
+   "group": "other"
+  },
+  {
+   "name": "Hienola Elina",
+   "role": "palvelupäällikkö",
+   "group": "other"
+  },
+  {
+   "name": "Harju-Kivinen Raija",
+   "role": "asiakaspalvelupäällikkö",
+   "group": "other"
+  },
+  {
+   "name": "Mutanen Susanna",
+   "role": "hyvinvointipäällikkö",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://hyvaks-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026315",
+  "fetched_at": "2026-10-14T17:06:19+00:00",
+  "content_hash": "e7f9cd1819bd3674",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T17:06:19+00:00"
+ }
+}

@@ -1,0 +1,135 @@
+[
+ {
+  "id": "alueellinen-yliopistotasoisen-terveyden-tutkimuksen-tutkimustoimikunta",
+  "name": "Alueellinen yliopistotasoisen terveyden tutkimuksen tutkimustoimikunta",
+  "type": "other",
+  "url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=15779",
+  "language": "fi"
+ },
+ {
+  "id": "aluehallitus",
+  "name": "Aluehallitus",
+  "type": "board",
+  "url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=4",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaalilautakunta",
+  "name": "Aluevaalilautakunta",
+  "type": "committee",
+  "url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=110",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaltuusto",
+  "name": "Aluevaltuusto",
+  "type": "council",
+  "url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=1",
+  "language": "fi"
+ },
+ {
+  "id": "asiakaskokemusjaosto",
+  "name": "Asiakaskokemusjaosto",
+  "type": "section",
+  "url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=3312",
+  "language": "fi"
+ },
+ {
+  "id": "ikaihmisten-ja-hoivapalveluiden-lautakunnan-jaosto-julkinen",
+  "name": "Ikäihmisten ja hoivapalveluiden lautakunnan jaosto, julkinen",
+  "type": "section",
+  "url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=26899",
+  "language": "fi"
+ },
+ {
+  "id": "ikaihmisten-ja-hoivapalveluiden-lautakunta",
+  "name": "Ikäihmisten ja hoivapalveluiden lautakunta",
+  "type": "committee",
+  "url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=35",
+  "language": "fi"
+ },
+ {
+  "id": "ikaihmisten-neuvosto",
+  "name": "Ikäihmisten neuvosto",
+  "type": "advisory",
+  "url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=15255",
+  "language": "fi"
+ },
+ {
+  "id": "kokonaisturvallisuuslautakunta",
+  "name": "Kokonaisturvallisuuslautakunta",
+  "type": "committee",
+  "url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=36",
+  "language": "fi"
+ },
+ {
+  "id": "nuorisovaltuusto",
+  "name": "Nuorisovaltuusto",
+  "type": "advisory",
+  "url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=15728",
+  "language": "fi"
+ },
+ {
+  "id": "omistajaohjaus-ja-talousjaosto",
+  "name": "Omistajaohjaus- ja talousjaosto",
+  "type": "section",
+  "url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=254976",
+  "language": "fi"
+ },
+ {
+  "id": "omistajaohjaus-ja-valvontajaosto",
+  "name": "Omistajaohjaus- ja valvontajaosto",
+  "type": "section",
+  "url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=3297",
+  "language": "fi"
+ },
+ {
+  "id": "perhe-ja-vammaispalveluiden-lautakunnan-jaosto-julkinen",
+  "name": "Perhe- ja vammaispalveluiden lautakunnan jaosto, julkinen",
+  "type": "section",
+  "url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=26924",
+  "language": "fi"
+ },
+ {
+  "id": "perhe-ja-vammaispalveluiden-lautakunta",
+  "name": "Perhe- ja vammaispalveluiden lautakunta",
+  "type": "committee",
+  "url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=33",
+  "language": "fi"
+ },
+ {
+  "id": "tarkastuslautakunta",
+  "name": "Tarkastuslautakunta",
+  "type": "committee",
+  "url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=5",
+  "language": "fi"
+ },
+ {
+  "id": "tulevaisuus-ja-strategiajaosto",
+  "name": "Tulevaisuus- ja strategiajaosto",
+  "type": "section",
+  "url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=3276",
+  "language": "fi"
+ },
+ {
+  "id": "vammaisneuvosto",
+  "name": "Vammaisneuvosto",
+  "type": "advisory",
+  "url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=15320",
+  "language": "fi"
+ },
+ {
+  "id": "yleisten-palveluiden-lautakunnan-jaosto-julkinen",
+  "name": "Yleisten palveluiden lautakunnan jaosto, julkinen",
+  "type": "section",
+  "url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=26884",
+  "language": "fi"
+ },
+ {
+  "id": "yleisten-palveluiden-lautakunta",
+  "name": "Yleisten palveluiden lautakunta",
+  "type": "committee",
+  "url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=34",
+  "language": "fi"
+ }
+]

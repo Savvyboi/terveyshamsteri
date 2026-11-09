@@ -1,0 +1,1334 @@
+{
+ "id": "aluevaltuusto/2026-10-05",
+ "region": "pohjanmaa",
+ "body_id": "aluevaltuusto",
+ "body_name": "Aluevaltuusto",
+ "date": "2026-10-05",
+ "stage": "minutes",
+ "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026789",
+ "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026789.PDF",
+ "time": "09:00 - 12:15",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "55",
+   "title": "Kokouksen avaus, laillisuus ja päätösvaltaisuus",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026789-1",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Aluevaltuuston puheenjohtaja Kim Berg avasi kokouksen klo 9.00. Kokous todettiin laillisesti kokoon kutsutuksi ja läsnä olevien valtuutettujen lukumäärään nähden päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pohjanmaan hyvinvointialueen hallintosäännön 110 §:n mukaan kokouskutsun antaa valtuuston puheenjohtaja tai hänen estyneenä ollessaan varapuheenjohtaja. Kokouskutsussa on ilmoitettava kokouksen aika ja paikka sekä käsiteltävät asiat.\n\nKokouskutsussa on mainittava, jos kyseessä on sähköinen kokous ja ilmoitettava verkko-osoite sekä tila, jossa yleisö voi seurata kokousta. Kokouskutsussa on mainittava, jos osa kokousasioista käsitellään suljetussa kokouksessa.\n\nKokouskutsu on lähetettävä vähintään seitsemän (7) päivää ennen valtuuston kokousta kullekin valtuutetulle ja niille, joilla on kokouksessa läsnäolo-oikeus tai -velvollisuus sekä kaikille jäsenkunnille. Samassa ajassa on kokouksesta tiedotettava hyvinvointialueen verkkosivuilla.\n\nHallintosäännön 117 §:n mukaan läsnä olevat valtuutetut ja varavaltuutetut todetaan sähköisesti tai nimenhuudolla, joka toimitetaan aakkosjärjestyksessä. Todettuaan läsnä olevat valtuutetutpuheenjohtaja toteaa esteen ilmoittaneet valtuutetut ja läsnä olevat varavaltuutetut sekä onko kokous laillisesti koolle kutsuttu ja päätösvaltainen.\n\nLaki hyvinvointialueille (611/2021) 108 §:n mukaan valtuusto on päätösvaltainen, kun vähintään kaksi kolmasosaa valtuutetuista on läsnä.\n\nPuheenjohtaja avaa kokouksen.\n\nSuoritetaan nimenhuuto, ja todetaan läsnä olevat jäsenet."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuuston puheenjohtaja Kim Berg avasi kokouksen klo 9.00. Kokous todettiin laillisesti kokoon kutsutuksi ja läsnä olevien valtuutettujen lukumäärään nähden päätösvaltaiseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "56",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026789-2",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Pöytäkirjantarkastajiksi valittiin aluevaltuuston jäsenet Mikael Gädda ja Jenni Ingo.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pohjanmaan hyvinvointialueen hallintosäännön 130 §:n mukaan valtuusto valitsee jokaisessa kokouksessa kaksi (2) valtuutettua tarkastamaan kokouksesta laaditun pöytäkirjan siltä osin kuin pöytäkirjaa ei tarkasteta kokouksessa.\n\nHallintosäännön 131 §:n mukaan valtuuston pöytäkirja siihen liitettyine valitusosoituksineen pidetään tarkastamisen jälkeen nähtävänä hyvinvointialueen verkkosivuilla, siten kuin laki hyvinvointialueista 145 §:ssä säädetään.\n\nHallintosäännön 167 §:n mukaan pöytäkirja voidaan allekirjoittaa ja tarkastaa sähköisesti.\n\nPöytäkirjantarkastajiksi ehdotetaan jäseniä: Mikael Gädda ja Annica Haldin."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin aluevaltuuston jäsenet Mikael Gädda ja Jenni Ingo."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "57",
+   "title": "Neljännesvuosikatsaus Q2 - 2026",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026789-3",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-3.PDF",
+   "diary_number": "ÖVPH/4728/00.02.01/2026",
+   "preparer": "Nystrand Lena; Lisätietoja: puhelinnumero:; Hyvinvointialueen osavuosikatsaus 30.6.2026 on valmistunut. Raportti kuvaa tilannetta kuuden ensimmäisen kuukauden ajalta. Taloudellisen tilanteen lisäksi raportissa kuvataan toimintaa ja toimintavolyymia sekä strategisia tavoitteita ja mittareita. Lisäksi",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Aluevaltuusto merkitsee neljännesvuosikatsauksen Q2 - 2026 tiedoksi.\n\nMerkittiiin pöytäkirjaan, että hyvinvointialuejohtaja antoi ajankohtaisen tilannekatsauksen ja talousjohtaja taloudellisen tilanekatsauksen neljännesvuosikatsauksen käsittelyn yhteydessä.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 31.08.2026 § 150"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Nystrand Lena\n\nLisätietoja: puhelinnumero:\n\nHyvinvointialueen osavuosikatsaus 30.6.2026 on valmistunut. Raportti kuvaa tilannetta kuuden ensimmäisen kuukauden ajalta. Taloudellisen tilanteen lisäksi raportissa kuvataan toimintaa ja toimintavolyymia sekä strategisia tavoitteita ja mittareita. Lisäksi asiakirjaan on yhdistetty samalta ajanjaksolta laadittu laaturaportti.\n\nOsavuosiraportti on laadittu toiminta- ja taloussuunnitelman pohjalta sekä Pohjanmaan hyvinvointialueelle vahvistetun organisaatiomallin mukaisesti, huomioon ottaen siihen tehdyt muutokset. Toimintavolyymia koskevia tavoitteita on seurattu tulosyksikkötasolla, ja toteutuneet suoritteet vaihtelevat merkittävästi sekä yksiköiden välillä että suhteessa asetettuihin tavoitteisiin.\n\nOsavuosiraportti 30.6.2026 osoittaa 12.254.697,71 euron ylijäämää. Talousarvion seuranta perustuu viimeisimpään vahvistettuun talousarvioon, ts. siihen versioon, jota tarkistettiin viimeisimmän osavuosiraportin jälkeen ja jonka mukaan tehtiin myös hakemus talouden tasapainottamisen lisäajasta. Heinäkuun alussa saatiin ilmoitus kahden vuoden lisäajasta, ja toimenpiteitä mukautetaan sen mukaisesti.\n\nVaikka ylijäämä on suuri muutettuun talousarvioon verrattuna, tiedämme, että palkantarkastukset painottuvat vuoden loppupuolelle ja että palkkamenot kasvavat silloin. Arviona on, että henkilöstökustannukset ovat vuoden jälkipuoliskolla 5-6 miljoonaa euroa suuremmat kuin alkupuoliskolla, hieman riippuen siitä, millaisiksi henkilöstövähennykset lopulta muodostuvat.\n\nToimintatuotot ovat toteutuneet 49,2 miljoonaan euroon eli 50 prosenttiin budjetoidusta. Tämä on 3,3 miljoonaa euroa eli 6,2 prosenttia vähemmän kuin vuoden 2025 vastaavana ajankohtana. Vähennys johtuu ensisijaisesti tukien ja avustusten vähenemisestä.\n\nMyyntituotot ovat 10,1 miljoonaa euroa eli 48,3 prosenttia budjetoidusta, ja ne koostuvat pääosin laskutuksesta muille hyvinvointialueille, vakuutusyhtiöille ja valtiolle. Myyntituotot kasvoivat 5,4 prosenttia vuoden 2025 vastaavaan ajanjaksoon verrattuna. Maksutuotot ovat 28,9 miljoonaa euroa eli 49,7 prosenttia budjetoidusta, kun taas vuokratuotot ovat 4,8 miljoonaa euroa eli 53,9 prosenttia budjetoidusta. Tuottoihin sisältyvät tuet ja avustukset ovat 30.6.2026 mennessä yhteensä 4,9 miljoonaa euroa ja vastaavat pääosin hankkeista aiheutuvia kustannuksia. Avustukset ovat pienempiä kuin aikaisempina vuosina, koska aikaisemmin niihin sisältyi vielä vuoteen 2025 saakka myönnetty vakiinnuttamisraha.\n\nToimintakulut ovat toteutuneet 459 miljoonaan euroon eli 49,3 prosenttiin talousarviosta. Kasvu vuoteen 2025 verrattuna on 1 prosenttia eli 4,6 miljoonaa euroa. Henkilöstökulut ovat toteutuneet 229,6 miljoonaan euroon eli 47,5 prosenttiin. Kasvu vuoden 2025 samaan ajankohtaan verrattuna on 5,7 miljoonaa euroa eli 2,6 prosenttia. Nykyisen tason arvioidaan riittävän tuleviin palkankorotuksiin edellyttäen, että henkilöstövähennykset toteutuvat suunnitellusti. Sijaistarpeisiin liittyvä lisämäärärahan tarve on huomioitu viimeisimmässä talousarviomuutoksessa. Lopullinen käyttö tulee näkyviin vasta kolmannella vuosineljänneksellä, jolloin kesälomat ovat ohi.\n\nOstopalvelujen, tarkemmin sanoen asiakaspalvelujen, talousarvio on edelleen suurin haaste huolimatta lisämäärärahoista, jotka sisältyvät muutettuun talousarvioon. Ostopalvelut ovat toteutuneet 163,7 miljoonaan euroon eli 50,9 prosenttiin budjetoidusta. Kasvua on vain 1,7 prosenttia verrattuna vuoden 2025 vastaavaan ajankohtaan. Yli puolet ostopalveluista koostuu kuitenkin asiakaspalveluista, joissa kasvu on 9,2 prosenttia eli 7,9 miljoonaa euroa verrattuna vuoden 2025 vastaavaan ajankohtaan. Aineet, tarvikkeet ja tavarat ovat toteutuneet 29 miljoonaan euroon eli 49,7 prosenttiin. Tuet ja avustukset ovat toteutuneet 10,3 miljoonaan euroon eli 52,8 prosenttiin budjetoidusta, ja vuokrakulut ovat 24,7 miljoonaa euroa eli 55 prosenttia budjetoidusta.\n\nNettotoimintakulut (toimintakate) ovat 409,6 miljoonaa euroa, mikä vastaa 49,2 prosenttia budjetoidusta ja merkitsee 2 prosentin eli 7,9 miljoonan euron kasvua vuoden 2025 vastaavaan ajankohtaan verrattuna. Sopeutustoimenpiteitä seurataan jatkuvasti ja uusia toimenpiteitä harkitaan, jotta taso pysyy tasapainossa.\n\nToimialakohtaisissa katsauksissa seurataan kunkin yksikön suoritteita suhteessa asetettuihin tavoitteisiin sekä taloudellista tulosta, jossa painopiste on tällä hetkellä siinä, kuinka hyvin toiminnan nettokustannukset ovat toteutuneet suhteessa vahvistettuun talousarvioon. Strategiset tavoitteet ja mittarit on koottu ja niitä on seurattu samalta ajanjaksolta.\n\nToimintavolyymi vaihtelee eri yksiköiden välillä. Osa yksiköistä on lisännyt toimintaansa ja osa vähentänyt, ja suurin osa muutoksista on tapahtunut suunnitellusti. Suoritteiden tilastoinnissa esiintyy edelleen vaihtelua, mutta tilanne paranee jatkuvasti.\n\nVoidaan vielä todeta, että joillakin yksiköillä on viivettä kirjaamisissa. Rekisteröinnin yhtenäisten käytäntöjen koulutukseen ja tiedottamiseen panostetaan voimakkaasti.\n\nHyvinvointialuejohtaja Kinnunen Marina\n\nehdottaa, että aluehallitus merkitsee neljännesvuosikat­sauksen Q2 - 2026 tiedoksi, sekä lähettää sen aluevaltuustolle tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Nystrand Lena\n\nLisätietoja: puhelinnumero:\n\nHallitus\n\nehdottaa, että aluevaltuusto merkitsee neljännesvuosikatsauksen Q2 - 2026 tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto merkitsee neljännesvuosikatsauksen Q2 - 2026 tiedoksi.\n\nMerkittiiin pöytäkirjaan, että hyvinvointialuejohtaja antoi ajankohtaisen tilannekatsauksen ja talousjohtaja taloudellisen tilanekatsauksen neljännesvuosikatsauksen käsittelyn yhteydessä."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nKvartalsöversikt Osavuosikatsaus Q2 2026\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Kvartalsöversikt Osavuosikatsaus Q2 2026",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-3-105898.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "58",
+   "title": "Tarkastuslautakunnan arviointikertomus 2025 - Aluehallituksen selvitys",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026789-4",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-4.PDF",
+   "diary_number": "ÖVPH/7870/00.01.03.01/2025",
+   "preparer": "Jakobsson-Pada Linda; Lisätietoja: puhelinnumero:; Tarkastuslautakunnan on hyvinvointialueesta annetun lain 125. §:n mukaan annettava kultakin vuodelta arviointikertomus siitä, ovatko aluevaltuuston asettamat toiminnan ja talouden tavoitteet hyvinvointialueella ja hyvinvointialuekonsernissa toteutun",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Aluevaltuusto merkitsi tiedoksi aluehallituksen selvityksen tarkastuslautakunnan vuoden 2025 arviointikertomuksessa esittämistä havainnoista ja suosituksista.\n\nSusanna Koski esitti toimenpidealoitteen, jonka mukaan aluehallitus kutsutaan tarkastuslautakunnan tulevaan kokoukseen antamaan tarkempia tietoja TUSO-toimenpiteistä. Aluevaltuusto hyväksyi toimenpidealoitteen yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 31.08.2026 § 153"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Jakobsson-Pada Linda\n\nLisätietoja: puhelinnumero:\n\nTarkastuslautakunnan on hyvinvointialueesta annetun lain 125. §:n mukaan annettava kultakin vuodelta arviointikertomus siitä, ovatko aluevaltuuston asettamat toiminnan ja talouden tavoitteet hyvinvointialueella ja hyvinvointialuekonsernissa toteutuneet. Tarkastuslautakunnan on myös arvioitava, kuinka tarkoituksenmukaisella tavalla toiminta on järjestetty. Pohjanmaan hyvinvointialueen tarkastuslautakunta esitteli vuoden 2025 arviointikertomuksensa 8.6.2026 pidetyssä aluevaltuuston kokouksessa (§ 47).\n\nStrategian toteutuminen. Tarkastuslautakunta kommentoi, että strategiset tavoitteet ovat kunnianhimoisia. Tarkastuslautakunta katsoi, ettei yhtäkään neljästä strategisesta tavoitteesta saavutettu kokonaisuudessaan. Toimenpiteistä on päätetty laajasti ja ne on myös toteutettu, mutta mittareiden tulokset eivät osoita toimenpiteiden aikaansaamaa muutosta. Tarkastuslautakunta suosittaa, että mittareiden ja strategisten tavoitteiden toimenpiteiden välistä yhteyttä täsmennettäisiin ja vahvistettaisiin siten, että toimenpiteillä olisi nykyistä konkreettisempi vaikutus tavoitteiden toteutumiseen.\n\nStrategian toteutumista ei ole tilikauden aikana käsitelty aluehallituksessa tai aluevaltuustossa omana asianaan. Tavoitteiden mittareiden ja toimenpiteiden välinen yhteys jää osittain epäselväksi, mikä heikentää strategian tulosten ja vaikutusten arviointia. Tarkastuslautakunta suosittaa, että aluehallituksen ja aluevaltuuston vuotuinen työohjelma sisältää strategisen seurannan omana asianaan vähintään neljännesvuosittain. Tarkastuslautakunta pitää tärkeänä, että strategian toimeenpanoa käsitellään aluehallituksessa ja aluevaltuustossa määräajoin osana strategista ohjausta ja päätöksentekoa, jotta korjaaviin toimenpiteisiin voidaan ryhtyä ennakoivasti strategiakauden aikana.\n\nTalouden tavoitteiden toteutuminen. Tarkastuslautakunta toteaa, että vuosi 2025 oli Pohjanmaan hyvinvointialueen ensimmäinen ylijäämäkausi ja talouden kehitys kokonaisuudessaan selvästi edellisvuotta vahvempi. Samaan aikaan hyvinvointialueella on edelleen taseessaan merkittävä kertynyt alijäämä, joka on voimassa olevan lainsäädännön mukaan katettava viimeistään vuoden 2026 tilinpäätöksen yhteydessä. Lisäksi alhainen omavaraisuusaste heijastaa rakenteellista taloudellista haavoittuvuutta. Talousarvio perustuu mittaviin sopeuttamistoimiin, mutta säännöllistä raportointia aluehallitukselle tai aluevaltuustolle tulevaisuus- ja sopeuttamisohjelman toimenpiteiden etenemisestä ei ole havaittu vuonna 2025. Tarkastuslautakunnalle on tärkeää, että talouden vahvistumisesta huolimatta talouden tasapainottamista jatketaan suunnitelmallisesti ja pitkäjänteisesti. Tarkastuslautakunta suosittaa muun muassa, että tulevaisuus- ja sopeuttamisohjelman toteutumista sekä alijäämän kattamiseen liittyviä riskejä ja valintoja koskevaa viestintää ja raportointia selkeytetään ja aikataulutetaan siten, että päätöksenteon tietopohja on riittävä ja ennakoitava myös palvelutuotannon ja henkilöstön näkökulmasta.\n\nSuositukset vuodelta 2024. Tarkastuslautakunnan vuoden 2024 arviointikertomuksessa antamasta 16 suosituksesta 3 on pantu täytäntöön, 9 etenee ja 4 on edelleen ajankohtaisia. Tarkastuslautakunta toteaa, että suositusten toteutumista tarkasteltaessa on otettava huomioon, suositukset saattavat vaatia toteutuakseen vuotta pidemmän ajan. Toteutuksen arviointi perustuu aluehallituksen lausuntoon. Lausunnossa ei ole yksilöity tarkkoja aikatauluja tai vastuullisia toimijoita. Aluehallituksen tulee vastata myös näihin havaintoihin, mielellään tarkemmilla toteutusaikatauluilla.\n\nToimialakohtaiset suositukset vuodeksi 2025. Tarkastuslautakunta on lisäksi arvioinut toimialojen toiminnan ja talouden tavoitteiden toteutumista vuonna 2025 sekä antanut suosituksia ja tehnyt havaintoja. Arviointiohjelman 2025 mukaisista arvioinnin kohteina olleista toimialueista on tehty vielä erikseen havaintoja ja suosituksia.\n\nLiitteessä 1 on tarkastuslautakunnan arviointikertomus vuodelta 2025 kokonaisuudessaan ja liitteessä 2 valmistelun ehdotus aluehallituksen vastaukseksi tarkastuslautakunnan havaintoihin ja suosituksiin vuosilta 2024 ja 2025.Asiaseloste\n\nHyvinvointialuejohtaja Kinnunen Marina\n\nehdottaa, että aluehallitus antaa liitteessä olevan selvityksen aluevaltuustolle vastauksena niihin havaintoihin ja suosituksiin, jotka tarkastuslautakunta on tuonut esille vuoden 2025 arviointikertomuksessa Pohjanmaan hyvinvointialueesta."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Jakobsson-Pada Linda\n\nLisätietoja: puhelinnumero:\n\nHallitus\n\nantaa oheisen selvityksen tiedoksi aluevaltuustolle vastauksena niihin toimenpide-ehdotuksiin, jotka tarkastuslautakunta on tuonut esille vuoden 2025 arviointikertomuksessa Pohjanmaan hyvinvointialueesta."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto merkitsi tiedoksi aluehallituksen selvityksen tarkastuslautakunnan vuoden 2025 arviointikertomuksessa esittämistä havainnoista ja suosituksista.\n\nSusanna Koski esitti toimenpidealoitteen, jonka mukaan aluehallitus kutsutaan tarkastuslautakunnan tulevaan kokoukseen antamaan tarkempia tietoja TUSO-toimenpiteistä. Aluevaltuusto hyväksyi toimenpidealoitteen yksimielisesti."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nPohjanmaan hyvinvointialue_Arviointikertomus_20052026\n\nLiite 2\n\nSvar till utvärderingsberättelsen - Vastaukset tarkastuskertmukseen_08 2026\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Pohjanmaan hyvinvointialue_Arviointikertomus_20052026",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-4-98809.PDF"
+    },
+    {
+     "title": "Svar till utvärderingsberättelsen - Vastaukset tarkastuskertmukseen_08 2026",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-4-106120.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "59",
+   "title": "Vuoden 2027 kokouspäivät",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026789-5",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-5.PDF",
+   "diary_number": "ÖVPH/5410/00.02.01/2026",
+   "preparer": "Kinnunen Marina; Lisätietoja: puhelinnumero:; Kevään 2027 kokousajankohdiksi ehdotetaan:; Aluehallitus:; Tilannekuva; 14.01.2027 klo 14.00 - 16.00; Kokous; 25.01.2027 klo 9.00 - 14.00; Kokous; 15.02.2027 klo 9.00 - 14.00; Tilannekuva; 10.03.2027 klo 14.00 - 16.00; Kokous; 15.03.2027 klo 9.00 - 14.00",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Aluevaltuuston jäsen Päivi Karppi esitti, että aluevaltuuston 8.11.2027 pidettävä seminaari siirretään toiseen ajankohtaan, koska Vaasan kaupunginvaltuusto pitää samana päivänä talousarviokokouksen. Aluevaltuuston puheenjohtaja ehdotti uudeksi ajankohdaksi 1.11.2027. Aluevaltuusto hyväksyi yksimielisesti seminaaripäivän siirtämisen 8.11.2027:stä 1.11.2027:ään. Muilta osin ehdotetut kokous- ja seminaariajankohdat hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 21.09.2026 § 174"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Kinnunen Marina\n\nLisätietoja: puhelinnumero:\n\nKevään 2027 kokousajankohdiksi ehdotetaan:\n\nAluehallitus:\n\nTilannekuva\n14.01.2027 klo 14.00 - 16.00\n\nKokous\n25.01.2027 klo 9.00 - 14.00\n\nKokous\n15.02.2027 klo 9.00 - 14.00\n\nTilannekuva\n10.03.2027 klo 14.00 - 16.00\n\nKokous\n15.03.2027 klo 9.00 - 14.00\n\nTilannekuva\n01.04.2027 klo 14.00 - 16.00\n\nKokous\n12.04.2027 klo 9.00 - 14.00\n\nMiten Pohjanmaa voi-päivä\n14.04.2027\n\nTilannekuva\n29.04.2027 klo 14.00 - 16.00\n\nKokous\n10.05.2027 klo 9.00 - 14.00\n\nKokous\n31.05.2027 klo 09.00 - 14.00\n\nAluevaltuusto:\n\nSeminaari\n01.02.2027 klo 9.00 - 12.00\n\nKokous\n22.03.2027 klo 9.00 - 14.00\n\nMiten Pohjanmaa voi-päivä\n14.04.2027\n\nSeminaari\n17.05.2027 klo 9.00 - 12.00\n\nKokous\n14.06.2027 klo 9.00 - 14.00\n\nSyksyn 2027 kokousajankohdiksi ehdotetaan:\n\nAluehallitus:\n\nTilannekuva\n18.08.2027 klo 12.00 - 14.00\n\nKokous\n30.08.2027 klo 9.00 - 14.00\n\nKokous\n27.09.2027 klo 9.00 - 14.00\n\nTilannekuva\n14.10.2027 klo 14.00 - 16.00\n\nKokous\n25.10.2027 klo 9.00 - 14.00\n\nKokous\n15.11.2027 klo 9.00 - 14.00\n\nTilannekuva\n02.12.2027 klo 14.00 - 16.00\n\nKokous\n13.12.2027 klo 9.00 - 14.00\n\nAluevaltuusto::\n\nSeminaari\n06.09.2027 klo 9.00 - 12.00\n\nKokous\n11.10.2027 klo 9.00 - 14.00\n\nSeminaari\n08.11.2027 klo 9.00 - 14.00\n\nKokous\n29.11.2027 klo 9.00 - 14.00\n\nHyvinvointialuejohtaja Kinnunen Marina\n\nehdottaa, että aluehallitus päättää hyväksyä aluehallitukselle ehdotetut päivämäärät ja että aluehallitus ehdottaa aluevaltuustolle, että se merkitsee aluehallituksen kokouspäivämäärät tiedoksi ja hyväksyy aluevaltuustolle ehdotetut päivämäärät."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Kinnunen Marina\n\nLisätietoja: puhelinnumero:\n\nHallitus\n\nehdottaa, että aluevaltuusto merkitsee aluehallituksen kokouspäivämäärät tiedoksi ja hyväksyy aluevaltuustolle ehdotetut päivämäärät."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuuston jäsen Päivi Karppi esitti, että aluevaltuuston 8.11.2027 pidettävä seminaari siirretään toiseen ajankohtaan, koska Vaasan kaupunginvaltuusto pitää samana päivänä talousarviokokouksen. Aluevaltuuston puheenjohtaja ehdotti uudeksi ajankohdaksi 1.11.2027. Aluevaltuusto hyväksyi yksimielisesti seminaaripäivän siirtämisen 8.11.2027:stä 1.11.2027:ään. Muilta osin ehdotetut kokous- ja seminaariajankohdat hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": ""
+    },
+    {
+     "heading": "Oheisaineisto",
+     "text": ""
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "60",
+   "title": "Vastaus valtuustoaloitteeseen Yhteistyö Keski-Pohjanmaan ja Etelä-Pohjanmaan hyvinvointialueiden kanssa, D. Petterson (KD) ym.",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026789-6",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-6.PDF",
+   "diary_number": "ÖVPH/736/00.02.00/2025",
+   "preparer": "Sjöström Pia-Maria; Lisätietoja: puhelinnumero:; Aluevaltuutetut David Petterson ym. ovat jättäneet 22.4.2024 valtuustoaloitteen, jolla ehdotetaan, että \"Pohjanmaan hyvinvointialue on perustaa yhteistyöryhmän Keski-Pohjanmaan ja Etelä-Pohjanmaan hyvinvointialueiden kanssa. Ryhmän tehtävä on nopeassa",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 31.08.2026 § 154"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nAluevaltuutetut David Petterson ym. ovat jättäneet 22.4.2024 valtuustoaloitteen, jolla ehdotetaan, että \"Pohjanmaan hyvinvointialue on perustaa yhteistyöryhmän Keski-Pohjanmaan ja Etelä-Pohjanmaan hyvinvointialueiden kanssa. Ryhmän tehtävä on nopeassa tahdissa kartoittaa mahdollisuudet lisätä yhteistyötä keskussairaaloiden välillä. Lisääntyvä yhteistyö voitaisiin ottaa osaksi hyvinvointialueen säästöohjelmaa. Tavoitteena saavuttaa hyötyä potilaille, sairaaloille ja hyvinvointialueen taloudelle\".\n\nAloitteen mukaan on \"äärimmäisen tärkeää pohjalaisissa maakunnissa, että voimme ylläpitää kolmea hyvin toimivaa keskussairaalaa. Aloitteen alekirjoittaneet näkevät, että pohjalaisten maakuntien keskussairaaloiden kykyisen statuksen ylläpitäminen pitkällä aikavälillä on haastavaa. Samaan aikaan näemme lisääntyvän yhteistyön mahdollisuudet Pohjanmaa, Keski-Pohjanmaa ja Etelä-Pohjanmaa hyvinvointialueiden välillä. Profiloituminen tiettyihin erikoisaloihin voi mm. helpottaa henkilöstön rekrytointia\".\n\nPohjanmaan hyvinvointialue pitää yhteistyötä Keski-Pohjanmaan ja Etelä-Pohjanmaan hyvinvointialueiden kanssa tärkeänä ja sitä on tehty jo nykyisin eri palveluissa ja erikoisaloilla. Yhteistyön laajentamista arvioidaan jatkossakin potilasturvallisuuden, palvelujen saatavuuden, kielellisten oikeuksien ja taloudellisen kestävyyden näkökulmasta.\n\nLaajamittaiselle työnjaolle keskussairaaloiden välillä on kuitenkin lainsäädännöllisiä ja valtakunnalliseen ohjaukseen liittyviä reunaehtoja. Laajan ympärivuorokautisen päivystyksen sairaaloilla on velvollisuus ylläpitää päivystyksen edellyttämiä keskeisiä erikoisaloja. Tämä perustuu terveydenhuoltolain (1326/2010) 50 §:ään sekä valtioneuvoston asetukseen kiireellisen hoidon perusteista ja päivystyksen erikoisalakohtaisista edellytyksistä (583/2017), jossa säädetään päivystyksen erikoisalakohtaisista edellytyksistä.\n\nLisäksi valtio ohjaa hyvinvointialueiden välistä yhteistyötä ensisijaisesti yhteistyöalueiden eli YTA-alueiden kautta. Sosiaali- ja terveydenhuollon järjestämisestä annetun lain (612/2021) 36 §:n mukaan samaan yhteistyöalueeseen kuuluvien hyvinvointialueiden on laadittava yhteistyösopimus, jossa sovitaan muun muassa työnjaosta, yhteensovittamisesta ja yhteistyöstä. Pohjanmaa, Keski-Pohjanmaa ja Etelä-Pohjanmaa kuuluvat eri yhteistyöalueisiin, mikä rajoittaa valtion ohjaamaa rakenteellista yhteistyötä keskussairaaloiden välillä yli YTA-rajojen.\n\nYTA-rajat eivät estä tarkoituksenmukaista kahdenvälistä tai alueiden välistä yhteistyötä, mutta yhteistyötä on toteutettava voimassa olevan lainsäädännön, sairaaloiden päivystysvelvoitteiden ja kansallisen ohjauksen puitteissa. Pohjanmaan hyvinvointialue jatkaa yhteistyömahdollisuuksien selvittämistä naapurialueiden kanssa. Keski-Pohjanmaan ja Etelä-Pohjanmaan hyvinvointialueiden kanssa on tätä ajatellen sovittu yhteistyötapaamiset syksylle 2026 (marraskuun 11. ja 16. päivä). Yhteistyökokousten jälkeen pidetään hallituksen kanssa keskustelua kokouksissa syntyneistä ehdotuksista.\n\nVastauksena valtuustoaloitteeseen aluehallitus toteaa, että yhteistyötä Keski-Pohjanmaan ja Etelä-Pohjanmaan hyvinvointialueiden kanssa pidetään tärkeänä ja sitä jatketaan tarkoituksenmukaisissa kokonaisuuksissa. Samalla todetaan, että laajamittainen työnjako keskussairaaloiden välillä on mahdollista vain lainsäädännön, laajan ympärivuorokautisen päivystyksen velvoitteiden sekä YTA-alueisiin perustuvan valtakunnallisen ohjauksen asettamissa rajoissa.\n\nSektorijohtaja lapset, nuoret ja perheet Sjöström Pia-Maria\n\nehdottaa, että aluehallitus esittää aluevaltuustolle, että valtuusto merkitsee edellä olevan vastauksen tiedoksi ja toteaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nHallitus\n\nehdottaa, että valtuusto hyväksyy edellä olevan selvityksen, joka on annettu vastaukseksi aloitteeseen, ja julistaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nYhteistyö Keski-Pohjanmaan ja Etelä-Pohjanmaan hyvinvointialueiden kanssa\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Yhteistyö Keski-Pohjanmaan ja Etelä-Pohjanmaan hyvinvointialueiden kanssa",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-6-59747.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "61",
+   "title": "Vastaus valtuustoaloitteeseen, joka koskee omaa toimintaa vs. ostopalveluja; Harri Moisio (VL)",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026789-7",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-7.PDF",
+   "diary_number": "ÖVPH/6289/00.02.00/2025",
+   "preparer": "Nystrand Lena; Lisätietoja: puhelinnumero:; Tuodaan valtuustolle palveluverkon mukainen selvitys oman toiminnan sekä ostopalveluiden kustannuksista ja toiminnan kehityssuunnista. Toiminnan seurannan kannalta on valtuutettujen oleellista tietää toiminnan kehityssuunnat. Osa toiminnoista voi olla omaa",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 31.08.2026 § 155"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Nystrand Lena\n\nLisätietoja: puhelinnumero:\n\nTuodaan valtuustolle palveluverkon mukainen selvitys oman toiminnan sekä ostopalveluiden kustannuksista ja toiminnan kehityssuunnista. Toiminnan seurannan kannalta on valtuutettujen oleellista tietää toiminnan kehityssuunnat. Osa toiminnoista voi olla omaa toimintaa ja toinen osa toiminnoista voi olla toteutettuna ostopalveluina, näiden suhteen kehitystä pitää voida seurata talousarviokäsittelyn yhteydessä. Samalla voidaan selvittää myös kolmannen sektorin osuutta hyvinvointialueen toiminnassa.\n\nVastaus:\n\nAsiakaspalveluista, jotka ovat se ostopalvelujen osa, joka vastaa asiakkaille tarjoamiamme palveluja, raportoidaan säännöllisesti. Kyse on kokonaispalveluista, ei osasuoritteista esim. laboratoriotutkimusten, ruoan, pyykin tai IT:n osalta, vaan asiakaspalvelujen ostoissa koko palvelutehtävä annetaan ulkopuolisen hoidettavaksi. Vuodesta 2025 alkaen raportti esitetään lisäksi kokonaisuutena, jossa esitetään kokonaiskustannukset palveluluokittain ja asiakaspalvelujen osuus kokonaiskustannuksista.\n\nAsiakaspalvelut (94,1 milj. € 1-6 2026) muodostavat 20 % kokonaiskustannuksista (458,8 milj. € 1-6 2026). Vuoden 2026 alkupuoliskon kaikista asiakaspalveluista 9 % oli kolmannelta sektorilta ostettuja palveluja (8,4 milj. € 1-6 2026). Kyse on pääasiassa ikäihmisten, vammaisten henkilöiden sekä mielenterveys- ja riippuvuushoidon asumispalveluista.\n\nSektorijohtaja työikäiset Niemistö Riku\n\nehdottaa, että aluehallitus päättää antaa vastauksen valtuustoaloitteeseen selontekona aluevaltuustolle. Hallitus ehdottaa valtuustolle, että aloite on täten loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Nystrand Lena\n\nLisätietoja: puhelinnumero:\n\nHallitus\n\nehdottaa, että valtuusto hyväksyy edellä olevan selvityksen, joka on annettu vastaukseksi aloitteeseen, ja julistaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nAsiakaspalvelujen osuus koko toiminnasta1-6 2026 palveluluokittain\n\nLiite 2\n\nAloite Oma toiminta vs ostopalvelut\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Asiakaspalvelujen osuus koko toiminnasta1-6 2026 palveluluokittain",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-7-105004.PDF"
+    },
+    {
+     "title": "Aloite Oma toiminta vs ostopalvelut",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-7-78446.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "62",
+   "title": "Vastaus valtuustoaloitteeseen, joka koskee Pohjanmaan hyvinvointialueen paikkakuntien, väestön, palveluverkon sekä etäisyyksien kuvaamista karttapohjaisena kokonaisuutena; kokoomuksen valtuustoryhmä",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026789-8",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-8.PDF",
+   "diary_number": "ÖVPH/7809/00.02.00/2025",
+   "preparer": "Ulf Stenbacka; Pia-Maria Sjöström; Lisätietoja: puhelinnumero: (vaihde); Kokoomuksen valtuustoryhmä on jättänyt 1.12.2025 aloitteen, jossa ehdotetaan, että Pohjanmaan hyvinvointialue laatii kattavan, visuaalisen karttakuvauksen, joka sisältää muun muassa kunnat ja paikkakunnat, väestörakenteen, palv",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 31.08.2026 § 156"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Ulf Stenbacka\n\nPia-Maria Sjöström\n\nLisätietoja: puhelinnumero: (vaihde)\n\nKokoomuksen valtuustoryhmä on jättänyt 1.12.2025 aloitteen, jossa ehdotetaan, että Pohjanmaan hyvinvointialue laatii kattavan, visuaalisen karttakuvauksen, joka sisältää muun muassa kunnat ja paikkakunnat, väestörakenteen, palveluverkon, palvelupisteet sekä palvelupisteiden väliset etäisyydet. Lisäksi aloitteessa ehdotetaan, että rakennetaan digitaalinen työkalu, jota voidaan täydentää muilla tiedoilla, kuten henkilöstöresursseilla, kiinteistöillä ja kustannuksilla.\n\nPohjanmaan hyvinvointialue jakaa käsityksen siitä, että tietoon perustuva päätöksenteko, läpinäkyvyys ja hyvä tiedonsaanti palvelutarjonnasta ja väestön palvelutarpeista ovat tärkeitä.\n\nTällä hetkellä käytössä on useita tietojärjestelmiä ja raportointityökaluja, jotka sisältävät tietoa muun muassa väestöstä, demografiasta, saavutettavuudesta ja toimipaikoista. DigiFinlandin Tietojohtaja.fi -portaali ylläpitää analytiikka- ja kehittämispalvelua, jonka avulla on mahdollista seurata väestörakennetta ja -ennustetta kuntatasolla, ja postinumeroalueittain voidaan seurata palvelutarvetta ja etäisyyksiä lähimpään sote-pisteeseen sekä ajomatkan että -ajan osalta. Hyvinvointialueet käyttävät EG:n Optimaze-kiinteistötietojärjestelmää, jossa on myös karttatoiminto, joka osoittaa hyvinvointialueen eri toimipaikat. Näin ollen suuri osa aloitteessa kaivatuista tiedoista on jo saatavilla nykyisin käytössä olevien ratkaisujen kautta. Vielä puuttuu kuitenkin järjestelmä, joka mahdollistaa useista eri lähteistä saatavan tiedon yhdistämisen yhtenäiseksi visuaaliseksi kokonaisuudeksi. Sellainen ratkaisu toisi lisäarvoa palveluverkon suunnitteluun, vaikutusarviointeihin, saavutettavuuden analysointiin ja alueellisten erojen seurantaan.\n\nAloitteessa kuvatun kokonaisuuden toteuttaminen vaatii useiden tietolähteiden integrointia, tiedon jatkuvaa ylläpitoa sekä investointeja ohjelmistoihin ja lisensseihin. Markkinoilla on tarjolla erilaisia GIS-ratkaisuja (tietokonepohjainen paikkatietojärjestelmä, jonka avulla voidaan kerätä, tallentaa, hallita, analysoida ja esittää paikkatietoa), joita myös on jo jossain määrin käytössä. Ne mahdollistavat laaja-alaiset karttapohjaiset analyysit, mutta niistä aiheutuu myös lisenssi-, kehittämis- ja hallinnointikustannuksia. Koska eri tietolähteitä yhdistävät visuaaliset ratkaisut ovat kehittyneet valtakunnallisesti nopeasti viime vuosina, ei omien ratkaisujen hankkiminen ole ollut toistaiseksi ajankohtaista hyvinvointialueelle.\n\nKokoavasti voidaan todeta, että aloitteen tarkoitus on hyvin perusteltu ja tukee hyvinvointialueen tavoitteita digitalisaatiosta, tietojohtamisesta ja näyttöön perustuvasta päätöksenteosta. On kuitenkin tarkoituksenmukaista kehittää ja koordinoida ensisijaisesti niiden tieto- ja raportointiratkaisujen käyttöä, jotka ovat jo saatavilla organisaatiossa. Samalla tulee selvittää mahdollisuudet kehittää asteittain paikkatietoanalyysejä ja visualisointeja osana tietojohtamisen jatkokehittämistä.\n\nTällaisessa arvioinnissa tulee kiinnittää erityistä huomiota seuraavaan:\n\n.\nhyöty päätöksenteolle ja toiminnan suunnittelulle\n\n.\nmahdollisuudet käyttää olemassa olevia järjestelmiä ja tietolähteitä\n\n.\nlisenssien, integroinnin ja ylläpidon kustannukset\n\n.\ntietoturva ja tietosuoja\n\n.\nmahdollisuudet julkaista avointa tietoa asukkaille ja päättäjille.\n\nSektorijohtaja lapset, nuoret ja perheet Sjöström Pia-Maria\n\nehdottaa, että aluehallitus päättää antaa vastauksen valtuustoaloitteeseen selontekona aluevaltuustolle. Hallitus ehdottaa valtuustolle, että aloite on täten loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Ulf Stenbacka\n\nPia-Maria Sjöström\n\nLisätietoja: puhelinnumero: (vaihde)\n\nHallitus\n\nehdottaa, että valtuusto hyväksyy edellä olevan selvityksen, joka on annettu vastaukseksi aloitteeseen, ja julistaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nPohjanmaan hyvinvointialueen paikkakuntien ym. kuvaaminen karttapohjaisena kokonaisuutena, Kokoomus\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Pohjanmaan hyvinvointialueen paikkakuntien ym. kuvaaminen karttapohjaisena kokonaisuutena, Kokoomus",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-8-83741.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "63",
+   "title": "Vastaus valtuustoaloitteeseen Vaasan kotihoidon ja vanhustenhuollon laajentamisesta; R Mahdi (RKP)",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026789-9",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-9.PDF",
+   "diary_number": "ÖVPH/4268/00.02.00/2025",
+   "preparer": "Olin Paula; Pellfolk Tony; Kotanen Heidi; Lisätietoja: puhelinnumero: (vaihde); Mahdi ja valtuustoryhmä (RKP) on jättänyt valtuustoaloitteen 2.6.2025. Aloitteessa korostetaan Vaasan kotihoidon kehittämistarvetta. Siinä esitetään kotihoidon kehittämissuunnitelman laatimista erityisesti henkilöstön, k",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Asia palautettiin jatkovalmisteluun.\n\nAluevaltuuston jäsen Ramidera Mahdi esitti keskustelun aikana, että asia palautetaan jatkovalmisteluun, koska vastauksessa ei käsitellä riittävästi aloitteessa esiin tuotuja konkreettisia kehittämistarpeita. Jatkovalmistelussa toivotaan:\n\n-konkreettista arviota kotihoidon kapasiteetista, henkilöstöresursseista ja pullonkauloista sekä kehittämissuunnitelmaa siitä, miten kotihoidossa vastataan kasvavaan palvelutarpeeseen\n\n-tarkempaa selvitystä mahdollisuudesta perustaa liikkuvia kotihoitotiimejä, joilla on erityisosaamista geriatriasta, muistisairauksista ja palliatiivisesta hoidosta\n\n-arviota siitä, miten sairaalajakson jälkeistä kotikuntoutusta voidaan vahvistaa ja miten nykyisten toimintamuotojen kapasiteetti vastaa tarpeeseen\n\n-arviota siitä, miten kotihoidon suunnitteluvälineitä, tiimipohjaista työskentelytapaa ja henkilöstön jatkuvuutta voidaan kehittää\n\n-selkeämpää tulevaisuuden näkymää siitä, miten geriatrinen ja gerontologinen osaaminen turvataan ikääntyneiden määrän ja hoidon tarpeen kasvaessa\n\n-selvitystä mahdollisuuksista tehdä suunnitelmallista yhteistyötä Vaasan Åbo Akademin ja alueen gerontologisen tutkimuksen kanssa, jotta henkilöstön riittävyyttä ja kuormitusta voidaan arvioida selkeämmin ja esittää konkreettisia toimenpiteitä nykyisten resurssivajeiden ratkaisemiseksi.\n\nEsitystä kannatti muun muassa Sari Ala-Heikkilä, joka esitti lisäksi, että jatkovalmistelussa vastataan siihen, millainen turvallinen kotiuttamisprosessi on, miten henkilöstön siirtymisiä asiakkaiden välillä voidaan tehostaa ja miten varmistetaan riittävä osaaminen toimintakyvyltään heikompien asiakkaiden hoidossa. Lisäksi valtuutetut Miettinen, Backull ja Caldén kannattivat palautusesityksiä.\n\nAluevaltuusto hyväksyi tämän jälkeen yksimielisesti asian palauttamisen jatkovalmisteluun.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 31.08.2026 § 157"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Olin Paula\n\nPellfolk Tony\n\nKotanen Heidi\n\nLisätietoja: puhelinnumero: (vaihde)\n\nMahdi ja valtuustoryhmä (RKP) on jättänyt valtuustoaloitteen 2.6.2025. Aloitteessa korostetaan Vaasan kotihoidon kehittämistarvetta. Siinä esitetään kotihoidon kehittämissuunnitelman laatimista erityisesti henkilöstön, kapasiteetin, saatavuuden ja laadun vahvistamiseksi. Lisäksi pyydetään muun muassa toimeenpanemaan liikkuva kotihoitotiimi, jolla olisi erityisosaamista geriatriasta, dementiasta ja palliatiivisesta hoidosta. Aloitteessa nostetaan esiin kuntoutus sairaalajakson jälkeen, tiimityö kotihoidossa takaamaan kokonaisvaltainen hoito.\n\nMiten kotihoitoa on kehitetty viime vuosien aikana?\n\nOsastosulkujen jälkeen kotihoitoon on panostettu. Hankerahaa on saatu uusia toimia varten ja etäpalveluihin on panostettu Prima Botnia hankkeen kautta. Kiuru-rahaa on kotihoidon etäpalveluiden kehittämiseen osoitettu noin 1,1 miljoonaa. Prima Botnia -hankkeessa ikäihmisten työpaketin talousarvio ajalle 2023-2025 on noin 1 milj. sisältäen kotihoidon sekä omais- ja perhehoidon. Vuoden 2025 Sotenderin käyttöön on keskitytty ja vuonna 2026 keskiselle alueelle on lisätty uusia hoitajavakansseja.\n\nOn pyritty varmistamaan, että oikea asiakas on oikeassa paikassa. Kotihoidon kriteerit on yhtenäistetty ja vaikka niitä on tiukennettu, ne ovat edelleen valtakunnallisesti matalat. Palveluohjauksen ja kotihoidon henkilöstön kanssa käydään jatkuvaa keskustelua asiakkaiden palveluiden järjestämisestä. Palveluohjaus toimii erillisenä yksikkönä toisella toimialalla, keskisellä ja pohjoisella alueella toimii myös erilliset kartoitustiimit. Palveluohjauksessa tehdään päätökset kotihoidon palveluun pääsystä ja palvelun päättymisestä sekä tarvittavat muutokset palvelussa.\n\nKotihoitoa on myös kehitetty kustannustehokkaammaksi yhteisen toiminnanohjauksen avulla. Valtakunnallisen tavoitteen mukaan pyritään kasvattamaan henkilöstön välittömään asiakastyöhön käyttämää työaikaa. Haasteena asiakasajan saavuttamisessa ovat erilaiset tehtävät, jotka eivät näy asiakaskäynneissä, koska kotihoidon henkilöstö tekee niitä myös sellaisten hyvinvointialueen asukkaiden luona, joilla ei ole kotihoitoa. Tällaisia tehtäviä ovat muun muassa turvapuhelinasiakkaiden käynnit tukipalveluna sekä nostotehtävät (823-tehtävät). Toiminnanohjaus tukee kotihoidon järjestämistä varmistamalla, että ammattihenkilö, joka toteuttaa käynnit vastaan asiakkaan tarpeita. Tarvittaessa henkilöstöresursseja voidaan käyttää myös yli aluerajojen.\n\nAlueilla työskennellään tiimeittäin ja jokaisella asiakkaalla on nimetty omahoitaja. Auttaminen yli aluerajojen auttaa työtekijöitä sillä alueella, joka on sillä hetkellä kuormittunut ja näin varmistetaan asiakkaalle se aika, joka hänelle on käyntiin varattu. Jokaisella työntekijällä on aktivoiva työote. Asiakasta aktivoivaa työotetta tukee myös etäkäynnit.\n\nVaasan alueella on vuoden 2025 aikana kehitetty ikäihmisten 24/7 palveluita yhteistyössä toimialojen kanssa. Kotihoito on ollut aktiivisesti mukana kehittämistyössä. Kotihoito on selkeyttänyt päivystyksen ja osastojen yhteydenottotapoja kotihoitoon, kehittänyt yhteistyötä uuden kotiuttamisen tuen tiimin kanssa ja tehnyt tiivistä yhteistyötä palveluohjauksen, kotisairaalan ja liikkuvan sairaalan kanssa. Joulukuussa 2025 koti- ja asumispalveluiden toimiala järjesti seminaarin liittyen kotihoidon asiakkuuksiin. Potilaslogistiikan toiminnanohjausjärjestelmän on tarkoitus seuraavaksi laajentua kotihoitoon. Tämä mahdollistaa paremmin tiedonkulun eri palveluiden välillä.\n\nKotihoidon esimiesrakennetta on uudistettu siten, että työtaakka jakautuu sekä lähihenkilö- että koordinoivalla tasolla. Vaasan alueen kotihoitoon on lisäksi saatu kattava palveluvastaavaverkosto, joka toimii esihenkilön tukena ja sijaisena. Tällaista järjestelmää ei kunta-aikana ole ollut. Palveluvastaavana toimii sairaanhoitaja, joka käyttää 50 % työajastaan henkilöstöhallinnollisiin tehtäviin ja 50 % sairaanhoidollisiin töihin.\n\nViikoittaisessa operatiivisessa tilannekuvassa on myös kotihoidon osalta raportoitu kotihoitoon odottavien määrää. Odottajien määrä on pysynyt hallinnassa ja ollut viikoittain alle 15, joten asiakkaiden tarpeeseen on pystytty vastaamaan. Kotiuttamisen tuen tiimistä siirtymistä kotihoidon piiriin on ollut välillä viivettä, mutta tilanteet on pystytty ratkaisemaan toimialojen välisellä yhteistyöllä.\n\nHenkilöstön osaamisen kehittäminen ja tiimityö\n\nHenkilöstöä on otettu mukaan kehittämiseen (toimiva tiimi - konsepti ja lean). Toimiva tiimissä on useampi kentältä noussut tarve kehittää yksittäisiä asioita ja laatia niihin yhteiset ohjeet. Tällaisia pieniä asioita voi olla mm. Perehdytysohjeet tai kotikäyntirepun sisältö ja hoito-ohjeet. Näihin tiimeihin valitaan osallistujat koko Pohjanmaan hyvinvointialueelta ja osallistaen jokaiselta ammattinimikkeeltä. Toimiva tiimi on ollut Vaasassa käytössä ennen kuntayhtymää ja se on nähty tärkeäksi keinoksi saada kaikki osallistumaan. Toimivassa tiimissä yhtenäistetään toimintatavat, jotta voidaan varmistaa tasavertainen asiakkaiden palvelu.\n\nTeknologiaa on lisätty ja uudenlainen tapa tehdä työtä on rekrytoinnin ja myös työterveyden näkökulmasta ollut tärkeää. Työntekijät oppivat uutta, uusia tapoja kehittää kotihoitoa ja tuottaa palveluja. Kotihoidon alueella toimii 3 teknologiasta vastaavaa, jotka ovat mukana valtakunnallisissa foorumeissa tuoden hyvinvointialueelle uutta tietoa ja osaamista. Teknologian lisääminen on tuonut asiakas- ja lääketurvallisuutta ja lisännyt kustannustehokkuutta. Se on myös osaltaan lisännyt ekologisempaa kotihoitoa (etäkäynti).\n\nKotihoidossa hoidetaan kaikkia yli 18- vuotiaita henkilöitä. Suurin osa asiakkaista on ikäihmisiä. Kotihoidossa tarvitaan erilaista osaamista ja myös muiden ammattilaisten osaamista tulee tämän vuoksi hyödyntää. Esimerkiksi kotihoidosta voidaan konsultoida muistikoordinaattoria tai pyytää yhteiskäynnille kotiin.\n\nErillisen geriatrisen tiimin ylläpitäminen kotihoidossa ei ole kustannustehokkuuden näkökulmasta tarkoituksenmukaista. Asiakkaan tarpeiden mukaan käynnit toteutetaan yhteistyössä eri ammattilaisten kanssa.\n\nResurssien tarkoituksenmukaisen käytön vuoksi henkilöstöä voidaan tarvittaessa siirtää alueiden välillä. Tällöin asiakkaan kotikäynnillä voi käydä eri työntekijöitä. Jokaisella asiakkaalla on kuitenkin nimetty omatyöntekijä ja työntekijöillä omat vastuualueensa. Toiminnan turvaamiseksi henkilöstöresurssien on voitava liikkua tarpeen mukaan.\n\nKuntouttava työ kotihoidossa ja sairaalajakson jälkeen\n\nAsiakkaan kotiutumiseen ja kuntoutukseen on pyritty vaikuttamaan Vaasan kaupungilla jo vuodesta 2017, kun kotihoitoon perustettiin erillinen päivystystiimi. Tiimi toimi sellaisenaan aina kuntayhtymän alkuun, jolloin se siirtyi kuntoutukselle. Tavoitteena on ollut jatkuvasti kuntoutusnäkökulma (arkikuntoutus). Päivystystiimi on koostunut eri ammattiryhmistä. Myös kotikuntoutusta on aloitettu samoihin aikoihin, jolloin kotihoitoon palkattiin useampi fysioterapeutti ja toimintaterapeutti. Tällä hetkellä kotikuntoutusta ja tehostettua kotikuntoutusta tarjotaan koko hyvinvointialueella, eikä kotihoidon asiakkuutta tarvita.\n\nPitkä sairaalajakso voi vaikeuttaa kotiin siirtymistä ja heikentää toimintakykyä. Kotiuttamisen tuen tiimi mahdollistaa nopean ja sujuvan kotiutumisen ja lisää mahdollisuuksia jatkaa kotona asumista mahdollisimman itsenäisesti. Jos kotiuttamistuen tiimin jaksolla todetaan, ettei toimintakyky palaudu, siirtyy asiakas muiden säännöllisten palveluiden piiriin, joita voi olla muun muassa kotihoito. Kotiuttamisen tuen tiimi aloitti toimintansa syksyllä 2025 Vaasassa ja Pietarsaaressa vuoden 2026 alusta alkaen. Muun alueen osalta kotiuttamisen tuen tiimin toimintaa vastaa kotihoidon ja kotikuntoutuksen yhteistyö.\n\nKotikuntoutuksessa työskentelee fysio- ja toimintaterapeutteja sekä lähihoitajia. Kotikuntoutuksen turvin voidaan varmistaa tarvittava kuntoutus sairaalajakson jälkeen. Kotikuntoutukseen ei tarvita erillistä lähetettä, vaan niin asiakas kuin sote-ammattilaisetkin voivat olla suoraan yhteydessä kotikuntoutuksen työntekijöihin ja sopia ensimmäisestä arviointikäynnistä. Sairaalasta kotiutuvan asiakkaan jatkokuntoutuksesta ollaan usein yhteydessä jo suoraan sairaalan fysio- tai toimintaterapeutin toimesta. Kotikuntoutus tekee tiivistä yhteistyötä kotihoidon kanssa, jotta varmistetaan moniammatillinen yhteistyö asiakkaan edun mukaisesti.\n\nSektorijohtaja ikäihmiset Kotanen Heidi\n\nehdottaa, että aluehallitus päättää antaa vastauksen valtuustoaloitteeseen selontekona aluevaltuustolle. Hallitus ehdottaa valtuustolle, että aloite on täten loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Kotanen Heidi\n\nOlin Paula\n\nPellfolk Tony\n\nLisätietoja: puhelinnumero: (vaihde)\n\nHallitus\n\nehdottaa, että valtuusto hyväksyy edellä olevan selvityksen, joka on annettu vastaukseksi aloitteeseen, ja julistaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Asia palautettiin jatkovalmisteluun.\n\nAluevaltuuston jäsen Ramidera Mahdi esitti keskustelun aikana, että asia palautetaan jatkovalmisteluun, koska vastauksessa ei käsitellä riittävästi aloitteessa esiin tuotuja konkreettisia kehittämistarpeita. Jatkovalmistelussa toivotaan:\n\n-konkreettista arviota kotihoidon kapasiteetista, henkilöstöresursseista ja pullonkauloista sekä kehittämissuunnitelmaa siitä, miten kotihoidossa vastataan kasvavaan palvelutarpeeseen\n\n-tarkempaa selvitystä mahdollisuudesta perustaa liikkuvia kotihoitotiimejä, joilla on erityisosaamista geriatriasta, muistisairauksista ja palliatiivisesta hoidosta\n\n-arviota siitä, miten sairaalajakson jälkeistä kotikuntoutusta voidaan vahvistaa ja miten nykyisten toimintamuotojen kapasiteetti vastaa tarpeeseen\n\n-arviota siitä, miten kotihoidon suunnitteluvälineitä, tiimipohjaista työskentelytapaa ja henkilöstön jatkuvuutta voidaan kehittää\n\n-selkeämpää tulevaisuuden näkymää siitä, miten geriatrinen ja gerontologinen osaaminen turvataan ikääntyneiden määrän ja hoidon tarpeen kasvaessa\n\n-selvitystä mahdollisuuksista tehdä suunnitelmallista yhteistyötä Vaasan Åbo Akademin ja alueen gerontologisen tutkimuksen kanssa, jotta henkilöstön riittävyyttä ja kuormitusta voidaan arvioida selkeämmin ja esittää konkreettisia toimenpiteitä nykyisten resurssivajeiden ratkaisemiseksi.\n\nEsitystä kannatti muun muassa Sari Ala-Heikkilä, joka esitti lisäksi, että jatkovalmistelussa vastataan siihen, millainen turvallinen kotiuttamisprosessi on, miten henkilöstön siirtymisiä asiakkaiden välillä voidaan tehostaa ja miten varmistetaan riittävä osaaminen toimintakyvyltään heikompien asiakkaiden hoidossa. Lisäksi valtuutetut Miettinen, Backull ja Caldén kannattivat palautusesityksiä.\n\nAluevaltuusto hyväksyi tämän jälkeen yksimielisesti asian palauttamisen jatkovalmisteluun."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nALOITE VAASAN KOTIHOIDON JA VANHUSTENHUOLLON LAAJENTAMISESTA\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "ALOITE VAASAN KOTIHOIDON JA VANHUSTENHUOLLON LAAJENTAMISESTA",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-9-72231.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "64",
+   "title": "Vastaus valtuustoaloitteisiin Asiakkaalta perittyjen asiakasmaksujen enimmäismäärän seuraaminen ja Maksuhuojennusten aktiivinen tiedottaminen ja harkintaa maksujen perintään; H Moisio, L Ede (VL)",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026789-10",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-10.PDF",
+   "diary_number": "ÖVPH/4263/00.02.00/2025",
+   "preparer": "Niemistö Riku; Widd Christine; Lisätietoja: puhelinnumero: (vaihde); Harri Moisio ja Lisen Ede ovat 2.6.2025 jättäneet valtuustoaloitteen Asiakkaalta perittyjen asiakasmaksujen enimmäismäärän seuraamisesta ja 6.10.2025 valtuustoaloitteen Maksuhuojennusten aktiivisesta tiedottamisesta ja harkinnasta ",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Aluevaltuuston jäsen Harri Moisio esitti, että toiseen valtuustoaloitteeseen annettava vastaus palautetaan jatkovalmisteluun siten, että vastauksessa otetaan huomioon aluehallituksen päätös mahdollisuudesta alentaa tai jättää perimättä terveydenhuollon tasasuuruisia asiakasmaksuja. Anna Caldén kannatti palautusesitystä.\n\nAluevaltuusto hyväksyi ensimmäiseen aloitteeseen annetun vastauksen ja totesi aloitteen loppuun käsitellyksi. Aluevaltuusto hyväksyi yksimielisesti toisen aloitteen palauttamisen jatkovalmisteluun.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 31.08.2026 § 158"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Niemistö Riku\n\nWidd Christine\n\nLisätietoja: puhelinnumero: (vaihde)\n\nHarri Moisio ja Lisen Ede ovat 2.6.2025 jättäneet valtuustoaloitteen Asiakkaalta perittyjen asiakasmaksujen enimmäismäärän seuraamisesta ja 6.10.2025 valtuustoaloitteen Maksuhuojennusten aktiivisesta tiedottamisesta ja harkinnasta maksujen perintään. Molemmat aloitteet liittyvät asiakasmaksuihin, joten niihin on luontevaa vastata yhdessä.\n\n2.6.2025 jätetyssä Asiakkaalta perittyjen asiakasmaksujen enimmäismäärän seuraamista koskevassa aloitteessa (liite 1) todetaan, että yksittäisen kansalaisen saattaa olla hankala koota maksutietoja, jos hoidot jakautuvat usealle kohteelle, eri organisaatioihin tai jos mukana on alaikäisen maksutietoja. Aloitteen tekijöiden mukaan on löydettävissä tekniset keinot, joilla Pohjanmaan hyvinvointialue ryhtyy seuraamaan asiakkaiden ja potilaiden maksukaton täyttymistä ja ilmoittamaan siitä asiakkaalle, kun maksuvapaita palveluita on haettavissa. Aloitteessa todetaan, että maksukaton seuraaminen on tehty vaikeaksi, hyvinvointialueella on lain mukaan oikeus vaatia asiakkailta alkuperäiset maksukuitit, vaikka samat tiedot ovat hyvinvointialueen maksujärjestelmissä. Aloitteen jättäjien mukana voidaan edellyttää, että uusi asiakas- ja potilastietojärjestelmä kykenee jo nyt tai tulevaisuudessa kokoamaan kaikkien asiakkaiden ja potilaiden maksutiedot niin, että järjestelmä ilmoittaa välittömästi maksukaton ylittämisestä. Edelleen esitetään, että asian etenemisessä huomioidaan kiireellisyysjärjestyksessä ensi sijassa monisairaat, vammaiset ja kotona asuva vanhusväestö.\n\nVastaus:\n\nAsiakkaan on sosiaali- ja terveydenhuollon asiakasmaksuista annetun lain, lyhyemmin asiakasmaksulaki (734/1992) 6a§:ssä säädetään asiakasmaksujen maksukatosta. Maksukaton täyttymisen jälkeen siihen sisältyvät palvelut ovat maksuttomia kyseisen vuoden loppuun saakka lukuun ottamatta niin sanottua ylläpitomaksua lyhytaikaisesta laitoshoidosta tai -palvelusta. Lain mukaan asiakkaan on seurattava maksujen kertymää ja maksukaton ylittymistä itse. Hyvinvointialueen on maksukaton ylityttyä annettava siitä todistus asiakkaalle. Pyynnöstä asiakkaalle annetaan paperinen vapaakortti. Asiakasmaksujen korottamisen jälkeen maksukatto ylittyy jatkossa useammalla asiakkaalla. Asiakasmaksulain mukaan asiakkaan saamaan laskuun on sisällytettävä tieto siitä kerryttääkö perittävä maksu maksukattoa sekä tieto siitä, että asiakkaan on seurattava itse maksukattoa. Sosiaali- ja terveysministeriön ohjausasiakirjan, Asiakasmaksulainsäädännön tarjoamat suojakeinot (VN/5274/2025-STM-1), mukaan hyvinvointialueilla on oikeus kerätä välttämättömiä tietoja asiakkaan maksukaton täyttymisen seuraamiseksi ja saada ne julkiselta tai yksityiseltä palveluntuottajalta maksukaton täyttymisen seuraamiseksi. Edellä mainitussa ohjausasiakirjassa todetaan, että asiakkaat voivat olla eriarvoisessa asemassa maksukaton seuraamisen suhteen. Sen mukaan maksukaton seurantavastuun siirtämistä asiakkaalta viranomaiselle selvitetään asiakasmaksulakia myöhemmin uudistettaessa. Edelleen suositellaan hyvinvointialueille käytettävissä olevien voimavarojen ja tietojärjestelmien tarjoamissa puitteissa ottamaan käyttöön menetelmiä, jossa asiakkaita voitaisiin aloitteellisesti informoida maksukaton täyttymisestä.\n\nPohjanmaan hyvinvointialueen verkkosivuilla (linkki) on tietoa maksukatosta. Laskuissa on tieto siitä, kuuluuko laskutettu palvelu maksukattoa kerryttäviin ja että maksukaton raja vuonna 2026 on 815€. Lisäksi kussakin laskussa on tieto tiedossa olevista maksukattokertymään kuuluvista kuluista laskutuspäivänä. Kevättalvella 2026 Pohjanmaan hyvinvointialueella on tehty työtä laskussa olevien tekstien selkeyttämiseksi niin, että ne olisivat helpommin ymmärrettäviä. Muutokset pyritään saamaan laskujen mallipohjiin yhteistyössä IT-palvelujen kanssa mahdollisimman pian. Laskuissa tulee jatkossa olemaan ohjeita myös muilla hyvinvointialueilla saadun hoidon kustannusten sisällyttämisestä maksukattoon. LifeCare-järjestelmään siirtymisen myötä järjestelmä seuraa maksurajaa automaattisesti, mikä on huomattavasti parantanut maksujen automaattista seuraamista. Heti kun maksurajan summa saavutetaan, avohoidon maksujen laskutus lopetetaan ja hoitopäivämaksu laskee automaattisesti alempaan summaan (26,80 € hoitopäivää kohti).\n\nPotilaiden, joita on hoidettu toisella hyvinvointialueella tai HUS:issa, tulisi ilmoittaa asiasta Pohjanmaan hyvinvointialueelle. Sen jälkeen ÖVPH:lta otetaan yhteyttä toiseen hyvinvointialueeseen ja pyydetään sieltä tietoja potilaan hoitokustannuksista. Alaikäisiltä laskutettavat hoitomaksut koskevat enintään 7 hoitopäivää vuodessa osastohoidossa ja päiväkirurgiassa. Muu hoito on alaikäisille maksutonta. Järjestelmä kirjaa lapsen hoitokustannukset automaattisesti vanhempien tilille, mikä tarkoittaa, että vanhempien ei tarvitse itse aktiivisesti seurata lapsen hoitokustannuksia. Tämä koskee ÖVPH:n piirissä annettavaa hoitoa. Muilta hyvinvointialueilta ei ole mahdollista saada automaattisesti tietoa potilaiden hoitokustannuksista.\n\n6.10.2025 jätetyssä Maksuhuojennusten aktiivista tiedottamista ja harkintaa maksujen perintään koskevassa aloitteessa (liite 2) tuodaan esiin korotetut asiakasmaksut, sosiaaliturvan leikkaukset, työllisyyden haasteet, jotka ovat ajaneet monet kotitaloudet vaikeuksiin ja haasteisiin arjesta ja sen perusmenoista selviytymiseksi. Taloudellisen ahdingon nähdään aiheuttavan myös lääkärikäynneistä ja lääkkeiden ostamisesta luopumista. Välttämättömät lääkärikäynnit voivat myös tarkoittaa kykenemättömyyttä maksaa laskua, mikä johtaa sen joutumiseen perintään.\n\nAloitteen tekijät esittävät, että:\n\n1.\nMaksuhuojennusten hakemisen mahdollisuudesta tiedotetaan kansalaisille avoimesti, neuvoen ja opastaen hakemaan sitä\n\n2.\nEnnen maksujen siirtämistä perintään selvitetään asiakkaan todellinen maksukyky ja luovutaan maksun siirtämisestä perintätoimistolle ennen asian selvitystä ja mahdollistetaan maksun huojennus tai kokonaan maksusta luopuminen\n\nVastaus:\n\nAsiakasmaksulain 11 § velvoittaa hyvinvointialuetta jättämään perimättä tai alentamaan sosiaalihuollon palveluista määrätyn maksun ja terveydenhuollon palveluista henkilön maksukyvyn mukaan määrätyn maksun siltä osin kuin maksun periminen vaarantaa henkilön tai perheen toimeentulon edellytyksiä tai henkilön lakisääteisen elatusvelvollisuuden toteuttamista. Maksun alentamisen ja perimättä jättämisen on oltava ensisijaista toimeentulotuesta annetussa laissa (1412/1997) tarkoitettuun toimeentulotukeen nähden (30.12.2020/1201).\n\nPohjanmaan hyvinvointialueen verkkosivuilla (linkki) on tietoa asiakasmaksujen alentamisen ja perimättä jättämisen periaatteista, jotka hyvinvointialueen hallitus on 15.12.2025 hyväksynyt osana sosiaali- ja terveydenhuollon asiakasmaksuja vuodelle 2026. Terveydenhuollon tasamaksut ohjataan hakemaan perustoimeentulotukea KELA:lta. Verkkosivuilla (linkki) on myös kerrottu laskutuksen ja maksamattomasta laskusta aiheutuva prosessi muistutuksesta perintään. Asiakkaan on mahdollista sopia hyvinvointialueen kanssa maksujärjestelyistä, esimerkiksi laskun maksamisesta osissa. Hyvinvointialueen palveluissa tulee kiinnittää huomioita palveluohjaukseen ja tiedottamiseen koskien maksuhuojennusten ja perustoimeentulotuen hakemista. Tiedottamiseen tulee kiinnittää huomiota myös puhelinneuvonnassa, koska kaikilla ei ole pääsyä internetiin. Hyvinvointialueen maksuyksikön ja sosiaalihuollon yhteistyö toimii hyvin ja sosiaalihuollossa ohjataan asiakkaita ottamaan yhteyttä maksuyksikköön. Osassa palvelupäätöksiä on tieto mahdollisuudesta hakea maksuhuojennusta (Asiakasmaksulaki 11§).\n\nHyvinvointialueella ei ole realistisia mahdollisuuksia selvittää asiakkaiden maksukykyä ennen maksamattomien laskujen siirtämistä perintään. Sen sijaan palveluohjauksessa tulee ohjata asiakasta hakemaan perustoimeentulotukea KELA:lta, jossa huomioidaan terveydenhuollon kustannukset tai ottamaan yhteyttä talous- ja velkaneuvontaan.\n\nSektorijohtaja työikäiset Niemistö Riku\n\nehdottaa, että aluehallitus esittää aluevaltuustolle, että valtuusto merkitsee edellä olevan vastauksen tiedoksi ja toteaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Niemistö Riku\n\nWidd Christine\n\nLisätietoja: puhelinnumero: (vaihde)\n\nHallitus\n\nehdottaa, että valtuusto hyväksyy edellä olevan selvityksen, joka on annettu vastaukseksi aloitteeseen, ja julistaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuuston jäsen Harri Moisio esitti, että toiseen valtuustoaloitteeseen annettava vastaus palautetaan jatkovalmisteluun siten, että vastauksessa otetaan huomioon aluehallituksen päätös mahdollisuudesta alentaa tai jättää perimättä terveydenhuollon tasasuuruisia asiakasmaksuja. Anna Caldén kannatti palautusesitystä.\n\nAluevaltuusto hyväksyi ensimmäiseen aloitteeseen annetun vastauksen ja totesi aloitteen loppuun käsitellyksi. Aluevaltuusto hyväksyi yksimielisesti toisen aloitteen palauttamisen jatkovalmisteluun."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nMaksukatto ja Asiakasmaksut Pohjanmaan hyvinvointialueella\n\nLiite 2\n\nAsiakkaalta perittyjen asiakasmaksujen enimmäismäärän seuraaminen\n\nLiite 3\n\nMaksuhuojennusten aktiivinen tiedottaminen ja harkintaa maksujen perintään\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Maksukatto ja Asiakasmaksut Pohjanmaan hyvinvointialueella",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-10-109213.PDF"
+    },
+    {
+     "title": "Asiakkaalta perittyjen asiakasmaksujen enimmäismäärän seuraaminen",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-10-72213.PDF"
+    },
+    {
+     "title": "Maksuhuojennusten aktiivinen tiedottaminen ja harkintaa maksujen perintään",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-10-78469.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "65",
+   "title": "Vastaus valtuustoaloitteisiin: Vaihdevuosineuvonnan ja hoidon parantaminen, L Alhonnoro (Vihr) sekä Vaihdevuosineuvonta ja vaihdevuosiystävällinen työelämä, S Somppi (RKP)",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026789-11",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-11.PDF",
+   "diary_number": "ÖVPH/1259/00.02.00/2025",
+   "preparer": "Niemistö Riku; Lönnberg Karolina; Guss Kathy; Lisätietoja: puhelinnumero: (vaihde); Yhteinen vastaus valtuustoaloitteisiin. Aluevaltuutettu Lotta Alhonnoro on 10.2.2025 jättänyt valtuustoaloitteen, jossa hän vaatii Pohjanmaan hyvinvointialuetta selvittämään, kuinka vaihdevuosineuvontaa ja hoitoa voi",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.\n\nAluevaltuuston jäsen Lotta Alhonnoro esitti seuraavan toimenpidealoitteen: Selvitetään vaihdevuosien hoidon lisäämistä osaksi Pohjanmaan hyvinvointialueen työterveyshuoltoa. Charlotta Ekman kannatti toimenpidealoitetta. Aluevaltuusto hyväksyi toimenpidealoitteeen yksimielisesti.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 31.08.2026 § 159"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Niemistö Riku\n\nLönnberg Karolina\n\nGuss Kathy\n\nLisätietoja: puhelinnumero: (vaihde)\n\nYhteinen vastaus valtuustoaloitteisiin. Aluevaltuutettu Lotta Alhonnoro on 10.2.2025 jättänyt valtuustoaloitteen, jossa hän vaatii Pohjanmaan hyvinvointialuetta selvittämään, kuinka vaihdevuosineuvontaa ja hoitoa voitaisiin parhaiten toteuttaa alueemme terveydenhuollossa. Alhonnoron aloite käsiteltiin aluehallituksessa 13.4.2026 ja palautettiin yksimielisesti jatkovalmisteluun vastauksen yhdistämiseksi samankaltaiseen valtuustoaloitteeseen. Aluevaltuutettu Sari Somppi on 6.10.2025 jättänyt samaa aihepiiriä koskevan aloitteen, jossa hän esittää, että Pohjanmaan hyvinvointialue noudattaa kansallisia hoitosuosituksia vaihdevuosioireiden hoidossa ja osoittaa siihen riittävät resurssit. Lisäksi esitetään, että vaihdevuosineuvontaa annetaan osana terveydenhuoltoa, esimerkiksi kätilöiden ja gynekologien toimesta, joilla on erityisosaamista sekä että tietoa vaihdevuosista annetaan helpommin saatavilla olevaksi kaikille naisille. Vaihdevuosien huomioiminen tarkoittaa naisten terveyden, työkyvyn ja oikeuden yhdenvertaiseen hoitoon ottamista tosissaan.\n\nDialogia työnantajien kanssa esitetään koskien vaihdevuosiystävällisiä työpaikkoja. Vaihdevuosioireiden hoidossa ei ole ollut selkeää prosessia eikä hoidolle ole myöskään asetettu valtakunnallisia suosituksia. Ensimmäinen valtakunnallinen vaihdevuosien Käypä hoito -suositus on annettu 22.9.2025 Asiakkaat tai ammattihenkilöstö eivät ole aina tunnistaneet erilaista oireilua vaihdevuosista johtuvaksi, jolloin myös hoitoon on hakeuduttu eri syistä. Esimerkiksi masennukseen ja uniongelmiin asiakas on hakenut apua psykososiaalisista palveluista, ja gynekologisissa oireissa usein yksityiseltä gynekologilta. Oireiden moninaisuus voi vaikeuttaa diagnosointia ja vaikeuttaa oikean avun löytymistä. Perusterveydenhuollon lääkäreiden osaaminen vaihdevuosista johtuvien oireiden tunnistamisessa, potilaiden kohtaamisessa ja sopivan avun löytymisessä vaihtelevat. Henkilöstön osaamista on tarpeen kehittää. Perusterveydenhuollolla on keskeinen rooli vaihdevuosioireiden arvioinnissa, neuvonnassa ja hoidossa. Oireisen potilaan vaihdevuosien hoidon voi aloittaa yleis- tai työterveyslääkäri, eikä gynekologin kannanottoa pääsääntöisesti tarvita. Hoitoon liittyvää ohjausta ja neuvontaa voi antaa vaihdevuosien hoitoon perehtynyt terveydenhoitaja tai kätilö.\n\nPalvelun tarve on noussut selkeästi esiin yksiköissä, joissa otetaan kohdunkaulansyövänseulontanäytteitä. Kaikilla ei ole mahdollisuutta hakeutua yksityiselle puolelle saamaan hoitoa.\n\nVaihdevuosioireisten naisten hoitopolku käynnistyy 1.9.2026. Hoitopolulle hakeudutaan ensivaiheessa puhelimitse tai chat-palvelun kautta. Tarkoituksena on hyödyntää hoidon aloituksessa ja oireiden alkukartoituksessa myös digitaalisia kyselyitä. Ensikontaktin perusteella asiakas ohjataan tarvittaessa tarkoituksenmukaiselle vastaanotolle ja jatkohoitoon. Syyskuun alussa julkaistaan asiakasohjeistus hyvinvointialueen verkkosivuille, josta asiakkaat saavat luotettavaa itsehoitomateriaalia vaihdevuosioireiden hoitoon.\n\nTavoitteena on, että kaikilla asiakkailla on mahdollisuus saada palvelua. On vaikea arvioida missä määrin asiakkaita tulee, sillä tällaista palvelua ei ole aiemmin ollut. Tarkoituksena kuitenkin kehittää palvelua tarpeen mukaan, kun saadaan kokemusta toiminnasta. Tavoitteena on, että tulevan hoitopolun avulla palvelu on helpommin saatavilla kaikille. Käypähoito-suositukset otetaan huomioon hyvinvointialueen hoitopolun suunnittelussa. Käypä hoito -suosituksessa on selkeästi avattu huomioitavat asiat turvallisen ja oikean hoidon takaamiseksi.\n\nKäypä hoito -suosituksen mukaan vaihdevuosioireisten naisten hoidossa korostuu kokonaisvaltainen lähestymistapa, jossa potilaan oma vastuu hyvinvointia ja terveyttä edistävien ja ylläpitävien elämäntapojen osalta on keskeinen. Säännöllinen liikunta, terveellinen ja monipuolinen ruokavalio, riittävä uni sekä stressinhallinta muodostavat hoidon perustan ja voivat lievittää vaihdevuosioireita merkittävästi.\n\nTyöterveyshuollolla on lisäksi oma tärkeä tehtävänsä erityisesti työikäisten naisten työkyvyn tukemisessa, oireiden vaikutusten arvioinnissa sekä tarvittaessa hoitoon ohjaamisessa ja työjärjestelyihin liittyvässä tuessa. Vaihdevuosioireisten naisten työkykyyn suhtaudutaan kuten muihin työkykyä mahdollisesti heikentäviin sairauksiin tai oireisiin. Vaihdevuosioireille ei ole määritelty erillistä työkykypolkua, vaan työkykyä arvioidaan osana tavanomaisia työkyvyn tuen ja arvioinnin käytäntöjä. Työnantajien on hyvä huomioida vaihdevuosioireiden mahdollinen vaikutus työkykyyn työkyvyn arviointia ja tukemista koskevissa suunnitelmissaan.\n\nSektorijohtaja työikäiset Niemistö Riku\n\nehdottaa että aluehallitus päättää antaa oheisen vastauksen valtuustoaloitteeseen selontekona aluevaltuustolle, sekä ehdottaa, että aloite on täten loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Niemistö Riku\n\nLönnberg Karolina\n\nGuss Kathy\n\nLisätietoja: puhelinnumero: (vaihde)\n\nHallitus\n\nehdottaa, että valtuusto hyväksyy edellä olevan selvityksen, joka on annettu vastaukseksi aloitteeseen, ja julistaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin.\n\nAluevaltuuston jäsen Lotta Alhonnoro esitti seuraavan toimenpidealoitteen: Selvitetään vaihdevuosien hoidon lisäämistä osaksi Pohjanmaan hyvinvointialueen työterveyshuoltoa. Charlotta Ekman kannatti toimenpidealoitetta. Aluevaltuusto hyväksyi toimenpidealoitteeen yksimielisesti."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nAiempi käsittely 13.4.2026 Vastaus valtuustoaloitteeseen Vaihdevuosineuvonnan ja hoidon parantaminen, L Alhonnoro\n\nLiite 2\n\nVaihdevuosineuvonnan ja hoidon parantaminen\n\nLiite 3\n\nAloite vaihdevuosineuvonnasta ja vaihdevuosien huomioimisesta työelämässä S Somppi\n\nJakelu"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Aiempi käsittely 13.4.2026 Vastaus valtuustoaloitteeseen Vaihdevuosineuvonnan ja hoidon parantaminen, L Alhonnoro",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-11-106071.PDF"
+    },
+    {
+     "title": "Vaihdevuosineuvonnan ja hoidon parantaminen",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-11-61934.PDF"
+    },
+    {
+     "title": "Aloite vaihdevuosineuvonnasta ja vaihdevuosien huomioimisesta työelämässä S Somppi",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-11-106078.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "66",
+   "title": "Vastaus valtuustoaloitteeseen; HYTE-kertoimen avaaminen, H Moisio (Vas.)",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026789-12",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-12.PDF",
+   "diary_number": "ÖVPH/6301/00.02.00/2025",
+   "preparer": "Sjöström Pia-Maria; Lisätietoja: puhelinnumero:; Vasemmistoliiton valtuustoryhmä on jättänyt 6.10.2025 valtuustoaloitteen, jossa ehdotetaan, että valtuustolle tuodaan selkeä mallinnus HYTE-kertoimen indikaattoreista ja siitä, mitä niiden hyvä tai huono toteuttaminen tarkoittaa valtionosuuksien tasol",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 15.12.2025 § 242"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nVasemmistoliiton valtuustoryhmä on jättänyt 6.10.2025 valtuustoaloitteen, jossa ehdotetaan, että valtuustolle tuodaan selkeä mallinnus HYTE-kertoimen indikaattoreista ja siitä, mitä niiden hyvä tai huono toteuttaminen tarkoittaa valtionosuuksien tasolle ja lopulliseen rahoitukseen. Aloitteen mukaan päättäjillä on hyvä olla realistinen käsitys siitä, miten HYTE-kertoimen hyvä taso voi parhaimmillaan vaikuttaa valtionosuuksiin.\n\nHyvinvointialueen hyvinvoinnin ja terveyden edistämisen kerroin eli HYTE-kerroin koostuu kahdesta osasta: prosessi-indikaattoreista, jotka kuvaavat hyvinvointialueen voimavaroja ja toimenpiteitä hyvinvoinnin ja terveyden edistämiseksi, ja tulosindikaattoreista, jotka kuvaavat hyvinvoinnin ja terveyden edistämisen tuloksellisuutta väestötasolla. Tulosindikaattoreista lasketaan kahden viimeisimmän vuoden tai mittausajankohtien välinen erotus kuvaamaan tapahtunutta muutosta. Vuosina 2023-2025 korvausta on maksettu suhteessa asukasmäärään. Vuosi 2026 on ensimmäinen vuosi, jolloin korvausta maksetaan indikaattoreiden perusteella.\n\nHYTE-kertoimen perusteella jaetaan 1,46 prosenttia hyvinvointialueiden rahoituksesta, mikä vastaa vuonna 2026 n. 400 milj. euroa. Summaa ei ole korvamerkitty terveyden edistämiseen, vaan hyvinvointialue voi käyttää saamansa summan valtion rahoituksen perusteissa osoitettujen tehtävien hoitamiseksi. Pohjanmaan hyvinvointialue saa vuonna 2026 kertoimen perusteella n. 12,1 milj. euron rahoituksen. Vuotta 2026 lähestyttäessä Pohjanmaan kokonaisindeksi on 1,018, ts. hieman kansallisen keskitason yläpuolella.\n\nHyvinvointialueen hyvinvoinnin ja terveyden edistämisen koordinaattorien tehtäviin kuuluu indikaattorien seuranta sekä yhteistyö toimialojen kanssa sen varmistamiseksi, että indikaattorit ovat mahdollisimman korkeita. Terveyden edistämisen rahoituksen kehitystä on kuitenkin lähes mahdotonta ennustaa. Kerroin mittaa toisaalta muutosta; jos tehdään suuri parannus, kerroin nousee yhtenä vuonna ja laskee seuraavana vuonna, vaikka tehtäisiin vielä pieni lisäparannus. Toisaalta summa jaetaan hyvinvointialueiden kesken siten, että yhden alueen indeksi voi olla enintään 2. Jos yhden alueen ehkäisevän työn rahoitus lisääntyy paljon, muiden alueiden rahoitus vähenee.\n\nEri HYTE-kertoimet ja niiden nykyiset indeksit sisältyvät alueelliseen hyvinvointisuunnitelmaan, joka on osa palvelustrategiaa (sivut 48-51), ja niitä seurataan vuosittain osana suunnitelman arviointia.\n\nSektorijohtaja lapset, nuoret ja perheet Sjöström Pia-Maria\n\nehdottaa, että aluehallitus päättää antaa vastauksen valtuustoaloitteeseen selontekona aluevaltuustolle. Hallitus ehdottaa valtuustolle, että aloite on täten loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Esittelijä teki valmisteluun teknisen korjauksen, viittaus koskee palvelustrategian sivuja 48-50, ei 48-51.\n\nAluehallitus hyväksyi vastauksen edellä mainitulla korjauksella ja päätti antaa vastauksen valtuustoaloitteeseen selontekona aluevaltuustolle. Hallitus ehdottaa valtuustolle, että aloite on täten loppuun käsitelty.\n\nAluevaltuusto 30.03.2026 § 19"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nHallitus\n\nehdottaa, että valtuusto hyväksyy edellä olevan selvityksen, joka on annettu vastaukseksi aloitteeseen, ja julistaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuutettu Harri Moisio ehdotti, että asia palautetaan valmisteluun jotta voidaan edelleen avata sitä, miten alueen eri HYTE-indikaattorit vaikuttavat rahoitukseen. Esitystä kannattivat valtuutetut Åkers ja Ede.\n\nAluevaltuusto päätti yksimielisesti palauttaa asian valmisteluun.\n\nHyvinvoinnin ja terveyden edistämisen sekä yhdyspintojen jaosto 07.09.2026 § 42"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nTilläggsuppgifter: telefonnummer: (växel)\n\nHYTE-kerroin vaikuttaa hyvinvointialueen rahoitukseen siten, että osa valtionrahoituksesta jaetaan sellaisten indikaattorien perusteella, jotka kuvaavat sekä hyvinvointialueen omia terveyttä edistäviä työskentelytapoja että väestön hyvinvoinnin ja terveyden muutoksia. Prosessi-indikaattorit kuvaavat, kuinka järjestelmällisesti hyvinvointialue toteuttaa keskeisiä ehkäiseviä toimenpiteitä, kuten terveystarkastuksista poisjäännin seurantaa, rokotesuojaa, alkoholin riskikäyttöön liittyviä mini-interventioita, elintapaneuvontaa ja työttömien terveystarkastuksia. Tulosindikaattorit puolestaan kuvaavat väestön hyvinvoinnin ja terveyden muutoksia, esimerkiksi sairaalahoitoon johtavia vammoja ja myrkytyksiä, lonkkamurtumia, työelämän ja koulutuksen ulkopuolella olevia nuoria, pitkäaikaista perustoimeentulotuen tarvetta sekä mielenterveysongelmista johtuvaa työkyvyttömyyttä.\n\nRahoitusvaikutus ei määräydy yksinomaan minkään erillisen indikaattorin perusteella, vaan prosessi- ja tulosindikaattorien yhteisen tason perusteella suhteessa muihin hyvinvointialueisiin. Prosessi- ja tulososalla on kummallakin yhtä suuri merkitys laskennassa. Yhden indikaattorin paraneminen voi siten vahvistaa hyvinvointialueen indeksiä ja rahoitusosuutta, mutta lopullinen vaikutus riippuu samalla muiden hyvinvointialueiden kehityksestä sekä HYTE-kertoimen kautta valtakunnallisesti jaettavasta kokonaissummasta. Koska useisiin tulosindikaattoreihin vaikuttavat pitkän aikavälin yhteiskunnalliset ja väestölliset muutokset sekä kuntien, järjestöjen ja muiden toimijoiden kanssa tehtävä yhteistyö, ei yksittäisen toimenpiteen tai indikaattorin eurovaikutusta ole mahdollista laskea tarkalleen etukäteen.\n\nKehityksen näkyvyyden parantamiseksi HYTE-kerrointa seurataan valtuustossa hyvinvointialueen palvelustrategiaan kuuluvan alueellisen hyvinvointisuunnitelman seurannan yhteydessä. Lisäksi eräät prosessi-indikaattorit kuuluvat myös neljännesvuosittaiseen strategiaseurantaan, minkä johdosta on mahdollista seurata säännöllisesti, miten toimialojen työskentelytavat kehittyvät, ja tarvittaessa kohdentaa toimenpiteitä niihin osiin, joiden kehitystä on vahvistettava. Seurantaa käytetään ehkäisevän työn johtamisen, priorisoinnin ja koordinoinnin tukena, mutta rahoitus määräytyy lopulta valtakunnallisten laskentaperiaatteiden ja hyvinvointialueiden välisen vertailun mukaan.\n\nSektordirektör för barn, unga och familjer Sjöström Pia-Maria\n\nehdottaa, että hyvinvoinnin ja terveyden edistämisen sekä yhdyspintojen jaosto päättää antaa vastauksen valtuustoaloitteeseen selontekona aluehallitukselle valtuuston jatkokäsittelyä varten."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Jaosto hyväksyi esityksen.\n\nAluehallitus 21.09.2026 § 175"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nSektorijohtaja lapset, nuoret ja perheet Sjöström Pia-Maria\n\nehdottaa, että aluehallitus päättää antaa vastauksen valtuustoaloitteeseen selontekona aluevaltuustolle. Hallitus ehdottaa valtuustolle, että aloite on täten loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nHallitus\n\nehdottaa, että valtuusto hyväksyy edellä olevan selvityksen, joka on annettu vastaukseksi aloitteeseen, ja julistaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nHYTE-kertoimen avaaminen"
+    },
+    {
+     "heading": "Oheisaineisto",
+     "text": ""
+    }
+   ],
+   "attachments": [
+    {
+     "title": "HYTE-kertoimen avaaminen",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-12-78474.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "67",
+   "title": "Vastaus valtuustoaloitteeseen; Parantaa keskenmenoihin liittyvää hoitoa ja neuvontaa, R Åkers (SDP)",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026789-13",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-13.PDF",
+   "diary_number": "ÖVPH/6293/00.02.00/2025",
+   "preparer": "Sjöström Pia-Maria; Lisätietoja: puhelinnumero:; Rebecca Åkers (SDP) ym. ovat jättäneet 6.10.2025 valtuustoaloitteen, jossa ehdotetaan, että hyvinvointialue kehittää keskenmenoihin liittyvää neuvontaa kokonaisuudeksi, jossa huomioidaan asiakkaan fyysiset, psyykkiset ja emotionaaliset tarpeet. Aloitt",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvoinnin ja terveyden edistämisen sekä yhdyspintojen jaosto 21.01.2026 § 9"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nRebecca Åkers (SDP) ym. ovat jättäneet 6.10.2025 valtuustoaloitteen, jossa ehdotetaan, että hyvinvointialue kehittää keskenmenoihin liittyvää neuvontaa kokonaisuudeksi, jossa huomioidaan asiakkaan fyysiset, psyykkiset ja emotionaaliset tarpeet. Aloitteen mukaan on olemassa selkeät suunnitelmat siitä, millaista hoitoa ja neuvontaa raskauden yhteydessä annetaan, mutta raskauden päättyminen keskenmenoon - mikä on varsin yleistä - voi merkitä suurta fyysistä, psyykkistä ja emotionaalista kriisiä, eikä tuen ja avun tarjoamiseen ole silloin samanlaista valmiutta.\n\nVastaus aloitteeseen on valmisteltu yhteistyössä äitiysneuvolan ja äitiyspoliklinikan/synnytysosaston vastuuhenkilöiden ja perhekeskuskoordinaattorin kanssa.\n\nToimialoilta todetaan, että loppuraskauden keskenmenojen seurantaa varten on olemassa melko hyvät käytänteet. Alkuraskauden keskenmenojen osalta tarjotaan usein tukikeskusteluja äitiysneuvolan kautta, mutta menettelytavat vaihtelevat vielä yksiköiden välillä, eikä niistä ole tietoa hyvinvointialueen verkkosivuilla. On selvästikin tarpeen parantaa hyvinvointialueen verkkosivujen tiedotusta, joka koskee mahdollisuuksia saada tukea eri toimijoiden kautta keskenmenon jälkeen. Tähän liittyvä työ on aloitettu osana meneillään olevaa lapsia, nuoria ja perheitä koskevien tiedotuskokonaisuuksien läpikäyntiä hyvinvointialueen verkkosivuilla. Myös sisäisiä prosesseja ja ohjeita selkiytetään tarvittavilta osin.\n\nSektorijohtaja lapset, nuoret ja perheet Sjöström Pia-Maria\n\nehdottaa, että hyvinvoinnin ja terveyden edistämisen sekä yhdyspintojen jaosto päättää antaa vastauksen valtuustoaloitteeseen selontekona aluehallitukselle valtuuston jatkokäsittelyä varten."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Jaosto hyväksyi ehdotuksen.\n\nAluehallitus 16.02.2026 § 44"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nSektorijohtaja lapset, nuoret ja perheet Sjöström Pia-Maria\n\nehdottaa, että aluehallitus päättää antaa vastauksen valtuustoaloitteeseen selontekona aluevaltuustolle. Hallitus ehdottaa valtuustolle, että aloite on täten loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin.\n\nAluevaltuusto 30.03.2026 § 27"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nHallitus\n\nehdottaa, että valtuusto hyväksyy edellä olevan selvityksen, joka on annettu vastaukseksi aloitteeseen, ja julistaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuutettu Rebecca Åkers ehdotti, että asia palautetaan valmisteluun jotta voidaan saada tarkempi vastaus siihen, miten toimintatapoja on parannettu / aiotaan parantaa sekä selkeyttää rakenteita toiminnassa ja hoidossa. Esitystä kannattivat valtuutetut Karppi ja Caldén.\n\nAluevaltuusto päätti yksimielisesti palauttaa asian valmisteluun.\n\nHyvinvoinnin ja terveyden edistämisen sekä yhdyspintojen jaosto 07.09.2026 § 43"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nTilläggsuppgifter: telefonnummer: (växel)\n\nValtuusto palautti asian jatkovalmisteluun sillä perusteella, että vastauksessa tulee kuvata tarkemmin, miten hyvinvointialue on parantanut ja aikoo parantaa toimintatapoja sekä selkeyttää keskenmenoihin liittyvän toiminnan ja hoidon rakenteita. Täydentävässä valmistelussa on keskitytty kuvaamaan nykyistä vastuunhakoa, aikaisemmin tunnistettuja kehittämistarpeita ja konkreettisia toimenpiteitä, joiden avulla naiset ja heidän perheensä saavat yhdenvertaisempaa tietoa, hoitoa ja tukea keskenmenon jälkeen.\n\nKeskenmeno voi aiheuttaa merkittävän fyysisen, psyykkisen ja emotionaalisen tuen tarpeen riippumatta siitä, millä raskausviikolla keskenmeno tapahtuu. Sen vuoksi hyvinvointialueen tavoitteena on, että asiakkaalle ei tarjota pelkästään lääketieteellistä seurantaa, vaan hänelle annetaan lisäksi selkeää tietoa siitä, mistä hän voi saada keskusteluapua, jatkoneuvontaa ja tarvittaessa arvion muun psykososiaalisen tuen tarpeesta. Jatkovalmistelussa on todettu, että hoitoketjun tulee olla riittävän selkeä sekä asiakkaille että äitiysneuvolan, äitiyspoliklinikan, päivystyksen, perusterveydenhuollon ja perhekeskuksen palvelukokonaisuuden henkilöstölle.\n\nEnsimmäisenä toimenpiteenä selkeytetään sisäistä vastuunjakoa. Varhaisessa keskenmenossa äitiysneuvola on luonnollinen yhteystaho asiakkaille, joilla on jo hoitokontakti sinne tai jotka tarvitsevat neuvontaa ja seurantakeskusteluja. Lääketieteellisissä kysymyksissä, komplikaatioissa tai erityisarviointia tarvittaessa asiakas ohjataan hoidon tarpeen mukaisesti oikeaan hoitoportaaseen, esimerkiksi äitiyspoliklinikalle, päivystykseen tai muuhun terveydenhuoltoon. Erikoissairaanhoidossa on jo vakiintuneet menettelytavat myöhempiä keskenmenoja varten, mutta nämäkin menettelytavat tarkistetaan siten, että jatkotukea ja yhteydenottokanavia koskeva tiedotus on yhtenäistä.\n\nToisena toimenpiteenä laaditaan ja yhteensovitetaan yhteiset ohjeet henkilöstölle. Ohjeiden tarkoituksena on selkeyttää, mitä asioita asiakkaan kanssa otetaan esille keskenmenon jälkeen, miten seurannan ja tukikeskustelujen tarve arvioidaan, miten kumppanin ja perheen mahdollinen tuen tarve huomioidaan sekä milloin asiakas ohjataan eteenpäin muuhun palveluun. Tarkoituksena on vähentää vaihtelua eri yksikköjen välillä ja varmistaa yhdenvertaisempi kohtelu koko hyvinvointialueella.\n\nKolmantena toimenpiteenä on parannettu ulkoista tiedotusta. Hyvinvointialueen verkkosivuilla olevia lasten, nuorten ja perheiden tiedotuskokonaisuuksia päivitettäessä sivuille on lisätty tietoa keskenmenosta, jatkohoidosta ja saatavilla olevista tukimuodoista. Tiedoissa kerrotaan, milloin asiakkaan tulee ottaa yhteys terveydenhuoltoon, mitä yhteydenottokanavia on, millaisia tukikeskustelumahdollisuuksia neuvola tarjoaa sekä mitkä muut toimijat voivat tarjota tukea. Tavoitteena on, että asiakas löytää tarvitsemansa tiedot helposti myös silloin, kun hän ei jaksa itse etsiä tietoa useista eri kanavista.\n\nNeljäntenä toimenpiteenä kehittämistyö kytketään alueelliseen neuvolasuunnitelmaan ja perhekeskuksen toiminnan kehittämiseen. Neuvolatoiminnan lähtökohtana on jatkossakin kokonaisvaltainen lähestymistapa, jossa fyysiset, psyykkiset ja sosiaaliset tarpeet tunnistetaan varhaisessa vaiheessa ja jossa perhe ohjataan tarvittaessa eteenpäin oikean tuen piiriin. Palvelustrategiassa ja alueellisessa hyvinvointisuunnitelmassa korostetaan selkeiden palveluketjujen tarvetta muun muassa keskenmenotilanteissa, mikä tukee sitä, että työ ei jää vain erilliseksi tiedotustoimenpiteeksi, vaan siitä tulee osa laajempaa neuvola- ja perhekeskuspalvelujen kehittämistä.\n\nKokoavasti todetaan, että hyvinvointialue on jo tunnistanut tarpeen selkeämmille ja yhtenäisemmille menettelytavoille keskenmenojen osalta, etenkin varhaisten keskenmenojen, joiden hoidossa yksikköjen välinen vaihtelu on ollut suurinta. Suunniteltuihin ja meneillään oleviin toimenpiteisiin kuuluu sisäisten ohjeiden ja vastuunjaon selkeyttäminen, asiakkaille ja perheille suunnatun tiedotuksen parantaminen, selkeämpi kuvaus yhteydenottokanavista sekä sen varmistaminen, että tukikeskusteluista ja jatkotuen piiriin ohjaamisesta tulee luonnollinen osa hoito- ja palveluketjua. Näiden toimenpiteiden avulla parannetaan edellytyksiä sille, että keskenmenon kokeneet saavat yhdenvertaisempaa, selkeämpää ja kokonaisvaltaisempaa tukea koko Pohjanmaan hyvinvointialueella.\n\nSektordirektör för barn, unga och familjer Sjöström Pia-Maria\n\nehdottaa, että hyvinvoinnin ja terveyden edistämisen sekä yhdyspintojen jaosto päättää antaa vastauksen valtuustoaloitteeseen selontekona aluehallitukselle valtuuston jatkokäsittelyä varten."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Jaosto hyväksyi esityksen.\n\nAluehallitus 21.09.2026 § 176"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nSektorijohtaja lapset, nuoret ja perheet Sjöström Pia-Maria\n\nehdottaa, että aluehallitus päättää antaa vastauksen valtuustoaloitteeseen selontekona aluevaltuustolle. Hallitus ehdottaa valtuustolle, että aloite on täten loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nHallitus\n\nehdottaa, että valtuusto hyväksyy edellä olevan selvityksen, joka on annettu vastaukseksi aloitteeseen, ja julistaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nFörbättra vården och rådgivningen vid missfall_Parantaa keskenmenoihin liittyvää hoitoa ja neuvontaa"
+    },
+    {
+     "heading": "Oheisaineisto",
+     "text": ""
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Förbättra vården och rådgivningen vid missfall_Parantaa keskenmenoihin liittyvää hoitoa ja neuvontaa",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-13-78459.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "68",
+   "title": "Vastaus valtuustoaloitteeseen; Alueellinen neurokirjon toimenpideohjelma, T Kivioja (SDP)",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026789-14",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-14.PDF",
+   "diary_number": "ÖVPH/1258/00.02.00/2025",
+   "preparer": "Sjöström Pia-Maria (Penttinen Erkki); Lisätietoja: puhelinnumero:; Aluevaltuuston varajäsen Tuija Kivioja on tehnyt valtuustoaloitteen alueellisen neurokirjon toimenpideohjelman laatimisesta. Alunperin asiasta eduskunnan Nepsy-verkosto on tehnyt aloitteen neurokirjon strategian laatimisesta hyvinvoi",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Asia palautettiin jatkovalmisteluun.\n\nAluevaltuuston jäsen Sari Ala-Heikkilä esitti SDP:n valtuustoryhmän puolesta asian palauttamista jatkovalmisteluun. Uudessa valmistelussa tulee arvioida ja selvittää, miten neurokirjoon kuuluvien henkilöiden palvelujen saatavuus, palveluketjujen toimivuus ja tuen jatkuvuus otetaan huomioon alueellisessa hyvinvointisuunnitelmassa sekä miten niiden toteutumista seurataan hyvinvointikertomuksessa osana hyvinvointialueen ja yhteistyökumppaneiden yhdyspintatyötä. Tässä ei siten ehdoteta uutta rinnakkaista järjestelmää. Pyydämme, että jo tunnistetut haasteet sisällytetään nykyiseen suunnitteluun, toimeenpanoon liittyviä vastuita selkeytetään ja toimenpiteiden seuranta mahdollistetaan.\n\nAluevaltuuston jäsenet Alhonnoro ja Caldén kannattivat palautusesitystä. Aluevaltuusto palautti aloitteen yksimielisesti jatkovalmisteluun.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvoinnin ja terveyden edistämisen sekä yhdyspintojen jaosto 07.09.2026 § 44"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria (Penttinen Erkki)\n\nLisätietoja: puhelinnumero:\n\nAluevaltuuston varajäsen Tuija Kivioja on tehnyt valtuustoaloitteen alueellisen neurokirjon toimenpideohjelman laatimisesta. Alunperin asiasta eduskunnan Nepsy-verkosto on tehnyt aloitteen neurokirjon strategian laatimisesta hyvinvointialueille.\n\nAloitteen mukaa alueelliseen neurokirjon toimenpideohjelmaan tulisi kirjata tavoitteet ja konkreettiset toimenpiteet neurokirjon henkilöiden yhdenvertaisuuden ja osallisuuden edistämiseksi sekä palvelujen ja tukitoimien kehittämiseksi koko elämänkaaren ajalle. Aloitteen mukaan nykytilanteessa neurokirjon lasten, nuorten ja aikuisten sosiaali- ja terveyspalvelujen saatavuudessa, oikea-aikaisuudessa ja jatkuvuudessa on merkittävää vaihtelua hyvinvointialueiden sisällä ja eri alueiden välillä eivätkä palvelut toteudu yhdenvertaisesti.\n\nNeurokirjo on sateenvarjotermi, joka tarkoittaa ihmisen aivotoiminnan ja tiedonkäsittelyn yksilöllistä monimuotoisuutta, kuten ADHD:ta, autismikirjoa ja Touretten oireyhtymää. ADHD:n ydinoireita ovat pitkäkestoiset ja toimintakykyä haittaavat aktiivisuuden ja tarkkaavuuden säätelyn vaikeudet sekä impulsiivisuus, jotka poikkeavat muista samanikäisistä ja samalla kehitystasolla olevista. Autismikirjon häiriö on kehityksellinen häiriö, jolle on ominaista laaja-alaiset ja pysyvät sosiaalisen vuorovaikutuksen ja kommunikaation erityispiirteet sekä rajoittuneet, toistavat ja joustamattomat käytösmallit, kiinnostuksen kohteet tai aktiviteetit. Touretten oireyhtymä on lapsuudessa alkava neuropsykiatrinen oireyhtymä, jonka tunnusmerkkejä ovat toistuvat motoriset ja äänelliset tic-oireet. ADHD:lle ja autismikirjon häiriöille ovat olemassa omat Käypä hoito suositukset.\n\nNeurokirjon häiriöiden varhainen tunnistaminen on tärkeää, jotta arjen tukitoimet, ympäristön muokkaus ja tarvittava kuntoutus voidaan aloittaa mahdollisimman aikaisessa vaiheessa. Autismikirjon häiriön diagnoosien ja hoidon piirissä olevien lasten ja nuorten määrä on hiljalleen kasvanut Suomessa. Autismikirjon häiriön heterogeenisyyden takia ei ole olemassa yhtä interventiota, joka olisi tehokas tai edes tarpeellinen kaikille autismikirjon häiriön diagnoosin saaneille. Kuntoutuksen yksilöllinen suunnittelu ja toteutus on siten olennaista.\n\nSuomalaisen Lääkäriseuran Duodecimin, Suomen Lastenpsykiatriyhdistyksen, Suomen Nuorisopsykiatrisen Yhdistyksen, Suomen Kehitysvammalääkäreiden, Suomen Lastenneurologisen Yhdistyksen ja Suomen Psykiatriyhdistyksen asettama työryhmä suosittelee, että jokaisella hyvinvointialueella laaditaan ja otetaan käyttöön selkeä autismikirjon diagnostiikkaa, hoitoa ja kuntoutusta koskeva ohjeistus ja alueellisen hoitoketjun kuvaus, jota ylläpidetään.\n\n1.1.2025 on astunut voimaan uusi vammaispalvelulaki (675/2023). Uudistuksen myötä kaikki vammaiset henkilöt saavat vammaispalvelunsa saman lain perusteella ja lailla on pyritty ottamaan huomioon erilaiset toimintarajoitteet entistä paremmin, jotta vammaisia henkilöitä ei jäisi väliinputoajiksi palvelujärjestelmässä. Lain tarkoituksena on parantaa vammaisen henkilön mahdollisuuksia saada hänen yksilöllisen tarpeensa mukainen palvelukokonaisuus ja palveluiden toteuttamistapa ja vahvistaa vammaisten henkilöiden osallisuutta asiakasprosessissa.\n\nPohjanmaan hyvinvointialueella päivitetään parhaillaan ADHD-lasten palveluketjua uudistettujen Käypä hoito -suositusten pohjalta. Myös ADHD-nuorten prosessia on kehitetty ja kuvattu. Autismikirjon häiriöiden diagnostiikkaan ja kuntoutukseen liittyvän lasten palveluketjun suunnittelu on käynnissä.\n\nHyvinvointialueen toiminnan tulee olla yhdenvertaista ja osallistavaa eri taustoista, lähtökohdista ja tarpeista tuleville henkilöille. Eri diagnooseihin ja palvelutarpeisiin perustuvia palveluketjuja laaditaan, jotta asiakkaat ja potilaat saavat tarvitsemansa hoidon ja palvelut oikea-aikaisesti ja oikealla tasolla. Selkeille hoito- ja palveluketjuille on tarvetta myös tiettyjen neurokirjon ryhmien osalta. Toimintaa mukautetaan tarvittaessa eri tavoin erityistarpeita omaaville henkilöille, ja henkilöstölle järjestetään säännöllisesti koulutuksia muun muassa kohtaamiseen liittyvistä teemoista. On tärkeää, että neurokirjon henkilöt saavat tarvitsemansa hoidon ja palvelut samalla tavoin kuin muutkin väestöryhmät.\n\nHyvinvointialue kehittää palvelujaan uuden vammaispalvelulain hengen mukaisesti siten, että erityistä tukea tarvitsevien asiakkaiden palvelut järjestetään ensisijaisesti mukauttamalla tarpeen mukaan tavanomaisia palveluja ja toimintatapoja sen sijaan, että laadittaisiin erillisiä, kattavia strategioita tietyille diagnoosiryhmille. Näin ollen ei esitetä erillisen neurokirjon henkilöitä koskevan strategian laatimista.\n\nSektorijohtaja lapset, nuoret ja perheet Sjöström Pia-Maria\n\nehdottaa, että hyvinvoinnin, terveyden ja yhdyspintojen edistämisen jaosto esittää, että se antaa yllä olevan valmistelun vastauksena valtuustoaloitteeseen ja toimittaa asian edelleen hallituksen ja valtuuston käsiteltäväksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tuija Kivioja esitti kokouksessa vaihtoehtoisen päätösehdotuksen:\n\n\"Pohjanmaan hyvinvoinnin ja terveyden edistämisen sekä yhdyspintojen jaosto esittää, että neurokirjon henkilöiden hyvinvoinnin, yhdenvertaisuuden ja osallisuuden edistämistä koskevat tavoitteet ja konkreettiset toimenpiteet kirjataan alueelliseen hyvinvointisuunnitelmaan ja niiden toteutumista seurataan osana alueellista hyvinvointiraportointia.\n\nValmistelussa, toteutuksessa ja seurannassa huomioidaan koko elämänkaari ja tehdään yhteistyötä hyvinvointialueen, kuntien, järjestöjen sekä neurokirjon henkilöiden ja heidän läheistensä kanssa.\n\nErityistä huomiota kiinnitetään neuroystävällisten toimintaympäristöjen kehittämiseen, palvelujen ja tuen oikea-aikaisuuteen ja jatkuvuuteen sekä elämänkaaren nivelvaiheisiin, mukaan lukien siirtymät varhaiskasvatuksesta kouluun, koulutuksesta opiskeluun sekä opiskelusta työllisyyteen ja työelämään.\n\nYhdyspintayhteistyössä huomioidaan sosiaali- ja terveyspalvelujen lisäksi kuntien HYTE-työ, varhaiskasvatus ja koulutus, oppilaitokset, alueella toimivat työllisyysalueet ja niiden työllisyyslautakunnat sekä järjestöt. Yhdyspintayhteistyölle määritellään keskeiset yhteistyötahot, vastuut ja seuranta.\"\n\nEhdotus ei saanut kannatusta.\n\nJaosto hyväksyi esittelijän päätösehdotuksen sillä lisäyksellä, että neuropsykiatristen häiriöiden hoitoketjut esitellään jaostolle niiden valmistuttua ja että Kelan Kirjo-projekti esitellään jaostolle, jos mahdollista.\n\nAluehallitus 21.09.2026 § 177"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nSektorijohtaja lapset, nuoret ja perheet Sjöström Pia-Maria\n\nehdottaa, että aluehallitus päättää antaa vastauksen valtuustoaloitteeseen selontekona aluevaltuustolle. Hallitus ehdottaa valtuustolle, että aloite on täten loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nHallitus\n\nehdottaa, että valtuusto hyväksyy edellä olevan selvityksen, joka on annettu vastaukseksi aloitteeseen, ja julistaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Asia palautettiin jatkovalmisteluun.\n\nAluevaltuuston jäsen Sari Ala-Heikkilä esitti SDP:n valtuustoryhmän puolesta asian palauttamista jatkovalmisteluun. Uudessa valmistelussa tulee arvioida ja selvittää, miten neurokirjoon kuuluvien henkilöiden palvelujen saatavuus, palveluketjujen toimivuus ja tuen jatkuvuus otetaan huomioon alueellisessa hyvinvointisuunnitelmassa sekä miten niiden toteutumista seurataan hyvinvointikertomuksessa osana hyvinvointialueen ja yhteistyökumppaneiden yhdyspintatyötä. Tässä ei siten ehdoteta uutta rinnakkaista järjestelmää. Pyydämme, että jo tunnistetut haasteet sisällytetään nykyiseen suunnitteluun, toimeenpanoon liittyviä vastuita selkeytetään ja toimenpiteiden seuranta mahdollistetaan.\n\nAluevaltuuston jäsenet Alhonnoro ja Caldén kannattivat palautusesitystä. Aluevaltuusto palautti aloitteen yksimielisesti jatkovalmisteluun."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nAlueellinen neurokirjon toimenpideohjelma"
+    },
+    {
+     "heading": "Oheisaineisto",
+     "text": ""
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Alueellinen neurokirjon toimenpideohjelma",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-14-61931.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "69",
+   "title": "Vastaus valtuustoaloitteeseen; Sairaalaopetus toisella asteella, Å Stenbacka (RKP)",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026789-15",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-15.PDF",
+   "diary_number": "ÖVPH/3775/00.02.00/2026",
+   "preparer": "Sjöström Pia-Maria; Lisätietoja: puhelinnumero:; Åsa Stenbacka, Rkp, on jättänyt 8.6.2026 valtuustoaloitteen, joka koskee sairaalaopetusta toisella asteella ja moniongelmaisille nuorille tarkoitetun erityisen hoitoyksikön tarvetta. Aloitteen mukaan oppivelvollisuuden laajentuessa ja lainsäädännön mu",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvoinnin ja terveyden edistämisen sekä yhdyspintojen jaosto 07.09.2026 § 45"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nÅsa Stenbacka, Rkp, on jättänyt 8.6.2026 valtuustoaloitteen, joka koskee sairaalaopetusta toisella asteella ja moniongelmaisille nuorille tarkoitetun erityisen hoitoyksikön tarvetta. Aloitteen mukaan oppivelvollisuuden laajentuessa ja lainsäädännön muuttuessa tarve suunnatulle tuelle nuorille, joilla on monimutkaisia haasteita, on käynyt yhä ilmeisemmäksi. Laajennettu oppivelvollisuus (vuodesta 2021) tarkoittaa, että nuorilla on oikeus ja velvollisuus opiskella 18-vuotiaaksi asti. Nykyinen lainsäädäntö jättää aukkoja toisen asteen sairaalaopetuksen ja eri toimijoiden vastuunjaon suhteen.\n\nSairaalaopetus on tarkoitettu oppilaille, jotka eivät voi sairauden tai hoidon vuoksi osallistua tavalliseen opetukseen. Perusopetuslain mukaan kunnan on järjestettävä opetusta oppilaille, joita hoidetaan sairaalassa tai vastaavissa laitoksissa. Toisen asteen sairaalaopetuksen vastuuta ei kuitenkaan ole säädelty yhtä selkeästi, mikä tarkoittaa, että opiskelijat yläkoulun ja lukion/ammatillisen koulutuksen välillä saattavat jäädä ilman tarvitsemaansa tukea.\n\nHyvinvointialue jakaa huolen toisella asteella opiskelevista nuorista, jotka eivät mielenterveys- tai päihdeongelmien, sosiaalisen haavoittuvuuden, neuropsykiatristen vaikeuksien tai muiden monitahoisten syiden vuoksi kykene saattamaan opintojaan päätökseen. On erittäin tärkeää, että nämä nuoret tunnistetaan varhaisessa vaiheessa ja että he saavat koordinoitua tukea, joka vahvistaa heidän toimintakykyään, terveyttään, turvallisuuden tunnettaan ja mahdollisuuksiaan opintojen jatkamiseen.\n\nHyvinvointialue näkee myös tarpeen vahvistaa entisestään yhteistyötä koulutuksen järjestäjien, opiskeluhuollon ja hyvinvointialueen muiden sosiaali- ja terveyspalvelujen välillä. Opiskeluhuollon tulee toimia osana kokonaisuutta, jossa ehkäisevä työ, varhainen tuki, yksilöllinen arviointi ja ohjaus asianmukaisiin palveluihin toteutetaan tiiviissä yhteistyössä oppilaitoksen, nuoren ja tarvittaessa huoltajien kanssa. Nuorille, joilla on laajoja ja monitahoisia tarpeita, tarvitaan usein monialaisia ratkaisuja, joissa opiskeluhuolto, mielenterveys- ja päihdepalvelut, sosiaalihuolto ja muut toimijat tekevät jäsenneltyä yhteistyötä.\n\nSamalla on tärkeää selkeyttää vastuunjakoa. Toisen asteen opetuksen järjestäminen kuuluu koulutuksen järjestäjän vastuulle, ei hyvinvointialueen. Hyvinvointialue vastaa sosiaali- ja terveyspalveluista sekä opiskeluhuollon palveluista, joita opiskelijalle kuuluu lain mukaan järjestää, mutta hyvinvointialue ei voi ottaa koulutuksen järjestäjän vastuuta itse opetuksesta tai pedagogisista järjestelyistä.\n\nAloitteessa tuodaan esiin tärkeä lainsäädännöllinen puute. Sairaalaopetusta säännellään nimenomaan perusopetuslaissa, mutta toisen asteen opiskelijoiden osalta ei ole vastaavia selkeitä säännöksiä. Tämä epäselvyys voi johtaa siihen, että erityisen haavoittuvassa tilanteessa olevat nuoret saattavat pudota eri toimijoiden vastuualueiden väliin. Sen vuoksi on perusteltua, että asia nostetaan esiin valtakunnan tasolla ja että lainsäädäntöä kehitetään siten, että myös toisen asteen opiskelijat, joilla on hoidon, kuntoutuksen ja erityisten opetusjärjestelyiden tarve, saavat yhdenvertaista ja riittävää tukea.\n\nHyvinvointialue voi myötävaikuttaa oman vastuualueensa puitteissa kehittämällä saumattomampia yhteistyörakenteita koulutuksen järjestäjien kanssa, vahvistamalla konsultointia ja yhteistä arviointia vaativissa tilanteissa sekä varmistamalla, että nuoret, joilla on mielenterveys- tai päihdeongelmia tai muita laaja-alaisia tukitarpeita, ohjataan asianmukaisiin sosiaali- ja terveyspalveluihin ilman aiheetonta viivästystä. Erityistä huomiota tulee kiinnittää palvelujen välisiin siirtymiin, vastuunjakoon yksilökohtaisissa asioissa sekä mahdollisuuteen koota toimijat nuoren ympärille varhaisessa vaiheessa esimerkiksi huolestuttavien koulupoissaolojen yhteydessä.\n\nHyvinvointialue katsoo, että yhteistyötä koulutuksen järjestäjien kanssa tulee kehittää edelleen opiskeluhuollon ja monialaisen työn olemassa olevien rakenteiden puitteissa. Tavoitteena on luoda selkeämmät yhteiset toimintamallit niitä toisella asteella opiskelevia nuoria varten, joilla on riski keskeyttää opintonsa tai jotka eivät selviydy opinnoista ilman laaja-alaista tukea.\n\nHyvinvointialue toteaa kokoavasti, että aloitteessa käsitellään tärkeää asiaa. Hyvinvointialue kannattaa tavoitetta hoidon, palvelujen ja koordinoidun tuen parantamisesta toisella asteella opiskeleville nuorille, joilla on laaja-alaisia tarpeita. Samalla korostetaan, että vastuu opetuksen järjestämisestä on koulutuksen järjestäjillä, kun taas hyvinvointialueen vastuulla ovat opiskeluhuolto ja muut sosiaali- ja terveyspalvelut. Jatkotyössä tulee sen vuoksi keskittyä yhteistyön vahvistamiseen, vastuunjaon selkeyttämiseen ja valtakunnallisen lainsäädännön kehittämiseen.\n\nSektorijohtaja lapset, nuoret ja perheet Sjöström Pia-Maria\n\nehdottaa, että hyvinvoinnin ja terveyden edistämisen sekä yhdyspintojen jaosto päättää antaa vastauksen valtuustoaloitteeseen selontekona aluehallitukselle valtuuston jatkokäsittelyä varten."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Jaosto hyväksyi ehdotuksen sen jälkeen, kun valmistelutekstiin oli tehty tekninen korjaus Jaakko Pertun ehdotuksesta.\n\nAluehallitus 21.09.2026 § 178"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nSektorijohtaja lapset, nuoret ja perheet Sjöström Pia-Maria\n\nehdottaa, että aluehallitus päättää antaa vastauksen valtuustoaloitteeseen selontekona aluevaltuustolle. Hallitus ehdottaa valtuustolle, että aloite on täten loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Sjöström Pia-Maria\n\nLisätietoja: puhelinnumero:\n\nHallitus\n\nehdottaa, että valtuusto hyväksyy edellä olevan selvityksen, joka on annettu vastaukseksi aloitteeseen, ja julistaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nMotion om sjukhusundervisning på andra stadiet och behovet av särskild vårdenhet för ungdomar med multiproblem - Aloite sairaalaopetuksesta toisella asteella ja hoitoyksikön tarpeesta moniongelmallisille nuorille"
+    },
+    {
+     "heading": "Oheisaineisto",
+     "text": ""
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Motion om sjukhusundervisning på andra stadiet och behovet av särskild vårdenhet för ungdomar med multiproblem - Aloite sairaalaopetuksesta toisella asteella ja hoitoyksikön tarpeesta moniongelmallisille nuorille",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-15-101223.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "70",
+   "title": "Vastaus valtuustoaloitteeseen; Valtuustoaloite liikuntaneuvonnan ja elintapaohjauksen vahvistamisesta Pohjanmaan hyvinvointialueella, Kokoomus aluevaltuustoryhmä",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026789-16",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-16.PDF",
+   "diary_number": "ÖVPH/3776/00.02.00/2026",
+   "preparer": "Kotanen Heidi; Krooks Tiia, hyte-koordinaattori; Heinonen Susanna, erikoisasiantuntija; Lisätietoja: puhelinnumero: (vaihde); Kokoomuksen aluevaltuustoryhmä on jättänyt 8.6.2026 valtuuston kokouksessa valtuustoaloitteen liikuntaneuvonnan ja elintapaohjauksen vahvistamiseksi Pohjanmaan hyvinvointialu",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvoinnin ja terveyden edistämisen sekä yhdyspintojen jaosto 07.09.2026 § 46"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Kotanen Heidi\n\nKrooks Tiia, hyte-koordinaattori\n\nHeinonen Susanna, erikoisasiantuntija\n\nLisätietoja: puhelinnumero: (vaihde)\n\nKokoomuksen aluevaltuustoryhmä on jättänyt 8.6.2026 valtuuston kokouksessa valtuustoaloitteen liikuntaneuvonnan ja elintapaohjauksen vahvistamiseksi Pohjanmaan hyvinvointialueella. Kokoomuksen valtuustoryhmä esittää aloitteessaan yhtenäisen palveluketjun kehittämistä liikuntaneuvontaan ja elintapaohjaukseen liittyen. Kuntien ja järjestöjen kanssa toimintamallin roolit ja vastuut ovat selkeät ja määritellyt. Aloitteessa toivotaan raportointia aluevaltuustolle määriteltyjen mittareiden ja tavoitteiden toteutumisesta ja vaikuttavuudesta sekä tuloksista toiminnassa.\n\nHyvinvointialueen, kuntien ja järjestöjen yhteistyötä on kehitetty hyvinvointialueen perustamisesta lähtien. Hyte-työtä koordinoi Osallisuus ja yhdyspinnat -yksikkö, joka tukee työntekijöitä kirjaamisessa, työmenetelmissä ja eri toimijoiden välisessä yhteistyössä. Hyte-koordinaattorit tapaavat säännöllisesti kuntien hyvinvointikoordinaattoreita ja -johtajia, jotta hyvinvoinnin ja terveyden edistämistä voidaan viedä eteenpäin yhdenmukaisesti ja tasavertaisesti koko alueella. Lisäksi kuntien kanssa käydään vuosittaiset hyte-neuvottelut kuntakierrosten yhteydessä. Hyte-jaostossa ovat edustettuina alueen kunnat ja järjestöt, ja jaosto osallistuu muun muassa palvelustrategian hyvinvoinnin ja terveyden edistämisen tavoitteiden ja toimenpiteiden valmisteluun.\n\nHyvinvointialue on allekirjoittanut järjestöyhteistyösopimuksen järjestöneuvottelukunnan kanssa, joka toimii alueen järjestöjen edustajana. Sopimuksessa on määritelty yhteistyön toteuttamisen periaatteet, ja hyvinvointialueen edustaja osallistuu järjestöneuvottelukunnan kokouksiin asiantuntijana. Osallisuus ja yhdyspinnat -yksikön hyte-koordinaattorit tekevät säännöllistä yhteistyötä Pohyn kanssa ja järjestävät yhdessä muun muassa Sote-aamukahveja sekä vuosittaisia järjestötilaisuuksia. Lisäksi järjestöjä kutsutaan säännöllisiin tapaamisiin suunnittelemaan yhteistyötä ja järjestöavustuksiin liittyviä käytäntöjä. Keväällä 2026 järjestettiin neljä tällaista tilaisuutta Vaasassa, Närpiössä, Pietarsaaressa ja verkossa.\n\nHyvinvointialueen järjestöavustuksilla on rakennettu toimivia kumppanuuksia ja tuettu toimintaa, joka täydentää hyvinvoinnin ja terveyden edistämisen palveluja sekä ehkäisee syrjäytymistä. OLKA-toiminnan kautta toteutettu organisoitu vapaaehtoistyö on koettu tärkeäksi, ja toiminta on laajentunut Vaasan lisäksi Kristiinankaupunkiin, Närpiöön, Maalahteen, Mustasaareen ja Pietarsaareen. OLKA-vapaaehtoisia toimii keskussairaalan lisäksi muun muassa Närpiön ja Pietarsaaren yleislääketieteen osastoilla sekä Alvinan intervallihoidossa. OLKA-pisteillä järjestettävät teemapäivät tarjoavat järjestöille mahdollisuuden esitellä toimintaansa sote-keskuksissa, ja tilaisuudet ovat saaneet myönteistä palautetta sekä asiakkailta että henkilökunnalta.\n\nKoko väestön osalta hyvinvoinnin ja terveyden edistämissuunnitelman tavoitteena on elintapaohjauksen vahvistaminen ja liikunnan sekä kulttuurin tarjoaminen väestölle. Liikunnan ja kulttuurin tarjoamisen osalta on kuntien palveluilla tärkeä rooli. Tavoitteille on määritelty mittarit. Valtakunnallisen tason mittareita seurataan hyvinvointialueella säännöllisesti. Nämä vähimmäistietovarannon mittareiden tulokset julkaistaan kootusti vuosittain \"Miten Pohjanmaa voi -raportin yhteydessä. Lisäksi mittareina käytetään sosiaalista raportointia (joka meillä Pohjanmaalla vielä kehityksen alla), kuntien, järjestöjen sekä alueen väestön kuulemisia.\n\nHyvinvoinnin ja terveyden edistämiseen kannustetaan valtion taholta ja kunnille sekä hyvinvointialueille määritellään indikaattoreihin perustuva hyte-kerroin. Hyte-kerroin on taloudellinen kannustin, jolla palkitaan kuntia ja hyvinvointialueita. Indikaattorit mittaavat sekä ennaltaehkäisevää toimintaa että väestön hyvinvoinnin kehittymistä.\n\nMitä hyvinvointialueella on tehty?\n\nLiikuntaneuvonnan palvelupolku on käytössä useissa kunnissa, joista löytyy kunnan palkkaama liikuntaneuvoja. Liikuntaneuvonnan palveluketjua kehitettiin Prima-Botnia hankkeessa vuosina 2023-2025. Liikuntaneuvojien palvelut ovat kuntalaisten käytössä riippuen kunnan palvelulle määrittämistä palvelupaketeista sekä budjettimäärärahoista. Osa kunnista on käynnistänyt vastaanottoja LVV:n (entinen AVI) myöntämillä avustusmäärärahoilla. Sote-keskusten työntekijät sekä erityisesti seniorineuvolan työntekijät suosittelevat asiakkaalle palvelua ja asiakkaan suostumuksesta hoitaja, fysioterapeutti voi myös olla yhteydessä liikuntaneuvojaan puhelimitse tai sähköpostitse.\n\nTällä hetkellä on epäselvää määritteleekö STM liikuntaneuvonnan terveydenhuollon palveluksi, jolloin tämänhetkisen liikuntaneuvonnan palveluiden järjestämistä tulee tarkastella Pohjanmaalla tarkemmin esimerkiksi liikuntaneuvojien pätevyyksien, palvelun vastuu sekä valvonnan osalta.\n\nLiikuntaneuvonta ei tällä hetkellä sisälly myöskään terveydenhuollon ammattilaisten peruskoulutukseen ja tämän vuoksi STM:ssä toimii tällä hetkellä erityistyöryhmä, joka valmistelee täydennyskoulutuspakettia hyvinvointialueen työntekijöille sekä liikuntaneuvonnan lisäämistä terveydenhuollon ammattilaisten koulutustahojen opetussuunnitelmaan. Lisätietoa asiasta on tulossa syksyn 2026 aikana. Siihen asti Hyte-yksikkö ohjeistaa työntekijöitä liikuntaneuvonnan antamisen osalta liikunnallisen elämäntapaan kannustamiseen ohjaamalla asiakasta kunnan palveluihin käyttäen apuna esimerkiksi Pohjanmaan hyvinvointialueen hyvinvointiopasta, johon on koottu kunnittain järjestöjen sekä kuntien liikuntapalveluita. Kuntien vapaa-ajanpalveluilla on näin ollen tärkeä rooli asukkaidensa hyvinvoinnin ja terveyden edistämisessä ja yhteistyö hyvinvointialueen kanssa on tärkeää, jotta voidaan aikaansaada asukkaiden kokonaisvaltaista hyvinvointia ja sairauksien ennaltaehkäisyä.\n\nHyvinvointioppaaseen on koottu tietoa teemoittain oman hyvinvoinnin ja terveyden edistämisestä sekä tietoa kuntien, järjestöjen ja hyvinvointialueiden tarjoamista palveluista. Oppaalta löytyy myös hyviä itsearviointityökaluja, joilla voi arvioida omaa tilannettaan sekä lisätuen tarvetta. Sen lisäksi, että asukkaat voivat käyttää hyvinvointiopasta oman hyvinvointinsa tukemiseen käytetään opasta myös työvälineenä hyvinvointialueen ja kuntien palveluissa. Hyvinvointioppaan avulla asiakasta voidaan ohjata kuntien ja järjestöjen hyvinvointipalveluiden piiriin.\n\nElintapaohjauksen palveluprosessityön eteneminen hyvinvointialueella ja digitaalisen hoitopolun rakennus ja käyttöönotto\n\nElintapaohjauksen palveluprosessi on kuvattu yhteistyössä hyvinvointialueen eri alueiden moniammatillisten asiantuntijoiden kanssa keväällä 2026. Kuvaustyössä määriteltiin elintapaohjausprosessin keskeiset painopisteet (ravitsemus, liikunta, uni, mieliala, riippuvuudet), palvelun eri vaiheet, asiantuntijoiden ja toimijoiden roolit ja vastuut, sekä asiakkaan eteneminen palvelupolulla. Palvelukokonaisuus on kaikille hyvinvointialueen asukkaille sama.\n\nProsessikuvaus on toiminut digitaalisen palvelupolun rakentamisen perustana ja tukee yhtenäisen elintapaohjauksen toimintamallin käyttöönottoa koko hyvinvointialueella. Tavoitteena toimintamallissa on tunnistaa elintapamuutosta tarvitseva henkilö ja muutoksen osa-alue, helpottaa asian puheeksiottoa, sekä varmistaa, että asiakkaat saavat yhdenvertaista, laadukasta ja sujuvaa elintapaohjausta asuinpaikasta tai palveluun hakeutumisen tavasta riippumatta. Yhtenäisen toimintamallin lisäksi tavoite on sujuva palvelu, parempi asiakaskokemus, sekä vahvistaa terveitä elintapoja ja lisätä vaikuttavuutta koko hyvinvointialueella.\n\nDigitaalinen elintapaohjauspolku on rakennettu tukemaan tätä yhtenäistä elintapaohjauksen toimintamallia, mutta se huomioi ihmisen kuitenkin yksilöllisesti kyselyiden ja mittareiden kautta ja toimii sykleissä hänen tarpeen mukaan. Polulla on huomioitu hyvinvointialueen omien palvelujen lisäksi myös kuntien, järjestöjen ja liikunta- sekä urheilutoimijoiden tarjoama tuki, jotta asiakkaalle voidaan ohjata juuri hänen tarpeisiinsa sopivat palvelut ja toiminta.\n\nDigitaalisella elintapaohjauksen palvelupolulla vahvistetaan asiakkaan omaa vastuuta hyvinvoinnistaan ja tuetaan omahoitoa tarjoamalla oikea-aikaista tietoa, ohjausta ja tavoitteiden seurantaa, joka on automatisoitua. Digitaalisen polun mittareita ovat ennalta määrättyjen tarkastusajankohtien mittarit, kuten painon ja vyötärönympäryksen mitat, liikkumisen määrän mittarit, unen laatu- ja määrämittarit, ravitsemuksen laatu- ja rytmimittarit ja PROM-kyselyt ja elämänlaatumittarit, jotka liittyvät asiakkaan oman hyvinvoinnin tunteeseen, jaksamiseen ja tyytyväisyyteen. Digipolun käyttäjät saavat myös graafista palautetta tuloksista ja kehityksestään, joiden kautta voidaan arvioida muutoksen onnistumista ja jatkon suunta. Heillä on myös suora yhteys polun kautta ammattilaisiin ja ammattilaiset voivat seurata asiakkaan omahoidon etenemistä, tunnistaa mahdolliset haasteet varhaisessa vaiheessa ja kohdentaa tukea oikea-aikaisesti ja kohdennetusti.\n\nPalvelun saavutettavuutta vahvistetaan perustamalla jokaiseen kuntaan hyvinvointiohjaajan (hoitaja)vastaanotto, johon asukkaat voivat varata itse ajan matalalla kynnyksellä tai heidät voidaan ohjata vastaanotolle muiden ammattilaisten toimesta. Hyvinvointiohjaajat kutsuvat asiakkaat digitaaliselle hoitopolulle, seuraavat kehitystä ja vastaavat mahdollisiin viesteihin. Digitaalista hoitopolkua voi käyttää myös asiakkaan läheinen tai omainen tarvittaessa.\n\nDigitaalinen polku on rakennettu kesän 2026 aikana ja otetaan käyttöön syksyllä 2026.\n\nHyvinvointialueella on tärkeä rooli neuvonnassa, varhaisessa tunnistamisessa ja tuessa, mutta elintavat rakentuvat pidemmän ajan kulussa ja yhteistyössä näihin voidaan vaikuttaa yhdessä kuntien, yhdistysten, läheisten ja ihmisen itsensä kanssa.\n\nLopuksi:\n\nHyvinvointialue vahvistaa liikuntaneuvontaa ja elintapaohjausta osana ennaltaehkäisevää työtä ja yhtenäisiä palveluketjuja. Tavoitteena on, että asukkaat saavat oikea-aikaista, yhdenvertaista ja helposti saavutettavaa tukea terveellisten elintapojen edistämiseen yhteistyössä kuntien, järjestöjen sekä liikunta- ja urheilutoimijoiden kanssa. Tärkeää on, että hyvinvointialueen työntekijöillä on tietoa alueen kunnissa tarjottavasta liikuntaneuvontapalvelusta, jotta asiakkaita ohjautuisi palveluun. Digitaalinen elintapaohjauspolku tulee yhtenäistämään ja parantamaan ennaltaehkäisevän ohjauksen ja tiedon jakamista asiakkaille.\n\nSektorijohtaja ikäihmiset Kotanen Heidi\n\nehdottaa, että hyvinvoinnin ja terveyden edistämisen sekä yhdyspintojen jaosto päättää antaa vastauksen valtuustoaloitteeseen selontekona aluehallitukselle. Aluehallitus ehdottaa aluevaltuustolle, että aloite on täten loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Jaosto hyväksyi ehdotuksen sillä lisäyksellä, että jaosto toivoo saavansa säännöllisesti tietoa elintapaohjaukseen liittyvän työn etenemisestä.\n\nAluehallitus 21.09.2026 § 179"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Kotanen Heidi\n\nLisätietoja: puhelinnumero:\n\nSektorijohtaja ikäihmiset Kotanen Heidi\n\nehdottaa, että aluehallitus päättää antaa vastauksen valtuustoaloitteeseen selontekona aluevaltuustolle. Hallitus ehdottaa valtuustolle, että aloite on täten loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Kotanen Heidi\n\nLisätietoja: puhelinnumero:\n\nHallitus\n\nehdottaa, että valtuusto hyväksyy edellä olevan selvityksen, joka on annettu vastaukseksi aloitteeseen, ja julistaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nValtuustoaloite liikuntaneuvonnan ja elintapaohjauksen vahvistamisesta Pohjanmaan hyvinvointialueella, KOK valtuustoryhmä"
+    },
+    {
+     "heading": "Oheisaineisto",
+     "text": ""
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Valtuustoaloite liikuntaneuvonnan ja elintapaohjauksen vahvistamisesta Pohjanmaan hyvinvointialueella, KOK valtuustoryhmä",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-16-101228.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "71",
+   "title": "Vastaus valtuustoaloitteeseen; Sosiaalinen raportointi -menetelmän käyttöönotto, H Moisio, L Ede (Vas.)",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026789-17",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-17.PDF",
+   "diary_number": "ÖVPH/6302/00.02.00/2025",
+   "preparer": "Niemistö Riku; Lisätietoja: puhelinnumero:; Vasemmistoliiton aluevaltuustoryhmä/Harri Moisio ja Lisen Ede ovat 6.10.2025 jättäneet sosiaalista raportointia koskevan valtuustoaloitteen (liitteenä). Aloitteessaan valtuutetut esittävät, että Pohjanmaan hyvinvointialueella ryhdytään systemaattisesti tot",
+   "presenter": null,
+   "proposal": null,
+   "decision": "Ehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 21.09.2026 § 180"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Niemistö Riku\n\nLisätietoja: puhelinnumero:\n\nVasemmistoliiton aluevaltuustoryhmä/Harri Moisio ja Lisen Ede ovat 6.10.2025 jättäneet sosiaalista raportointia koskevan valtuustoaloitteen (liitteenä). Aloitteessaan valtuutetut esittävät, että Pohjanmaan hyvinvointialueella ryhdytään systemaattisesti toteuttamaan rakenteellista sosiaalityötä ja sen pohjalta tuotetaan laaja selvitys, joka perustuu sosiaalisen raportoinnin periaatteisiin. Tähän liittyen esitetään rakenteellisen sosiaalityön toteutussuunnitelman laatimista ja resurssointia.\n\nValtuustoaloitteessa esitetty rakenteellisesta sosiaalityöstä säädetään sosiaalihuoltolaissa, jonka mukaan hyvinvointialueen tehtävänä on tuottaa tietoa asiakkaiden tarpeista ja niiden yhteiskunnallisista yhteyksistä, määritellä tavoitteellisia toimenpiteitä sosiaalisten ongelmien ehkäisemiseksi ja korjaamiseksi sekä tuoda sosiaalihuollon asiantuntemusta osaksi hyvinvointialueen ja muiden toimijoiden suunnittelu-, kehittämis- ja päätöksentekoprosesseja. Rakenteellinen sosiaalityö on siten sosiaalihuollon lakisääteinen tehtävä, jonka tavoitteena on edistää väestön hyvinvointia, osallisuutta ja yhdenvertaisuutta sekä tunnistaa ja vähentää sosiaalisia ongelmia synnyttäviä rakenteellisia tekijöitä.\n\nRakenteellinen sosiaalityö perustuu sosiaalihuollon asiakastyössä syntyvään tietoon ihmisten elinoloista, palvelutarpeista, hyvinvointia heikentävistä tekijöistä sekä palvelujärjestelmän toimivuudesta. Sen keskeisenä tehtävänä on tehdä näkyväksi sellaisia ilmiöitä, epäkohtia ja palvelujen kehittämistarpeita, jotka eivät välttämättä ilmene pelkästään tilastoista tai rekisteritiedoista. Rakenteellinen sosiaalityö ei ole erillinen sosiaalihuollon tehtävä asiakastyön rinnalla, vaan se kuuluu osaksi sosiaalityön ammatillista perustehtävää kaikilla palvelualueilla.\n\nSosiaalinen raportointi on yksi rakenteellisen sosiaalityön keskeisistä työmenetelmistä. Sen avulla kerätään, analysoidaan ja välitetään sosiaalihuollon ammattilaisten, asiakkaiden ja muiden toimijoiden havainnoista muodostuvaa tietoa päätöksenteon, johtamisen ja palvelujen kehittämisen tueksi. Sosiaalinen raportointi voi kohdistua yksittäisiin havaintoihin tai laajempiin ilmiöihin, kuten köyhyyteen, asumisen ongelmiin, syrjäytymiseen, mielenterveyden haasteisiin tai palvelujen saavutettavuuteen. Raportoinnin tavoitteena on tuottaa tietopohjaa kehittämistoimille sekä vahvistaa sosiaalihuollon asiantuntijatiedon hyödyntämistä hyvinvointialueen strategisessa johtamisessa ja palvelujen suunnittelussa.\n\nPohjanmaan hyvinvointialueen sosiaali- ja terveydenhuollon johtoryhmä on 9.12.2025 hyväksynyt (§162) rakenteellisen sosiaalityön toteutumissuunnitelman (liite) toimeenpantavaksi. Samalla päätettiin sosiaalisen raportoinnin seurannasta sote-johtoryhmässä. Sosiaalihuollon työntekijät ovat saaneet koulutusta menetelmään. Sosiaalisen raportoinnin mukainen tiedontuotanto on käynnistynyt 1.7.2026. Yhdyspintatyössä kuntien ja järjestöjen kanssa on pyrittävä sosiaalisen raportoinnin laajentamiseen koskemaan niiden toimintaa. Moision ja Eden aloite on tärkeä, koska sosiaalisen raportoinnin avulla saatava tieto täydentää indikaattori- sekä asiakkaiden itse tuottamaa tietoa palveluista ja hyvinvoinnista. Sosiaalinen raportointi nostaa esiin niiden palvelunkäyttäjien ääntä, jotka muuten ovat vaarassa jäädä marginaaliin. Tavoitteena on, että sosiaalisen raportoinnin vakiintumisen myötä sieltä nousevaa tietoa hyödynnetään systemaattisesti hyvinvointialueen strategisissa asiakirjoissa, kuten Miten Pohjanmaa voi raportissa sekä Palvelustrategian tavoitteissa. Sosiaalinen raportointi tulee olemaan jatkossa yksi pysyvä tiedontuotannon menetelmä. Sosiaalisen raportoinnin tuloksista raportoidaan säännöllisesti hyvinvointialueen hallitukselle ja valtuustolle.\n\nSektorijohtaja työikäiset Niemistö Riku\n\nehdottaa, että aluehallitus päättää antaa vastauksen valtuustoaloitteeseen selontekona aluevaltuustolle. Hallitus ehdottaa valtuustolle, että aloite on täten loppuun käsitelty."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Niemistö Riku\n\nLisätietoja: puhelinnumero:\n\nHallitus\n\nehdottaa, että valtuusto hyväksyy edellä olevan selvityksen, joka on annettu vastaukseksi aloitteeseen, ja julistaa aloitteen loppuun käsitellyksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Liite 1\n\nSosiaalinen raportointi - menetelmän käyttöönotto\n\nLiite 2\n\nPohjanmaan hyvinvointialueen rakenteellisen sosiaalityön toteutussuunnitelma 2026-2027"
+    },
+    {
+     "heading": "Oheisaineisto",
+     "text": ""
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Sosiaalinen raportointi - menetelmän käyttöönotto",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-17-78476.PDF"
+    },
+    {
+     "title": "Pohjanmaan hyvinvointialueen rakenteellisen sosiaalityön toteutussuunnitelma 2026-2027",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-17-109031.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "72",
+   "title": "Aloitteita, kysymyksiä ja ilmoituksia",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026789-18",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-18.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Aluevaltuuston kokouksessa jätettiin seuraavat aloitteet: Aloite tilapäisen asumisen saatavuuden turvaamisesta Pohjanmaan hyvinvointialueella, SDP:n valtuustoryhmä / S. Ala-Heikkilä. Aloite lääkäripalvelujen laadun, kielellisten oikeuksien sekä omavalvonnan varmistamisesta kehitysvammaisille henkilöille Pohjanmaan hyvinvointialueella, Päivi Karppi (Ps). Aloite hoidon tarpeen arvioinnin ja päivystysavun saatavuuden selvittämisestä Pohjanmaan hyvinvointialueella, Päivi Karppi (Ps). Aloite tilapäisen työvoiman huomioimisesta Pohjanmaan hyvinvointialueen palveluissa suurten rakennushankkeiden yhteydessä, Päivi Karppi (Ps). Aloite vammaispalvelujen organisaatiomuutoksen vaikutusten arvioinnista, SDP:n valtuustoryhmä / Caldén. Aloite hyvän palliatiivisen hoidon varmistamisesta kaikille, D. Pettersson ym. Aloite vuokrasopimusten nykytilan ja tavoitetilan avoimemmasta kuvaamisesta, Kokoomuksen valtuustoryhmä / Huhta. Aloite maksuttomista raskaudenkeskeytyksistä, Anne Salovaara-Kero sekä useat valtuustoryhmät. Aluevaltuusto merkitsi aloitteet tiedoksi ja lähetti ne aluehallitukselle jatkovalmistelua varten. Nuorisovaltuuston edustaja Ingrid Wester kertoi valtuustolle, että hyvinvointialueen kouluissa on järjestetty kahden viikon mittainen aloitekampanja. Hän toivoi voivansa myöhemmin esitellä kampanjan tuloksia koskevan raportin. Aluevaltuusto merkitsi tiedon tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valtuutettujen aloitteet. Valtuuston kokouskutsussa mainittujen asioiden käsittelyn jälkeen valtuustoryhmällä ja valtuutetulla on oikeus tehdä kirjallisia aloitteita hyvinvointialueen toimintaa ja hallintoa koskevissa asioissa. Aloite annetaan puheenjohtajalle kirjallisesti tai sähköisesti. Aloite on sitä enempää käsittelemättä lähetettävä aluehallituksen valmisteltavaksi. Aluevaltuusto voi päättää, että aloitteessa tarkoitetun asian valmistelusta käydään lähetekeskustelu.\n\nAluehallitukselle osoitettava kysymys. Vähintään neljäsosa valtuutetuista voi tehdä aluehallitukselle kirjallisen kysymyksen hyvinvointialueen toiminnasta ja hallinnosta. Aluehallituksen on vastattava kysymykseen viimeistään aluevaltuuston kokouksessa, joka ensiksi pidetään kuuden (6) kuukauden kuluttua kysymyksen tekemisestä. Jos kysymystä käsiteltäessä tehdään kannatettu ehdotus tilapäisen valiokunnan asettamisesta selvittämään kysymyksessä tarkoitettua asiaa, aluevaltuuston on päätettävä, asetetaanko tilapäinen valiokunta. Muuta päätöstä ei asiassa saa tehdä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuuston kokouksessa jätettiin seuraavat aloitteet: Aloite tilapäisen asumisen saatavuuden turvaamisesta Pohjanmaan hyvinvointialueella, SDP:n valtuustoryhmä / S. Ala-Heikkilä. Aloite lääkäripalvelujen laadun, kielellisten oikeuksien sekä omavalvonnan varmistamisesta kehitysvammaisille henkilöille Pohjanmaan hyvinvointialueella, Päivi Karppi (Ps). Aloite hoidon tarpeen arvioinnin ja päivystysavun saatavuuden selvittämisestä Pohjanmaan hyvinvointialueella, Päivi Karppi (Ps). Aloite tilapäisen työvoiman huomioimisesta Pohjanmaan hyvinvointialueen palveluissa suurten rakennushankkeiden yhteydessä, Päivi Karppi (Ps). Aloite vammaispalvelujen organisaatiomuutoksen vaikutusten arvioinnista, SDP:n valtuustoryhmä / Caldén. Aloite hyvän palliatiivisen hoidon varmistamisesta kaikille, D. Pettersson ym. Aloite vuokrasopimusten nykytilan ja tavoitetilan avoimemmasta kuvaamisesta, Kokoomuksen valtuustoryhmä / Huhta. Aloite maksuttomista raskaudenkeskeytyksistä, Anne Salovaara-Kero sekä useat valtuustoryhmät. Aluevaltuusto merkitsi aloitteet tiedoksi ja lähetti ne aluehallitukselle jatkovalmistelua varten. Nuorisovaltuuston edustaja Ingrid Wester kertoi valtuustolle, että hyvinvointialueen kouluissa on järjestetty kahden viikon mittainen aloitekampanja. Hän toivoi voivansa myöhemmin esitellä kampanjan tuloksia koskevan raportin. Aluevaltuusto merkitsi tiedon tiedoksi."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "1. Tilapäismajoituksen saatavuuden turvaaminen Pohjanmaan hyvinvointialueella SDPn valtuustoryhmä_ S. Ala-Heikkilä",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-18-110187.PDF"
+    },
+    {
+     "title": "2. Kehitysvammaisten henkilöiden lääkäripalvelujen laadun, kielellisten oikeuksien ja omavalvonnan varmistaminen Pohjanmaan hyvinvointialueella PS",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-18-110194.PDF"
+    },
+    {
+     "title": "3. Selvitys hoidon tarpeen arvioinnin ja päivystysavun tavoitettavuudesta Pohjanmaan hyvinvointialueella PS",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-18-110200.PDF"
+    },
+    {
+     "title": "4. Suurten rakennushankkeiden tilapäisen työvoiman huomioiminen Pohjanmaan hyvinvointialueen palveluissa PS",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-18-110202.PDF"
+    },
+    {
+     "title": "5. Konsekvensbedömning av organisationsförändringen inom funktionshinderservice  SDP",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-18-110203.PDF"
+    },
+    {
+     "title": "6. Hyvän palliatiivisen hoidon turvaaminen jokaiselle Att säkerställa god palliativ vård för alla",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-18-110206.PDF"
+    },
+    {
+     "title": "7. Vuokrasopimusten nykytilan  ja tavoitetilan kuvaamisesta avoimemmin Kokoomus",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-18-110207.PDF"
+    },
+    {
+     "title": "Avgiftsfria aborter_Maksuttomat raskaudenkeskeytykset hyvinvointialueella RKP, SDP, K",
+     "url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-18-110208.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "73",
+   "title": "Kokouksen päättäminen",
+   "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026789-19",
+   "pdf_url": "https://ovph-d10julk.oncloudos.com/kokous/2026789-19.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Puheenjohtaja päätti kokouksen klo 12.15.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen päättäminen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja päätti kokouksen klo 12.15."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Berg Kim",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Borg Johanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Bystedt Rainer",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "West Mia",
+   "role": "I varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Salovaara-Kero Anne",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kapténs Gun",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Somppi Sari",
+   "role": "IV varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Yli-Pelkola Kim",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Holmäng Johanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Frostdahl Steven",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Mahdi Ramieza",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Jerkku Sven",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Strömsholm Eva-Maria",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Backull Ann-Britt",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Stenbacka Åsa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Gädda Mikael",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Perjus Mikael",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Ingo Jenni",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Ribacka Camilla",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Forth-Snellman Åsa-Britt",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Palm Maria",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Jusslin Gunilla",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kärr Kaj",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Björkman Patrik",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Rantala Mervi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Caldén Anna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Ala-Heikkilä Sari",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Eklöv Gudrun",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Miettinen Arja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Sjökvist Peter",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Härmälä Elin",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Åkers Rebecca",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Heinonen Marko",
+   "role": "II varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Tuomela Antti",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pihlajaniemi Petri",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pääjärvi-Myllyaho Riitta",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Karppinen-Pirkola Satu",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Koski Susanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Huhta Henrik",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pettersson David",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hjulfors Andreas",
+   "role": "III varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Byggmästar Martin",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hjulfors-Sundqvist Maria",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Asplund Mikaela",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kaunismäki Tomi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Moisio Harri",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Ede Lisen",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Alhonnoro Lotta",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Karppi Päivi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Vahtera Matti",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Knuutti Teemu",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Keskinen Pasi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Jakobsson-Pada Linda",
+   "role": "sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Kinnunen Marina",
+   "role": "hyvinvointialuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Sjöström Pia-Maria",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Kotanen Heidi",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Niemistö Riku",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Nystrand Lena",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Berg Päivi",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Aurala Aino",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Iso-Aho Camilla",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Berglund Marie-Louis",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Wester Ingrid",
+   "role": "nuorisovaltuuston edustaja",
+   "group": "other"
+  },
+  {
+   "name": "Schrey Kristian",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Viinamäki Anne-Marie",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Koskela Kari",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Eriksson Roger",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Nyholm Steve",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Asplund Monica",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Ekman Charlotta",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lind Anton",
+   "role": "varajäsen (s)",
+   "group": "member"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026789",
+  "fetched_at": "2026-10-14T17:26:54+00:00",
+  "content_hash": "eed6e29871ff2f32",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T17:26:54+00:00"
+ }
+}

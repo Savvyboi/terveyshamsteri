@@ -1,0 +1,58 @@
+[
+ {
+  "id": "aluehallitus",
+  "name": "Aluehallitus",
+  "type": "board",
+  "url": "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaalilautakunta",
+  "name": "Aluevaalilautakunta",
+  "type": "committee",
+  "url": "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluevaalilautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaltuusto",
+  "name": "Aluevaltuusto",
+  "type": "council",
+  "url": "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto",
+  "language": "fi"
+ },
+ {
+  "id": "kansalliskielilautakunta",
+  "name": "Kansalliskielilautakunta",
+  "type": "committee",
+  "url": "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Kansalliskielilautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "kehittaminen-ja-yhteistyo-lautakunta",
+  "name": "Kehittäminen ja yhteistyö -lautakunta",
+  "type": "committee",
+  "url": "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Kehittaumlminen_ja_yhteistyouml_lautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "palveluiden-jarjestaminen-lautakunta",
+  "name": "Palveluiden järjestäminen -lautakunta",
+  "type": "committee",
+  "url": "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Palveluiden_jaumlrjestaumlminen_lautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "tarkastuslautakunta",
+  "name": "Tarkastuslautakunta",
+  "type": "committee",
+  "url": "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "varautuminen-ja-turvallisuus-lautakunta",
+  "name": "Varautuminen ja turvallisuus -lautakunta",
+  "type": "committee",
+  "url": "https://itauusimaa.cloudnc.fi/fi-FI/Toimielimet/Varautuminen_ja_turvallisuus_lautakunta",
+  "language": "fi"
+ }
+]

@@ -1,0 +1,1181 @@
+{
+ "id": "aluehallitus/2026-01-12",
+ "region": "kanta-hame",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2026-01-12",
+ "stage": "minutes",
+ "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026157",
+ "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026157.PDF",
+ "time": "09:07 - 13:42",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "1",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026157-1",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026157-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää todeta kokouksen lailliseksi ja päätösvaltaiseksi.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen. Lisäksi aluehallitus päätti myöntää läsnäolo- ja puheoikeuden\n\nasian § 5 (”Käyttösuunnitelma”) osalta toimialajohtaja Satu Ala-Kokolle, Jorma Haapaselle, Jarmo Lappalaiselle, Marika Paasikoski-Junniselle ja Petri Talikalle sekä talouspäällikkö Terhi Pohjavirralle\n\nasian § 6 (”Palvelusetelisääntökirja alle 23-vuotiaiden lyhytpsykoterapia”) osalta toimialajohtaja Jarmo Lappalaiselle.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallituksen kokouskutsusta on säädetty hallintosäännön 139 §:ssä. Hyvinvointialueesta annetun lain 108 §:n 2 momentin mukaan aluehallitus on päätösvaltainen, kun yli puolet jäsenistä on läsnä."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluehallitus päättää todeta kokouksen lailliseksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen. Lisäksi aluehallitus päätti myöntää läsnäolo- ja puheoikeuden\n\nasian § 5 (”Käyttösuunnitelma”) osalta toimialajohtaja Satu Ala-Kokolle, Jorma Haapaselle, Jarmo Lappalaiselle, Marika Paasikoski-Junniselle ja Petri Talikalle sekä talouspäällikkö Terhi Pohjavirralle\n\nasian § 6 (”Palvelusetelisääntökirja alle 23-vuotiaiden lyhytpsykoterapia”) osalta toimialajohtaja Jarmo Lappalaiselle."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "2",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026157-2",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026157-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää valita kaksi jäsentä tarkastamaan tämän kokouksen pöytäkirjan.",
+   "decision": "Aluehallitus päätti valita pöytäkirjantarkastajiksi Riku Bitterin ja Johanna Häggmanin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hallintosäännön 159 §:n mukaan pöytäkirja tarkastetaan toimielimen päättämällä tavalla. Pöytäkirja voidaan allekirjoittaa ja tarkastaa sähköisesti.\n\nAluehallituksen pöytäkirjan tarkastaa kaksi kullakin kerralla tähän tehtävään valittua hallituksen jäsentä, jollei aluehallitus jonkin asian kohdalla toisin päätä. Tällä kertaa tarkastusvuorossa ovat Riku Bitter ja Johanna Häggman (varalla Aapo Reima)."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluehallitus päättää valita kaksi jäsentä tarkastamaan tämän kokouksen pöytäkirjan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti valita pöytäkirjantarkastajiksi Riku Bitterin ja Johanna Häggmanin."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "3",
+   "title": "Kokouksen työjärjestyksen hyväksyminen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026157-3",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026157-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää hyväksyä tämän kokouksen työjärjestyksen.",
+   "decision": "Aluehallitus päätti käsitellä asiat esityslistan mukaisessa järjestyksessä.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluehallitus päättää hyväksyä tämän kokouksen työjärjestyksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti käsitellä asiat esityslistan mukaisessa järjestyksessä."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "4",
+   "title": "Ilmoitusasiat",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026157-4",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026157-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä tiedoksi esitetyt ilmoitusasiat.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Ei aamukouluasioita."
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä tiedoksi esitetyt ilmoitusasiat."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "5",
+   "title": "Käyttösuunnitelma 2026",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026157-5",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026157-5.PDF",
+   "diary_number": "16223/02.02.01/2025",
+   "preparer": "vs. talousjohtaja Terhi Pohjavirta",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää\n\nhyväksyä vuoden 2026 käyttösuunnitelman\n\ntoimittaa käyttösuunnitelman turvallisuuslautakuntaan, elämänkaarilautakuntaan, terveyden ja toimintakyvyn edistämisen lautakuntaan sekä integraatiovaliokuntaan.",
+   "decision": "Aluehallitus hyväksyi hyvinvointialuejohtajan muutetun päätösesityksen.\n\nAapo Reima poistui kokouksesta tämän asian käsittelyn aikana ennen päätöksentekoa.\n\nErja Hirviniemi saapui kokoukseen tämän asian käsittelyn aikana ennen päätöksentekoa.",
+   "discussion": "Hyvinvointialuejohtajan muutettu päätösesitys:\n\nAluehallitus päättää palauttaa asian uudelleen valmisteltavaksi.",
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 18.12.2025 § 474"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs. talousjohtaja Terhi Pohjavirta"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluevaltuusto on kokouksessaan 16.12.2025 § 124 hyväksynyt Kanta-Hämeen hyvinvointialueen talousarvion vuodelle 2026 sekä taloussuunnitelman 2026–2028. Hallintosäännön § 65 Talousarvion täytäntöönpano mukaan aluehallitus hyväksyy talousarvioon perustuvan käyttösuunnitelman. Käyttösuunnitelma voi muodostua myös sopimusohjausmalliin liittyvistä sopimuksista.\n\nToimielin voi siirtää käyttösuunnitelman hyväksymistä koskevaa toimivaltaa alaiselleen viranhaltijalle tai vapaaehtoiselle toimielimelle. Käyttösuunnitelma sisältää talousarvion toteuttamista koskevat määräykset, menojen suorittamista koskevat ohjeet sekä hallituksen ohjeistuksen taloushallinnosta. Käyttösuunnitelman tulo- ja menoerissä on huomioitu olennaiset toimialojen ja tulosalueiden väliset ja sisäiset muutokset, jotka on toteutettu aluevaltuuston asettamien talousarvion sitovuustasojen ja antaman toimivaltuuden sisällä. Aluevaltuustoon nähden sitovat tasot ovat sitovia myös aluehallitukseen nähden. Käyttösuunnitelman osalta tulosaluejohtajia sitoo tulosalueen toimintakate aluehallitukseen nähden.\n\nKäyttösuunnitelmassa aluehallitus antaa talousarvion toteuttamista koskevat määräykset, menojen suorittamista koskevat ohjeet sekä hallituksen ohjeistuksen taloushallinnosta. Määrärahojen ja tuottojen seurantavastuu on toimialajohtajalla, tulosaluejohtajalla, palvelualueen/-yksikön päälliköllä sekä kustannuspaikan talousvastuullisella. Jokainen vastuutaho on velvollinen huolellisesti tutustumaan hyvinvointialueen käyttösuunnitelmaan ja noudattamaan sen määräyksiä.\n\nKanta-Hämeen hyvinvointialueen talousarvio vuodelle 2026 pitää sisällään talouden tasapainottamistoimenpiteitä, jotka ovat talousarviovalmistelun yhteydessä viety talousarvioon toimialatasoisesti määriteltynä. Aluevaltuuston antaman valtuuden mukaisesti aluehallitus saa kohdentaa vuoden 2026 tasapainottamistoimet tulosalueille käyttösuunnitelman 2026 käsittelyn yhteydessä siltä osin kuin tasapainottamistoimenpiteet on määritelty toimialakohtaisesti talousarviossa. Muiden säästötoimenpiteiden kohdentuminen tuodaan tarvittaessa aluevaltuuston käsittelyyn muutostalousarviossa 2026, jos toimialojen väliset kohdennukset muuttuvat. Talousarvion kohta Muut säästöt (30 miljoonaa euroa) tarkennetaan muutostalousarviossa 2026.\n\nKäyttösuunnitelman valmisteluvaiheessa kohdennetut sopeuttamistoimien määrät toimi- ja tulosalueittain on esitelty käyttösuunnitelma-asiakirjassa.\n\nHallintosäännön 65 §:n mukaan aluehallitus hyväksyy talousarvioon perustuvan käyttösuunnitelmansa. Hallintosäännön 71 §:n mukaan aluehallitus, hyvinvointialuejohtaja, rahoitus- ja investointijohtaja tai talousjohtaja antaa tarvittaessa tarkempia ohjeita hyvinvointialueen taloudenhoidosta.\n\nKäyttösuunnitelma 2026 lisätään listalle ennen kokousta.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 65 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\n1. hyväksyä vuoden 2026 käyttösuunnitelman\n\n2. toimittaa käyttösuunnitelman turvallisuuslautakuntaan, elämänkaarilautakuntaan, terveyden ja toimintakyvyn edistämisen lautakuntaan sekä integraatiovaliokuntaan."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Hyvinvointialuejohtajan muutettu päätösesitys:\n\nAluehallitus päättää palauttaa asian uudelleen valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi hyvinvointialuejohtajan muutetun päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vs. talousjohtaja Terhi Pohjavirta"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluehallitus jatkaa käyttösuunnitelman 2026 käsittelyä.\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 65 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\nhyväksyä vuoden 2026 käyttösuunnitelman\n\ntoimittaa käyttösuunnitelman turvallisuuslautakuntaan, elämänkaarilautakuntaan, terveyden ja toimintakyvyn edistämisen lautakuntaan sekä integraatiovaliokuntaan."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Hyvinvointialuejohtajan muutettu päätösesitys:\n\nAluehallitus päättää palauttaa asian uudelleen valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi hyvinvointialuejohtajan muutetun päätösesityksen.\n\nAapo Reima poistui kokouksesta tämän asian käsittelyn aikana ennen päätöksentekoa.\n\nErja Hirviniemi saapui kokoukseen tämän asian käsittelyn aikana ennen päätöksentekoa."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Asiaote / turvallisuuslautakunta, elämänkaarilautakunta, terveyden ja toimintakyvyn edistämisen lautakunta, integraatiovaliokunta, toimialajohtajat"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 LUONNOS_Talousarvion käyttösuunnitelma 2026 liitemateriaalit",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026157-5-389222.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "6",
+   "title": "Palvelusetelisääntökirja alle 23-vuotiaiden lyhytpsykoterapia",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026157-6",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026157-6.PDF",
+   "diary_number": "16165/00.01.02.00/2025",
+   "preparer": "tulosaluejohtaja Paula Turunen",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää hyväksyä alle 23-vuotiaiden lyhytpsykoterapian palvelusetelisääntökirjan.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.\n\nAluehallitus piti tämän asian käsittelyn jälkeen kokoustauon klo 12.01 – 12.45.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Elämänkaarilautakunta 17.12.2025 § 77"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "tulosaluejohtaja Paula Turunen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Kanta-Hämeen hyvinvointialue ottaa käyttöön palvelusetelisääntökirjan palvelukohtaisen osan, joka koskee alle 23-vuotiaiden lyhytpsykoterapiaa. Palvelu on tarkoitettu Terapiatakuulain (1107–1110/2024) mukaiseen perusterveydenhuollossa toteutettavaan lyhytpsykoterapiaan, joka sisältää enintään 20 tapaamiskertaa ja on suunnattu lieviin ja keskivaikeisiin mielenterveydenhäiriöihin.\n\nPalveluseteli täydentää hyvinvointialueen omaa palvelutuotantoa ja mahdollistaa Terapiatakuulain edellyttämän lyhytpsykoterapian aloittamisen lain edellyttämässä 28 vuorokauden määräajassa. Palvelun tavoitteena on vahvistaa lasten ja nuorten mielenterveydenhäiriöiden ehkäisyn ja hoidon saatavuutta sosiaali- ja terveydenhuollon peruspalveluissa.\n\nPalvelusetelin arvo on 90 euroa/45 minuuttia, ja palvelu on asiakkaalle maksuton. Palveluntuottajilta edellytetään Valviran hyväksyntää psykoterapeutin ammattinimikkeen käyttöön sekä sääntökirjan mukaista laadun ja potilasturvallisuuden varmistamista.\n\nLiitteenä on luonnos palvelusetelisääntökirjasta alle 23-vuotiaiden lyhytpsykoterapiasta sekä alle 23-vuotiaiden lyhytpsykoterapian palveluseteli Kanta-Häme -Powerpoint-esitys.\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 13.5 § kohta 11\n\nToimialajohtajan/\n\nperhe-, sosiaali- ja\n\nvammaispalvelut"
+    },
+    {
+     "heading": "päätösesitys",
+     "text": "Elämänkaarilautakunta päättää\n\n1. hyväksyä omalta osaltaan lyhytpsykoterapian palvelusetelisääntökirjan ja\n\n2. esittää sen hyväksymistä aluehallitukselle."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Elämänkaarilautakunta hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Terveyden ja toimintakyvyn edistämisen lautakunnasta on tullut aluehallituksen päätettäväksi asia koskien alle 23-vuotiaiden lyhytpsykoterapian palvelusetelisääntökirjan hyväksymistä.\n\n(JL)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 10.5 § 5 ja 33 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää hyväksyä alle 23-vuotiaiden lyhytpsykoterapian palvelusetelisääntökirjan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen.\n\nAluehallitus piti tämän asian käsittelyn jälkeen kokoustauon klo 12.01 – 12.45."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Asiaote / tulosaluejohtaja Paula Turunen"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Palvelusetelisääntökirja alle 23-vuotiaiden lyhytpsykoterapia",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026157-6-386110.PDF"
+    },
+    {
+     "title": "Liite 2 Alle 23-v lyhytpsykoterapian palveluseteli",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026157-6-386114.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "7",
+   "title": "Asiakkaan luona tapahtuvan perhehoidon palkkiot 1.1.2026 alkaen, ikäihmisten perhehoito",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026157-7",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026157-7.PDF",
+   "diary_number": "102/02.05.00/2026",
+   "preparer": "asiakasohjauksen tulosaluejohtaja Annukka Kuismin",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää vahvistaa edellä kuvatut ikäihmisten kotona annettavan perhehoidon hoitopalkkiot 1.1.2026 alkaen voimaan tuleviksi.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "asiakasohjauksen tulosaluejohtaja Annukka Kuismin"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluehallitus hyväksyi kokouksessaan 15.12.2025, § 456 ikääntyneiden perhehoidon uuden toimintaohjeen siten, että se astuu voimaan 1.1.2026.\n\nIkäihmisten perhehoidon toimintaohje sisältää muutoksen kiertävän perhehoidon palkkioiden perusteisiin suhteessa aiemmin noudatettuun toimintatapaan. Toimintaohjeen mukaan asiakkaan kotona tapahtuvasta perhehoidosta maksetaan hoitopalkkio toteutuneen käynnin pituuden mukaan. Toimintaohjeessa linjataan, että käyntien pituuksille määritellään palkkio siten, että 1–7 h mittaisista käynneistä maksetaan tuntipalkkio * toteutuneiden tuntien määrä ja 8 h mittaisista tai sitä pidemmistä käynneistä vahvistetaan maksettavaksi samansuuruinen hoitopalkkio. Toimintaohjeen mukaan maksettavien tuntien määrän tulee pysyä kuitenkin siinä määrässä, mitä asiakkaalle on myönnetty. Tuntimaksu perustuu tasatunteihin.\n\nPerhehoitajille maksettavien hoitopalkkioiden määrästä ja alimmista hoitopalkkioista säädetään perhehoitolain (263/2015) 16 pykälässä. Pykälän 4. momentin mukaan hoitopalkkioita tarkistetaan kalenterivuosittain työntekijän eläkelain (395/2006) 96 §:ssä tarkoitetulla palkkakertoimella. Vuodelle 2026 vahvistettu palkkakerroin merkitsee hoitopalkkioihin noin 2,33 prosentin korotusta vuoteen 2025 verrattuna.\n\nKanta-Hämeen hyvinvointialueen hallintosäännön mukaan päätöksen indeksikorotuksen mukaisista perhehoidon palkkioista tekee talousjohtaja. Toimintaohje sisältää indeksikorotuksia suuremman muutoksen asiakkaan kotona annettavan perhehoidon palkkioihin, joten päätöksen tekee aluehallitus.\n\nAsiakkaan kotona annettavan perhehoidon palkkiot esitetään muutettaviksi tuntiperusteisiksi siten, että yhdestä seitsemään tunnin kestoisista käynneistä maksetaan tuntipalkkio kerrottuna käynnin keston pituudella. Kahdeksan tuntia tai sitä pidemmistä käynneistä maksetaan samansuuruinen palkkio.\n\nPalkkioiden suuruuksia on valmistelussa verrattu niiden hyvinvointialueiden palkkioihin, jotka ovat soveltaneet tuntiperusteista palkkiosuuruutta jo vuonna 2025. Vaihteluväli yhden tunnin palkkion suuruuksissa oli ko. vuonna saatujen tietojen mukaan 15,00–17,18 €/h.\n\nEdelleen muilta hyvinvointialueilta saatujen tietojen perusteella käynneistä, jotka kestivät kahdeksasta tunnista yli 12 tuntiin, maksettiin vuonna 2025 vaihdellen 63,75 €:sta (alin 8 h käynnin palkkio) –171,70 €:oon (ylin yli 12 h palkkio).\n\nEsitys on, että Kanta-Hämeessä otettaisiin käyttöön vuoden 2025 vertailun perusteella 16,30 € suuruinen tuntipalkkio käynneistä kestoltaan 1–7 h ja kahdeksan tai sitä pidemmistä käynneistä maksettaisiin 130 € suuruinen palkkio. Ko. suuruuksiin tulee tehdä indeksikorotus.\n\nEsitys asiakkaan kotona annettavan perhehoidon palkkioista 1.1.2026 alkaen:\n\nKäynnin kesto € / käynti\n\n1 h 16,68\n\n2 h 33,36\n\n3 h 50,04\n\n4 h 66,72\n\n5 h 83,40\n\n6 h 100,08\n\n7 h 116,76\n\n8 h 133,03\n\n9 h 133,03\n\n10 h 133,03\n\n11 h 133,03\n\n12 h 133,03\n\nyli 12 h 133,03\n\nPalkkiot tulevat voimaan uusien toimeksiantosopimusten osalta 1.1.2026 alkaen. Olemassa olevien toimeksiantosopimusten osalta palkkiomuutos vaatii sopimusmuutosta, jolloin hoitopalkkiot astuvat voimaan vasta kuin uusi sopimus on solmittu perhehoitajan kanssa.\n\n(JH)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 10.5 § 5 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää vahvistaa edellä kuvatut ikäihmisten kotona annettavan perhehoidon hoitopalkkiot 1.1.2026 alkaen voimaan tuleviksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Asiaote / asiakaohjauksen tulosaluejohtaja Annukka Kuismin"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "8",
+   "title": "Omaishoidon tuen hoitopalkkion vähimmäismäärän korotus 1.1.2026 alkaen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026157-8",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026157-8.PDF",
+   "diary_number": "128/02.05.00/2026",
+   "preparer": "erityisasiantuntija Leena Toivonen",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää esittää aluevaltuustolle, että se hyväksyy omaishoidon tuen vähimmäispalkkion määräksi 530 euroa 1.1.2026 alkaen.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "erityisasiantuntija Leena Toivonen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Omaishoitajille maksettavien hoitopalkkioiden määrästä ja alimmista hoitopalkkioista säädetään omaishoidon tuesta annetun lain (937/2005) 5 §:ssä. Lain 6 §:n mukaan hoitopalkkioita tarkistetaan kalenterivuosittain työntekijän eläkelain (395/2006) 96 §:ssä tarkoitetulla palkkakertoimella. Vuodelle 2026 vahvistettu palkkakerroin merkitsee hoitopalkkioihin noin 2,33 prosentin korotusta vuoteen 2025 verrattuna.\n\nEdellä kuvatun lisäksi hallitus on esittänyt korotusta omaishoidon tuen vähimmäispalkkioon 1.1.2026 alkaen (Hallituksen esitys eduskunnalle laeiksi omaishoidon tuesta annetun lain 5 §:n ja perhehoitolain 12 §:n muuttamisesta, HE 110/2025 vp). Esityksen mukaan omaishoidon tuen hoitopalkkion vähimmäismääräksi säädetään 1.1.2026 lukien 530 euroa kuukaudessa. Hoidollisesti raskaan siirtymävaiheen aikana maksettava vähimmäismäärä olisi 966 euroa kuukaudessa. Esityksen mukaisia uusia lakisääteisiä vähimmäispalkkiota korotetaan seuraavan kerran palkkakertoimella vuonna 2027.\n\nSosiaali- ja terveysministeriöltä 25.11.2025 saadun ohjeen (VN/35714/2025, VN/35714/2025-STM-1) mukaan hyvinvointialueiden tulee noudattaa kyseistä ohjetta, vaikka eduskunta ei ole vielä hyväksynyt esitettyä lakia. Mikäli hallituksen esityksellä muutettaviin palkkioihin kohdistuisi muita muutoksia eduskuntakäsittelyn aikana, sosiaali- ja terveysministeriö informoi muutoksista erikseen. Muutoin noudatetaan annettua ohjetta.\n\nKanta-Hämeen hyvinvointialueen hallintosäännön mukaan päätöksen indeksikorotuksen mukaisista omaishoidon tuen palkkioista tekee talousjohtaja. Kanta-Hämeen hyvinvointialueella omaishoidon tuen hoitopalkkion vähimmäismäärä vuonna 2025 on 497,41 €/kk ja hoidollisesti raskaan siirtymävaiheen aikana 1954,34 €/kk. Koska alimman hoitopalkkion määrä ei indeksikorotuksen jälkeenkään saavuttaisi hallituksen esityksen tasoa, tulee aluevaltuuston tehdä päätös omaishoidon tuen hoitopalkkion vähimmäismäärän nostosta 530 euroon. Kanta-Hämeen hyvinvointialueen omaishoidon tuen hoitopalkkio hoidollisesti raskaan siirtymävaiheen aikana ylittää hallituksen esityksen, joten siltä osin ohje ei aiheuta muita toimenpiteitä, kuin indeksikorotuksen tekemisen.\n\nKustannusvaikutus omaishoidon tuen alimman hoitopalkkion korotuksesta 497,41 eurosta 530 euroon on alle 65-vuotiaiden omaishoidettavien osalta yhteensä 165 427 euroa ja 65 vuotta täyttäneiden osalta 272 275 euroa.\n\n(MP-J).\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 9.3 § 10 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää esittää aluevaltuustolle, että se hyväksyy omaishoidon tuen vähimmäispalkkion määräksi 530 euroa 1.1.2026 alkaen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / tulosaluejohtaja Johanna Pulkkinen, tulosaluejohtaja Annukka Kuismin\n\nPäätösesitys / aluevaltuusto"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "9",
+   "title": "Omaishoidon tuen myöntämisen perusteet 65 vuotta täyttäneitä koskien 1.2.2026 alkaen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026157-9",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026157-9.PDF",
+   "diary_number": "16153/00.01.02.00/2025",
+   "preparer": "asiakasohjauksen tulosaluejohtaja, Annukka Kuismin",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää hyväksyä omaishoidon tuen myöntämisen perusteet 65 vuotta täyttäneitä koskien voimaantulevaksi 1.2.2026 alkaen.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": "Elämänkaarilautakunta päätti yksimielisesti tehdä liitteeseen luonnos Omaishoidon tuen myöntämisen perusteet 65 vuotta täyttäneillä teknisen korjauksen sivulle 2 kohtaan hoitoisuusluokka 4. Tekstistä päätettiin poistaa lansäädäntömuutoksen myötä vanhentuneet tiedot eli seuraava lause: ”eikä omaishoitajalla ole oikeutta vuorotteluvapaalain mukaiseen vuorottelukorvaukseen.”",
+   "sections": [
+    {
+     "heading": "",
+     "text": "Elämänkaarilautakunta 17.12.2025 § 76"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "asiakasohjauksen tulosaluejohtaja, Annukka Kuismin"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Omaishoidon tuen myöntämisen perusteet 65 v. täyttäneitä koskien oli alun perin tarkoitus käsitellä Ikäihmisten palveluiden myöntämisen perusteiden yhteydessä, mutta kokonaisuus ei ehtinyt marraskuun 2025 lautakuntakäsittelyyn.\n\nOhessa valmistellut myöntämisen perusteiden muutokset omaishoidon tukeen 65 vuotta täyttäneitä koskien. Muutokset koskevat vain niitä tarpeita, jotka johtuvat RAI-ohjelmiston muuttumiseen liittyviin mittaristo-osa-alueiden muutoksiin (IADL on jäänyt pois ja sen korvautuu osakokonaisuudella IADLCH).\n\nLiitteenä on luonnos Omaishoidon tuen myöntämisen perusteet 65 vuotta täyttäneillä. Poistettavat kohdat on liitteeseen merkattu yliviivauksin ja muutettavat tai lisättävät kohdat on merkattu punaisella värillä.\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 13.5 § kohta 11\n\nVs. toimialajohtajan/\n\nikäihmisten palvelut"
+    },
+    {
+     "heading": "päätösesitys",
+     "text": "Elämänkaarilautakunta\n\n1. päättää osaltaan hyväksyä omaishoidon tuen myöntämisen perusteet 65 vuotta täyttäneitä koskien 1.2.2026 alkaen ja\n\n2. edelleen siirtää aluehallitukselle omaishoidon tuen myöntämisen perusteet 65 vuotta täyttäneitä koskien käsiteltäväksi ja vahvistettavaksi 1.2.2026 alkaen."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Elämänkaarilautakunta päätti yksimielisesti tehdä liitteeseen luonnos Omaishoidon tuen myöntämisen perusteet 65 vuotta täyttäneillä teknisen korjauksen sivulle 2 kohtaan hoitoisuusluokka 4. Tekstistä päätettiin poistaa lansäädäntömuutoksen myötä vanhentuneet tiedot eli seuraava lause: ”eikä omaishoitajalla ole oikeutta vuorotteluvapaalain mukaiseen vuorottelukorvaukseen.”"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Elämänkaarilautakunta hyväksyi päätösesityksen.\n\nEmmi Lintonen saapui tämän asian käsittelyn jälkeen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Elämänkaarilautakunnasta on tullut aluehallituksen päätettäväksi asia ”Omaishoidon tuen myöntämisen perusteet 65 vuotta täyttäneitä koskien 1.2.2026 alkaen”.\n\n(JH)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 10.5 § 5 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää hyväksyä omaishoidon tuen myöntämisen perusteet 65 vuotta täyttäneitä koskien voimaantulevaksi 1.2.2026 alkaen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Asiaote / tulosaluejohtaja Annukka Kuismin"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Omaishoidon tuen myöntämisen perusteet 65 vuotta täyttäneillä",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026157-9-387720.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "10",
+   "title": "Jäsenten nimeäminen Kanta-Hämeen hyvinvointialueen vanhusneuvostoon valtuustokaudelle 2025-2029 sekä vanhusneuvoston toimintasäännön hyväksyminen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026157-10",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026157-10.PDF",
+   "diary_number": "10484/00.01.01/2025",
+   "preparer": "erityisasiantuntija Tuula Salminen, kumppanuuspäällikkö Päivi Niiranen",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää\n\nnimetä hyvinvointialueen vanhusneuvostoon Kanta-Hämeen kuntien vanhusneuvostojen edustajat niiden tekemien esitysten mukaisesti\n\nnimetä edustajansa (3 edustajaa) hyvinvointialueen vanhusneuvostoon\n\nhyväksyä hyvinvointialueen vanhusneuvoston toimintasäännön vanhusneuvoston esittämällä tavalla.",
+   "decision": "Aluehallitus päätti\n\nnimetä hyvinvointialueen vanhusneuvostoon Kanta-Hämeen kuntien vanhusneuvostojen edustajat niiden tekemien esitysten mukaisesti\n\nnimetä edustajakseen hyvinvointialueen vanhusneuvostoon Sari Kykyrin, Kylli Kylliäisen ja Hannele Saaren\n\nhyväksyä hyvinvointialueen vanhusneuvoston toimintasäännön vanhusneuvoston esittämällä tavalla.\n\nKylli Kylläinen palasi kokoukseen tämän asian käsittelyn aikana ennen päätöksentekoa.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 25.08.2025 § 263"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "erityisasiantuntija Tuula Salminen, kumppanuuspäällikkö Päivi Niiranen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Kanta-Hämeen hyvinvointialueen vanhusneuvosto on hyvinvointialueesta säädetyn lain tarkoittama ikääntyneen väestön osallistumis- ja vaikuttamismahdollisuuksien turvaamiseksi asetettava vaikuttamistoimielin (Laki hyvinvointialueesta 611/2021, 32 §).\n\nHyvinvointialueen vanhusneuvosto edustaa ikääntynyttä väestöä tuoden evästyksenä hyvinvointialueen keskusteluun ja päätöksentekoon ikääntyneiden näkökulmia ja tärkeinä pitämiä asioita. Hyvinvointialueen vanhusneuvoston tehtävänä on muun muassa osallistuminen aktiivisesti ja vaikuttavasti hyvinvointialueen toiminnan suunnitteluun, valmisteluun, toteuttamiseen, seurantaan ja arviointiin sekä päätöksentekoon jo valmisteluvaiheessa kaikissa asioissa, joilla ko. vaikuttamistoimielin arvioi olevan nyt tai tulevaisuudessa vaikutusta ikääntyneen väestön ja heidän tarvitsemiensa palvelujen kannalta. Hyvinvointialueen vanhusneuvoston vaikuttamisrooli ulottuu hyvinvointialueen kaikille toimialoille.\n\nKanta-Hämeen hyvinvointialueen hallintosäännön 18 §:n mukaisesti aluehallitus hyväksyy hyvinvointialueen vanhusneuvostolle toimintasäännön, jossa määritellään mm. toimielimen lakisääteiset ja mahdolliset muut tehtävät, jäsenten lukumäärä ja valintatapa, toimikausi, kokous- ja toimintakäytännöt, puheenjohtajan valinta, sihteerin tehtävien hoitaminen, toimintasuunnitelman laatiminen ja toimintakertomuksen antaminen sekä yhteistyö kuntatason vaikuttamistoimielimen kanssa.\n\nHyvinvointialueen vanhusneuvoston toimintasääntö on valmisteltu ja hyväksytty edellisen valtuustokauden alkuvaiheessa. Ensimmäisen toimikauden jälkeen vanhusneuvoston toimintasääntöön on tehty joitakin täsmennyksiä mm. koskien hyvinvointialueen vanhusneuvoston jäsenyyden päättymistä ja uuden jäsenen valintaa.\n\nHyvinvointialueen vanhusneuvosto käsittelee toimintasäännön ensimmäisessä järjestäytymiskokouksessaan. Mikäli vanhusneuvosto näkee tarpeelliseksi esittää siihen vielä muutoksia, tuodaan mahdolliset muutosehdotukset aluehallitukseen käsiteltäväksi ja päätettäväksi.\n\n(SA-K)"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\n1. pyytää Kanta-Hämeen kuntien vanhusneuvostoja ja Hämeen eläkeläisjärjestöjen neuvottelukuntaa nimeämään edustajansa hyvinvointialueen vanhusneuvostoon valtuustokaudelle 2025–2029 liitteen ”Kanta-Hämeen hyvinvointialueen vanhusneuvosto” mukaisesti\n\n2. antaa päivitetyn toimintasääntöluonnoksen asetettavan hyvinvointialueen vanhusneuvoston käsiteltäväksi ko. vaikuttamistoimielimen ensimmäisessä kokouksessa\n\n3. että se ottaa toimintasäännön käsittelyyn ja hyväksyttäväksi em. hyvinvointialueen vanhusneuvoston käsittelyn jälkeen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "erityisasiantuntija Tuula Salminen, kumppanuuspäällikkö Päivi Niiranen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hyvinvointialueen vanhusneuvoston järjestäytymiskokous on pidetty 27.11.2025.\n\nKanta-Hämeen kuntien vanhusneuvostojen nimeämät edustajat ovat:\n\nForssa: Lea Mäkelä (varajäsen Hilkka Lundell)\n\nHattula: Esko Leppäkorpi (varajäsen Pia Yli-Pirilä)\n\nHausjärvi: Sanni Häyrynen (varajäsen Leevi Pyy)\n\nHumppila: Juhani Junttila (varajäsen Marjo Lampioja)\n\nHämeenlinna: Soila Nordström (varajäsen Kirsti Suoranta 2025-2026 ja Juha Tuomi 2027-2028)\n\nJanakkala: Helena Puistola (varajäsen Paula Lindholm)\n\nJokioinen: Eliisa Marttila (varajäsen Pentti Kirkkola)\n\nLoppi: Sirpa Hopearuoho (31.12.2025 saakka)\n\nRiihimäki: Pirjo-Liisa Snellman-Tenhunen (varajäsen Tapio Mäkelä)\n\nTammela: Jukka Mansikkaniemi (varajäsen Pirjo Mikkola)\n\nYpäjä: Anne Karppelin-Nummela\n\nHämeen Eläkeläisjärjestöjen neuvottelukunta: Ossi Lapisto (varajäsen Sinikka Peltola)\n\nKokouksessaan 27.11.2025 vanhusneuvosto on käsitellyt (§ 27 ) aluehallituksen päätöksen mukaisesti vanhusneuvoston toimintasäännön. Käydyn keskustelun pohjalta vanhusneuvosto esittää toimintasäännön hyväksymistä aluehallituksen aiemmin käsittelemässä muodossa.\n\nVanhusneuvoston pöytäkirjaan on kirjattu seuraavasti:\n\nTekstiin ei tehty muutosehdotuksia\n\nVanhusneuvosto haluaa painottaa alkaneella toimikaudella tiedon kulkua ja asioiden käsittelyn sykronointia, jotta vanhusneuvostolla tulisi aidosti mahdollisuuksia vaikuttaa.\n\nPöytäkirjaan kirjattavaksi ja viestiä eteenpäin vietäväksi: Vanhusneuvosto edellyttää, että vanhusneuvostolle nimetyt luottamushenkilöt aidosti sitoutuvat olemaan yhteistyössä vanhusneuvoston kanssa, joka käytännössä tarkoittaa kokouksiin ja asioista käytäviin keskusteluihin osallistumista.\n\nToimintasääntö hyväksytty näillä huomioilla.\n\n(SA-K)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 18 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\nnimetä hyvinvointialueen vanhusneuvostoon Kanta-Hämeen kuntien vanhusneuvostojen edustajat niiden tekemien esitysten mukaisesti\n\nnimetä edustajansa (3 edustajaa) hyvinvointialueen vanhusneuvostoon\n\nhyväksyä hyvinvointialueen vanhusneuvoston toimintasäännön vanhusneuvoston esittämällä tavalla."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti\n\nnimetä hyvinvointialueen vanhusneuvostoon Kanta-Hämeen kuntien vanhusneuvostojen edustajat niiden tekemien esitysten mukaisesti\n\nnimetä edustajakseen hyvinvointialueen vanhusneuvostoon Sari Kykyrin, Kylli Kylliäisen ja Hannele Saaren\n\nhyväksyä hyvinvointialueen vanhusneuvoston toimintasäännön vanhusneuvoston esittämällä tavalla.\n\nKylli Kylläinen palasi kokoukseen tämän asian käsittelyn aikana ennen päätöksentekoa."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Asiaote / erityisasiantuntija Tuula Salminen, kumppanuuspäällikkö Päivi Niiranen, vanhusneuvosto, vaikuttamistoimielimeen nimetyt, aluehallituksen edustajaksi valitut"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Vanhusneuvoston toimintasääntö 2025-2029",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026157-10-389146.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "11",
+   "title": "Jäsenten nimeäminen Kanta-Hämeen hyvinvointialueen vammaisneuvostoon valtuustokaudelle 2025-2029 sekä vammaisneuvoston toimintasäännön hyväksyminen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026157-11",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026157-11.PDF",
+   "diary_number": "10482/00.01.01/2025",
+   "preparer": "erityisasiantuntija Tuula Salminen, kumppanuuspäällikkö Päivi Niiranen",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää\n\nnimetä hyvinvointialueen vammaisneuvostoon Kanta-Hämeen kuntien vammaisneuvostojen edustajat niiden tekemien esitysten mukaisesti\n\nnimetä edustajansa (3 edustajaa) hyvinvointialueen vammaisneuvostoon\n\nhyväksyä hyvinvointialueen vammaisneuvoston toimintasäännön vammaisneuvoston esittämällä tavalla.",
+   "decision": "Aluehallitus päätti\n\nnimetä hyvinvointialueen vammaisneuvostoon Kanta-Hämeen kuntien vammaisneuvostojen edustajat niiden tekemien esitysten mukaisesti\n\nnimetä edustajakseen hyvinvointialueen vammaisneuvostoon Salla Fagerströmin, Satu Heinosen ja Eija Aittolan\n\nhyväksyä hyvinvointialueen vammaisneuvoston toimintasäännön vammaisneuvoston esittämällä tavalla.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 25.08.2025 § 264"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "erityisasiantuntija Tuula Salminen, kumppanuuspäällikkö Päivi Niiranen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Kanta-Hämeen hyvinvointialueen vammaisneuvosto on hyvinvointialueesta säädetyn lain tarkoittama vammaisten henkilöiden osallistumis- ja vaikuttamismahdollisuuksien varmistamiseksi asetettava vaikuttamistoimielin (Laki hyvinvointialueesta 611/2021, 32 §).\n\nHyvinvointialueen vammaisneuvosto edustaa vammaisia henkilöitä tuoden evästyksenä hyvinvointialueen keskusteluun ja päätöksentekoon vammaisten henkilöiden näkökulmia ja tärkeinä pitämiä asioita. Hyvinvointialueen vammaisneuvoston tehtävänä on muun muassa osallistuminen aktiivisesti ja vaikuttavasti hyvinvointialueen toiminnan suunnitteluun, valmisteluun, toteuttamiseen, seurantaan ja arviointiin sekä päätöksentekoon jo valmisteluvaiheessa kaikissa asioissa, joilla ko. vaikuttamistoimielin arvioi olevan nyt tai tulevaisuudessa vaikutusta vammaisten henkilöiden, heidän elinolosuhteidensa ja tarvitsemiensa palvelujen kannalta. Hyvinvointialueen vammaisneuvoston vaikuttamisrooli ulottuu hyvinvointialueen kaikille toimialoille.\n\nKanta-Hämeen hyvinvointialueen hallintosäännön 19 §:n mukaisesti aluehallitus hyväksyy hyvinvointialueen vammaisneuvostolle toimintasäännön, jossa määritellään mm. toimielimen lakisääteiset ja mahdolliset muut tehtävät, jäsenten lukumäärä ja valintatapa, toimikausi, kokous- ja toimintakäytännöt, puheenjohtajan valinta, sihteerin tehtävien hoitaminen, toimintasuunnitelman laatiminen ja toimintakertomuksen antaminen sekä yhteistyö kuntatason vaikuttamistoimielimen kanssa\n\nHyvinvointialueen vammaisneuvoston toimintasääntö on valmisteltu ja hyväksytty edellisen valtuustokauden alkuvaiheessa. Ensimmäisen toimikauden jälkeen vammaisneuvoston toimintasääntöön on tehty joitakin täsmennyksiä mm. koskien hyvinvointialueen vammaisneuvoston jäsenyyden päättymistä ja uuden jäsenen valintaa.\n\nHyvinvointialueen vammaisneuvosto käsittelee toimintasäännön ensimmäisessä järjestäytymiskokouksessaan. Mikäli vammaisneuvosto näkee tarpeelliseksi esittää siihen vielä muutoksia, tuodaan mahdolliset muutosehdotukset aluehallitukseen käsiteltäväksi ja päätettäväksi.\n\n(SA-K)"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\n1. pyytää Kanta-Hämeen kuntia nimeämään edustajansa hyvinvointialueen vammaisneuvostoon valtuustokaudelle 2025–2029 liitteen ”Kanta-Hämeen hyvinvointialueen vammaisneuvosto” mukaisesti\n\n2. antaa päivitetyn toimintasäännön asetettavan hyvinvointialueen vammaisneuvoston käsiteltäväksi ko. vaikuttamistoimielimen ensimmäisessä kokouksessa\n\n3. että se ottaa toimintasäännön käsittelyyn ja hyväksyttäväksi em. hyvinvointialueen vammaisneuvoston käsittelyn jälkeen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "erityisasiantuntija Tuula Salminen, kumppanuuspäällikkö Päivi Niiranen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hyvinvointialueen vammaisneuvoston järjestäytymiskokous on pidetty 27.11.2025.\n\nKanta-Hämeen kuntien vammaisneuvostojen nimeämät edustajat ovat:\n\nForssa: Sirkka-Liisa Ilvonen (varajäsen Sirkka Kaleva)\n\nHattula: Eveliina Honkajuuri-Salokannas (varajäsen Mari Monto)\n\nHausjärvi: Jaana Saarholm (varajäsen Seppo Nyman)\n\nHumppila: Sinikka Huusela (varajäsen Timo Nikkanen)\n\nHämeenlinna: Pia-Nina Mohr (varajäsen Hannu Nikander)\n\nJanakkala: Päivi Salonen (varajäsen Heli Tamminen)\n\nJokioinen: Kari Saarinen (varajäsen Minna Lax)\n\nLoppi: Heidi Peura (varajäsen)\n\nRiihimäki: Sari Palm (varajäsen Esko Mäkinen)\n\nTammela: Jukka Mansikkaniemi (varajäsen Esa Ylösmäki)\n\nYpäjä: Erkki Pyykkö (varajäsen Mirja Jokio)\n\nKokouksessaan 27.11.2025 vammaisneuvosto on käsitellyt (§ 32) aluehallituksen päätöksen mukaisesti vammaisneuvoston toimintasäännön. Käydyn keskustelun pohjalta vammaisneuvosto esittää toimintasäännön hyväksymistä aluehallituksen aiemmin käsittelemässä muodossa lukuun ottamatta toimintasäännön 2. luvun kohtaa puheenjohtajien valinnasta. Vammaisneuvosto esittää, että puheenjohtajisto valitaan koko toimikaudelle ja lause muutetaan muotoon: ”Hyvinvointialueen vammaisneuvosto nimeää ensimmäisessä tapaamisessaan keskuudestaan puheenjohtajan ja kaksi varapuheenjohtajaa siten, että alueen kolme seutua ovat tasapuolisesti edustettuina.”\n\n(SA-K)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 19 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\nnimetä hyvinvointialueen vammaisneuvostoon Kanta-Hämeen kuntien vammaisneuvostojen edustajat niiden tekemien esitysten mukaisesti\n\nnimetä edustajansa (3 edustajaa) hyvinvointialueen vammaisneuvostoon\n\nhyväksyä hyvinvointialueen vammaisneuvoston toimintasäännön vammaisneuvoston esittämällä tavalla."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti\n\nnimetä hyvinvointialueen vammaisneuvostoon Kanta-Hämeen kuntien vammaisneuvostojen edustajat niiden tekemien esitysten mukaisesti\n\nnimetä edustajakseen hyvinvointialueen vammaisneuvostoon Salla Fagerströmin, Satu Heinosen ja Eija Aittolan\n\nhyväksyä hyvinvointialueen vammaisneuvoston toimintasäännön vammaisneuvoston esittämällä tavalla."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Asiaote / erityisasiantuntija Tuula Salminen, kumppanuuspäällikkö Päivi Niiranen, vammaisneuvosto, vaikuttamistoimielimeen nimetyt, aluehallituksen edustajaksi valitut"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Vammaisneuvoston toimintasääntö 2025-2029",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026157-11-389149.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "12",
+   "title": "Jäsenten nimeäminen Kanta-Hämeen hyvinvointialueen nuorisovaltuustoon valtuustokaudelle 2025-2029",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026157-12",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026157-12.PDF",
+   "diary_number": "10483/00.01.01/2025",
+   "preparer": "erityisasiantuntija Tuula Salminen, kumppanuuspäällikkö Päivi Niiranen",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää\n\nnimetä hyvinvointialueen nuorisovaltuustoon Kanta-Hämeen kuntien nuorisovaltuustojen edustajat niiden tekemien esitysten mukaisesti\n\nnimetä edustajansa (3 edustajaa) hyvinvointialueen nuorisovaltuustoon\n\nettä nuorisovaltuuston toimintasääntö tuodaan aluehallitukselle erikseen hyväksyttäväksi myöhemmin.",
+   "decision": "Aluehallitus päätti\n\nnimetä hyvinvointialueen nuorisovaltuustoon Kanta-Hämeen kuntien nuorisovaltuustojen edustajat niiden tekemien esitysten mukaisesti\n\nnimetä edustajakseen hyvinvointialueen nuorisovaltuustoon Sari Salmisen, Ville Mustosen ja Satu Vikstenin\n\nettä nuorisovaltuuston toimintasääntö tuodaan aluehallitukselle erikseen hyväksyttäväksi myöhemmin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 25.08.2025 § 265"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "erityisasiantuntija Tuula Salminen, kumppanuuspäällikkö Päivi Niiranen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Kanta-Hämeen hyvinvointialueen nuorisovaltuusto on hyvinvointialueesta annetun lain tarkoittama nuorten osallistumis- ja vaikuttamismahdollisuuksien turvaamiseksi asetettava vaikuttamistoimielin (Laki hyvinvointialueesta 611/2021, 32 §).\n\nHyvinvointialueen nuorisovaltuusto edustaa nuoria, tuoden evästyksenä hyvinvointialueen keskusteluun ja päätöksentekoon nuorten näkökulmia ja tärkeinä pitämiä asioita. Hyvinvointialueen nuorisovaltuuston tehtävänä on muun muassa osallistuminen aktiivisesti ja vaikuttavasti hyvinvointialueen toiminnan suunnitteluun, valmisteluun, toteuttamiseen, seurantaan ja arviointiin sekä päätöksentekoon jo valmisteluvaiheessa kaikissa asioissa, joilla ko. vaikuttamistoimielin arvioi olevan nyt tai tulevaisuudessa vaikutusta nuorten ja heidän tarvitsemiensa palvelujen kannalta.\n\nKanta-Hämeen hyvinvointialueen hallintosäännön 17 §:n mukaisesti aluehallitus hyväksyy hyvinvointialueen nuorisovaltuustolle toimintasäännön, jossa määritellään mm. toimielimen lakisääteiset ja mahdolliset muut tehtävät, jäsenten lukumäärä ja valintatapa, toimikausi, kokous- ja toimintakäytännöt, puheenjohtajan valinta, sihteerin tehtävien hoitaminen, toimintasuunnitelman laatiminen ja toimintakertomuksen antaminen sekä yhteistyö kuntatason vaikuttamistoimielimen kanssa.\n\nHyvinvointialueen nuorisovaltuuston toimintasääntö on valmisteltu ja hyväksytty edellisen valtuustokauden alkuvaiheessa. Ensimmäisen toimikauden jälkeen nuorisovaltuuston toimintasääntöön on tehty joitakin täsmennyksiä mm. koskien hyvinvointialueen nuorisovaltuuston jäsenyyden päättymistä ja uuden jäsenen valintaa.\n\nHyvinvointialueen nuorisovaltuuston käsittelee toimintasäännön ensimmäisessä järjestäytymiskokouksessaan. Mikäli nuorisovaltuusto näkee tarpeelliseksi esittää siihen vielä muutoksia, tuodaan mahdolliset muutosehdotukset aluehallitukseen käsiteltäväksi ja päätettäväksi.\n\n(SA-K)"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\n1. pyytää Kanta-Hämeen kuntia nimeämään edustajansa hyvinvointialueen nuorisovaltuustoon valtuustokaudelle 2025–2029 liitteen ”Kanta-Hämeen hyvinvointialueen nuorisovaltuusto” mukaisesti.\n\n2. antaa päivitetyn toimintasäännön asetettavan hyvinvointialueen nuorisovaltuuston käsiteltäväksi ko. vaikuttamistoimielimen ensimmäisessä kokouksessa\n\n3. että se ottaa toimintasäännön käsittelyyn ja hyväksyttäväksi em. hyvinvointialueen nuorisovaltuuston käsittelyn jälkeen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "erityisasiantuntija Tuula Salminen, kumppanuuspäällikkö Päivi Niiranen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hyvinvointialueen nuorisovaltuuston järjestäytymiskokous on pidetty 1.12.2025.\n\nKanta-Hämeen kuntien nuorisovaltuustoon nimeämät edustajat ovat:\n\nForssa: Jenna Hirn ja Luan Demiri (varajäsenet Miska Nuuttinen ja Alisa Lepänkoski)\n\nHattula: Oliver Pummer ja Venla Rökman (varajäsenet Kauko Uotila ja Jemina Glumov)\n\nHausjärvi: Severi Määttä\n\nHumppila: Voitto Penttilä ja Milla Rautakumpu (varajäsenet Miro Antell ja Helmi Hyytiäinen)\n\nHämeenlinna: Jerome Pietilä ja Vilma Äyhönen (varajäsenet Vaula Nurkkala ja Ukko-Ilmari Ollila)\n\nJanakkala: Pepe Razi ja Martta Laitinen (varajäsenet Elias Kadeyi ja Lyra Sitomaniemi)\n\nJokioinen: Samu Holstikko ja Sampsa Rantanen (varajäsenet Saana Holstikko ja Pinja Yli-Kahrakuusi)\n\nLoppi: Ada Mikkola ja Tuukka Marjanen (varajäsenet Miko Riikonen ja Helmi Porkka)\n\nRiihimäki (edustajat 1/26 asti): Juho Rintakoski ja Riikka Pasanen (varajäsenet Okko Lausmaa ja Jenny Kankaantähti)\n\nTammela: Albert Aro ja Alina Syrjälä (varajäsenet Tytti Tukia ja Lauri Ahola)\n\nYpäjä: Kaisa Poutala ja Ellen Sivula (varajäsenet Vivia Pihlasaari ja Amanda Venäläinen\n\nNuorisovaltuuston toimintasääntö tuodaan aluehallitukselle erikseen hyväksyttäväksi myöhemmin.\n\n(SA-K)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 17 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\nnimetä hyvinvointialueen nuorisovaltuustoon Kanta-Hämeen kuntien nuorisovaltuustojen edustajat niiden tekemien esitysten mukaisesti\n\nnimetä edustajansa (3 edustajaa) hyvinvointialueen nuorisovaltuustoon\n\nettä nuorisovaltuuston toimintasääntö tuodaan aluehallitukselle erikseen hyväksyttäväksi myöhemmin."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti\n\nnimetä hyvinvointialueen nuorisovaltuustoon Kanta-Hämeen kuntien nuorisovaltuustojen edustajat niiden tekemien esitysten mukaisesti\n\nnimetä edustajakseen hyvinvointialueen nuorisovaltuustoon Sari Salmisen, Ville Mustosen ja Satu Vikstenin\n\nettä nuorisovaltuuston toimintasääntö tuodaan aluehallitukselle erikseen hyväksyttäväksi myöhemmin."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / erityisasiantuntija Tuula Salminen, kumppanuuspäällikkö Päivi Niiranen, nuorisovaltuusto, vaikuttamistoimielimeen nimetyt, aluehallituksen edustajaksi valitut"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "13",
+   "title": "Valtuutus perustietotekniikan hankinnan välipäätöksen tekemisestä",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026157-13",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026157-13.PDF",
+   "diary_number": "14743/02.08.03/2025",
+   "preparer": "kehitys- ja ICT-johtaja Toni Suihko; , hankinnan erityisasiantuntija Sini Pennanen",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää\n\n1. valtuuttaa kehitys- ja ICT-johtajan tekemään välipäätöksen ehdokkaiden hyväksymisestä perustietotekniikan hankinnan neuvotteluvaiheeseen\n\n2. tarkastaa pöytäkirjan tämän asian osalta kokouksessa.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.\n\nPirjo Alijärvi poistui kokouksesta tämän asian käsittelyn jälkeen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "kehitys- ja ICT-johtaja Toni Suihko\n\n, hankinnan erityisasiantuntija Sini Pennanen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluehallitus 06.10.2025 § 317 on päätöksellään hyväksynyt hankinnan\n\nkäynnistämisen koskien perustietotekniikan kilpailuttamista markkinoilta. Hankintaa on valmisteltu syksyn aikana ja hankinta toteutetaan hankintalain pykälän 29 mukaisena kilpailullisena neuvottelumenettelynä.\n\nHankinnan arvioitu arvo on 24 miljoonaa euroa (laskennallisesti 4 vuotta). Hankinnasta on julkaistu osallistumispyyntö Hilmassa 20.11.2025. Osallistumishakemukset tulee toimittaa viimeistään 19.12.2025.\n\nHankintalain mukaisesti kilpailulliseen neuvottelumenettelyn neuvotteluvaiheeseen tulee valita vähintään kolme tarjoajaa, mikäli\n\nsoveltuvia tarjoajia on vähintään kolme. Hankintailmoituksessa on\n\nilmoitettu, että hankinnassa tullaan etenemään neuvotteluihin enintään\n\nviiden soveltuvan tarjoajan kanssa ja tarjoajien valinnasta\n\nneuvotteluvaiheeseen tehdään valituskelpoinen välipäätös.\n\nPerustietotekniikan hankinnan sujuvan etenemisen varmistamiseksi\n\nesitetään päätettäväksi, että aluehallitus valtuuttaa Kehitys- ja ICT-johtajan\n\ntekemään välipäätöksen ehdokkaiden hyväksymisestä\n\nneuvotteluvaiheeseen. Lopullinen hankintapäätös perustietotekniikan\n\nhankinnasta tuodaan aluehallituksen päätettäväksi.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 10.5 § 7 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää\n\n1. valtuuttaa kehitys- ja ICT-johtajan tekemään välipäätöksen ehdokkaiden hyväksymisestä perustietotekniikan hankinnan neuvotteluvaiheeseen\n\n2. tarkastaa pöytäkirjan tämän asian osalta kokouksessa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen.\n\nPirjo Alijärvi poistui kokouksesta tämän asian käsittelyn jälkeen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / kehitys- ja ICT-johtaja Toni Suihko, hankinnan\n\nerityisasiantuntija Sini Pennanen"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "14",
+   "title": "Ennakkokannan antaminen Hämeenlinnan Erityisasuntosäätiö sr:lle",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026157-14",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026157-14.PDF",
+   "diary_number": "105/00.01.01/2026",
+   "preparer": "hallintojohtaja Katja Tommiska",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää antaa Hämeenlinnan Erityisasuntosäätiö sr:lle sen pyytämään asiaan ennakkokannan seuraavasti: Kanta-Hämeen hyvinvointialueella on käynnissä aluehallituksen 15.12.2025 tekemän päätöksen (§ 461) mukaisesti maaliskuun 2026 loppuun mennessä valmistuva palveluiden järjestämistapojen ja organisoinnin tarkastelutyö. Tässä vaiheessa on perusteltua, että asiassa jäädään odottamaan tarkastelutyön valmistumista.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.\n\nPasi Honkanen poistui esteellisenä kokouksesta tämän asian käsittelyn ajaksi (yhteisöjäävi).",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hämeenlinnan Erityisasuntosäätiö sr on perustettu vuonna 1986 ja sen kotipaikka on Hämeenlinna. Säätiön tarkoituksena on ikäihmisten, vammaisten, mielenterveys- ja päihdekuntoutujien tai muutoin erityisen tuen tarpeessa olevien henkilöiden asuinolojen ja asunnonsaantimahdollisuuksien parantaminen.\n\nSäätiön hallituksen puheenjohtaja Viille Viitanen on toimittanut Kanta-Hämeen hyvinvointialueelle 15.12.2025 seuraavan pyynnön:\n\n”Hämeenlinnan Erityisasuntosäätiö hakee Kanta-Hämeen hyvinvointialueen konserniohjeen mukaista ennakkokantaa toimintaan nähden tärkeän omaisuuden mahdollisesta myynnistä.\n\nSäätiö esitti palvelutuotteiden hintoihin 12 % - 32 % suuruisia korotuksia, johon hyvinvointialue ei suostunut. Erityisasuntosäätiön hallitus joutui hyväksymään hyvinvointialueen esittämän 2,51 % hinnankorotuksen, koska muita vaihtoehtoja hallituksella ei ollut. Tuolloin hallitus totesi, että 2,51 % hinnankorotus aiheuttaa huomattavan tappion säätiölle, mikä saattaa säätiön taloudellisiin ongelmiin. Tästä säätiö on hyvinvointialueen aluehallitusta informoinut.\n\nSäätiölain 1 luvun 2 §:n mukaan säätiön tarkoituksena ei voi olla liiketoiminnan harjoittaminen eikä taloudellisen edun tuottaminen säätiölain 1 luvun 8 §:ssä määrättyyn lähipiiriin kuuluvalle (hyvinvointialue kuuluu säätiön lähipiiriin). Hallituksen tehdessä päätöstä säätiön omaisuuden luovutuksesta huomattavilta osin tai kokonaisuudessaan on erityisesti huomioitava kokonaisarviona säätiön etu sekä se, että luovutuksesta saaduilla varoilla voidaan edelleen toteuttaa säätiön tarkoitusta.\n\nEdellä mainituiden syitten takia säätiö joutuu harkitsemaan toiminnan myyntiä osin tai kokonaan. Säätiö on käynnistämässä valmisteluvaiheen, jonka aikana säätiön markkinaehtoinen hinta ja mahdollisia ostajaehdokkaita selvitetään. Säätiö on kiinnostunut keskustelemaan asiasta myös hyvinvointialueen kanssa.\n\nHämeenlinnassa 15.12.2025\n\nHallituksen puheenjohtaja Ville Viitanen”\n\nHämeenlinnan Erityisasuntosäätiö sr:n sääntöjen 5 § sisältää määräykset säätiön hallituksesta. Säännöksen mukaan säätiön omaisuutta ja sen asioita hoitaa ja säätiötä edustaa seitsemänjäseninen (7) hallitus. Hallituksen jäsenet valitaan siten, että Kanta-Hämeen hyvinvointialue valitsee neljä (4) ja Hämeenlinnan kaupunki valitsee kolme (3) jäsentä. Säätiön hallituksessa hyvinvointialueella on enemmistö ja tällä perusteella säätiö on hyvinvointialueen tytäryhteisö ja siten osa hyvinvointialueen konsernia.\n\nKanta-Hämeen hyvinvointialueen hallintosäännön 35.2 §:n 8 kohdan mukaan aluehallitus antaa hyvinvointialueen ennakkokannan konserniohjeen edellyttämissä asioissa. Kanta-Hämeen hyvinvointialueen konserniohjeen mukaan konsernijohdon keinona ohjata ja valvoa konserniin kuuluvan tytäryhteisön taloutta ja toimintaa on hyvinvointialueen ennakkokannan hankinta. Periaatteessa jokaisella hyvinvointialueen tytäryhteisön hallituksen jäsenellä on yksilövastuu ja hallituksen jäsenenä häntä ohjaa tässä tehtävässä ainoastaan yhtiön etu. Tosiasiallisesti tytäryhteisön hallitus edustaa samalla konsernin johtoa ja omistajaa yhteisön hallinnossa ja siten hallituksen toiminta on myös osa hyvinvointialuekonsernin omistajaohjausta.\n\nKonserniohjeen mukaan tytäryhteisön on hankittava ennakkokanta omistajalta jo valmisteluvaiheessa tehdessään päätöstä merkittävässä asiassa. Ennakkokannan hankkimisesta vastaa tytäryhteisön hallituksen puheenjohtaja. Ennakkokanta pyydetään vapaamuotoisesti, esimerkiksi sähköpostitse, hyvinvointialuejohtajalta tai hänen määräämältään viranhaltijalta. Tytär- ja osakkuusyhteisön hallituksen, vastuuhenkilönä hallituksen puheenjohtaja (jollei muusta menettelystä ole sovittu hallituksessa), on hankittava aluehallituksen ennakkokanta merkittäviin toimenpiteisiin kuten mm. periaatteellisiin tai taloudellisesti merkittäviin sopimuksiin ja toiminnan laajoihin muutoksiin.\n\nKanta-Hämeen hyvinvointialueen aluehallitus on kokouksessaan 15.12.2025 (§ 461) käsitellyt asiaa koskien Kanta-Hämeen hyvinvointialueen ja Hämeenlinnan Erityisasuntosäätiön välisen puitesopimuksen irtisanomista. Kanta-Hämeen hyvinvointialueen ja Hämeenlinnan Erityisasuntosäätiö ovat tehneet v. 2024 puitesopimuksen. Sopimus koskee sosiaalihuoltolaissa, vammaispalvelulaissa ja kehitysvammaisten erityishuollosta annetussa laissa tarkoitettuja asumispalveluja, kotiin vietävää avokuntoutusta sekä muuta kotiin annettavaa palvelua Erityisasuntosäätiön ylläpitämissä toimitiloissa ja muutoin säätiön tuottamana. Sopimuksen irtisanomisaika on molemmin puolin 12 kuukautta irtisanomista seuraavan kalenterivuoden alusta lukien.\n\nAluehallituksen 15.12.2025 tekemässä päätöksessä on tuotu esille, että puitesopimuksen piiriin kuuluvien palveluiden osalta on hyvinvointialueella noussut esille tarve tarkastella palveluiden järjestämistapoja ja niiden organisointia vuoden 2026 aikana siten, että mahdolliset muutokset palveluiden järjestämistapojen ja organisoinnin osalta on mahdollista toteuttaa vuoden 2027 alusta. Asiaa on käyty läpi aluehallituksen aamukoulussa 24.11.2025. Lisäksi asiasta on informoitu Hämeenlinnan Erityisasuntosäätiön toimivaa johtoa sekä Hämeenlinnan kaupunkia.\n\nAluehallituksen päätöksessä on todettu lisäksi, että koska Hämeenlinnan Erityisasuntosäätiön kanssa tehdyn puitesopimuksen irtisanomisaika on pitkä (12 kuukautta irtisanomista seuraavan kalenterivuoden alusta lukien), tulisi puitesopimus irtisanoa vuoden 2025 aikana. Tällöin edellä mainittu palveluiden järjestämistapojen ja organisoinnin tarkastelu voitaisiin toteuttaa sopimuksen irtisanomisaikana ja mahdolliset muutokset toteuttaa vuodesta 2027 lukien. Palveluiden järjestämistapojen ja organisoinnin tarkastelutyö viedään päätökseen viimeistään maaliskuun 2026 loppuun mennessä. Aluehallituksen päätös on annettu tiedoksi Hämeenlinnan Erityisasuntosäätiö sr:lle.\n\nKoska Kanta-Hämeen hyvinvointialueella on käynnissä edellä mainittu maaliskuun 2026 loppuun mennessä valmistuva palveluiden järjestämistapojen ja organisoinnin tarkastelutyö, tässä vaiheessa on perusteltua, että tämän tarkastelutyön lopputulosta ja johtopäätöksiä jäädään odottamaan ennen asian valmistelun käynnistämistä.\n\nHämeenlinnan erityisasuntosäätiön säännöt sekä Kanta-Hämeen hyvinvointialueen aluehallituksen päätös 14.12.2025 (§ 461) ovat liitteenä.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 35.2 § 8 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää antaa Hämeenlinnan Erityisasuntosäätiö sr:lle sen pyytämään asiaan ennakkokannan seuraavasti: Kanta-Hämeen hyvinvointialueella on käynnissä aluehallituksen 15.12.2025 tekemän päätöksen (§ 461) mukaisesti maaliskuun 2026 loppuun mennessä valmistuva palveluiden järjestämistapojen ja organisoinnin tarkastelutyö. Tässä vaiheessa on perusteltua, että asiassa jäädään odottamaan tarkastelutyön valmistumista."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen.\n\nPasi Honkanen poistui esteellisenä kokouksesta tämän asian käsittelyn ajaksi (yhteisöjäävi)."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / Hämeenlinnan eritysasuntosäätiö"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Hämeenlinnan Erityisasuntosäätiö srn säännöt",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026157-14-389136.PDF"
+    },
+    {
+     "title": "Liite 2 Pöytäkirjanote_ §461 Kanta-Hämeen hyvinvointialueen ja Hämeenlinnan Erityisasuntosäätiön välisen puitesopimuksen irtisanominen",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026157-14-389137.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "15",
+   "title": "Jäsenen nimeäminen Työvalmennussäätiö Luotsi sr:n hallitukseen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026157-15",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026157-15.PDF",
+   "diary_number": "15628/00.04.02/2025",
+   "preparer": "hallintojohtaja Katja Tommiska",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää nimetä jäsenen Työvalmennussäätiö Luotsi sr:n hallitukseen vuosiksi 2026 - 2027.",
+   "decision": "Aluehallitus päätti yksimielisesti jättää asian pöydälle.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitus 15.12.2025 § 463"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Työvalmennussäätiö Luotsin tarkoituksena on järjestää sosiaalisena palveluna työvalmennusta, työkokeilua, työllistämistä sekä työtoimintaa työttömille, syrjäytymisuhan alaisille nuorille, vajaakuntoisille ja muille vaikeasti työllistyville henkilöille sekä järjestää ja kehittää muuta tähän liittyvää kuntouttavaa toimintaa ja koulutusta.\n\nTarkoituksensa toteuttamiseksi säätiö tuottaa ja myy muussa kuin liiketaloudellisessa tarkoituksessa palveluja ja tuotteita sekä julkiselle että yksityiselle sektorille sekä voi tällaisen toiminnan puitteissa tehdä yhteistyötä muiden yhteisöjen, yritysten ja kuntien kanssa sekä kehittää projektiluonteisia yhteistyöhankkeita.\n\nSäätiö voi omistaa toimintaansa varten kiinteää ja irtainta omaisuutta sekä olla osakkaana erillisissä yhtiöissä ja yrityksissä. Säätiön päätoimialana on kuntouttava työtoiminta ja siihen liittyvän kierrätystoiminnan järjestäminen Hämeenlinnan seudulla.\n\nTyövalmennussäätiö Luotsi sr pyytää Kanta-Hämeen hyvinvointialuetta nimeämään erovuoroisten tilalle säätiön hallituksen jäsenet toimikaudelle 2026–2027.\n\nSäätiön sääntöjen kohdan 4 ”Hallitus” mukaan:\n\n\"Hallitukseen kuuluu kuusi (6) jäsentä. Hallitus valitsee keskuudestaan\n\npuheenjohtajan ja varapuheenjohtajan.\n\nHallituksen jäsenet valitaan niin, että\n\nYhden (1) jäsenen valitsee Hämeenlinna Vanajan seurakunta\n\nYhden (1) jäsenen valitsee Hämeenlinnan kaupunki\n\nNeljä (4) jäsentä valitsee Kanta-Hämeen hyvinvointialue.\n\nHallituksen jäsenen valitsijalla on oikeus erottaa nimeämänsä jäsen. Jäsenen toimikausi on kaksi kalenterivuotta, kuitenkin siten, että hallituksen jäsenistä kolme on kalenterivuosittain erovuorossa. Jos hallituksen jäsen eroaa kesken toimikauttaan, hänet nimennyt yhteisö nimeää uuden jäsenen eronneen tilalle toimikauden loppuun.\"\n\nAluehallitus on kokouksessaan 18.12.2023 (§ 508) päättänyt nimetä Tea Jaakkolan ja Lauri Jormanaisen jäseniksi vuosiksi 2024 – 2025, ja kokouksessaan 13.1.2025 (§ 10) aluehallitus on päättänyt nimetä jäseniksi vuosiksi 2025 - 2026 Päivi Kankaanmäen ja Irmeli Elon.\n\nSääntöjen mukaisesti erovuoroisia ovat Tea Jaakkola ja Lauri Jormanainen.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 35.2 §:n 10 ja 11 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää nimetä kaksi jäsentä Työvalmennussäätiö Luotsi sr:n hallitukseen vuosiksi 2026 - 2027."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti nimetä Irmeli Elon ja Vuokko Syvännön jäseniksi Työvalmennussäätiö Luotsi sr:n hallitukseen vuosiksi 2026 - 2027."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluehallitus on kokouksessaan 15.12.2025 (§ 463) päättänyt nimetä Irmeli Elon ja Vuokko Syvännön jäseniksi Työvalmennussäätiö Luotsi sr:n hallitukseen vuosiksi 2026 – 2027. Koska Irmeli Elo on nimetty jo aiemmin aluehallituksen päätöksellä 13.1.2025 (§ 10) kyseisen säätiön hallitukseen vuosiksi 2025 – 2026, on tarpeen nimetä uudelleen toinen jäsen säätiön hallitukseen vuoksiksi 2026 – 2027.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 35.2 §:n 10 ja 11 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää nimetä jäsenen Työvalmennussäätiö Luotsi sr:n hallitukseen vuosiksi 2026 - 2027."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti yksimielisesti jättää asian pöydälle."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "16",
+   "title": "Hyvinvointialueyhtiö Hyvil Oy:n ylimääräinen yhtiökokous 19.1.2026",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026157-16",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026157-16.PDF",
+   "diary_number": "16546/00.01.08/2025",
+   "preparer": "hallintojohtaja Katja Tommiska",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää nimetä hyvinvointialueen edustajaksi Hyvil Oy:n ylimääräiseen yhtiökokoukseen 19.1.2026 hallintojuristi Kari Suokkaan tai hänen valtuuttamansa henkilön ja toteaa, ettei sillä ole huomauttamista hallituksen yhtiökokoukselle tekemiin päätösesityksiin.\n\nAluehallitus päättää tarkastaa pöytäkirjan tämän asian osalta kokouksessa.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Hyvinvointialueyhtiö Hyvil Oy:n toiminnan tarkoituksena on tuottaa omistajilleen asiantuntija-, neuvonta-, yhteistyönalusta-, kehitys- ja lainsäädäntöön vaikuttamispalveluita ja soveltamisen tukea sekä vaikuttamis- ja edunvalvontapalveluja että muita palveluja omakustannushintaan.\n\nHyvil Oy:n ylimääräinen yhtiökokous pidetään 19.1.2026 klo 10 alkaen Teams -yhteydellä. Kokouksen esityslista on oheismateriaalina.\n\nHyvil Oy sijoittuu aluehallituksen kokouksessaan 27.9.2023 tekemän päätöksen (§ 350) mukaisesti strategisiin yhtiöihin, joiden yhtiökokouskutsut tuodaan aluehallituksen käsiteltäviksi ja käsittelyn yhteydessä yhtiökokousedustajalle annetaan tarvittavat ohjeet. Hallintosäännön 10.5 §:n 13 kohdan mukaan aluehallitus päättää edustajien nimeämisestä yksityisoikeudellisten yhteisöjen, säätiöiden ja laitosten toimielimiin ja kokouksiin.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 35.2 §:n 10 ja 11 kohta"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää nimetä hyvinvointialueen edustajaksi Hyvil Oy:n ylimääräiseen yhtiökokoukseen 19.1.2026 hallintojuristi Kari Suokkaan tai hänen valtuuttamansa henkilön ja toteaa, ettei sillä ole huomauttamista hallituksen yhtiökokoukselle tekemiin päätösesityksiin.\n\nAluehallitus päättää tarkastaa pöytäkirjan tämän asian osalta kokouksessa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / Hyvinvointialueyhtiö Hyvil Oy\n\nAsiaote / hallintojuristi Kari Suokas"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Oikaisuvaatimus"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "17",
+   "title": "Valtuustoaloite koskien Icehearts-toimintamallin tarpeen selvittämistä kaikilla Kanta-Hämeen seuduilla",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026157-17",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026157-17.PDF",
+   "diary_number": "734/00.01.03.00/2025",
+   "preparer": "hallintojohtaja Katja Tommiska",
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä valtuustoaloitteen tiedoksi ja lähettää sen perhe-, sosiaali- ja vammaispalvelujen toimialalle valmisteltavaksi.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluevaltuusto 16.12.2025 § 126\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 § 1-2 mom."
+    },
+    {
+     "heading": "Selostus",
+     "text": "Valtuuston kokouksessa 16.12.2025 on jätetty valtuustoaloite ”Icehearts-toimintamallin tarpeen selvittäminen kaikilla Kanta-Hämeen seuduilla”.\n\nAloitteen on jättänyt Lauri Jormanainen, Kylli Kylliäinen, Satu Taiveaho, Salla Fagerström, Heini Ristavaara, Emmi Lintonen, Minna Lax, Ranjith Kumar Prabhakaran, Nina Aitola, Timo Viitanen, Tuomas Koskinen, Terhi Lehtonen, Marko Mustiala, Päivi Kankaanmäki, Helena Lehkonen, Lotta Saarenmaa, Riku Bitter, Sari Rautio, Kalle Virtanen, Jarkko Stråhle, Jessica Sonko, Johanna Wiisak, Kristiina Ruuskanen, Pasi Honkanen, Teijo Pullinen, Pasi Niemi, Mika Lartama, Otto Eriksson, Vuokko Syväntö, Elise Oikari, Hannele Saari, Mirka Soinikoski, Karri Vanttaja, Maija Kranni, Tarja Kirkkola-Helenius, Minna Belik, Satu Viksten, Juhani Lehto, Sari Auvinen, Erja Hirviniemi, Petri Mattila, Silja Nurmi, Piritta Järvinen, Miia Nahkuri, Tarja Filatov ja Piia Olkinuora.\n\nValtuustoaloite:\n\n”Icehearts-toimintaa tarjotaan Kanta-Hämeessä vain Hämeenlinnassa ja Riihimäellä. Rahoitusmalli on kunnissa erilainen, ja neuvottelut Riihimäen seuraavan joukkueen perustamiseksi ovat kariutuneet osittain alueellisen tasapuolisuuden takia. Riihimäellä olemassa olevien joukkueiden rahoitus (50 000€/vuosi) on jaettu kaupungin (sivistyksen- ja hyvinvoinnin toimiala) sekä hyvinvointialueen kesken, Hämeenlinnassa toiminta on SIB (Social Impact Bond) rahoitteista, Forssassa Icehearts joukkueita ei ole.\n\n“Icehearts on varhaisen puuttumisen toimintamalli lapsen hyväksi sekä sosiaalityön, koulun ja vapaa-ajan tueksi. Icehearts on innovatiivinen toimintamalli, jonka työväline on joukkueurheilu. Jokainen joukkue on 12 vuotta kestävä yhteinen matka – lapsuudesta aikuisuuden kynnykselle.” - icehearts.fi\n\nRiihimäellä on neuvoteltu ilman tulosta vuoden ajan uuden joukkueen perustamisesta, ja sille olisi selkeä tilaus. Toiminta on tutkitusti vaikuttavaa ja toimintamalli on saanut lukuisia palkintoja mm. työstään lasten terveyden edistämiseksi, sosiaalisen aseman parantamiseksi ja liikunta- sekä kulttuuritoiminnan eteen tehdystä työstä. Toiminnan vaikutukset ja hyödyt levittäytyvät selkeästi sekä kunnalle, että hyvinvointialueelle. Nyt tilanne on se, että toiminnan kulut lankeaisivat vain kunnalle, minkä johdosta joukkueen perustamisesta ei ole pystytty tekemään päätöstä. Jos toiminta kariutuu rahoituksen puutteeseen, kustannukset mahdollisista seurauksista lankeaa myös hyvinvointialueelle. Nykyisten joukkueiden toimintaan ollaan laajasti tyytyväisiä, ja se voisi jatkossakin olla tärkeä tuki monelle lapselle, jonka palvelun tarve voi olla jatkossa huomattavasti suurempi ilman Iceheartsin kasvattajan tukea.\n\nMe aloitteen allekirjoittajat esitämme, että Oma Häme selvittää Icehearts toiminnan vaikutukset suhteessa kustannuksiin ja arvioi sen rahoittamisen mahdollisuutta. Selvitykset tehdään ja neuvottelut käydään yhdessä Hämeenlinnan, Riihimäen ja Forssan kaupunkien sekä Icehearts ry:n kanssa Icehearts-toiminnan tuomiseksi tarjolle kaikilla Kanta-Hämeen kolmella seudulla.”"
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluevaltuusto päättää merkitä tiedoksi kokouksessa jätetyn valtuustoaloitteen ja lähettää sen aluehallitukselle valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluevaltuuston kokouksessa 16.12.2025 on jätetty valtuustoaloite koskien Icehearts-toimintamallin tarpeen selvittämistä kaikilla Kanta-Hämeen seuduilla.\n\n(JS)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä valtuustoaloitteen tiedoksi ja lähettää sen perhe-, sosiaali- ja vammaispalvelujen toimialalle valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösote / toimialajohtaja Marika Paasikoski-Junninen"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "18",
+   "title": "Hyvinvointialueesta annetun lain 97 §:n mukaista ottomenettelyä varten saapuneet pöytäkirjat ja päätökset",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026157-18",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026157-18.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää, ettei se käytä otto-oikeutta edellä mainittuihin päätöksiin.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Hyvinvointialueesta annetun lain 97 §:n mukaan aluehallitus, aluehallituksen puheenjohtaja, hyvinvointialuejohtaja ja hallintosäännössä määrätty hyvinvointialueen viranhaltija voivat ottaa aluehallituksen käsiteltäväksi asian, joka on tämän lain nojalla siirretty aluehallituksen alaisen viranomaisen tai aluehallituksen jaoston toimivaltaan ja jossa asianomainen viranomainen on tehnyt päätöksen.\n\nHyvinvointialueen hallintosäännön 32 §:n mukaan asian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nHallintosäännön 33 §:n mukaan aluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan.\n\nViranhaltijoiden päätösluettelo on liitteenä. Päätösasiakirjat ovat nähtävillä hyvinvointialueen verkkosivuilla osoitteessa: https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=official_frames"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää, ettei se käytä otto-oikeutta edellä mainittuihin päätöksiin."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Päätösluettelo 5.1.2026",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026157-18-389192.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "19",
+   "title": "Muut asiat",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026157-19",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026157-19.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Aluehallitus päättää merkitä muut asiat tiedoksi.",
+   "decision": "Aluehallitus hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kanta-Hämeen hyvinvointialueelle on saapunut seuraavat kirjeet:\n\n- Valtiovarainministeriön asettamispäätös 12.12.2025: Kunta- ja hyvinvointialuetyönantajat KT:n hyvinvointialuejaoston jäsenten ja varajäsenten määrääminen toimikaudelle 1.1.2026–31.12.2029\n\n- Oikeusministeriön lausuntopyyntö 17.12.2025: Ehdotus uudeksi valmiuslaiksi; työryhmän mietintö. Lausunto pyydetään antamaan 27.2.2025 klo 16.15 mennessä.\n\n- Forssan kaupunginvaltuuston kokouksen pöytäkirjanote 8.12.2025: Forssan Paloaseman, Heikanrinteen palvelukeskuksen ja Pääterveysaseman rakennusten luovutus Kanta-Hämeen Hyvinvointialueelle.\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 17.12.2025: Lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle Kansaneläkelaitoksen tietojenvaihtoa koskevan lainsäädännön muuttamiseksi. Lausunnot pyydetään toimittamaan viimeistään 28.1.2026.\n\n- Työ- ja elinkeinoministeriön lausuntopyyntö 18.12.2025: Lausuntopyyntö: Arviomuistio työvoimapalveluiden kehittämistarpeista kuntouttavan työtoiminnan uudistamisen yhteydessä. Lausunnot pyydetään antamaan 18.2.2026 mennessä.\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 18.12.2025: Lausuntopyyntö luonnoksesta hallituksen esityksesi\n\ntutkimuslainsäädännön selkiyttämiseksi. Lausunto pyydetään antamaan viimeistään 13.2.2026.\n\n- Hausjärven kunnanvaltuuston kokouksen 15.12.2025 pöytäkirjanote: Hausjärven kunnan ja Hyvinvointialueen välinen rakennuskauppa ja maanvuokrasopimus, Lehtimajat\n\n- Sisäministeriön lausuntopyyntö 19.12.2025: Lausuntopyyntö hallituksen esityksestä EU:n muuttoliike- ja turvapaikkasopimuksen muodostavien säädösten täytäntöönpanemiseksi. Lausunto pyydetään antamaan viimeistään 2.2.2026.\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 19.12.2025: Lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laiksi alkoholilain muuttamisesta (panimoiden, tislaamoiden ja viinitilojen ulosmyyntioikeuden laajentaminen). Lausunto pyydetään antamaan viimeistään 13.2.2026.\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö 19.12.2025: Lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laeiksi vammaisetuuksista annetun lain, toimeentulotuesta annetun lain 7 b §:n ja sairausvakuutuslain 10 luvun 2 §:n ja 11 luvun 2 §:n muuttamisesta. Lausunto pyydetään antamaan viimeistään 13.2.2026.\n\n- Työ- ja elinkeinoministeriön lausuntopyyntö 30.12.2025: Lausuntopyyntö hallituksen esityksestä kotoutumisen edistämisestä annetun lain muuttamisesta ja siihen liittyviksi laeiksi. Lausunto pyydetään antamaan viimeistään 10.2.2026.\n\n- Lopen kunnan lausuntopyyntö 18.12.2025: Ranta-asemakaavaehdotus / Riihisalon kartanoalue. Lopen kunnanhallitus pyytää lausuntoanne 19.1.2026 mennessä.\n\n- Hämeenlinnan hallinto-oikeuden selityspyyntö 31.12.2025: Muutoksenhaunalainen päätös; Sosiaali- ja terveysalan lupa- ja valvontavirasto Valvira, 8.10.2025, V/14301/2025. Hämeenlinnan hallinto-oikeus varaa tilaisuuden esittää käsityksenne Valviran lausunnosta viimeistään 30.1.2026.\n\nKanta-Hämeen hyvinvointialueen antamat lausunnot:\n\n- Kanta-Hämeen hyvinvointialueen vastaus 8.1.2026 Valtiovarainministeriön selvityspyyntöön VN/35725/2025: Vastaus selvityspyyntöön hyvinvointialueiden rahoitusmallin\n\ntietopohjaan liittyvien ongelmien selvitystyötä varten"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä muut asiat tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Lepola Kaisa",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Alijärvi Pirjo",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Bitter Riku",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hellstén Tapani",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Honkanen Pasi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Häggman Johanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Jormanainen Lauri",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lehkonen Helena",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pura Eero",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Reima Aapo",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Vanttaja Karri",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Isosuo Juha",
+   "role": "aluevaltuuston puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kylliäinen Kylli",
+   "role": "aluevaltuuston 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Ristavaara Heini",
+   "role": "aluevaltuuston 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Naukkarinen Olli",
+   "role": "esittelijä, hyvinvointialuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Savola Jussi",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Tommiska Katja",
+   "role": "pöytäkirjanpitäjä, hallintojohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Hirviniemi Erja",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Rautio Sari",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Olkinuora Piia",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Ala-Kokko Satu",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Paasikoski-Junninen Marika",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Haapanen Jorma",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Talikka Petri",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Lappalainen Jarmo",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Pohjavirta Terhi",
+   "role": "talouspäällikkö",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026157",
+  "fetched_at": "2026-10-14T17:02:04+00:00",
+  "content_hash": "c14a7d5e3d46e603",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T17:02:04+00:00"
+ }
+}

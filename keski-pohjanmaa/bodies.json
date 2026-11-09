@@ -1,0 +1,114 @@
+[
+ {
+  "id": "keski-pohjanmaan-aluehallitus",
+  "name": "Keski-Pohjanmaan aluehallitus",
+  "type": "board",
+  "url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=9315",
+  "language": "fi"
+ },
+ {
+  "id": "keski-pohjanmaan-alueneuvottelukunta",
+  "name": "Keski-Pohjanmaan alueneuvottelukunta",
+  "type": "advisory",
+  "url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=11136",
+  "language": "fi"
+ },
+ {
+  "id": "keski-pohjanmaan-aluevaalilautakunta",
+  "name": "Keski-Pohjanmaan aluevaalilautakunta",
+  "type": "committee",
+  "url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=6461",
+  "language": "fi"
+ },
+ {
+  "id": "keski-pohjanmaan-aluevaltuusto",
+  "name": "Keski-Pohjanmaan aluevaltuusto",
+  "type": "council",
+  "url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=9314",
+  "language": "fi"
+ },
+ {
+  "id": "keski-pohjanmaan-asiakasraati",
+  "name": "Keski-Pohjanmaan asiakasraati",
+  "type": "other",
+  "url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=17384",
+  "language": "fi"
+ },
+ {
+  "id": "keski-pohjanmaan-hyvinvointi-ja-tulevaisuuslautakunta",
+  "name": "Keski-Pohjanmaan hyvinvointi- ja tulevaisuuslautakunta",
+  "type": "committee",
+  "url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=10778",
+  "language": "fi"
+ },
+ {
+  "id": "keski-pohjanmaan-nuorisovaltuusto",
+  "name": "Keski-Pohjanmaan nuorisovaltuusto",
+  "type": "advisory",
+  "url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=11137",
+  "language": "fi"
+ },
+ {
+  "id": "keski-pohjanmaan-tarkastuslautakunta",
+  "name": "Keski-Pohjanmaan tarkastuslautakunta",
+  "type": "committee",
+  "url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=10770",
+  "language": "fi"
+ },
+ {
+  "id": "keski-pohjanmaan-turvallisuus-ja-pelastuslautakunta",
+  "name": "Keski-Pohjanmaan turvallisuus- ja pelastuslautakunta",
+  "type": "committee",
+  "url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=11026",
+  "language": "fi"
+ },
+ {
+  "id": "keski-pohjanmaan-vammaisneuvosto",
+  "name": "Keski-Pohjanmaan vammaisneuvosto",
+  "type": "advisory",
+  "url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=648",
+  "language": "fi"
+ },
+ {
+  "id": "keski-pohjanmaan-vanhusneuvosto",
+  "name": "Keski-Pohjanmaan vanhusneuvosto",
+  "type": "advisory",
+  "url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=647",
+  "language": "fi"
+ },
+ {
+  "id": "keski-pohjanmaan-yrittajafoorumi",
+  "name": "Keski-Pohjanmaan yrittäjäfoorumi",
+  "type": "other",
+  "url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=75120",
+  "language": "fi"
+ },
+ {
+  "id": "mellersta-osterbottens-nationalspraksnamnden",
+  "name": "Mellersta Österbottens nationalspråksnämnden",
+  "type": "committee",
+  "url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=11038",
+  "language": "fi"
+ },
+ {
+  "id": "mellersta-osterbottens-valfardsomradesfullmaktige",
+  "name": "Mellersta Österbottens välfärdsområdesfullmäktige",
+  "type": "council",
+  "url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=9611",
+  "language": "fi"
+ },
+ {
+  "id": "mellersta-osterbottens-valfardsomradesstyrelse",
+  "name": "Mellersta Österbottens välfärdsområdesstyrelse",
+  "type": "board",
+  "url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=9612",
+  "language": "fi"
+ },
+ {
+  "id": "rrf-keski-pohjanmaa-hankkeen-ohjausryhma",
+  "name": "RRF-Keski-Pohjanmaa-hankkeen ohjausryhmä",
+  "type": "other",
+  "url": "https://kpshp-hva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=12744",
+  "language": "fi"
+ }
+]

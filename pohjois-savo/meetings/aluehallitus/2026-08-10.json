@@ -1,0 +1,819 @@
+{
+ "id": "aluehallitus/2026-08-10",
+ "region": "pohjois-savo",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2026-08-10",
+ "stage": "minutes",
+ "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261112",
+ "pdf_url": "https://pshva.oncloudos.com/kokous/20261112.PDF",
+ "time": "09:00 - 12:05",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "226",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261112-1",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261112-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.",
+   "decision": "Kokoustodettiin lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen laillisuus ja päätösvaltaisuus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokoustodettiin lailliseksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "227",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261112-2",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261112-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Sassa Suna ja Pekka Taipale.",
+   "decision": "Pöytäkirjantarkastajiksi valittii Sassa Suna ja Pekka Taipale.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pöytäkirjantarkastajien valinta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittii Sassa Suna ja Pekka Taipale."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Sassa Suna ja Pekka Taipale."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "228",
+   "title": "Asioiden käsittelyjärjestys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261112-3",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261112-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asioiden käsittelyjärjestys"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "229",
+   "title": "Ajankohtaiset asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261112-4",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261112-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää merkitä asiat tiedoksi.\n\nToimialojen lyhyet ajankohtaiskatsaukset toimialan tilanteesta ja menneen kesän toiminnasta\n\nToimialojen syksyllä päätöksentekoon tulevat isoimmat asiat ja niiden aikataulut",
+   "decision": "Aluehallitus päättää merkitä asiat tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Ajankohtaiset asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päättää merkitä asiat tiedoksi."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää merkitä asiat tiedoksi.\n\nToimialojen lyhyet ajankohtaiskatsaukset toimialan tilanteesta ja menneen kesän toiminnasta\n\nToimialojen syksyllä päätöksentekoon tulevat isoimmat asiat ja niiden aikataulut"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "230",
+   "title": "Servica Oy, yhtiöjärjestyksen ja osakassopimuksen päivitys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261112-5",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261112-5.PDF",
+   "diary_number": "403/00.04.02/2025",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää\n\n1. hyväksyä Servica Oy:n yhtiöjärjestyksen ja osakassopimuksen muutokset liitteiden mukaisesti\n\n2. valtuuttaa hyvinvointialuejohtajan allekirjoittamaan osakassopimuksen\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nOmohjtal 16.06.2026 § 73\n\nValmistelija(t)\nAnne Halttunen, erityisasiantuntija, rahoitus ja omistajaohjaus",
+   "decision": "Merkitään pöytäkirjaan, että:\n\n-Mari Antikainen ilmoitti olevansa esteellinen (HL 28.1. kohta 1) ja poistui asian käsittelyn ja päätöksenteon ajaksi klo poistui klo 11.03 - 11.08.\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nAnne Halttunen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n-Mari Antikainen ilmoitti olevansa esteellinen (HL 28.1. kohta 1) ja poistui asian käsittelyn ja päätöksenteon ajaksi klo poistui klo 11.03 - 11.08.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää\n\n1. hyväksyä Servica Oy:n yhtiöjärjestyksen ja osakassopimuksen muutokset liitteiden mukaisesti\n\n2. valtuuttaa hyvinvointialuejohtajan allekirjoittamaan osakassopimuksen\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nOmohjtal 16.06.2026 § 73\n\nValmistelija(t)\nAnne Halttunen, erityisasiantuntija, rahoitus ja omistajaohjaus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin päätösehdotus."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "erityisasiantuntija, rahoitus ja omistajaohjaus"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Omistajaohjaus- ja talousjaosto päättää esittää, että aluehallitus\n\n1. hyväksyy Servica Oy:n yhtiöjärjestyksen ja osakassopimuksen muutokset liitteiden mukaisesti\n\n2. valtuuttaa hyvinvointialuejohtajan allekirjoittamaan osakassopimuksen\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 32\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Servica Oy, yhtiöjärjestys, luonnos\n\n- Servica Oy, osakassopimus, luonnos\n\nValmistelu\nServica Oy:n yhtiöjärjestyksen ja osakassopimuksen päivittäminen on nyt ajankohtaista vastaamaan hankintalain nykyisiä ja tulevia vaatimuksia.\n\nServica Oy:n yhtiöjärjestyksen ja osakassopimuksen muutosta esitettiin varsinaiselle yhtiökokoukselle 9.4.2025. Dokumenttien hyväksyminen raukesi tuolloin osakkeiden lunastusehtoisuutta koskevaan määräykseen. Lunastusehtoisia osakkeita koskeva määräys yhtiöjärjestyksessä edellyttää osakeyhtiölain mukaan yhtiön kaikkien osakkeenomistajien erillistä suostumusta. Osakkeiden lunastusehtoisuutta koskeva määräys on nyt käsiteltäväksi tulevista dokumenteista poistettu.\n\nYhtiöjärjestystä on lisäksi tarkennettu lisäämällä määräykset osakaskokouksesta ja pienosakkaiden edustajistosta. Hallituksen kokoonpanoksi määritellään 5-9 varsinaista jäsentä aiemmin esitetyn 4-8 jäsenen sijaan. Määräykset hallituksen jäsenten valinnasta määritellään osakassopimuksessa.\n\nYhtöjärjestys käsitellään ylimääräisessä yhtiökokouksessa syksyllä 2026. Osakassopimuksen allekirjoittaa valtuutettu henkilö osakkaan puolesta.\n\nAhall 10.02.2025 § 50\n\nValmistelija(t)\nAnne Halttunen, erityisasiantuntija, rahoitus ja omistajaohjaus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n- Minna Reijonen ja Mari Antikainen ilmoittivat olevansa esteellisiä (HL 28.1. kohta 5) ja poistuivat asian käsittelyn ja päätöksenteon ajaksi klo 16.30-16.43.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\n1. hyväksyä Servica Oy:n yhtiöjärjestyksen ja osakassopimuksen muutokset liitteiden mukaisesti\n\n2. valtuuttaa hyvinvointialuejohtajan allekirjoittamaan osakassopimuksen ja suostumuksen yhtiöjärjestyksen muuttamiseen.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä\n\nToimivallan peruste\nHallintosääntö § 35\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Yhtiöjärjestys, luonnos\n\n- Osakassopimus, luonnos\n\n- Suostumus yhtiöjärjestyksen muuttamiseen, luonnos\n\nEsityslistan oheisaineistona:\n\n- Yhtiöjärjestys, voimassaoleva\n\n- Osakassopimus, voimassaoleva\n\nOmohjjao 17.01.2025 § 5\n\nValmistelija(t)\nAnne Halttunen, erityisasiantuntija, rahoitus ja omistajaohjaus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "erityisasiantuntija, rahoitus ja omistajaohjaus"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Omistajaohjaus- ja valvontajaosto päättää esittää, että aluehallitus\n\n1. hyväksyy Servica Oy:n yhtiöjärjestyksen ja osakassopimuksen muutokset liitteiden mukaisesti\n\n2. valtuuttaa hyvinvointialuejohtajan allekirjoittamaan osakassopimuksen ja suostumuksen yhtiöjärjestyksen muuttamiseen.\n\nToimivallan peruste\nHallintosääntö 32 §\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Yhtiöjärjestys, luonnos\n\n- Osakassopimus, luonnos\n\n- Suostumus yhtiöjärjestyksen muuttamiseen, luonnos\n\nEsityslistan oheisaineistona:\n\n- Yhtiöjärjestys, voimassaoleva\n\n- Osakassopimus, voimassaoleva\n\nHyvinvointialueen hallintosäännön 32 §:n mukaan omistajaohjaus- ja valvontajaosto valmistelee aluehallitukselle esitykset yhtiöjärjestysten ja osakassopimusten hyväksymisestä sekä niiden muutoksista.\n\nServica Oy tuottaa omistaja-asiakkailleen ateriapalveluja sekä laitos- ja välinehuollon, kiinteistötekniikan ja kiinteistöjen ylläpidon sekä logistiikan palveluja. Aluehallituksen 5.2.2024 hyväksymän ja Servica Oy:n yhtiökokouksen 27.2.2024 päättämän yhtiöjärjestyksen muutoksen mukaan yhtiön toimialana on myös toimia hankintalain tarkoittamana omistajiensa yhteishankintayksikkönä.\n\nYhtiön pääomistajat ovat Kuopion kaupunki ja Pohjois-Savon hyvinvointialue. Kuopion kaupungin omistusosuus Servicasta on 47,4% ja hyvinvointialueen 45,2%. Servica Oy kuuluu Kuopion kaupunkikonserniin, koska Kuopion kaupunki on nimennyt enemmistön yhtiön hallituksen jäsenistä ja käyttää siten tosiasiallista määräysvaltaa yhtiössä. Servica Oy:n voimassaolevan yhtiöjärjestyksen 4 § mukaan yhtiön hallitukseen kuuluu vähintään viisi ja enintään yhdeksän varsinaista jäsentä. Yhtiökokouksessa muut osakkaat kuin Kuopion kaupunki ja Pohjois-Savon sairaanhoitopiiri nimeävät yhden hallituksen jäsenen.\n\nServica Oy on valmistellut yhtiöjärjestyksen ja osakassopimuksen päivityksiä. Yhtiöjärjestys- ja osakassopimusluonnokset ovat esityslistan liitteenä ja voimassaoleva yhtiöjärjestys ja osakassopimus esityslistan oheisaineistona.\n\nDokumenttiluonnosten keskeisiä muutoksia\n\nYhtiöjärjestyksen 2 §:n ja osakassopimuksen 7.3. kohdan mukaan hallitukseen valitaan 4–8 varsinaista jäsentä. Edelleen osakassopimuksen 7.3. kohdan mukaan osakkailla, joilla on vähintään 20 % omistusosuus yhtiöstä, on oikeus nimetä hallitukseen yksi jäsen täyttä 20 prosenttia kohden. Hallituksen puheenjohtajaksi valitaan kiertäen sellaisen osakkaan edustaja, jonka omistusosuus on vähintään 20 prosenttia. Muilla osakkailla on oikeus nimetä vähintään yksi ja enintään kaksi yhteistä hallituksen jäsentä. Hallitukseen voidaan lisäksi valita 1–2 riippumatonta hallituksen jäsentä. Osakassopimuksessa sovittua noudatettaisiin osakassopimuksen allekirjoittamisen jälkeen ensimmäisen kerran valitessa yhtiön hallituksen jäseniä vuoden 2025 kunta- ja aluevaalien jälkeen. Nykyisillä omistuksilla hyvinvointialue nimeäisi hallitukseen näin ollen kaksi jäsentä, Kuopion kaupunki kaksi jäsentä, muut osakkaat vähintään yhden ja enintään kaksi jäsentä. Yhtiökokouksella olisi mahdollisuus nimetä lisäksi 1–2 riippumatonta hallituksen jäsentä.\n\nOsakassopimuksen 7.4. kohdan mukaan yhtiön hallituksen tulee pyytää ennakkokäsitys osakassopimuksessa määritellyissä tilanteissa omistajilta, joihin yhtiö on kirjanpitolaissa tarkoitetussa osakkuusyhteisösuhteessa (omistus yli 20 prosenttia). Myös muille osakkaille on varattava tilaisuus lausua kantansa asiassa.\n\nYhtiöjärjestykseen on lisätty uutena pykälänä osakkeiden lunastusehtoisuutta koskeva määräys (7 §). Lunastusmenettelyyn sovelletaan osakassopimuksen kohdassa 5.3. kuvattua menettelyä ja lunastushintaa. Lunastusehtoisia osakkeita koskevan määräyksen lisääminen yhtiöjärjestykseen edellyttää osakeyhtiölain mukaan yhtiön kaikkien osakkeenomistajien suostumusta.\n\nOsakassopimuksen kohdassa 7.6. säädetään Nimitysvaliokunnan tehtävistä ja kohdassa 7.7. Pienosakkaiden edustajistosta. Edustajisto koostuu osakkaista, joiden omistusosuus yhtiöstä on alle 10 %.\n\nOsakassopimuksen ja yhtiöjärjestyksen muutoksia on käsitelty Servican osakaskokouksissa 5.4.2023, 26.10.2023 ja 31.10.2024 sekä pienosakkaiden kesken pienosakkaiden edustajistossa 22.10.2024.\n\nValtuutettu henkilö hyvinvointialueella allekirjoittaa Osakassopimuksen ja Suostumuksen yhtiöjärjestyksen muuttamiseen. Yhtiöjärjestys käsitellään yhtiökokouksessa 10.4.2025."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "231",
+   "title": "Oikaisuvaatimus, Kumppanuusavustushakemus Lapsen Kengissä ry, Varkauden perheentalon toiminta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261112-6",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261112-6.PDF",
+   "diary_number": "5570/02.05.01/2025",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää hylätä oikaisuvaatimuksen.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\n- Liite 1 Vastine Pohjois-Savon asiakaskokemusjaoston esitykseen Lapsen Kengissä ry Varkauden Perheentalo 2026\n\n- Liiite 2 Oikaisuvaatimus, kumppanuusavustuspäätös, Lapsen Kengissä ry, Varkauden perheentalon toiinta\n\n- Liite 3 Oikaisuvaatimuksen täydennyt, kumppanuusavustuspäätös, Lapsen Kengissä ry, Varkauden perheentalon toiminta\n\n- Liite 4 Kannanotto kumppanuusavustushakemus, Lapsen kengissä ry\n\n- Liite 5 Raportti kumppanuusavustustoiminnasta, Lapsen Kengissä ry\n\n- Liite 6 Lapsen Kengissä Perheentalo P-S HVA kumppanuusavustusraportti 2025, Lapsen Kengissä ry\n\n- Liite 7 Perhekeskustoimintasuunnitelma 2023 – 2025\n\n- Liite 8 Pohjois-Savon hyvinvointialueen hyvinvointisuunnitelma vuosille 2025-2029 final\n\n- Liite 9 Hyte yhdyspinnat kuviot 02 2025\n\n- Hallinto-oikeuden päätös 1524/2026 8.6.2026\n\nValmistelu\nPohjois-Savon hyvinvointialueen kirjaamoon saapui 16.1.2026 oikaisuvaatimus Varkauden perheentalo, Lapsen kengissä ry:ltä koskien asiakaskokemusjaoston 14.1.2026 päätöstä §40. Oikaisuvaatimus on saapunut määräaikaan mennessä.\n\nLapsen Kengissä ry vaatii kumoamaan Pohjois-Savon hyvinvointialueen asiakaskokemusjaoston kokouksen kaikki avustuspäätökset (§4–59) ja palauttamaan ne uudelleen käsittelyyn, jotta kokonaisuus voidaan tarkastella uudelleen alueellisen tasa-arvon ja alueellisen tasapuolisuuden periaatteiden mukaisesti.\n\nAsiakaskokemusjaosto käsitteli oikaisuvaatimuksen kokouksessaan 18.2 §66, ja päätti pitää aikaisemman päätöksen voimassa. Varkauden perheentalo teki asiasta valituksen hallinto-oikeuteen. Hallinto-oikeus pyysi Pohjois-Savon hyvinvointialuetta antamaan asiasta lausunnon, jossa perustelee, minkä vuoksi jaosto on itse käsitellyt oikaisuvaatimuksen, eikä sitä ole käsitelty hallituksessa.\n\nAsiakaskokemusjaosto antoi lausuntonsa, jossa se perusteli toimivaltansa perustuvan hyvinvointialueesta annetun lain §139.\n\nHallinto-oikeus on kumonnut päätöksellään 1524/2026 8.6.2026 asiakaskokemusjaoston päätöksen, ja palauttanut oikaisuvaatimuksen käsiteltäväksi aluehallitukselle. Hallinto-oikeuden päätöksen mukaan asiakaskokemusjaosto on hallintosäännön mukaan aluehallituksen jaosto, ja sen päätöksistä tehdyt oikaisuvaatimukset käsitellään aluehallituksessa.\n\nLapsen Kengissä ry vaatii kumoamaan Pohjois-Savon hyvinvointialueen asiakaskokemusjaoston kokouksen kaikki avustuspäätökset (§4–59) ja palauttamaan ne uudelleen käsittelyyn, jotta kokonaisuus voidaan tarkastella uudelleen alueellisen tasa-arvon ja alueellisen tasapuolisuuden periaatteiden mukaisesti.\n\nOikaisuvaatimuksen tekijä on listannut kolme kohtaa, joiden perusteella hakee oikaisua:\n\nHyvinvointialue on rikkonut velvoitetta tasa-arvoisesta alueellisesta hyvinvoinnin ja terveyden edistämisestä hyvinvointialueella.\n\nHyvinvointialue on rikkonut perhekeskusalueiden tasapuolisen ja yhdenvertaisen kohtelun periaatetta avustuksia jakaessa.\n\nAsiakaskokemusjaoston muutoksenhaun kohteena olevasta päätöksestä ei myöskään käynyt ilmi päätöksen perusteet. Hallintolain § 45 mukaisesti päätös on perusteltava.\n\nOikaisuvaatimuksen tekijä on perustellut laajasti edellä mainittuja kohtia oikaisuvaatimuksessa (Liite 2) ja oikaisuvaatimuksen täydennyksessä (Liite 3).\n\nVarkauden kaupungin kannanotto asiaan on saapunut hyvinvointialueelle 28.1.2026 (Liite 4).\n\nHyvinvointialueen vastaus vastineeseen\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 10.9.2025) -ohjeen mukaisesti kumppanuusavustus on harkinnanvarainen tuki ja se toimii täydentävänä julkisena rahoituksena hakijan muulle rahoitukselle kuten STEA, hankerahoittajan rahoitus (ELY, AVI tms.) tai hakijan muu ulkopuolinen rahoitus tai oma varainhankinta.\n\nLapsen Kengissä ry haki 13.11.2025 Pohjois-Savon hyvinvointialueelle saapuneella hakemuksella Varkauden perheentalon matalankynnyksen ja jalkautuvan toiminnan vakiinnuttamiseen Varkaus, Joroinen ja Leppävirta alueilla kumppanuusavustusta vuosille 2026, 2027 ja 2028. Haettu summa vuodelle 2026 oli 35 200 euroa.\n\nHyvinvointialueelta hakemalla avustusrahoituksella Lapsen Kengissä ry:n oli tarkoitus vahvistaa Varkauden Perheentalon kohtaamispaikkatyötä palkkaamalla osa-aikainen ohjaaja. Kumppanuusavustushakemuksen Liite 1:n mukaan ”kävijämäärien kasvu ja toiminnan sisällön laajeneminen haastavat laadukkaan kohtaamistyön toteuttamista nykyisillä resursseilla. Avustuksella palkataan osa-aikainen ohjaaja, jonka työtehtävänä on kohdata lapsiperheet Perheentalon arjessa tarjoten laajempia osallistumisen mahdollisuuksia. Työhön sisältyy asiakastyö Varkauden Perheentalolla (Kauppakatu 32). Avustuksen avulla vakiinnutetaan ja edelleen kehitetään hyvin käynnistynyttä jalkautuvaa kohtaamispaikkatoimintaa Leppävirralla ja Joroisissa joka toinen viikko.”\n\nKumppanuusavustusten jaossa yhtenä määräävänä tekijänä on hyvinvointialueen talousarviomääräraha ja hakemukset arvioidaan hakukohtaisesti\n\nAvustuksia jaettaessa hyvinvointialue huomioi avustusbudjetin koko määrärahasta jatkettavien kumppanuusavustusten osuuden vuosittain. Sitä tarkastellaan hyvinvointialueen talousarvion määrärahan puitteissa. Jatkettavien kumppanuusavustusten budjettivarauksesta tehdään asiakaskokemusjaostossa aina erillinen päätös vuosittain. Vuodelle 2026 tehdyssä budjettivarauksessa ovat mukana ne kumppanuusavustukset, jotka on myönnetty vuosina 2024–2025.\n\nKumppanuusavustuksen saaja on velvollinen raportoimaan menneestä toimintavuodesta hyvinvointialueelle vuosittain väliraportilla. Raportti viedään asiakaskokemusjaostolle arvioitavaksi ja myönnettävän avustussumman osalta päätettäväksi. Jatkuva kumppanuusavustus ei välttämättä toteudu alkuperäisen haun mukaisesti, mikäli toiminta ei ole ollut avustushakemuksen suunnitelman mukaista. Kumppanuusavustussopimuksen päättyessä saaja on velvollinen tekemään loppuraportin hyvinvointialueelle.\n\nPohjois-Savon alueella toimivat neljä (Varkaus, Kuopio, Siilinjärvi, Iisalmi) perheentaloa ovat hakeneet hyvinvointialueelta kumppanuusavustusta eri vuosina. Nämä avustuskaudet ovat olleet eri pituisia. Jokaiselta perheentaloilta tulleita hakemuksia tai kumppanuusavustuksen jatkohakemuksia on arvioitu hakukohtaisesti vuosittaisen määrärahan puitteissa.\n\nAiempina hakuvuosina 2023, 2024 ja 2025 perhepalveluihin kohdistuvaa avustusrahaa on pystytty osoittamaan päätöksissä enemmän koska hakijoita ja kriteereitä täyttäviä hakemuksia on ollut vähemmän. Vuonna 2023 asiakaskokemusjaosto määritti ensimmäisen avustushaun kriteereiksi hyvinvointikertomuksen pohjalta seuraavat painopistealueet:\n\n1) vanhemmuuden tuki\n\n2) ehkäisevä mielenterveys- ja päihdetyö ja\n\n3) yksinäisyyden ehkäisy\n\nSiten erityisesti vuoden 2023 myönteisissä avustushakemusten hyväksytyissä päätöksissä korostuivat edellä mainitut teemat. Vuosien 2024, 2025 ja 2026 avustushaussa erikseen määriteltyjä painopisteitä ei ole ollut.\n\nVuoden 2026 hakemuksia arvioidessa Lapsen Kengissä ry:n hakemusta on tarkasteltu 20.10. – 30.11.2025 hakuajalla saapuneiden 56:n hakemuksen kesken. Hakijoissa ei ollut mukana toisia alueen perheentaloja. Hyvinvointialueelle saapuneiden hakemusten haettu yhteenlaskettu avustussumma oli yhteensä 1 558 537 euroa. Vuodelle 2026 jaettava avustusbudjetti on suuruudeltaan 850 000 euroa, josta jatkettavien kumppanuusavustusten budjettivauraus on 375 400 euroa. Uusille avustuksille budjetista jäi jaettavaksi 474 600 euroa.\n\nLapsen Kengissä ry vetoaa oikaisuvaatimuksessa ”luottamuksen suojan periaatteeseen” ja siihen, että kaikki alueen perheentalo -toimijat ovat tasa-arvon vuoksi oikeutettuja avustukseen. Hyvinvointialue korostaa, että jaettava kumppanuusavustus on harkinnanvarainen avustus ja sen myöntämistä arvioidaan jokaiselle hakukierroksella omana prosessina. Hakijan ei tule odottaa, että avustus myönnetään jokaisella hakukierroksella automaattisesti ”luottamuksen suojan periaatteeseen” nojaten. Avustusten tarkoituksena ei ole saattaa hakijoita myöskään keskinäiseen kilpailuasetelmaan.\n\nPSHVA:n avustuskriteereissä mainittuihin suunnitelmiin ja ohjelmiin yhteys\n\nLapsen Kengissä ry viittaa hakemuksessaan, että toiminta on hyvinvointialueen perhekeskustoimintasuunnitelman mukaista toimintaa ja täydentää palveluja joustavasti, asiakaslähtöisesti ja vaikuttavasti. Avustushaun periaateohjeessa ei ole mainittu perhekeskustoimintasuunnitelmaa, jota haettavan avustettavan toiminnan tulisi toteuttaa. Perhekeskussuunnitelmassa (Liite 7) kuvataan kohtaamispaikkatoiminta järjestön, seurakunnan tai kunnan toimijoiden järjestämiseksi toiminnaksi ja yhtenä kehittämiskohteena suunnitelmassa on yhteistyön säilyminen kuntien, järjestöjen ja hyvinvointialueen kesken.\n\nAvustuskriteerien mukaisesti avustettavan toiminnan tulee toteuttaa Pohjois-Savon hyvinvointialueen strategian painopisteitä, strategisia periaatteita ja toimenpiteitä ja SOTE-palvelustrategiaa sekä alueellisen hyvinvointikertomuksen ja -suunnitelman hyvinvointitavoitteita.\n\nPohjois-Savon hyvinvointisuunnitelmassa 2025–2029 (Liite 8) on kuvattu, että perheentalot ovat keskeisiä järjestöjen tehtäviin liittyvää hyvinvoinnin ja terveyden edistämistyötä ja järjestöjen hyvinvointialueille tarjoamaa asiantuntijatukea yhdyspinnoilla tehtävää työtä vanhemmuustaitojen sekä osallisuuden vahvistamiseksi. Kohtaamispaikkatoiminta kuvataan hyvinvointisuunnitelmassa kunnan järjestämäksi asiantuntijatueksi, jossa voidaan tehdä yhteistyötä yhdyspinnoilla hyvinvointialueen kanssa. Myös yhdyspintatyössä (Liite 9) kohtaamispaikkatoiminta kuvataan ensisijaisesti kunnan ja järjestöjen työksi.\n\nOikaisuvaatimuksen tekijän väite siitä, että hyvinvointialue on rikkonut velvoitetta tasa-arvoisesta alueellisesta hyvinvoinnin ja terveyden edistämisestä hyvinvointialueella.\n\nHyvinvointialue toimii sote‑järjestämislain 7 §:n mukaisesti tukemalla yleishyödyllisiä yhteisöjä avustusperusteisella yhteistyöllä. Tämä velvoite on sisällytetty selkeästi avustusperiaatteiden johdantoon: ”Hyvinvointialueen on sote‑järjestämislain 7 § mukaisesti edistettävä hyvinvoinnin ja terveyden edistämistyötä tekevien järjestöjen toimintaedellytyksiä.” Avustusten myöntämisen ehtona on, että toiminta toteuttaa hyvinvointialueen strategisia tavoitteita ja täydentää palveluketjuja, ei se, että avustusta myönnetään jokaiselle hakijalle ”Avustettavan toiminnan tulee tukea ja täydentää hyvinvointialueen järjestämisvastuulla olevaa toimintaa.”\n\nHakemusta arvioitaessa tarkastellaan mm.:\n\nhakemuksen kohderyhmää ja vaikuttavuutta\n\navustuksen käyttötarkoitusta ja suunnitelmallisuutta\n\nhakijan taloudellista kestävyyttä ja muuta varainhankintaa\n\ntoiminnan laajuutta ja toteutumista useamman kunnan alueella\n\nArviointi kohdistuu siis hakemuksen sisältöön, ei hakijan kotikuntaan, perhekeskusalueeseen tai alueelliseen sijaintiin. Tasa-arvoisuus toteutuu siten, että kaikki hakemukset arvioidaan samoilla, ennalta vahvistetuilla kriteereillä.\n\nOikaisuvaatimuksentekijän väite siitä, että hyvinvointialue on rikkonut perhekeskusalueiden tasapuolisen ja yhdenvertaisen kohtelun periaatetta avustuksia jakaessa.\n\nPerhekeskusalueiden tasapuolinen kohtelu ei tarkoita, että jokaiselle alueelle myönnetään avustuksia yhtä paljon, vaan että:\n\nkaikki hakijat voivat tasavertaisesti hakea\n\nhakemukset arvioidaan samoilla kriteereillä\n\npäätökset perustuvat hakemusten sisältöön, laatuun ja avustuskriteerien täyttymiseen.\n\nAvustusjärjestelmä on luonteeltaan harkinnanvarainen, ei subjektiivinen oikeus.\n\nYhdenvertaisuusperiaate sisältyy avustusperiaatteisiin. Lisäksi hakijoita kohdellaan yhdenvertaisesti, kaikki hakemukset käsitellään keskitetysti, valmistelussa käytetään yhtenäisiä arviointikriteerejä, päätökset tekee hallintosäännön mukainen toimielin (asiakaskokemusjaosto) ja hakijoilla on muutoksenhakuoikeus.\n\nMitä tarkoittaa se, ettei myönnetä avustusta\n\nLapsen Kengissä ry:n hakemusta arvioidessa on huomioitu se, että vaikka hyvinvointialue ei pysty avustusta myöntämään, Varkauden perheentalon kohtaamispaikkatoiminta ei pääty, vaan se toimii edelleen STEAn rahoittamana tärkeänä alueellisena toimijana eteläisen alueen lapsiperheille. Kielteinen avustuspäätös ei sulje pois Lapsen Kengissä ry:tä toimimasta edelleen perhekeskustoimintasuunnitelman mukaisesti. Lapset Kengissä ry kuvasi omassa 15.1.2026 hyvinvointialueelle saapuneessa vastineessaan (Liite 1), että haettava avustus, 35 200 euroa vuodessa, on noin 14 prosenttia toiminnan kokonaisbudjetista.\n\nHakija on kumppanuusavustushakemuksessa kuvannut, että jos, avustussumma ei toteudu täysimääräisesti: ”Ensisijaisesti turvataan osa-aikaisen ohjaajan työpanos, joka on toiminnan laadukkaan toteutuksen ja perheiden arjen kohtaamisen kannalta keskeinen. Ohjaajan läsnäolo mahdollistaa perheiden kuulemisen, tuen tarjoamisen ja osallistumisen matalalla kynnyksellä – tämä on toiminnan vaikuttavuuden ydin. Rahoituksen jäädessä vajaaksi karsitaan ensisijaisesti Lapset puheeksi -menetelmäosaajien koulutusta ja Lapset puheeksi -keskustelujen toteuttamista. Vaikka menetelmä on tärkeä vanhemmuuden tukemisessa, sen toteutus vaatii erillistä työaikaa ja resursseja, jotka voidaan suunnata suoraan kohtaamistyöhön. Näin varmistetaan, että Perheentalon arjessa säilyy perheiden kannalta olennaisin tuki: turvallinen, saavutettava ja ammatillisesti ohjattu kohtaamispaikka.”\n\nHyvinvointialue toteaa, että kielteisellä avustuspäätöksellä on todennäköisesti vaikutuksia Lapsen Kengissä ry:n toteuttaman jalkautuvaan kohtaamispaikkatoiminnan vakiinnuttamiseen Leppävirran ja Joroisten alueilla, mutta ei varsinaisesti Varkauden perheentalon perustoimintaan. Hakijan mukaan jalkautuva kohtaamispaikkatoiminta toteutetaan joka toinen viikko Leppävirralla ja Joroisissa, jolloin palvelut viedään lähelle niitä perheitä, jotka eivät pääse Varkauden Perheentalolle.\n\nJalkautuvan kohtaamispaikkatoiminnan osuutta Leppävirran ja Joroisten osalta on arvioitu Lapsen Kengissä ry:ltä pyydetyn vuoden 2025 kumppanuusavustustoiminnan loppuraportin mukaan (Liitteet 5 ja 6).\n\nVarkauden perheentalo toteuttaa Lapset puheeksi –koulutusta hyvinvointialueen ammattilaisille. Lapsen Kengissä ry on yksi Lapset Puheeksi -menetelmän kouluttajista muiden joukossa. Lapset puheeksi-koulutukset ovat sekä kunnan, että hyvinvointialueen tehtäviä. Lapset puheeksi-menetelmän tavoitteena on tukea lapsia, nuoria ja perheitä heidän jokapäiväisessä elämässään kotona, päiväkodissa, neuvolassa, koulussa ja vapaa-ajan ympäristöissä. Menetelmää käytetään myös erilaisissa sosiaali- ja terveysalan palveluissa, järjestöissä sekä vastaanottokeskuksissa. Hyvinvointialue toteaa, että Lapset Kengissä ry:n avustusmäärärahan kielteisestä päätöksestä huolimatta Lapset Puheeksi -koulutukset jatkuvat hyvinvointialueella.\n\nNäiden arvioiden perusteella hyvinvointialue katsoo, että se ei ole rikkonut velvoitetta tasa-arvoisesta alueellisesta hyvinvoinnin ja terveyden edistämisestä hyvinvointialueella. Eikä se ole rikkonut perhekeskusalueiden tasapuolista ja yhdenvertaista kohtelun periaatetta avustuksia jakaessa.\n\nOikaisuvaatimuksen tekijän väite siitä, että asiakaskokemusjaoston muutoksenhaun kohteena olevasta päätöksestä ei myöskään käynyt ilmi päätöksen perusteet. Hallintolain § 45 mukaisesti päätös on perusteltava.\n\nHyvinvointialue myöntää tekemänsä virheen siitä, että päätöksen perusteluissa olisi pitänyt olla tarkemmat yksilöivämmät perustelut. 14.1.2026 käydyssä asiakaskokemusjaoston kokouksessa jaoston jäsenillä oli käytössä päätöksen teon tueksi valmistelijoiden valmistama saapuneista hakemuksista tehty yhteenvetomateriaali. Materiaalin pohjalta jaosto kävi keskustelua hakemusten myöntämiseen ja hylkäämiseen liittyvistä yksilöllisistä perusteluista.\n\nHyvinvointialue toteaa oikaisuvaatimuksen tekijältä 26.1.2026 tulleeseen oikaisuvaatimuksen täydennykseen, että avustusprosessia tullaan kehittämään vuoden 2026 aikana palautteen pohjalta. Avustusten todellista vaikutusta ja sen arviointia hyvinvointialueiden palvelujen täydentävänä tai tukevana toimintana, tullaan myös kehittämään vahvemmin koko prosessin osalta.\n\nEhdotuksena on, että oikaisuvaatimus hylätään.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nHyvinvointikoordinaattori, Sirpa Kononen, p. . HYTE- ja osallisuuspäällikkö Säde Rytkönen\n\nPäivi Eskelinen palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hylätä oikaisuvaatimuksen.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\n- Liite 1 Vastine Pohjois-Savon asiakaskokemusjaoston esitykseen Lapsen Kengissä ry Varkauden Perheentalo 2026\n\n- Liiite 2 Oikaisuvaatimus, kumppanuusavustuspäätös, Lapsen Kengissä ry, Varkauden perheentalon toiinta\n\n- Liite 3 Oikaisuvaatimuksen täydennyt, kumppanuusavustuspäätös, Lapsen Kengissä ry, Varkauden perheentalon toiminta\n\n- Liite 4 Kannanotto kumppanuusavustushakemus, Lapsen kengissä ry\n\n- Liite 5 Raportti kumppanuusavustustoiminnasta, Lapsen Kengissä ry\n\n- Liite 6 Lapsen Kengissä Perheentalo P-S HVA kumppanuusavustusraportti 2025, Lapsen Kengissä ry\n\n- Liite 7 Perhekeskustoimintasuunnitelma 2023 – 2025\n\n- Liite 8 Pohjois-Savon hyvinvointialueen hyvinvointisuunnitelma vuosille 2025-2029 final\n\n- Liite 9 Hyte yhdyspinnat kuviot 02 2025\n\n- Hallinto-oikeuden päätös 1524/2026 8.6.2026\n\nValmistelu\nPohjois-Savon hyvinvointialueen kirjaamoon saapui 16.1.2026 oikaisuvaatimus Varkauden perheentalo, Lapsen kengissä ry:ltä koskien asiakaskokemusjaoston 14.1.2026 päätöstä §40. Oikaisuvaatimus on saapunut määräaikaan mennessä.\n\nLapsen Kengissä ry vaatii kumoamaan Pohjois-Savon hyvinvointialueen asiakaskokemusjaoston kokouksen kaikki avustuspäätökset (§4–59) ja palauttamaan ne uudelleen käsittelyyn, jotta kokonaisuus voidaan tarkastella uudelleen alueellisen tasa-arvon ja alueellisen tasapuolisuuden periaatteiden mukaisesti.\n\nAsiakaskokemusjaosto käsitteli oikaisuvaatimuksen kokouksessaan 18.2 §66, ja päätti pitää aikaisemman päätöksen voimassa. Varkauden perheentalo teki asiasta valituksen hallinto-oikeuteen. Hallinto-oikeus pyysi Pohjois-Savon hyvinvointialuetta antamaan asiasta lausunnon, jossa perustelee, minkä vuoksi jaosto on itse käsitellyt oikaisuvaatimuksen, eikä sitä ole käsitelty hallituksessa.\n\nAsiakaskokemusjaosto antoi lausuntonsa, jossa se perusteli toimivaltansa perustuvan hyvinvointialueesta annetun lain §139.\n\nHallinto-oikeus on kumonnut päätöksellään 1524/2026 8.6.2026 asiakaskokemusjaoston päätöksen, ja palauttanut oikaisuvaatimuksen käsiteltäväksi aluehallitukselle. Hallinto-oikeuden päätöksen mukaan asiakaskokemusjaosto on hallintosäännön mukaan aluehallituksen jaosto, ja sen päätöksistä tehdyt oikaisuvaatimukset käsitellään aluehallituksessa.\n\nLapsen Kengissä ry vaatii kumoamaan Pohjois-Savon hyvinvointialueen asiakaskokemusjaoston kokouksen kaikki avustuspäätökset (§4–59) ja palauttamaan ne uudelleen käsittelyyn, jotta kokonaisuus voidaan tarkastella uudelleen alueellisen tasa-arvon ja alueellisen tasapuolisuuden periaatteiden mukaisesti.\n\nOikaisuvaatimuksen tekijä on listannut kolme kohtaa, joiden perusteella hakee oikaisua:\n\nHyvinvointialue on rikkonut velvoitetta tasa-arvoisesta alueellisesta hyvinvoinnin ja terveyden edistämisestä hyvinvointialueella.\n\nHyvinvointialue on rikkonut perhekeskusalueiden tasapuolisen ja yhdenvertaisen kohtelun periaatetta avustuksia jakaessa.\n\nAsiakaskokemusjaoston muutoksenhaun kohteena olevasta päätöksestä ei myöskään käynyt ilmi päätöksen perusteet. Hallintolain § 45 mukaisesti päätös on perusteltava.\n\nOikaisuvaatimuksen tekijä on perustellut laajasti edellä mainittuja kohtia oikaisuvaatimuksessa (Liite 2) ja oikaisuvaatimuksen täydennyksessä (Liite 3).\n\nVarkauden kaupungin kannanotto asiaan on saapunut hyvinvointialueelle 28.1.2026 (Liite 4).\n\nHyvinvointialueen vastaus vastineeseen\n\nPohjois-Savon hyvinvointialueen periaatteet avustusperusteisesta yhteistyöstä yleishyödyllisten yhteisöjen kanssa (HYV. asiakaskokemusjaosto 10.9.2025) -ohjeen mukaisesti kumppanuusavustus on harkinnanvarainen tuki ja se toimii täydentävänä julkisena rahoituksena hakijan muulle rahoitukselle kuten STEA, hankerahoittajan rahoitus (ELY, AVI tms.) tai hakijan muu ulkopuolinen rahoitus tai oma varainhankinta.\n\nLapsen Kengissä ry haki 13.11.2025 Pohjois-Savon hyvinvointialueelle saapuneella hakemuksella Varkauden perheentalon matalankynnyksen ja jalkautuvan toiminnan vakiinnuttamiseen Varkaus, Joroinen ja Leppävirta alueilla kumppanuusavustusta vuosille 2026, 2027 ja 2028. Haettu summa vuodelle 2026 oli 35 200 euroa.\n\nHyvinvointialueelta hakemalla avustusrahoituksella Lapsen Kengissä ry:n oli tarkoitus vahvistaa Varkauden Perheentalon kohtaamispaikkatyötä palkkaamalla osa-aikainen ohjaaja. Kumppanuusavustushakemuksen Liite 1:n mukaan ”kävijämäärien kasvu ja toiminnan sisällön laajeneminen haastavat laadukkaan kohtaamistyön toteuttamista nykyisillä resursseilla. Avustuksella palkataan osa-aikainen ohjaaja, jonka työtehtävänä on kohdata lapsiperheet Perheentalon arjessa tarjoten laajempia osallistumisen mahdollisuuksia. Työhön sisältyy asiakastyö Varkauden Perheentalolla (Kauppakatu 32). Avustuksen avulla vakiinnutetaan ja edelleen kehitetään hyvin käynnistynyttä jalkautuvaa kohtaamispaikkatoimintaa Leppävirralla ja Joroisissa joka toinen viikko.”\n\nKumppanuusavustusten jaossa yhtenä määräävänä tekijänä on hyvinvointialueen talousarviomääräraha ja hakemukset arvioidaan hakukohtaisesti\n\nAvustuksia jaettaessa hyvinvointialue huomioi avustusbudjetin koko määrärahasta jatkettavien kumppanuusavustusten osuuden vuosittain. Sitä tarkastellaan hyvinvointialueen talousarvion määrärahan puitteissa. Jatkettavien kumppanuusavustusten budjettivarauksesta tehdään asiakaskokemusjaostossa aina erillinen päätös vuosittain. Vuodelle 2026 tehdyssä budjettivarauksessa ovat mukana ne kumppanuusavustukset, jotka on myönnetty vuosina 2024–2025.\n\nKumppanuusavustuksen saaja on velvollinen raportoimaan menneestä toimintavuodesta hyvinvointialueelle vuosittain väliraportilla. Raportti viedään asiakaskokemusjaostolle arvioitavaksi ja myönnettävän avustussumman osalta päätettäväksi. Jatkuva kumppanuusavustus ei välttämättä toteudu alkuperäisen haun mukaisesti, mikäli toiminta ei ole ollut avustushakemuksen suunnitelman mukaista. Kumppanuusavustussopimuksen päättyessä saaja on velvollinen tekemään loppuraportin hyvinvointialueelle.\n\nPohjois-Savon alueella toimivat neljä (Varkaus, Kuopio, Siilinjärvi, Iisalmi) perheentaloa ovat hakeneet hyvinvointialueelta kumppanuusavustusta eri vuosina. Nämä avustuskaudet ovat olleet eri pituisia. Jokaiselta perheentaloilta tulleita hakemuksia tai kumppanuusavustuksen jatkohakemuksia on arvioitu hakukohtaisesti vuosittaisen määrärahan puitteissa.\n\nAiempina hakuvuosina 2023, 2024 ja 2025 perhepalveluihin kohdistuvaa avustusrahaa on pystytty osoittamaan päätöksissä enemmän koska hakijoita ja kriteereitä täyttäviä hakemuksia on ollut vähemmän. Vuonna 2023 asiakaskokemusjaosto määritti ensimmäisen avustushaun kriteereiksi hyvinvointikertomuksen pohjalta seuraavat painopistealueet:\n\n1) vanhemmuuden tuki\n\n2) ehkäisevä mielenterveys- ja päihdetyö ja\n\n3) yksinäisyyden ehkäisy\n\nSiten erityisesti vuoden 2023 myönteisissä avustushakemusten hyväksytyissä päätöksissä korostuivat edellä mainitut teemat. Vuosien 2024, 2025 ja 2026 avustushaussa erikseen määriteltyjä painopisteitä ei ole ollut.\n\nVuoden 2026 hakemuksia arvioidessa Lapsen Kengissä ry:n hakemusta on tarkasteltu 20.10. – 30.11.2025 hakuajalla saapuneiden 56:n hakemuksen kesken. Hakijoissa ei ollut mukana toisia alueen perheentaloja. Hyvinvointialueelle saapuneiden hakemusten haettu yhteenlaskettu avustussumma oli yhteensä 1 558 537 euroa. Vuodelle 2026 jaettava avustusbudjetti on suuruudeltaan 850 000 euroa, josta jatkettavien kumppanuusavustusten budjettivauraus on 375 400 euroa. Uusille avustuksille budjetista jäi jaettavaksi 474 600 euroa.\n\nLapsen Kengissä ry vetoaa oikaisuvaatimuksessa ”luottamuksen suojan periaatteeseen” ja siihen, että kaikki alueen perheentalo -toimijat ovat tasa-arvon vuoksi oikeutettuja avustukseen. Hyvinvointialue korostaa, että jaettava kumppanuusavustus on harkinnanvarainen avustus ja sen myöntämistä arvioidaan jokaiselle hakukierroksella omana prosessina. Hakijan ei tule odottaa, että avustus myönnetään jokaisella hakukierroksella automaattisesti ”luottamuksen suojan periaatteeseen” nojaten. Avustusten tarkoituksena ei ole saattaa hakijoita myöskään keskinäiseen kilpailuasetelmaan.\n\nPSHVA:n avustuskriteereissä mainittuihin suunnitelmiin ja ohjelmiin yhteys\n\nLapsen Kengissä ry viittaa hakemuksessaan, että toiminta on hyvinvointialueen perhekeskustoimintasuunnitelman mukaista toimintaa ja täydentää palveluja joustavasti, asiakaslähtöisesti ja vaikuttavasti. Avustushaun periaateohjeessa ei ole mainittu perhekeskustoimintasuunnitelmaa, jota haettavan avustettavan toiminnan tulisi toteuttaa. Perhekeskussuunnitelmassa (Liite 7) kuvataan kohtaamispaikkatoiminta järjestön, seurakunnan tai kunnan toimijoiden järjestämiseksi toiminnaksi ja yhtenä kehittämiskohteena suunnitelmassa on yhteistyön säilyminen kuntien, järjestöjen ja hyvinvointialueen kesken.\n\nAvustuskriteerien mukaisesti avustettavan toiminnan tulee toteuttaa Pohjois-Savon hyvinvointialueen strategian painopisteitä, strategisia periaatteita ja toimenpiteitä ja SOTE-palvelustrategiaa sekä alueellisen hyvinvointikertomuksen ja -suunnitelman hyvinvointitavoitteita.\n\nPohjois-Savon hyvinvointisuunnitelmassa 2025–2029 (Liite 8) on kuvattu, että perheentalot ovat keskeisiä järjestöjen tehtäviin liittyvää hyvinvoinnin ja terveyden edistämistyötä ja järjestöjen hyvinvointialueille tarjoamaa asiantuntijatukea yhdyspinnoilla tehtävää työtä vanhemmuustaitojen sekä osallisuuden vahvistamiseksi. Kohtaamispaikkatoiminta kuvataan hyvinvointisuunnitelmassa kunnan järjestämäksi asiantuntijatueksi, jossa voidaan tehdä yhteistyötä yhdyspinnoilla hyvinvointialueen kanssa. Myös yhdyspintatyössä (Liite 9) kohtaamispaikkatoiminta kuvataan ensisijaisesti kunnan ja järjestöjen työksi.\n\nOikaisuvaatimuksen tekijän väite siitä, että hyvinvointialue on rikkonut velvoitetta tasa-arvoisesta alueellisesta hyvinvoinnin ja terveyden edistämisestä hyvinvointialueella.\n\nHyvinvointialue toimii sote‑järjestämislain 7 §:n mukaisesti tukemalla yleishyödyllisiä yhteisöjä avustusperusteisella yhteistyöllä. Tämä velvoite on sisällytetty selkeästi avustusperiaatteiden johdantoon: ”Hyvinvointialueen on sote‑järjestämislain 7 § mukaisesti edistettävä hyvinvoinnin ja terveyden edistämistyötä tekevien järjestöjen toimintaedellytyksiä.” Avustusten myöntämisen ehtona on, että toiminta toteuttaa hyvinvointialueen strategisia tavoitteita ja täydentää palveluketjuja, ei se, että avustusta myönnetään jokaiselle hakijalle ”Avustettavan toiminnan tulee tukea ja täydentää hyvinvointialueen järjestämisvastuulla olevaa toimintaa.”\n\nHakemusta arvioitaessa tarkastellaan mm.:\n\nhakemuksen kohderyhmää ja vaikuttavuutta\n\navustuksen käyttötarkoitusta ja suunnitelmallisuutta\n\nhakijan taloudellista kestävyyttä ja muuta varainhankintaa\n\ntoiminnan laajuutta ja toteutumista useamman kunnan alueella\n\nArviointi kohdistuu siis hakemuksen sisältöön, ei hakijan kotikuntaan, perhekeskusalueeseen tai alueelliseen sijaintiin. Tasa-arvoisuus toteutuu siten, että kaikki hakemukset arvioidaan samoilla, ennalta vahvistetuilla kriteereillä.\n\nOikaisuvaatimuksentekijän väite siitä, että hyvinvointialue on rikkonut perhekeskusalueiden tasapuolisen ja yhdenvertaisen kohtelun periaatetta avustuksia jakaessa.\n\nPerhekeskusalueiden tasapuolinen kohtelu ei tarkoita, että jokaiselle alueelle myönnetään avustuksia yhtä paljon, vaan että:\n\nkaikki hakijat voivat tasavertaisesti hakea\n\nhakemukset arvioidaan samoilla kriteereillä\n\npäätökset perustuvat hakemusten sisältöön, laatuun ja avustuskriteerien täyttymiseen.\n\nAvustusjärjestelmä on luonteeltaan harkinnanvarainen, ei subjektiivinen oikeus.\n\nYhdenvertaisuusperiaate sisältyy avustusperiaatteisiin. Lisäksi hakijoita kohdellaan yhdenvertaisesti, kaikki hakemukset käsitellään keskitetysti, valmistelussa käytetään yhtenäisiä arviointikriteerejä, päätökset tekee hallintosäännön mukainen toimielin (asiakaskokemusjaosto) ja hakijoilla on muutoksenhakuoikeus.\n\nMitä tarkoittaa se, ettei myönnetä avustusta\n\nLapsen Kengissä ry:n hakemusta arvioidessa on huomioitu se, että vaikka hyvinvointialue ei pysty avustusta myöntämään, Varkauden perheentalon kohtaamispaikkatoiminta ei pääty, vaan se toimii edelleen STEAn rahoittamana tärkeänä alueellisena toimijana eteläisen alueen lapsiperheille. Kielteinen avustuspäätös ei sulje pois Lapsen Kengissä ry:tä toimimasta edelleen perhekeskustoimintasuunnitelman mukaisesti. Lapset Kengissä ry kuvasi omassa 15.1.2026 hyvinvointialueelle saapuneessa vastineessaan (Liite 1), että haettava avustus, 35 200 euroa vuodessa, on noin 14 prosenttia toiminnan kokonaisbudjetista.\n\nHakija on kumppanuusavustushakemuksessa kuvannut, että jos, avustussumma ei toteudu täysimääräisesti: ”Ensisijaisesti turvataan osa-aikaisen ohjaajan työpanos, joka on toiminnan laadukkaan toteutuksen ja perheiden arjen kohtaamisen kannalta keskeinen. Ohjaajan läsnäolo mahdollistaa perheiden kuulemisen, tuen tarjoamisen ja osallistumisen matalalla kynnyksellä – tämä on toiminnan vaikuttavuuden ydin. Rahoituksen jäädessä vajaaksi karsitaan ensisijaisesti Lapset puheeksi -menetelmäosaajien koulutusta ja Lapset puheeksi -keskustelujen toteuttamista. Vaikka menetelmä on tärkeä vanhemmuuden tukemisessa, sen toteutus vaatii erillistä työaikaa ja resursseja, jotka voidaan suunnata suoraan kohtaamistyöhön. Näin varmistetaan, että Perheentalon arjessa säilyy perheiden kannalta olennaisin tuki: turvallinen, saavutettava ja ammatillisesti ohjattu kohtaamispaikka.”\n\nHyvinvointialue toteaa, että kielteisellä avustuspäätöksellä on todennäköisesti vaikutuksia Lapsen Kengissä ry:n toteuttaman jalkautuvaan kohtaamispaikkatoiminnan vakiinnuttamiseen Leppävirran ja Joroisten alueilla, mutta ei varsinaisesti Varkauden perheentalon perustoimintaan. Hakijan mukaan jalkautuva kohtaamispaikkatoiminta toteutetaan joka toinen viikko Leppävirralla ja Joroisissa, jolloin palvelut viedään lähelle niitä perheitä, jotka eivät pääse Varkauden Perheentalolle.\n\nJalkautuvan kohtaamispaikkatoiminnan osuutta Leppävirran ja Joroisten osalta on arvioitu Lapsen Kengissä ry:ltä pyydetyn vuoden 2025 kumppanuusavustustoiminnan loppuraportin mukaan (Liitteet 5 ja 6).\n\nVarkauden perheentalo toteuttaa Lapset puheeksi –koulutusta hyvinvointialueen ammattilaisille. Lapsen Kengissä ry on yksi Lapset Puheeksi -menetelmän kouluttajista muiden joukossa. Lapset puheeksi-koulutukset ovat sekä kunnan, että hyvinvointialueen tehtäviä. Lapset puheeksi-menetelmän tavoitteena on tukea lapsia, nuoria ja perheitä heidän jokapäiväisessä elämässään kotona, päiväkodissa, neuvolassa, koulussa ja vapaa-ajan ympäristöissä. Menetelmää käytetään myös erilaisissa sosiaali- ja terveysalan palveluissa, järjestöissä sekä vastaanottokeskuksissa. Hyvinvointialue toteaa, että Lapset Kengissä ry:n avustusmäärärahan kielteisestä päätöksestä huolimatta Lapset Puheeksi -koulutukset jatkuvat hyvinvointialueella.\n\nNäiden arvioiden perusteella hyvinvointialue katsoo, että se ei ole rikkonut velvoitetta tasa-arvoisesta alueellisesta hyvinvoinnin ja terveyden edistämisestä hyvinvointialueella. Eikä se ole rikkonut perhekeskusalueiden tasapuolista ja yhdenvertaista kohtelun periaatetta avustuksia jakaessa.\n\nOikaisuvaatimuksen tekijän väite siitä, että asiakaskokemusjaoston muutoksenhaun kohteena olevasta päätöksestä ei myöskään käynyt ilmi päätöksen perusteet. Hallintolain § 45 mukaisesti päätös on perusteltava.\n\nHyvinvointialue myöntää tekemänsä virheen siitä, että päätöksen perusteluissa olisi pitänyt olla tarkemmat yksilöivämmät perustelut. 14.1.2026 käydyssä asiakaskokemusjaoston kokouksessa jaoston jäsenillä oli käytössä päätöksen teon tueksi valmistelijoiden valmistama saapuneista hakemuksista tehty yhteenvetomateriaali. Materiaalin pohjalta jaosto kävi keskustelua hakemusten myöntämiseen ja hylkäämiseen liittyvistä yksilöllisistä perusteluista.\n\nHyvinvointialue toteaa oikaisuvaatimuksen tekijältä 26.1.2026 tulleeseen oikaisuvaatimuksen täydennykseen, että avustusprosessia tullaan kehittämään vuoden 2026 aikana palautteen pohjalta. Avustusten todellista vaikutusta ja sen arviointia hyvinvointialueiden palvelujen täydentävänä tai tukevana toimintana, tullaan myös kehittämään vahvemmin koko prosessin osalta.\n\nEhdotuksena on, että oikaisuvaatimus hylätään."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "232",
+   "title": "SOTE palvelustrategian päivityksen käynnistäminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261112-7",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261112-7.PDF",
+   "diary_number": "3213/00.01.02.00/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää nimetä poliittisen ohjausryhmän kokoonpanon kokouksessa.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nAhall 17.06.2026 § 214\n\nValmistelija(t)",
+   "decision": "Aluehallitus päättää nimetä ohjausryhmän ja puheenjohtajat seuraavasti:\n\nKESK\n\nRiitta Raatikainen, vara Aino Kanniainen\n\nMarkku Rossi, vara Pekka Taipale\n\nMinna Pellikka, vara Merja Rautiainen\n\nSDP\n\nHannu Kokki, vara Heikki Miettinen\n\nPia Hedman, vara Tuula Väätäinen\n\nVAS\n\nJuha Pitkänen, vara Jenny Keilonen\n\nPS\n\nKati Åhman, vara Nanna Väätäinen\n\nKOK\n\nVesa Lötjönen vara Sassa Suna\n\nKD\n\nLeena Pöksyläinen, vara Ahti-Pekka Vornanen\n\nVIHR\n\nPetra Kairinen, vara Taru Lindholm\n\nPuheenjohtajaksi nimettiin Riitta Raatikainen ja varapuheenjohtajaksi Pia Hedman.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJussi Lampi"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päättää nimetä ohjausryhmän ja puheenjohtajat seuraavasti:\n\nKESK\n\nRiitta Raatikainen, vara Aino Kanniainen\n\nMarkku Rossi, vara Pekka Taipale\n\nMinna Pellikka, vara Merja Rautiainen\n\nSDP\n\nHannu Kokki, vara Heikki Miettinen\n\nPia Hedman, vara Tuula Väätäinen\n\nVAS\n\nJuha Pitkänen, vara Jenny Keilonen\n\nPS\n\nKati Åhman, vara Nanna Väätäinen\n\nKOK\n\nVesa Lötjönen vara Sassa Suna\n\nKD\n\nLeena Pöksyläinen, vara Ahti-Pekka Vornanen\n\nVIHR\n\nPetra Kairinen, vara Taru Lindholm\n\nPuheenjohtajaksi nimettiin Riitta Raatikainen ja varapuheenjohtajaksi Pia Hedman."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää nimetä poliittisen ohjausryhmän kokoonpanon kokouksessa.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nAhall 17.06.2026 § 214\n\nValmistelija(t)"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päättää\n\nkäynnistää hyvinvointialueen palvelustrategian päivittämisen\n\nettä aluehallitus nimeää poliittisen ohjausryhmän kokoonpanon elokuun kokouksessa.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää\n\nkäynnistää hyvinvointialueen palvelustrategian päivittämisen\n\nnimetä päivittämistä varten perustettavan poliittisen ohjausryhmän kokoonpanon.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nValmistelu\nSosiaali- ja terveydenhuollon järjestämisestä annetun lain 11 § määrittää, että hyvinvointialueen on laadittava taloutensa ja toimintansa suunnittelua ja johtamista varten sosiaali- ja terveydenhuollon palvelustrategia osana hyvinvointialuestrategiaa. Palvelustrategiassa on otettava huomioon sosiaali- ja terveydenhuollon valtakunnalliset tavoitteet.\n\nPalvelustrategiassa hyvinvointialue tulee päättää:\n\n• Järjestämisvastuulleen kuuluvan sosiaali- ja terveydenhuollon pitkän aikavälin tavoitteet.\n\n• Tavoitteet sille, miten sosiaali- ja terveydenhuollon palvelut toteutetaan ottaen huomioon hyvinvointialueen asukkaiden tarpeet, paikalliset olosuhteet, palvelujen saatavuus ja saavutettavuus sekä kustannusvaikuttavuus.\n\nPalvelustrategiaan tulee osallistaa asukkaat ja palvelujen käyttäjät. Hyvinvointialueen on julkaistava palvelustrategiansa julkisessa tietoverkossa.\n\nPohjois-Savon hyvinvointialueen ensimmäinen palvelustrategia päätettiin kesäkuussa 2023 (Ahall 05.06.2023 § 185). Palvelustrategia ohjasi tulevaa palvelujärjestelmän uudistamisohjelmaa, joka koostui viidestä reformista:\n\nR1. Vastaanottotoiminnan ja alueellisen erikoissairaanhoidon sekä aikuissosiaalityön uudistus (Avalt 17.6.2024 § 47)\n\nR2. Osastohoidon, asumisen ja kotiin vietävien palveluiden uudistus (Avalt 17.6.2024 § 47)\n\nR3. Perhe- ja vammaispalveluiden uudistus (Avalt 16.12.2024 § 80)\n\nR4. Erikoissairaanhoidon ja yliopistollisen sairaalan uudistus (Avalt 05.05.2025 § 29)\n\nR5. Mielenterveys- ja päihdepalveluiden uudistus (23.03.2026 § 4)\n\nPäivityksen valmistelu\n\nPohjois-Savon hyvinvointialueen aluevaltuusto hyväksyi lokakuussa 2025 hyvinvointialueen uuden strategian (Avalt 06.10.2025 § 72). Tästä syystä on ajankohtaista päivittää palvelustrategia, jotta se vastaa hyvinvointialuestrategian tavoitteita ja toimintaympäristön nykyisiä haasteita. Palvelustrategia mm. ohjaa ja linjaa tulevien palveluverkkouudistusten suunnitteluun vaikuttavia periaatteita.\n\nPäivitysprosessissa osallistetaan hyvinvointialueen valtuutettuja ja toimielinten jäseniä sekä henkilöstä, asukkaita ja keskeisiä sidosryhmiä mm. seuraavilla keinoilla:\n\n• kyselyt ja lausunnot\n\n• valtuustoseminaari\n\n• lautakunnille toteuttava työpaja\n\nPäivitystä varten perustetaan poliittinen ohjausryhmä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "233",
+   "title": "Eron myöntäminen aluevaltuuston varapuheenjohtajan tehtävästä Karoliina Partaselle",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261112-8",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261112-8.PDF",
+   "diary_number": "3986/00.00.01/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää esittää aluevaltuustolle, että aluevaltuusto:\n\n1. myöntää eron Karoliina Partaselle aluevaltuuston varapuheenjohtajan tehtävästä\n\n2. valitsee uuden varapuheenjohtajan Karoliina Partasen tilalle jäljellä olevaksi toimikaudeksi.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 35\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nKaroliina Partanen on pyytänyt eroa aluevaltuuston puheenjohtajan tehtävästä, koska hänet on nimitetty valtioneuvoston jäseneksi.\n\nHyvinvointialuelain 75 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin.\n\nHyvinvointialuelain 22 §:n mukaan aluevaltuusto valitsee jäsenet toimielimiin.\n\nHallintosäännön 7 §:n mukaan aluevaltuustossa on 69 valtuutettua, joista aluevaltuusto valitsee puheenjohtajan ja 2 varapuheenjohta-jaa.\n\nHyvinvointialuelain 84 §:n mukaan luottamushenkilö pysyy toimessaan sen ajan, joksi hänet on valittu, ja sen jälkeenkin siihen saakka, kunnes toimeen on valittu toinen. Kesken toimikautta avoimeksi tulleeseen luottamustoimeen on valittava jäljellä olevaksi toimikaudeksi uusi luottamushenkilö.\n\nToimeen valitun luottamushenkilön on myös hoidettava tointaan siihen saakka, kunnes asia on lopullisesti ratkaistu, jos:\n\n1) luottamushenkilövaalista tehdään valitus;\n\n2) eroa ei ole myönnetty; tai\n\n3) aluehallitus on 101 §:n nojalla jättänyt aluevaltuuston vaalipäätöksen täytäntöön panematta.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää esittää aluevaltuustolle, että aluevaltuusto:\n\n1. myöntää eron Karoliina Partaselle aluevaltuuston varapuheenjohtajan tehtävästä\n\n2. valitsee uuden varapuheenjohtajan Karoliina Partasen tilalle jäljellä olevaksi toimikaudeksi.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 35\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nKaroliina Partanen on pyytänyt eroa aluevaltuuston puheenjohtajan tehtävästä, koska hänet on nimitetty valtioneuvoston jäseneksi.\n\nHyvinvointialuelain 75 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin.\n\nHyvinvointialuelain 22 §:n mukaan aluevaltuusto valitsee jäsenet toimielimiin.\n\nHallintosäännön 7 §:n mukaan aluevaltuustossa on 69 valtuutettua, joista aluevaltuusto valitsee puheenjohtajan ja 2 varapuheenjohta-jaa.\n\nHyvinvointialuelain 84 §:n mukaan luottamushenkilö pysyy toimessaan sen ajan, joksi hänet on valittu, ja sen jälkeenkin siihen saakka, kunnes toimeen on valittu toinen. Kesken toimikautta avoimeksi tulleeseen luottamustoimeen on valittava jäljellä olevaksi toimikaudeksi uusi luottamushenkilö.\n\nToimeen valitun luottamushenkilön on myös hoidettava tointaan siihen saakka, kunnes asia on lopullisesti ratkaistu, jos:\n\n1) luottamushenkilövaalista tehdään valitus;\n\n2) eroa ei ole myönnetty; tai\n\n3) aluehallitus on 101 §:n nojalla jättänyt aluevaltuuston vaalipäätöksen täytäntöön panematta."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "234",
+   "title": "Ikäihmisten neuvoston jäsenmuutos",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261112-9",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261112-9.PDF",
+   "diary_number": "1353/00.00.01/2025",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää myöntää Kirsi Anderssonille eron hyvinvointialueen ikäihmisten neuvostosta ja nimeää tilalle Sari Anderssonin.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36 ja § 20\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Keiteleen vanhus- ja vammaisneuvoston pöytäkirja 4/2026\n\nValmistelu\nKirsi Andersson on eronnut Keiteleen vanhus- ja vammaisneuvostosta. Keiteleen vanhus- ja vammaisneuvostosto on kokouksessaan 24.6.2026 nimennyt hyvinvointialueen ikäihmisten neuvostoon Sari Anderssonin.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nLaila Hytönen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää myöntää Kirsi Anderssonille eron hyvinvointialueen ikäihmisten neuvostosta ja nimeää tilalle Sari Anderssonin.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36 ja § 20\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Keiteleen vanhus- ja vammaisneuvoston pöytäkirja 4/2026\n\nValmistelu\nKirsi Andersson on eronnut Keiteleen vanhus- ja vammaisneuvostosta. Keiteleen vanhus- ja vammaisneuvostosto on kokouksessaan 24.6.2026 nimennyt hyvinvointialueen ikäihmisten neuvostoon Sari Anderssonin."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Keiteleen kunnan ilmoitus, edustajat ikäihmisten neuvostoon",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-9-272533.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "235",
+   "title": "Aluehallitukselle tiedoksi annettavat lausuntopyynnöt ja lausunnot",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261112-10",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261112-10.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus merkitsee saapuneet lausuntopyynnöt ja annetut lausunnot tiedoksi.\n\nToimivallan peruste\nhallintosääntö 36 §\n\nValmistelu\nAluehallituksen 2.10.2023 § 308 mukaisesti aluehallitus päättää hallintosäännön määräyksiä noudattaen, että merkittävät lausunnot esim. hyvinvointialueiden rahoitukseen, lainsäädäntöön liittyvät ja niihin rinnasteiset lausunnot antaa aluehallitus. Lausunnon merkittävyys arvioidaan asian valmistelussa.\n\nPohjois-Savon hyvinvointialueen hallintosäännön määräykset lausuntojen antamisesta antavat mahdollisuuden viranhaltijoille antaa lausuntoja tietyissä rajoissa. Mikäli annettavat lausunnot eivät ole viranhaltijoiden toimivallassa, antaa niistä lausunnot aluehallitus.\n\nLausuntopyyntöihin vastaamiselle annettu määräaika on yleensä niin lyhyt, ettei lausuntojen käsittely aluehallituksessa ole mahdollista.\n\nSaapuneet lausuntopyynnöt:\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle EHDS-asetuksen toissijaista käyttöä ja asetuksen seuraamuksia täydentäväksi sääntelyksi\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi laeiksi sairausvakuutuslain väliaikaisesta muuttamisesta annetun lain muuttamisesta ja toimeentulotuesta annetun lain 7 b §:n väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö hallituksen esityksestä eduskunnalle lääkkeiden arviointitoiminnan kehittämisestä\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö terveydenhuollon asiakasmaksuja koskevasta luonnoksesta hallituksen esitykseksi ja valtioneuvoston asetukseksi\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laiksi lääkelain muuttamisesta ja siihen liittyviksi laeiksi sekä asetusluonnoksesta lääkeasetuksen muuttamiseksi\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö asetus lapsiin liittyvien rikosepäilyjen selvittämisessä avustavista terveydenhuollon yksiköistä\n\n- Oikeusministeriön lausuntopyyntö Oikeuspalveluvirastosta annetun valtioneuvoston asetuksen muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laeiksi kuolemansyyn selvittämisestä annetun lain sekä kudoslain muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi laeiksi terveydenhuollon ammattihenkilöistä annetun lain, sosiaalihuollon ammattihenkilöistä annetun lain sekä Lupa- ja valvontavirastosta annetun lain (15 ja 20 §) muuttamisesta\n\n- Oikeusministeriön lausuntopyyntö oikeuspalveluviraston toimipaikoista annetun oikeusministeriön asetuksen muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta valtioneuvoston asetukseksi tartuntataudeista\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta sosiaali- ja terveysministeriön asetukseksi rokotuksista ja tartuntatautien ilmoittamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta valtioneuvoston asetukseksi tartuntatautien neuvottelukunnasta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta sosiaali- ja terveysministeriön asetukseksi mikrobilääkeresistenssin torjunnan kansallisesta asiantuntijaryhmästä ja kansallisesta rokotusasian\n\n- Sisäministeriön lausuntopyyntö, hallituksen esitys eduskunnalle laiksi vaaratiedotteesta annetun lain 5 ja 7 §:n muuttamisesta\n\n- Lausuntopyyntö ehdotuksesta yhtenäisten hoidon perusteiden jatkuvan ylläpidon toimintamalliksi, Terveyden ja hyvinvoinnin laitos\n\n- Lausuntopyyntö ilmastotoimien sosiaalisen tuen suunnitelmasta, Ympäristöministeriö\n\n- Lausuntopyyntö luonnoksesta koskien alle 15-vuotiaana rikollisesta teosta epäillyn säilöön ottamista, Sosiaali- ja terveysministeriö\n\n- Valtiovarainministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laiksi hyvinvointialueesta annetun lain 21 §n muuttamisesta\n\nAnnetut lausunnot:\n\n- Lausunto luonnoksesta valtioneuvoston asetukseksi sairaankuljetuksen kustannusten korvaustaksasta annetun valtioneuvoston asetuksen muuttamisesta\n\n- Lausunto Hallituksen esityksestä eduskunnalle laeiksi sosiaali- ja terveydenhuollon järjestämisestä annetun lain ja terveydenhuoltolain 54 ja 57 §:n muuttamisesta\n\n- Lausunto luonnoksesta sosiaali- ja terveysministeriön asetukseksi lapsiin liittyvien rikosepäilyjen selvittämisessä avustavien terveydenhuollon yksiköiden toiminnasta aiheutuneiden kustannusten korvaamista valtion varoista\n\n- Lausunto terveydenhuollon asiakasmaksuja koskevasta luonnoksesta hallituksen esi-tykseksi ja valtioneuvoston asetukseksi",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitukselle tiedoksi annettavat lausuntopyynnöt ja lausunnot\n\nValmistelija(t)\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus merkitsee saapuneet lausuntopyynnöt ja annetut lausunnot tiedoksi.\n\nToimivallan peruste\nhallintosääntö 36 §\n\nValmistelu\nAluehallituksen 2.10.2023 § 308 mukaisesti aluehallitus päättää hallintosäännön määräyksiä noudattaen, että merkittävät lausunnot esim. hyvinvointialueiden rahoitukseen, lainsäädäntöön liittyvät ja niihin rinnasteiset lausunnot antaa aluehallitus. Lausunnon merkittävyys arvioidaan asian valmistelussa.\n\nPohjois-Savon hyvinvointialueen hallintosäännön määräykset lausuntojen antamisesta antavat mahdollisuuden viranhaltijoille antaa lausuntoja tietyissä rajoissa. Mikäli annettavat lausunnot eivät ole viranhaltijoiden toimivallassa, antaa niistä lausunnot aluehallitus.\n\nLausuntopyyntöihin vastaamiselle annettu määräaika on yleensä niin lyhyt, ettei lausuntojen käsittely aluehallituksessa ole mahdollista.\n\nSaapuneet lausuntopyynnöt:\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle EHDS-asetuksen toissijaista käyttöä ja asetuksen seuraamuksia täydentäväksi sääntelyksi\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi laeiksi sairausvakuutuslain väliaikaisesta muuttamisesta annetun lain muuttamisesta ja toimeentulotuesta annetun lain 7 b §:n väliaikaisesta muuttamisesta annetun lain voimaantulosäännöksen muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö hallituksen esityksestä eduskunnalle lääkkeiden arviointitoiminnan kehittämisestä\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö terveydenhuollon asiakasmaksuja koskevasta luonnoksesta hallituksen esitykseksi ja valtioneuvoston asetukseksi\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laiksi lääkelain muuttamisesta ja siihen liittyviksi laeiksi sekä asetusluonnoksesta lääkeasetuksen muuttamiseksi\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö asetus lapsiin liittyvien rikosepäilyjen selvittämisessä avustavista terveydenhuollon yksiköistä\n\n- Oikeusministeriön lausuntopyyntö Oikeuspalveluvirastosta annetun valtioneuvoston asetuksen muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laeiksi kuolemansyyn selvittämisestä annetun lain sekä kudoslain muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi laeiksi terveydenhuollon ammattihenkilöistä annetun lain, sosiaalihuollon ammattihenkilöistä annetun lain sekä Lupa- ja valvontavirastosta annetun lain (15 ja 20 §) muuttamisesta\n\n- Oikeusministeriön lausuntopyyntö oikeuspalveluviraston toimipaikoista annetun oikeusministeriön asetuksen muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta valtioneuvoston asetukseksi tartuntataudeista\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta sosiaali- ja terveysministeriön asetukseksi rokotuksista ja tartuntatautien ilmoittamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta valtioneuvoston asetukseksi tartuntatautien neuvottelukunnasta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta sosiaali- ja terveysministeriön asetukseksi mikrobilääkeresistenssin torjunnan kansallisesta asiantuntijaryhmästä ja kansallisesta rokotusasian\n\n- Sisäministeriön lausuntopyyntö, hallituksen esitys eduskunnalle laiksi vaaratiedotteesta annetun lain 5 ja 7 §:n muuttamisesta\n\n- Lausuntopyyntö ehdotuksesta yhtenäisten hoidon perusteiden jatkuvan ylläpidon toimintamalliksi, Terveyden ja hyvinvoinnin laitos\n\n- Lausuntopyyntö ilmastotoimien sosiaalisen tuen suunnitelmasta, Ympäristöministeriö\n\n- Lausuntopyyntö luonnoksesta koskien alle 15-vuotiaana rikollisesta teosta epäillyn säilöön ottamista, Sosiaali- ja terveysministeriö\n\n- Valtiovarainministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laiksi hyvinvointialueesta annetun lain 21 §n muuttamisesta\n\nAnnetut lausunnot:\n\n- Lausunto luonnoksesta valtioneuvoston asetukseksi sairaankuljetuksen kustannusten korvaustaksasta annetun valtioneuvoston asetuksen muuttamisesta\n\n- Lausunto Hallituksen esityksestä eduskunnalle laeiksi sosiaali- ja terveydenhuollon järjestämisestä annetun lain ja terveydenhuoltolain 54 ja 57 §:n muuttamisesta\n\n- Lausunto luonnoksesta sosiaali- ja terveysministeriön asetukseksi lapsiin liittyvien rikosepäilyjen selvittämisessä avustavien terveydenhuollon yksiköiden toiminnasta aiheutuneiden kustannusten korvaamista valtion varoista\n\n- Lausunto terveydenhuollon asiakasmaksuja koskevasta luonnoksesta hallituksen esi-tykseksi ja valtioneuvoston asetukseksi"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Lausunto terveydenhuollon asiakasmaksuja koskevasta luonnoksesta hallituksen esitykseksi ja valtioneuvoston asetukseksi",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-277818.PDF"
+    },
+    {
+     "title": "Oheismateriaali 1 Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta hallituksen esitykseksi eduskunnalle EHDS-asetuksen toissijaista käyttöä ja asetuksen seuraamuksia täydentäväksi sääntelyksi",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-269475.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta hallituksen esitykseksi laeiksi sairausvakuutuslain väliaikaisesta muuttamisesta annetun lain muuttamisesta ja toimeentulotuesta annetun lain 7 b §:n väliaikaisesta muuttamisesta annetun lain voimaantulosä...",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-268777.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Sosiaali- ja terveysministeriön lausuntopyyntö hallituksen esityksestä eduskunnalle lääkkeiden arviointitoiminnan kehittämisestä",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-269115.PDF"
+    },
+    {
+     "title": "Oheismateriaali 4 Sosiaali- ja terveysministeriön lausuntopyyntö, terveydenhuollon asiakasmaksuja koskevasta luonnoksesta hallituksen esitykseksi ja valtioneuvoston asetukseksi",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-269789.PDF"
+    },
+    {
+     "title": "Oheismateriaali 5 Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta hallituksen esitykseksi eduskunnalle laiksi lääkelain muuttamisesta ja siihen liittyviksi laeiksi sekä asetusluonnoksesta lääkeasetuksen muuttamiseksi",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-270569.PDF"
+    },
+    {
+     "title": "Oheismateriaali 6 Sosiaali- ja terveysministeriön lausuntopyyntö, asetus lapsiin liittyvien rikosepäilyjen selvittämisessä avustavista terveydenhuollon yksiköistä",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-271052.PDF"
+    },
+    {
+     "title": "Oheismateriaali 7 Oikeusministeriön lausuntopyyntö, Oikeuspalveluvirastosta annetun valtioneuvoston asetuksen muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-270662.PDF"
+    },
+    {
+     "title": "Oheismateriaali 8 Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta hallituksen esitykseksi eduskunnalle laeiksi kuolemansyyn selvittämisestä annetun lain sekä kudoslain muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-270701.PDF"
+    },
+    {
+     "title": "Oheismateriaali 9 Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta hallituksen esitykseksi laeiksi terveydenhuollon ammattihenkilöistä annetun lain, sosiaalihuollon ammattihenkilöistä annetun lain sekä Lupa- ja valvontavirastosta annetun lain (15 ja 20 §) muuttam...",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-271179.PDF"
+    },
+    {
+     "title": "Oheismateriaali 10 Oikeusministeriön lausuntopyyntö oikeuspalveluviraston toimipaikoista annetun oikeusministeriön asetuksen muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-271786.PDF"
+    },
+    {
+     "title": "Oheismateriaali 11 Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta valtioneuvoston asetukseksi tartuntataudeista",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-271839.PDF"
+    },
+    {
+     "title": "Oheismateriaali 12 Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta sosiaali- ja terveysministeriön asetukseksi rokotuksista ja tartuntatautien ilmoittamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-271844.PDF"
+    },
+    {
+     "title": "Oheismateriaali 13 Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta valtioneuvoston asetukseksi tartuntatautien neuvottelukunnasta",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-271868.PDF"
+    },
+    {
+     "title": "Oheismateriaali 14 Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta sosiaali- ja terveysministeriön asetukseksi mikrobilääkeresistenssin torjunnan kansallisesta asiantuntijaryhmästä ja kansallisesta rokotusasian",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-271887.PDF"
+    },
+    {
+     "title": "Oheismateriaali 15 Sisäministeriön lausuntopyyntö, hallituksen esitys eduskunnalle laiksi vaaratiedotteesta annetun lain 5 ja 7 §:n muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-272585.PDF"
+    },
+    {
+     "title": "Oheismateriaali 16 Lausuntopyyntö ehdotuksesta yhtenäisten hoidon perusteiden jatkuvan ylläpidon toimintamalliksi, Terveyden ja hyvinvoinnin laitos",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-272697.PDF"
+    },
+    {
+     "title": "Oheismateriaali 17 Lausuntopyyntö ilmastotoimien sosiaalisen tuen suunnitelmasta, Ympäristöministeriö",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-273245.PDF"
+    },
+    {
+     "title": "Oheismateriaali 18 Lausuntopyyntö luonnoksesta koskien alle 15-vuotiaana rikollisesta teosta epäillyn säilöönottamista, Sosiaali- ja terveysministeriö",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-273456.PDF"
+    },
+    {
+     "title": "Oheismateriaali 19 Valtiovarainministeriön lausuntopyyntö, luonnoksesta hallituksen esitykseksi eduskunnalle laiksi hyvinvointialueesta annetun lain 21 §n muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-274465.PDF"
+    },
+    {
+     "title": "Oheismateriaali 20 Lausunto luonnoksesta valtioneuvoston asetukseksi sairaankuljetuksen kustannusten korvaustaksasta annetun valtioneuvoston asetuksen muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-272029.PDF"
+    },
+    {
+     "title": "Oheismateriaali 21 Lausunto Hallituksen esityksestä eduskunnalle laeiksi sosiaali- ja terveydenhuollon järjestämisestä annetun lain ja terveydenhuoltolain 54 ja 57 §_n muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-273106.PDF"
+    },
+    {
+     "title": "Oheismateriaali 22 Lausunto luonnoksesta sosiaali- ja terveysministeriön asetukseksi lapsiin liittyvien rikosepäilyjen selvittämisessä avustavien terveydenhuollon yksiköiden toiminnasta aiheutuneiden kustannusten korvaamista valtion varoista",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-10-274479.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "236",
+   "title": "Lautakuntien ja jaostojen päätösten tarkistaminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261112-11",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261112-11.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Toimielimen puheenjohtaja",
+   "proposal": "Aluehallitus ei käytä otto-oikeutta toimielinten päätöksiin. Aluehallitus hyväksyy pöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nPohjois-Savon hyvinvointialueen hallintosäännössä § 57-59 on määritelty otto-oikeuden käytöstä seuraavaa:\n\nAsian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nAluehallituksella ei ole otto-oikeutta hyvinvointialueiden yhteisen toimielimen tekemiin päätöksiin.\n\nAsia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nYlemmän toimielimen käsiteltäväksi ei kuitenkaan saa ottaa:\n\n1) lain tai asetuksen mukaisia lupa-, ilmoitus- tai valvontamenettelyä koskevia asioita\n\n2) yksilöön kohdistuvia terveydenhuollon tai sosiaalitoimen asioita\n\n3) hyvinvointialuelain 54 §:ssä tarkoitetulle hyvinvointialueiden yhteiselle toimielimelle siirrettyjä asioita, jos asianomaiset hyvinvointialueet niin sopiva\n\nAsia voidaan hyvinvointialuelain 97 §:n mukaisesti ottaa lautakunnan käsiteltäväksi, jollei ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nAsian ottamisesta lautakunnan käsiteltäväksi voi päättää lautakunta, lautakunnan puheenjohtaja ja lautakunnan esittelijä.\n\nAluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan. Ilmoitus tehdään sähköisesti aluehallituksen puheenjohtajalle ja esittelijälle.\n\nPäätökset niissä asioissa, joista ei tarvitse ilmoittaa, voidaan otto-oikeuden estämättä panna täytäntöön, jollei yksittäistapauksessa ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nEsityslistan lisäaineistona jaetaan pöytäkirjat:\n\n- Ikäihmisten ja hoivapalveluiden lautakunta 11.6.2026\n\n- Perhe- ja vammaispalveluiden lautakunta -\n\n- Yleisten palveluiden lautakunta 18.6.2026\n\n- Kokonaisturvallisuuslautakunta 11.6.2026\n\n- Asiakaskokemusjaosto 17.6.2026\n\n- Tulevaisuus- ja strategiajaosto -\n\n- Omistajaohjaus- ja talousjaosto 16.6.2026",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Lautakuntien ja jaostojen päätösten tarkistaminen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Toimielimen puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus ei käytä otto-oikeutta toimielinten päätöksiin. Aluehallitus hyväksyy pöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nPohjois-Savon hyvinvointialueen hallintosäännössä § 57-59 on määritelty otto-oikeuden käytöstä seuraavaa:\n\nAsian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nAluehallituksella ei ole otto-oikeutta hyvinvointialueiden yhteisen toimielimen tekemiin päätöksiin.\n\nAsia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nYlemmän toimielimen käsiteltäväksi ei kuitenkaan saa ottaa:\n\n1) lain tai asetuksen mukaisia lupa-, ilmoitus- tai valvontamenettelyä koskevia asioita\n\n2) yksilöön kohdistuvia terveydenhuollon tai sosiaalitoimen asioita\n\n3) hyvinvointialuelain 54 §:ssä tarkoitetulle hyvinvointialueiden yhteiselle toimielimelle siirrettyjä asioita, jos asianomaiset hyvinvointialueet niin sopiva\n\nAsia voidaan hyvinvointialuelain 97 §:n mukaisesti ottaa lautakunnan käsiteltäväksi, jollei ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nAsian ottamisesta lautakunnan käsiteltäväksi voi päättää lautakunta, lautakunnan puheenjohtaja ja lautakunnan esittelijä.\n\nAluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan. Ilmoitus tehdään sähköisesti aluehallituksen puheenjohtajalle ja esittelijälle.\n\nPäätökset niissä asioissa, joista ei tarvitse ilmoittaa, voidaan otto-oikeuden estämättä panna täytäntöön, jollei yksittäistapauksessa ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nEsityslistan lisäaineistona jaetaan pöytäkirjat:\n\n- Ikäihmisten ja hoivapalveluiden lautakunta 11.6.2026\n\n- Perhe- ja vammaispalveluiden lautakunta -\n\n- Yleisten palveluiden lautakunta 18.6.2026\n\n- Kokonaisturvallisuuslautakunta 11.6.2026\n\n- Asiakaskokemusjaosto 17.6.2026\n\n- Tulevaisuus- ja strategiajaosto -\n\n- Omistajaohjaus- ja talousjaosto 16.6.2026"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Ikäihmisten ja hoivapalveluiden lautakunta 11.6.2026 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-11-271059.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Kokonaisturvallisuuslautakunta 11.6.2026 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-11-271058.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Omistajaohjaus- ja talousjaosto 16.6.2026 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-11-271201.PDF"
+    },
+    {
+     "title": "Oheismateriaali 4 Asiakaskokemusjaosto 17.6.2026 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-11-271060.PDF"
+    },
+    {
+     "title": "Oheismateriaali 5 Yleisten palveluiden lautakunta 18.6.2026 pöytäkirja",
+     "url": "https://pshva.oncloudos.com/kokous/20261112-11-271057.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "237",
+   "title": "Viranhaltijapäätösten tarkastaminen 10.6.-9.7.2026 ja 10.7.-2.8.2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261112-12",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261112-12.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Toimielimen puheenjohtaja",
+   "proposal": "Aluehallitus ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Aluehallitus hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 57 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava aluehallitukselle niistä päätöksistä, jotka voidaan ottaa aluehallituksen käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava aluehallituksen alaisten viranhaltijoiden osalta aluehallitukselle.\n\nAluehallituksen alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa aluehallituksen puheenjohtajalle ja hyvinvointialuejohtajalle.\n\nAluehallitukselle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 10.6.2026 – 25.6.2026\n\n- viranhaltijapäätösluettelo ajalta 26.6.2026 – 9.7.2026\n\n- viranhaltijapäätösluettelo ajalta 10.7.2026 – 2.8.2026",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Viranhaltijapäätösten tarkastaminen 10.6.-9.7.2026"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Toimielimen puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Aluehallitus hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 57 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava aluehallitukselle niistä päätöksistä, jotka voidaan ottaa aluehallituksen käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava aluehallituksen alaisten viranhaltijoiden osalta aluehallitukselle.\n\nAluehallituksen alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa aluehallituksen puheenjohtajalle ja hyvinvointialuejohtajalle.\n\nAluehallitukselle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 10.6.2026 – 25.6.2026\n\n- viranhaltijapäätösluettelo ajalta 26.6.2026 – 9.7.2026\n\n- viranhaltijapäätösluettelo ajalta 10.7.2026 – 2.8.2026"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "238",
+   "title": "Muut asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261112-13",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261112-13.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Merkitään pöytäkirjaan, että:\n\n-asia käsiteltiin § 241 asian jälkeen.\n\nMerkitään tiedoksi.\n\nPuheenjohtaja päätti kokouksen klo 12.05\n\nAluehallituksen itsearvioinnin läpikäynti",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n-asia käsiteltiin § 241 asian jälkeen.\n\nMerkitään tiedoksi.\n\nPuheenjohtaja päätti kokouksen klo 12.05\n\nAluehallituksen itsearvioinnin läpikäynti"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "239",
+   "title": "Oikaisuvaatimus, matkakulut (JulkL 24.1. § 25)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261112-14",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261112-14.PDF",
+   "diary_number": "3169/03.06.02/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "240",
+   "title": "Oikaisuvaatimus, kurssimaksu (JulkL 24 §, kohta 25)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261112-15",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261112-15.PDF",
+   "diary_number": "1972/03.06.02/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "241",
+   "title": "Oikaisuvaatimus, matkakulut (JulkL 24 §, kohta 25)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261112-16",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261112-16.PDF",
+   "diary_number": "3239/03.06.02/2026",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Raatikainen Riitta",
+   "role": "aluehallituksen puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Hedman Pia",
+   "role": "aluehallituksen 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Rossi Markku",
+   "role": "aluehallituksen 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kanniainen Aino",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lötjönen Vesa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Miettinen Heikki",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pitkänen Juha",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Rautiainen Merja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Suna Sassa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Taipale Pekka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Vornanen Ahti-Pekka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Väätäinen Tuula",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Åhman Kati",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kokki Hannu",
+   "role": "aluevaltuuston puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Pellikka Minna",
+   "role": "aluevaltuuston 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Korhonen Marko",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Niemeläinen Janne",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Antikainen Mari",
+   "role": "henkilöstöjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Hedman Antti",
+   "role": "vastaava lääkäri",
+   "group": "other"
+  },
+  {
+   "name": "Janhonen Kari",
+   "role": "talousjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Jestola Eija",
+   "role": "toimilinjajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kantanen Kati",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kokkonen Kaija Anneli",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Koponen Jukka",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Lampi Jussi",
+   "role": "strategiajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Mykkänen Minna",
+   "role": "johtaja ylihoitaja",
+   "group": "other"
+  },
+  {
+   "name": "Pekkarinen Tuomo",
+   "role": "tietohallintojohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Remes Sami",
+   "role": "toimilinjajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Solmari Kirsi",
+   "role": "sosiaalihuollon asiantuntijajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Räsänen Henna",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Piiroinen Mirka",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261112",
+  "fetched_at": "2026-10-14T17:58:22+00:00",
+  "content_hash": "827c714dbded27c9",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T17:58:22+00:00"
+ }
+}

@@ -1,0 +1,605 @@
+{
+ "id": "vanhusneuvosto/2026-01-19",
+ "region": "kanta-hame",
+ "body_id": "vanhusneuvosto",
+ "body_name": "Vanhusneuvosto",
+ "date": "2026-01-19",
+ "stage": "minutes",
+ "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026167",
+ "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026167.PDF",
+ "time": "14:00 - 16:17",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "1",
+   "title": "Kokouksen avaaminen ja läsnäolijoiden toteaminen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026167-1",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026167-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Puheenjohtaja avaa kokouksen ja toteaa läsnäolijat.",
+   "decision": "Puheenjohtaja avasi kokouksen ja todettiin läsnäolijat.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Puheenjohtaja avaa kokouksen ja toteaa läsnäolijat."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja avasi kokouksen ja todettiin läsnäolijat."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "2",
+   "title": "Pöytäkirjantarkastus",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026167-2",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026167-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Tämän kokouksen pöytäkirja tarkastetaan edellä esitetyn menettelyn mukaisesti.",
+   "decision": "Vanhusneuvosto hyväksyi päätösesityksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Vanhusneuvoston pöytäkirjan tarkastavat sähköisesti puheenjohtaja ja sihteeri. Puheenjohtaja ja sihteeri allekirjoittavat pöytäkirjan myös sähköisesti.\n\nVanhusneuvosto päätti 30.3.2023 kokouksessaan, että pöytäkirja lähetetään kaikille kokouksessa läsnä olleille, vanhusneuvoston äänioikeutetuille jäsenille nähtäväksi sähköpostilla ennen kuin puheenjohtaja ja sihteeri allekirjoittavat sen. Mahdolliset muutosesitykset lähetetään kahden päivän sisällä pöytäkirjaluonnoksen saapumisesta sähköpostilla sihteerille. Muutosesitykset kirjataan pöytäkirjaan ja ne käsitellään ja/tai korjataan seuraavassa kokouksessa."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Tämän kokouksen pöytäkirja tarkastetaan edellä esitetyn menettelyn mukaisesti."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Vanhusneuvosto hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "3",
+   "title": "Kokouksen työjärjestyksen hyväksyminen",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026167-3",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026167-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Vanhusneuvosto päättää hyväksyä tämän kokouksen työjärjestyksen.",
+   "decision": "Päätösehdotus hyväksyttiin sillä muutoksella, että muissa asioissa käsitellään maaliskuun kokouksen päivämäärämuutos.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Vanhusneuvosto päättää hyväksyä tämän kokouksen työjärjestyksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin sillä muutoksella, että muissa asioissa käsitellään maaliskuun kokouksen päivämäärämuutos."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "4",
+   "title": "Info ikäihmisten palvelujen kokonaisuudesta",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026167-4",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026167-4.PDF",
+   "diary_number": "344/00.01.02.00/2026",
+   "preparer": "asiantuntija Riikka Iso-Pietilä",
+   "presenter": null,
+   "proposal": "Vanhusneuvosto merkitsee asian tiedoksi.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "asiantuntija Riikka Iso-Pietilä"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Ikäihmisten palvelujen vs. toimialajohtaja Jorma Haapanen esittelee ikäihmisten palvelujen kokonaisuutta ja keskeisiä kehittämiskohteita sekä taloudellista tilannetta vuodelle 2026."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Vanhusneuvosto merkitsee asian tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "5",
+   "title": "Vastaus valtuustoaloitteeseen koskien ikäihmisten neuvolatoiminnan kehittämistä ja sen käyttöönottoa seuraavalla valtuustokaudella Kanta-Hämeen hyvinvointialueella",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026167-5",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026167-5.PDF",
+   "diary_number": "734/00.01.03.00/2025",
+   "preparer": "hallintojohtaja Katja Tommiska",
+   "presenter": null,
+   "proposal": "Vanhusneuvosto\n\n1. käy lähetekeskustelun, jonka perusteella puheenjohtajisto valmistelee lausunnon koskien valtuustoaloitetta ikäihmisten neuvolatoiminnan kehittä-misestä ja sen käyttöönotosta Kanta-Hämeen hyvinvointialueella.\n\n2. lähettää sen edelleen elämänkaari- ja terveyden ja toimintakyvyn edis-tämisen lautakunnille tiedoksi ja käsiteltäväksi.\n\nMuutettu päätösehdotus\n\nVanhusneuvosto\n\n1. Puheenjohtajisto muokkaa käydyn keskustelun perusteella kokouksessa esitellyn lausuntoluonnoksen, jonka jälkeen lausunto lähetetään sähköpostilla jäsenille kommentoitavaksi määräajassa. Jäsenten kommentoinnin jälkeen puheenjohtajisto lähettää lausunnon eteenpäin.\n\n2. lähettää sen edelleen elämänkaari- ja terveyden ja toimintakyvyn edistämisen lautakunnille tiedoksi ja käsiteltäväksi.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": "Keskustelun aikana Johanna Häggman esitti, että asia palautetaan uudelleen valmisteltavaksi.\n\nPuheenjohtaja totesi aluevaltuuston kannattavan yksimielisesti Johanna Häggmanin esitystä asian palauttamisesta uudelleen valmisteltavaksi.",
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluevaltuusto 27.05.2025 § 43"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Valtuuston kokouksessa 27.5.2025 on jätetty valtuustoaloite ikäihmisten neuvolatoiminnan kehittämisestä ja sen käyttöönotosta seuraavalla valtuustokaudella Kanta-Hämeen hyvinvointialueella.\n\nAloitteen on jättänyt keskustan valtuustoryhmä ja sen ovat allekirjoittaneet Seppo Kuparinen, Johanna Häggman, Eero Pura, Heini Ristavaara, Hannele Saari, Merja Taponen, Kristiina Ruuskanen, Leena Suojala ja Anne Eve.\n\nValtuustoaloite:\n\n”Oma Hämeen hyvinvointialueen palvelujen kehittäminen on hyväksytty strategian suuntaisesti seuraavasti: järjestetään vaikuttavat palvelut, autetaan sopivalle polulle ja osataan ennakoida toisiimme luottaen. Kanta Hämeen ikäihmisten määrä ja siihen liittyvä hoidon tarve sekä hoitoon käytettävä euromäärä tulee merkittävästi kasvamaan tulevaisuudessa. Näihin haasteisiin pystymme tehokkaimmin vaikuttamaan ennaltaehkäisevillä toimilla.\n\nNäihin tuleviin haasteisiin vastataan parhaiten strategiamme mukaisesti ennakoimalla. Ennalta ehkäisevällä ikäihmisten neuvolatoiminnalla tullaan säästämään kustannuksia, tullaan vähentämään ruuhkia erikoissairaanhoidossa sekä vähennetään potilaiden inhimillistä kärsimystä. Ennalta ehkäisevä toiminta, sairauden aikainen havaitseminen ja hoidon aloittaminen ajoissa, alentaa tunnetusti hoitoaikoja, vähentää ruuhkia muissa hoitopisteissä sekä säästää siten myös kustannuksia. Terveyden ja toimintakyvyn edistämisen lautakunta on myös ottanut kantaa ikäihmisten neuvolatoiminnan tärkeyteen lausunnossaan alueelliseen ikäihmisten hyvinvointisuunnitelmaan Kanta- Hämeen hyvinvointialueella.\n\nValtuustoaloitteenamme esitämme, että ikäihmisten neuvolatoiminnan suunnittelu ja toteutus tehdään seuraavan nyt alkavan uuden valtuustokauden aikana 2025-2028.\n\nRiihimäellä 27.5.2025\n\nKeskustan Valtuustoryhmä”"
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Aluevaltuusto päättää merkitä tiedoksi kokouksessa jätetyn valtuustoaloitteen ja lähettää sen aluehallitukselle valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nAluehallitus 09.06.2025 § 212"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluevaltuuston kokouksessa 27.5.2025 on jätetty valtuustoaloite koskien ikäihmisten neuvolatoiminnan kehittämistä ja sen käyttöönottoa seuraavalla valtuustokaudella Kanta-Hämeen hyvinvointialueella.\n\n(JS)"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus päättää merkitä valtuustoaloitteen tiedoksi ja lähettää sen ikäihmisten palvelujen toimialalle valmisteltavaksi. Lautakuntakäsittelyä varten talous- ja henkilöstöpalvelut antavat arvionsa valtuustoaloitteen talous- ja henkilöstövaikutuksista."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nElämänkaarilautakunta 26.11.2025 § 64\n\n734/00.01.03.00/2025"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "asiakasohjauksen tulosaluejohtaja Annukka Kuismin\n\n\n\nkuntoutuksen tulosaluejohtaja Virpi Kröger\n\n\n\ntulosalueylihoitaja Auli Anttila\n\n\n\nkumppanuuspäällikkö Päivi Niiranen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Valtuuston kokouksessa 27.5.2025 Keskustan Valtuustoryhmä jätti valtuustoaloitteen ikäihmisten neuvolatoiminnan kehittämisestä ja sen käyttöönotosta seuraavalla valtuustokaudella Kanta-Hämeen hyvin-vointialueella. Aloitteen ovat allekirjoittaneet Seppo Kuparinen, Johanna Häggman, Eero Pura, Heini Ristavaara, Hannele Saari, Merja Taponen, Kristiina Ruuskanen, Leena Suojala ja Anne Eve.\n\nValtuustoaloitteessa todetaan:\n\n”Oma Hämeen hyvinvointialueen palvelujen kehittäminen on hyväksytty strategian suuntaisesti seuraavasti: järjestetään vaikuttavat palvelut, autetaan sopivalle polulle ja osataan ennakoida toisiimme luottaen. Kanta Hämeen ikäihmisten määrä ja siihen liittyvä hoidon tarve sekä hoitoon käytettävä euromäärä tulee merkittävästi kasvamaan tulevaisuudessa. Näihin haasteisiin pystymme tehokkaimmin vaikuttamaan ennaltaehkäisevillä toimilla.\n\nNäihin tuleviin haasteisiin vastataan parhaiten strategiamme mukaisesti ennakoimalla. Ennalta ehkäisevällä ikäihmisten neuvolatoiminnalla tullaan säästämään kustannuksia, tullaan vähentämään ruuhkia erikoissairaanhoidossa sekä vähennetään potilaiden inhimillistä kärsimystä. Ennalta ehkäisevä toiminta, sairauden aikainen havaitseminen ja hoidon aloittaminen ajoissa, alentaa tunnetusti hoitoaikoja, vähentää ruuhkia muissa hoitopisteissä sekä säästää siten myös kustannuksia. Terveyden ja toimintakyvyn edistämisen lautakunta on myös ottanut kantaa ikäihmisten neuvolatoiminnan tärkeyteen lausunnossaan alueelliseen ikäihmisten hyvinvointisuunnitelmaan Kanta- Hämeen hyvinvointialueella.\n\nValtuustoaloitteenamme esitämme, että ikäihmisten neuvolatoiminnan suunnittelu ja toteutus tehdään seuraavan nyt alkavan uuden valtuus-tokauden aikana 2025 - 2028.”\n\nAluehallitus käsitteli kokouksessaan 9.6.2025 § 212 em. valtuustoaloitetta ja päätti merkitä valtuustoaloitteen tiedoksi ja lähettää sen ikäihmisten palvelujen toimialalle valmisteltavaksi. Edelleen aluehallitus päätti, että lautakuntakäsittelyä varten talous- ja henkilöstöpalvelut antavat arvionsa valtuustoaloitteen talous- ja henkilöstövaikutuksista.\n\nVastine valtuutettujen jättämään valtuustoaloitteeseen ikäihmisten neuvolapalvelujen kehittämiseksi ja käyttöönottamiseksi seuraavalla valtuustokaudella\n\nValtuustoaloitetta on valmisteltu ikäihmisten palveluiden vs. toimialajohtajan ohjeen mukaisesti pohjautuen vuonna 2023 käsiteltyyn (aluevaltuusto 5.9.2023, § 79) vastaavaa palvelutoimintaa koskevan valtuustoaloitteen valmisteluun.\n\nLaissa ikääntyneen väestön toimintakyvyn tukemisesta sekä iäkkäiden sosiaali- ja terveyspalveluista (980/2012) 12 §:ssä säädetään Hyvinvointia edistävistä palveluista seuraavasti:\n\n”Hyvinvointialueen on järjestettävä ikääntyneen väestön hyvinvointia, terveyttä, toimintakykyä ja itsenäistä suoriutumista tukevia neuvontapalveluja.\n\nLisäksi hyvinvointialueen on tarjottava hyvinvointia, terveyttä, toimintakykyä ja itsenäistä suoriutumista tukevia terveystarkastuksia, vastaanottoja tai kotikäyntejä erityisesti niille ikääntyneeseen väestöön kuuluville, joiden elinoloihin tai elämäntilanteeseen arvioidaan tutkimustiedon tai yleisen elämänkokemuksen perusteella liittyvän palveluntarvetta lisääviä riskitekijöitä.\n\nEdellä 1 ja 2 momentissa tarkoitettuihin palveluihin on sisällytettävä:\n\n1) hyvinvoinnin, terveellisten elintapojen ja toimintakyvyn edistämiseen sekä sairauksien, tapaturmien ja onnettomuuksien ehkäisyyn tähtäävä ohjaus;\n\n2) ikääntyneen väestön terveyden ja toimintakyvyn heikkenemisestä aiheutuvien sosiaalisten ja terveydellisten ongelmien tunnistaminen ja niihin liittyvä varhainen tuki;\n\n3) sosiaalihuoltoa ja muuta sosiaaliturvaa koskeva ohjaus;\n\n4) sairaanhoitoa, monialaista kuntoutusta ja turvallista lääkehoitoa koskeva ohjaus; sekä\n\n5) ohjaus kunnassa ja hyvinvointialueella tarjolla olevien hyvinvointia, terveyttä, toimintakykyä ja itsenäistä suoriutumista edistävien palvelujen käyttöön.\n\nEdellä 1 momentissa tarkoitetussa neuvonnassa on kannustettava ikääntynyttä väestöä oman asumisensa ennakointiin ja itsenäistä asumista tukevien ratkaisujen toteuttamiseen.\n\nEdellä 1 ja 2 momentissa tarkoitetut palvelut voidaan järjestää ja tarjota ikääntyneen väestön neuvolatoimintana.”\n\nVuonna 2023 selvitettiin, että ikäihmisille kohdennettua neuvolatoimintaa oli monella hyvinvointialueella, mm. Pohjois-Karjalan, Pohjanmaan, Keski-Pohjanmaan ja Etelä-Savon hyvinvointialueilla. Sitä kehitettiin ja tutkittiin myös muutoin; esimerkiksi Turussa oli tuolloin pyydetty terveystarkastukseen 75-vuotiaat asukkaat, jotka eivät olleet julkisten palvelujen piirissä. Varsinais-Suomen hyvinvointialue on sittemmin ottanut käyttöönsä ikäneuvolapalvelut, jotka on kohdennettu kotona asuville 75 vuotta täyttäneille henkilöille, jotka eivät ole säännöllisen kotihoidon eivätkä omaishoidon piirissä.\n\nKanta-Hämeen hyvinvointialueella terveysasemat tarjoavat ikäihmisille samoja palveluja kuin muillekin väestöryhmille. Nykyisistä palveluista omaishoitajien terveystarkastukset suuntautuvat käytännössä pää-sääntöisesti ikäihmisiin. Vuonna 2023 valmistelusta todettiin, että mikäli halutaan toteuttaa ikääntyneisiin kohdennettuja tarkastuksia, tulee arvioida tarvittavien palveluiden määrää ja tarvittavaa resurssia. Vuoden 2023 valtuustoaloitteen valmistelussa terveyspalveluista todettiin, ettei nykyisillä resursseilla terveystarkastuksia voitu toteuttaa uusille asiakasryhmille.\n\nAloitetta koskien palvelutarvetta ja käytettävissä olevia henkilöstöresursseja on tarkastettu uudelleen syksyllä 2025, mutta tilanne on edelleen vuoden 2023 mukainen. Vaikka yksi ammattihenkilö tekisi viisi tarkastusta päivässä, huomioiden työpäivien lukumäärän 240 pv/tt/ v, tarvittaisiin 75–80-vuotiaiden asukkaiden tarkastamiseen vähintään 10 hoitajan työpanos.\n\nVuoden 2023 valtuustoaloitteen valmistelukeskustelussa nähtiin tärkeänä kolminapainen yhteistyö hyvinvointialueella aloitetta koskevan toiminnan näkökulmasta: avoterveydenhuollon palvelut, ikäihmisten asiakasohjaus ja kuntoutus. Yhteisesti oltiin sitä mieltä, että ikääntyneet ovat hyvin heterogeeninen ryhmä ja tämän vuoksi kohdentamattomat ikäryhmäkohtaiset tarkastukset eivät välttämättä ole tuloksekkainta ennaltaehkäisyä. Tärkeänä pidettiin sen pohdintaa, minkä tason preventioon pyritään. Esimerkiksi kuntoutuksen näkökulmana on toimintakyvyn näkökulma, ja tutkimusten perusteella on selvää, että toimintakyvyn ongelmat alkavat lisääntyä 75-ikävuoden jälkeen.\n\nLähde: Pitkälä K & Strandberg T, 2018, Sairauksien ehkäisy kannattaa vielä vanhanakin, Duodecim, Vuosikerta. 134, Nro 11, Sivut 1141-1148. https://helda.helsinki.fi/bitstream/handle/10138/237452/duo14362.pdf?sequence=1\n\nKoska ikääntyneen toimintakykyä uhkaavat \"geriatrian jättiläiset\": hauraus-raihnausoireyhtymä eli gerastenia, muistisairaudet, kaatumiset, osteoporoottiset murtumat, krooninen kipu ja inkontinenssi, olisi tärkeä tunnistaa nämä asiakkaat koko palveluketjussa. Tunnistamista tulee yhdenmukaistaa ja ottaa käyttöön yksinkertaisia tunnistamisen työkaluja sekä miettiä mitä ovat ne kohtaamiset, joissa ammattilaisten tulee erityisesti muistaa tunnistamisen tärkeys ja huomata arjessa pärjäämättömyyden ennusmerkit. Henkilöstön toimintakykyosaamista tulee lisätä ja sitä tulee tulevaisuudessa ylläpitää säännöllisellä koulutuksella.\n\nVuoden 2023 valmistelussa nähtiin tärkeänä se, että hyvinvointialueen asukkailla tulisi olla mahdollisuus sähköiseen terveystarkastukseen ja sähköiseen toimintakyvyn itsearviointiin, joka voisi tuottaa ammattilaisille tietoa asiakkaan omasta kokemuksesta toimintakyvystä. Tärkeää olisi myös taata niille asiakkaille mahdollisuus toimintakyvyn itsearviointiin, jotka eivät sähköisiä välineitä käytä. Yksilön toimintakyky on kokonaisvaltainen dynaaminen tila, joka koostuu terveydentilan sekä yksilön ja ympäristötekijöiden yhteisvaikutuksesta.\n\nLisäksi vuoden 2023 valtuustoaloitteen valmistelukeskusteluista viestittiin sen pohdinnan tärkeyttä, mitä hyvinvointialue tarjoaa, mikäli asiakkaalla todetaan terveystarkastuksessa jokin ongelma. Esimerkiksi hauraus-raihnausoireyhtymään voidaan vaikuttaa liikuntaharjoittelulla ja ravitsemusta tehostamalla. Tätä kautta voidaan myös ennaltaehkäistä kaatumisia. Kipuun, mielialaan ja inkontinenssiin voidaan myös vaikuttaa liikuntaharjoittelulla.\n\nYksittäinen terveystarkastus ei siis riitä, kun kyseessä on alkava tai edennyt gerastenia. Varhaisen ohjautumisen kuntoutukseen ja liikun-taan tulee toimia ja hyvinvointialueella tulee olla paitsi terveydenhoitajia myös muistihoitajia ja fysioterapeutteja vastaamaan tarkastuksista nouseviin tarpeisiin.\n\nLähde: Pitkälä K & Strandberg T, 2018, Sairauksien ehkäisy kannattaa vielä vanhanakin, Duodecim, Vuosikerta. 134, Nro 11, Sivut 1141-1148 . https://helda.helsinki.fi/bitstream/handle/10138/237452/duo14362.pdf?sequence=1\n\nVuoden 2023 valtuusaloitteen valmistelun aikana pyydettiin kannanotto vanhusneuvostolta ikäihmisten neuvolapalveluiden järjestämiseen. Vanhusneuvosto totesi 12.5.2023 puoltavansa tuolloin tehtyä valtuustoaloitetta ikäihmisten neuvolatoiminnan perustamiseksi ikäihmisten ennalta-ehkäisevänä sosiaali- ja terveydenhuollon palveluna koko Kanta-Hämeen alueella ja suositti sen toteuttamista.\n\nVastauksena vuoden 2023 valtuustoaloitteeseen monialainen valmisteluryhmä totesi, että huomiota tulee kiinnittää seuraaviin seikkoihin:\n\n- kohdentamattomista terveystarkastuksista ei ole näyttöä isommissa tutkimuksissa\n\n- haasteena on, että hyväkuntoiset ja itseään hyvin hoitavat hakeu-tuvat palvelun piiriin, mutta oikeasti sitä tarvitsevat eivät välttämättä aktiivisesti hakeudu palveluihin. Tässä korostuu tunnistaminen erilaisissa kohtaamisissa\n\n- ikäneuvolatarkastuksiin valittava ikäryhmä ja asiakkaiden tunnistaminen kannattaa miettiä siten, että resurssin kohdentaminen on mahdollisimman vaikuttavaa\n\n- avuksi sähköiset terveystarkastukset, kuntoutuksen ja sosiaalipalveluiden käyttämät mittarit, herätteenä myös palvelujen käyttö jne.\n\n- HVA:lla tarvittaisiin työkaluja, joilla asiakaskunnasta poimitaan hoidosta hyötyvät (esimerkkinä terveyshyötyarviotyökalu), jolloin hoito voidaan kohdentaa siitä eniten hyötyviin\n\n- neuvolatoiminnan lisäksi tulee miettiä ja rakentaa palvelupolut, joille asiakkaat tarkastuksilta huomioiden perusteella ohjataan.\n\nEdelleen todettiin, ettei ikäihmisten neuvolatoiminnan ei tarvitse olla pelkästään terveystarkastuksia, se voi olla myöskin monen erilaisen toimijan muodostama verkosto, jossa on erilaisia käytäntöjä, joilla pyritään tunnistamaan ikääntyneiden tilanteita ja kohdistamaan niihin sopivia interventioita, ohjausta ja neuvontaa sekä palveluita ennaltaehkäisevässä mielessä ikäihmisten hyvinvoinnin, terveyden ja kotona asumisen arjen tukemiseen.\n\nEdelleen todettiin, että ikäihmisten neuvolatoiminnan valmistelua on tarkoituksenmukaista jatkaa osana hyvinvointialueen talouden tasapainottamisohjelman toimeenpanoa. Varsinaiset päätökset asiasta tehdään valmistelun perusteella. Mikäli päätökset edellyttävät talousarviomäärä-rahaa, käsitellään asia osana normaalia vuotuista talousarvioprosessia.\n\nEm. valmistelu vuoden 2023 valtuustoaloitteeseen hyväksyttiin aluevaltuustossa ja asian käsittely päättyi. Sittemmin hyvinvointialueen talouden tasapainottamisohjelmassa eikä talousarvioissa 2024 - 2025 ole ollut esillä toiminnallisista ja taloudellisista syistä ikäneuvolatoiminnan perustamiseen liittyviä esityksiä tai määrärahoja.\n\nKanta-Hämeen hyvinvointialueella on jatkettu ikäihmisten ennaltaehkäisevien palveluiden osalta verkostomaista yhteistyötä ikääntyneiden tilanteiden tunnistamiseksi ja olemassa oleviin interventioihin ohjaamiseen niin perusterveydenhuollon avopalveluiden, kuntoutuksen ja ikäihmisten asiakasohjauksen osalta. Organisaatiossa ovat lisäksi lähteneet kehittymään asiakkaita varten erilaiset digitaaliset palvelut ja asiointimahdollisuudet, ohjauksen ja neuvonnan ensilinjat ja myöskin hyvinvointialueen moniammatillisen henkilöstön osaamista ja työkaluja on kehitetty mm. laajalla hyvinvoinnin ja terveyden edistämisen materiaalipaketin koostamisella intraan.\n\nKuntoutuspalveluissa on käytössä iäkkäiden ennalta ehkäisevän kuntoutuksen malli, jossa tunnistetaan varhaisia toimintakyvyn heikkenemisen merkkejä henkilöillä, joilla ei ole kotihoidon palveluita. Heidät ohjataan fysioterapeutin arvioon. Toimintamallissa iäkkään tilanteesta riippuen asiakas ohjataan liikuntatoimen tai kuntoutuspalveluiden voimatasapaino -ryhmään ja kartoitetaan mm. apuvälineiden tarpeita. Toimintamallin varhaiset tulokset näyttävät siltä, että toiminta on vaikuttavaa ja parantaa iäkkäiden toimintakykyä.\n\nHyvinvoinnin ja terveyden edistämisen vahvistamiseksi hyvinvointialueella on RRP2 -hankkeen avulla kehitetty Hyte-palveluohjauksen toimintamallia ja siihen liittyviä työkaluja, kuten esimerkiksi Hyvinvointisi tueksi -sivusto. Sivustolle on koottu kantahämäläisille tarkoitettuja hyvinvointia edistäviä palveluja ja toimintaa, joita järjestävät kunnat, järjestöt, seurakunnat ja hyvinvointialue.\n\nKanta-Hämeen hyvinvointialue tarjoaa asukkailleen, myös ikääntyneille, elintapaohjausta, joka sisältää ohjausta hyvinvoinnin, terveellisten elintapojen ja toimintakyvyn edistämiseen sekä sairauksien, tapaturmien ja onnettomuuksien ehkäisyyn.\n\nEnnaltaehkäisevää ja varhaista tukea edistävää tukea viedään parhaillaan eteenpäin edelleen kahden STM:n rahoittaman hankkeen kautta. Muisti-jälki - aivoterveyttä elämän varrelle hankkeessa kehitetään näyttöön perustuvaa FINGER-toimintaa alueella toimivaksi muistisairauksien ennalta-ehkäisyn toimintamalliksi. Hankkeen toimenpiteinä on esimerkiksi tiedottaminen, elintapaohjausryhmät ja riskitestit suuremmalle joukolle. Kohderyhmä on rajattu ikääntyneisiin ihmisiin. Ikä iloiten - selvästi eteenpäin -hankkeen tarkoituksena on kantahämäläisten ikääntyneiden (eläköityvät ja yli 65-vuotiaat) hyvinvoinnin ja terveyden edistäminen erityisesti ryhmissä, joita ei tavoiteta nykyisillä palveluilla. Hankkeessa lisätään eri toimijoiden yhteistyötä, luodaan varhaisen puuttumisen toimintamalli ja kehitetään ikääntyneiden elämän taitekohtiin ryhmäohjausta ja matalan kynnyksen kohtaamispaikkoja.\n\nToimialoilla nähdään edelleen toimivana ja taloudellisena ratkaisuna jatkaa verkostomaisen työn kehittämistä ja työkalujen tuottamista niin väestön ja ikääntyneiden kuin eri puolilla hyvinvointialuetta työskentelevien, ikääntyneitä kohtaavien ammattilaistan käyttöön.\n\nYhteenveto: Hyvinvointialueella ei ole taloudellisia mahdollisuuksia perustaa laaja-alaista ikäihmisten neuvolatoimintaa. Kohdentamattoman neuvolatoiminnan hyödyistä ei ole näyttöä. Hyvinvointialueella toimialojen ja tulosalueiden yhteistyönä panostetaan ikääntyneiden toimintakyvyn alenemisen riskien tunnistamiseen ja niihin puuttumiseen.\n\nTodetaan, että vanhusneuvosto käsittelee vastineen valtuustoaloitteeseen kokouksessaan 27.11.2025 ja toimittaa sen jälkeen lausuntonsa aluehallituksen käyttöön.\n\nToimivallan peruste Kanta-Hämeen hyvinvointialueen hallintosääntö 13.4 § kohta 4\n\nVs. toimialajohtajan/\n\nikäihmisten palvelut"
+    },
+    {
+     "heading": "päätösesitys",
+     "text": "Elämänkaarilautakunta\n\n1 .päättää hyväksyä omalta osaltaan valtuustoaloitteeseen annetun vas-tauksen ja esittää sen aluehallitukselle ja edelleen aluevaltuustolle hy-väksyttäväksi.\n\n2. toteaa omalta osaltaan valtuustoaloitteen käsittelyn päättyneeksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Elämänkaarilautakunta päätti hyväksyä päätösesityksen.\n\nTulosaluejohtaja Annukka Kuismin oli kokouksessa paikalla asiantuntijana tämän asian käsittelyn aikana ja hän poistui kokouksesta ennen päätöksentekoa."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Päätösesitys / aluehallitus"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nTerveyden ja toimintakyvyn edistämisen lautakunta 26.11.2025 § 77"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "asiakasohjauksen tulosaluejohtaja Annukka Kuismin, kuntoutuksen tulosaluejohtaja Virpi Kröger, tulosalueylihoitaja Auli Anttila, kumppanuuspäällikkö Päivi Niiranen"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Aluevaltuuston kokouksessa 27.5.2025 § 43 on jätetty valtuustoaloite koskien palvelusetelien käyttöönottoa suun terveydenhuollossa.\n\nAluehallitus käsitteli kokouksessaan 9.6.2025 § 212 em. valtuustoaloitetta ja päätti merkitä valtuustoaloitteen tiedoksi ja lähettää sen ikäihmisten palvelujen toimialalle valmisteltavaksi. Edelleen aluehallitus päätti, että lautakuntakäsittelyä varten talous- ja henkilöstöpalvelut antavat arvionsa valtuustoaloitteen talous- ja henkilöstövaikutuksista.\n\nVastaus valtuustoaloitteeseen:\n\nValtuustoaloitetta on valmisteltu ikäihmisten palveluiden vs. toimialajohtajan ohjeen mukaisesti pohjautuen vuonna 2023 käsiteltyyn (aluevaltuusto 5.9.2023, § 79) vastaavaa palvelutoimintaa koskevan valtuustoaloitteen valmisteluun.\n\nLaissa ikääntyneen väestön toimintakyvyn tukemisesta sekä iäkkäiden sosiaali- ja terveyspalveluista (980/2012) 12 §:ssä säädetään Hyvinvointia edistävistä palveluista seuraavasti:\n\n”Hyvinvointialueen on järjestettävä ikääntyneen väestön hyvinvointia, terveyttä, toimintakykyä ja itsenäistä suoriutumista tukevia neuvontapalveluja.\n\nLisäksi hyvinvointialueen on tarjottava hyvinvointia, terveyttä, toimintakykyä ja itsenäistä suoriutumista tukevia terveystarkastuksia, vastaanottoja tai kotikäyntejä erityisesti niille ikääntyneeseen väestöön kuuluville, joiden elinoloihin tai elämäntilanteeseen arvioidaan tutkimustiedon tai yleisen elämänkokemuksen perusteella liittyvän palveluntarvetta lisääviä riskitekijöitä.\n\nEdellä 1 ja 2 momentissa tarkoitettuihin palveluihin on sisällytettävä:\n\n1) hyvinvoinnin, terveellisten elintapojen ja toimintakyvyn edistämiseen sekä sairauksien, tapaturmien ja onnettomuuksien ehkäisyyn tähtäävä ohjaus;\n\n2) ikääntyneen väestön terveyden ja toimintakyvyn heikkenemisestä aiheutuvien sosiaalisten ja terveydellisten ongelmien tunnistaminen ja niihin liittyvä varhainen tuki;\n\n3) sosiaalihuoltoa ja muuta sosiaaliturvaa koskeva ohjaus;\n\n4) sairaanhoitoa, monialaista kuntoutusta ja turvallista lääkehoitoa koskeva ohjaus; sekä\n\n5) ohjaus kunnassa ja hyvinvointialueella tarjolla olevien hyvinvointia, terveyttä, toimintakykyä ja itsenäistä suoriutumista edistävien palvelujen käyttöön.\n\nEdellä 1 momentissa tarkoitetussa neuvonnassa on kannustettava ikääntynyttä väestöä oman asumisensa ennakointiin ja itsenäistä asumista tukevien ratkaisujen toteuttamiseen.\n\nEdellä 1 ja 2 momentissa tarkoitetut palvelut voidaan järjestää ja tarjota ikääntyneen väestön neuvolatoimintana.”\n\nVuonna 2023 selvitettiin, että ikäihmisille kohdennettua neuvolatoimintaa oli monella hyvinvointialueella, mm. Pohjois-Karjalan, Pohjanmaan, Keski-Pohjanmaan ja Etelä-Savon hyvinvointialueilla. Sitä kehitettiin ja tutkittiin myös muutoin; esimerkiksi Turussa oli tuolloin pyydetty terveystarkastukseen 75-vuotiaat asukkaat, jotka eivät olleet julkisten palvelujen piirissä. Varsinais-Suomen hyvinvointialue on sittemmin ottanut käyttöönsä ikäneuvolapalvelut, jotka on kohdennettu kotona asuville 75 vuotta täyttäneille henkilöille, jotka eivät ole säännöllisen kotihoidon eivätkä omaishoidon piirissä.\n\nKanta-Hämeen hyvinvointialueella terveysasemat tarjoavat ikäihmisille samoja palveluja kuin muillekin väestöryhmille. Nykyisistä palveluista omaishoitajien terveystarkastukset suuntautuvat käytännössä pääsääntöisesti ikäihmisiin. Vuonna 2023 valmistelusta todettiin, että mikäli halutaan toteuttaa ikääntyneisiin kohdennettuja tarkastuksia, tulee arvioida tarvittavien palveluiden määrää ja tarvittavaa resurssia. Vuoden 2023 valtuustoaloitteen valmistelussa terveyspalveluista todettiin, ettei nykyisillä resursseilla terveystarkastuksia voitu toteuttaa uusille asiakasryhmille.\n\nAloitetta koskien palvelutarvetta ja käytettävissä olevia henkilöstöresursseja on tarkastettu uudelleen syksyllä 2025, mutta tilanne on edelleen vuoden 2023 mukainen. Vaikka yksi ammattihenkilö tekisi viisi tarkastusta päivässä, huomioiden työpäivien lukumäärän 240 pv/tt/v, tarvittaisiin 75–80-vuotiaiden asukkaiden tarkastamiseen vähintään 10 hoitajan työpanos.\n\nVuoden 2023 valtuustoaloitteen valmistelukeskustelussa nähtiin tärkeänä kolminapainen yhteistyö hyvinvointialueella aloitetta koskevan toiminnan näkökulmasta: avoterveydenhuollon palvelut, ikäihmisten asiakasohjaus ja kuntoutus. Yhteisesti oltiin sitä mieltä, että ikääntyneet ovat hyvin heterogeeninen ryhmä ja tämän vuoksi kohdentamattomat ikäryhmäkohtaiset tarkastukset eivät välttämättä ole tuloksekkainta ennaltaehkäisyä. Tärkeänä pidettiin sen pohdintaa, minkä tason preventioon pyritään. Esimerkiksi kuntoutuksen näkökulmana on toimintakyvyn näkökulma, ja tutkimusten perusteella on selvää, että toimintakyvyn ongelmat alkavat lisääntyä 75-ikävuoden jälkeen.\n\nLähde: Pitkälä K & Strandberg T, 2018, Sairauksien ehkäisy kannattaa vielä vanhanakin, Duodecim, Vuosikerta. 134, Nro 11, Sivut 1141–1148. https://helda.helsinki.fi/bitstream/handle/10138/237452/duo14362.pdf?sequence=1\n\nKoska ikääntyneen toimintakykyä uhkaavat \"geriatrian jättiläiset\": hauraus-raihnausoireyhtymä eli gerastenia, muistisairaudet, kaatumiset, osteoporoottiset murtumat, krooninen kipu ja inkontinenssi, olisi tärkeä tunnistaa nämä asiakkaat koko palveluketjussa. Tunnistamista tulee yhdenmukaistaa ja ottaa käyttöön yksinkertaisia tunnistamisen työkaluja sekä miettiä mitä ovat ne kohtaamiset, joissa ammattilaisten tulee erityisesti muistaa tunnistamisen tärkeys ja huomata arjessa pärjäämättömyyden ennusmerkit. Henkilöstön toimintakykyosaamista tulee lisätä ja sitä tulee tulevaisuudessa ylläpitää säännöllisellä koulutuksella.\n\nVuoden 2023 valmistelussa nähtiin tärkeänä se, että hyvinvointialueen asukkailla tulisi olla mahdollisuus sähköiseen terveystarkastukseen ja sähköiseen toimintakyvyn itsearviointiin, joka voisi tuottaa ammattilaisille tietoa asiakkaan omasta kokemuksesta toimintakyvystä. Tärkeää olisi myös taata niille asiakkaille mahdollisuus toimintakyvyn itsearviointiin, jotka eivät sähköisiä välineitä käytä. Yksilön toimintakyky on kokonaisvaltainen dynaaminen tila, joka koostuu terveydentilan sekä yksilön ja ympäristötekijöiden yhteisvaikutuksesta.\n\nLisäksi vuoden 2023 valtuustoaloitteen valmistelukeskusteluista viestittiin sen pohdinnan tärkeyttä, mitä hyvinvointialue tarjoaa, mikäli asiakkaalla todetaan terveystarkastuksessa jokin ongelma. Esimerkiksi hauraus-raihnausoireyhtymään voidaan vaikuttaa liikuntaharjoittelulla ja ravitsemusta tehostamalla. Tätä kautta voidaan myös ennaltaehkäistä kaatumisia. Kipuun, mielialaan ja inkontinenssiin voidaan myös vaikuttaa liikuntaharjoittelulla.\n\nYksittäinen terveystarkastus ei siis riitä, kun kyseessä on alkava tai edennyt gerastenia. Varhaisen ohjautumisen kuntoutukseen ja liikun-taan tulee toimia ja hyvinvointialueella tulee olla paitsi terveydenhoitajia myös muistihoitajia ja fysioterapeutteja vastaamaan tarkastuksista nouseviin tarpeisiin.\n\nLähde: Pitkälä K & Strandberg T, 2018, Sairauksien ehkäisy kannattaa vielä vanhanakin, Duodecim, Vuosikerta. 134, Nro 11, Sivut 1141–1148 . https://helda.helsinki.fi/bitstream/handle/10138/237452/duo14362.pdf?sequence=1\n\nVuoden 2023 valtuusaloitteen valmistelun aikana pyydettiin kannanotto vanhusneuvostolta ikäihmisten neuvolapalveluiden järjestämiseen. Vanhusneuvosto totesi 12.5.2023 puoltavansa tuolloin tehtyä valtuustoaloitetta ikäihmisten neuvolatoiminnan perustamiseksi ikäihmisten ennalta-ehkäisevänä sosiaali- ja terveydenhuollon palveluna koko Kanta-Hämeen alueella ja suositti sen toteuttamista.\n\nVastauksena vuoden 2023 valtuustoaloitteeseen monialainen valmisteluryhmä totesi, että huomiota tulee kiinnittää seuraaviin seikkoihin:\n\n- kohdentamattomista terveystarkastuksista ei ole näyttöä isommissa tutkimuksissa\n\n- haasteena on, että hyväkuntoiset ja itseään hyvin hoitavat hakeutuvat palvelun piiriin, mutta oikeasti sitä tarvitsevat eivät välttämättä aktiivisesti hakeudu palveluihin. Tässä korostuu tunnistaminen erilaisissa kohtaamisissa\n\n- ikäneuvolatarkastuksiin valittava ikäryhmä ja asiakkaiden tunnistaminen kannattaa miettiä siten, että resurssin kohdentaminen on mahdollisimman vaikuttavaa\n\n- avuksi sähköiset terveystarkastukset, kuntoutuksen ja sosiaalipalveluiden käyttämät mittarit, herätteenä myös palvelujen käyttö jne.\n\n- HVA:lla tarvittaisiin työkaluja, joilla asiakaskunnasta poimitaan hoidosta hyötyvät (esimerkkinä terveyshyötyarviotyökalu), jolloin hoito voidaan kohdentaa siitä eniten hyötyviin\n\n- neuvolatoiminnan lisäksi tulee miettiä ja rakentaa palvelupolut, joille asiakkaat tarkastuksilta huomioiden perusteella ohjataan.\n\nEdelleen todettiin, ettei ikäihmisten neuvolatoiminnan ei tarvitse olla pelkästään terveystarkastuksia, se voi olla myöskin monen erilaisen toimijan muodostama verkosto, jossa on erilaisia käytäntöjä, joilla pyritään tunnistamaan ikääntyneiden tilanteita ja kohdistamaan niihin sopivia interventioita, ohjausta ja neuvontaa sekä palveluita ennaltaehkäisevässä mielessä ikäihmisten hyvinvoinnin, terveyden ja kotona asumisen arjen tukemiseen.\n\nEdelleen todettiin, että ikäihmisten neuvolatoiminnan valmistelua on tarkoituksenmukaista jatkaa osana hyvinvointialueen talouden tasapainottamisohjelman toimeenpanoa. Varsinaiset päätökset asiasta tehdään valmistelun perusteella. Mikäli päätökset edellyttävät talousarviomäärärahaa, käsitellään asia osana normaalia vuotuista talousarvioprosessia.\n\nEm. valmistelu vuoden 2023 valtuustoaloitteeseen hyväksyttiin aluevaltuustossa ja asian käsittely päättyi. Sittemmin hyvinvointialueen talouden tasapainottamisohjelmassa eikä talousarvioissa 2024–2025 ole ollut esillä toiminnallisista ja taloudellisista syistä ikäneuvolatoiminnan perustamiseen liittyviä esityksiä tai määrärahoja.\n\nKanta-Hämeen hyvinvointialueella on jatkettu ikäihmisten ennaltaehkäisevien palveluiden osalta verkostomaista yhteistyötä ikääntyneiden tilanteiden tunnistamiseksi ja olemassa oleviin interventioihin ohjaamiseen niin perusterveydenhuollon avopalveluiden, kuntoutuksen ja ikäihmisten asiakasohjauksen osalta. Organisaatiossa ovat lisäksi lähteneet kehittymään asiakkaita varten erilaiset digitaaliset palvelut ja asiointimahdollisuudet, ohjauksen ja neuvonnan ensilinjat ja myöskin hyvinvointialueen moniammatillisen henkilöstön osaamista ja työkaluja on kehitetty mm. laajalla hyvinvoinnin ja terveyden edistämisen materiaalipaketin koostamisella intraan.\n\nKuntoutuspalveluissa on käytössä iäkkäiden ennalta ehkäisevän kuntoutuksen malli, jossa tunnistetaan varhaisia toimintakyvyn heikkenemisen merkkejä henkilöillä, joilla ei ole kotihoidon palveluita. Heidät ohjataan fysioterapeutin arvioon. Toimintamallissa iäkkään tilanteesta riippuen asiakas ohjataan liikuntatoimen tai kuntoutuspalveluiden voimatasapainoryhmään ja kartoitetaan mm. apuvälineiden tarpeita. Toimintamallin varhaiset tulokset näyttävät siltä, että toiminta on vaikuttavaa ja parantaa iäkkäiden toimintakykyä.\n\nHyvinvoinnin ja terveyden edistämisen vahvistamiseksi hyvinvointialueella on RRP2-hankkeen avulla kehitetty Hyte-palveluohjauksen toimintamallia ja siihen liittyviä työkaluja, kuten esimerkiksi Hyvinvointisi tueksi -sivusto. Sivustolle on koottu kantahämäläisille tarkoitettuja hyvinvointia edistäviä palveluja ja toimintaa, joita järjestävät kunnat, järjestöt, seurakunnat ja hyvinvointialue.\n\nKanta-Hämeen hyvinvointialue tarjoaa asukkailleen, myös ikääntyneille, elintapaohjausta, joka sisältää ohjausta hyvinvoinnin, terveellisten elintapojen ja toimintakyvyn edistämiseen sekä sairauksien, tapaturmien ja onnettomuuksien ehkäisyyn.\n\nEnnaltaehkäisevää ja varhaista tukea edistävää tukea viedään parhaillaan eteenpäin edelleen kahden STM:n rahoittaman hankkeen kautta. Muistijälki - aivoterveyttä elämän varrelle hankkeessa kehitetään näyttöön perustuvaa FINGER-toimintaa alueella toimivaksi muistisairauksien ennalta-ehkäisyn toimintamalliksi. Hankkeen toimenpiteinä on esimerkiksi tiedottaminen, elintapaohjausryhmät ja riskitestit suuremmalle joukolle. Kohderyhmä on rajattu ikääntyneisiin ihmisiin. Ikä iloiten - selvästi eteenpäin -hankkeen tarkoituksena on kantahämäläisten ikääntyneiden (eläköityvät ja yli 65-vuotiaat) hyvinvoinnin ja terveyden edistäminen erityisesti ryhmissä, joita ei tavoiteta nykyisillä palveluilla. Hankkeessa lisätään eri toimijoiden yhteistyötä, luodaan varhaisen puuttumisen toimintamalli ja kehitetään ikääntyneiden elämän taitekohtiin ryhmäohjausta ja matalan kynnyksen kohtaamispaikkoja.\n\nToimialoilla nähdään edelleen toimivana ja taloudellisena ratkaisuna jatkaa verkostomaisen työn kehittämistä ja työkalujen tuottamista niin väestön ja ikääntyneiden kuin eri puolilla hyvinvointialuetta työskentelevien, ikääntyneitä kohtaavien ammattilaistan käyttöön.\n\nYhteenveto: Hyvinvointialueella ei ole taloudellisia mahdollisuuksia perustaa laaja-alaista ikäihmisten neuvolatoimintaa. Kohdentamattoman neuvolatoiminnan hyödyistä ei ole näyttöä. Hyvinvointialueella toimialojen ja tulosalueiden yhteistyönä panostetaan ikääntyneiden toimintakyvyn alenemisen riskien tunnistamiseen ja niihin puuttumiseen.\n\nTodetaan, että vanhusneuvosto käsittelee vastineen valtuustoaloitteeseen kokouksessaan 27.11.2025 ja toimittaa sen jälkeen lausuntonsa lautakuntien käyttöön.\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 12.4 § kohta 4\n\nTerveydenhuollon\n\ntoimialajohtajan"
+    },
+    {
+     "heading": "päätösesitys",
+     "text": "Terveyden ja toimintakyvyn edistämisen lautakunta\n\n1. päättää hyväksyä omalta osaltaan valtuustoaloitteeseen annetun vastauksen ja esittää sen aluehallitukselle ja edelleen aluevaltuustolle hyväksyttäväksi.\n\n2. toteaa omalta osaltaan valtuustoaloitteen käsittelyn päättyneeksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Terveyden ja toimintakyvyn edistämisen lautakunta hyväksyi päätösesityksen.\n\nAbouessa Ehab saapui tämän asian käsittelyn aikana ennen päätöksentekoa."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nAluehallitus 08.12.2025 § 442"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "hallintojohtaja Katja Tommiska"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Elämänkaarilautakunta sekä terveyden ja toimintakyvyn edistämisen lautakunta ovat osaltaan antaneet vastaukset valtuustoaloitteeseen koskien ikäihmisten neuvolatoiminnan kehittämistä ja sen käyttöönottoa seuraavalla valtuustokaudella Kanta-Hämeen hyvinvointialueella. Vanhusneuvoston lausunto on liitteenä.\n\n(JH, JL)\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 §"
+    },
+    {
+     "heading": "Hyvinvointialuejohtajan päätösesitys",
+     "text": "Aluehallitus\n\n1. päättää hyväksyä valtuustoaloitteeseen annetun vastauksen omalta osaltaan ja\n\n2. esittää aluevaltuustolle, että se merkitsee valtuustoaloitteeseen saadun vastauksen tiedoksi ja toteaa lisäksi, ettei aloite anna aihetta muihin kuin vastauksessa mainittuihin toimenpiteisiin ja että valtuustoaloite on käsitelty loppuun."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi päätösesityksen."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": ""
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta\n\nAluevaltuusto 16.12.2025 § 125\n\nToimivallan peruste\nKanta-Hämeen hyvinvointialueen hallintosääntö 132 §"
+    },
+    {
+     "heading": "Aluehallituksen päätösesitys",
+     "text": "Aluevaltuusto päättää merkitä valtuustoaloitteeseen saadun vastauksen tiedoksi ja toteaa lisäksi, ettei aloite anna aihetta muihin kuin vastauksessa mainittuihin toimenpiteisiin ja että valtuustoaloite on käsitelty loppuun."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Keskustelun aikana Johanna Häggman esitti, että asia palautetaan uudelleen valmisteltavaksi.\n\nPuheenjohtaja totesi aluevaltuuston kannattavan yksimielisesti Johanna Häggmanin esitystä asian palauttamisesta uudelleen valmisteltavaksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluevaltuusto päätti yksimielisesti palauttaa asian uudelleen valmisteltavaksi."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "jättäjä"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "vanhusneuvoston puheenjohtaja Soila Nordström\n\n1. varapuheenjohtaja Pirjo-Liisa Snellman-Tenhunen\n\n2. varapuheenjohtaja Lea Mäkelä"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Vanhusneuvosto sai hyvinvointialueen vastauksen valtuustoaloitteeseen ja kuuli esittelyn asiasta kokouksessaan 27.11.2025. Vanhusneuvosto päätti tuolloin, että se haluaa vielä tulevissa kokouksissaan jatkaa asian käsittelyä sekä saada lisää tietoa ja perusteluita hyvinvointialueella nyt tehtyihin suunnitelmiin.\n\nAluevaltuusto päätti kokouksessaan 16.12.2025 palauttaa asian uudelleen valmisteltavaksi.\n\nLiitteenä vanhusneuvoston 27.11.2025 kokouksen pykälä 29 sekä vanhusneuvoston kannanotto 1/2026 Ikäihmisten neuvolatoiminta."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Vanhusneuvosto\n\n1. käy lähetekeskustelun, jonka perusteella puheenjohtajisto valmistelee lausunnon koskien valtuustoaloitetta ikäihmisten neuvolatoiminnan kehittä-misestä ja sen käyttöönotosta Kanta-Hämeen hyvinvointialueella.\n\n2. lähettää sen edelleen elämänkaari- ja terveyden ja toimintakyvyn edis-tämisen lautakunnille tiedoksi ja käsiteltäväksi.\n\nMuutettu päätösehdotus\n\nVanhusneuvosto\n\n1. Puheenjohtajisto muokkaa käydyn keskustelun perusteella kokouksessa esitellyn lausuntoluonnoksen, jonka jälkeen lausunto lähetetään sähköpostilla jäsenille kommentoitavaksi määräajassa. Jäsenten kommentoinnin jälkeen puheenjohtajisto lähettää lausunnon eteenpäin.\n\n2. lähettää sen edelleen elämänkaari- ja terveyden ja toimintakyvyn edistämisen lautakunnille tiedoksi ja käsiteltäväksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Asiaote / Elämänkaarilautakunta, Terveyden ja toimintakyvyn edistämisen lautakunta"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Vanhusneuvoston päätös valtuustoaloitteeseen",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026167-5-384362.PDF"
+    },
+    {
+     "title": "Liite 2 Kannanotto 1⁄2026 Ikäihmisten neuvolatoiminta",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026167-5-393420.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "6",
+   "title": "Vanhusneuvoston toimintakertomus vuodelta 2025",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026167-6",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026167-6.PDF",
+   "diary_number": "345/00.01.02.00/2026",
+   "preparer": "asiantuntija Riikka Iso-Pietilä",
+   "presenter": null,
+   "proposal": "Vanhusneuvosto päättää hyväksyä vanhusneuvoston toimintakertomuksen vuodelta 2025.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "asiantuntija Riikka Iso-Pietilä"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Kanta-Hämeen hyvinvointialueen aluehallitus on hyväksynyt 13.3.2023 § 72 vanhusneuvoston toimintasäännön. Sen mukaisesti toimintaa ja toimin-tasuunnitelman toteutumista tulee arvioida säännöllisesti yhteistyössä kun-tien vanhusneuvostojen kanssa. Lisäksi vanhusneuvoston tulee laatia toi-minnastaan vuosittain toimintakertomus, jonka valmistelee puheenjohtajis-to.\n\nVanhusneuvoston hyväksymä toimintakertomus annetaan tiedoksi aluehallitukselle ja lähetetään aluehallituksen käsittelyn jälkeen sähköpostilla tiedoksi kuntien vanhusneuvostojen sihteereille.\n\nVanhusneuvoston puheenjohtajisto on kokoontunut 8.1.2026 ja valmistellut ehdotuksensa toimintakertomukseksi vuodelta 2025.\n\nToimintakertomus vuodelta 2025 on liitteenä."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Vanhusneuvosto päättää hyväksyä vanhusneuvoston toimintakertomuksen vuodelta 2025."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "Asiaote / aluehallitus"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Toimintakertomus 2025",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026167-6-389971.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "7",
+   "title": "Vanhusneuvoston toimintasuunnitelma vuodelle 2026",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026167-7",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026167-7.PDF",
+   "diary_number": "346/00.01.02.00/2026",
+   "preparer": "asiantuntija Riikka Iso-Pietilä",
+   "presenter": null,
+   "proposal": "Vanhusneuvosto päättää hyväksyä vanhusneuvoston toimintasuunnitelman vuodelta 2026.",
+   "decision": "Vanhusneuvosto on käsitellyt toimintasuunnitelman vuodelle 2026 ja hyväksyi sen kokouksessa tehdyillä muutoksilla.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "asiantuntija Riikka Iso-Pietilä"
+    },
+    {
+     "heading": "Selostus",
+     "text": "Kanta-Hämeen hyvinvointialueen aluehallitus on hyväksynyt 13.3.2023 § 72 vanhusneuvoston toimintasäännön.\n\nHyvinvointialueen vanhusneuvoston toimintasuunnitelma laaditaan vuo-sittain. Hyvinvointialueen vanhusneuvoston puheenjohtajisto valmistelee toimintasuunnitelman yhteistyössä hyvinvointialueen viran-\n\n/toimenhaltijan kanssa.\n\nToimintasuunnitelma vuodelle 2026 on liitteenä."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Vanhusneuvosto päättää hyväksyä vanhusneuvoston toimintasuunnitelman vuodelta 2026."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Vanhusneuvosto on käsitellyt toimintasuunnitelman vuodelle 2026 ja hyväksyi sen kokouksessa tehdyillä muutoksilla."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Toimintasuunnitelma 2026",
+     "url": "https://kantahameenhva.oncloudos.com/kokous/2026167-7-392727.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "8",
+   "title": "Kuntien vanhusneuvostojen terveiset ⁄ lyhyesti",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026167-8",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026167-8.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Vanhusneuvosto merkitsee kuntien terveiset ja saadun informaation tiedoksi.\n\nMuutettu päätösehdotus\n\nKuntien vanhusneuvostojen ja HENE:n terveiset jätetään tässä kokouksessa esittelemättä aikataulullisista syistä.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kuntien vanhusneuvostojen ja HENE:n terveiset / informaatio lyhyesti."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Vanhusneuvosto merkitsee kuntien terveiset ja saadun informaation tiedoksi.\n\nMuutettu päätösehdotus\n\nKuntien vanhusneuvostojen ja HENE:n terveiset jätetään tässä kokouksessa esittelemättä aikataulullisista syistä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "9",
+   "title": "Muut asiat",
+   "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026167-9",
+   "pdf_url": "https://kantahameenhva.oncloudos.com/kokous/2026167-9.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Vanhusneuvosto merkitsee muut asiat tiedoksi.\n\nMuutettu päätösesitys\n\nSiirretään kokous seuraavalle päivälle 27.3.2026 klo 14-16, kokouspaikkana Riihimäki.",
+   "decision": "Päätösesitys hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut mahdolliset asiat:\n\nPirjo-Liisa Snellman-Tenhunen esittää maaliskuun kokoukselle 26.3. ajankohdan siirtoa."
+    },
+    {
+     "heading": "Puheenjohtajan päätösesitys",
+     "text": "Vanhusneuvosto merkitsee muut asiat tiedoksi.\n\nMuutettu päätösesitys\n\nSiirretään kokous seuraavalle päivälle 27.3.2026 klo 14-16, kokouspaikkana Riihimäki."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösesitys hyväksyttiin."
+    },
+    {
+     "heading": "Täytäntöönpano",
+     "text": "-"
+    },
+    {
+     "heading": "Muutoksenhaku",
+     "text": "Ei muutoksenhakuoikeutta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Nordström Soila",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Snellman-Tenhunen Pirjo-Liisa",
+   "role": "1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Mäkelä Lea",
+   "role": "2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Hopearuoho Sirpa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Häyrynen Sanni",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Junttila Juhani",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lapisto Ossi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Leppäkorpi Esko",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Mansikkaniemi Jukka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Marttila Eliisa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Puistola Helena",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Suonpää Sinikka",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kykyri Sari",
+   "role": "aluehallituksen edustaja",
+   "group": "other"
+  },
+  {
+   "name": "Kylliäinen Kylli",
+   "role": "aluehallituksen edustaja",
+   "group": "other"
+  },
+  {
+   "name": "Haapanen Jorma",
+   "role": "vs. ikäihmisten palveluiden toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Luoto Vilma",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026167",
+  "fetched_at": "2026-10-14T17:01:44+00:00",
+  "content_hash": "267986201ce3c102",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T17:01:44+00:00"
+ }
+}

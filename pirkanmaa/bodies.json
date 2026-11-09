@@ -1,0 +1,121 @@
+[
+ {
+  "id": "aluehallitus",
+  "name": "Aluehallitus",
+  "type": "board",
+  "url": "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaalilautakunta",
+  "name": "Aluevaalilautakunta",
+  "type": "committee",
+  "url": "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluevaalilautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaltuusto",
+  "name": "Aluevaltuusto",
+  "type": "council",
+  "url": "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto",
+  "language": "fi"
+ },
+ {
+  "id": "asiakkuus-ja-laatujaosto",
+  "name": "Asiakkuus- ja laatujaosto",
+  "type": "section",
+  "url": "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Asiakkuus_ja_laatujaosto",
+  "language": "fi"
+ },
+ {
+  "id": "hyvinvointi-ja-kokonaisturvallisuusvaliokunta",
+  "name": "Hyvinvointi- ja kokonaisturvallisuusvaliokunta",
+  "type": "committee",
+  "url": "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Hyvinvointi_ja_kokonaisturvallisuusvaliokunta",
+  "language": "fi"
+ },
+ {
+  "id": "ikaantyneiden-ja-vammaisten-henkiloiden-valiokunta",
+  "name": "Ikääntyneiden ja vammaisten henkilöiden valiokunta",
+  "type": "committee",
+  "url": "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Ikaumlaumlntyneiden_ja_vammaisten_henkiloumliden_valiokunta",
+  "language": "fi"
+ },
+ {
+  "id": "konserni-ja-toimitilajaosto",
+  "name": "Konserni- ja toimitilajaosto",
+  "type": "section",
+  "url": "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Konserni_ja_toimitilajaosto",
+  "language": "fi"
+ },
+ {
+  "id": "lasten-nuorten-perheiden-ja-tyoikaisten-valiokunta",
+  "name": "Lasten, nuorten, perheiden ja työikäisten valiokunta",
+  "type": "committee",
+  "url": "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Lasten_nuorten_perheiden_ja_tyoumlikaumlisten_valiokunta",
+  "language": "fi"
+ },
+ {
+  "id": "monipalveluvaliokunta",
+  "name": "Monipalveluvaliokunta",
+  "type": "committee",
+  "url": "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Monipalveluvaliokunta",
+  "language": "fi"
+ },
+ {
+  "id": "nuorisovaltuusto",
+  "name": "Nuorisovaltuusto",
+  "type": "advisory",
+  "url": "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto",
+  "language": "fi"
+ },
+ {
+  "id": "pirkanmaan-hyvinvointialueen-yhteistyoalueen-tutkimustoimikunta",
+  "name": "Pirkanmaan hyvinvointialueen yhteistyöalueen tutkimustoimikunta",
+  "type": "other",
+  "url": "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Pirkanmaan_hyvinvointialueen_yhteistyoumlalueen_tutkimustoimikunta",
+  "language": "fi"
+ },
+ {
+  "id": "tarkastuslautakunta",
+  "name": "Tarkastuslautakunta",
+  "type": "committee",
+  "url": "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "tulevaisuus-ja-strategiavaliokunta",
+  "name": "Tulevaisuus- ja strategiavaliokunta",
+  "type": "committee",
+  "url": "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuus_ja_strategiavaliokunta",
+  "language": "fi"
+ },
+ {
+  "id": "tulevaisuus-ja-turvallisuusvaliokunta",
+  "name": "Tulevaisuus- ja turvallisuusvaliokunta",
+  "type": "committee",
+  "url": "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuus_ja_turvallisuusvaliokunta",
+  "language": "fi"
+ },
+ {
+  "id": "vammaisneuvosto",
+  "name": "Vammaisneuvosto",
+  "type": "advisory",
+  "url": "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto",
+  "language": "fi"
+ },
+ {
+  "id": "vanhusneuvosto",
+  "name": "Vanhusneuvosto",
+  "type": "advisory",
+  "url": "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto",
+  "language": "fi"
+ },
+ {
+  "id": "vahan-palveluita-kayttavien-valiokunta",
+  "name": "Vähän palveluita käyttävien valiokunta",
+  "type": "committee",
+  "url": "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Vaumlhaumln_palveluita_kaumlyttaumlvien_valiokunta",
+  "language": "fi"
+ }
+]

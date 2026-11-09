@@ -1,0 +1,15 @@
+{
+ "region": "ita-uusimaa",
+ "started_at": "2026-11-09T02:29:35+00:00",
+ "parser_version": "0.1.0",
+ "fetched": 9,
+ "changed": 4,
+ "unchanged": 76,
+ "removed": 0,
+ "errors": [],
+ "complete": true,
+ "result": "ok",
+ "requests": 111,
+ "finished_at": "2026-11-09T02:31:27+00:00",
+ "meetings_total": 85
+}

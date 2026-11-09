@@ -1,0 +1,246 @@
+{
+ "id": "yhteistyotoimikunta/2026-08-25",
+ "region": "etela-savo",
+ "body_id": "yhteistyotoimikunta",
+ "body_name": "Yhteistyötoimikunta",
+ "date": "2026-08-25",
+ "stage": "minutes",
+ "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=4868742DX39A3X49B1XA31BX6986B12CFFBA",
+ "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/4868742DX39A3X49B1XA31BX6986B12CFFBA.PDF",
+ "time": "13:30 - 15:00",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "48",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=4868742DX39A3X49B1XA31BX6986B12CFFBA-1",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/4868742DX39A3X49B1XA31BX6986B12CFFBA-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Todettiin kokous lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouskutsun antaa puheenjohtaja tai hänen estyneenä ollessaan varapuheenjohtaja.\n\nKokouskutsussa on ilmoitettava kokouksen aika ja paikka sekä käsiteltävät asiat. Kokouskutsu lähetetään vähintään neljä päivää ennen kokousta. Kirjallinen kutsu on toimitettu jäsenille sähköpostitse 19.8.2026.\n\nEsityslista, joka sisältää selostuksen käsiteltävistä asioista ja ehdotukset toimielimen päätöksiksi, lähetetään kokouskutsun yhteydessä, jollei erityiset syyt ole esteenä.\n\nKokouskutsu lähetetään jäsenille ja muille, joilla on läsnäolo-oikeus tai -velvollisuus toimielimen päättämällä tavalla.\n\nKokouskutsu, esityslista, liitteet ja oheismateriaali lähetetään ensisijaisesti sähköisesti. Tällöin valmistelutoimielin tai sen nimeämä viranhaltija vastaa siitä, että tähän tarvittavat tekniset laitteet, järjestelmät ja tietoliikenneyhteydet ovat käytettävissä. Salassa pidettäviä tietoja voidaan lähettää vain suojatulla yhteydellä.\n\nTodetaan läsnäolijat sähköisessä kokoushallintajärjestelmässä. Kokous on päätösvaltainen kun yli puolet jäsenistä on läsnä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Todettiin kokous lailliseksi ja päätösvaltaiseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "49",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=4868742DX39A3X49B1XA31BX6986B12CFFBA-2",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/4868742DX39A3X49B1XA31BX6986B12CFFBA-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Tämän kokouksen pöytäkirjantarkastajiksi valitaan Kati Nieminen ja Mari Torniainen sekä varalle Päivi Ylönen ja Kati Auvinen.",
+   "decision": "Pöytäkirjan tarkastajiksi valittiin Kati Nieminen ja Sini Hintikainen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Toimielin valitsee pöytäkirjantarkastajiksi kaksi toimielimen jäsentä ja varalle kaksi jäsentä aakkosjärjestyksessä."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Tämän kokouksen pöytäkirjantarkastajiksi valitaan Kati Nieminen ja Mari Torniainen sekä varalle Päivi Ylönen ja Kati Auvinen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjan tarkastajiksi valittiin Kati Nieminen ja Sini Hintikainen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "50",
+   "title": "Työjärjestyksen hyväksyminen",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=4868742DX39A3X49B1XA31BX6986B12CFFBA-3",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/4868742DX39A3X49B1XA31BX6986B12CFFBA-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Hyväksytään esityslistan mukainen työjärjestys.",
+   "decision": "Hyväksyttiin esityslistan mukainen työjärjestys.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Työjärjestyksen hyväksyminen\n\nAsiat käsitellään esityslistan mukaisessa järjestyksessä, ellei työjärjestystä päätetä muuttaa."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Hyväksytään esityslistan mukainen työjärjestys."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityslistan mukainen työjärjestys."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "51",
+   "title": "Erikoistuvien lääkärien etupaketin käytön päättäminen rekrytoinnin tukena",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=4868742DX39A3X49B1XA31BX6986B12CFFBA-4",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/4868742DX39A3X49B1XA31BX6986B12CFFBA-4.PDF",
+   "diary_number": "5521/00.01.02.02/2026",
+   "preparer": "Henkilöstöpäällikkö Maria Haarala; Nykyinen erikoistuville lääkäreille suunnattu etupaketti on ollut voimassa 1.1.2026 alkaen, ja sen oli alun perin tarkoitus olla käytössä 31.12.2029 saakka. Etupaketin tavoitteena on ollut vahvistaa Eloisan veto- ja pitovoimaa erikoistuvien lääkärien rekrytoinnissa",
+   "presenter": null,
+   "proposal": "Yhteistyötoimikunta merkitsee asian tiedoksi. Etupaketin käyttö uusien erikoistuvien lääkärien rekrytoinnin tukena lopetetaan 1.10.2026 alkaen edellä kuvatuin siirtymäjärjestelyin. Myönnetyt etupaketit säilyvät ennallaan.",
+   "decision": "Yhteistyötoimikunta keskusteli asiasta ja merkitsi asian tiedoksi. Etupaketin käyttö uusien erikoistuvien lääkäreiden rekrytoinnin tukena lopetetaan 1.10.2026 alkaen edellä kuvatuin siirtymäjärjestelyin. Myönnetyt etupaketit säilyvät ennallaan.\n\nJUKOn näkemys pohjaa Lääkärisopimuksen työryhmässä käydyn keskustelun muistioon, jossa oli nostettu esille mm. seuraavia asioita:\n\n paketilla on ollut positiivista vaikutusta rekrytointeihin ja pidempien työsuhteiden solmimiseen, saatu sitoutumista työntekijöiltä ja saatu nuorien lääkärien kiinnostusta alueeseen. Jos paketti poistuu, tulisiko pohtia muita keinoja parantamaan pitovoimaa ja mahdollisesti kannustamaan valmista erikoislääkäriä palaamaan alueelle töihin? Sitoutumisbonuksen kehittäminen omana pakettina?\n\n asumisetu todennäköisesti helpottanut toisella paikkakunnalla vakituisesti asuvien rekrytointia.\n\n äkilliset muutokset voivat aiheuttaa mainehaittaa, tärkeää että voimassa olevat sopimukset pidetään voimassa aikaisemman sopimuksen mukaisesti\n\n mahdollisten muutoksien toteuttaminen vaiheittain?\n\nVaikka paketilla on kustannusvaikutusta niin JUKOn näkemyksen mukaan sillä on myös saatu paljon etua rekrytointeihin. On tärkeää, ettei paketin lakkauttamisesta synny mainehaittaa ja pitovoimaa sekä sitoutumista saataisiin sitten jollain muulla tavalla jatkossa kehitettyä. Lisäksi JUKO totesi keskustelun jälkeen, että työnantaja on tehnyt päätöksen asiasta ennen kokousta (vastaus valtuustoaloitteeseen oli annettu valtuustolle edellisenä päivänä).",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Henkilöstöpäällikkö Maria Haarala\n\nNykyinen erikoistuville lääkäreille suunnattu etupaketti on ollut voimassa 1.1.2026 alkaen, ja sen oli alun perin tarkoitus olla käytössä 31.12.2029 saakka. Etupaketin tavoitteena on ollut vahvistaa Eloisan veto- ja pitovoimaa erikoistuvien lääkärien rekrytoinnissa.\n\nEtupaketin käyttöönoton jälkeen erikoistuvien lääkärien rekrytointitilanne on kehittynyt myönteisesti, ja Eloisaan on saatu erikoistuvia lääkäreitä kasvavassa määrin. Nykyinen rekrytointitilanne on arvioitu hyväksi. Lisäksi etupaketin vaikutukset ulottuvat pitkälle tulevaisuuteen myös sen käytön päättymisen jälkeen.\n\nTyönantaja esittää, että etupaketin käyttö uusien rekrytointien tukena lopetetaan 1.10.2026 alkaen taloudellinen tilanne huomioiden. Ennen tätä ajankohtaa myönnetyt etupaketit säilyvät ennallaan voimassa olevien ehtojen mukaisesti.\n\nMikäli erikoistuvan lääkärin rekrytointi on jo toteutunut tai erikoistumisjakson aloittamisesta on ennen 1.10.2026 sovittu ylilääkärin tai rekrytoinnin kanssa ja sopimuksesta on olemassa dokumentoitu näyttö (esimerkiksi sähköpostiviesti), etupaketti voidaan edelleen myöntää. Tällaiset tilanteet arvioidaan tapauskohtaisesti erikoistumisjakson alkaessa."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Yhteistyötoimikunta merkitsee asian tiedoksi. Etupaketin käyttö uusien erikoistuvien lääkärien rekrytoinnin tukena lopetetaan 1.10.2026 alkaen edellä kuvatuin siirtymäjärjestelyin. Myönnetyt etupaketit säilyvät ennallaan."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Yhteistyötoimikunta keskusteli asiasta ja merkitsi asian tiedoksi. Etupaketin käyttö uusien erikoistuvien lääkäreiden rekrytoinnin tukena lopetetaan 1.10.2026 alkaen edellä kuvatuin siirtymäjärjestelyin. Myönnetyt etupaketit säilyvät ennallaan.\n\nJUKOn näkemys pohjaa Lääkärisopimuksen työryhmässä käydyn keskustelun muistioon, jossa oli nostettu esille mm. seuraavia asioita:\n\n paketilla on ollut positiivista vaikutusta rekrytointeihin ja pidempien työsuhteiden solmimiseen, saatu sitoutumista työntekijöiltä ja saatu nuorien lääkärien kiinnostusta alueeseen. Jos paketti poistuu, tulisiko pohtia muita keinoja parantamaan pitovoimaa ja mahdollisesti kannustamaan valmista erikoislääkäriä palaamaan alueelle töihin? Sitoutumisbonuksen kehittäminen omana pakettina?\n\n asumisetu todennäköisesti helpottanut toisella paikkakunnalla vakituisesti asuvien rekrytointia.\n\n äkilliset muutokset voivat aiheuttaa mainehaittaa, tärkeää että voimassa olevat sopimukset pidetään voimassa aikaisemman sopimuksen mukaisesti\n\n mahdollisten muutoksien toteuttaminen vaiheittain?\n\nVaikka paketilla on kustannusvaikutusta niin JUKOn näkemyksen mukaan sillä on myös saatu paljon etua rekrytointeihin. On tärkeää, ettei paketin lakkauttamisesta synny mainehaittaa ja pitovoimaa sekä sitoutumista saataisiin sitten jollain muulla tavalla jatkossa kehitettyä. Lisäksi JUKO totesi keskustelun jälkeen, että työnantaja on tehnyt päätöksen asiasta ennen kokousta (vastaus valtuustoaloitteeseen oli annettu valtuustolle edellisenä päivänä)."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Yhteistyötoimikunta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "52",
+   "title": "Muut asiat",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=4868742DX39A3X49B1XA31BX6986B12CFFBA-5",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/4868742DX39A3X49B1XA31BX6986B12CFFBA-5.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Henkilöstöjohtaja Petri Alaluusua totesi, että YT-neuvottelut käynnistyvät 3.9.2026. Neuvotteluaika on 6 viikkoa ja näillä haetaan 34 miljoonan sopeutuksia.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat\n\nYhteistyötoimikunta merkitsee tiedoksi kokouksessa esille tulleet muut asiat."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Henkilöstöjohtaja Petri Alaluusua totesi, että YT-neuvottelut käynnistyvät 3.9.2026. Neuvotteluaika on 6 viikkoa ja näillä haetaan 34 miljoonan sopeutuksia."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "53",
+   "title": "Kokouksen päättäminen",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=4868742DX39A3X49B1XA31BX6986B12CFFBA-6",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/4868742DX39A3X49B1XA31BX6986B12CFFBA-6.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Puheenjohtaja päättää kokouksen.",
+   "decision": "Puheenjohtaja päätti kokouksen klo 14:01.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Esitys",
+     "text": "Puheenjohtaja päättää kokouksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja päätti kokouksen klo 14:01."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Juntunen Taru",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Alaluusua Petri",
+   "role": "varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Haarala Maria",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hintikainen Sini",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kannonmäki Ani",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kulla-Numminen Hanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Nieminen Kati",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Rautpalo Tiia",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Torniainen Mari",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Ylönen Päivi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kinnunen Riikka",
+   "role": "kokoussihteeri",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=4868742DX39A3X49B1XA31BX6986B12CFFBA",
+  "fetched_at": "2026-10-14T16:49:36+00:00",
+  "content_hash": "3acd65053a18e29b",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T16:49:36+00:00"
+ }
+}

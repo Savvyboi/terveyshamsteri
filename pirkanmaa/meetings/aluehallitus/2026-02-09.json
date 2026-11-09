@@ -1,0 +1,395 @@
+{
+ "id": "aluehallitus/2026-02-09",
+ "region": "pirkanmaa",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2026-02-09",
+ "stage": "minutes",
+ "source_url": "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_922026",
+ "pdf_url": "https://pirha.cloudnc.fi/download/noname/{b066dc2b-aa7c-4b21-9f0e-954d9fad8eda}/70960",
+ "time": null,
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "45",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pirha.cloudnc.fi/fi-FI/content/39176/14570",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokouksen laillisuus ja päätösvaltaisuus.",
+   "decision": "Todetaan kokouksen laillisuus ja päätösvaltaisuus.\n\nMyönnettiin läsnäolo- ja puheoikeus HR-johtaja Aija Tuimalalle kokouksen ajaksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Perustelut",
+     "text": "Hallintosäännön 132 §:n mukaan kokouksen puheenjohtaja toteaa läsnä olevat sekä sen, onko kokous laillisesti koolle kutsuttu ja päätösvaltainen.\n\nHallintosäännön 125 §:n mukaan kokouskutsun antaa puheenjohtaja tai hänen estyneenä ollessaan varapuheenjohtaja. Kokouskutsussa ilmoitetaan kokouksen aika ja paikka sekä käsiteltävät asiat.\n\nKokouskutsu lähetetään ensisijaisesti sähköisellä viestillä vähintään viisi (5) kalenteripäivää ennen kokousta jäsenille ja muille, joilla on läsnäolo-oikeus tai -velvollisuus. Edellä mainitusta määräajasta voidaan poiketa, jos asian kiireellisyys sitä vaatii.\n\nVarsinainen kokouskutsu ja esityslista aluehallituksen jatkokokoukseen 9.2.2026 on toimitettu sähköisesti 4.2.2026. Esityslista liitteineen on tallennettu sähköiseen kokoustyötilaan (Pirre) 4.2.2026 sekä julkaistu yleisessä tietoverkossa 4.2.2026."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Todetaan kokouksen laillisuus ja päätösvaltaisuus."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Todetaan kokouksen laillisuus ja päätösvaltaisuus.\n\nMyönnettiin läsnäolo- ja puheoikeus HR-johtaja Aija Tuimalalle kokouksen ajaksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "46",
+   "title": "Pöytäkirjantarkastajat",
+   "source_url": "https://pirha.cloudnc.fi/fi-FI/content/39177/14570",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Valitaan kaksi pöytäkirjantarkastajaa. Vuorossa ovat: Leena Kostiainen ja Taru Tolvanen. Varalla on: Milka Hanhela.",
+   "decision": "Valittiin pöytäkirjantarkastajiksi Leena Kostiainen ja Taru Tolvanen. Varalle Milka Hanhela.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Perustelut",
+     "text": "Hallintosäännön 144 §:n mukaan pöytäkirjan tarkastaa kaksi kullakin kerralla sitä varten valittua jäsentä, ellei toimielin ole päättänyt pöytäkirjan tarkastamisesta muulla tavalla.\n\nPöytäkirja voidaan allekirjoittaa ja tarkastaa sähköisesti. Sähköisessä päätöksentekomenettelyssä tehtyjä päätöksiä koskeva pöytäkirja tai sen osa voidaan tarkastaa erikseen ennen kokousta.\n\nAluehallituksen päätöksen 16.6.2025 (§ 184) mukaan tarkastetut pöytäkirjat valitusosoituksineen asetetaan nähtäväksi kolmantena (3) päivänä kokouksesta hyvinvointialueen verkkosivulla."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Valitaan kaksi pöytäkirjantarkastajaa. Vuorossa ovat: Leena Kostiainen ja Taru Tolvanen. Varalla on: Milka Hanhela."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Valittiin pöytäkirjantarkastajiksi Leena Kostiainen ja Taru Tolvanen. Varalle Milka Hanhela."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "47",
+   "title": "Yhteistoimintaneuvotteluiden käynnistäminen koskien sosiaali- ja terveyspalveluiden tehtäväaluetta",
+   "source_url": "https://pirha.cloudnc.fi/fi-FI/content/39178/14570",
+   "pdf_url": null,
+   "diary_number": "1485/2026",
+   "preparer": "Katja Vihusaari, HR-PALVELUPÄÄLLIKKÖ; Taru Kuosmanen, SOSIAALI- JA TERVEYSJOHTAJA",
+   "presenter": "Marina Erhola, HYVINVOINTIALUEJOHTAJA",
+   "proposal": "Aluehallitus päättää\n\nkäynnistää Pirkanmaan hyvinvointialueella sosiaali- ja terveyspalveluiden tehtäväalueen henkilöstöä (noin 2 900 henkilöä) koskevat yhteistoimintaneuvottelut, jotka voivat johtaa palvelussuhteen päättymiseen niissä tapauksissa, jos henkilö ei suostu palvelussuhteen olennaisen ehdon muutokseen. Edellä mainittua henkilöstöä koskevat toiminnan uudelleenjärjestelyt voivat vaikuttaa osaltaan myös tukipalveluiden henkilöstön toimintaan ja määrään.\n\n​valtuuttaa HR-johtajan antamaan kirjallisen neuvotteluesityksen yhteistoimintaneuvottelujen käynnistämiseksi.\n\nnimetä työnantajan edustajat yhteistoimintaneuvotteluihin seuraavasti:\n\nHR-johtaja Aija Tuimala ja palvelulinjajohtajat Eeva Torppa-Saarinen, Markus Paananen, Titta Pelttari ja Päivi Tryyki.\n\nasiantuntijoina HR-palvelupäällikkö Katja Vihusaari, palvelussuhdepäällikkö Elina Reinikainen sekä henkilöstöpäälliköt Sami Uusitalo, Nina Lehto, Soili Varonen ja Elina Kontiainen.\n\nLisäksi neuvotteluihin voidaan tarvittaessa kutsua muita työnantajan edustajia ja asiantuntijoita.",
+   "decision": "Päätösehdotus hyväksyttiin.\n\nEsteellisyys\n\nAluehallituksen jäsenet Mikko Franssila ja Anneli Taina ilmoittivat olevansa esteellisiä asiassa (HL 28 § 1 mom 1 kohta;​ hän tai hänen läheisensä on asianosainen) ja poistuivat kokouksesta asian käsittelyn ja päätöksenteon ajaksi. Esteellisyydet todettiin.",
+   "discussion": "Aluehallituksen jäsen Atte Virolainen saapui kokoukseen ennen päätöksentekoa.",
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aikaisempi käsittely\n\nAluehallitus, 2.2.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Katja Vihusaari, HR-PALVELUPÄÄLLIKKÖ\n\nTaru Kuosmanen, SOSIAALI- JA TERVEYSJOHTAJA"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Pirkanmaan hyvinvointialue aloitti uutena työnantajana palvelutuotantonsa 1.1.2023. Hyvinvointialue muodostui 23 työnantajan liikkeenluovutuksesta ja hyvinvointialueen henkilöstömäärä on noin 20 000. Henkilöstö siirtyi hyvinvointialueelle suurelta osin entisissä tehtävissään ja työyksiköissään.\n\nPirkanmaan hyvinvointialueella on vielä edelleen pirstaleinen palvelujärjestelmä. Yhdistyvien organisaatioiden henkilöstö siirrettiin hyvinvointialueelle 1.1.2023 alkaen, ja tämän jälkeen Pirkanmaan hyvinvointialueella on toteutettu useita muutoksia ja toimintojen yhteensovittamisia aiemmin käytyjen yhteistoimintaneuvottelujen perusteella. Muutoksien tavoitteena on ollut varmistaa yhdenvertaiset palvelut ja parantaa niiden saatavuutta, kaventaa hyvinvointi- ja terveyseroja sekä hillitä kustannusten kasvua.\n\nHenkilöstön sijoittumista, määrää, työtehtäviä, organisaatiota ja sen rakennetta on tarkasteltu Pirkanmaan hyvinvointialueella palveluverkkouudistuksen edetessä. Tarkastelua on tehty kaikilla tehtäväalueilla ja palvelulinjoilla. Työnantajan toimintojen ja organisaation uudelleenorganisointia on tarkoituksenmukaista jatkaa edelleen.\n\nNyt aloitettavien yhteistoimintaneuvottelujen kohteena on sosiaali- ja terveyspalveluiden tehtäväalueen henkilöstö, arviolta noin 2 900 henkilöä. Edellä mainittua henkilöstöä koskevat toiminnan uudelleenjärjestelyt voivat vaikuttaa osaltaan myös tukipalveluiden henkilöstön toimintaan ja määrään.\n\nTyönantaja suunnittelee mahdollisia toiminnan uudelleenorganisointiin liittyviä muutoksia kaikilla sosiaali- ja terveydenhuollon palvelulinjoilla (avopalvelujen, sairaalapalvelujen, lasten, nuorten ja perheiden palvelujen sekä ikäihmisten ja vammaisten palvelulinjat). Työnantajan suunnitelmien taustalla ovat tuotannollis-taloudelliset ja toimintojen uudelleenorganisointiin liittyvät syyt.\n\nMahdolliset muutokset voivat vaikuttaa yhteistoimintaneuvottelujen kohteena olevan henkilöstön palvelussuhteen olennaisten ehtojen muutoksiin irtisanomisperusteella tai muihin palvelussuhteen ehtojen muutoksiin sekä organisatorisiin muutoksiin. Työnantajan esittämät muutokset ovat toiminnallisia uudelleenorganisointeja, eli mm. työssäkäyntialueiden laajentamista, tehtäväkuvien yhdenmukaistamista, henkilöstöresurssin tasaamista palvelulinjalla, työaikamuotojen yhdenmukaistamista. Yhteistoimintaneuvottelujen aloittamisen taustalla ei ole työvoiman vähentämiseen liittyvät tavoitteet, mutta muutoksen kohteena olevan henkilöstön palvelussuhde voi päättyä niissä tapauksissa, jos henkilö kieltäytyy palvelussuhteen olennaisten ehtojen muutoksesta. Näissä tilanteissa työnantaja tarjoaa mahdollisuuksien mukaan ko. henkilöille muuta työtä Pirkanmaan hyvinvointialueella irtisanomisen vaihtoehtona.\n\nTyönantajan suunnitelmat on kunnan ja hyvinvointialueen yhteistoiminnasta annetun lain (449/2007) mukaisesti käsiteltävä vuoropuhelussa henkilöstöjärjestöjen edustajien kanssa. Yhteistoimintamenettelyllä turvataan henkilöstön vaikutusmahdollisuudet asian valmistelussa. Edellä esitetyillä perusteilla esitetään,​ että Pirkanmaan hyvinvointialue työnantajana aloittaa kunnan ja hyvinvointialueen yhteistoiminnasta annetun lain 4 §:n ja 7 §:n mukaiset sosiaali- ja terveyspalveluiden tehtäväalueeseen kohdistuvat yhteistoimintaneuvottelut. Työnantajan tulee nimetä yhteistoimintaneuvotteluihin työnantajan edustajat."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus päättää\n\nkäynnistää Pirkanmaan hyvinvointialueella sosiaali- ja terveyspalveluiden tehtäväalueen henkilöstöä (noin 2 900 henkilöä) koskevat yhteistoimintaneuvottelut, jotka voivat johtaa palvelussuhteen päättymiseen niissä tapauksissa, jos henkilö ei suostu palvelussuhteen olennaisen ehdon muutokseen. Edellä mainittua henkilöstöä koskevat toiminnan uudelleenjärjestelyt voivat vaikuttaa osaltaan myös tukipalveluiden henkilöstön toimintaan ja määrään.\n\n​valtuuttaa HR-johtajan antamaan kirjallisen neuvotteluesityksen yhteistoimintaneuvottelujen käynnistämiseksi.\n\nnimetä työnantajan edustajat yhteistoimintaneuvotteluihin seuraavasti:\n\nHR-johtaja Aija Tuimala ja palvelulinjajohtajat Eeva Torppa-Saarinen, Markus Paananen ja Titta Pelttari sekä toimialuejohtajat Mari Ollinpoika ja Tuulikki Parikka\n\nasiantuntijoina HR-palvelupäällikkö Katja Vihusaari, palvelussuhdepäällikkö Elina Reinikainen sekä henkilöstöpäälliköt Sami Uusitalo, Nina Lehto, Soili Varonen ja Elina Kontiainen.\n\nLisäksi neuvotteluihin voidaan tarvittaessa kutsua muita työnantajan edustajia ja asiantuntijoita."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Marina Erhola, HYVINVOINTIALUEJOHTAJA"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti, että asian käsittely siirretään aluehallituksen 9.2. jatkokokoukseen.\n\nEsteellisyys\n\nAluehallituksen jäsenet Mikko Franssila ja Anneli Taina ilmoittivat olevansa esteellisiä asiassa (HL 28 § 1 mom 3 kohta;​ ratkaisusta on odotettavissa erityistä hyötyä tai vahinkoa hänelle itselleen tai läheiselleen) ja poistuivat kokouksesta asian käsittelyn ja päätöksenteon ajaksi. Esteellisyydet todettiin."
+    },
+    {
+     "heading": "Kokouskäsittely",
+     "text": "Asia käsiteltiin § 44 jälkeen.\n\nKokouksessa asiantuntijana HR-johtaja Aija Tuimala.\n\nAluehallituksen varajäsen Juho Ojares saapui kokoukseen asian käsittelyn ajaksi ja poistui päätöksenteon jälkeen.\n\nAluehallituksen jäsen Taru Tolvanen esitti, että asian käsittely siirretään aluehallituksen 9.2. jatkokokoukseen.\n\nKannatus: Olga Haapa-aho, Milka Hanhela\n\nHyväksyttiin yksimielisesti.\n\nYliopiston edustaja Tapio Visakorpi poistui kokouksesta ennen päätöksentekoa."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Katja Vihusaari, HR-PALVELUPÄÄLLIKKÖ\n\nTaru Kuosmanen, SOSIAALI- JA TERVEYSJOHTAJA"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Pirkanmaan hyvinvointialue aloitti uutena työnantajana palvelutuotantonsa 1.1.2023. Hyvinvointialue muodostui 23 työnantajan liikkeenluovutuksesta ja hyvinvointialueen henkilöstömäärä on noin 20 000. Henkilöstö siirtyi hyvinvointialueelle suurelta osin entisissä tehtävissään ja työyksiköissään.\n\nPirkanmaan hyvinvointialueella on vielä edelleen pirstaleinen palvelujärjestelmä. Yhdistyvien organisaatioiden henkilöstö siirrettiin hyvinvointialueelle 1.1.2023 alkaen, ja tämän jälkeen Pirkanmaan hyvinvointialueella on toteutettu useita muutoksia ja toimintojen yhteensovittamisia aiemmin käytyjen yhteistoimintaneuvottelujen perusteella. Muutoksien tavoitteena on ollut varmistaa yhdenvertaiset palvelut ja parantaa niiden saatavuutta, kaventaa hyvinvointi- ja terveyseroja sekä hillitä kustannusten kasvua.\n\nHenkilöstön sijoittumista, määrää, työtehtäviä, organisaatiota ja sen rakennetta on tarkasteltu Pirkanmaan hyvinvointialueella palveluverkkouudistuksen edetessä. Tarkastelua on tehty kaikilla tehtäväalueilla ja palvelulinjoilla. Työnantajan toimintojen ja organisaation uudelleenorganisointia on tarkoituksenmukaista jatkaa edelleen.\n\nNyt aloitettavien yhteistoimintaneuvottelujen kohteena on sosiaali- ja terveyspalveluiden tehtäväalueen henkilöstö, arviolta noin 2 900 henkilöä. Edellä mainittua henkilöstöä koskevat toiminnan uudelleenjärjestelyt voivat vaikuttaa osaltaan myös tukipalveluiden henkilöstön toimintaan ja määrään.\n\nTyönantaja suunnittelee mahdollisia toiminnan uudelleenorganisointiin liittyviä muutoksia kaikilla sosiaali- ja terveydenhuollon palvelulinjoilla (avopalvelujen, sairaalapalvelujen, lasten, nuorten ja perheiden palvelujen sekä ikäihmisten ja vammaisten palvelulinjat). Työnantajan suunnitelmien taustalla ovat tuotannollis-taloudelliset ja toimintojen uudelleenorganisointiin liittyvät syyt.\n\nMahdolliset muutokset voivat vaikuttaa yhteistoimintaneuvottelujen kohteena olevan henkilöstön palvelussuhteen olennaisten ehtojen muutoksiin irtisanomisperusteella tai muihin palvelussuhteen ehtojen muutoksiin sekä organisatorisiin muutoksiin. Työnantajan esittämät muutokset ovat toiminnallisia uudelleenorganisointeja, eli mm. työssäkäyntialueiden laajentamista, tehtäväkuvien yhdenmukaistamista, henkilöstöresurssin tasaamista palvelulinjalla, työaikamuotojen yhdenmukaistamista. Yhteistoimintaneuvottelujen aloittamisen taustalla ei ole työvoiman vähentämiseen liittyvät tavoitteet, mutta muutoksen kohteena olevan henkilöstön palvelussuhde voi päättyä niissä tapauksissa, jos henkilö kieltäytyy palvelussuhteen olennaisten ehtojen muutoksesta. Näissä tilanteissa työnantaja tarjoaa mahdollisuuksien mukaan ko. henkilöille muuta työtä Pirkanmaan hyvinvointialueella irtisanomisen vaihtoehtona.\n\nTyönantajan suunnitelmat on kunnan ja hyvinvointialueen yhteistoiminnasta annetun lain (449/2007) mukaisesti käsiteltävä vuoropuhelussa henkilöstöjärjestöjen edustajien kanssa. Yhteistoimintamenettelyllä turvataan henkilöstön vaikutusmahdollisuudet asian valmistelussa. Edellä esitetyillä perusteilla esitetään,​ että Pirkanmaan hyvinvointialue työnantajana aloittaa kunnan ja hyvinvointialueen yhteistoiminnasta annetun lain 4 §:n ja 7 §:n mukaiset sosiaali- ja terveyspalveluiden tehtäväalueeseen kohdistuvat yhteistoimintaneuvottelut. Työnantajan tulee nimetä yhteistoimintaneuvotteluihin työnantajan edustajat."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus päättää\n\nkäynnistää Pirkanmaan hyvinvointialueella sosiaali- ja terveyspalveluiden tehtäväalueen henkilöstöä (noin 2 900 henkilöä) koskevat yhteistoimintaneuvottelut, jotka voivat johtaa palvelussuhteen päättymiseen niissä tapauksissa, jos henkilö ei suostu palvelussuhteen olennaisen ehdon muutokseen. Edellä mainittua henkilöstöä koskevat toiminnan uudelleenjärjestelyt voivat vaikuttaa osaltaan myös tukipalveluiden henkilöstön toimintaan ja määrään.\n\n​valtuuttaa HR-johtajan antamaan kirjallisen neuvotteluesityksen yhteistoimintaneuvottelujen käynnistämiseksi.\n\nnimetä työnantajan edustajat yhteistoimintaneuvotteluihin seuraavasti:\n\nHR-johtaja Aija Tuimala ja palvelulinjajohtajat Eeva Torppa-Saarinen, Markus Paananen, Titta Pelttari ja Päivi Tryyki.\n\nasiantuntijoina HR-palvelupäällikkö Katja Vihusaari, palvelussuhdepäällikkö Elina Reinikainen sekä henkilöstöpäälliköt Sami Uusitalo, Nina Lehto, Soili Varonen ja Elina Kontiainen.\n\nLisäksi neuvotteluihin voidaan tarvittaessa kutsua muita työnantajan edustajia ja asiantuntijoita."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Marina Erhola, HYVINVOINTIALUEJOHTAJA"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin.\n\nEsteellisyys\n\nAluehallituksen jäsenet Mikko Franssila ja Anneli Taina ilmoittivat olevansa esteellisiä asiassa (HL 28 § 1 mom 1 kohta;​ hän tai hänen läheisensä on asianosainen) ja poistuivat kokouksesta asian käsittelyn ja päätöksenteon ajaksi. Esteellisyydet todettiin."
+    },
+    {
+     "heading": "Kokouskäsittely",
+     "text": "Aluehallituksen jäsen Atte Virolainen saapui kokoukseen ennen päätöksentekoa."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "48",
+   "title": "Pirkanmaan hyvinvointialueen konsernijohtajan valinta",
+   "source_url": "https://pirha.cloudnc.fi/fi-FI/content/39179/14570",
+   "pdf_url": null,
+   "diary_number": "215/2022",
+   "preparer": "Vuokko Ylinen, HALLINTOJOHTAJA; Aija Tuimala, HR-JOHTAJA",
+   "presenter": "Taru Kuosmanen, SOSIAALI- JA TERVEYSJOHTAJA",
+   "proposal": "Aluehallitus päättää esittää aluevaltuustolle, että aluevaltuusto päättää\n\nsuorittaa konsernijohtajan virkavaalin ja valitsee konsernijohtajan.\n\nkonsernijohtajan palkasta palkkaliitteen mukaisesti.\n\nettä virkaan valitun tulee toimittaa ennen viran vastaanottamista hyväksytty lääkärintodistus terveydentilastaan. Valinta on ehdollinen, kunnes selvitys on esitetty.\n\nettä virkaan valitulle tehdään hänen suostumuksellaan turvallisuusselvityslain 21 §:n mukainen perusmuotoinen henkilöturvallisuusselvitys. Valinta on ehdollinen, kunnes selvitys on esitetty.\n\nettä virantäytössä noudatetaan kuuden (6) kuukauden koeaikaa.",
+   "decision": "Aluehallitus päätti esittää aluevaltuustolle, että aluevaltuusto päättää\n\nsuorittaa konsernijohtajan virkavaalin ja valitsee konsernijohtajan. Kontio, Santala ja Varhila ovat aluehallituksen kolme kärkiehdokasta.\n\nkonsernijohtajan palkasta palkkaliitteen mukaisesti.\n\nettä virkaan valitun tulee toimittaa ennen viran vastaanottamista hyväksytty lääkärintodistus terveydentilastaan. Valinta on ehdollinen, kunnes selvitys on esitetty.\n\nettä virkaan valitulle tehdään hänen suostumuksellaan turvallisuusselvityslain 21 §:n mukainen perusmuotoinen henkilöturvallisuusselvitys. Valinta on ehdollinen, kunnes selvitys on esitetty.\n\nettä virantäytössä noudatetaan kuuden (6) kuukauden koeaikaa.\n\nAluehallitus päätti tarkastaa pykälän kokouksessa.\n\nEsteellisyys\n\nVs. konsernijohtaja Mika Kontio ilmoitti olevansa esteellinen asiassa (HL 28 § 1 mom 1 kohta) ja poistui kokouksesta asian käsittelyn ja päätöksenteon ajaksi. Esteellisyys todettiin.",
+   "discussion": "Aluehallituksen jäsen Taru Tolvanen esitti, että kohtaan 1 lisätään: \"Kontio, Santala ja Varhila ovat aluehallituksen kolme kärkiehdokasta.\"\n\nKannatus: Sami Kymäläinen ja Petri Siuro.\n\nHyväksyttiin yksimielisesti.\n\nPuheenjohtaja esitti, että pykälä tarkastetaan kokouksessa. Hyväksyttiin yksimielisesti.\n\nAluevaltuuston 1. varapuheenjohtaja Johanna Loukaskorpi ja aluevaltuuston 2. varapuheenjohtaja Perttu Jussila saapuivat kokoukseen ennen päätöksentekoa.\n\nSosiaali- ja terveysjohtaja Taru Kuosmanen, viestintäjohtaja Elina Kinnunen ja hallintoassistentti Katri Lielahti poistuivat kokouksesta ennen asian käsittelyä.",
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aikaisempi käsittely\n\nAluehallitus, 10.11.2025"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Vuokko Ylinen, HALLINTOJOHTAJA\n\nAija Tuimala, HR-JOHTAJA"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Konsernijohtaja Juhani Sand on ilmoittanut siirtyvänsä eläkkeelle maaliskuun 2026 alusta lukien.\n\nKonsernijohtaja johtaa hyvinvointialueen strategisten järjestämistoimintojen ohjausta, suunnittelua ja resurssien kohdentamista sekä vastaa strategisen ohjauksen ohjaustoiminnoista ja niiden tuloksellisuudesta. Konsernijohtaja kuuluu konsernijohtoon ja huolehtii osaltaan konsernin kokonaisedun toteutumisesta ja omistajaohjauksen toimeenpanosta.\n\nKonsernijohtaja toimii hyvinvointialuejohtajan alaisuudessa. Hyvinvointialueen hallintosäännön mukaan aluevaltuusto ottaa virkaan konsernijohtajan. Viran tai virkasuhteen julistaa haettavaksi virkasuhteeseen ottamisesta päättävä viranomainen. Silloin, kun virkasuhteeseen ottamisesta päättävä viranomainen on aluevaltuusto, viran tai virkasuhteen julistaa haettavaksi kuitenkin aluehallitus.\n\nViran kelpoisuusehdot ovat soveltuva ylempi korkeakoulututkinto, toimialan tuntemus ja riittävä kokemus vaativista johtamistehtävistä.\n\nRekrytointia varten nimetään valintaryhmä, johon aluehallitus nimeää edustajansa. Hyvinvointialuejohtaja nimeää viranhaltijat valintaryhmään."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus päättää\n\navata konsernijohtajan viran avoimeen hakuun sekä\n\nnimetä rekrytointia varten muodostettavaan valintaryhmään edustajat."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Taru Kuosmanen, SOSIAALI- JA TERVEYSJOHTAJA"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti\n\navata konsernijohtajan viran avoimeen hakuun sekä\n\nnimetä rekrytointia varten muodostettavaan valintaryhmään edustajiksi aluehallituksen puheenjohtajiston.\n\nEsteellisyys\n\nVs. hyvinvointialuejohtaja Juhani Sand ja vs. konsernijohtaja Mika Kontio ilmoittivat olevansa esteellisiä asiassa (HL 28 § 1 mom 1 kohta) ja poistuivat kokouksesta asian käsittelyn ja päätöksenteon ajaksi. Esteellisyydet todettiin."
+    },
+    {
+     "heading": "Kokouskäsittely",
+     "text": "Aluehallituksen puheenjohtaja esitti, että valintaryhmään edustajiksi valitaan aluehallituksen puheenjohtajisto. Hyväksyttiin yksimielisesti.\n\nAluehallitus, 2.2.2026"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Aija Tuimala, HR-JOHTAJA\n\nAnne Kesseli-Sorvali, HR\n\nVilma Kiilunen, HALLINTOJURISTI"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Pirkanmaan hyvinvointialueen aluehallitus avasi 10.11.2025 (§ 331) konsernijohtajan viran haettavaksi. Virka täytetään vakinaisesti erikseen sovittavasta ajankohdasta lukien.\n\nViran kelpoisuusvaatimuksena on soveltuva ylempi korkeakoulututkinto, toimialan tuntemus ja riittävä kokemus vaativista johtamistehtävistä. Tehtävässä edellytetään kykyä hallita ja koordinoida laajoja kokonaisuuksia sekä toimeenpanna muutoksia. Lisäksi edellytetään hyvää suomen kielen kirjallista ja suullista taitoa sekä ruotsin kielen tyydyttävää ymmärtämisen taitoa. Eduksi katsotaan työkokemus vastaavista erityisesti hyvinvointialueen johtamistehtävistä, kokemus sidosryhmäyhteistyöstä kansallisella tasolla sekä englannin kielen taito ja poliittisen päätöksentekojärjestelmän tuntemus. Arvostettavia ominaisuuksia ovat hyvät yhteistyö-, yhteensovittamis- ja vuorovaikutustaidot sekä esiintymisvalmiudet.\n\nKonsernijohtajan virka avattiin haettavaksi Pirkanmaan hyvinvointialueen verkkosivuilla www.pirha.fi, osoitteissa kuntarekry.fi ja tyomarkkinatori.fi sekä Helsingin Sanomissa 23.11.2025. Hakuaika oli 19.11.-10.12.2025.\n\nVirkaa haki määräajassa 28 henkilöä. Hakijoista 17 täytti kelpoisuusvaatimukset. Aluehallituksen puheenjohtajisto ja viranhaltijoista koostuva valintaryhmä haastattelivat hakemusten perusteella kuusi haastatteluun kutsuttua hakijaa. Haastattelut toteutettiin 8. – 9.1.2026. Rekrytoinnissa on avustanut Aims Finland Oy. Haastattelujen jälkeen hakijoista henkilöarviointeihin lähetettiin *****, ***** ja *****. Henkilöarvioinnit on toteutettu 12. – 16.1.2026. Valintaryhmä sai selvityksen henkilöarviointien tuloksista 19.1.2026. Hallitus saa selvityksen tuloksista kokouksensa yhteydessä.\n\n*****, ***** ja ***** olivat valintaryhmän kolme kärkiehdokasta. Valintaryhmä ei kuitenkaan muodostanut yksimielistä kantaa siitä, ketä kärkihakijoista tulisi esittää virkaan.\n\nAluehallitus esittää, että aluevaltuusto suorittaa konsernijohtajan vaalin. Aluehallitukselle järjestetään 2.2.2026 kokouksen yhteyteen kolmen kärkihakijan haastattelu. Valtuuston kokouksessa 16.2.2026 suoritetaan konsernijohtajan vaali.\n\nKonsernijohtajan esihenkilönä toimii hyvinvointialuejohtaja. Hyvinvointialueen hallintosäännön 45 §:n mukaisesti virkavalinnasta päättää aluevaltuusto. Virkasuhteeseen, joka on ollut julkisesti haettavana, voidaan ottaa vain henkilö, joka on hakenut sitä kirjallisesti ennen hakuajan päättymistä ja silloin täyttää kelpoisuusvaatimukset (laki kunnan ja hyvinvointialueen viranhaltijasta 5 §).\n\nLiitteenä on hakuilmoitus.\n\nOheismateriaalit:\n\nhakijayhteenveto\n\nhaastateltujen hakijoiden hakemukset ja ansioluettelot\n\nhaastatelluista hakijoista laadittu ansiovertailu (salassa pidettävä, laki viranomaisten toiminnan julkisuudesta 24 § 29-kohta)\n\nyhteenveto henkilöarvioinnista (salassa pidettävä, laki viranomaisten toiminnan julkisuudesta 24 § 29-kohta, vain nähtävillä kokouksessa)\n\npalkkaliite"
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus päättää esittää aluevaltuustolle, että aluevaltuusto päättää\n\nsuorittaa konsernijohtajan virkavaalin ja valitsee konsernijohtajan.\n\nkonsernijohtajan palkasta palkkaliitteen mukaisesti.\n\nettä virkaan valitun tulee toimittaa ennen viran vastaanottamista hyväksytty lääkärintodistus terveydentilastaan. Valinta on ehdollinen, kunnes selvitys on esitetty.\n\nettä virkaan valitulle tehdään hänen suostumuksellaan turvallisuusselvityslain 21 §:n mukainen perusmuotoinen henkilöturvallisuusselvitys. Valinta on ehdollinen, kunnes selvitys on esitetty.\n\nettä virantäytössä noudatetaan kuuden (6) kuukauden koeaikaa."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Marina Erhola, HYVINVOINTIALUEJOHTAJA"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti jatkaa asian käsittelyä jatkokokouksessa 9.2.\n\nEsteellisyys\n\nVs. konsernijohtaja Mika Kontio ilmoitti olevansa esteellinen asiassa (HL 28 § 1 mom 1 kohta) ja poistui kokouksesta asian käsittelyn ja päätöksenteon ajaksi. Esteellisyys todettiin."
+    },
+    {
+     "heading": "Kokouskäsittely",
+     "text": "Kokouksessa asiantuntijana HR-johtaja Aija Tuimala.\n\nAluehallituksen jäsen Touko Sikala esitti, että aluehallitus päättää jatkaa asian käsittelyä jatkokokouksessa 9.2.\n\nKannatus: Atte Virolainen, Taru Tolvanen, Atanas Aleksovski\n\nAluevaltuuston puheenjohtaja Jari Andersson poistui kokouksesta päätöksenteon jälkeen."
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Aija Tuimala, HR-JOHTAJA\n\nAnne Kesseli-Sorvali, HR\n\nVilma Kiilunen, HALLINTOJURISTI"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Pirkanmaan hyvinvointialueen aluehallitus avasi 10.11.2025 (§ 331) konsernijohtajan viran haettavaksi. Virka täytetään vakinaisesti erikseen sovittavasta ajankohdasta lukien.\n\nViran kelpoisuusvaatimuksena on soveltuva ylempi korkeakoulututkinto, toimialan tuntemus ja riittävä kokemus vaativista johtamistehtävistä. Tehtävässä edellytetään kykyä hallita ja koordinoida laajoja kokonaisuuksia sekä toimeenpanna muutoksia. Lisäksi edellytetään hyvää suomen kielen kirjallista ja suullista taitoa sekä ruotsin kielen tyydyttävää ymmärtämisen taitoa. Eduksi katsotaan työkokemus vastaavista erityisesti hyvinvointialueen johtamistehtävistä, kokemus sidosryhmäyhteistyöstä kansallisella tasolla sekä englannin kielen taito ja poliittisen päätöksentekojärjestelmän tuntemus. Arvostettavia ominaisuuksia ovat hyvät yhteistyö-, yhteensovittamis- ja vuorovaikutustaidot sekä esiintymisvalmiudet.\n\nKonsernijohtajan virka avattiin haettavaksi Pirkanmaan hyvinvointialueen verkkosivuilla www.pirha.fi, osoitteissa kuntarekry.fi ja tyomarkkinatori.fi sekä Helsingin Sanomissa 23.11.2025. Hakuaika oli 19.11.-10.12.2025.\n\nVirkaa haki määräajassa 28 henkilöä. Hakijoista 17 täytti kelpoisuusvaatimukset. Aluehallituksen puheenjohtajisto ja viranhaltijoista koostuva valintaryhmä haastattelivat hakemusten perusteella kuusi haastatteluun kutsuttua hakijaa. Haastattelut toteutettiin 8. – 9.1.2026. Rekrytoinnissa on avustanut Aims Finland Oy. Haastattelujen jälkeen hakijoista henkilöarviointeihin lähetettiin Mika Kontio, Jukka Santala ja Kirsi Varhila. Henkilöarvioinnit on toteutettu 12. – 16.1.2026. Valintaryhmä sai selvityksen henkilöarviointien tuloksista 19.1.2026. Hallitus saa selvityksen tuloksista kokouksensa yhteydessä.\n\nKontio, Santala ja Varhila olivat valintaryhmän kolme kärkiehdokasta. Valintaryhmä ei kuitenkaan muodostanut yksimielistä kantaa siitä, ketä kärkihakijoista tulisi esittää virkaan.\n\nAluehallitus esittää, että aluevaltuusto suorittaa konsernijohtajan vaalin. Aluehallitukselle järjestetään 2.2.2026 kokouksen yhteyteen kolmen kärkihakijan haastattelu. Valtuuston kokouksessa 16.2.2026 suoritetaan konsernijohtajan vaali.\n\nKonsernijohtajan esihenkilönä toimii hyvinvointialuejohtaja. Hyvinvointialueen hallintosäännön 45 §:n mukaisesti virkavalinnasta päättää aluevaltuusto. Virkasuhteeseen, joka on ollut julkisesti haettavana, voidaan ottaa vain henkilö, joka on hakenut sitä kirjallisesti ennen hakuajan päättymistä ja silloin täyttää kelpoisuusvaatimukset (laki kunnan ja hyvinvointialueen viranhaltijasta 5 §).\n\nLiitteenä on hakuilmoitus.\n\nOheismateriaalit:\n\nhakijayhteenveto\n\nhaastateltujen hakijoiden hakemukset ja ansioluettelot\n\nhaastatelluista hakijoista laadittu ansiovertailu (salassa pidettävä, laki viranomaisten toiminnan julkisuudesta 24 § 29-kohta)\n\nyhteenveto henkilöarvioinnista (salassa pidettävä, laki viranomaisten toiminnan julkisuudesta 24 § 29-kohta, vain nähtävillä kokouksessa)\n\npalkkaliite"
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus päättää esittää aluevaltuustolle, että aluevaltuusto päättää\n\nsuorittaa konsernijohtajan virkavaalin ja valitsee konsernijohtajan.\n\nkonsernijohtajan palkasta palkkaliitteen mukaisesti.\n\nettä virkaan valitun tulee toimittaa ennen viran vastaanottamista hyväksytty lääkärintodistus terveydentilastaan. Valinta on ehdollinen, kunnes selvitys on esitetty.\n\nettä virkaan valitulle tehdään hänen suostumuksellaan turvallisuusselvityslain 21 §:n mukainen perusmuotoinen henkilöturvallisuusselvitys. Valinta on ehdollinen, kunnes selvitys on esitetty.\n\nettä virantäytössä noudatetaan kuuden (6) kuukauden koeaikaa."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Marina Erhola, HYVINVOINTIALUEJOHTAJA"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päätti esittää aluevaltuustolle, että aluevaltuusto päättää\n\nsuorittaa konsernijohtajan virkavaalin ja valitsee konsernijohtajan. Kontio, Santala ja Varhila ovat aluehallituksen kolme kärkiehdokasta.\n\nkonsernijohtajan palkasta palkkaliitteen mukaisesti.\n\nettä virkaan valitun tulee toimittaa ennen viran vastaanottamista hyväksytty lääkärintodistus terveydentilastaan. Valinta on ehdollinen, kunnes selvitys on esitetty.\n\nettä virkaan valitulle tehdään hänen suostumuksellaan turvallisuusselvityslain 21 §:n mukainen perusmuotoinen henkilöturvallisuusselvitys. Valinta on ehdollinen, kunnes selvitys on esitetty.\n\nettä virantäytössä noudatetaan kuuden (6) kuukauden koeaikaa.\n\nAluehallitus päätti tarkastaa pykälän kokouksessa.\n\nEsteellisyys\n\nVs. konsernijohtaja Mika Kontio ilmoitti olevansa esteellinen asiassa (HL 28 § 1 mom 1 kohta) ja poistui kokouksesta asian käsittelyn ja päätöksenteon ajaksi. Esteellisyys todettiin."
+    },
+    {
+     "heading": "Kokouskäsittely",
+     "text": "Aluehallituksen jäsen Taru Tolvanen esitti, että kohtaan 1 lisätään: \"Kontio, Santala ja Varhila ovat aluehallituksen kolme kärkiehdokasta.\"\n\nKannatus: Sami Kymäläinen ja Petri Siuro.\n\nHyväksyttiin yksimielisesti.\n\nPuheenjohtaja esitti, että pykälä tarkastetaan kokouksessa. Hyväksyttiin yksimielisesti.\n\nAluevaltuuston 1. varapuheenjohtaja Johanna Loukaskorpi ja aluevaltuuston 2. varapuheenjohtaja Perttu Jussila saapuivat kokoukseen ennen päätöksentekoa.\n\nSosiaali- ja terveysjohtaja Taru Kuosmanen, viestintäjohtaja Elina Kinnunen ja hallintoassistentti Katri Lielahti poistuivat kokouksesta ennen asian käsittelyä."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Hakuilmoitus.pdf (pdf, 12 kt)",
+     "url": "https://pirha.cloudnc.fi/download/noname/{2f8430ab-dd6f-40b1-a8b8-f53f2eb244cd}/70961"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Hanna Tainio",
+   "role": "Puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Leena Kostiainen",
+   "role": "1. Varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Petra Schulze-Steinen",
+   "role": "2. Varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Atanas Aleksovski",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Mikko Franssila",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Milka Hanhela",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Sami Kymäläinen",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Hanna Sareila",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Touko Sikala",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Petri Siuro",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Anneli Taina",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Taru Tolvanen",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Atte Virolainen",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Jari Andersson",
+   "role": "Aluevaltuuston puheenjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Johanna Loukaskorpi",
+   "role": "Aluevaltuuston 1. varapuheenjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Perttu Jussila",
+   "role": "Aluevaltuuston 2. varapuheenjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Tapio Visakorpi",
+   "role": "yliopiston edustaja",
+   "group": "other"
+  },
+  {
+   "name": "Marina Erhola",
+   "role": "hyvinvointialuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Esittelijä",
+   "role": "",
+   "group": "other"
+  },
+  {
+   "name": "Miia Luukko",
+   "role": "hallintojohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Sihteeri",
+   "role": "",
+   "group": "other"
+  },
+  {
+   "name": "Vilma Kiilunen",
+   "role": "hallintojuristi",
+   "group": "other"
+  },
+  {
+   "name": "Sihteeri",
+   "role": "",
+   "group": "other"
+  },
+  {
+   "name": "Katri Lielahti",
+   "role": "hallintoassistentti",
+   "group": "other"
+  },
+  {
+   "name": "Sihteeri",
+   "role": "",
+   "group": "other"
+  },
+  {
+   "name": "Mika Kontio",
+   "role": "vs. konsernijohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Taru Kuosmanen",
+   "role": "sosiaali- ja terveysjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Elina Kinnunen",
+   "role": "viestintäjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Aija Tuimala",
+   "role": "HR-johtaja",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pirha.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_922026",
+  "fetched_at": "2026-10-14T17:37:11+00:00",
+  "content_hash": "d458a481a687b8b9",
+  "parser_version": "0.1.0",
+  "platform": "cloudnc",
+  "first_seen": "2026-10-14T17:37:11+00:00"
+ }
+}

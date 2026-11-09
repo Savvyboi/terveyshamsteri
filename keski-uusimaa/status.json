@@ -1,0 +1,15 @@
+{
+ "region": "keski-uusimaa",
+ "started_at": "2026-11-09T02:32:44+00:00",
+ "parser_version": "0.1.0",
+ "fetched": 17,
+ "changed": 5,
+ "unchanged": 93,
+ "removed": 0,
+ "errors": [],
+ "complete": true,
+ "result": "ok",
+ "requests": 166,
+ "finished_at": "2026-11-09T02:35:31+00:00",
+ "meetings_total": 110
+}

@@ -1,0 +1,233 @@
+{
+ "id": "tarkastuslautakunta/2025-11-18",
+ "region": "etela-savo",
+ "body_id": "tarkastuslautakunta",
+ "body_name": "Tarkastuslautakunta",
+ "date": "2025-11-18",
+ "stage": "minutes",
+ "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025343",
+ "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025343.PDF",
+ "time": "09:00",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "70",
+   "title": "Kokouksen avaus",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025343-1",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025343-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Puheenjohtaja avaa kokouksen.",
+   "decision": "Puheenjohtaja avasi kokouksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Esitys",
+     "text": "Puheenjohtaja avaa kokouksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja avasi kokouksen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "71",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025343-2",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025343-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouskutsun antaa puheenjohtaja tai hänen estyneenä ollessaan varapuheenjohtaja.\n\nKokouskutsussa on ilmoitettava kokouksen aika ja paikka sekä käsiteltävät asiat. Kokouskutsu lähetetään vähintään neljä päivää ennen kokousta. Kirjallinen kutsu on toimitettu jäsenille sähköpostitse 13.11.2025.\n\nEsityslista, joka sisältää selostuksen käsiteltävistä asioista ja ehdotukset toimielimen päätöksiksi, lähetetään kokouskutsun yhteydessä, jollei erityiset syyt ole esteenä.\n\nKokouskutsu lähetetään jäsenille ja muille, joilla on läsnäolo-oikeus tai -velvollisuus toimielimen päättämällä tavalla.\n\nKokouskutsu, esityslista, liitteet ja oheismateriaali lähetetään ensisijaisesti sähköisesti. Tällöin valmistelutoimielin tai sen nimeämä viranhaltija vastaa siitä, että tähän tarvittavat tekniset laitteet, järjestelmät ja tietoliikenneyhteydet ovat käytettävissä. Salassa pidettäviä tietoja voidaan lähettää vain suojatulla yhteydellä.\n\nTodetaan läsnäolijat sähköisessä kokoushallintajärjestelmässä. Kokous on päätösvaltainen kun yli puolet jäsenistä on läsnä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokous todettiin lailliseksi ja päätösvaltaiseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "72",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025343-3",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025343-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Pöytäkirjantarkastajiksi valittiin Riitta Hassinen ja Miia Hämäläinen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Toimielin valitsee pöytäkirjantarkastajiksi kaksi toimielimen jäsentä ja varalle kaksi jäsentä aakkosjärjestyksessä.\n\nPuheenjohtajan selostus:\n\nTämän kokouksen pöytäkirjantarkastajiksi valitaan Riitta Hassinen ja Satu Taavitsainen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Riitta Hassinen ja Miia Hämäläinen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "73",
+   "title": "Geriatrisen osastopalvelun katsaus",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025343-4",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025343-4.PDF",
+   "diary_number": "7230/00.01.02.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Tarkastuslautakunta merkitsi saadun katsauksen tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Tarkastuslautakunta kuulee palvelualuepäällikkö Sanna Luokkamäkeä geriatrisen osastopalvelun strategisista painopisteistä ja toteutumisen edistymisestä, aluevaltuuston asettamien tavoitteiden toteutumisesta sekä palveluiden saatavuudesta ja hoidon jatkuvuudesta."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Lapin hyvinvointialueesta 125 §\n\nPuheenjohtajan selostus:\n\nTarkastuslautakunta merkitsee saadun katsauksen tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta merkitsi saadun katsauksen tiedoksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "74",
+   "title": "Digitaalisten ja tietopalveluiden katsaus",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025343-5",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025343-5.PDF",
+   "diary_number": "7229/00.01.02.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Tarkastuslautakunta merkitsi saadun katsauksen tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Tarkastuslautakunta kuulee digijohtaja Jukka Mielosta digitaalisten ja tietopalveluiden strategisista painopisteistä ja toteutumisen edistymisestä, aluevaltuuston asettamien tavoitteiden toteutumisesta sekä kehitysprojektien edistymisestä."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Laki hyvinvointialueesta 125 §\n\nPuheenjohtajan selostus:\n\nTarkastuslautakunta merkitsee saadun katsauksen tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tarkastuslautakunta merkitsi saadun katsauksen tiedoksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "75",
+   "title": "Muut asiat",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025343-6",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2025343-6.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Keskusteltiin muista ajankohtaisista asioista.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat\n\nTarkastuslautakunta merkitsee tiedoksi kokouksessa esille tulleet muut asiat."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Keskusteltiin muista ajankohtaisista asioista."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Kristiansson Olli-Pekka",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Ruhanen Seppo",
+   "role": "varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Hassinen Riitta",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hämäläinen Miia",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Jantunen Mikko",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kauhanen Matti",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kauria Outi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Soininen Mali",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Taavitsainen Satu",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kokko-Petäjäjärvi Eija",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025343",
+  "fetched_at": "2026-10-14T16:58:36+00:00",
+  "content_hash": "9e462028c3e7862d",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T16:58:36+00:00"
+ }
+}

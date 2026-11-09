@@ -1,0 +1,995 @@
+{
+ "id": "aluehallitus/2025-06-24",
+ "region": "pohjois-pohjanmaa",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2025-06-24",
+ "stage": "minutes",
+ "source_url": "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2462025",
+ "pdf_url": "https://pohde.cloudnc.fi/download/noname/{78e6d67a-2e4d-472f-9727-8a86fcdd22fb}/41589",
+ "time": null,
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "48",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2364/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi.\n\nMerk. Anne Huotari ja Matti Soronen saapuivat kokoukseen asian käsittelyn aikana klo 9.04.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Perustelut",
+     "text": "Hallintosäännön 144 §:n mukaan kokouskutsun antaa puheenjohtaja tai hänen estyneenä ollessa varapuheenjohtaja. Kokouskutsu tulee lähettää, mikäli mahdollista, vähintään kolme (3) päivää ennen kokousta toimielimen jäsenille ja muille, joilla on läsnäolo-oikeus tai -velvollisuus.\n\nHallintosäännön 146 §:n mukaan esityslista julkaistaan hyvinvointialueen verkkosivuilla.\n\nHallintosäännön 141 § mahdollistaa toimielimen kokouksen pitämisen sähköisesti. Suljettuun kokoukseen voi osallistua sellaisesta tilasta, jossa salassa pidettävät tiedot ja kokouksessa käydyt keskustelut eivät ole ulkopuolisen kuultavissa tai nähtävissä. Kokouskutsussa on ilmoitettu, että hallituksen kokoukseen voi osallistua paikan päällä tai sähköisen yhteyden kautta.\n\nToimielin on päätösvaltainen, kun yli puolet jäsenistä on läsnä (hyvinvointialuelaki 108.2 §).\n\nPuheenjohtaja toteaa läsnä olevat ja onko kokous laillisesti koolle kutsuttu ja päätösvaltainen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokous todettiin lailliseksi ja päätösvaltaiseksi.\n\nMerk. Anne Huotari ja Matti Soronen saapuivat kokoukseen asian käsittelyn aikana klo 9.04."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "49",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2365/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Pöytäkirjantarkastajiksi valittiin Tarja Ollanketo ja Antti Ollikainen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Perustelut",
+     "text": "Aluehallituksen kokoukselle valitaan kaksi pöytäkirjantarkastajaa ja pöytäkirjantarkastusvuoro kiertää aakkosjärjestyksessä.\n\nTämän kokouksen pöytäkirjan tarkastusvuorossa ovat Tarja Ollanketo ja Antti Ollikainen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Tarja Ollanketo ja Antti Ollikainen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "50",
+   "title": "Työjärjestyksen hyväksyntä",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2366/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Hyväksyttiin esityslista työjärjestykseksi. Päätettiin ottaa käsiteltäväksi lisäasiana § 68 Aluehallituksen otto-oikeuden käyttäminen.\n\nMerk. Jukka Hakkola saapui kokoukseen asian käsittelyn aikana klo 9.06.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Perustelut",
+     "text": "Aluehallitus hyväksyy kokouksen esityslistan työjärjestykseksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityslista työjärjestykseksi. Päätettiin ottaa käsiteltäväksi lisäasiana § 68 Aluehallituksen otto-oikeuden käyttäminen.\n\nMerk. Jukka Hakkola saapui kokoukseen asian käsittelyn aikana klo 9.06."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "51",
+   "title": "Pohjois-Pohjanmaan hyvinvointialueen palveluista perittävät organisaatiolaskutuksen hinnat vuonna 2025",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2373/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "lkka Luoma, hyvinvointialuejohtaja",
+   "proposal": "Esittelijä: lkka Luoma, hyvinvointialuejohtaja\n\nAluehallitus hyväksyy strategia- ja talousjohtajan ehdotuksen.",
+   "decision": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "PPHVADno-2025-10431"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Aluehallitus on päättänyt 10.12.2024 hyvinvointialueen palveluista perittävistä hinnoista vuonna 2025. Päätös koskee organisaatioiden välistä laskutusta esimerkiksi muilta hyvinvointialueilta tai vakuutusyhtiöiltä.\n\nHinnastoja päivitetään toimintavuoden 2025 aikana tarpeen mukaan.\n\nVuoden 2025 hinnaston tarkennukset:\n\nEhdotetaan lisättäväksi uudet hinnat perhe- ja sosiaalipalveluiden ja OYS-psykiatrian toimialueen hinnastoon:\n\nTuettu asuminen, tuntihinta: 59 €\n\nOhjaajapalvelut, tuntihinta: 55 €\n\nFärinranta, vuorokausi: 283 €\n\nKoskivirta, vuorokausi: 283 €\n\nOpioidikorvaushoito (kertalääkitys) ja hoitajakäynti: 48 €\n\nOpioidikorvaushoito (viikkoinjektio) ja hoitajakäynti: 170 €\n\nOpioidikorvaushoito (kuukausi-injektio) ja hoitajakäynti: 455 €\n\nPikahuumeseula ja hoitajan vastaanottokäynti 30 min.: 54 €\n\nPikahuumeseula ja hoitajan vastaanottokäynti 60 min.: 95 €\n\nLaaja huumeseula ja hoitajan vastaanottokäynti: 193 €\n\nKouluterveyshuolto, käynti: 83 €\n\nHinnat perustuvat toimialueella tehtyyn kustannuslaskentaan ja tuotteistukseen.\n\nEsitettyjä hintoja ei ole aiemmin sisältynyt palveluhinnastoon. Esityksenä on, että hinnaston päivitys mainittujen hintojen osalta on voimassa 1.1.2025 alkaen, jotta aiemmin vuonna 2025 toteutetut ja vielä laskuttamattomat palvelut ja toimenpiteet voidaan laskuttaa päivitetyn hinnaston mukaisesti."
+    },
+    {
+     "heading": "Valmistelijan ehdotus",
+     "text": "Anu Vuorinen, strategia- ja talousjohtaja (p. ):\n\nAluehallitus hyväksyy organisaatiolaskutuksen palveluhinnaston päivityksen vuodelle 2025 esityksen mukaan siten, että muutokset ovat voimassa takautuvasti 1.1.2025 alkaen."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Esittelijä: lkka Luoma, hyvinvointialuejohtaja\n\nAluehallitus hyväksyy strategia- ja talousjohtajan ehdotuksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Leena Mämmi-Laukka, toimialuejohtaja (), Susa Ivakko, talouspäällikkö (), Krista Kustula, taloussuunnittelu- ja laskentapäällikkö ()"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "52",
+   "title": "Hankintaoikaisupäätös: Ambulanssiajoneuvot (168074)",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2368/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Marko Jämsen, kalustopäällikkö; Riitta Sandgren, hankinta-asiantuntija; Katja Lantiainen, hankinta- ja sopimusjuristi; Hankinta, jota hankintaoikaisupäätös koskee; Hankinnan nimi:; Ambulanssiajoneuvot (168074).; Hankintamenettely:; Avoin menettely.; Sopimuskausi:; Sopimuskauden pituus on neljä vuott",
+   "presenter": "Ilkka Luoma, hyvinvointialuejohtaja",
+   "proposal": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja\n\nAluehallitus hyväksyy palvelualuejohtajan ehdotuksen.\n\nAsia tarkastetaan kokouksessa.",
+   "decision": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen.\n\nAsia tarkastettiin kokouksessa.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "PPHVADno-2025-10143"
+    },
+    {
+     "heading": "Perustelut",
+     "text": ""
+    },
+    {
+     "heading": "Valmistelijat",
+     "text": "Marko Jämsen, kalustopäällikkö\n\nRiitta Sandgren, hankinta-asiantuntija\n\nKatja Lantiainen, hankinta- ja sopimusjuristi\n\nHankinta, jota hankintaoikaisupäätös koskee\n\nHankinnan nimi:\n\nAmbulanssiajoneuvot (168074).\n\nHankintamenettely:\n\nAvoin menettely.\n\nSopimuskausi:\n\nSopimuskauden pituus on neljä vuotta. Sopimuskauden arvioitu alkamispäivä on 16.6.2025 ja arvioitu päättymispäivä 15.6.2029.\n\nHankinnan arvo:\n\nHankinnan yhteenlaskettu arvioitu arvonlisäveroton kokonaisarvo neljälle vuodelle on 10 663 375,12 euroa.\n\nHankintapäätös:\n\nAluehallitus 27.5.2025, 249 § Hankintapäätös 168074 Ambulanssiajoneuvot. Toimittajaksi valittu Veho Oy.\n\nHankintaoikaisuvaatimuksen tekijä:\n\nPörhön Autoliike Oy (2046933-2).\n\nHankintaoikaisuvaatimuksen sisältö:\n\nPörhön Autoliike Oy vaatii, että hankintayksikkö suorittaa tarjousvertailun/tarjousten pisteytyksen uudestaan hankintaoikaisuvaatimuksesta (liite 1) ilmeneviltä kohdin.\n\nHankintaoikaisuvaatimuksen tutkiminen\n\nHankintaoikaisuvaatimus on saapunut Pohteen kirjaamoon 11.6.2025 klo 15:30. Hankintaoikaisuvaatimus on saapunut muutoksenhakuaikana.\n\nHankintaoikaisuvaatimuksen on tehnyt Pörhön Autoliike Oy, jonka tarjouskilpailuun osallistunut tarjoaja Profile Vehicles Oy on ilmoittanut alihankkijakseen. Pörhön Autoliike Oy ei ole jättänyt hankinnassa tarjousta.\n\nHankintalain (1397/2016) mukaan hankintayksikkö voi ottaa hankintaoikaisun käsiteltäväkseen omasta aloitteestaan tai asianosaisen vaatimuksesta. Hankintalain esitöiden perusteella hankintaoikaisun tekemiseen oikeutetun asianosaisen käsite vastaa hankintalain 145 §:ssä tarkoitettuja muutoksenhakuun oikeutettuja tahoja. Asianosaisella tarkoitetaan henkilöä, jolla on oikeudellinen intressi saada muutos virheelliseen hankintamenettelyyn.\n\nHankintalain esitöiden ja vakiintuneen oikeuskäytännön mukaan muutoksenhakijana voi olla lähinnä alalla toimiva yritys, jolla on tai olisi ollut mahdollisuus saada oma tarjouksensa hyväksytyksi oikein toteutetussa hankintamenettelyssä. Alalla toimiminen on riittänyt asianosaisaseman edellyttämän oikeudellisen intressin perusteeksi niissä tapauksissa, joissa oikeussuojapyyntö perustuu hankinnan kilpailuttamisen laiminlyömiseen. Tilanteissa, joissa hankintayksikkö on kilpailuttanut hankinnan hankintasäännösten edellyttämällä tavalla, alalla toimiva yritys on oikeuskäytännössä katsottu asianosaiseksi lähtökohtaisesti vain, jos yritys on antanut tarjouskilpailussa tarjouksen tai jos yritys on ainakin voinut osoittaa pyrkineensä osallistumaan tarjouskilpailuun. Esimerkiksi tapauksessa MAO:472/​11 katsottiin, että valittajalla ei ollut asianosaisasemaa, kun se ei ollut osallistunut itse tarjouskilpailuun vaan yksi tarjoaja oli tarjonnut valittajan tuotetta, valittaja toimi tarjoajan teknologiakumppanina ja tarjoaja valittajan jakelukanavana.\n\nHankintayksikkö on kilpailuttanut ambulanssiajoneuvoja koskevan hankinnan ja julkaissut hankintaa koskevan EU-hankintailmoituksen. Profile Vehicles Oy on antanut tarjouskilpailuun tarjouksen, jossa se on ilmoittanut Pörhön Autoliike Oy:n toimivan sen alihankkijana alustatoimittajan ja alustan huoltopalveluiden toteuttajan roolissa. Pörhön Autoliike Oy ei ole itse osallistunut tarjouskilpailuun omalla tarjouksellaan. Pörhön Autoliike Oy ei ole myöskään edes väittänyt, että tarjouskilpailussa olisi ollut ollut sellainen virhe, joka olisi estänyt sen osallistumisen tarjouspyyntöön tai että se yleensäkään olisi pyrkinyt osallistumaan tarjouskilpailuun.\n\nHankintayksikkö ei ole kuullut hankintaoikaisuvaatimuksesta asianosaisia, koska on pitänyt sitä ilmeisen tarpeettomana.\n\nEdellä esitetyillä perusteilla Pörhön Autoliike Oy:tä ei ole pidettävä hankintalain 133 §:n 1 momentissa ja 145 §:n 1 momentissa tarkoitettuna asianosaisena. Hankintaoikaisuvaatimus on siten jätettävä tutkimatta."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosäännön 78 §:n 3 momentin mukaan toimivalta asiassa on aluehallituksella."
+    },
+    {
+     "heading": "Valmistelijan ehdotus",
+     "text": "Mirja Annala, palvelualuejohtaja (p. ):\n\nAluehallitus päättää jättää hankintaoikaisuvaatimuksen tutkimatta."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja\n\nAluehallitus hyväksyy palvelualuejohtajan ehdotuksen.\n\nAsia tarkastetaan kokouksessa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen.\n\nAsia tarkastettiin kokouksessa."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Riitta Sandgren, hankinta-asiantuntija"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Hankintaoikaisuvaatimus.pdf (pdf, 10860 kt)",
+     "url": "https://pohde.cloudnc.fi/download/noname/{dcf3336e-c66f-4007-a2bd-9097f3710b50}/41590"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "53",
+   "title": "Hankintapäätös, Ateria- ja puhtauspalvelut",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2377/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Aila Kerosalo, ateria- ja puhtauspalveluostopäällikkö; Anja Kellolampi, hankintavastaava; Julkisuus; Hankinta-asiakirjojen julkisuutta säätelee laki viranomaisten toiminnan julkisuudesta (621/1999). Hankintapäätös ja kokouspöytäkirja liiteasiakirjoineen tulevat julkiseksi, kun päätös/pöytäkirja on a",
+   "presenter": "Ilkka Luoma, hyvinvointialuejohtaja",
+   "proposal": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja\n\nAluehallitus hyväksyy ateria- ja puhtauspalveluostopäällikön ehdotuksen.\n\nAsia tarkastetaan kokouksessa.",
+   "decision": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen.\n\nAsia tarkastettiin kokouksessa.\n\nEsteellisyys\n\nJouko Luukkonen poistui esteellisenä (hallintolain § 28.1 kohta 7) kokouksesta asian käsittelyn ja päätöksenteon ajaksi. Pöytäkirjanpitäjänä toimi Ilkka Luoma.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "PPHVADno-2025-10471"
+    },
+    {
+     "heading": "Perustelut",
+     "text": ""
+    },
+    {
+     "heading": "Valmistelijat",
+     "text": "Aila Kerosalo, ateria- ja puhtauspalveluostopäällikkö\n\nAnja Kellolampi, hankintavastaava\n\nJulkisuus\n\nHankinta-asiakirjojen julkisuutta säätelee laki viranomaisten toiminnan julkisuudesta (621/1999). Hankintapäätös ja kokouspöytäkirja liiteasiakirjoineen tulevat julkiseksi, kun päätös/pöytäkirja on allekirjoitettu tai vastaavalla tavalla varmennettu (6 §:n 1 momentin 6 ja 8 kohdat).\n\nAikaisempi käsittely\n\nHankinnan käynnistäminen Aluehallitus 1.4.2025 § 140\n\nTausta\n\nTarjouspyyntö 194525 julkaistiin 2.4.2025 ja se keskeytettiin 5.5.2025, jonka jälkeen tarjouspyyntöön tehtiin pieniä teknisiä korjauksia ja se julkaistiin uudestaan numerolla 201994 9.5.2025.\n\nTarjouspyynnössä on 9 erillistä osa-aluetta, joista osa-alueesta 3 (Oulun Hiirosen palvelukeskus) tehtiin keskeytyspäätös 6.6.2025 ja se osa-alue kilpailutetaan uudestaan.\n\nHankinnan kohde\n\nAteria- ja puhtauspalvelut, joka on jaettu seuraaviin osa-alueisiin:\n\nOsa 1. Oulunsalon palvelukoti Saarenkartano, ateriapalvelutyö ja puhtauspalvelut\n\nOsa 2. Oulunsalon sosiaali- ja terveysasema ja hammashoitola, puhtauspalvelut\n\nOsa 4. Oulun Rajakylän palvelukeskus, ateriapalvelutyö ja puhtauspalvelut\n\nOsa 5. Oulun Intiön palvelukeskus, ateriapalvelutyö ja puhtauspalvelut\n\nOsa 6. Kempele, ateriapalvelut\n\nOsa 7. Kempele, puhtauspalvelut\n\nOsa 8. Muhos, puhtauspalvelut\n\nOsa 9. Liminka, puhtauspalvelut\n\nSopimuskausi on 36 kk, jonka jälkeen jatkuu toistaiseksi voimassa olevana.\n\nHankinta on liitteen E mukainen palveluhankinta.\n\nHankintamenettely\n\nMenettelynä on avoin menettely. Hankinta on jaettu edellä mainittuihin osa-alueisiin ja jokaisesta osa-alueesta tehdään erikseen päätös.\n\nTarjouspyyntö on julkaistu 9.5.2025 Cloudiassa ja 11.5.2025 Hilmassa. Tarjousten määräaika oli 9.6.2025. Jokaiseen osa-alueeseen valitaan yksi toimittaja.\n\nTarjousten tarkistaminen ja vertailu\n\nTarjouksen jättivät:\n\nCompass Group Finland Oy (kaikki osa-alueet)\n\nCoor Service Management Oy (osat 2, 7 ja 9)\n\nFodbar Oy (kaikki osa-alueet)\n\nLT Siivous Oy (osat 2, 7, 8 ja 9)\n\nSodexo Oy (osa 6)\n\nSOL Palvelut Oy (osat 2, 7, 8 ja 9)\n\nUniresta Oy (osa 6)\n\nWash palvelut Ky (osat 2, 7, 8 ja 9)\n\nOsa-alueiden 7 ja 9 osalta on tehty täsmennyspyyntöjä. Vastausten perusteella on todettu, että tarjouspyyntö ei ole ollut riittävän täsmällinen ja yksiselitteinen. Saadut tarjoukset eivät ole keskenään vertailukelpoisia. Osat 7 ja 9 kilpailutetaan uudestaan.\n\nOsien 1, 4, 5 ja 6 osalta on tehty täsmennyspyyntö Fodbar Oy:lle. Vastauksen perusteella tarjous on tarjouspyynnön mukainen.\n\nMuilta osin tarjoukset ovat tarjouspyynnön mukaiset.\n\nTarjoukset on vertailtu halvimman kokonaishinnan perusteella osa-kohtaisesti. Laadulliset tekijät on huomioitu pakollisissa vaatimuksissa.​​​​​​\n\nVertailutaulukko on liitteenä.\n\nHankinnan arvo\n\nHankinnan arvonlisäveroton kokonaisarvo on 6.867.130 euroa. Hinta on laskettu 48 kk:n mukaan ja siinä on huomioitu mahdollinen lisäoston arvo max. 50 %.\n\nHankintasopimus\n\nHankintapäätös ei muodosta hankintasopimusta, vaan se syntyy osapuolten välisellä erillisellä kirjallisella sopimuksella. Hankintasopimus voidaan tehdä aikaisintaan 14 päivän kuluttua siitä, kun ehdokas tai tarjoaja on saanut tai hänen katsotaan saaneen päätöksen ja valitusosoituksen tiedoksi."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosäännön 78 §:n 3 momentin mukaan toimivalta asiassa on aluehallituksella."
+    },
+    {
+     "heading": "Valmistelijan ehdotus",
+     "text": "Ateria- ja puhtauspalveluostopäällikkö Aila Kerosalo (p. ):\n\nAluehallitus valitsee hankinnan toteuttajat osa-aluekohtaisesti seuraavasti:\n\nOsa 1. Oulunsalon palvelukoti Saarenkartano, ateriapalvelutyö ja puhtauspalvelut, Fodbar Oy\n\nOsa 2. Oulunsalon sosiaali- ja terveysasema ja hammashoitola, puhtauspalvelut, SOL Palvelut Oy\n\nOsa 4. Oulun Rajakylän palvelukeskus, ateriapalvelutyö ja puhtauspalvelut, Fodbar Oy\n\nOsa 5. Oulun Intiön palvelukeskus, ateriapalvelutyö ja puhtauspalvelut, Fodbar Oy\n\nOsa 6. Kempele, ateriapalvelut, Fodbar Oy\n\nOsa 8. Muhos, puhtauspalvelut, SOL Palvelut Oy\n\nSeuraavat osa-alueiden osalta hankinta keskeytetään ja kilpailutetaan uudestaan:\n\nOsa 7. Kempele, puhtauspalvelut\n\nOsa 9. Liminka, puhtauspalvelut"
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja\n\nAluehallitus hyväksyy ateria- ja puhtauspalveluostopäällikön ehdotuksen.\n\nAsia tarkastetaan kokouksessa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen.\n\nAsia tarkastettiin kokouksessa.\n\nEsteellisyys\n\nJouko Luukkonen poistui esteellisenä (hallintolain § 28.1 kohta 7) kokouksesta asian käsittelyn ja päätöksenteon ajaksi. Pöytäkirjanpitäjänä toimi Ilkka Luoma."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Asianosaiset"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Vertailu yhteenveto JULKINEN.pdf (pdf, 69 kt)",
+     "url": "https://pohde.cloudnc.fi/download/noname/{67865f55-4131-43cd-909c-873fdd11bf8b}/41596"
+    },
+    {
+     "title": "Vertailu JULKINEN.pdf (pdf, 324 kt)",
+     "url": "https://pohde.cloudnc.fi/download/noname/{950ae981-a107-4af0-babb-7ec1ac5acf0b}/41600"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "54",
+   "title": "Hankintapäätös 172580 Insuliinipumput ja glukoosisensorointijärjestelmät",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2378/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Anne Kurkela, hankinta-asiantuntija",
+   "presenter": "Ilkka Luoma, hyvinvointialuejohtaja",
+   "proposal": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja\n\nAluehallitus hyväksyy hankinta-asiantuntijan ehdotuksen.\n\nAsia tarkastetaan kokouksessa.",
+   "decision": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen.\n\nAsia tarkastettiin kokouksessa.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "PPHVADno-2025-10637"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Anne Kurkela, hankinta-asiantuntija"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Julkisuus\n\nHankinta-asiakirjojen julkisuutta säätelee laki viranomaisten toiminnan julkisuudesta (621/1999). Hankintapäätös ja kokouspöytäkirja liiteasiakirjoineen tulevat julkiseksi, kun päätös/pöytäkirja on allekirjoitettu tai vastaavalla tavalla varmennettu (6 §:n 1 momentin 6 ja 8 kohdat).\n\nHankinnan kohde\n\nHankinnan kohteena ovat insuliinipumput ja glukoosisensorointijärjestelmät sekä niiden tarvikkeet Pohjois-Pohjanmaan hyvinvointialueelle (Pohde) ja yhteistyöalueen yksiköiden Kainuun, Keski-Pohjanmaan sekä Lapin hyvinvointialueelle. Sopimuskausi on kaksi (2) vuotta, jonka jälkeen on mahdollisuus kahteen optiovuoteen (1v+1v). Option käytöstä ilmoitetaan ennen sopimuskauden päättymistä.\n\nHankinta on hankintalain EU-kynnysarvon ylittävä hankinta.\n\nHankintamenettely\n\nHankinnassa hankintalain mukaista avointa menettelyä. Hankinta on jaettu yhteentoista osa-alueeseen;\n\n1. Letkullinen perusinsuliinipumppu, ei saapuneita tarjouksia\n\n2. Letkuton perusinsuliinipumppu, osa-alueeseen valitaan yksi (1) toimittaja.\n\n3. Hybridipumppu jatkuvatoimisella glukoosisensorilla, osa-alueeseen valitaan neljä (4) toimittajaa.\n\n4. Letkullinen hybridipumppu, josta eriytetty jatkuvatoiminen glukoosisensori, osa-alueeseen valitaan kaksi (2) toimittajaa.\n\n5. Letkuton hybridipumppu, josta eriytetty jatkuvatoiminen glukoosisensori, osa-alueeseen valitaan yksi (1) toimittaja.\n\n6. Skannaukseen perustuva glukoosisensori, osa-alueeseen valitaan yksi (1) toimittaja.\n\n7. Jatkuvatoiminen glukoosisensori (CGM)_ sensorin uusin versio, osa-alueeseen valitaan neljä (4) toimittajaa.\n\n8. Jatkuvatoiminen glukoosisensori (CGM)_ sensorin rinnakkainen versio, osa-alueeseen valitaan kaksi (2) toimittajaa.\n\n9. Hybridipumpun kanssa yhteensopiva jatkuvatoiminen glukoosisensori_sensorin uusin versio, osa-alueeseen valitaan kolme (3) toimittajaa.\n\n10. Hybridipumpun kanssa yhteensopiva jatkuvatoiminen glukoosisensori_sensorin rinnakkainen versio, osa-alueeseen valitaan kolme (3) toimittajaa.\n\n11. Älykäs monipistoshoitojärjestelmä, osa-alueeseen valitaan yksi (1) toimittaja.\n\nHankintapäätöksen listatekstin liitteissä on kerrottu osa-alueittain valitut toimittajat. Osa-alueelle 7 tehdään uusi hankintapäätös, kun tarvittavat koekäytöt on tehty.\n\nTarjouspyyntö julkaistiin 12.3.2025 Tarjouspalvelu Hilmassa. Tarjousten jättöaika päättyi 14.4.2025.\n\nTarjousten tarkistaminen ja vertailu\n\nTarjoajat, jotka jättivät tarjouksen;\n\n- Abbott Oy\n\n- ELCOS MEDICAL OY AB\n\n- Mediq Suomi Oy\n\n- Medtronic Finland Oy\n\n- Nordicinfu Care AB - Filial Finland\n\n- Roche Diagnostics Oy\n\n- Rubin Medical Oy\n\n- Ypsomed Oy\n\nTarjoajista ELCOS MEDICAL OY AB hylätään, koska tarjous ei täytä tarjouspyynnössä asetettuja vaatimuksia. Tarjouspyynnössä pyydettiin osa-alueittain esimerkiksi hintaerittelyä, jolla osoitetaan annetun vertailuhinnan todenmukaisuus. Tarjouksesta puuttui hintaerittelyt. Tarjoajalle on annettu mahdollisuus antaa selvitys edellä mainittuun asiaan.\n\nTarjousten täsmennyspyyntöjä esitettiin Abbott Oy:lle, ELCOS MEDICAL OY AB:lle, Medtronic Finland Oy:lle, Nordicinfu Care AB - Filial Finland:lle ja Ypsomed Oy:lle.\n\nTarjoajista Abbott Oy, Mediq Suomi Oy, Medtronic Finland Oy, Nordicinfu Care AB - Filial Finland, Roche Diagnostics Oy, Rubin Medical Oy ja Ypsomed Oy tarjoukset olivat tarjouspyynnön mukaiset ja ne otettiin mukaan tarjousvertailuun.\n\nValinta perustuu kokonaistaloudelliseen edullisuuteen, jossa jokainen osa-alue vertaillaan erikseen. Tuotteiden etusijajärjestys määräytyy vertailuperusteiden mukaisesti hinta 100 pistettä. Edullisin vertailuhinta saa täydet 100 pistettä ja muut suhteessa siihen. Ensisijaiseksi toimittajaksi valitaan se, jonka tarjous saa suurimman kokonaispistemäärän. Etusijajärjestyksestä voidaan poiketa yksilöllisin terveydellisin tai hoidollisin perustein.\n\nHankinnan arvo\n\nHankinnan arvonlisäveroton kokonaisarvo on 96 000 000 euroa varsinainen sopimuskausi ja mahdolliset optiokaudet huomioituna.\n\nHankintapäätös ei muodosta hankintasopimusta, vaan se syntyy osapuolten välisellä erillisellä kirjallisella sopimuksella. Hankintasopimus voidaan tehdä aikaisintaan 14 päivän kuluttua siitä, kun ehdokas tai tarjoaja on saanut tai hänen katsotaan saaneen päätöksen ja valitusosoituksen tiedoksi."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosäännön 78 §:n 3 momentin mukaan toimivalta asiassa on aluehallituksella."
+    },
+    {
+     "heading": "Valmistelijan ehdotus",
+     "text": "Anne Kurkela, hankinta-asiantuntija (p. ):\n\nAluehallitus valitsee hankinnan toteuttajat osa-aluekohtaisesti liitteessä \"vertailutaulukko\" eritellyn mukaisesti.\n\nLisäksi aluehallitus valtuuttaa konsernipalvelujen hankintapäällikön tai hänen määräämänsä henkilön tekemään sopimusasiakirjoihin teknisluontoisia tai muutoin vähäisiä korjauksia ja tarkennuksia."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja\n\nAluehallitus hyväksyy hankinta-asiantuntijan ehdotuksen.\n\nAsia tarkastetaan kokouksessa."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen.\n\nAsia tarkastettiin kokouksessa."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Asianosaiset, hankinta-asiantuntija Anne Kurkela"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "vertailutaulukko_538810 JULKINEN.pdf.pdf (pdf, 945 kt)",
+     "url": "https://pohde.cloudnc.fi/download/noname/{7ee1268b-f117-403a-8462-fce60bea8ba8}/41593"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "55",
+   "title": "Tulevaisuuden sairaala OYS2030: B-allianssin taloudellinen loppuselvitys",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2375/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Ollipekka Huotari, Kari-Pekka Tampio p. ja Soile Saren",
+   "presenter": "Ilkka Luoma, hyvinvointialuejohtaja",
+   "proposal": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja\n\nAluehallitus hyväksyy teknisen johtajan ehdotuksen.",
+   "decision": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "PPHVADno-2025-10574"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Valmistelijat Ollipekka Huotari, Kari-Pekka Tampio p. ja Soile Saren\n\nOys 2030 uudistamisohjelman B-rakennus on rakennusteknisesti valmistunut ja se on vastaanotettu tilaajan käyttöön toukokuussa 2024. B-rakennuksen sopimuksen mukainen vastaanotto tuli tapahtua seuraavasti\n\n- alimmat kerrokset (T,R,0-5) hyväksytty vastaanotto viimeistään 31.12.2022 mennessä\n\n- ylemmät kerrokset (6-10) hyväksytty vastaanotto 31.12.2023 mennessä.\n\nB-rakennuksen tiloja luovutettiin Pohteelle kalustamista, varustamista, laitetestausta ja henkilökunnan koulutusta ja käyttöönottoa varten vaiheittain 7.12.2023 alkaen. Pohde on vastaanottanut B-allianssin työnsuorituksen 28.5.2024.\n\nB- allianssin taloudellinen loppuselvitys\n\nPPSHP n valtuusto on 4.6.2018 § 20 päättänyt B-rakennuksen kokonaiskustannuksiksi enintään 355 M€. Kokonaiskustannukset koostuvat allianssin kustannuksista sekä tilaajan kustannuksista.\n\nPPSHP n hallitus on 10.12.2019 § 203 hyväksynyt B-allianssin toteutusvaiheen sopimuksen sekä allianssin tavoitekustannuksen 320 812 210 € ja koko hankkeen tavoitekustannuksen 374 940 000 € (Hintataso 11/2019, Haahtela ind. 94).\n\nPohjois-Pohjanmaan hyvinvointialueen aluehallitus on 7.5.2024 § 225 päättänyt hammas- ja suusairauksien tilamuutosten kustannuksien 2,2 M€ rahoituksen B-rakennukselta F-rakennukselle.\n\nAllianssin toteutusvaiheen aikana tavoitekustannusta muuttavia laajuus- ja laatutason muutoksia sopimukseen tehtiin yhteensä 181 kpl, jotka korottivat tavoitekustannusta yhteisarvoltaan 3 255 992 €.\n\nB-allianssin vastuukokonaisuuden sopimuksen mukainen kokonaiskustannus on 322 587 615 €, jossa on huomioitu laajuus- ja laatutason muutokset sekä allianssikumppaneille maksettavat sopimuksen mukaiset bonuspalkkiot.\n\nAllianssille on tehty taloustarkastuksia kesällä 2021 ja keväällä 2024, jossa BDO Audiator Oy on toiminut tilaajan talousasiantuntijana. Tarkastuksessa varmistettiin palveluntuottajien talousjärjestelmien toimivuus allianssisopimuksessa, henkilökustannusten oikeellisuus ja korvattavien kustannusten dokumentaatio. Tarkastuksessa havaitut poikkeamat on huomioitu taloudellisessa loppuselvityksessä.\n\nJälkivastuuaika\n\nAllianssin jälkivastuuaika on kolme vuotta ja se päättyy 27.5.2027. Jälkivastuuajan varaukseksi jätetään 1 000 000 €. Jälkivastuuajan jälkeen tarkistetaan kustannusten toteuma ja laaditaan varauksen kaupallisen mallin mukainen jako."
+    },
+    {
+     "heading": "Valmistelijan ehdotus",
+     "text": "Ollipekka Huotari, tekninen johtaja (p. ):\n\nAluehallitus\n\n1. päättää hyväksyä B-allianssin laajuus- ja laatutason muutokset arvoltaan 3 255 992 €.\n\n2. merkitsee tiedoksi B-allianssin taloudellisen loppuselvityksen."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja\n\nAluehallitus hyväksyy teknisen johtajan ehdotuksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Pohde/Kari-Pekka Tampio, Juha Mäkelä"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "56",
+   "title": "Kyberturvallisuuslain (124/2025) mukaisen kyberturvallisuuden riskienhallinnan toimintamallin hyväksyminen",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2371/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Anssi Huhtala, tietoturvapäällikkö",
+   "presenter": "Ilkka Luoma, hyvinvointialuejohtaja",
+   "proposal": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja\n\nAluehallitus hyväksyy tietoturvapäällikön ehdotuksen.",
+   "decision": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "PPHVADno-2025-10549"
+    },
+    {
+     "heading": "Perustelut",
+     "text": ""
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Anssi Huhtala, tietoturvapäällikkö"
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 91 § Aluehallituksen sisäisen valvonnan tehtävät\n\nTausta ja perusteet\n\nEuroopan unionin NIS2 verkko- ja tietoturvadirektiivi astui voimaan EU:ssa joulukuussa 2022. Jäsenvaltioiden oli saatava se osaksi kansallista lainsäädäntöään 17. lokakuuta 2024 mennessä. NIS2-direktiivin perusteella annettu kansallinen kyberturvallisuuslaki tuli voimaan 8.4.2025.\n\nLain 10 § mukaan toimijan johto vastaa kyberturvallisuutta koskevan riskienhallinnan toteuttamisen ja valvonnan järjestämisestä sekä hyväksyy kyberturvallisuutta koskevan riskienhallinnan toimintamallin ja valvoo sen toteuttamista. 10 § mukaan johdolla tarkoitetaan toimijan hallitusta, hallintoneuvostoa ja toimitusjohtajaa sekä muussa niihin rinnastettavassa asemassa olevaa, joka tosiasiallisesti johtaa sen toimintaa.\n\nLain 8 §:ssä tarkoitettu riskienhallinnan toimintamalli on laadittava kolmen kuukauden kuluessa lain voimaantulosta.\n\nPohteen kyberturvallisuuden riskienhallinnan toimintamalli\n\nPohteen malli perustuu Traficomin suositukseen NIS-valvoville viranomaisille kyberturvallisuuden riskienhallinnan toimenpiteistä, jonka rakennetta Pohteen malli noudattaa.\n\nKyberturvallisuuteen liittyviä riskienhallinnan toimenpiteitä on valmisteltu hyvinvointialueen valmistelusta lähtien NIS2-direktiivin perusteella.\n\nHallintamalli määrittää ja kuvaa kyberturvallisuutta koskevan riskienhallinnan tavoitteet, menettelyt ja vastuut sekä lain 9 §:n mukaiset toimenpiteet.\n\nLain 7 § mukaisesti hallintamallin avulla tunnistetaan, arvioidaan ja hallitaan riskejä, joita kohdistuu Pohteen toiminnoissa tai palveluntarjonnassa käytettävien viestintäverkkojen ja tietojärjestelmien turvallisuuteen.\n\nMallissa kuvatut kyberturvallisuuteen liittyvät riskienhallintatoimenpiteet ja prosessit on jo pääosin toimeenpantu, eivätkä aiheuta enää isoja muutoksia toiminnalle.\n\nKyberturvallisuuden riskienhallinnan toimintamalli yhteensovitetaan Pohteen kokonaisriskien hallinnan kanssa."
+    },
+    {
+     "heading": "Valmistelijan ehdotus",
+     "text": "Anssi Huhtala, tietoturvapäällikkö, (p. ):\n\n1. Aluehallitus hyväksyy kyberturvallisuuslaki 124/2025 10 § mukaisesti kyberturvallisuutta koskevan riskienhallinnan toimintamallin ja valvoo sen toteuttamista.\n\n2. Hallintamallin kehittämisestä vastaa Pohteen tietoturvapäällikkö.\n\n3. Aluehallitus valtuuttaa hyvinvointialuejohtajan hyväksymään tekniset muutokset hallintamalliin. Muut muutokset käsitellään ja hyväksytään aluehallituksessa vuosittain."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja\n\nAluehallitus hyväksyy tietoturvapäällikön ehdotuksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Pohde: tietoturvapäällikkö, vs. tietohallintojohtaja, sisäisen tarkastuksen päällikkö, johtajaylilääkäri, sosiaalijohtaja"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Kyberturvallisuuden riskienhallinnan toimintamalli.pdf (pdf, 197 kt)",
+     "url": "https://pohde.cloudnc.fi/download/noname/{54f70658-7daa-423a-954f-449dab823fb5}/41591"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "57",
+   "title": "Tervia Logistiikka Oy:n palvelusopimuksen hyväksyminen",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2380/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Jouko Luukkonen, vs. hyvinvointialuejohtaja",
+   "proposal": "Esittelijä: Jouko Luukkonen, vs. hyvinvointialuejohtaja\n\nAluehallitus:\n\npäättää hankkia Tervia Logistiikka Oy:ltä henkilökuljetuksiin ja -logistiikkaan liittyviä palveluja sekä niihin liittyviä hankinta- ja muita palveluja liitteenä olevan sopimuksen mukaisesti; ja\n\nantaa hyvinvointialuejohtajalle oikeuden päättää sopimuksen liitteenä olevan Vastuunjako-taulukon päivitysten hyväksymisestä.",
+   "decision": "Aluehallitus hyväksyi vs. hyvinvointialuejohtajan ehdotuksen.\n\nMerk. Asiantuntijoina kokouksessa Erja Jaatinen ja Minna Mikkola, jotka poistuivat ennen asian varsinaista käsittelyä.\n\nEsteellisyys\n\nIlkka Luoma, Kirsti Ylitalo-Katajisto, Pirjo Sirviö, Pekka Simonen, Eija-Riitta Niinikoski poistuivat esteellisinä (yhteisöjäävi) kokouksesta asian käsittelyn ja päätöksenteon ajaksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "PPHVADno-2025-10518"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Pohjois-Suomen yhteistyöalueen hyvinvointialueet ovat perustaneet Tervia Logistiikka Oy:n tuottamaan omistajilleen logistiikka-, kuljetus-, hankintapalveluita sekä muita omistajien ydintoimintaa tukevia palveluita.\n\nPohjois-Pohjanmaan hyvinvointialueen aluevaltuuston 20.2.2023 § 19 tekemän periaatepäätöksen mukaisesti aluehallitus on 22.8.2023 § 361 hyväksynyt Tervia Logistiikka Oy:n perustamiseen liittyvät asiakirjat. Aluehallitus on 25.6.2024 § 321 hyväksynyt kuljetuspalvelutoiminnan liiketoiminnan luovutuksen Tervia Logistiikka Oy:lle.\n\nPohjois-Pohjanmaan hyvinvointialue omistaa yhtiöstä suoraan 27 % ja Pohjois-Suomen sosiaali- ja terveydenhuollon osuuskunnan kautta yhteensä noin 55,05 %.\n\nHyvinvointialueiden ja Tervia Logistiikka Oy:n välillä on valmistelu palvelusopimus, jonka mukaisesti hyvinvointialueet hankkivat yhtiöltä sen toimialaan liittyviä palveluita. Sopimuksen liitteenä on Vastuunjakotaulukko, jossa määritellään osapuolten tehtäviä ja vastuita Sopimusta ja Palvelukuvausta täydentäen. Vastuunjako-taulukkoa päivitetään hyvinvointialuekohtaisessa yhteistyöryhmässä molempien osapuolien hyväksynnällä tarpeen mukaan sopimuskauden aikana. Pohteen osalta esitetään, että hyvinvointialuejohtaja voi päättää Vastuunjako-taulukon päivitysten hyväksymisestä.\n\nSopimus on voimassa toistaiseksi. Hankinnan arvioitu arvonlisäveroton kokonaisarvo neljälle vuodelle on noin 65 miljoonaa euroa. Hallintosäännön78 § mukaan aluehallitus päättää yli 5.000.000 euron ylittävistä laite-, järjestelmä-, investointi- ja palveluhankinnoista.\n\nTervia Logistiikka Oy on hankintalain 15 §: n tarkoittama hyvinvointialueen sidosyksikkö eli kysymyksessä on Pohjois- Pohjanmaan hyvinvointialueen sidosyksikköhankinta.\n\nHyvinvointialueet ovat päätyneet kuljetuspalvelujen yhteiseen järjestämiseen ja organisointiin asiakkaiden lakisääteisten palvelujen turvaamiseksi sekä kustannusten hallitsemiseksi. Pohjoisen YTA-alueen kattavalla matkapalvelukeskuksella tehostetaan kuljetusresurssien ohjausta ja välitystoimintaa, mikä luo myös kustannustehokkuutta. Hyvinvointialueet voivat saada merkittävää kustannussäästöä etenkin kuljetusten ketjutusten ja yhdistämisen osalta. Kun Tervia Logistiikka tuottaa palveluita omistajilleen sidosyksikköasemansa perusteella, tämä mahdollistaa sellaisen pitkäjänteisen ja katkeamattoman kehittämistyön, joka ei olisi mahdollista hankittaessa vastaavia palveluita yksityiseltä toimijalta.\n\nHyvinvointialuejohtaja Ilkka Luoma ja sote-järjestämisjohtaja Kirsti Ylitalo-Katajisto ovat Pohjois-Suomen sosiaali- ja terveydenhuollon osuuskunnan hallituksen jäseninä esteellisiä käsittelemään asiaa, minkä vuoksi asian esittelee konsernipalvelujen johtaja Jouko Luukkonen."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Esittelijä: Jouko Luukkonen, vs. hyvinvointialuejohtaja\n\nAluehallitus:\n\npäättää hankkia Tervia Logistiikka Oy:ltä henkilökuljetuksiin ja -logistiikkaan liittyviä palveluja sekä niihin liittyviä hankinta- ja muita palveluja liitteenä olevan sopimuksen mukaisesti; ja\n\nantaa hyvinvointialuejohtajalle oikeuden päättää sopimuksen liitteenä olevan Vastuunjako-taulukon päivitysten hyväksymisestä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi vs. hyvinvointialuejohtajan ehdotuksen.\n\nMerk. Asiantuntijoina kokouksessa Erja Jaatinen ja Minna Mikkola, jotka poistuivat ennen asian varsinaista käsittelyä.\n\nEsteellisyys\n\nIlkka Luoma, Kirsti Ylitalo-Katajisto, Pirjo Sirviö, Pekka Simonen, Eija-Riitta Niinikoski poistuivat esteellisinä (yhteisöjäävi) kokouksesta asian käsittelyn ja päätöksenteon ajaksi."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Tervia Logistiikka Oy"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Palvelusopimus.pdf (pdf, 537 kt)",
+     "url": "https://pohde.cloudnc.fi/download/noname/{8d371e59-7936-470c-afef-b034d19062cf}/41592"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "58",
+   "title": "Vetoomus eduskunnan sosiaali- ja terveysvaliokunnalle kansalaisaloitteen (KAA 2/2025) käsittelyn aikataulusta",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2382/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Ilkka Luoma, hyvinvointialuejohtaja",
+   "proposal": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja\n\nAluehallitus hyväksyy johtajaylilääkärin ehdotuksen.",
+   "decision": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen.\n\nMerk. Jukka Hakkola poistui kokouksesta asian käsittelyn jälkeen klo 12.16.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "PPHVADno-2025-10792"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Kansalaisaloite ”Oulaskankaan sairaalassa tulee mahdollistaa ympärivuorokautinen perusterveydenhuollon päivystys” on jätetty eduskuntaan 6.5.2025. Lähetekeskustelu on käyty eduskunnassa 22.5.2025. Sosiaali- ja terveysvaliokunta on 12.6.2025 päättänyt ryhtyä käsittelemään asiaa ja todennut, että tarkemmasta käsittelyaikataulusta päätetään syysistuntokauden alussa 2025.\n\nPohjois-Pohjanmaan hyvinvointialueen Aluevaltuusto on 29.10.2024 päättänyt, että Oulaskankaalla järjestetään perusterveydenhuollon ympärivuorokautinen päivystys, mikäli lainsäädäntö sen sallii. Terveydenhuoltolain muutoksen takia Oulaskankaan ympärivuorokautinen perusterveydenhuollon päivystys on päättymässä 30.9.2025. 1.10.2025 lähtien Oulaskankaalla on tarkoitus järjestää kiirevastaanotto vuoden jokaisena päivänä klo 22 asti. Jos kansalaisaloite käsitellään 1.10.2025 jälkeen ja käsittelyn myötä terveydenhuoltolakia muutettaisiin niin, että se sallisi ympärivuorokautisen perusterveydenhuollon päivystyksen Oulaskankaalla, aiheutuisi tästä alueen väestölle kohtuuton välivaihe yöaikaisen perusterveydenhuollon päivystyspalvelun katketessa."
+    },
+    {
+     "heading": "Valmistelijan ehdotus",
+     "text": "Terhi Nevala, johtajaylilääkäri (p. ):\n\nAluehallitus päättää lähettää eduskunnan sosiaali- ja terveysvaliokunnalle vetoomuksen kansalaisaloitteen (KAA 2/2025) käsittelyn aikataulusta."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja\n\nAluehallitus hyväksyy johtajaylilääkärin ehdotuksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen.\n\nMerk. Jukka Hakkola poistui kokouksesta asian käsittelyn jälkeen klo 12.16."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "PÄIVITETTY 24.6.2025 Vetoomus kansalaisaloitteen käsittelyn aikataulusta.pdf (pdf, 18 kt)",
+     "url": "https://pohde.cloudnc.fi/download/noname/{efb6c423-9d26-423b-9fdb-0dfe40c8a350}/41597"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "59",
+   "title": "Lausunto hallinto-oikeudelle asiassa 771/2025",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2370/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Mika Haverinen, pelastuspäällikkö",
+   "presenter": "Ilkka Luoma, hyvinvointialuejohtaja",
+   "proposal": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja\n\nAluehallitus hyväksyy vs. pelastusjohtajan ehdotuksen.",
+   "decision": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "PPHVADno-2025-10389"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Mika Haverinen, pelastuspäällikkö"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Pelastuspäällikkö Mika Haverinen on päätöksellään 14.2.2025 § 3 (PPHVADnro-2025-116) päättänyt keskeyttää valmiuspäällikön viran täytön ja jättänyt täyttämättä valmiuspäällikön viran. Päätöksen kaksi kirjoitusvirhettä on korjattu 8.5.2025.\n\nAluehallitus on päätöksellään 11.3.2025 (§ 106) päättänyt lakkauttaa pelastustoimen toimialueen onnettomuuksien ehkäisyn ja varautumisen palvelualueen, valvonta ja varautuminen -vastuualueen valvonta ja varautuminen -vastuuyksikön valmiuspäällikön viran.\n\nYksityishenkilö (myöh. muutoksenhakija) on vaatinut oikaisua edellä mainittuihin päätöksiin. Aluehallitus on päätöksellään 22.4.2025 § 193 jättänyt tutkimatta muutoksenhakijan oikaisuvaatimuksen siltä osin kuin se on kohdistunut pelastuspäällikön viranhaltijapäätökseen ja muilta osin hylännyt oikaisuvaatimuksen. Muutoksenhakija on valittanut oikaisuvaatimusta koskevasta päätöksestä Pohjois-Suomen hallinto-oikeuteen.\n\nPohjois-Suomen hallinto-oikeus on 10.6.2025 päivätyllä lausuntopyynnöllä pyytänyt Pohteen aluehallitusta antamaan lausunnon valituksen johdosta 29.7.2025 mennessä.\n\nMuutoksenhakijan vaatimukset ja perusteet\n\nMuutoksenhakija on valituksessaan vaatinut aluehallituksen päätösten 11.3.2025 § 106 ja 22.4.2025 § 193 kumoamista sekä muutoksenhakijan oikeudenkäyntikulujen korvaamista viivästyskorkoineen. Muutoksenhakija on katsonut, että päätös on lainvastainen ja se on syntynyt virheellisessä järjestyksessä. Lisäksi muutoksenhakijan mukaan päätöksen tehnyt viranomainen on ylittänyt toimivaltansa.\n\nVaatimusten perusteina on esitetty muun muassa väite, että valmiuspäällikön viran täyttö on keskeytetty ja virka on lakkautettu, koska muutoksenhakija on turvautunut perustuslain 21 §:n tarkoittamiin oikeusturvakeinoihin ja valittanut lainvastaisista päätöksistä. Lisäksi muutoksenhakija on katsonut, että aluehallitus on toiminut virheellisesti, kun se ei ole pitänyt muutoksenhakijaa asianosaisena viran lakkauttamista koskevassa päätöksessä. Valituksessa todetaan myös, että pelastuspäälliköllä tai aluehallituksella ei ole ollut toimivaltaa lakkauttaa virkaa, koska aluevaltuusto on vahvistanut valmiuspäällikön viran palvelutasopäätöksessä. Lisäksi valituksessa on vedottu perusteisiin, jotka koskevat valmiuspäällikön virkavalintaa, josta on vireillä oma muutoksenhakuprosessinsa.\n\nAluehallituksen lausunto ja sen perusteet\n\nAluehallitus on lausunut asianosaisasemaa koskevasta väitteestä jo oikaisuvaatimuksen käsittelyssä ja katsonut, että muutoksenhakija ei ole ollut asianosainen viran lakkauttamista koskevassa asiassa. Aluehallitus katsonee, että sillä on ollut toimivalta hallintosäännön 46 §:n mukaan päättää kyseisen viran lakkauttamisesta eikä lakkauttaminen ole vaatinut palvelutasopäätöksen käsittelyä aluevaltuustossa. Muutoksenhakijan muista väitteistä aluehallitus on jo lausunut hallinto-oikeudelle (aluehallituksen päätös 12.11.2024 § 504). Tarkemmat perusteet ilmenevät liitteenä olevasta lausuntoluonnoksesta.\n\nAluehallitus pyytänee liitteenä olevan lausuntoluonnoksen mukaisesti, että Pohjois-Suomen hallinto-oikeus hylkää muutoksenhakijan vaatimukset kokonaisuudessaan.\n\nToimivallan peruste:\n\nAluehallitus valvoo hyvinvointialueen etua ja, jollei hallintosäännössä toisin määrätä, edustaa hyvinvointialuetta ja käyttää sen puhevaltaa (hallintosääntö 12.4 § 3. kohta)."
+    },
+    {
+     "heading": "Valmistelijan ehdotus",
+     "text": "Mika Haverinen, vs. pelastusjohtaja (p. ):\n\nAluehallitus\n\n1. päättää antaa Pohjois-Suomen hallinto-oikeudelle liitteenä olevan luonnoksen mukaisen lausunnon asiassa 771/2025\n\n2. valtuuttaa hyvinvointialuejohtajan ja vs. pelastusjohtajan tekemään lausuntoon tarvittaessa teknisluonteisia muutoksia\n\n3. toteaa, että hyvinvointialuejohtaja allekirjoittaa Pohjois-Suomen hallinto-oikeudelle annettavan lausunnon."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja\n\nAluehallitus hyväksyy vs. pelastusjohtajan ehdotuksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Pohjois-Suomen hallinto-oikeus"
+    },
+    {
+     "heading": "Liitteet",
+     "text": "Pohjois-Suomen hallinto-oikeuden lausuntopyyntö asiassa 771/2025\n\nVerkkojulkisuus rajoitettu, Sisältää henkilötietoja, joita ei ole perusteltua julkaista verkossa\n\nLausunto Pohjois-Suomen hallinto-oikeudelle asiassa 771/2025\n\nVerkkojulkisuus rajoitettu, Sisältää henkilötietoja, joita ei ole perusteltua julkaista verkossa"
+    },
+    {
+     "heading": "Oheismateriaali",
+     "text": ""
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "60",
+   "title": "Lausunto Pohjois-Suomen hallinto-oikeudelle hallintoriita-asiassa 674/2025",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2376/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Salassa pidettävä, Julkisuuslaki (621/1999) § 24 1 mom. kohta 25\n\nKäsitellyt asiat\n\n§ 48 Kokouksen laillisuus ja päätösvaltaisuus\n\n§ 49 Pöytäkirjantarkastajien valinta\n\n§ 50 Työjärjestyksen hyväksyntä\n\n§ 51 Pohjois-Pohjanmaan hyvinvointialueen palveluista perittävät organisaatiolaskutuksen hinnat vuonna 2025\n\n§ 52 Hankintaoikaisupäätös: Ambulanssiajoneuvot (168074)\n\n§ 53 Hankintapäätös, Ateria- ja puhtauspalvelut\n\n§ 54 Hankintapäätös 172580 Insuliinipumput ja glukoosisensorointijärjestelmät\n\n§ 55 Tulevaisuuden sairaala OYS2030: B-allianssin taloudellinen loppuselvitys\n\n§ 56 Kyberturvallisuuslain (124/2025) mukaisen kyberturvallisuuden riskienhallinnan toimintamallin hyväksyminen\n\n§ 57 Tervia Logistiikka Oy:n palvelusopimuksen hyväksyminen\n\n§ 58 Vetoomus eduskunnan sosiaali- ja terveysvaliokunnalle kansalaisaloitteen (KAA 2/2025) käsittelyn aikataulusta\n\n§ 59 Lausunto hallinto-oikeudelle asiassa 771/2025\n\n§ 60 Lausunto Pohjois-Suomen hallinto-oikeudelle hallintoriita-asiassa 674/2025\n\n§ 61 Oikaisuvaatimus palvelualuejohtajan viranhaltijapäätöksestä PPHVADno 2025-3072 § 45\n\n§ 62 Oikaisuvaatimus vahingonkorvauspäätökseen\n\n§ 63 Pohjois-Suomen terveydenhuollon tukisäätiön hallituksen nimeäminen\n\n§ 64 Virkapohjan nimikemuutos OYS Sairaalapalvelut ja ensihoito toimialueella\n\n§ 65 Tiedoksiantoasiat\n\n§ 66 Aluehallituksen otto-oikeuden käyttäminen\n\n§ 67 Aluehallituksen otto-oikeuden käyttäminen/hankinnat\n\n§ 68 LISÄPYKÄLÄ: Aluehallituksen otto-oikeuden käyttäminen (lisäpykälä)"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "61",
+   "title": "Oikaisuvaatimus palvelualuejohtajan viranhaltijapäätöksestä PPHVADno 2025-3072 § 45",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2363/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Minna Malila, palvelualuejohtaja",
+   "presenter": "Ilkka Luoma, hyvinvointialuejohtaja",
+   "proposal": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja\n\nAluehallitus hyväksyy palvelualuejohtajan ja henkilöstöpäällikön ehdotuksen.",
+   "decision": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "PPHVADno-2025-10022"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Minna Malila, palvelualuejohtaja"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Päätös, johon on haettu oikaisua\n\nPalvelualuejohtaja on tehnyt viranhaltijapäätöksen terveydenhoitajan toimeen valinnasta\n\nOikaisuvaatimus ja sen perusteet\n\nPohjois-Pohjanmaan hyvinvointialueen Perhe- ja sosiaalipalveluiden ja OYS psykiatrian toimialueen perhekeskuspalveluiden toimialueella on vapautunut terveydenhoitajan toimi Äitiys- ja lastenneuvola Oulu pohjoinen vastuuyksikössä. Palvelualuejohtaja on täyttänyt työsopimussuhteisen tehtävän hallintosäännön 7 luvun 49 § mukaisesti. Tehtävään valittu henkilö on hoitanut vastaavia tehtäviä hyvinvointialueella työsopimussuhteessa vähintään vuoden ajan. Henkilö on arvioitu tehtävään sopivaksi ja täyttää kelpoisuusehdot.\n\nAsianosainen on vaatinut oikaisua edellä mainittuun viranhaltijapäätökseen 2.4.2025 vireille tulleella oikaisuvaatimuksellaan. Oikaisuvaatimus on saapunut määräajassa. Oikaisuvaatimuksen tekijä on työskennellyt samassa yksikössä vastaavassa tehtävässä.\n\nOikaisuvaatimuksen perustelut pääpiirteittäin ovat\n\n1. Esihenkilöiltä saadut valintaan liittyvät perustelut ovat olleet vaihtelevia ja asiassa on jäänyt epäselväksi millä perusteella valinta on kohdistunut valittuun henkilöön.\n\n2. Valintaa tulee tarkastella uudestaan ottaen huomioon oikaisuvaatimuksen tekijän osaaminen ja tehtävänkuva yksikössä.\n\nPerustelu\n\nTyösuhteeseen valitsemista koskevaan päätökseen liitetään oikaisuvaatimus, koska päätökseen saattaa liittyä asioita, joihin haetaan muutosta hallintolainkäytön järjestyksessä. Tällaisia ovat esim. toimivallan ylitys ja päätöksenteon menettelyvirhe. Muilta osin työsopimuksiin liittyvät riita-asiat käsitellään yksityisoikeudellisina asioina käräjäoikeudessa.\n\nViranhaltijapäätös 2025-3072 terveydenhoitajan toimeen on tehty esittelijän esityksestä. Viranhaltijapäätöksen on tehnyt palvelualuejohtaja Minna Malila, jolla on Pohjois-Pohjanmaan hyvinvointialueen hallintosäännön 7.6, HS 50.8 § mukainen toimivalta tehdä valintapäätökset ja Perhe- ja sosiaalipalveluiden ja OYS psykiatrian toimialueen delegointi- ja toimintasäännön mukainen toimivalta julistaa toimet haettavaksi.\n\nKyseisessä tapauksessa toimea ei ole julistettu haettavaksi julkisessa haussa, vaan tehtävä on täytetty Pohjois-Pohjanmaan hyvinvointialueen hallintosäännön 7 luvun 49 §, jonka mukaisesti henkilö voidaan ottaa ilman hakumenettelyä sellaiseen työsopimussuhteeseen, jota vastaavia tehtäviä hän on hoitanut hyvinvointialueella työsopimussuhteessa tai määräaikaisessa virkasuhteessa vähintään vuoden. Työsopimuslaki ei edellytä työsopimussuhteisen tehtävän täyttämistä julkisen haun kautta.\n\nTehtävään valittu henkilö on työskennellyt Pohjois-Pohjanmaan hyvinvointialueella valintaa edeltävästi yhteensä yli kolme vuotta. Hänet on arvioitu tehtävään sopivaksi ja hän on täyttänyt tehtävän kelpoisuusvaatimukset. Rekrytoinnissa on noudatettu Pohjois-Pohjanmaan hyvinvointialueen ”Täyttölupamenettelyssä huomioitavia periaatteita” -mukaista linjausta.\n\nHakuprosessissa ei ole toimittu sääntöjen tai ohjeiden vastaisesti, päätöksen tekijä ei ole ylittänyt toimivaltaansa eikä päätös ole muutoinkaan lainvastainen. Päätös ei myöskään ole epätarkoituksenmukainen. Muut oikaisuvaatimuksen tekijän esittämät perustelut ovat sellaisia, jotka ei käsitellä hallintolainkäytön järjestyksessä. Näillä perusteilla oikaisuvaatimus tulisi hylätä."
+    },
+    {
+     "heading": "Valmistelijan ehdotus",
+     "text": "Minna Malila, palvelualuejohtaja (p. ) ja Mari Saari-Somero, henkilöstöpäällikkö (p. ):\n\nAluehallitus hylkää oikaisuvaatimuksen edellä esitetyin perusteluin."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja\n\nAluehallitus hyväksyy palvelualuejohtajan ja henkilöstöpäällikön ehdotuksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Asianosainen, Minna Malila palvelualuejohtaja, Mari Saari-Somero henkilöstöpäällikkö"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Palvelualuejohtajan viranhaltijapäätös 2025 § 45, PPHVADno-2025-3072.pdf (pdf, 251 kt)",
+     "url": "https://pohde.cloudnc.fi/download/noname/{e9f45670-8f42-468f-9710-8896526e17cc}/41598"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "62",
+   "title": "Oikaisuvaatimus vahingonkorvauspäätökseen",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2374/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Salassa pidettävä, Julkisuuslaki (621/1999) § 24\n\nKäsitellyt asiat\n\n§ 48 Kokouksen laillisuus ja päätösvaltaisuus\n\n§ 49 Pöytäkirjantarkastajien valinta\n\n§ 50 Työjärjestyksen hyväksyntä\n\n§ 51 Pohjois-Pohjanmaan hyvinvointialueen palveluista perittävät organisaatiolaskutuksen hinnat vuonna 2025\n\n§ 52 Hankintaoikaisupäätös: Ambulanssiajoneuvot (168074)\n\n§ 53 Hankintapäätös, Ateria- ja puhtauspalvelut\n\n§ 54 Hankintapäätös 172580 Insuliinipumput ja glukoosisensorointijärjestelmät\n\n§ 55 Tulevaisuuden sairaala OYS2030: B-allianssin taloudellinen loppuselvitys\n\n§ 56 Kyberturvallisuuslain (124/2025) mukaisen kyberturvallisuuden riskienhallinnan toimintamallin hyväksyminen\n\n§ 57 Tervia Logistiikka Oy:n palvelusopimuksen hyväksyminen\n\n§ 58 Vetoomus eduskunnan sosiaali- ja terveysvaliokunnalle kansalaisaloitteen (KAA 2/2025) käsittelyn aikataulusta\n\n§ 59 Lausunto hallinto-oikeudelle asiassa 771/2025\n\n§ 60 Lausunto Pohjois-Suomen hallinto-oikeudelle hallintoriita-asiassa 674/2025\n\n§ 61 Oikaisuvaatimus palvelualuejohtajan viranhaltijapäätöksestä PPHVADno 2025-3072 § 45\n\n§ 62 Oikaisuvaatimus vahingonkorvauspäätökseen\n\n§ 63 Pohjois-Suomen terveydenhuollon tukisäätiön hallituksen nimeäminen\n\n§ 64 Virkapohjan nimikemuutos OYS Sairaalapalvelut ja ensihoito toimialueella\n\n§ 65 Tiedoksiantoasiat\n\n§ 66 Aluehallituksen otto-oikeuden käyttäminen\n\n§ 67 Aluehallituksen otto-oikeuden käyttäminen/hankinnat\n\n§ 68 LISÄPYKÄLÄ: Aluehallituksen otto-oikeuden käyttäminen (lisäpykälä)"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "63",
+   "title": "Pohjois-Suomen terveydenhuollon tukisäätiön hallituksen nimeäminen",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2372/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Miia Turpeinen, yliopistosairaalan johtaja, säätiön asiamies (p. )",
+   "presenter": "Ilkka Luoma, hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus hyväksyy säätiön asiamiehen ja konsernipalvelujen johtajan ehdotuksen.",
+   "decision": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "PPHVADno-2025-10567"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Valmistelija: Miia Turpeinen, yliopistosairaalan johtaja, säätiön asiamies (p. )\n\nPohjois-Suomen terveydenhuollon tukisäätiön (Terttu-säätiö) tarkoituksena on terveydenhuollon ja terveystieteellisen tutkimuksen tukeminen ja alan koulutuksen järjestäminen. Säätiö toteuttaa tarkoitustaan tukemalla terveydenhuollon kehitystä ja terveystieteellistä tutkimusta apurahoja jakamalla, asiantuntijapalveluja järjestämällä sekä toteuttamalla koulutustilaisuuksia lähinnä Pohjois-Pohjanmaan hyvinvointialueella ja Pohjois-Suomen yhteistyöalueella.\n\nSäädekirjan mukaan Säätiön omaisuutta ja asioita hoitaa, säätiötä edustaa ja sen päätäntävaltaa käyttää neljäksi vuodeksi kerrallaan valittu hallitus. Hallitukseen kuuluu viisi (5) jäsentä, joilla kaikilla tulee olla asuinpaikka Euroopan talousalueella. Pohjois-Pohjanmaan hyvinvointialueen hallitus valitsee hallituksen jäsenet. Hallituksen kokoonpanossa tulee olla edustettuna rahoituksen ja tutkimuksen osaamista. Pohjois-Pohjanmaan hyvinvointialueen hallituksella on oikeus erottaa hallituksen jäsenet ennen heidän toimikautensa päättymistä.\n\nSäätiön hallitus valitsee keskuudestaan puheenjohtajan ja varapuheenjohtajan kunkin toimikauden ensimmäisessä kokouksessa."
+    },
+    {
+     "heading": "Valmistelijan ehdotus",
+     "text": "Jouko Luukkonen, konsernipalvelujen johtaja (p. ):\n\nAluehallitus valitsee Pohjois-Suomen terveydenhuollon tukisäätiön hallitukseen seuraavaksi nelivuotiskaudeksi seuraavat henkilöt: Mirja Vehkaperä, Matti Honkala, Maire Mäki, Jaakko Niinimäki ja Anu Vuorinen."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Aluehallitus hyväksyy säätiön asiamiehen ja konsernipalvelujen johtajan ehdotuksen."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Ilkka Luoma, hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Miia Turpeinen, yliopistosairaalan johtaja, säätiön asiamies"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "64",
+   "title": "Virkapohjan nimikemuutos OYS Sairaalapalvelut ja ensihoito toimialueella",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2369/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": "Juha Paloneva, toimialuejohtaja",
+   "presenter": "Ilkka Luoma, hyvinvointialuejohtaja",
+   "proposal": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja\n\nAluehallitus hyväksyy toimialuejohtajan ehdotuksen.",
+   "decision": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "PPHVADno-2025-10367"
+    },
+    {
+     "heading": "Valmistelija",
+     "text": "Juha Paloneva, toimialuejohtaja"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "Erikoistuvan lääkärin viran lakkauttaminen ja erikoislääkärin viran perustaminen\n\nEsitämme nimikemuutosta erikoistuvan lääkärin virasta erikoislääkärin viraksi gastrokirurgialle. Muutoksen taustaa: gastrokirurgialla on kehitetty ja toteutettu Suomen ensimmäinen hospitalistin lisäkoulutusohjelma yhteistyössä Oulun yliopiston lääketieteellisen tiedekunnan kanssa. Ohjelma on herättänyt laajaa kansallista mielenkiintoa, ja aiheesta on julkaistu useita tieteellisiä artikkeleita. Sittemmin osaamiskeskusjohtaja Heikki Wiik on ollut mukana hospitalisti toiminnan käynnistämisessä myös HUS:ssa, TAYS:ssa ja Pohjois-Karjalan keskussairaalassa. OYS:n vastaosastolla hospitalistifunktio on vakiintunut osaksi normaalia toimintaa. Tällä hetkellä lisäkoulutusohjelmassa on aloittanut erikoislääkäri, joka on toiminut infektio-osastolla vastuulääkärinä koronapandemian aikana ja suorittaa palliatiivisen lääketieteen erityispätevyyttä. Ko henkilö on työskennellyt koko ajan erikoistuvan lääkärin vakanssilla, saaden erikoislääkärin palkan. Hän on ollut erikoistuvan lääkärin vakanssilla (72983–0166) 1.4.2023 alkaen. Nimikemuutos ei lisää kustannuksia ja vastaa henkilön nykyistä tehtäväkenttää ja osaamista."
+    },
+    {
+     "heading": "Valmistelijan ehdotus",
+     "text": "Juha Paloneva, toimialuejohtaja, OYS Sairaalapalvelut ja ensihoito toimialue (p. ):\n\nEsitän erikoistuvan lääkärin viran (72983-0166) lakkauttamista ja gastrokirurgian erikoislääkärin perustamista vy:lle Ykp Gastro (vy 24700).\n\nKelpoisuusehtona erikoislääkärin virkaan on Terveydenhuollon ammattihenkilöistä annetussa laissa 559/94 säädetty laillistus tai lupa toimia lääkärin tehtävissä sekä erikoislääkärin pätevyys virkaan soveltuvalla erikoisalalla."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja\n\nAluehallitus hyväksyy toimialuejohtajan ehdotuksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Juha Paloneva toimialuejohtaja, Heikki Wiik osaamiskeskusjohtaja"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "65",
+   "title": "Tiedoksiantoasiat",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2381/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Ilkka Luoma, hyvinvointialuejohtaja (p. )",
+   "proposal": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja (p. )\n\nAluehallitus merkitsee asiat tiedoksi.",
+   "decision": "Merkittiin tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "PPHVADno-2025-8606"
+    },
+    {
+     "heading": "Perustelut",
+     "text": "1. Toimialuejohtaja Kaj Sundqvistin viranhaltijapäätös 25/2025 Kuntoutuksen toimialueen käyttösuunnitelman muutos"
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja (p. )\n\nAluehallitus merkitsee asiat tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkittiin tiedoksi."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Kuntoutuksen toimialueen käyttösuunnitelman muutos 052025.pdf (pdf, 150 kt)",
+     "url": "https://pohde.cloudnc.fi/download/noname/{25fed342-ca85-4c64-b4f9-97d2f2b85544}/41594"
+    },
+    {
+     "title": "Kuntoutuksen toimialue KS muutos 5 2025.pdf (pdf, 15 kt)",
+     "url": "https://pohde.cloudnc.fi/download/noname/{133363bc-34bb-4377-8e81-5fc1a38853ba}/41599"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "66",
+   "title": "Aluehallituksen otto-oikeuden käyttäminen",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2379/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Ilkka Luoma, hyvinvointialuejohtaja (p. )",
+   "proposal": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja (p. )\n\nAluehallitus ei käytä otto-oikeutta viranhaltijapäätöksiin ajalta 12. - 18.6.2025.",
+   "decision": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Perustelut",
+     "text": "Hyvinvointialuelain 97 §:n mukaan aluehallitus, aluehallituksen puheenjohtaja, hyvinvointialuejohtaja ja hallintosäännössä määrätty hyvinvointialueen viranhaltija voivat ottaa aluehallituksen käsiteltäväksi asian, joka on tämän lain nojalla siirretty aluehallituksen alaisen viranomaisen tai aluehallituksen jaoston toimivaltaan ja jossa asianomainen viranomainen on tehnyt päätöksen.\n\nPohjois-Pohjanmaan hyvinvointialueen hallintosäännön 23 §:n mukaan asian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nHallintosäännön 24 §:n mukaan aluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan.\n\nIlmoitus on tehtävä neljän (4) päivän kuluessa pöytäkirjan tarkastamisesta. Jos pöytäkirjaa ei tarkasteta, määräaika lasketaan pöytäkirjan allekirjoittamisesta.\n\nIlmoitus tehdään sähköisesti aluehallituksen esittelijälle, ellei aluehallitus toisin päätä.\n\nPäätökset niissä asioissa, joista ei tarvitse ilmoittaa, voidaan otto-oikeuden estämättä panna täytäntöön, jollei yksittäistapauksessa ole ilmoitettu asian ottamisesta toimielimen käsiteltäväksi.\n\nOttamiseen oikeutettu viranomainen voi ottaa käsiteltäväkseen myös asian, josta sille ei ole ilmoitettu.\n\nHenkilöstöjaoston sekä tulevaisuus-, yhdyspinta- ja turvallisuuslautakuntien kokouspöytäkirjat ovat nähtävissä Pohjois-Pohjanmaan hyvinvointialueen verkkosivuilla (Päätöksenteko).\n\nHallintojohtaja\n\nYleishallinnon päätös:\n\n§ 10 Oulun Sosiaalidemokraattisen piiri ry:n aluevaltuustoryhmän toimintatuki, 12.06.2025\n\n§ 11 Oulun vaalipiirin Vihreät ry:n aluevaltuustoryhmän toimintatuki, 13.06.2025\n\nHenkilöstöjohtaja\n\nHankintapäätös:\n\n§ 197 Hankintapäätös 201733 / Eduhouse-oppimisympäristö, 18.06.2025\n\nHoitotyön johtaja, alueelliset psykiatriset ja mielenterveyspalvelut\n\nPalvelussuhteeseen valinta:\n\n§ 43 Psykologin toimen (41790-1077) täyttäminen Perhe- ja sosiaalipalvelut, Oys Psykiatria, alueelliset psykiatriset mielenterveyspalvelut, Oulun sote-keskusten psykiatriset hoitajat, 12.06.2025\n\n§ 44 Sairaanhoitajan toimen (46490-9896) täyttäminen Perhe- ja sosiaalipalvelut, Oys Psykiatria, alueelliset psykiatriset mielenterveyspalvelut, Oulunkaaren mielenterveyspalvelut,Ii, 17.06.2025\n\n§ 45 Sairaanhoitajan toimen (46490-9894) täyttäminen ilman hakumenettelyä Perhe- ja sosiaalipalvelut, Oys Psykiatria, Alueelliset mielenterveyspalvelut, Oulunkaaren mielenterveyspalvelut (P3103), 17.06.2025\n\n§ 46 Sairaanhoitajan toimen (46490-7055) täyttäminen Perhe- ja sosiaalipalvelut, Oys Psykiatria, alueelliset psykiatriset mielenterveyspalvelut, Eteläisen alueen mielenterveyspalvelut (P3105), 18.06.2025\n\nHoitotyön johtaja, avohoitotyö\n\n§ 75 Lähihoitajan toimen (73493-0983) täyttäminen ilman hakumenettelyä N3300 vastuuyksikössä, 18.06.2025\n\nHoitotyön johtaja, mielialahäiriöt ja akuuttipsykiatria\n\nTyöntekijän/Viranhaltijan siirtäminen toiseen työ-/virkasuhteeseen:\n\n§ 51 Työsuhteisen henkilön sijoittuminen uuteen tehtävään yhteistoimintaneuvottelun perusteella, 17.06.2025\n\nHoitotyön johtaja, osastohoitotyö\n\nPalvelussuhteen purkaminen:\n\n§ 140 Työsuhteen purkaminen työntekijästä johtuvasta syystä, 12.06.2025\n\n§ 150 Työsopimussuhteen purkaminen koeajalla, 18.06.2025\n\nPalvelussuhteeseen valinta:\n\n§ 141 OYS sairaala- ja ensihoidon palvelujen vuodeosastohoitotyön N2100, N2200 ja N2400 sairaanhoitajan ja ammattiin valmistuvien kesäsijaisuuksiin valinnat, 17.06.2025\n\n§ 142 OYS sairaala- ja ensihoidon palvelujen vuodeosastohoitotyön N2100 ja N2400 lähihoitajan ja ammattiin valmistuvien kesäsijaisuuksiin valinta, 17.06.2025\n\n§ 143 OYS sairaala- ja ensihoidon palvelujen vuodeosastohoitotyön N2100, N2200 ja N2400 sairaanhoitajaopiskelijan (vähintään 140 opintopistettä) kesäsijaisuuksiin valinta, 17.06.2025\n\n§ 144 OYS sairaala- ja ensihoidon palvelujen vuodeosastohoitotyön N2100 kätilön ja ammattiin valmistuvien kesäsijaisuuksiin valinnat, 17.06.2025\n\nTyöntekijän/Viranhaltijan siirtäminen toiseen työ-/virkasuhteeseen:\n\n§ 145 Työsuhteisen henkilön sijoittuminen uuteen tehtävään yhteistoimintaneuvottelun perusteella, 18.06.2025\n\n§ 146 Työsuhteisen henkilön sijoittuminen uuteen tehtävään yhteistoimintaneuvottelun perusteella, 18.06.2025\n\n§ 147 Työsuhteisen henkilön sijoittuminen uuteen tehtävään yhteistoimintaneuvottelun perusteella, 18.06.2025\n\n§ 148 Työsuhteisen henkilön sijoittuminen uuteen tehtävään yhteistoimintaneuvottelun perusteella, 18.06.2025\n\n§ 149 Työsuhteisen henkilön sijoittuminen uuteen tehtävään yhteistoimintaneuvottelun perusteella, 18.06.2025\n\nHoitotyön johtaja, Oulaskankaan ja Oulaisten hoitotyö\n\nPalvelussuhteen irtisanominen:\n\n§ 28 Työsuhteisen henkilön irtisanominen yhteistoimintaneuvottelun perusteella. Tämä päätös korvaa hoitotyön johtaja Ira Karvosen päätökset § 20 (24.4.2025) ja § 24 (4.6.2025), 12.06.2025\n\nHoitotyön johtaja, teho- ja valvontahoitotyö\n\nPalvelussuhteeseen valinta:\n\n§ 52 Sairaanhoitajan toimen (46490-2101) täyttäminen ilman hakumenettelyä N4000 vastuuyksikössä, 17.06.2025\n\n§ 53 Sairaanhoitajan (46490-2666) toimen täyttäminen ilman hakumenettelyä vastuuyksikössä N4000, 17.06.2025\n\n§ 54 Sairaanhoitajan toimen (46490-1803) täyttäminen vastuuyksikössä N4000, 17.06.2025\n\nHyvinvointialuejohtaja\n\nHankintapäätös:\n\n§ 57 Hankintapäätös 197819_IVIG: Lääkevalmisteet ja niihin rinnastettavat tuotteet hankintakaudelle 1.1.2026-31.12.2027/ iv-immunoglobuliinivalmisteet, 12.06.2025\n\n§ 58 Hankinnan keskeyttäminen, 200066 / Pohteen kuljetuspalvelut, 13.06.2025\n\n§ 65 Hankintapäätös: Monihyvinvointialuetoiminnallisuuksien kehittäminen Esko-potilastietojärjestelmään (Esko Systems Oy), 18.06.2025\n\nPalvelualuejohtaja, aikuisten erityispalvelut\n\nPalvelussuhteeseen valinta:\n\n§ 65 Sosiaalityöntekijän viran (48390-1313) täyttäminen, Aikuisten erityispalvelut, lastensuojelun jälkihuolto, 18.06.2025\n\n§ 66 Sosiaalityöntekijä viran (48390-1104) täyttäminen, Aikuisten erityispalvelut, lastensuojelun jälkihuolto, 18.06.2025\n\nPalvelualuejohtaja, kuntoutuspalvelut, lääkinnällinen kuntoutus\n\n§ 13 Toimintaterapeutin toimen (54410-0810) täyttäminen Kuntoutuspalvelujen Lääkinnällisen kuntoutuksen Vaativan kuntoutuksen osastolla, 12.06.2025\n\nPalvelualuejohtaja, perhekeskuspalvelut\n\n§ 92 Perhetyöntekijän toimen (73518-1088) täyttäminen, Perhekeskuspalvelut, Tehostettu perhetyö OER B, 12.06.2025\n\nPalvelualuejohtaja, terveyden- ja sairaanhoidon palvelut, akuuttiosasto\n\n§ 34 Sairaanhoitajan toimien täyttäminen terveyden- ja sairaanhoidon palvelujen akuuttiosastojen vastuuyksikössä 30140 Pudasjärvi, 13.06.2025\n\nPalvelualuejohtaja, terveyden- ja sairaanhoidon palvelut, suun terveydenhuollon palvelualue\n\n§ 123 Vastaavan suuhygienistin (74617-1025) toimen täyttäminen Terveyden ja sairaanhoidon toimialue, Suun terveydenhuollon palvelualue, Keskitetyt palvelut vastuuyksikkö 30280, 16.06.2025\n\n§ 124 Terveyskeskushammaslääkärin toimen (71286-1172) täyttäminen Terveyden ja sairaanhoidon toimialueella/Suun terveydenhuollon palvelualueella/Haapajärvi, Pyhäjärvi vastuuyksiköissä, 16.06.2025\n\n§ 125 Terveyskeskushammaslääkärin toimen (71286-1153) täyttäminen Terveyden ja sairaanhoidon toimialueella/Suun terveydenhuollon palvelualueella/ Kärsämäki ja Pyhäntä vastuuyksiköissä, 16.06.2025\n\n§ 126 Hammashoitajan toimen (11480-1214) täyttäminen Pohjois-Pohjanmaan hyvinvointialueen, Terveyden ja sairaanhoidon toimialueella, Suun terveydenhuollon vastuualueella, Ylivieskan suun terveydenhuollon vastuuyksikössä, 16.06.2025\n\n§ 127 Hammashoitajan toimen (11480-1221) täyttäminen Pohjois-Pohjanmaan hyvinvointialueen, Terveyden ja sairaanhoidon toimialueella, Suun terveydenhuollon vastuualueella, Ylivieskan suun terveydenhuollon vastuuyksikössä, 16.06.2025\n\n§ 128 Hammashoitajan toimen (11480-1217) täyttäminen Pohjois-Pohjanmaan hyvinvointialueen, Terveyden ja sairaanhoidon toimialueella, Suun terveydenhuollon vastuualueella, Ylivieskan suun terveydenhuollon vastuuyksikössä, 16.06.2025\n\n§ 129 Hammashoitajan toimen (11480-1237) täyttäminen Pohjois-Pohjanmaan hyvinvointialueen, Terveyden ja sairaanhoidon toimialueella, Suun terveydenhuollon vastuualueella, Ylivieskan suun terveydenhuollon vastuuyksikössä, 16.06.2025\n\nPalvelualuejohtaja, vammaispalvelut, yhteiset palvelut\n\nTyöntekijän/Viranhaltijan siirtäminen toiseen työ-/virkasuhteeseen:\n\n§ 374 Virantoimitusvelvollisuuden muuttaminen, 17.06.2025\n\n§ 375 Virantoimitusvelvollisuuden muuttaminen, 17.06.2025\n\nToimialuejohtaja, ikäihmisten palvelut\n\nPalvelussuhteeseen valinta:\n\n§ 26 Kehittämiskoordinaattorin (77246-1003) toimen täyttäminen, 13.06.2025\n\nToimialuejohtaja, OYS Sairaalapalvelut ja ensihoito\n\n§ 89 OYS Sairaalapalvelut ja ensihoidon toimialueen, Ravitsemusterapia vastuuyksikön (27487) johtavan ravitsemusterapeutin (76899-0001) valinta, 16.06.2025\n\nToimialuejohtaja, vammaispalvelut\n\nYleishallinnon päätös:\n\n§ 29 Vastuuyksikön tietojen muutos VY40440, 12.06.2025\n\nTietojärjestelmäpäällikkö\n\nPalvelussuhteeseen valinta:\n\n§ 13 Sovelluskoordinaattorin toimen (77559-1026) täyttäminen ilman hakumenettelyä Konsernipalvelujen toimialueella/Tietohallinnon palvelualueella/Tietojärjestelmät vastuualueella/Sovellustuki vastuuyksikössä, 16.06.2025\n\nTutkimus-, kehitys- ja innovaatiojohtaja\n\n§ 7 Opetushoitajan (2) 50 % määräaikaisen tehtävän täyttäminen, Järjestämistoiminto, Kehittäminen, Kehittämisprojektit, Opi työssä osaajaksi (OTO) -hanke P10195, 17.06.2025\n\nVastuualuepäällikkö, ikäkeskukset\n\n§ 3 Sosiaalityöntekijän viran (48390-1037) täyttäminen Ikäkeskuksen Oulun palveluohjaus 35630 yksikössä, 13.06.2025\n\nVastuualuepäällikkö, kotiin annettavat palvelut, Rannikko\n\n§ 15 Sairaanhoitajan toimen (46490-3942) täyttäminen vastuuyksikössä 36480 Siikajoen ja Vihannin kotihoito, 18.06.2025\n\nVastuualuepäällikkö, ympärivuorokautinen asuminen\n\n§ 29 Sairaanhoitajan (46490-6130) täyttäminen TA35/P353/VA3840/37160 Pyhännän palvelukeskus Nestori, 12.06.2025\n\nVastuuyksikköpäällikkö, kuntoutus, Kalajoki-Merijärvi-Pyhäjoki-Raahe-Siikajoki\n\n§ 2 Fysioterapeutin (10895-1174) sijaisuuteen valinta, Kuntoutuksen aluepalvelut, VY6520 Rannikko, 12.06.2025\n\nVastuuyksikköpäällikkö, mielenterveys- ja päihdekuntoutujien asumispalvelut ja työ- ja päivätoiminta, Oulunkaari-Koillismaa-Lakeus\n\n§ 1 Lähihoitajan määräaikaisen toimen täyttäminen, aikuisten erityispalvelut, avopalvelukeskus Mielenpolku, Kuusamo P2670, 16.06.2025\n\n§ 2 Lähihoitajan määräaikaisen toimen täyttäminen, aikuisten erityispalvelut, avopalvelukeskus Mielenpolku, Kuusamo P2670, 16.06.2025\n\nVastuuyksikköpäällikkö, OYS osastohoitotyö 1\n\n§ 1 OYS sairaala- ja ensihoidon palvelujen vuodeosastohoitotyön N2100 kätilön ja ammattiin opiskelevien kesäsijaisuuksiin valinnat, 12.06.2025\n\n§ 2 OYS sairaala- ja ensihoidon palvelujen vuodeosastohoitotyön N2100 sairaanhoitajan ja ammattiin opiskelevien kesäsijaisuuksiin valinnat, 13.06.2025\n\n§ 3 OYS sairaala- ja ensihoidon palvelujen vuodeosastohoitotyön N2100 sairaanhoitajaopiskelijan (vähintään 140 opintopistettä) kesäsijaisuuksiin valinta, 13.06.2025\n\n§ 4 OYS sairaala- ja ensihoidon palvelujen vuodeosastohoitotyön N2100 sairaanhoitajan, lähihoitajan ja alan opiskelijoiden kesäsijaisuuksiin valinnat (jatkohaku), 13.06.2025\n\nVastuuyksikköpäällikkö, OYS osastohoitotyö 2\n\n§ 1 OYS sairaala- ja ensihoidon palvelujen vuodeosastohoitotyön N2200 sairaanhoitajaopiskelijan (vähintään 140 opintopistettä) kesäsijaisuuksiin valinta, 17.06.2025\n\n§ 2 OYS sairaala- ja ensihoidon palvelujen vuodeosastohoitotyön N2200 sairaanhoitajan ja ammattiin valmistuvien kesäsijaisuuksiin valinnat, 17.06.2025\n\nVastuuyksikköpäällikkö, OYS osastohoitotyö 4\n\n§ 1 OYS sairaala- ja ensihoidon palvelujen vuodeosastohoitotyön N2400 sairaanhoitajan ja ammattiin valmistuvien kesäsijaisuuksiin valinnat, 18.06.2025\n\n§ 2 OYS sairaala- ja ensihoidon palvelujen vuodeosastohoitotyön N2400 sairaanhoitajaopiskelijan (vähintään 140 opintopistettä) kesäsijaisuuksiin valinta, 18.06.2025\n\n§ 3 OYS sairaala- ja ensihoidon palvelujen vuodeosastohoitotyön N2400 lähihoitajan ja ammattiin valmistuvien kesäsijaisuuksiin valinta, 18.06.2025\n\n§ 4 OYS sairaala- ja ensihoidon palvelujen vuodeosastohoitotyön N2400 lähihoitajaopiskelijan kesäsijaisuuksiin valinta, 18.06.2025\n\nYlläpitopäällikkö\n\n§ 1 Sähköinsinöörin toimen (49770-1000) täyttäminen, Tekniset Palvelut, VY10310 Ylläpitopalvelut, 16.06.2025\n\n§ 2 Sähköinsinöörin toimen (49770-1001) täyttäminen, Tekniset Palvelut, VY10310 Ylläpitopalvelut, 16.06.2025\n\n§ 4 Valvomonhoitajan toimen (60800-0801) täyttäminen, Tekniset palvelut, VY10310 Ylläpitopalvelut, 18.06.2025"
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja (p. )\n\nAluehallitus ei käytä otto-oikeutta viranhaltijapäätöksiin ajalta 12. - 18.6.2025."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "67",
+   "title": "Aluehallituksen otto-oikeuden käyttäminen/hankinnat",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2367/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Ilkka Luoma, hyvinvointialuejohtaja (p. ):",
+   "proposal": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja (p. ):\n\nAluehallitus ei käytä otto-oikeutta hankintapäätöksiin ajalta 12. - 18.6.2025.",
+   "decision": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Perustelut",
+     "text": "Hyvinvointialuelain 97 §:n mukaan aluehallitus, aluehallituksen puheenjohtaja, hyvinvointialuejohtaja ja hallintosäännössä määrätty hyvinvointialueen viranhaltija voivat ottaa aluehallituksen käsiteltäväksi asian, joka on tämän lain nojalla siirretty aluehallituksen alaisen viranomaisen tai aluehallituksen jaoston toimivaltaan ja jossa asianomainen viranomainen on tehnyt päätöksen.\n\nPohjois-Pohjanmaan hyvinvointialueen hallintosäännön 23 §:n mukaan asian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nHallintosäännön 24 §:n mukaan aluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan.\n\nIlmoitus on tehtävä neljän (4) päivän kuluessa pöytäkirjan tarkastamisesta. Jos pöytäkirjaa ei tarkasteta, määräaika lasketaan pöytäkirjan allekirjoittamisesta.\n\nIlmoitus tehdään sähköisesti aluehallituksen esittelijälle, ellei aluehallitus toisin päätä.\n\nPäätökset niissä asioissa, joista ei tarvitse ilmoittaa, voidaan otto-oikeuden estämättä panna täytäntöön, jollei yksittäistapauksessa ole ilmoitettu asian ottamisesta toimielimen käsiteltäväksi.\n\nOttamiseen oikeutettu viranomainen voi ottaa käsiteltäväkseen myös asian, josta sille ei ole ilmoitettu."
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja (p. ):\n\nAluehallitus ei käytä otto-oikeutta hankintapäätöksiin ajalta 12. - 18.6.2025."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Hankintojen otto-oikeuspäätökset ajalta 12.-18.6.2025.pdf (pdf, 7 kt)",
+     "url": "https://pohde.cloudnc.fi/download/noname/{64806dfd-d797-40e8-a987-aec31892c113}/41595"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "68",
+   "title": "LISÄPYKÄLÄ: Aluehallituksen otto-oikeuden käyttäminen (lisäpykälä)",
+   "source_url": "https://pohde.cloudnc.fi/fi-FI/content/2383/12544",
+   "pdf_url": null,
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Ilkka Luoma, hyvinvointialuejohtaja (p. ):",
+   "proposal": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja (p. ):\n\nAluehallitus ei käytä otto-oikeutta viranhaltijapäätöksiin ajalta 23.6.2025.",
+   "decision": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen.\n\nEsteellisyys\n\nMika Rämet poistui esteellisenä (hallintolain § 28.1 kohta 7) asian käsittelyn ja päätöksenteon ajaksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Perustelut",
+     "text": "Hyvinvointialuelain 97 §:n mukaan aluehallitus, aluehallituksen puheenjohtaja, hyvinvointialuejohtaja ja hallintosäännössä määrätty hyvinvointialueen viranhaltija voivat ottaa aluehallituksen käsiteltäväksi asian, joka on tämän lain nojalla siirretty aluehallituksen alaisen viranomaisen tai aluehallituksen jaoston toimivaltaan ja jossa asianomainen viranomainen on tehnyt päätöksen.\n\nPohjois-Pohjanmaan hyvinvointialueen hallintosäännön 23 §:n mukaan asian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nHallintosäännön 24 §:n mukaan aluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan.\n\nIlmoitus on tehtävä neljän (4) päivän kuluessa pöytäkirjan tarkastamisesta. Jos pöytäkirjaa ei tarkasteta, määräaika lasketaan pöytäkirjan allekirjoittamisesta.\n\nIlmoitus tehdään sähköisesti aluehallituksen esittelijälle, ellei aluehallitus toisin päätä.\n\nPäätökset niissä asioissa, joista ei tarvitse ilmoittaa, voidaan otto-oikeuden estämättä panna täytäntöön, jollei yksittäistapauksessa ole ilmoitettu asian ottamisesta toimielimen käsiteltäväksi.\n\nOttamiseen oikeutettu viranomainen voi ottaa käsiteltäväkseen myös asian, josta sille ei ole ilmoitettu.\n\nHenkilöstöjaoston sekä tulevaisuus-, yhdyspinta- ja turvallisuuslautakuntien kokouspöytäkirjat ovat nähtävissä Pohjois-Pohjanmaan hyvinvointialueen verkkosivuilla (Päätöksenteko).\n\nHyvinvointialuejohtaja\n\nPalvelussuhteeseen valinta:\n\n§ 66 Palvelualuejohtajan viran 73548-1043 täyttäminen Somatiikan yhteiset (P450, Somatiikan yhteiset (VA4505), YKP Somatiikka (Vy 24709), 23.06.2025\n\n§ 67 Palvelualuejohtajan viran 73548-1040 täyttäminen Somatiikan yhteiset (P450), Somatiikan yhteiset (VA4505), YKP Somatiikka (Vy 24709), 23.06.2025\n\n§ 68 Palvelualuejohtajan viran 73548-1041 täyttäminen Somatiikan yhteiset (P450), Somatiikan yhteiset (VA4505), YKP Somatiikka (Vy 24709), 23.06.2025\n\n§ 69 Palvelualuejohtajan viran 73548-1042 täyttäminen Somatiikan yhteiset (P450), Somatiikan yhteiset (VA4505), YKP Somatiikka (Vy 24709), 23.06.2025\n\n§ 70 Hoitotyön johtajan viran 74998-1007 täyttäminen Somatiikan yhteiset (P450), Somatiikan yhteiset (VA4505), YKP Somatiikka (Vy 24709), 23.06.2025\n\n§ 71 Hoitotyön johtajan viran 74998-1006 täyttäminen Somatiikan yhteiset (P450), Somatiikan yhteiset (VA4505), YKP Somatiikka (Vy 24709), 23.06.2025\n\n§ 72 Hoitotyön johtajan viran 74998-1009 täyttäminen Somatiikan yhteiset (P450), Somatiikan yhteiset (VA4505), YKP Somatiikka (Vy 24709), 23.06.2025\n\n§ 73 Hoitotyön johtajan viran 74998-1008 täyttäminen Somatiikan yhteiset (P450), Somatiikan yhteiset (VA4505), YKP Somatiikka (Vy 24709), 23.06.2025\n\n§ 74 Hallinnollisen ylilääkärin viran 87159-1000 täyttäminen Somatiikan yhteiset (P450), Somatiikan yhteiset (VA4505), YKP Somatiikka (Vy 24709), 23.06.2025\n\n§ 75 Palvelualuejohtajan viran 73548-1039 täyttäminen Somatiikan yhteiset (P450), Somatiikan yhteiset (VA4505), YKP Somatiikka (Vy 24709), 23.06.2025\n\nTyöntekijän/Viranhaltijan siirtäminen toiseen työ-/virkasuhteeseen:\n\n§ 76 Hoitotyön johtajan viran 74998-1010 täyttäminen Somatiikan yhteiset (P450), Somatiikan yhteiset (VA4505), YKP Somatiikka (Vy 24709), 23.06.2025"
+    },
+    {
+     "heading": "Ehdotus",
+     "text": "Esittelijä: Ilkka Luoma, hyvinvointialuejohtaja (p. ):\n\nAluehallitus ei käytä otto-oikeutta viranhaltijapäätöksiin ajalta 23.6.2025."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus hyväksyi hyvinvointialuejohtajan ehdotuksen.\n\nEsteellisyys\n\nMika Rämet poistui esteellisenä (hallintolain § 28.1 kohta 7) asian käsittelyn ja päätöksenteon ajaksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Mirja Vehkaperä",
+   "role": "Puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Mika Rämet",
+   "role": "1. Varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Pekka Simonen",
+   "role": "2. Varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Ari Ahola",
+   "role": "Varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Asko Alasalmi",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Hemmo Heiskanen",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Emilia Huusko",
+   "role": "Varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Liisa Kylmänen",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Teijo Liedes",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Eija-Riitta Niinikoski",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Tarja Ollanketo",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Antti Ollikainen",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Pirjo Sirviö",
+   "role": "",
+   "group": "member"
+  },
+  {
+   "name": "Jouko Luukkonen",
+   "role": "konsernipalvelujen johtaja",
+   "group": "other"
+  },
+  {
+   "name": "Sihteeri",
+   "role": "",
+   "group": "other"
+  },
+  {
+   "name": "Jukka Hakkola",
+   "role": "Oulun yliopiston edustaja",
+   "group": "other"
+  },
+  {
+   "name": "Matti Honkala",
+   "role": "aluevaltuuston 1. varapj",
+   "group": "other"
+  },
+  {
+   "name": "Anne Huotari",
+   "role": "aluevaltuuston 3. varapj",
+   "group": "other"
+  },
+  {
+   "name": "Ilkka Luoma",
+   "role": "hyvinvointialuejohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Maire Mäki",
+   "role": "aluevaltuuston 2. varapj",
+   "group": "other"
+  },
+  {
+   "name": "Laura Paloheimo",
+   "role": "viestintäjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Matti Soronen",
+   "role": "aluevaltuuston pj",
+   "group": "other"
+  },
+  {
+   "name": "Kirsti Ylitalo-Katajisto",
+   "role": "sosiaali- ja terveydenhuollon järjestämisjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Aila Kerosalo",
+   "role": "ateria-​ ja puhtauspalveluostopäällikkö",
+   "group": "other"
+  },
+  {
+   "name": "Katja Lantiainen",
+   "role": "hankinta- ja sopimusjuristi",
+   "group": "other"
+  },
+  {
+   "name": "Anssi Huhtala",
+   "role": "tietoturvapäällikkö",
+   "group": "other"
+  },
+  {
+   "name": "Maarit Matinolli",
+   "role": "",
+   "group": "absent"
+  },
+  {
+   "name": "Anu Plaketti",
+   "role": "",
+   "group": "absent"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus/Kokous_2462025",
+  "fetched_at": "2026-10-14T19:37:31+00:00",
+  "content_hash": "ec73125811c0caa5",
+  "parser_version": "0.1.0",
+  "platform": "cloudnc",
+  "first_seen": "2026-10-14T19:37:31+00:00"
+ }
+}

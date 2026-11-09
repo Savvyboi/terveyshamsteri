@@ -1,0 +1,332 @@
+{
+ "id": "yhteistyotoimikunta/2026-06-16",
+ "region": "etela-savo",
+ "body_id": "yhteistyotoimikunta",
+ "body_name": "Yhteistyötoimikunta",
+ "date": "2026-06-16",
+ "stage": "minutes",
+ "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=C9F103A5X8029X4999X91D3XE83182A8C54D",
+ "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/C9F103A5X8029X4999X91D3XE83182A8C54D.PDF",
+ "time": "13:30 - 15:00",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "40",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=C9F103A5X8029X4999X91D3XE83182A8C54D-1",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/C9F103A5X8029X4999X91D3XE83182A8C54D-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouskutsun antaa puheenjohtaja tai hänen estyneenä ollessaan varapuheenjohtaja.\n\nKokouskutsussa on ilmoitettava kokouksen aika ja paikka sekä käsiteltävät asiat. Kokouskutsu lähetetään vähintään neljä päivää ennen kokousta. Kirjallinen kutsu on toimitettu jäsenille sähköpostitse 11.6.2026.\n\nEsityslista, joka sisältää selostuksen käsiteltävistä asioista ja ehdotukset toimielimen päätöksiksi, lähetetään kokouskutsun yhteydessä, jollei erityiset syyt ole esteenä.\n\nKokouskutsu lähetetään jäsenille ja muille, joilla on läsnäolo-oikeus tai -velvollisuus toimielimen päättämällä tavalla.\n\nKokouskutsu, esityslista, liitteet ja oheismateriaali lähetetään ensisijaisesti sähköisesti. Tällöin valmistelutoimielin tai sen nimeämä viranhaltija vastaa siitä, että tähän tarvittavat tekniset laitteet, järjestelmät ja tietoliikenneyhteydet ovat käytettävissä. Salassa pidettäviä tietoja voidaan lähettää vain suojatulla yhteydellä.\n\nTodetaan läsnäolijat sähköisessä kokoushallintajärjestelmässä. Kokous on päätösvaltainen kun yli puolet jäsenistä on läsnä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokous todettiin lailliseksi ja päätösvaltaiseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "41",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=C9F103A5X8029X4999X91D3XE83182A8C54D-2",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/C9F103A5X8029X4999X91D3XE83182A8C54D-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Tämän kokouksen pöytäkirjantarkastajiksi valitaan Johanna Laukkanen ja Tiia Rautpalo sekä varalle Kati Nieminen ja Mari Torniainen.",
+   "decision": "Pöytäkirjan tarkastajiksi valittiin Johanna Laukkanen ja Sinikka Asikainen.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Toimielin valitsee pöytäkirjantarkastajiksi kaksi toimielimen jäsentä ja varalle kaksi jäsentä aakkosjärjestyksessä."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Tämän kokouksen pöytäkirjantarkastajiksi valitaan Johanna Laukkanen ja Tiia Rautpalo sekä varalle Kati Nieminen ja Mari Torniainen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjan tarkastajiksi valittiin Johanna Laukkanen ja Sinikka Asikainen."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "42",
+   "title": "Työjärjestyksen hyväksyminen",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=C9F103A5X8029X4999X91D3XE83182A8C54D-3",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/C9F103A5X8029X4999X91D3XE83182A8C54D-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Hyväksytään esityslistan mukainen työjärjestys.",
+   "decision": "Hyväksyttiin esityslistan mukainen työjärjestys.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Työjärjestyksen hyväksyminen\n\nAsiat käsitellään esityslistan mukaisessa järjestyksessä, ellei työjärjestystä päätetä muuttaa."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Hyväksytään esityslistan mukainen työjärjestys."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityslistan mukainen työjärjestys."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "43",
+   "title": "Salassapito- ja tietoturvasitoumuksen muuttuminen",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=C9F103A5X8029X4999X91D3XE83182A8C54D-4",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/C9F103A5X8029X4999X91D3XE83182A8C54D-4.PDF",
+   "diary_number": "4044/00.01.02.02/2026",
+   "preparer": "Digijohtaja Jukka Mielonen; Digijohtaja selostaa salassapito- ja tietoturvasitoumuksen muuttumista Eloisassa.",
+   "presenter": null,
+   "proposal": "Yhteistyötoimikunta merkitsee asian tiedoksi.",
+   "decision": "Yhteistyötoimikunta merkitsi asian tiedoksi. JUKO toteaa, että kyseinen asiakirja ei ole tullut siinä määrin ajoissa, että JUKOlla olisi ollut tosiasiallinen mahdollisuus siihen riittävällä tarkkuudella tutustua. Näin ollen sen tarkempi kommentointi ei tässä kokouksessa ole mahdollista. Pyydämme JUKOn keskustasolta kommentteja asiakirjaan ja toimitamme tarvittaessa ne työnantajalle sen jälkeen. Tässä hetkessä JUKO pystyy kommentoimaan kyseistä sitoumusta vain sen osalta, että sitoumus on viety niin laajalle tasolle, ettei työnantaja voi kohtuullisesti olettaa henkilöstön ymmärtävän sitoumuksen sisältöä kokonaisuudessaan.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Digijohtaja Jukka Mielonen\n\nDigijohtaja selostaa salassapito- ja tietoturvasitoumuksen muuttumista Eloisassa."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Yhteistyötoimikunta merkitsee asian tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Yhteistyötoimikunta merkitsi asian tiedoksi. JUKO toteaa, että kyseinen asiakirja ei ole tullut siinä määrin ajoissa, että JUKOlla olisi ollut tosiasiallinen mahdollisuus siihen riittävällä tarkkuudella tutustua. Näin ollen sen tarkempi kommentointi ei tässä kokouksessa ole mahdollista. Pyydämme JUKOn keskustasolta kommentteja asiakirjaan ja toimitamme tarvittaessa ne työnantajalle sen jälkeen. Tässä hetkessä JUKO pystyy kommentoimaan kyseistä sitoumusta vain sen osalta, että sitoumus on viety niin laajalle tasolle, ettei työnantaja voi kohtuullisesti olettaa henkilöstön ymmärtävän sitoumuksen sisältöä kokonaisuudessaan."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Yhteistyötoimikunta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "44",
+   "title": "Alijäämien kattamissuunnitelma",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=C9F103A5X8029X4999X91D3XE83182A8C54D-5",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/C9F103A5X8029X4999X91D3XE83182A8C54D-5.PDF",
+   "diary_number": "3976/00.01.02.02/2026",
+   "preparer": "Konsernipalveluiden toimialajohtaja Sami Sipilä; Konsernipalveluiden toimialajohtaja selostaa alijäämien kattamissuunnitelmaa.",
+   "presenter": null,
+   "proposal": "Yhteistyötoimikunta merkitsee asian tiedoksi.",
+   "decision": "Yhteistyötoimikunta merkitsi asian tiedoksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Konsernipalveluiden toimialajohtaja Sami Sipilä\n\nKonsernipalveluiden toimialajohtaja selostaa alijäämien kattamissuunnitelmaa."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Yhteistyötoimikunta merkitsee asian tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Yhteistyötoimikunta merkitsi asian tiedoksi."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Yhteistyötoimikunta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "45",
+   "title": "Psykologien veto- ja pitovoimamalli 1.8.2026 alkaen",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=C9F103A5X8029X4999X91D3XE83182A8C54D-6",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/C9F103A5X8029X4999X91D3XE83182A8C54D-6.PDF",
+   "diary_number": "3975/00.01.02.02/2026",
+   "preparer": "Henkilöstöpäällikkö Maria Haarala; Henkilöstöpäällikkö selostaa päivitettyä psykologien veto- ja pitovoimallia 1.8.2026 alkaen.",
+   "presenter": null,
+   "proposal": "Yhteistyötoimikunta merkitsee asian tiedoksi.",
+   "decision": "Yhteistyötoimikunta merkitsi asian tiedoksi. JUKO toteaa, että työnantaja on keskustellut 17.3. JUKOn kanssa tarpeesta päivittää psykologien veto- ja pitovoimamallia, esimerkiksi koulutusmahdollisuuksien osalta. JUKO on tällöin pyytänyt työnantajaa toimittamaan työnantajan päivittämän mallin hyvissä ajoin ennen sen käsittelyä Yhteistyötoimikunnassa, koska JUKO pitää tärkeänä konsultoida asiassa Psykologiliittoa. JUKO ilmaisi myös huolensa siitä, että työnantaja aikoo jatkossa asettaa lakisääteisellä osittaisella perhevapaan tai osittaisella sairauspoissaololla olevat psykologit muita psykologeja heikompaan asemaan koulutusmahdollisuuksien osalta. Yleisesti JUKO toteaa, että mahdolliset muutokset veto- ja pitovoimamallissa tulee toteuttaa niin, etteivät ne heikennä ennen muutoksia eli aiemman mallin ehdoilla Eloisalle rekrytoitujen psykologien asemaa, esimerkiksi koulutusmahdollisuuksien osalta. Työnantaja ei ole toimittanut päivitettyä mallia riittävän ajoissa, joten JUKO katsoo ettei mallia voida JUKOn osalta katsoa käsitellyksi Yhteistyötoimikunnan kokouksessa 16.6. ja tulee toimittamaan työnantajalle erikseen Psykologiliiton kommentit, koska mahdollisuutta kommenttien saamiseen tällaisella aikataululla ei ole ollut. JUKO esittää myös huolen siitä, että mikäli muutokset eivät ole riittävästi perusteltuja ja huolellisesti suunniteltuja, saattavat ne vaikuttaa negatiivisesti Eloisan mainekuvaan työnantajana psykologien keskuudessa. JUKO huomauttaa, että vastaavien psykologien paikallinen sopimus on päivitetty 1.3.2025 alkaen ja työnantaja on nyt liittänyt tähän vanhan, ei enää voimassa olevan sopimuksen sekä kirjannut näin ollen virheellisen 20 % työajankäyttöä tekstiin, kun pitäisi olla 40 %.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Henkilöstöpäällikkö Maria Haarala\n\nHenkilöstöpäällikkö selostaa päivitettyä psykologien veto- ja pitovoimallia 1.8.2026 alkaen."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Yhteistyötoimikunta merkitsee asian tiedoksi."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Yhteistyötoimikunta merkitsi asian tiedoksi. JUKO toteaa, että työnantaja on keskustellut 17.3. JUKOn kanssa tarpeesta päivittää psykologien veto- ja pitovoimamallia, esimerkiksi koulutusmahdollisuuksien osalta. JUKO on tällöin pyytänyt työnantajaa toimittamaan työnantajan päivittämän mallin hyvissä ajoin ennen sen käsittelyä Yhteistyötoimikunnassa, koska JUKO pitää tärkeänä konsultoida asiassa Psykologiliittoa. JUKO ilmaisi myös huolensa siitä, että työnantaja aikoo jatkossa asettaa lakisääteisellä osittaisella perhevapaan tai osittaisella sairauspoissaololla olevat psykologit muita psykologeja heikompaan asemaan koulutusmahdollisuuksien osalta. Yleisesti JUKO toteaa, että mahdolliset muutokset veto- ja pitovoimamallissa tulee toteuttaa niin, etteivät ne heikennä ennen muutoksia eli aiemman mallin ehdoilla Eloisalle rekrytoitujen psykologien asemaa, esimerkiksi koulutusmahdollisuuksien osalta. Työnantaja ei ole toimittanut päivitettyä mallia riittävän ajoissa, joten JUKO katsoo ettei mallia voida JUKOn osalta katsoa käsitellyksi Yhteistyötoimikunnan kokouksessa 16.6. ja tulee toimittamaan työnantajalle erikseen Psykologiliiton kommentit, koska mahdollisuutta kommenttien saamiseen tällaisella aikataululla ei ole ollut. JUKO esittää myös huolen siitä, että mikäli muutokset eivät ole riittävästi perusteltuja ja huolellisesti suunniteltuja, saattavat ne vaikuttaa negatiivisesti Eloisan mainekuvaan työnantajana psykologien keskuudessa. JUKO huomauttaa, että vastaavien psykologien paikallinen sopimus on päivitetty 1.3.2025 alkaen ja työnantaja on nyt liittänyt tähän vanhan, ei enää voimassa olevan sopimuksen sekä kirjannut näin ollen virheellisen 20 % työajankäyttöä tekstiin, kun pitäisi olla 40 %."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Yhteistyötoimikunta"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "46",
+   "title": "Muut asiat",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=C9F103A5X8029X4999X91D3XE83182A8C54D-7",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/C9F103A5X8029X4999X91D3XE83182A8C54D-7.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Sovittiin, että tuodaan Yhteistyötoimikunnan esityslistalle työsuojeluun liittyvä hanke, kunhan asia on edennyt.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat\n\nYhteistyötoimikunta merkitsee tiedoksi kokouksessa esille tulleet muut asiat."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Sovittiin, että tuodaan Yhteistyötoimikunnan esityslistalle työsuojeluun liittyvä hanke, kunhan asia on edennyt."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "47",
+   "title": "Kokouksen päättäminen",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=C9F103A5X8029X4999X91D3XE83182A8C54D-8",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/C9F103A5X8029X4999X91D3XE83182A8C54D-8.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Puheenjohtaja päättää kokouksen.",
+   "decision": "Puheenjohtaja päätti kokouksen klo 14:16.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Esitys",
+     "text": "Puheenjohtaja päättää kokouksen."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja päätti kokouksen klo 14:16."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Juntunen Taru",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Auvinen Kati",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Haarala Maria",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hintikainen Sini",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kannonmäki Ani",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kulla-Numminen Hanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Laukkanen Johanna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Nieminen Kati",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Matilainen Teemu",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Torniainen Mari",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Ylönen Päivi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kinnunen Riikka",
+   "role": "kokoussihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Asikainen Sinikka",
+   "role": "varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Sipilä Sami",
+   "role": "konsernipalvelujen toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Mielonen Jukka",
+   "role": "vastuuvalmistelija",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=C9F103A5X8029X4999X91D3XE83182A8C54D",
+  "fetched_at": "2026-10-14T16:50:19+00:00",
+  "content_hash": "05daac2ba2adcec6",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T16:50:19+00:00"
+ }
+}

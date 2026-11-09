@@ -1,0 +1,86 @@
+[
+ {
+  "id": "aluehallitus",
+  "name": "Aluehallitus",
+  "type": "board",
+  "url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=852",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaalilautakunta",
+  "name": "Aluevaalilautakunta",
+  "type": "committee",
+  "url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=1256",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaltuusto",
+  "name": "Aluevaltuusto",
+  "type": "council",
+  "url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=11",
+  "language": "fi"
+ },
+ {
+  "id": "hyvinvoinnin-ja-terveyden-edistamisen-seka-yhdyspintojen-jaosto",
+  "name": "Hyvinvoinnin ja terveyden edistämisen sekä yhdyspintojen jaosto",
+  "type": "section",
+  "url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=1851",
+  "language": "fi"
+ },
+ {
+  "id": "kansalliskielilautakunta",
+  "name": "Kansalliskielilautakunta",
+  "type": "committee",
+  "url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=1255",
+  "language": "fi"
+ },
+ {
+  "id": "nuorisovaltuusto",
+  "name": "Nuorisovaltuusto",
+  "type": "advisory",
+  "url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=858",
+  "language": "fi"
+ },
+ {
+  "id": "omistajaohjausjaosto",
+  "name": "Omistajaohjausjaosto",
+  "type": "section",
+  "url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=4922",
+  "language": "fi"
+ },
+ {
+  "id": "pelastustoimen-jaosto",
+  "name": "Pelastustoimen jaosto",
+  "type": "section",
+  "url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=2462",
+  "language": "fi"
+ },
+ {
+  "id": "sisaisen-valvonnan-ja-riskienhallinnan-jaosto",
+  "name": "Sisäisen valvonnan ja riskienhallinnan jaosto",
+  "type": "section",
+  "url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=6530",
+  "language": "fi"
+ },
+ {
+  "id": "tarkastuslautakunta",
+  "name": "Tarkastuslautakunta",
+  "type": "committee",
+  "url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=854",
+  "language": "fi"
+ },
+ {
+  "id": "vammaisneuvosto",
+  "name": "Vammaisneuvosto",
+  "type": "advisory",
+  "url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=861",
+  "language": "fi"
+ },
+ {
+  "id": "vanhusneuvosto",
+  "name": "Vanhusneuvosto",
+  "type": "advisory",
+  "url": "https://ovph-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=860",
+  "language": "fi"
+ }
+]

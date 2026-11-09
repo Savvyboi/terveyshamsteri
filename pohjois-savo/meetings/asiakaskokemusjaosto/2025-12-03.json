@@ -1,0 +1,335 @@
+{
+ "id": "asiakaskokemusjaosto/2025-12-03",
+ "region": "pohjois-savo",
+ "body_id": "asiakaskokemusjaosto",
+ "body_name": "Asiakaskokemusjaosto",
+ "date": "2025-12-03",
+ "stage": "minutes",
+ "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025906",
+ "pdf_url": "https://pshva.oncloudos.com/kokous/2025906.PDF",
+ "time": "08:30 - 10:14",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "153",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025906-1",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025906-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen laillisuus ja päätösvaltaisuus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "154",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025906-2",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025906-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Pitkänen Eveliina ja Väätäinen Jenna.",
+   "decision": "Pöytäkirjantarkastajiksi valittiin Pitkänen Eveliina ja Väätäinen Jenna.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pöytäkirjantarkastajien valinta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Pitkänen Eveliina ja Väätäinen Jenna."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Pitkänen Eveliina ja Väätäinen Jenna."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "155",
+   "title": "Asioiden käsittelyjärjestys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025906-3",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025906-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asioiden käsittelyjärjestys"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "156",
+   "title": "Ajankohtaiset asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025906-4",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025906-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Ajankohtaiset asiat:\n\n- Järjestöavustusten tilannekatsaus",
+   "decision": "Asiakaskokemusjaosto merkitsi ajankohtaiset asiat tiedoksi. Merkitään pöytäkirjaan, että:\n\n- Jarkko Ahokas saapui klo 8.37\n\n- Sirpa Kononen, Säde Rytkönen ja Riitta Raatikainen poistuivat klo 9.20",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Ajankohtaiset asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Asiakaskokemusjaosto merkitsi ajankohtaiset asiat tiedoksi. Merkitään pöytäkirjaan, että:\n\n- Jarkko Ahokas saapui klo 8.37\n\n- Sirpa Kononen, Säde Rytkönen ja Riitta Raatikainen poistuivat klo 9.20"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Ajankohtaiset asiat:\n\n- Järjestöavustusten tilannekatsaus"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "157",
+   "title": "Oikaisuvaatimus, arviointijakso",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025906-5",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025906-5.PDF",
+   "diary_number": "4650/02.05.00.01/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "158",
+   "title": "Oikaisuvaatimus, suun terveydenhuolto",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025906-6",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025906-6.PDF",
+   "diary_number": "4374/03.06.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "159",
+   "title": "Oikaisuvaatimus, ympärivuorokautisen palveluasumisen asiakasmaksut",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025906-7",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025906-7.PDF",
+   "diary_number": "3094/02.05.00.01/2024",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "160",
+   "title": "Oikaisuvaatimus, erikoissairaanhoidon laskutus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025906-8",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025906-8.PDF",
+   "diary_number": "4981/02.05.00.01/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "161",
+   "title": "Oikaisuvaatimus, vastaanottomaksu, perusterveydenhuolto",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025906-9",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025906-9.PDF",
+   "diary_number": "5861/02.05.00.01/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "162",
+   "title": "Muut asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025906-10",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025906-10.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Puheenjohtaja päätti kokouksen klo 10.14",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja päätti kokouksen klo 10.14"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Rossi Markku",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Miettinen Heikki",
+   "role": "varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Ahokas Jarkko",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hämäläinen Vuokko",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Koistinen Minna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pitkänen Eveliina",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Väätäinen Jenna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Eskelinen Päivi",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Hiltunen Miia",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Raatikainen Riitta",
+   "role": "aluehallituksen puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kononen Sirpa",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Rytkönen Säde",
+   "role": "asiantuntija",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025906",
+  "fetched_at": "2026-10-14T18:23:02+00:00",
+  "content_hash": "81d1764866b5791a",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T18:23:02+00:00"
+ }
+}

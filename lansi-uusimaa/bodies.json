@@ -1,0 +1,128 @@
+[
+ {
+  "id": "aluehallitus",
+  "name": "Aluehallitus",
+  "type": "board",
+  "url": "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=4",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaalilautakunta",
+  "name": "Aluevaalilautakunta",
+  "type": "committee",
+  "url": "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=1649",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaltuusto",
+  "name": "Aluevaltuusto",
+  "type": "council",
+  "url": "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=3",
+  "language": "fi"
+ },
+ {
+  "id": "kansalliskielilautakunta",
+  "name": "Kansalliskielilautakunta",
+  "type": "committee",
+  "url": "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=1537",
+  "language": "fi"
+ },
+ {
+  "id": "nationalspraksnamnden",
+  "name": "Nationalspråksnämnden",
+  "type": "committee",
+  "url": "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=1651",
+  "language": "fi"
+ },
+ {
+  "id": "nuorisovaltuusto",
+  "name": "Nuorisovaltuusto",
+  "type": "advisory",
+  "url": "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=5106",
+  "language": "fi"
+ },
+ {
+  "id": "palvelut-ja-henkilosto-lautakunta",
+  "name": "Palvelut ja henkilöstö -lautakunta",
+  "type": "committee",
+  "url": "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=46888",
+  "language": "fi"
+ },
+ {
+  "id": "palvelut-ja-resurssit-lautakunta",
+  "name": "Palvelut ja resurssit -lautakunta",
+  "type": "committee",
+  "url": "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=1654",
+  "language": "fi"
+ },
+ {
+  "id": "radet-for-personer-med-funktionsnedsattning",
+  "name": "Rådet för personer med funktionsnedsättning",
+  "type": "advisory",
+  "url": "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=45882",
+  "language": "fi"
+ },
+ {
+  "id": "tarkastuslautakunta",
+  "name": "Tarkastuslautakunta",
+  "type": "committee",
+  "url": "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=1361",
+  "language": "fi"
+ },
+ {
+  "id": "tulevaisuus-ja-kehittamislautakunta",
+  "name": "Tulevaisuus- ja kehittämislautakunta",
+  "type": "committee",
+  "url": "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=1656",
+  "language": "fi"
+ },
+ {
+  "id": "ungdomsfullmaktige",
+  "name": "Ungdomsfullmäktige",
+  "type": "advisory",
+  "url": "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=45607",
+  "language": "fi"
+ },
+ {
+  "id": "valmius-ja-turvallisuuslautakunta",
+  "name": "Valmius- ja turvallisuuslautakunta",
+  "type": "committee",
+  "url": "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=1658",
+  "language": "fi"
+ },
+ {
+  "id": "vammaisneuvosto",
+  "name": "Vammaisneuvosto",
+  "type": "advisory",
+  "url": "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=5109",
+  "language": "fi"
+ },
+ {
+  "id": "vanhusneuvosto",
+  "name": "Vanhusneuvosto",
+  "type": "advisory",
+  "url": "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=5110",
+  "language": "fi"
+ },
+ {
+  "id": "valfardsomradesfullmaktige",
+  "name": "Välfärdsområdesfullmäktige",
+  "type": "council",
+  "url": "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=11",
+  "language": "fi"
+ },
+ {
+  "id": "valfardsomradesstyrelsen",
+  "name": "Välfärdsområdesstyrelsen",
+  "type": "board",
+  "url": "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=547",
+  "language": "fi"
+ },
+ {
+  "id": "aldreradet",
+  "name": "Äldrerådet",
+  "type": "advisory",
+  "url": "https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=45608",
+  "language": "fi"
+ }
+]

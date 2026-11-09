@@ -1,0 +1,442 @@
+{
+ "id": "asiakaskokemusjaosto/2025-10-08",
+ "region": "pohjois-savo",
+ "body_id": "asiakaskokemusjaosto",
+ "body_name": "Asiakaskokemusjaosto",
+ "date": "2025-10-08",
+ "stage": "minutes",
+ "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025870",
+ "pdf_url": "https://pshva.oncloudos.com/kokous/2025870.PDF",
+ "time": "08:30 - 11:00",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "126",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025870-1",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025870-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen laillisuus ja päätösvaltaisuus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "127",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025870-2",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025870-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Ahokas Jarkko ja Hämäläinen Vuokko.",
+   "decision": "Pöytäkirjantarkastajiksi valittiin Ahokas Jarkko ja Hämäläinen Vuokko.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pöytäkirjantarkastajien valinta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Ahokas Jarkko ja Hämäläinen Vuokko."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Ahokas Jarkko ja Hämäläinen Vuokko."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "128",
+   "title": "Asioiden käsittelyjärjestys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025870-3",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025870-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asioiden käsittelyjärjestys"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "129",
+   "title": "Ajankohtaiset asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025870-4",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025870-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto merkitsee ajankohtaiset asiat tiedoksi.\n\nEsittelijä tuo jaostolle tiedoksi ajankohtaiset asiat.",
+   "decision": "Ei ajankohtaisia asioita.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Ajankohtaiset asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Ei ajankohtaisia asioita."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto merkitsee ajankohtaiset asiat tiedoksi.\n\nEsittelijä tuo jaostolle tiedoksi ajankohtaiset asiat."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "130",
+   "title": "Omavalvontaohjelman seuranta 2⁄2025",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025870-5",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025870-5.PDF",
+   "diary_number": "2556/06.00.01/2025",
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto merkitsee tiedoksi omavalvontaohjelman seurannan raportin ja lähettää sen edelleen tiedoksi aluehallitukselle.\n\nEnnakkovaikutusten arviointi\n\nOmavalvontaohjelman seurantaraportti antaa kuvan hyvinvointialueen omavalvonnan tilasta. Raportti nostaa esille järjestäjän tehtäviin liittyviä kokonaisuuksia ja niissä mahdollisesti esiintyviä haasteita. Raportin avulla seurataan kehittämistoimenpiteiden etenemistä.\n\nToimivallan peruste\nHallintosääntö § 39 kohdat 1,2,3,4,6\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nOmavalvontaohjeman seurantaraportti 2/2025\n\nValmistelu\nPohjois-Savon hyvinvointialueen omavalvontaohjelma on hyväksytty aluehallituksessa 22.9.2025. Omavalvontaohjelmaa seurataan neljän (4) kuukauden välein tuotetavalla omavalvontaohjelman seurantaraportilla. Tämän lisäksi palvelutuotanto seuraa omaa toimintaansa omavalvontasuunnitelmien itsearvioinnilla neljän (4) kuukauden välein.\n\nOmavalvontaohjelman seuranta keskittyy Pohjois-Savon hyvinvointialueen järjestämisvastuun ja laadunhallinnan seurantaan. Laadunhallinta pitää sisällään niin organisaation kuin toiminnan laadun mittareita. Osana tätä kokonaisuutta ovat asiakas- ja potilasturvallisuus, laatumittarit, valvonnan havainnot ja asiakkailta kerätty tieto ja palaute.\n\nPalvelutuotanto seuraa omaa toimintaansa omissa osavuosikatsauksissaan ja omavalvontasuunnitelmien seurannassa. Näistä omavalvontaohjelman seurannassa tarkastellaan suunnitelmien seurannan toteutumista, mutta varsinainen toiminnan kehittäminen kuuluu näiltä osin palvelutuotannon vastuulle.\n\nLiitteenä oleva raportti kattaa pääsääntöisesti ajanjakson 4-8/2025. Raportin aikataulua on muutettu kesken vuoden vastaamaan hyvinvointialueen osavuosikatsausaikataulua joka ennen oli kolmen kuukauden välein. Tästä syystä tässä raportissa on poikkeuksellisesti tietoa osasta toiminnoista viiden (5) kuukauden osalta. Jokaisessa osa-alueessa on kuvattu, miltä ajalta kyseiset tiedot ovat.\n\nRaportin kokoamisvastuu jakautuu usealle henkilölle, joista jokainen on tuottanut vastuullaan olevat kokonaisuudet. Valmistelijoiden nimet ja vastuut löytyvät raportin alusta, jotta heihin voi tarvittaessa ottaa suoraan yhteyttä.",
+   "decision": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että\n\nTarja Tervo-Heikkinen saapui klo 9.03\n\nTuija Pakkala poistui klo 10.00\n\nSäde Rytkönen poistui klo 10.02\n\nHanna Leinonen, Laura Tossavainen ja Tarja Tervo-Heikkinen poistuivat asian käsittelyn ja päätöksenteon jälkeen klo 10.55",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nPalvelualuepäällikkö Päivi Eskelinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että\n\nTarja Tervo-Heikkinen saapui klo 9.03\n\nTuija Pakkala poistui klo 10.00\n\nSäde Rytkönen poistui klo 10.02\n\nHanna Leinonen, Laura Tossavainen ja Tarja Tervo-Heikkinen poistuivat asian käsittelyn ja päätöksenteon jälkeen klo 10.55"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto merkitsee tiedoksi omavalvontaohjelman seurannan raportin ja lähettää sen edelleen tiedoksi aluehallitukselle.\n\nEnnakkovaikutusten arviointi\n\nOmavalvontaohjelman seurantaraportti antaa kuvan hyvinvointialueen omavalvonnan tilasta. Raportti nostaa esille järjestäjän tehtäviin liittyviä kokonaisuuksia ja niissä mahdollisesti esiintyviä haasteita. Raportin avulla seurataan kehittämistoimenpiteiden etenemistä.\n\nToimivallan peruste\nHallintosääntö § 39 kohdat 1,2,3,4,6\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nOmavalvontaohjeman seurantaraportti 2/2025\n\nValmistelu\nPohjois-Savon hyvinvointialueen omavalvontaohjelma on hyväksytty aluehallituksessa 22.9.2025. Omavalvontaohjelmaa seurataan neljän (4) kuukauden välein tuotetavalla omavalvontaohjelman seurantaraportilla. Tämän lisäksi palvelutuotanto seuraa omaa toimintaansa omavalvontasuunnitelmien itsearvioinnilla neljän (4) kuukauden välein.\n\nOmavalvontaohjelman seuranta keskittyy Pohjois-Savon hyvinvointialueen järjestämisvastuun ja laadunhallinnan seurantaan. Laadunhallinta pitää sisällään niin organisaation kuin toiminnan laadun mittareita. Osana tätä kokonaisuutta ovat asiakas- ja potilasturvallisuus, laatumittarit, valvonnan havainnot ja asiakkailta kerätty tieto ja palaute.\n\nPalvelutuotanto seuraa omaa toimintaansa omissa osavuosikatsauksissaan ja omavalvontasuunnitelmien seurannassa. Näistä omavalvontaohjelman seurannassa tarkastellaan suunnitelmien seurannan toteutumista, mutta varsinainen toiminnan kehittäminen kuuluu näiltä osin palvelutuotannon vastuulle.\n\nLiitteenä oleva raportti kattaa pääsääntöisesti ajanjakson 4-8/2025. Raportin aikataulua on muutettu kesken vuoden vastaamaan hyvinvointialueen osavuosikatsausaikataulua joka ennen oli kolmen kuukauden välein. Tästä syystä tässä raportissa on poikkeuksellisesti tietoa osasta toiminnoista viiden (5) kuukauden osalta. Jokaisessa osa-alueessa on kuvattu, miltä ajalta kyseiset tiedot ovat.\n\nRaportin kokoamisvastuu jakautuu usealle henkilölle, joista jokainen on tuottanut vastuullaan olevat kokonaisuudet. Valmistelijoiden nimet ja vastuut löytyvät raportin alusta, jotta heihin voi tarvittaessa ottaa suoraan yhteyttä."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Hyväksytty omavalvontaohjelman seurantaraportti 2⁄2025",
+     "url": "https://pshva.oncloudos.com/kokous/2025870-5-212850.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "131",
+   "title": "Tiedoksisaatettavat asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025870-6",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025870-6.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "palvelualuepäällikkö, asiakkuudet ja laatu",
+   "proposal": "Asiakaskokemusjaosto merkitsee selvityksen tiedoksi saaduksi",
+   "decision": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että:\n\n- 131 § alkaen esittelijänä kokouksessa toimii Säde Rytkönen.\n\n- Riitta Raatikainen poistui klo 10.54",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Tiedoksisaatettavat asiat\n\n- apulaisoikeuskanslerille annettu selvitys järjestäjän omavalvonnasta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että:\n\n- 131 § alkaen esittelijänä kokouksessa toimii Säde Rytkönen.\n\n- Riitta Raatikainen poistui klo 10.54"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "palvelualuepäällikkö, asiakkuudet ja laatu"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Asiakaskokemusjaosto merkitsee selvityksen tiedoksi saaduksi"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "132",
+   "title": "Oikaisuvaatimus, ympärivuorokautinen palveluasuminen, vammaispalvelut, Kuopio",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025870-7",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025870-7.PDF",
+   "diary_number": "4267/05.17.01/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "133",
+   "title": "Oikaisuvaatimus, kotihoidon laskutus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025870-8",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025870-8.PDF",
+   "diary_number": "4246/06.03.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "134",
+   "title": "Oikaisuvaatimus, ympärivuorokautinen palveluasuminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025870-9",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025870-9.PDF",
+   "diary_number": "4085/05.17.01/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "135",
+   "title": "Oikaisuvaatimus, suun terveydenhuolto",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025870-10",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025870-10.PDF",
+   "diary_number": "4445/06.03.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "136",
+   "title": "Oikaisuvaatimus, suun terveydenhuolto",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025870-11",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025870-11.PDF",
+   "diary_number": "4918/06.03.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "137",
+   "title": "Oikaisuvaatimus, omaishoidon vapaan aikainen asiakasmaksu",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025870-12",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025870-12.PDF",
+   "diary_number": "4222/06.03.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan asiakaskokemusjaostolle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "138",
+   "title": "Muut asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2025870-13",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/2025870-13.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Puheenjohtaja päätti kokouksen klo 11.00",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Puheenjohtaja päätti kokouksen klo 11.00"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Rossi Markku",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Miettinen Heikki",
+   "role": "varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Ahokas Jarkko",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Hämäläinen Vuokko",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Koistinen Minna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pitkänen Eveliina",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Väätäinen Jenna",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Eskelinen Päivi",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Hiltunen Miia",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Raatikainen Riitta",
+   "role": "aluehallituksen puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Rytkönen Säde",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Leinonen Hanna",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Tossavainen Laura",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Pakkala Tuija",
+   "role": "asiantuntija",
+   "group": "other"
+  },
+  {
+   "name": "Tervo-Heikkinen Tarja",
+   "role": "asiantuntija",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2025870",
+  "fetched_at": "2026-10-14T18:28:39+00:00",
+  "content_hash": "a7e56ea78069a98d",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T18:28:39+00:00"
+ }
+}

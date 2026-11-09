@@ -1,0 +1,79 @@
+[
+ {
+  "id": "aluehallitus",
+  "name": "Aluehallitus",
+  "type": "board",
+  "url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=6",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaalilautakunta",
+  "name": "Aluevaalilautakunta",
+  "type": "committee",
+  "url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=13",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaltuusto",
+  "name": "Aluevaltuusto",
+  "type": "council",
+  "url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=9",
+  "language": "fi"
+ },
+ {
+  "id": "elamankaarilautakunta",
+  "name": "Elämänkaarilautakunta",
+  "type": "committee",
+  "url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=75",
+  "language": "fi"
+ },
+ {
+  "id": "integraatiovaliokunta",
+  "name": "Integraatiovaliokunta",
+  "type": "committee",
+  "url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=174",
+  "language": "fi"
+ },
+ {
+  "id": "nuorisovaltuusto",
+  "name": "Nuorisovaltuusto",
+  "type": "advisory",
+  "url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=10",
+  "language": "fi"
+ },
+ {
+  "id": "tarkastuslautakunta",
+  "name": "Tarkastuslautakunta",
+  "type": "committee",
+  "url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=44",
+  "language": "fi"
+ },
+ {
+  "id": "terveyden-ja-toimintakyvyn-edistamisen-lautakunta",
+  "name": "Terveyden ja toimintakyvyn edistämisen lautakunta",
+  "type": "committee",
+  "url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=1",
+  "language": "fi"
+ },
+ {
+  "id": "turvallisuuslautakunta",
+  "name": "Turvallisuuslautakunta",
+  "type": "committee",
+  "url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=146",
+  "language": "fi"
+ },
+ {
+  "id": "vammaisneuvosto",
+  "name": "Vammaisneuvosto",
+  "type": "advisory",
+  "url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=12",
+  "language": "fi"
+ },
+ {
+  "id": "vanhusneuvosto",
+  "name": "Vanhusneuvosto",
+  "type": "advisory",
+  "url": "https://kantahameenhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=11",
+  "language": "fi"
+ }
+]

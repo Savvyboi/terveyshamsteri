@@ -1,0 +1,969 @@
+{
+ "id": "aluehallitus/2026-06-17",
+ "region": "pohjois-savo",
+ "body_id": "aluehallitus",
+ "body_name": "Aluehallitus",
+ "date": "2026-06-17",
+ "stage": "minutes",
+ "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261073",
+ "pdf_url": "https://pshva.oncloudos.com/kokous/20261073.PDF",
+ "time": "18:00 - 20:49",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "206",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261073-1",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261073-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä.",
+   "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouksen laillisuus ja päätösvaltaisuus"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokous todettiin lailliseksi ja päätösvaltaiseksi."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Todetaan kokous laillisesti koolle kutsutuksi ja päätösvaltaiseksi.\n\nKutsu kokoukseen on toimitettu sähköisen kokousjärjestelmän kautta. Kutsu on lähetetty Pohjois-Savon hyvinvointialueen hallintosäännön 164 §:n mukaisesti vähintään 4 päivää ennen kokousta.\n\nHyvinvointialuelain 108 §:n mukaisesti toimielin on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "207",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261073-2",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261073-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Merja Rautiainen ja Markku Rossi.",
+   "decision": "Pöytäkirjantarkastajiksi valittiin Merja Rautiainen ja Markku Rossi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Pöytäkirjantarkastajien valinta"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Pöytäkirjantarkastajiksi valittiin Merja Rautiainen ja Markku Rossi."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin valitsee pöytäkirjantarkastajat tarkastamaan tämän kokouksen pöytäkirjan. Pöytäkirjantarkastajat toiminevat myös ääntenlaskijoina mahdollisten äänestysten sattuessa. Vuorossa ovat Merja Rautiainen ja Markku Rossi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "208",
+   "title": "Asioiden käsittelyjärjestys",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261073-3",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261073-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Asioiden käsittelyjärjestys"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Toimielin hyväksyy esityslistan kokouksen asioiden käsittelyjärjes­tykseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "209",
+   "title": "Ajankohtaiset asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261073-4",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261073-4.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus merkitsee asiat tiedoksi.\n\nOmaSavo -tilannekatsaus, Anu Ryynänen\n\nKuopion SOTE keskus -tilannekatsaus, Petri Pyy",
+   "decision": "Merkitään pöytäkirjaan, että:\n\n-Anu Ryynänen oli läsnä OmaSavo tilannekatsauksen ajan klo 18.05 -18.27.\n\nMuut asiat:\n\n-Aluehallituksen itsearviointi, Riitta Raatikainen\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Ajankohtaiset asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että:\n\n-Anu Ryynänen oli läsnä OmaSavo tilannekatsauksen ajan klo 18.05 -18.27.\n\nMuut asiat:\n\n-Aluehallituksen itsearviointi, Riitta Raatikainen\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus merkitsee asiat tiedoksi.\n\nOmaSavo -tilannekatsaus, Anu Ryynänen\n\nKuopion SOTE keskus -tilannekatsaus, Petri Pyy"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "210",
+   "title": "Istekin kotiin vietävien turvapalveluiden hankinta",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261073-5",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261073-5.PDF",
+   "diary_number": "3118/02.08.00/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää hankkia kotiin vietävät turvapalveluratkaisut, joka koostuu hälytyskeskusjärjestelmästä, turvapuhelinlaitteista, sähkölukkojärjestelmästä ja sähkölukoista, Istekki Oy:ltä. Hankinnan ennakoitu kokonaisarvo neljälle vuodelle laskettuna on 4 vuodelle 8 478 399,36 € alv 0%.\n\nEnnakkovaikutusten arviointi\n\nPalvelun hankinta yhdenmukaistaa ja keskittää kotiinvietävien turvapalvelujen asiakkuuksien hallinnan, tekniset ratkaisut ja ylläpidon hyvinvointialueella.\n\nToimivallan peruste\nHallintosääntö § 36 ja § 93\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\n\nPohjois-Savossa on vuodesta 2018 Istekin tuottamana toteutettu turvapalvelukokonaisuus, joka on aiemmin ollut Kuopion ja Siilinjärven alueella ja laajennettu projektina vuosina 2024-2025 kattamaan koko Pohjois-Savon alue. Tällä päätöksellä päätetään hankkia laajennettuun kokonaisuuteen kokonaispalvelu sisältäen ylläpidon ja laitteet. Hankinta on osa hyvinvointialueen Tuottavuus ja taloudellisuus-ohjelmaa.\n\nToimittajan ja käyttäjäorganisaation yleisenä tavoitteena on vaatimusten mukainen, kustannustehokas ja alueellisesti yhtenäinen hälytyskeskusjärjestelmä- ja turvalaitepalvelu. Hyvinvointialueen tavoitteina on tehostaa ja sujuvoittaa kotihoidon ja ammattilaisten työtä ja vahvistaa kotiin tuotettavia palveluratkaisuja niin ikääntyneiden kuin esimerkiksi vammaispalvelujenkin osalta. Turvapalveluiden laajentamisen tavoitteena on ollut keventää kotihoidon työntekijöiden työtä esimerkiksi vähentämällä tarpeettomia turva-auttajakäyntejä koko Pohjois-Savon alueella, parantaa asiakkaiden hoidontarpeen arvioinnin laatua sekä nopeuttaa avun saantia oikein keskitetyin resurssein. Mittareina käytetään hälytysten määrää ja turva-auttajakäyntien määrää suhteessa hälytysmääriin sekä hälytyksiin vastaamisen viivettä. Hälytyskeskus hoitaa noin 25 500 turvapuhelinhälytystä kuukaudessa, joista noin 23% johtaa turva-auttajakäyntiin.\n\nAiemmassa ns. hajautetussa toimintamallissa lähes kaikki turvapuhelinhälytykset aiheuttivat joko kotihoidon tekemän turva-auttajakäynnin tai ensihoidon käynnin. Hälytyskeskustoiminnan keskittämisellä omaan palvelutuotantoon on kyetty turvaamaan asiakkaiden hoidon jatkuvuus kotona ja vähentämään asiakkaiden päivystyskäyntejä sekä osastohoidosta aiheutuvia keskeytyspäiviä kotihoidonpalveluissa.\n\nSähköisen ovenavauksen laajentamisen tavoitteena on nopeuttaa kotihoidon asiakkaiden avunsaantia, sujuvoittaa ammattilaisten työtä ja vähentää fyysisten avainten käytöstä aiheutuvia riskejä. Mittarina sähköisen ovenavauksen kattavuus asiakaskäynneillä tiimikohtaisesti kuukausittain.\n\nTällä päätöksellä tilataan Turvapalveluiden kokonaisuus, joka koostuu hälytyskeskusjärjestelmä-, turvapuhelinlaite- ja sähköinen ovenavauspalveluista Istekki Oyltä.\n\nUudet palvelut käynnistyvät 1.1.2027 ja samalla päätetään Istekin vanhat Turvapuhelinpalvelu-sopimukset. Keskitetyt palvelut maksetaan ICMT-palveluista ja päätelaitteet volyymipalveluina kotiin annettavista palveluista. Palvelun hankinnalla ei ole oleellisia kustannusvaikutuksia kolmen ensimmäisen vuoden ajalta, koska palvelut ovat jo olemassa ja käynnissä vanhentuneella sopimuksella. Laitteiden hankintakulun kuoletuksen jälkeen (3 v) palvelun hinta lähtökohtaisesti alenee laitteiden ylläpitoon siirtymisen myötä. Ratkaisu vähentää arvioitua noin 500 HTVn lisäystarvetta vuoteen 2030 mennessä kotihoidon palveluun noin 100 HTVllä (5,2 mil €), yhdessä muiden teknologisten ratkaisujen kanssa.\n\nHankittavan palvelun kulut ovat keskitetty hälytyskeskusjärjestelmä 16 333 €/kk (195 996 €/v alv 0%) ja turvapuhelinlaitteet 95 900 €/kk (1 150 800 €/v alv 0%) ja sähköinen ovenavaus taustapalvelu 8 500 €/kk (102 000 €/v alv 0%) ja sähkölukot 55 900,32 €/kk (670 803,84 €/v alv 0%), yhteensä 176 633,32 €/kk ja 2 119 599,84 €/v alv 0%. Hankinnan ennakoitu kokonaisarvo neljälle vuodelle on 8 478 399,36 € alv 0%.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nTuomo Pekkarinen\n\nSari Korhonen\n\n\n\nMarja Kavilo\n\nHanna Matikka\n\nJussi Lampi"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hankkia kotiin vietävät turvapalveluratkaisut, joka koostuu hälytyskeskusjärjestelmästä, turvapuhelinlaitteista, sähkölukkojärjestelmästä ja sähkölukoista, Istekki Oy:ltä. Hankinnan ennakoitu kokonaisarvo neljälle vuodelle laskettuna on 4 vuodelle 8 478 399,36 € alv 0%.\n\nEnnakkovaikutusten arviointi\n\nPalvelun hankinta yhdenmukaistaa ja keskittää kotiinvietävien turvapalvelujen asiakkuuksien hallinnan, tekniset ratkaisut ja ylläpidon hyvinvointialueella.\n\nToimivallan peruste\nHallintosääntö § 36 ja § 93\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\n\nPohjois-Savossa on vuodesta 2018 Istekin tuottamana toteutettu turvapalvelukokonaisuus, joka on aiemmin ollut Kuopion ja Siilinjärven alueella ja laajennettu projektina vuosina 2024-2025 kattamaan koko Pohjois-Savon alue. Tällä päätöksellä päätetään hankkia laajennettuun kokonaisuuteen kokonaispalvelu sisältäen ylläpidon ja laitteet. Hankinta on osa hyvinvointialueen Tuottavuus ja taloudellisuus-ohjelmaa.\n\nToimittajan ja käyttäjäorganisaation yleisenä tavoitteena on vaatimusten mukainen, kustannustehokas ja alueellisesti yhtenäinen hälytyskeskusjärjestelmä- ja turvalaitepalvelu. Hyvinvointialueen tavoitteina on tehostaa ja sujuvoittaa kotihoidon ja ammattilaisten työtä ja vahvistaa kotiin tuotettavia palveluratkaisuja niin ikääntyneiden kuin esimerkiksi vammaispalvelujenkin osalta. Turvapalveluiden laajentamisen tavoitteena on ollut keventää kotihoidon työntekijöiden työtä esimerkiksi vähentämällä tarpeettomia turva-auttajakäyntejä koko Pohjois-Savon alueella, parantaa asiakkaiden hoidontarpeen arvioinnin laatua sekä nopeuttaa avun saantia oikein keskitetyin resurssein. Mittareina käytetään hälytysten määrää ja turva-auttajakäyntien määrää suhteessa hälytysmääriin sekä hälytyksiin vastaamisen viivettä. Hälytyskeskus hoitaa noin 25 500 turvapuhelinhälytystä kuukaudessa, joista noin 23% johtaa turva-auttajakäyntiin.\n\nAiemmassa ns. hajautetussa toimintamallissa lähes kaikki turvapuhelinhälytykset aiheuttivat joko kotihoidon tekemän turva-auttajakäynnin tai ensihoidon käynnin. Hälytyskeskustoiminnan keskittämisellä omaan palvelutuotantoon on kyetty turvaamaan asiakkaiden hoidon jatkuvuus kotona ja vähentämään asiakkaiden päivystyskäyntejä sekä osastohoidosta aiheutuvia keskeytyspäiviä kotihoidonpalveluissa.\n\nSähköisen ovenavauksen laajentamisen tavoitteena on nopeuttaa kotihoidon asiakkaiden avunsaantia, sujuvoittaa ammattilaisten työtä ja vähentää fyysisten avainten käytöstä aiheutuvia riskejä. Mittarina sähköisen ovenavauksen kattavuus asiakaskäynneillä tiimikohtaisesti kuukausittain.\n\nTällä päätöksellä tilataan Turvapalveluiden kokonaisuus, joka koostuu hälytyskeskusjärjestelmä-, turvapuhelinlaite- ja sähköinen ovenavauspalveluista Istekki Oyltä.\n\nUudet palvelut käynnistyvät 1.1.2027 ja samalla päätetään Istekin vanhat Turvapuhelinpalvelu-sopimukset. Keskitetyt palvelut maksetaan ICMT-palveluista ja päätelaitteet volyymipalveluina kotiin annettavista palveluista. Palvelun hankinnalla ei ole oleellisia kustannusvaikutuksia kolmen ensimmäisen vuoden ajalta, koska palvelut ovat jo olemassa ja käynnissä vanhentuneella sopimuksella. Laitteiden hankintakulun kuoletuksen jälkeen (3 v) palvelun hinta lähtökohtaisesti alenee laitteiden ylläpitoon siirtymisen myötä. Ratkaisu vähentää arvioitua noin 500 HTVn lisäystarvetta vuoteen 2030 mennessä kotihoidon palveluun noin 100 HTVllä (5,2 mil €), yhdessä muiden teknologisten ratkaisujen kanssa.\n\nHankittavan palvelun kulut ovat keskitetty hälytyskeskusjärjestelmä 16 333 €/kk (195 996 €/v alv 0%) ja turvapuhelinlaitteet 95 900 €/kk (1 150 800 €/v alv 0%) ja sähköinen ovenavaus taustapalvelu 8 500 €/kk (102 000 €/v alv 0%) ja sähkölukot 55 900,32 €/kk (670 803,84 €/v alv 0%), yhteensä 176 633,32 €/kk ja 2 119 599,84 €/v alv 0%. Hankinnan ennakoitu kokonaisarvo neljälle vuodelle on 8 478 399,36 € alv 0%."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "211",
+   "title": "Pohjois-Savon hyvinvointialueen talouden tasapainottamisohjelman raportointi tammi-huhtikuulta 2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261073-6",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261073-6.PDF",
+   "diary_number": "384/02.02.02/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää:\n\n1) merkitä tiedoksi tuottavuus- ja taloudellisuusohjelman 1-4/2026 toteumatiedot sekä niiden raportoinnin valtiovarainministeriölle sekä lähettää edelleen tiedoksi aluevaltuustolle\n\n2) Lisäksi aluehallitus edellyttää, että ohjelman toimeenpanoa jatketaan määrätietoisesti siten, että vuodelle 2026 asetettu sopeutustavoite saavutetaan.\n\nEnnakkovaikutusten arviointi\n\nTuottavuus- ja taloudellisuusohjelmalla on keskeinen asema hyvinvointialueen toiminnan ja talouden yhteensovittamisessa. Ohjelman tavoitteena on kattaa hyvinvointialueen alijäämät vuoden 2029 loppuun mennessä, mikä merkitsee sopeutustoimia annettaviin palveluihin, toimitiloihin ja henkilöstöön.\n\nToimivallan peruste\nHallintosääntö § 32\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Tuottavuus- ja taloudellisuusohejelman raportointi tammi-huhtikuu 2026\n\nValmistelu\nValtioneuvosto päätti 27.11.2025 hyvinvointialueesta annetun lain (611/2021) 15 §:n 3 momentin nojalla muuttaa Pohjois-Savon hyvinvointialueen lainanottovaltuutta vuodelle 2026. Päätöksen ehtona oli, että hyvinvointialue päivittää talouden tasapainottamisohjelmansa siten, että se varmistaa lainanhoitokyvyn ja lakisääteisten palvelujen järjestämisen.\n\nHyvinvointialue on toimittanut valtiovarainministeriölle 26.3.2026 päivitetyn tasapainottamisohjelman sekä sitä täydentävät selvitykset. Ohjelma kattaa vuodet 2026–2029 ja sisältää painelaskelman, sopeuttamistoimet, riskianalyysin sekä kuvauksen päätöksentekoprosessista. Talouden tasapainottamisohjelma on käsitelty aluevaltuustossa 4.5.2026 (17§).\n\nValtiovarainministeriö toteaa, että toimitettu tasapainottamisohjelma täyttää lainanottovaltuuden muutokselle asetetut ehdot ja toteutuessaan varmistaa hyvinvointialueen lainanhoitokyvyn. Hyvinvointialue voi päätöksen mukaisesti nostaa pitkäaikaista lainaa ja tehdä pitkäaikaisia sitoumuksia.\n\nMinisteriö korostaa, että alueen tulee jatkaa talouden jatkuvaa sopeuttamista ja varautua lisätoimenpiteisiin, mikäli suunnitellut säästöt eivät toteudu. Sopeuttamistoimiin liittyy epävarmuustekijöitä, kuten kustannuskehitys, palvelutarpeen kasvu ja päätöksenteon aikataulut. Lisäksi ministeriö on kiinnittänyt huomiota siihen, että ohjelman mukaan taseeseen kertyneet alijäämät katettaisiin vasta vuonna 2029.\n\nHyvinvointialuetta pyydetään raportoimaan talouden sopeuttamissuunnitelman käsittelystä ja tuottavuusohjelman etenemisestä valtiovarainministeriölle viimeistään 30.6.2026 mennessä.\n\nPohjois-Savon hyvinvointialueen tuottavuus- ja taloudellisuusohjelman vuodelle 2026 asetettu sopeutustavoite on 52 milj. euroa.\n\nTammi–huhtikuun 2026 toteuman perusteella säästövaikutuksia on kertynyt noin7,7 milj. euroa (14,8 %), Toteuma jää alkuvuonna tavoitteesta, mikä on ennakoitua, sillä merkittävä osa sopeuttamistoimien vaikutuksista ajoittuu loppuvuoteen.\n\nOhjelman toimeenpano on alkuvuonna edennyt, mutta toimenpiteiden vaikutukset realisoituvat viiveellä. Sopeuttamistoimet kohdentuvat erityisesti henkilöstörakenteen hallintaan, palveluverkon muutoksiin sekä ostopalvelujen kustannusten ohjaukseen.\n\nKokonaisuutena arvioiden ohjelma etenee pääosin suunnitellusti, mutta talouden tasapainottaminen edellyttää toimenpiteiden täysimääräistä toteuttamista sekä tarvittaessa lisäsopeutustoimien valmistelua vuoden 2026 aikana.\n\nEduskunta on hyväksynyt toukokuussa 2026 hyvinvointialuelain muutoksen, jonka mukaan hyvinvointialue voi hakea lisäaikaa alijäämien kattamiseen vuoteen 2029 mennessä. Pohjois-Savon hyvinvointialue tulee hakemaan lisäaikaa.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nKari Janhonen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää:\n\n1) merkitä tiedoksi tuottavuus- ja taloudellisuusohjelman 1-4/2026 toteumatiedot sekä niiden raportoinnin valtiovarainministeriölle sekä lähettää edelleen tiedoksi aluevaltuustolle\n\n2) Lisäksi aluehallitus edellyttää, että ohjelman toimeenpanoa jatketaan määrätietoisesti siten, että vuodelle 2026 asetettu sopeutustavoite saavutetaan.\n\nEnnakkovaikutusten arviointi\n\nTuottavuus- ja taloudellisuusohjelmalla on keskeinen asema hyvinvointialueen toiminnan ja talouden yhteensovittamisessa. Ohjelman tavoitteena on kattaa hyvinvointialueen alijäämät vuoden 2029 loppuun mennessä, mikä merkitsee sopeutustoimia annettaviin palveluihin, toimitiloihin ja henkilöstöön.\n\nToimivallan peruste\nHallintosääntö § 32\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n- Tuottavuus- ja taloudellisuusohejelman raportointi tammi-huhtikuu 2026\n\nValmistelu\nValtioneuvosto päätti 27.11.2025 hyvinvointialueesta annetun lain (611/2021) 15 §:n 3 momentin nojalla muuttaa Pohjois-Savon hyvinvointialueen lainanottovaltuutta vuodelle 2026. Päätöksen ehtona oli, että hyvinvointialue päivittää talouden tasapainottamisohjelmansa siten, että se varmistaa lainanhoitokyvyn ja lakisääteisten palvelujen järjestämisen.\n\nHyvinvointialue on toimittanut valtiovarainministeriölle 26.3.2026 päivitetyn tasapainottamisohjelman sekä sitä täydentävät selvitykset. Ohjelma kattaa vuodet 2026–2029 ja sisältää painelaskelman, sopeuttamistoimet, riskianalyysin sekä kuvauksen päätöksentekoprosessista. Talouden tasapainottamisohjelma on käsitelty aluevaltuustossa 4.5.2026 (17§).\n\nValtiovarainministeriö toteaa, että toimitettu tasapainottamisohjelma täyttää lainanottovaltuuden muutokselle asetetut ehdot ja toteutuessaan varmistaa hyvinvointialueen lainanhoitokyvyn. Hyvinvointialue voi päätöksen mukaisesti nostaa pitkäaikaista lainaa ja tehdä pitkäaikaisia sitoumuksia.\n\nMinisteriö korostaa, että alueen tulee jatkaa talouden jatkuvaa sopeuttamista ja varautua lisätoimenpiteisiin, mikäli suunnitellut säästöt eivät toteudu. Sopeuttamistoimiin liittyy epävarmuustekijöitä, kuten kustannuskehitys, palvelutarpeen kasvu ja päätöksenteon aikataulut. Lisäksi ministeriö on kiinnittänyt huomiota siihen, että ohjelman mukaan taseeseen kertyneet alijäämät katettaisiin vasta vuonna 2029.\n\nHyvinvointialuetta pyydetään raportoimaan talouden sopeuttamissuunnitelman käsittelystä ja tuottavuusohjelman etenemisestä valtiovarainministeriölle viimeistään 30.6.2026 mennessä.\n\nPohjois-Savon hyvinvointialueen tuottavuus- ja taloudellisuusohjelman vuodelle 2026 asetettu sopeutustavoite on 52 milj. euroa.\n\nTammi–huhtikuun 2026 toteuman perusteella säästövaikutuksia on kertynyt noin7,7 milj. euroa (14,8 %), Toteuma jää alkuvuonna tavoitteesta, mikä on ennakoitua, sillä merkittävä osa sopeuttamistoimien vaikutuksista ajoittuu loppuvuoteen.\n\nOhjelman toimeenpano on alkuvuonna edennyt, mutta toimenpiteiden vaikutukset realisoituvat viiveellä. Sopeuttamistoimet kohdentuvat erityisesti henkilöstörakenteen hallintaan, palveluverkon muutoksiin sekä ostopalvelujen kustannusten ohjaukseen.\n\nKokonaisuutena arvioiden ohjelma etenee pääosin suunnitellusti, mutta talouden tasapainottaminen edellyttää toimenpiteiden täysimääräistä toteuttamista sekä tarvittaessa lisäsopeutustoimien valmistelua vuoden 2026 aikana.\n\nEduskunta on hyväksynyt toukokuussa 2026 hyvinvointialuelain muutoksen, jonka mukaan hyvinvointialue voi hakea lisäaikaa alijäämien kattamiseen vuoteen 2029 mennessä. Pohjois-Savon hyvinvointialue tulee hakemaan lisäaikaa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Tuottavuus- ja taloudellisuusohjelma 2026_PSHVA_tammi-huhti 2026",
+     "url": "https://pshva.oncloudos.com/kokous/20261073-6-268059.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Tuottavuuden seuranta tammi-huhtikuu 2026_PSHVA",
+     "url": "https://pshva.oncloudos.com/kokous/20261073-6-268171.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "212",
+   "title": "Talouden toteuma tammi-toukokuu 2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261073-7",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261073-7.PDF",
+   "diary_number": "384/02.02.02/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää todeta tietoon saaduksi hyvinvointialueen talouden toteuman tammi-toukokuulta 2026 ja saattaa sen edelleen aluevaltuustolle tiedoksi.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 35\n\nLiitteet ja oheisaineisto\n\n-\n\nValmistelu\nTalouden toteuma 1-5/2026 esitellään kokouksessa.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nKari Janhonen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää todeta tietoon saaduksi hyvinvointialueen talouden toteuman tammi-toukokuulta 2026 ja saattaa sen edelleen aluevaltuustolle tiedoksi.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 35\n\nLiitteet ja oheisaineisto\n\n-\n\nValmistelu\nTalouden toteuma 1-5/2026 esitellään kokouksessa."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Liite 1 Toteuma tammi-toukokuu 2026, Ahall 16062026",
+     "url": "https://pshva.oncloudos.com/kokous/20261073-7-269587.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "213",
+   "title": "Hyvinvointialueen toiminnan vakiinnuttamiseen ja kehittämiseen vuosina 2023-2025 saadun valtionavustuksen käyttö Pohjois-Savon hyvinvointialueella",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261073-8",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261073-8.PDF",
+   "diary_number": "2140/02.05.01/2023",
+   "preparer": "Jussi Lampi, Tarja Miettinen",
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää merkitä loppuraportin tiedoksi.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Loppuraportti\n\nValmistelu\nTulevaisuus- ja strategiajaosto on kokouksessaan 22.5.2026 käsittelyt Hyvinvointialueen toiminnan vakiinnuttamiseen ja kehittämiseen vuosina 2023-2025 saadun valtionavustuksen käyttö Pohjois-Savon hyvinvointialueella ja päättänyt merkitä sen tiedoksi sekä lähettää sen edelleen tiedoksi aluehallitukselle.\n\nTulstrja 22.05.2026 § 28\n\nValmistelija(t)\nJussi Lampi, strategiajohtaja, Riikka Pehkonen, Hankehallinnoija, Aatu Saali, .",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJussi Lampi, strategiajohtaja"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää merkitä loppuraportin tiedoksi.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- Loppuraportti\n\nValmistelu\nTulevaisuus- ja strategiajaosto on kokouksessaan 22.5.2026 käsittelyt Hyvinvointialueen toiminnan vakiinnuttamiseen ja kehittämiseen vuosina 2023-2025 saadun valtionavustuksen käyttö Pohjois-Savon hyvinvointialueella ja päättänyt merkitä sen tiedoksi sekä lähettää sen edelleen tiedoksi aluehallitukselle.\n\nTulstrja 22.05.2026 § 28\n\nValmistelija(t)\nJussi Lampi, strategiajohtaja, Riikka Pehkonen, Hankehallinnoija, Aatu Saali, ."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin.\n\nMerkitään pöytäkirjaan, että Mervi Vidgren poistui klo 9.44"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "strategiajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Tulevaisuus- ja strategiajaosto merkitsee loppuraportin tiedoksi ja lähettää asian edelleen tiedoksi aluehallitukselle.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 38\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona: Loppuraportti\n\nValmistelu\nValtionavustuksen loppuraportti kuvaa rahoituksen käytön projekteittain ja niiden projektien keskeiset tuotokset.\n\nPohjois-Savon hyvinvointialueen uudistamisen ohjelmakokonaisuus (strategiset muutosohjelmat ja tuottavuus- ja taloudellisuusohjelma) on kuvattu loppuraportissa, joka toimii samalla strategisten ohjelmien loppuraportointina. Valtioavustuspäätöksen mukaisesti toiminnan vakiinnuttamisen ja kehittämisen valtionavustus käytettiin näiden ohjelmien toimeenpanoon.\n\nAvustusta on käytetty strategisten muutosohjelmien mukaisiin projekteihin myönnetyn käyttötarkoituksen mukaisesti. Avustuksen käyttöä on seurattu projekteittain. Jokaiselle projektille on määritelty oma projektikoodi kirjanpidossa, jonka avustuksella avustuksen käyttö on voitu kohdentaa ja raportoida tarkasti projektitasolla. Päätökset valtionavustuksen käytöstä projekteihin teki hyvinvointialuejohtaja strategiajohtajan esityksestä. Kunkin ohjelman vastuullinen toimialajohto / palvelualuejohto arvioi käynnistettävät projektit ja jokaiselle projektille määritettiin vastuuhenkilö, joka vastasi projektin toteuttamisesta valtionavustuspäätöksen (433/2023) mukaiseen tarkoitukseen ja hyvinvointialueen omien sisäisiä ohjeistusten mukaisesti.\n\nValtionvarainministeriö myönsi Pohjois-Savon hyvinvointialueelle avustuspäätöksellään VN/9666/2026 avustuksen toiminnan vakiinnuttamiseen ja kehittämiseen vuosina 2023 – 2025 yhteensä 17 981 887 €. Kokonaiskulut olivat ajalla 8.3.2023 – 31.12.2025 17 981 970,44 €.\n\nAhall 12.04.2023 § 123\n\nValmistelija: Jussi Lampi, Tarja Miettinen\n\n\n\nEduskunta on 1.3.2023 hyväksynyt hallituksen esityksen vuotta 2023 koskevaksi lisätalousarvioksi (HE 325/2022 vp). Lisätalousarvioon sisältyy 350 miljoonan euron määräraha hyvinvointialueille, HUS-yhtymälle ja Helsingin kaupungille myönnettäviin valtionavustuksiin. Määrärahaa saa käyttää valtionavustuksen myöntämiseen hyvinvointialueille, HUS-yhtymälle ja Helsingin kaupungille sosiaali- ja terveydenhuollon sekä pelastustoimen järjestämisvastuun siirtymisestä aiheutuviin tilapäisiin kustannuksiin sekä toiminnan vakiinnuttamiseen ja kehittämiseen. Avustukseen sovelletaan valtionavustuslakia (688/2001).\n\nValtionavustuksen käyttökohteet, avustuksen saajat, valtionavustuksen määrä sekä hyväksyttävät kustannukset on määritelty valtioneuvoston asetuksessa valtionavustuksesta hyvinvointialueen, Helsingin kaupungin ja HUS-yhtymän toiminnan vakiinnuttamiseen ja kehittämiseen vuosina 2023-2025 (433/2023). Asetus on tullut voimaan 27.3.2023 ja on voimassa 31.12.2025 saakka.\n\nAvustus myönnetään valtion talousarvioon varatun määrärahan puitteissa valtionavustuslain (688/2001) 5 §:n 2 momentissa tarkoitettuna yleisavustuksena. Avustuksen myöntämiseksi ja maksamiseksi ei edellytetä avustuksen saajan osallistumista rahoitukseen.\n\nAvustuksen saajat saavat käyttää avustusta muutos- ja tuottavuusohjelmaansa tai sitä vastaavaan ohjelmaan sisältyvään kertaluonteiseen tai tilapäiseen:\n\n1) palveluiden järjestämistä ja tuottamista koskevien toimintamallien yhtenäistämiseen ja kehittämiseen;\n\n2) palveluketjujen ja -kokonaisuuksien sekä niitä koskevan tiedolla johtamisen kehittämiseen;\n\n3) digitaalisten ja etäpalvelujen sekä muiden palvelukanavaratkaisujen suunnitteluun ja toteutukseen;\n\n4) palveluverkkoa ja toimitiloja koskevaan selvitykseen ja niiden muutoksista aiheutuviin kustannuksiin;\n\n5) tukipalveluihin liittyvien organisointien suunnitteluun ja toteutukseen;\n\n6) tieto- ja viestintäteknisten ratkaisujen kehittämiseen ja toteutukseen;\n\n7) henkilöstön riittävyyteen, saatavuuteen, työnjakoon ja osaamiseen liittyvään kehittämiseen;\n\n8) johtamisen, esimiestyön sekä työhyvinvoinnin edistämiseen;\n\n9) asukkaiden, palveluiden käyttäjien ja henkilöstön osallisuuden sekä osallistumis- ja vaikutusmahdollisuuksien edistämiseen;\n\n10) toiminnan muun kuin 1–9 kohdassa tarkoitetun, niitä vastaavan vakiinnuttamisen edellyttämiin lisäkustannuksiin.\n\nPohjois-Savon hyvinvointialueelle on myönnetty valtionavustusta 17.981.887 € vuosille 2023-2025. Valtionvarainministeriö on tehnyt maksatuspäätöksen 29.3.2023. Valtionavustusta käytetään Pohjois-Savon hyvinvointialueen strategisten ohjelmien ml. tuottavuus ja taloudellisuus -ohjelman toimeenpanoon. Strategiset ohjelmat tuodaan erikseen aluehallituksen päätettäväksi vuoden 2023 aikana. Valtionavustuksen hallinnoinnista ja raportoinnista vastaa strategia- ja kehittämistoimialan hankehallinto. Hallinnointiin varataan valtionavustuksesta 0,5 M€. Valtionavustuksen kohdentamisesta ja käytöstä strategisiin ohjelmiin päättää hyvinvointialuejohtaja strategia- ja kehittämisjohtajan esityksestä."
+    },
+    {
+     "heading": "Valmistelijan päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä toiminnan vakiinnuttamiseen ja kehittämiseen saadun valtionavustuksen käytön strategisten ohjelmien toimeenpanoon. Päätökset valtionavustuksen käytöstä ohjelmiin tekee hyvinvointialuejohtaja strategia- ja kehittämisjohtajan esityksestä. Valtionavustuksen hallinnointiin varataan avustuksesta 0,5 M€.\n\nSote-integraatiovaikutukset"
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyväksyä toiminnan vakiinnuttamiseen ja kehittämiseen saadun valtionavustuksen käytön strategisten ohjelmien toimeenpanoon. Päätökset valtionavustuksen käytöstä ohjelmiin tekee hyvinvointialuejohtaja strategia- ja kehittämisjohtajan esityksestä. Valtionavustuksen hallinnointiin varataan avustuksesta 0,5 M€."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyvinvointialuejohtaja muutti päätösesityksen kokouksessa kuulumaan seuraavasti:\n\nAluehallitus päättää hyväksyä toiminnan vakiinnuttamiseen ja kehittämiseen saadun valtionavustuksen käytön strategisten ohjelmien toimeenpanoon. Päätökset valtionavustuksen käytöstä ohjelmiin tekee hyvinvointialuejohtaja strategia- ja kehittämisjohtajan esityksestä. Valtionavustuksen hallinnointiin varataan avustuksesta 0,5 M€.\n\nStrategiset ohjelmat budjetteineen tuodaan erikseen aluehallituksen päätettäväksi.\n\nPäätösesitys hyväksyttiin yksimielisesti.\n\nAhall 14.06.2023 § 212\n\nValmistelija: Jussi Lampi\n\nAluehallituksen kokouksessa 12.4. (Ahall 12.04.2023 § 123) päätettiin toiminnan vakiinnuttamiseen ja kehittämiseen saadun valtionavustuksen käyttö strategisten ohjelmien toimeenpanoon. Kokouksessaan 5.6. aluehallitus käynnisti kolmen strategisen ohjelman toimeenpanon. Valtionavustusta on suunniteltu kohdennettavan ohjelmiin seuraavasti:\n\n• Palvelustrategia ja sen toimenpideohjelma (+pelastustoimen kehittämistoimenpiteet) (Palvelustrategia käsittelyssä aluevaltuustossa 19.6.)\n\no Yhteiset toimenpiteet n. 2M€\n\no Perhe- ja vammaispalvelut n. 3M€\n\no Yleiset palvelut n.3M€\n\no Ikääntyvien palvelut n.3M€\n\no Pelastustoimi n.0,2M€\n\n• Henkilöstövoimavarojen kehittäminen n.2M€\n\n• Hallinto, hankinnat ja tilat n.1,5 M€\n\n• TKKI n.1M€\n\n• Digitaalisten palvelujen kehittäminen n.2M€ (ohjelman toimeenpano käynnistyy vasta aluehallituksen käsittelyn jälkeen)\n\nTarkempi rahoituksen kohdentaminen projekteihin ohjelmien sisällä sovitaan yhdessä toimialajohtajien kanssa. Päätökset rahoitettavista projekteista ja rahoituksen siirroista ohjelmien välillä tekee hyvinvointialuejohtajan (hallintosääntö 50 §) strategia- ja kehittämisjohtajan esityksestä. Näin varmistetaan rahoituksen ketterä ja täysmääräinen käyttö. Aiemman päätöksen mukaisesti valtionavustuksen hallinnointiin on varattu avustuksesta 0,5 M€. Tulevaisuus- ja strategiajaosto seuraa strategisten ohjelmien toimeenpanoa."
+    },
+    {
+     "heading": "Valmistelijan päätösehdotus",
+     "text": "Aluehallitus päättää hyvinvointialueen toiminnan vakiinnuttamiseen ja kehittämiseen vuosina 2023-2025 saadun valtionavustuksen kohdentamisesta ja käytöstä esityksen mukaisesti.\n\nTaloudellisuus-, tuottavuus- ja integraatiovaikutusten arviointi\n\nAvustus ohjataan käytettävän strategisten ohjelmien toimeenpanoon, jotka sisältävät tuottavuus- ja taloudellisuusohjelman toimenpiteitä."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hyvinvointialueen toiminnan vakiinnuttamiseen ja kehittämiseen vuosina 2023-2025 saadun valtionavustuksen kohdentamisesta ja käytöstä esityksen mukaisesti."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Merkitään pöytäkirjaan, että Hannu Tsupari poistui kokouksesta klo 19.55 asian käsittelyn aikana.\n\nPäätösehdotus hyväksyttiin."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "214",
+   "title": "SOTE palvelustrategian päivityksen käynnistäminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261073-9",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261073-9.PDF",
+   "diary_number": "3213/00.01.02.00/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää\n\nkäynnistää hyvinvointialueen palvelustrategian päivittämisen\n\nnimetä päivittämistä varten perustettavan poliittisen ohjausryhmän kokoonpanon.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nValmistelu\nSosiaali- ja terveydenhuollon järjestämisestä annetun lain 11 § määrittää, että hyvinvointialueen on laadittava taloutensa ja toimintansa suunnittelua ja johtamista varten sosiaali- ja terveydenhuollon palvelustrategia osana hyvinvointialuestrategiaa. Palvelustrategiassa on otettava huomioon sosiaali- ja terveydenhuollon valtakunnalliset tavoitteet.\n\nPalvelustrategiassa hyvinvointialue tulee päättää:\n\n• Järjestämisvastuulleen kuuluvan sosiaali- ja terveydenhuollon pitkän aikavälin tavoitteet.\n\n• Tavoitteet sille, miten sosiaali- ja terveydenhuollon palvelut toteutetaan ottaen huomioon hyvinvointialueen asukkaiden tarpeet, paikalliset olosuhteet, palvelujen saatavuus ja saavutettavuus sekä kustannusvaikuttavuus.\n\nPalvelustrategiaan tulee osallistaa asukkaat ja palvelujen käyttäjät. Hyvinvointialueen on julkaistava palvelustrategiansa julkisessa tietoverkossa.\n\nPohjois-Savon hyvinvointialueen ensimmäinen palvelustrategia päätettiin kesäkuussa 2023 (Ahall 05.06.2023 § 185). Palvelustrategia ohjasi tulevaa palvelujärjestelmän uudistamisohjelmaa, joka koostui viidestä reformista:\n\nR1. Vastaanottotoiminnan ja alueellisen erikoissairaanhoidon sekä aikuissosiaalityön uudistus (Avalt 17.6.2024 § 47)\n\nR2. Osastohoidon, asumisen ja kotiin vietävien palveluiden uudistus (Avalt 17.6.2024 § 47)\n\nR3. Perhe- ja vammaispalveluiden uudistus (Avalt 16.12.2024 § 80)\n\nR4. Erikoissairaanhoidon ja yliopistollisen sairaalan uudistus (Avalt 05.05.2025 § 29)\n\nR5. Mielenterveys- ja päihdepalveluiden uudistus (23.03.2026 § 4)\n\nPäivityksen valmistelu\n\nPohjois-Savon hyvinvointialueen aluevaltuusto hyväksyi lokakuussa 2025 hyvinvointialueen uuden strategian (Avalt 06.10.2025 § 72). Tästä syystä on ajankohtaista päivittää palvelustrategia, jotta se vastaa hyvinvointialuestrategian tavoitteita ja toimintaympäristön nykyisiä haasteita. Palvelustrategia mm. ohjaa ja linjaa tulevien palveluverkkouudistusten suunnitteluun vaikuttavia periaatteita.\n\nPäivitysprosessissa osallistetaan hyvinvointialueen valtuutettuja ja toimielinten jäseniä sekä henkilöstä, asukkaita ja keskeisiä sidosryhmiä mm. seuraavilla keinoilla:\n\n• kyselyt ja lausunnot\n\n• valtuustoseminaari\n\n• lautakunnille toteuttava työpaja\n\nPäivitystä varten perustetaan poliittinen ohjausryhmä.",
+   "decision": "Aluehallitus päättää\n\nkäynnistää hyvinvointialueen palvelustrategian päivittämisen\n\nettä aluehallitus nimeää poliittisen ohjausryhmän kokoonpanon elokuun kokouksessa.\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJussi Lampi"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus päättää\n\nkäynnistää hyvinvointialueen palvelustrategian päivittämisen\n\nettä aluehallitus nimeää poliittisen ohjausryhmän kokoonpanon elokuun kokouksessa.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää\n\nkäynnistää hyvinvointialueen palvelustrategian päivittämisen\n\nnimetä päivittämistä varten perustettavan poliittisen ohjausryhmän kokoonpanon.\n\nEnnakkovaikutusten arviointi\n\n-\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nValmistelu\nSosiaali- ja terveydenhuollon järjestämisestä annetun lain 11 § määrittää, että hyvinvointialueen on laadittava taloutensa ja toimintansa suunnittelua ja johtamista varten sosiaali- ja terveydenhuollon palvelustrategia osana hyvinvointialuestrategiaa. Palvelustrategiassa on otettava huomioon sosiaali- ja terveydenhuollon valtakunnalliset tavoitteet.\n\nPalvelustrategiassa hyvinvointialue tulee päättää:\n\n• Järjestämisvastuulleen kuuluvan sosiaali- ja terveydenhuollon pitkän aikavälin tavoitteet.\n\n• Tavoitteet sille, miten sosiaali- ja terveydenhuollon palvelut toteutetaan ottaen huomioon hyvinvointialueen asukkaiden tarpeet, paikalliset olosuhteet, palvelujen saatavuus ja saavutettavuus sekä kustannusvaikuttavuus.\n\nPalvelustrategiaan tulee osallistaa asukkaat ja palvelujen käyttäjät. Hyvinvointialueen on julkaistava palvelustrategiansa julkisessa tietoverkossa.\n\nPohjois-Savon hyvinvointialueen ensimmäinen palvelustrategia päätettiin kesäkuussa 2023 (Ahall 05.06.2023 § 185). Palvelustrategia ohjasi tulevaa palvelujärjestelmän uudistamisohjelmaa, joka koostui viidestä reformista:\n\nR1. Vastaanottotoiminnan ja alueellisen erikoissairaanhoidon sekä aikuissosiaalityön uudistus (Avalt 17.6.2024 § 47)\n\nR2. Osastohoidon, asumisen ja kotiin vietävien palveluiden uudistus (Avalt 17.6.2024 § 47)\n\nR3. Perhe- ja vammaispalveluiden uudistus (Avalt 16.12.2024 § 80)\n\nR4. Erikoissairaanhoidon ja yliopistollisen sairaalan uudistus (Avalt 05.05.2025 § 29)\n\nR5. Mielenterveys- ja päihdepalveluiden uudistus (23.03.2026 § 4)\n\nPäivityksen valmistelu\n\nPohjois-Savon hyvinvointialueen aluevaltuusto hyväksyi lokakuussa 2025 hyvinvointialueen uuden strategian (Avalt 06.10.2025 § 72). Tästä syystä on ajankohtaista päivittää palvelustrategia, jotta se vastaa hyvinvointialuestrategian tavoitteita ja toimintaympäristön nykyisiä haasteita. Palvelustrategia mm. ohjaa ja linjaa tulevien palveluverkkouudistusten suunnitteluun vaikuttavia periaatteita.\n\nPäivitysprosessissa osallistetaan hyvinvointialueen valtuutettuja ja toimielinten jäseniä sekä henkilöstä, asukkaita ja keskeisiä sidosryhmiä mm. seuraavilla keinoilla:\n\n• kyselyt ja lausunnot\n\n• valtuustoseminaari\n\n• lautakunnille toteuttava työpaja\n\nPäivitystä varten perustetaan poliittinen ohjausryhmä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "215",
+   "title": "Kuopion Vehmersalmen äitiys- ja lastenneuvolapalvelujen yhdistäminen Kuopion alueen muihin neuvoloihin",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261073-10",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261073-10.PDF",
+   "diary_number": "2275/00.01.00/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää esittää aluevaltuustolle, että Kuopion Vehmersalmen äitiys- ja lastenneuvolapalvelut yhdistetään Kuopion neuvoloihin syyskaudella 2026 siten, että palvelutasoa sopeutetaan 50 % nykyisestä. Lisäksi perheille turvataan tarvittaessa akuutin tarpeen mukainen vastaanottoaika ensisijaisesti omalle terveydenhoitajalle hänen muussa toimipisteessään tai hänen sijaiselleen.\n\nEnnakkovaikutusten arviointi\n\nKuopion Vehmersalmen äitiys- ja lastenneuvolapalvelujen yhdistäminen Kuopion alueen muihin neuvoloihin pidentää osalla perheistä asiointimatkaa, mutta palvelujen vähäisen käytön ja nykyisen toteutustavan vuoksi vaikutus perheiden arkeen on rajallinen. Keskittäminen parantaa palvelun saatavuutta, jatkuvuutta ja laatua sekä vahvistaa asiakas- ja työturvallisuutta. Samalla henkilöstön työskentelyolosuhteet ja kollegiaalinen tuki paranevat. Kokonaisuutena muutos tehostaa resurssien käyttöä ja tukee palvelujen yhdenmukaista ja kustannustehokasta järjestämistä.\n\nEnnakkovaikutusten arviointi on oheismateriaalina, sekä lapsivaikutusten sekä maaseutuvaikutusten arvioinnit.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n Vaikutusten ennakkoarviointi Kuopion Vehmersalmen äitiys- ja lastenneuvolapalvelut\n\n Kuopion Vehmersalmen neuvolapalvelut\n\n Lapsivaikutusten arviointi (LVA)\n\n Maaseutuvaikutusten arvioinnit (MVA)\n\n Kustannus- ja säästöanalyysi\n\n Julkisen liikenteen selvitys\n\n Vehmersalmen pitäjäraadin kommentit ja kannanotot 10.5.2026\n\n Äänestysraportti § 55\n\n Äänestysraportti § 70, vastaesitykset\n\n Äänestysraportti § 70\n\nValmistelu\nPerhe- ja vammaispalveluiden lautakunta käsitteli Kuopion Vehmersalmen äitiys- ja lastenneuvolapalvelujen yhdistämistä Kuopion alueen muihin neuvoloihin ensimmäisen kerran 12.5.2026 (§ 55). Lautakunta palautti asian valmisteluun lisäselvitysten laatimista varten. Lautakunta edellytti laajempaa kustannus- ja säästöanalyysia, lapsi- ja maaseutuvaikutusten arviointia, julkisen liikenteen toimivuuden selvittämistä, neuvola- ja kouluterveydenhuollon yhdistelmätehtävien mahdollisuuksien tarkastelua sekä liikkuvien palveluiden järjestämismahdollisuuksien ja kustannusten arviointia.\n\nTäydennetyn valmistelun perusteella perhe- ja vammaispalveluiden lautakunta käsitteli asian uudelleen 8.6.2026 (§ 70). Lautakunta ei hyväksynyt esitystä neuvolapalvelujen yhdistämisestä Kuopion alueen muihin neuvoloihin, vaan päätti äänestyksen jälkeen esittää Vehmersalmen neuvolatoiminnan jatkamista siten, että neuvolan toiminta säilyy Vehmersalmella ja vastaanottopäiviä sopeutetaan noin 50 prosenttiin nykyisestä tasosta. Tarvittaessa perheille tarjotaan kiireellisissä tilanteissa vastaanottoaikoja terveydenhoitajan muissa toimipisteissä tai sijaisjärjestelyin.\n\nValmistelun perusteella Vehmersalmen neuvolapalvelujen asiakasmäärät ovat laskusuuntaiset. Lastenneuvolapalveluissa on tällä hetkellä noin 50 asiakasta ja alueelle syntyy vuosittain alle kymmenen lasta. Äitiysneuvolan asiakkaita on vähän, ja merkittävä osa äitiysneuvolan lääkäripalveluista sekä synnytyksen jälkeisistä tarkastuksista toteutuu jo nykyisin Kuopion alueen muissa neuvoloissa.\n\nSelvitysten mukaan Vehmersalmen neuvolatoimipisteen ylläpitämisestä aiheutuu vuosittaisia kustannuksia noin 20 400 euroa. Toimipisteen yhdistämisellä saavutettaisiin arviolta noin 28 900 euron vuosittaiset säästöt sekä vähennettäisiin henkilöstön työaikaa vieviä siirtymisiä. Samalla voitaisiin lisätä vastaanottoaikojen joustavuutta ja henkilöstöresurssien tehokkaampaa käyttöä.\n\nLapsivaikutusten arvioinnin mukaan palvelujen keskittäminen parantaisi neuvolapalvelujen laatua, jatkuvuutta, asiakas- ja potilasturvallisuutta sekä henkilöstön saatavuutta. Muutos kuitenkin pidentäisi osan perheistä asiointimatkoja merkittävästi ja voisi lisätä liikkumisesta aiheutuvia kustannuksia sekä vaikeuttaa palvelujen saavutettavuutta erityisesti niissä perheissä, joissa auton käyttömahdollisuudet ovat rajalliset.\n\nMaaseutuvaikutusten arvioinnin mukaan palvelujen keskittäminen vahvistaisi palvelujen laatua ja henkilöstön saatavuutta, mutta samalla heikentäisi palvelujen saavutettavuutta Vehmersalmen alueella ja voisi vähentää alueen vetovoimaa lapsiperheiden näkökulmasta. Korvaavat neuvolapalvelut sijaitsevat Riistavedellä, Vuorelassa tai Kuopion kaupunkialueella, ja julkisen liikenteen yhteydet eivät mahdollista sujuvaa neuvola-asiointia päiväsaikaan.\n\nValmistelussa arvioitiin myös neuvola- ja kouluterveydenhuollon yhdistelmätehtävien mahdollisuuksia. Asiakasmäärät eivät muodosta sellaista kokonaisuutta, jolla voitaisiin turvata toiminnan laatu, ammatillisen osaamisen ylläpito ja henkilöstön työhyvinvointi yhdistämällä tehtävät yhteen vakanssiin. Liikkuvien palvelujen osalta todettiin, että niiden käyttöönotto edellyttäisi erillistä strategista valmistelua eikä niitä ole tällä hetkellä käytössä hyvinvointialueella. Alustavan arvion mukaan liikkuvan neuvolapalvelun perustamiskustannukset olisivat noin 200 000–300 000 euroa, minkä lisäksi toiminnasta aiheutuisi merkittäviä vuosittaisia käyttökustannuksia.\n\nValmistelun kokonaisarvioinnissa palvelujen laadun, henkilöstön osaamisen turvaamisen, sijaisjärjestelyjen toimivuuden ja kustannustehokkuuden näkökulmasta palvelujen yhdistämiselle on todettu olevan perusteita. Toisaalta saavutettavuusvaikutukset ovat Vehmersalmella merkittäviä pitkien etäisyyksien ja puutteellisten joukkoliikenneyhteyksien vuoksi. Lautakunta päätyi kokonaisarvioinnin perusteella esittämään neuvolatoiminnan jatkamista Vehmersalmella supistetulla palvelutasolla.\n\nPevamltk 08.06.2026 § 70\n\nValmistelija(t)\nLasten ja nuorten terveyspalvelujen päällikkö Sanna Niinimäki, palveluyksikköjohtaja Hanna-Mari Tanninen\n\n, palvelualuejohtaja Minna Pitkänen\n\ntoimialajohtaja Kati Kantanen",
+   "decision": "Juha Pitkänen esitti, että:\n\nAluehallitus päättää esittää aluevaltuustolle, että Kuopion Vehmersalmen äitiys- ja lastenneuvolapalvelut jatkuu edelleen tarpeen mukaan. Toimintaa tarkastellaan palveluverkon tarkastelun yhteydessä.\n\nPuheenjohtaja totesi, että esitystä ei ole kannatettu ja se raukeaa kannattamattomana.\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nSanna Niinimäki, Hanna-Mari Tanninen\n\n, Minna Pitkänen, Kati Kantanen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Juha Pitkänen esitti, että:\n\nAluehallitus päättää esittää aluevaltuustolle, että Kuopion Vehmersalmen äitiys- ja lastenneuvolapalvelut jatkuu edelleen tarpeen mukaan. Toimintaa tarkastellaan palveluverkon tarkastelun yhteydessä.\n\nPuheenjohtaja totesi, että esitystä ei ole kannatettu ja se raukeaa kannattamattomana.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää esittää aluevaltuustolle, että Kuopion Vehmersalmen äitiys- ja lastenneuvolapalvelut yhdistetään Kuopion neuvoloihin syyskaudella 2026 siten, että palvelutasoa sopeutetaan 50 % nykyisestä. Lisäksi perheille turvataan tarvittaessa akuutin tarpeen mukainen vastaanottoaika ensisijaisesti omalle terveydenhoitajalle hänen muussa toimipisteessään tai hänen sijaiselleen.\n\nEnnakkovaikutusten arviointi\n\nKuopion Vehmersalmen äitiys- ja lastenneuvolapalvelujen yhdistäminen Kuopion alueen muihin neuvoloihin pidentää osalla perheistä asiointimatkaa, mutta palvelujen vähäisen käytön ja nykyisen toteutustavan vuoksi vaikutus perheiden arkeen on rajallinen. Keskittäminen parantaa palvelun saatavuutta, jatkuvuutta ja laatua sekä vahvistaa asiakas- ja työturvallisuutta. Samalla henkilöstön työskentelyolosuhteet ja kollegiaalinen tuki paranevat. Kokonaisuutena muutos tehostaa resurssien käyttöä ja tukee palvelujen yhdenmukaista ja kustannustehokasta järjestämistä.\n\nEnnakkovaikutusten arviointi on oheismateriaalina, sekä lapsivaikutusten sekä maaseutuvaikutusten arvioinnit.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\n Vaikutusten ennakkoarviointi Kuopion Vehmersalmen äitiys- ja lastenneuvolapalvelut\n\n Kuopion Vehmersalmen neuvolapalvelut\n\n Lapsivaikutusten arviointi (LVA)\n\n Maaseutuvaikutusten arvioinnit (MVA)\n\n Kustannus- ja säästöanalyysi\n\n Julkisen liikenteen selvitys\n\n Vehmersalmen pitäjäraadin kommentit ja kannanotot 10.5.2026\n\n Äänestysraportti § 55\n\n Äänestysraportti § 70, vastaesitykset\n\n Äänestysraportti § 70\n\nValmistelu\nPerhe- ja vammaispalveluiden lautakunta käsitteli Kuopion Vehmersalmen äitiys- ja lastenneuvolapalvelujen yhdistämistä Kuopion alueen muihin neuvoloihin ensimmäisen kerran 12.5.2026 (§ 55). Lautakunta palautti asian valmisteluun lisäselvitysten laatimista varten. Lautakunta edellytti laajempaa kustannus- ja säästöanalyysia, lapsi- ja maaseutuvaikutusten arviointia, julkisen liikenteen toimivuuden selvittämistä, neuvola- ja kouluterveydenhuollon yhdistelmätehtävien mahdollisuuksien tarkastelua sekä liikkuvien palveluiden järjestämismahdollisuuksien ja kustannusten arviointia.\n\nTäydennetyn valmistelun perusteella perhe- ja vammaispalveluiden lautakunta käsitteli asian uudelleen 8.6.2026 (§ 70). Lautakunta ei hyväksynyt esitystä neuvolapalvelujen yhdistämisestä Kuopion alueen muihin neuvoloihin, vaan päätti äänestyksen jälkeen esittää Vehmersalmen neuvolatoiminnan jatkamista siten, että neuvolan toiminta säilyy Vehmersalmella ja vastaanottopäiviä sopeutetaan noin 50 prosenttiin nykyisestä tasosta. Tarvittaessa perheille tarjotaan kiireellisissä tilanteissa vastaanottoaikoja terveydenhoitajan muissa toimipisteissä tai sijaisjärjestelyin.\n\nValmistelun perusteella Vehmersalmen neuvolapalvelujen asiakasmäärät ovat laskusuuntaiset. Lastenneuvolapalveluissa on tällä hetkellä noin 50 asiakasta ja alueelle syntyy vuosittain alle kymmenen lasta. Äitiysneuvolan asiakkaita on vähän, ja merkittävä osa äitiysneuvolan lääkäripalveluista sekä synnytyksen jälkeisistä tarkastuksista toteutuu jo nykyisin Kuopion alueen muissa neuvoloissa.\n\nSelvitysten mukaan Vehmersalmen neuvolatoimipisteen ylläpitämisestä aiheutuu vuosittaisia kustannuksia noin 20 400 euroa. Toimipisteen yhdistämisellä saavutettaisiin arviolta noin 28 900 euron vuosittaiset säästöt sekä vähennettäisiin henkilöstön työaikaa vieviä siirtymisiä. Samalla voitaisiin lisätä vastaanottoaikojen joustavuutta ja henkilöstöresurssien tehokkaampaa käyttöä.\n\nLapsivaikutusten arvioinnin mukaan palvelujen keskittäminen parantaisi neuvolapalvelujen laatua, jatkuvuutta, asiakas- ja potilasturvallisuutta sekä henkilöstön saatavuutta. Muutos kuitenkin pidentäisi osan perheistä asiointimatkoja merkittävästi ja voisi lisätä liikkumisesta aiheutuvia kustannuksia sekä vaikeuttaa palvelujen saavutettavuutta erityisesti niissä perheissä, joissa auton käyttömahdollisuudet ovat rajalliset.\n\nMaaseutuvaikutusten arvioinnin mukaan palvelujen keskittäminen vahvistaisi palvelujen laatua ja henkilöstön saatavuutta, mutta samalla heikentäisi palvelujen saavutettavuutta Vehmersalmen alueella ja voisi vähentää alueen vetovoimaa lapsiperheiden näkökulmasta. Korvaavat neuvolapalvelut sijaitsevat Riistavedellä, Vuorelassa tai Kuopion kaupunkialueella, ja julkisen liikenteen yhteydet eivät mahdollista sujuvaa neuvola-asiointia päiväsaikaan.\n\nValmistelussa arvioitiin myös neuvola- ja kouluterveydenhuollon yhdistelmätehtävien mahdollisuuksia. Asiakasmäärät eivät muodosta sellaista kokonaisuutta, jolla voitaisiin turvata toiminnan laatu, ammatillisen osaamisen ylläpito ja henkilöstön työhyvinvointi yhdistämällä tehtävät yhteen vakanssiin. Liikkuvien palvelujen osalta todettiin, että niiden käyttöönotto edellyttäisi erillistä strategista valmistelua eikä niitä ole tällä hetkellä käytössä hyvinvointialueella. Alustavan arvion mukaan liikkuvan neuvolapalvelun perustamiskustannukset olisivat noin 200 000–300 000 euroa, minkä lisäksi toiminnasta aiheutuisi merkittäviä vuosittaisia käyttökustannuksia.\n\nValmistelun kokonaisarvioinnissa palvelujen laadun, henkilöstön osaamisen turvaamisen, sijaisjärjestelyjen toimivuuden ja kustannustehokkuuden näkökulmasta palvelujen yhdistämiselle on todettu olevan perusteita. Toisaalta saavutettavuusvaikutukset ovat Vehmersalmella merkittäviä pitkien etäisyyksien ja puutteellisten joukkoliikenneyhteyksien vuoksi. Lautakunta päätyi kokonaisarvioinnin perusteella esittämään neuvolatoiminnan jatkamista Vehmersalmella supistetulla palvelutasolla.\n\nPevamltk 08.06.2026 § 70\n\nValmistelija(t)\nLasten ja nuorten terveyspalvelujen päällikkö Sanna Niinimäki, palveluyksikköjohtaja Hanna-Mari Tanninen\n\n, palvelualuejohtaja Minna Pitkänen\n\ntoimialajohtaja Kati Kantanen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tiia Eskelinen teki vastaesityksen:\n\nViranhaltijan esitys hylätään ja vastaesitys hyväksytään. Vehmersalmen neuvolapalvelut tulee säilyttää edelleen. Neuvola tulee ehdottomasti säilyttää suuren asiakaskunnan vuoksi. Työssäkäyntialue on erittäin laaja huoltajilla ja jos neuvolapalvelut siirretään Kuopion kaupunkialueelle saakka, tulee huoltajille väistämättä tulonmentyksiä töistä sekä kustannuksia jo valmiiksi kalliin polttoaineen vuoksi, koska matkaa voi kertyä jopa 150-200km ylimääräistä. Alueen kyläraatilaiset ovat lausuneet paikallistietämyksellään, että neuvolapalvelut kuuluvat lähipalveluihin ja tasa-arvoisesti ne täytyy pitää myös maaseutualueilla. Neuvolat kuuluu olla matalan kynnyksen ennaltaehkäiseviä palveluita, joiden saavutettavuus on keskeinen osa palvelun vaikuttavuutta. Välimatkojen pidentyessä neuvolapalveluita täytyy olla mahdollisuus käyttää suunnitellusti ja oikea-aikaisesti. Julkista liikennettä ei kulje juurikaan päivisin Vehmersalmelta, joten perheessä, jossa on yksi auto, ei palveluun pääse, ellei perheen auto ole käytettävissä. Neuvolapalveluiden lopettaminen tuottaa perheiden työajan menetyksiä ja lisää poissaoloja töistä sekä lisää matkakustannuksia ja pienituloisille perheille voi olla jopa taloudellinen taakka. Neuvolan vahvuus on paikallinen tuntemus ja yhteys lapsen arkiympäristöön sekä työntekijän tuttuus perheiden kanssa. Lakkauttamisesitys lisää vahvasti alueellista ja sosiaalista eriarvoisuutta. Lisäksi Vehmersalmen äitiys- ja lastenneuvola kuuluu R3-uudistuksessa vielä palveluvalikoimaan, joten ei ole myöskään sen vuoksi perusteltua lakkauttaa palvelua.\n\nJuuso Niiranen ja Jari Saario kannattivat Tiia Eskelisen tekemää esitystä.\n\nTuula Savolainen teki vastaesityksen:\n\nEsitän Vehmersalmen neuvolatoiminnan jatkamista seuraavasti: neuvolan toiminta jatkuu Vehmersalmella. Neuvolan vastaanottopäiviä sopeutetaan 50% nykyisestä tilanteesta.Perheille tarjotaan tarvittaessa akuutin tarpeen vuoksi aikaa ensisijaisesti omalle terveydenhoitajalle hänen muuhun työskentelypisteeseen tai hänen sijaiselleen. Perusteluna esitykselle ovat mm. Vehmersalmella asuvien asiakkaiden haasteellinen maantieteellinen sijainti muihin neuvolapisteisiin nähden. Perheille syntyy lisää kustannuksia pidentyvistä ja edestakaisista matkoista sekä työajan menetyksistä. Yhden auton tai autottoman perheen on käytännössä mahdotonta hakeutua neuvolapalveluihin julkisia kulkuyhteyksiä käyttäen. Pitkät automatkat eivät ole lapsen edun ja hyvinvoinnin mukaisia.\n\nMinna Back-Hytönen, Jere Ronkainen ja Jukka Muukka kannattivat Tuula Savolaisen tekemää esitystä.\n\nPuheenjohtaja teki esityksen, koska asiasta on tehty kaksi pohjaesityksestä poikkeavaa esitystä, joten suoritamme äänestyksen, jossa kaksi pohjaesityksestä poikkeavaa esitystä asetetaan vastakkain.\n\nÄänestyksessä JAA on Tuula Savolaisen vastaesitys ja EI Tiia Eskelisen vastaesitys.\n\nÄänestyksessä annettiin ääniä seuraavasti:\n\nJAA-ääniä: 7\n\nEI-ääniä: 4\n\nJAA-ääniä antoivat: Jukka Muukka, Tuula Savolainen, Antti Valta, Minna Back-Hytönen, Tanja Airaksinen, Jere Ronkainen ja Paula Korhonen\n\nEI-ääniä antoivat: Juuso Niiranen, Milja Nousiainen, Jari Saario ja Tiia Eskelinen\n\nVastaesityksistä äänestyksessä voitti Tuula Savolaisen esitys.\n\nÄänestyspöytäkirja on pöytäkirjan liitteenä.\n\nPuheenjohtaja totesi, että suoritetaan uusi äänestys, jossa äänestetään pohjaesityksen ja Tuula Savolaisen tekemän vastaesityksen välillä seuraavasti: JAA on pohjaesitys ja EI Tuula Savolaisen vastaesitys.\n\nÄänestyksessä annettiin ääniä seuraavasti:\n\nJAA-ääniä: 0\n\nEI-ääniä: 11\n\nJAA-ääniä antoivat: -\n\nEI-ääniä antoivat: Jukka Muukka, Tuula Savolainen, Paula Korhonen, Minna Back-Hytönen, Tiia Eskelinen, Milja Nousiainen, Antti Valta, Juuso Niiranen, Tanja Airaksinen, Jari Saario ja Jere Ronkainen\n\nPäätökseksi tuli Tuula Savolaisen esitys.\n\nÄänestyspöytäkirja on pöytäkirjan liitteenä."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "perhe- ja vammaispalveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Perhe- ja vammaispalveluiden lautakunta esittää Vehmersalmen äitiys- ja lastenneuvolapalvelujen yhdistämistä Kuopion alueen muihin neuvoloihin syyskaudella 2026 aluehallitukselle ja edelleen hyvinvointialueen aluevaltuustolle päätettäväksi.\n\nEnnakkovaikutusten arviointi\n\nKuopion Vehmersalmen äitiys- ja lastenneuvolapalvelujen yhdistäminen Kuopion alueen muihin neuvoloihin pidentää osalla perheistä asiointimatkaa, mutta palvelujen vähäisen käytön ja nykyisen toteutustavan vuoksi vaikutus perheiden arkeen on rajallinen. Keskittäminen parantaa palvelun saatavuutta, jatkuvuutta ja laatua sekä vahvistaa asiakas- ja työturvallisuutta. Samalla henkilöstön työskentelyolosuhteet ja kollegiaalinen tuki paranevat. Kokonaisuutena muutos tehostaa resurssien käyttöä ja tukee palvelujen yhdenmukaista ja kustannustehokasta järjestämistä.\n\nEnnakkovaikutusten arviointi on kuvattu 12.5.2026 lautakunnan kokouksessa, jota on vielä syvennetty lapsivaikutusten sekä maaseutuvaikutusten arvioinneilla.\n\nToimivallan peruste\nHallintosääntö 41 §, lautakunnan yleiset tehtävät kohta 2\n\nHallintosääntö 41 §, lautakunnan erityistehtävät kohta 1, 2 ja 4\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\nVaikutusten ennakkoarviointi Kuopion Vehmersalmen äitiys- ja lastenneuvolapalvelut\n\nKuopion Vehmersalmen neuvolapalvelut\n\nLapsivaikutusten arviointi (LVA)\n\nMaaseutuvaikutusten arvioinnit (MVA)\n\nKustannus- ja säästöanalyysi\n\nJulkisen liikenteen selvitys\n\nVehmersalmen pitäjäraadin kommentit ja kannanotot 10.5.2026\n\nValmistelu\nPerhe- ja vammaispalveluiden lautakunnassa 12.5.2026 § 55 oli esityksenä Kuopion Vehmersalmen äitiys- ja lastenneuvolapalveujen yhdistäminen Kuopion alueen muihin neuvoloihin. Perhe- ja vammaispalvelujen lautakunta päätti palauttaa asian uudelleen valmisteltavaksi. Valmistelun aikana pyydettiin selvittämään laajemmat kustannus- ja säästöanalyysit, tekemään lapsi- ja maaseutuvaikutusten arviointi, selvittämään perheiden mahdollisuudet päästä palveluihin julkisella liikenteellä, selvittämään mahdollisuudet yhdistää neuvola ja kouluterveydenhuollon vastaanottopäiviä, yhdistelmätehtäviä terveydenhoitajille sekä selvittämään liikkuvien yhdistelmäpalveluiden järjestämisen mahdollisuudet ja kustannukset alueille.\n\nKuopion Vehmersalmen äitiys- ja lastenneuvolan yhdistyminen ja siihen liittyvät muutokset R3 palvelurakenneuudistuksen osalta käsitellään ja päätetään aluevaltuustossa. Palveluverkkoa on lausuttu arvioitavan vuosittain, jonka myötä on tunnistettavissa, että Vehmersalmen neuvolapalveluiden asiakasmäärät ovat laskusuuntaiset. Tämän vuoksi on perustelua esittää kustannustehokkaampaa ratkaisua yhdistämällä palvelu osaksi Kuopion kaupunkialueen neuvoloita.\n\nLaajemmat kustannus- säästöanalyysit\n\nVehmersalmen äitiys- ja lastenneuvolaan on tämän hetkisen tiedon mukaan syntymässä alle 10 lasta. 1-6-vuotiaita lapsia neuvolapalveluissa on 50 (syntyneet vuosina 2020-2025). Vehmersalmen neuvolatoimipisteen ylläpitämisestä aiheutuu arviolta noin 20 405 euron vuosikustannukset. Tämän lisäksi kertahankintakulut 8484 euroa. Toimipisteen yhdistämisellä saavutetaan arviolta 28 877 euron säästö (ks. oheismateriaali kustannus- ja säästöanalyysi). Yhdistymisen myötä osa lääkintäteknisistä laitteista siirretään toisiin toimintayksiköihin, jolloin hankintakuluja ei niistä synny.\n\nVehmersalmen lastenneuvolan toimipisteen asiakkaiden määräaikaistarkastuksien aikatarve on 89 tuntia ja 15 minuuttia. Vehmersalmen äitiysneuvolassa on tämän hetkisen tiedon mukaan alle 5 laskettua aikaa, ja heille ajat määräytyvät raskausviikkojen mukaan. Äitiysneuvolassa käyntejä on ensimmäistä lastaan odottavalle yhdeksän ja lapsen syntymän jälkeen 1-2. Uudelleen synnyttäjälle käyntejä voi olla 1-2 vähemmän. Äitiysneuvolalääkäri sekä säännöllisen synnytyksen jälkitarkastukset toteutuvat jo Kuopion kaupunkialueen neuvoloissa: Keskustan neuvola (Tulliportinkatu 15) tai Pyörön neuvola (Pyörönkaari 26).\n\nVehmersalmen äitiys- ja lastenneuvolan vähäiseen palvelun tarpeeseen nähden ei ole kustannustehokasta ylläpitää toimipistettä ja kattaa siihen liittyviä henkilöstö-, tila-, laite- ja muita ylläpitokuluja. On huomioitavaa, että lautakunnan päättäessä säilyttää Vehmersalmen äitiys- ja lastenneuvolan toimipisteen, tarkoittaa tämä jatkossa sitä, ettei neuvola-aikoja voida enää tarjota yhtä laajasti kuin aikaisemmin, vaan lasten määrä määrittää Vehmersalmessa terveydenhoitajan työskentelyn käyntipäivät. Tämän hetkisen lasten sekä lasta odottavien määrän mukaan terveydenhoitajan vastaanotto järjestyisi Vehmersalmella jatkossa arvioilta 1-2 kertaa kuukaudessa, kuitenkin niin, että seularajat (+/-3kk) toteutuvat. Myös mahdolliset vastaanottoaikojen siirrot ja kohdennettua tukea vaativat käynnit ohjautuisivat jatkossa Vuorelan neuvolaan (Vuorelantie 6) tai Riistaveden neuvolaan tai Kuopion alueen neuvoloihin.\n\nHyvinvointialueen säästöpaineet huomioiden henkilöstöresursseja kohdennetaan lapsimäärän mukaisesti. Mikäli terveydenhoitaja ottaa Vehmersalmen neuvolan asiakkaat vastaan Vuorelan, Riistaveden tai Kuopion alueen neuvoloissa, voidaan kustannusanalyysissä mainitut Vehmersalmen neuvolasta kertyvät kustannukset ja hukka välttää. Samalla voidaan ennen kaikkea tarjota vastaanottoaikoja laajemmin ja joustavammin perheiden tarpeisiin vastaten. Tarkempi kustannus- ja säästöanalyysi oheisaineistona.\n\nLapsivaikutusten arviointi, maaseutuvaikutusten arviointi ja julkisen liikenteen selvitys\n\nLapsivaikutusten arviointi (LVA)\n\nVehmersalmen äitiys- ja lastenneuvolan yhdistäminen Kuopion alueen muihin neuvoloihin vahvistaa ja parantaa neuvolapalvelujen saatavuutta ja parantaa asiakastyön laatua, asiakasturvallisuutta ja lisää työntekijöiden työhyvinvointia. Matka neuvolaan osalla perheistä pitenee ja saattaa aiheuttaa haasteita taloudellisiin (polttoainekulujen nousu) ja kulkuyhteyksien mahdollisuuksien osalta. Mikäli kulkuyhteys ja liikkuminen neuvolaan on hankalaa, saattaa se vaikuttaa palvelun käyttöön jossain määrin heikentävästi, jolloin lapsen oikeus ja etu ei toteudu. Kuitenkin kokonaisarvioinnin pohjalta Vehmersalmen neuvolapalvelujen yhdistäminen osaksi Kuopion alueen muita neuvoloita tukisi parhaiten Vehmersalmen 0-6-vuotiaiden lasten sekä lasta odottavien etua. Tarkempi lapsivaikutusten arviointi oheisaineistona.\n\nMaaseutuvaikutusten arviointi (MVA)\n\nToimipisteiden yhdistäminen säilyttää neuvolapalvelut samassa kunnassa osana perhekeskusverkostoa ja pääosin vahvistaa palvelun saatavuutta, koska useamman terveydenhoitajan toimipisteessä vastaanottoaikoja on enemmän tarjolla. Muutos turvaa palvelun laadun ja voi vahvistaa perheiden verkostoitumista, mutta samalla se voi heikentää Vehmersalmen vetovoimaa ja lisätä asioinnin suuntautumista Kuopioon. Riskinä on myös paikallisyhteisöön kiinnittymisen heikkeneminen.\n\nOsalle perheistä saavutettavuus voi heikentyä pidemmän matka-ajan vuoksi (Riistaveden neuvolaan 28 km / 30min tai Vuorelan neuvolaan 40 km / 40min tai Päivärannan neuvola 45 km / 45min), mikä lisää kustannuksia (alle 1-vuotiaan käynneistä arviolta noin Riistavedelle 71 euroa, Vuorelaan 100 euroa ja Päivärantaan 113 euroa). Toisaalta joillekin perheistä neuvolamatka voi lyhentyä. Toimipisteiden yhdistäminen voi parantaa asiakaspalvelun laatua sekä lisätä perheiden välistä verkostoitumista sekä lisätä henkilöstön työhyvinvointia, saatavuutta ja pysyvyyttä.\n\nOsa kunnista on hyvinvointialueella pinta-alaltaan laajoja kuntia, ja myös tällä hetkellä kaikissa kunnissa on raja-alueilla asuvia perheitä, joille matka neuvolaan on pitkä. Yhdenvertaisuuden näkökulmasta on huomioitava, että jo tälläkin hetkellä osalla maaseutualueilla asuvista perheistä asiointi tapahtuu neuvoloissa, jolloin edestakainen matka voi olla jopa 120 kilometriä.\n\nKokonaisarvio: Muutos ei heikennä maaseudun elinvoimaa tai kilpailukykyä, mutta korostaa liikkumisen merkitystä palvelujen saavutettavuudessa. Tarkempi maaseutuvaikutusten arviointi oheisaineistona.\n\nYhteenvetona Vehmersalmen asuinalueelta ei ole päiväsaikaan toimivaa joukkoliikennettä Riistavedelle. Julkisen liikenteen selvitys oheisaineistona. Yhteydet Kuopion Päivärantaan ja edelleen keskustaan ovat jonkin verran paremmat. Aikataulut eivät kuitenkaan mahdollista sujuvaa neuvolakäyntiä vain julkista liikennettä käyttäen. Lapsiperheissä auton omistaminen on vielä yleisempää kuin keskimäärin, koska liikkumistarpeet ovat suuremmat (päiväkoti, koulu, harrastukset), asuminen on usein väljempää tai kauempana palveluista. Valtaosalla lapsiperheistä on auto (usein jopa useampi), vaikka tarkka prosentti vaihtelee alueittain (Tilastokeskus).\n\nNeuvolan ja kouluterveydenhuollon yhdistämismahdollisuudet\n\nNeuvolatyön laadun ja tarvittavan osaamisen turvaamiseksi riittävä asiakasmäärä on keskeinen edellytys. Neuvolan tehtävänä on tunnistaa lapsen mahdolliset kehitysviiveet ja muut poikkeamat mahdollisimman varhain, tarjota kohdennettua tukea viiveettä sekä tarvittaessa ohjata jatkotutkimuksiin ja -palveluihin.\n\nSuosituksen mukaan terveydenhoitajalla tulisi olla 280 lastenneuvola-asiakasta, mikäli työ painottuu pelkästään lastenneuvolaan, eikä sijaisia ole. Jos terveydenhoitaja työskentelee sekä äitiys- että lastenneuvolassa, lapsiasiakkaiden määrän tulisi olla 140-160 laadun ja osaamiseen varmistamiseksi. Äitiysneuvolassa terveydenhoitajalla tulisi olla 76 raskaana olevaa, jos terveydenhoitaja työskentelee pelkästään äitiysneuvolassa ja 38, jos tehtävänä on yhdistelmäneuvola. Vehmersalmen asiakasmäärä jää näihin suosituksiin nähden pieneksi, minkä vuoksi on perustelua, että palvelu yhdistetään kokonaisuudessaan muihin neuvoloihin. Kouluterveydenhuollossa suositeltu mitoitus on 460 oppilasta terveydenhoitajaa kohden, jotta työn laatu ja ammatillinen osaaminen voidaan turvata. Vehmersalmen koulussa oppilaita on tällä hetkellä 124. Jos yksi ja sama terveydenhoitaja tekisi äitiys- ja lastenneuvolan sekä kouluterveydenhuollon asiakkaat, ei sektorikohtaiset asiakasmäärät riittäisi työnmitoitussuosituksen ja laatukriteerien täyttymiselle. Työntekijälle aiheutuisi tästä kolmen eri sektorin osaamisvaade, joka heikentää työhyvinvointia merkittävästi. Vehmersalmen äitiys- ja lastenneuvolan sekä kouluterveydenhuollon yhteenlaskettu työnkuormitusluku on 0,6 (3 työpäivää): äitiysneuvolan kuormitusluku 0,13, lastenneuvolan 0,17 (50 lasta) sekä kouluterveydenhuollon 0,3 (124 oppilasta).\n\nTerveydenhoitajan työn eri osa-alueet (neuvola, koulu- ja opiskeluterveydenhuolto) edellyttävät kukin omaa erityisosaamistaan ja vastuullista asiantuntijuutta. Terveydenhoitajat ovat ennaltaehkäisevän työn keskeisiä erityisasiantuntijoita. Neuvolatyössä korostuu erityisesti lapsen ikäkausikehityksen syvällinen tuntemus, ja terveydenhoitaja on usein ensimmäinen ammattilainen, joka havaitsee mahdolliset kehitysviiveet ja poikkeamat. Terveydenhoitaja hyödyntää työssään erilaisia arviointi- ja seulontamenetelmiä.\n\nVehmersalmen lastenneuvolan ja koulun asiakasmäärien yhdistäminen eivät muodostu sellaisiksi, että se olisi laadun näkökulmasta realistista. Myös henkilöstön työhyvinvoinnin kannalta on tärkeää, ettei yksittäiselle työntekijälle kasaannu liikaa vaativia erityisosaamista edellyttäviä työtehtäviä.\n\nLiikkuvien yhdistelmäpalvelujen järjestämisen mahdollisuudet ja kustannukset\n\nLiikkuvien yhdistelmäpalveluiden järjestämismahdollisuuksia ja kustannuksia on tarkasteltu alustavasti. Käytettävissä olevan aikataulun puitteissa luotettavan kustannusarvion laatiminen ei ole mahdollista. Liikkuvien palveluiden kustannusrakenteeseen vaikuttavat merkittävästi useat vielä avoinna olevat tekijät, kuten palvelun toteutustapa, ajoneuvoratkaisut, henkilöstörakenne sekä toiminnan laajuus ja säännöllisyys. Keskeinen kustannuksiin vaikuttava kysymys on myös se, kuka vastaisi liikkuvan yksikön kuljettamisesta ja millaista osaamista tehtävä edellyttäisi. Näihin liittyvät henkilöstö- ja koulutusratkaisut vaikuttavat olennaisesti kokonaiskustannuksiin.\n\nTällä hetkellä hyvinvointialue ei tarjoa liikkuvia neuvolapalveluja. Karkean arvion mukaan liikkuvan neuvolan perustaminen, sisältäen vastaanottokäyttöön soveltuvan ajoneuvon, tarvittavan välineistön ja tietotekniset ratkaisut, olisi noin 200 euroa. Tämän lisäksi syntyy jatkuvia käyttökustannuksia, kuten henkilöstö-, polttoaine-, huolto- ja vakuutuskuluja.\n\nLiikkuvien palveluiden tuottaminen edellyttää laajempaa palvelurakenteellista tarkastelua ja linjauksia esimerkiksi työnjaosta, palveluiden sisällöstä sekä toiminnan organisoinnista. Tällaiset linjaukset eivät ole yksinomaan palvelutuotannon tasolla ratkaistavissa, vaan edellyttää strategisen tason päätöksentekoa. Edellä mainituista syistä liikkuvien palveluiden kustannusten tarkempi arviointi vaatisi erillisen, perusteellisemman selvityksen, jossa määritellään palvelun toteutusmalli, resurssi ja vastuut.\n\nVehmersalmen pitäjäraati on lähettänyt kommentit ja kannanotot (10.5.2026), jotka on otettu huomioon valmistelussa. Pitäjäraati toi esiin huolen palvelujen saatavuudesta ja maaseutualueen vetovoimasta. Nämä näkökulmat on huomioitu lapsi- ja maaseutuvaikutusten arvioinneissa.\n\nVehmersalmen neuvolapalvelujen asiakasmäärät ovat vähentyneet tasolle, jolla erillisen äitiys- ja lastenneuvolan toimipisteen ylläpitäminen ei ole henkilöstöresurssien tarkoituksenmukaisen käytön, palvelujen laadun eikä taloudellisen kestävyyden näkökulmasta perusteltua. Muutoksella on kuitenkin merkittäviä saavutettavuusvaikutuksia, koska etäisyydet korvaaviin palveluihin ovat pidempiä, eikä alueelta ole toimivia joukkoliikenneyhteyksiä. Kokonaisarvioinnissa palvelujen laatu, henkilöstön osaamisen turvaaminen, sijaisjärjestelyjen toimivuus ja vastaanottoaikojen parempi saatavuus painottuvat kuitenkin enemmän kuin saavutettavuuden heikkenemisestä aiheutuvat haitat.\n\nPevamltk 12.05.2026 § 55\n\nValmistelija(t)\nLasten ja nuorten terveyspalvelujen päällikkö Sanna Niinimäki, palveluyksikköjohtaja Hanna-Mari Tanninen, palvelualuejohtaja Minna Pitkänen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Esittelijä teki kokouksessa muutetun päätösehdotuksen:\n\nPerhe- ja vammaispalveluiden lautakunta esittää Vehmersalmen äitiys- ja lastenneuvolapalvelujen yhdistämistä Kuopion alueen muihin neuvoloihin aluehallitukselle ja edelleen hyvinvointialueen aluevaltuustolle päätettäväksi.\n\nMerkitään pöytäkirjaan, että Eija Jestola liittyi kokoukseen klo 10.41.\n\nTiia Eskelinen teki vastaesityksen:\n\nViranhaltijan esitys hylätään ja vastaesitys hyväksytään. Vehmersalmen neuvolapalvelut tulee säilyttää edelleen. Neuvola tulee ehdottomasti säilyttää suuren asiakaskunnan vuoksi. Työssäkäyntialue on erittäin laaja huoltajilla ja jos neuvolapalvelut siirretään Kuopion kaupunkialueelle saakka, tulee huoltajille väistämättä tulonmentyksiä töistä sekä kustannuksia jo valmiiksi kalliin polttoaineen vuoksi, koska matkaa voi kertyä jopa 150-200km ylimääräistä. Alueen kyläraatilaiset ovat lausuneet paikallistietämyksellään, että neuvolapalvelut kuuluvat lähipalveluihin ja tasa-arvoisesti ne täytyy pitää myös maaseutualueilla. Neuvolat kuuluu olla matalan kynnyksen ennaltaehkäiseviä palveluita, joiden saavutettavuus on keskeinen osa palvelun vaikuttavuutta. Välimatkojen pidentyessä neuvolapalveluita täytyy olla mahdollisuus käyttää suunnitellusti ja oikea-aikaisesti. Julkista liikennettä ei kulje juurikaan päivisin Vehmersalmelta, joten perheessä, jossa on yksi auto, ei palveluun pääse, ellei perheen auto ole käytettävissä. Neuvolapalveluiden lopettaminen tuottaa perheiden työajan menetyksiä ja lisää poissaoloja töistä sekä lisää matkakustannuksia ja pienituloisille perheille voi olla jopa taloudellinen taakka. Neuvolan vahvuus on paikallinen tuntemus ja yhteys lapsen arkiympäristöön sekä työntekijän tuttuus perheiden kanssa. Lakkauttamisesitys lisää vahvasti alueellista ja sosiaalista eriarvoisuutta. Lisäksi Vehmersalmen äitiys- ja lastenneuvola kuuluu R3-uudistuksessa vielä palveluvalikoimaan, joten ei ole myöskään sen vuoksi perusteltua lakkauttaa palvelua.\n\nJuuso Niiranen kannatti esitystä.\n\nMinna Back-Hytönen teki vastaesityksen:\n\nKeskustan lautakuntaryhmä esittää palautusta valmisteluun Oravikosken, Timolan, Vehmersalmen ja Varpaisjärven neuvoloiden osalta. Valmistelussa selvitetään lautakunnalle päätöksenteon tueksi: 1. laajemmat kustannus- ja säästöanalyysit 2. tehdään lapsi- ja maaseutuvaikutusten arviointi, lisäksi selvitetään perheiden mahdollisuudet päästä palveluihin julkisella liikenteellä 3. selvitetään mahdollisuudet yhdistää neuvola ja kouluterveydenhuollon vastaanottopäiviä, yhdistelmätehtäviä terveydenhoitajille 4. Selvitetään liikkuvien yhdistelmäpalveluiden järjestämisen mahdollisuudet ja kustannukset alueilla.\n\nTuula Savolainen, Jukka Muukka ja Jari Saario kannattivat esitystä.\n\nPuheenjohtaja totesi, että koska asiasta on tehty pohjaesityksestä poikkeava vastaesitys ja esitys asian palauttamisesta uudelleen valmisteluun, suoritetaan ensin äänestys Minna Back-Hytösen esityksestä asian palauttamisesta uudelleen valmisteluun.\n\nÄänestyksessä JAA on pohjaesitys ja EI Minna Back-Hytösen vastaesitys.\n\nÄänestyksessä annettiin ääniä seuraavasti:\n\nJAA-ääniä: 1\n\nEI-ääniä: 8\n\nJAA-ääniä antoivat: Paula Korhonen\n\nEI-ääniä antoivat: Minna Back-Hytönen, Tuula Savolainen, Jukka Muukka, Antti Valta, Juuso Niiranen, Kari Riihola, Jari Saario ja Tiia Eskelinen\n\nKoska asia palautuu valmisteluun, Tiia Eskelisen vastaehdotuksesta ei äänestetty.\n\nPäätökseksi tuli Minna Back-Hytösen vastaesitys.\n\nÄänestyspöytäkirja on pöytäkirjan liitteenä."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "perhe- ja vammaispalveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Perhe- ja vammaispalveluiden lautakunta päättää, että Kuopion Vehmersalmen äitiys- ja lastenneuvolapalvelut yhdistetään Kuopion kaupunkialueen muiden neuvoloiden toimipisteisiin 1.8.2026 alkaen.\n\nEnnakkovaikutusten arviointi\n\nKuopion Vehmersalmen äitiys- ja lastenneuvolapalvelujen siirtäminen Kuopion kaupunkialueen neuvoloihin pidentää osalla perheistä asiointimatkaa merkittävästi. Keskittäminen parantaa kuitenkin palvelujen saatavuutta, jatkuvuutta ja laatua sekä vahvistaa asiakas- ja työturvallisuutta suuremmissa yksiköissä. Samalla henkilöstön työskentelyolosuhteet ja kollegiaalinen tuki paranevat, ja resurssien käyttö tehostuu. Kokonaisuutena muutos tukee palvelujen yhdenmukaista ja kustannustehokasta järjestämistä, mutta edellyttää toimivia ratkaisuja palvelujen saavutettavuuden turvaamiseksi.\n\nEnnakkovaikutusten arviointi on kuvattu tarkemmin oheisaineistona olevassa erillisessä liitteessä.\n\nToimivallan peruste\nHallintosääntö 41 §, lautakunnan yleiset tehtävät kohta 2\n\nHallintosääntö 41 §, lautakunnan erityistehtävät kohta 1, 2 ja 4\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\nEnnakkovaikutusten arviointi\n\nSiirtoesitys (Power point-esitys)\n\nValmistelu\nKuopion Vehmersalmen lastenneuvolapalvelujen asiakasmäärä on tällä hetkellä 56 lasta (0–6 vuotiaita) ja lapsia odotetaan syntyväksi 8 vuonna 2026. Neuvolapalvelut on tuotettu siten, että terveydenhoitaja on käynyt 1-2 päivää viikossa Kuopion Vehmersalmen neuvolassa. Vehmersalmen seksuaaliterveysneuvolapalvelut sekä kohdunkaulansyövän seulontanäytteet tuotetaan Kuopion Keskustan neuvolassa.\n\nKuopion Vehmersalmen neuvolan lähin toinen neuvolan toimipiste on Kuopion Riistaveden neuvola (etäisyys 28 kilometriä) ja lähin Kuopion kaupunkialueen neuvolan toimipiste on Päivärannan neuvola (45 kilometriä).\n\nKuopion Vehmersalmen äitiys- ja lastenneuvolan lääkäripalvelut on pääosin toteutettu Kuopion kaupunkialueen muissa neuvoloissa.\n\nYhden työntekijän toimipisteeseen liittyy useita haavoittuvuuksia:\n\nasiakasturvallisuuteen ja työhyvinvointiin liittyvät riskit\n\npalvelun keskeytyminen äkillisten poissaolojen vuoksi ja\n\ntyöntekijän kuormittuminen ja kollegiaalisen tuen puute.\n\nSuurempaan toimipisteeseen siirtyminen mahdollistaa\n\nasiakasaikojen riittävyyden ja kohdennetun tuen oikea-aikaisuuden\n\nmyös henkilöstöpoissaolojen aikana.\n\nToiminnan keskittämisellä saavutetaan kustannussäästöjä erityisesti:\n\nlääkinnällisten laitteiden hankinnoissa\n\nrokotteiden varastoinnissa ja logistiikassa\n\nhoitotarviketilausten keskittämisessä ja päällekkäisten toimintojen vähentämisessä ja\n\nhenkilöstön virantoimitusmatkojen ja tilavuokrien vähenemisellä.\n\nNeuvolatoimintaa ohjaava asetus (93/2026) ei määrittele tarkasti neuvolapalveluiden sijaintia kunnassa. Kuopion Vehmersalmen neuvolapalvelujen keskittäminen kaupunkialueen muihin neuvoloihin turvaa palvelut asiakkaille edelleen saman kunnan sisällä toteutuvaksi.\n\nKuopion Vehmersalmen äitiys- ja lastenneuvolapalvelujen siirtämistä Kuopion kaupunkialueen muihin neuvoloihin esitetään toteutettavaksi 1.8.2026 alkaen. Siirtoesitys pohjautuu perhe- ja vammaispalvelujen R3 uudistuksen toimeenpanosuunnitelmaan ja palveluverkon uudistamiseen.\n\nTavoitteena on turvata Kuopion Vehmersalmen alueen lasta odottaville ja alle kouluikäisten lasten perheille tasavertaiset, laadukkaat ja jatkuvat äitiys- ja lastenneuvolapalvelut, vahvistaa henkilöstön työhyvinvointia sekä parantaa asiakas- ja työturvallisuutta."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "216",
+   "title": "Lapinlahden Varpaisjärven äitiys- ja lastenneuvolapalvelujen yhdistäminen Lapinlahden neuvolaan",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261073-11",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261073-11.PDF",
+   "diary_number": "2276/00.01.00/2026",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää esittää aluevaltuustolle hyväksyttäväksi Lapinlahden Varpaisjärven äitiys- ja lastenneuvolapalvelujen yhdistämistä Lapinlahden neuvolaan syyskaudella 2026.\n\nEnnakkovaikutusten arviointi\n\nLapinlahden Varpaisjärven äitiys- ja lastenneuvolapalvelujen yhdistäminen Lapinlahden neuvolaan pidentää osalla perheistä asiointimatkaa, mutta palvelun vähäisen käytön ja nykyisen toteutustavan vuoksi vaikutus arkeen on rajallinen. Keskittäminen parantaa palvelun saatavuutta, jatkuvuutta ja laatua sekä vahvistaa asiakas- ja työturvallisuutta. Samalla henkilöstön työskentelyolosuhteet ja kollegiaalinen tuki paranevat. Kokonaisuutena muutos tehostaa resurssin käyttöä ja tukee palvelujen yhdenmukaista ja kustannustehokasta järjestämistä.\n\nEnnakkovaikutusten arviointi oheisaineistona, lisäksi oheisaineistona lapsivaikutusten sekä maaseutuvaikutusten arvioinnit.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\nVaikutusten ennakkoarviointi Varpaisjärven neuvolapalvelut\n\nLapinlahden Varpaisjärven neuvolapalvelut\n\nLapsivaikutusten arviointi (LVA)\n\nMaaseutuvaikutusten arviointi (MVA)\n\nKustannus- ja säästöanalyysi\n\nJulkisen liikenteen selvitys\n\nLapinlahden kunnan lapsi- ja perheneuvoston kirjelmä päättäjille Varpaisjärven neuvolapalveluiden säilyttämisestä 22.5.2026\n\nÄänetyspöytäkirja § 56\n\nÄänetyspöytäkirja § 71\n\nValmistelu\nPerhe- ja vammaispalveluiden lautakunta käsitteli Lapinlahden Varpaisjärven äitiys- ja lastenneuvolapalvelujen yhdistämistä Lapinlahden neuvolaan ensimmäisen kerran 12.5.2026 (§ 56). Lautakunta palautti asian valmisteluun lisäselvitysten laatimista varten. Lautakunta edellytti laajempaa kustannus- ja säästöanalyysia, lapsi- ja maaseutuvaikutusten arviointia, julkisen liikenteen toimivuuden selvittämistä, neuvola- ja kouluterveydenhuollon yhdistelmätehtävien mahdollisuuksien tarkastelua sekä liikkuvien palveluiden järjestämismahdollisuuksien ja kustannusten arviointia.\n\nTäydennetyn valmistelun perusteella perhe- ja vammaispalveluiden lautakunta käsitteli asian uudelleen 8.6.2026 (§ 71) ja päätti äänestyksen jälkeen esittää aluehallitukselle ja edelleen aluevaltuustolle, että Lapinlahden Varpaisjärven äitiys- ja lastenneuvolapalvelut yhdistetään Lapinlahden neuvolaan syyskaudella 2026.\n\nValmistelun perusteella Varpaisjärven neuvolapalvelujen asiakasmäärät ovat laskeneet merkittävästi. Lastenneuvolapalveluissa on tällä hetkellä 62 asiakasta, ja alueelle syntyy vuosittain alle kymmenen lasta. Äitiysneuvolan asiakkaat asioivat jo nykyisin pääosin Lapinlahden neuvolassa, ja noin puolet lastenneuvolan asiakkaista on valinnut asiointipaikakseen Lapinlahden neuvolan. Neuvolapalvelujen käyttö on siten osittain jo keskitetty.\n\nSelvitysten mukaan Varpaisjärven neuvolatoimipisteen ylläpitämisestä aiheutuu vuosittaisia kustannuksia noin 21 700 euroa. Toimipisteen yhdistämisellä saavutetaan arviolta noin 21 400 euron vuosittaiset säästöt sekä vähennetään henkilöstön työaikaa vieviä siirtymisiä toimipisteiden välillä. Samalla voidaan lisätä terveydenhoitajien käytettävissä olevaa asiakastyöaikaa ja parantaa palvelujen saatavuutta.\n\nLapsivaikutusten arvioinnin mukaan muutos pidentää osan perheistä asiointimatkoja ja voi lisätä liikkumisesta aiheutuvia kustannuksia. Kokonaisarvion perusteella palvelujen keskittäminen kuitenkin tukee lasten ja perheiden etua turvaamalla palvelujen laadun, saatavuuden, jatkuvuuden sekä asiakas- ja potilasturvallisuuden. Maaseutuvaikutusten arvioinnin mukaan muutos ei merkittävästi heikennä alueen elinvoimaa tai kilpailukykyä, mutta korostaa liikkumisen merkitystä palvelujen saavutettavuudessa.\n\nValmistelussa arvioitiin myös neuvola- ja kouluterveydenhuollon yhdistelmätehtävien mahdollisuuksia. Asiakasmäärät eivät muodosta sellaista kokonaisuutta, jolla voitaisiin turvata toiminnan laatu, ammatillisen osaamisen ylläpito ja henkilöstön työhyvinvointi yhdistämällä tehtävät yhteen vakanssiin. Liikkuvien palvelujen osalta todettiin, että niiden käyttöönotto edellyttäisi erillistä strategista valmistelua, eikä niitä ole tällä hetkellä käytössä hyvinvointialueella. Alustavan arvion mukaan liikkuvan neuvolapalvelun perustamiskustannukset olisivat noin 200 000–300 000 euroa, minkä lisäksi toiminnasta aiheutuisi merkittäviä vuosittaisia käyttökustannuksia.\n\nEsitys perustuu palveluverkon uudistamiseen ja R3-palvelurakenneuudistukseen, jonka tavoitteena on turvata Lapinlahden ja Varpaisjärven alueen perheille laadukkaat, turvalliset ja yhdenvertaiset neuvolapalvelut sekä varmistaa henkilöstöresurssien tarkoituksenmukainen ja kustannustehokas käyttö.\n\nPevamltk 08.06.2026 § 71\n\nValmistelija(t)\nLasten ja nuorten terveyspalvelujen päällikkö Sanna Niinimäki, palveluyksikköjohtaja Hanna-Mari Tanninen\n\n, palvelualuejohtaja Minna Pitkänen\n\ntoimialajohtaja Kati Kantanen",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nLasten ja nuorten terveyspalvelujen päällikkö Sanna Niinimäki, palveluyksikköjohtaja Hanna-Mari Tanninen\n\n, palvelualuejohtaja Minna Pitkänen\n\ntoimialajohtaja Kati Kantanen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää esittää aluevaltuustolle hyväksyttäväksi Lapinlahden Varpaisjärven äitiys- ja lastenneuvolapalvelujen yhdistämistä Lapinlahden neuvolaan syyskaudella 2026.\n\nEnnakkovaikutusten arviointi\n\nLapinlahden Varpaisjärven äitiys- ja lastenneuvolapalvelujen yhdistäminen Lapinlahden neuvolaan pidentää osalla perheistä asiointimatkaa, mutta palvelun vähäisen käytön ja nykyisen toteutustavan vuoksi vaikutus arkeen on rajallinen. Keskittäminen parantaa palvelun saatavuutta, jatkuvuutta ja laatua sekä vahvistaa asiakas- ja työturvallisuutta. Samalla henkilöstön työskentelyolosuhteet ja kollegiaalinen tuki paranevat. Kokonaisuutena muutos tehostaa resurssin käyttöä ja tukee palvelujen yhdenmukaista ja kustannustehokasta järjestämistä.\n\nEnnakkovaikutusten arviointi oheisaineistona, lisäksi oheisaineistona lapsivaikutusten sekä maaseutuvaikutusten arvioinnit.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\nVaikutusten ennakkoarviointi Varpaisjärven neuvolapalvelut\n\nLapinlahden Varpaisjärven neuvolapalvelut\n\nLapsivaikutusten arviointi (LVA)\n\nMaaseutuvaikutusten arviointi (MVA)\n\nKustannus- ja säästöanalyysi\n\nJulkisen liikenteen selvitys\n\nLapinlahden kunnan lapsi- ja perheneuvoston kirjelmä päättäjille Varpaisjärven neuvolapalveluiden säilyttämisestä 22.5.2026\n\nÄänetyspöytäkirja § 56\n\nÄänetyspöytäkirja § 71\n\nValmistelu\nPerhe- ja vammaispalveluiden lautakunta käsitteli Lapinlahden Varpaisjärven äitiys- ja lastenneuvolapalvelujen yhdistämistä Lapinlahden neuvolaan ensimmäisen kerran 12.5.2026 (§ 56). Lautakunta palautti asian valmisteluun lisäselvitysten laatimista varten. Lautakunta edellytti laajempaa kustannus- ja säästöanalyysia, lapsi- ja maaseutuvaikutusten arviointia, julkisen liikenteen toimivuuden selvittämistä, neuvola- ja kouluterveydenhuollon yhdistelmätehtävien mahdollisuuksien tarkastelua sekä liikkuvien palveluiden järjestämismahdollisuuksien ja kustannusten arviointia.\n\nTäydennetyn valmistelun perusteella perhe- ja vammaispalveluiden lautakunta käsitteli asian uudelleen 8.6.2026 (§ 71) ja päätti äänestyksen jälkeen esittää aluehallitukselle ja edelleen aluevaltuustolle, että Lapinlahden Varpaisjärven äitiys- ja lastenneuvolapalvelut yhdistetään Lapinlahden neuvolaan syyskaudella 2026.\n\nValmistelun perusteella Varpaisjärven neuvolapalvelujen asiakasmäärät ovat laskeneet merkittävästi. Lastenneuvolapalveluissa on tällä hetkellä 62 asiakasta, ja alueelle syntyy vuosittain alle kymmenen lasta. Äitiysneuvolan asiakkaat asioivat jo nykyisin pääosin Lapinlahden neuvolassa, ja noin puolet lastenneuvolan asiakkaista on valinnut asiointipaikakseen Lapinlahden neuvolan. Neuvolapalvelujen käyttö on siten osittain jo keskitetty.\n\nSelvitysten mukaan Varpaisjärven neuvolatoimipisteen ylläpitämisestä aiheutuu vuosittaisia kustannuksia noin 21 700 euroa. Toimipisteen yhdistämisellä saavutetaan arviolta noin 21 400 euron vuosittaiset säästöt sekä vähennetään henkilöstön työaikaa vieviä siirtymisiä toimipisteiden välillä. Samalla voidaan lisätä terveydenhoitajien käytettävissä olevaa asiakastyöaikaa ja parantaa palvelujen saatavuutta.\n\nLapsivaikutusten arvioinnin mukaan muutos pidentää osan perheistä asiointimatkoja ja voi lisätä liikkumisesta aiheutuvia kustannuksia. Kokonaisarvion perusteella palvelujen keskittäminen kuitenkin tukee lasten ja perheiden etua turvaamalla palvelujen laadun, saatavuuden, jatkuvuuden sekä asiakas- ja potilasturvallisuuden. Maaseutuvaikutusten arvioinnin mukaan muutos ei merkittävästi heikennä alueen elinvoimaa tai kilpailukykyä, mutta korostaa liikkumisen merkitystä palvelujen saavutettavuudessa.\n\nValmistelussa arvioitiin myös neuvola- ja kouluterveydenhuollon yhdistelmätehtävien mahdollisuuksia. Asiakasmäärät eivät muodosta sellaista kokonaisuutta, jolla voitaisiin turvata toiminnan laatu, ammatillisen osaamisen ylläpito ja henkilöstön työhyvinvointi yhdistämällä tehtävät yhteen vakanssiin. Liikkuvien palvelujen osalta todettiin, että niiden käyttöönotto edellyttäisi erillistä strategista valmistelua, eikä niitä ole tällä hetkellä käytössä hyvinvointialueella. Alustavan arvion mukaan liikkuvan neuvolapalvelun perustamiskustannukset olisivat noin 200 000–300 000 euroa, minkä lisäksi toiminnasta aiheutuisi merkittäviä vuosittaisia käyttökustannuksia.\n\nEsitys perustuu palveluverkon uudistamiseen ja R3-palvelurakenneuudistukseen, jonka tavoitteena on turvata Lapinlahden ja Varpaisjärven alueen perheille laadukkaat, turvalliset ja yhdenvertaiset neuvolapalvelut sekä varmistaa henkilöstöresurssien tarkoituksenmukainen ja kustannustehokas käyttö.\n\nPevamltk 08.06.2026 § 71\n\nValmistelija(t)\nLasten ja nuorten terveyspalvelujen päällikkö Sanna Niinimäki, palveluyksikköjohtaja Hanna-Mari Tanninen\n\n, palvelualuejohtaja Minna Pitkänen\n\ntoimialajohtaja Kati Kantanen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Juuso Niiranen teki vastaesityksen:\n\nViranhaltijan esitys hylätään ja vastaesitys hyväksytään. Suunnitelma keskittää Varpaisjärven neuvolapalvelut Lapinlahdelle uhkaa heikentää palveluiden saavutettavuutta ja lisätä alueellista eriarvoisuutta. Esitän, että Varpaisjärven äitiys- ja perheneuvola jatkaa entisellään. Neuvolatoiminnan ydin on varhainen puuttuminen ja ennaltaehkäisy, jotka toteutuvat parhaiten lähellä perheiden arkea. Paikallisen toimipisteen säilyttäminen ei ole ainoastaan mukavuuskysymys, vaan strateginen valinta, jolla torjutaan raskaampien ja kalliimpien erityispalveluiden tarvetta tulevaisuudessa. Lähipalvelu varmistaa, että kynnys hakea tukea pysyy matalana myös niille perheille, joilla on haasteita liikkumisen tai talouden kanssa. Pitkät asiointimatkat pienten lasten kanssa kuormittavat perheiden jaksamista ja lisäävät matkakustannuksia. Paikallinen neuvola on myös merkittävä vetovoimatekijä, joka pitää Varpaisjärven houkuttelevana asuinpaikkana nuorille perheille ja ylläpitää kylän elinvoimaa. Palveluverkkoa tarkasteltaessa on huomioitava, että keskittämisestä saatavat välittömät tilasäästöt voivat kääntyä pitkäaikaisiksi menonlisäyksiksi, jos perheiden ongelmat jäävät etäisyyden vuoksi havaitsematta ajoissa. Varpaisjärven äitiys- ja perheneuvolan säilyttäminen on investointi lasten turvalliseen kasvuun ja koko hyvinvointialueen sosiaaliseen kestävyyteen.\n\nTiia Eskelinen, Milja Nousiainen ja Jari Saario kannattivat esitystä.\n\nPuheenjohtaja totesi, että koska asiassa on tehty esittelijän esityksestä poikkeava vastaesitys, suoritetaan asiassa äänestys. Äänestyksessä JAA on pohjaesitys ja EI Juuso Niirasen vastaesitys.\n\nÄänestyksessä annettiin ääniä seuraavasti:\n\nJAA-ääniä: 6\n\nEI-ääniä: 5\n\nJAA-ääniä antoivat: Jukka Muukka, Tuula Savolainen, Jere Ronkainen, Minna Back-Hytönen, Paula Korhonen ja Antti Valta\n\nEI-ääniä antoivat: Tiia Eskelinen, Jari Saario, Tanja Airaksinen, Milja Nousiainen ja Juuso Niiranen\n\nPäätökseksi tuli pohjaesitys.\n\nÄänestyspöytäkirja on pöytäkirjan liitteenä."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "perhe- ja vammaispalveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Perhe- ja vammaispalveluiden lautakunta esittää Lapinlahden Varpaisjärven äitiys- ja lastenneuvolapalvelujen yhdistämistä Lapinlahden neuvolaan syyskaudella 2026 aluehallitukselle ja edelleen hyvinvointialueen aluevaltuustolle päätettäväksi.\n\nEnnakkovaikutusten arviointi\n\nLapinlahden Varpaisjärven äitiys- ja lastenneuvolapalvelujen yhdistäminen Lapinlahden neuvolaan pidentää osalla perheistä asiointimatkaa, mutta palvelun vähäisen käytön ja nykyisen toteutustavan vuoksi vaikutus arkeen on rajallinen. Keskittäminen parantaa palvelun saatavuutta, jatkuvuutta ja laatua sekä vahvistaa asiakas- ja työturvallisuutta. Samalla henkilöstön työskentelyolosuhteet ja kollegiaalinen tuki paranevat. Kokonaisuutena muutos tehostaa resurssin käyttöä ja tukee palvelujen yhdenmukaista ja kustannustehokasta järjestämistä.\n\nEnnakkovaikutusten arviointi on kuvattu 12.5.2026 lautakunnan kokouksessa, jota on vielä syvennetty lapsivaikutusten sekä maaseutuvaikutusten arvioinneilla.\n\nToimivallan peruste\nHallintosääntö 41 §, lautakunnan yleiset tehtävät kohta 2\n\nHallintosääntö 41 §, lautakunnan erityistehtävät kohta 1, 2 ja 4\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\nVaikutusten ennakkoarviointi Varpaisjärven neuvolapalvelut\n\nLapinlahden Varpaisjärven neuvolapalvelut\n\nLapsivaikutusten arviointi (LVA)\n\nMaaseutuvaikutusten arviointi (MVA)\n\nKustannus- ja säästöanalyysi\n\nJulkisen liikenteen selvitys\n\nLapinlahden kunnan lapsi- ja perheneuvoston kirjelmä päättäjille Varpaisjärven neuvolapalveluiden säilyttämisestä 22.5.2026\n\nValmistelu\nPerhe- ja vammaispalvelujen lautakunnassa 12.5.2026 § 56 oli esityksenä Lapinlahden Varpaisjärven äitiys- ja lastenneuvolapalvelujen yhdistäminen Lapinlahden neuvolaan. Perhe- ja vammaispalvelujen lautakunta päätti palauttaa asian uudelleen valmisteltavaksi. Valmistelun aikana pyydettiin selvittämään laajemmat kustannus- ja säästöanalyysit, tekemään lapsi- ja maaseutuvaikutusten arviointi, selvittämään perheiden mahdollisuudet päästä palveluihin julkisella liikenteellä, selvittämään mahdollisuudet yhdistää neuvola ja kouluterveydenhuollon vastaanottopäiviä, yhdistelmätehtäviä terveydenhoitajille sekä selvittämään liikkuvien yhdistelmäpalveluiden järjestämisen mahdollisuudet ja kustannukset alueille.\n\nLapinlahden Varpaisjärven äitiys- ja lastenneuvolan yhdistäminen ja siihen liittyvät muutokset R3 palvelurakenneuudistuksen osalta käsitellään ja päätetään aluevaltuustossa. Palveluverkkoa on lausuttu arvioitavan vuosittain ja arvioinnon pohjalta voidaan todeta, että Varpaisjärven neuvolapalveluiden asiakasmäärät ovat laskusuuntaiset. Tämän vuoksi on perustelua esittää kustannustehokkaampaa ratkaisua yhdistämällä palvelu osaksi Lapinlahden neuvolaa.\n\nLaajemmat kustannus- ja säästöanalyysit\n\nVarpaisjärven äitiys- ja lastenneuvolaan on tämän hetkisen tiedon mukaan syntymässä alle 10 lasta. 1-6-vuotiaita lapsia on neuvolapalveluissa 62 (syntyneet vuosina 2020-2025). Syksyllä 2026 Varpaisjärven neuvolan asiakkaista kouluun siirtyy 12 lasta. ​Asiakkuuksia poistuu neuvolapalveluista enemmän kuin asiakkuuksia syntyy. Huomioitavaa on, että lasta odottavat asioivat jo tällä hetkellä omasta toiveestaan Lapinlahden neuvolassa ja noin puolet lastenneuvolan asiakkaista on valinnut asiointipaikakseen Lapinlahden neuvolan.\n\nVarpaisjärven neuvolan toimipisteen ylläpitämisestä aiheutuu arviolta noin 21 705 euron vuosikustannukset. Tämän lisäksi kertahankintakulut 8617 euroa. Toimipisteen yhdistämisellä saavutetaan arviolta 21 415 euron säästö (ks. oheismateriaali kustannus- ja säästöanalyysi). Yhdistymisen myötä osa lääkintäteknisistä laitteista siirretään toisiin toimintayksiköihin, jolloin hankintakuluja ei niistä synny. Kustannus- ja säästöanalyysissä on kuitenkin huomioitu koko Varpaisjärven neuvola-asiakkaiden määrä, joista osa asioi jo nyt Lapinlahden neuvolassa.\n\nVarpaisjärven lastenneuvolan toimipisteen asiakkaiden määräaikaistarkastuksien aikatarve on 87 tuntia ja 45 minuuttia. Varpaisjärven äitiysneuvolassa on laskettuja aikoja loppu vuodelle vielä kaksi.\n\nVarpaisjärven äitiys- ja lastenneuvolan vähäiseen palvelun tarpeeseen nähden ei ole kustannustehokasta ylläpitää toimipistettä ja kattaa siihen liittyviä henkilöstö-, tila-, laite- ja muita ylläpitokuluja. On huomioitava, että lautakunnan päättäessä säilyttää Varpaisjärven neuvolapalveluiden toimipisteen, tarkoittaa tämä jatkossa sitä, ettei neuvola-aikoja voida enää tarjota yhtä laajasti kuin aikaisemmin, vaan asiakkaiden määrän mukaan terveydenhoitajan vastaanotto järjestyisi Varpaisjärvellä jatkossa arviolta 1-2 kertaa kuukaudessa, kuitenkin niin, että seularajat (+-3kk) toteutuvat. Myös mahdolliset vastaanottoaikojen siirrot ja kohdennettua tukea vaativat käynnit ohjautuisivat jatkossa Lapinlahden neuvolaan.\n\nHyvinvointialueen säästöpaineet huomioiden henkilöstöresursseja kohdennetaan lapsimäärän mukaisesti. Mikäli terveydenhoitaja ottaa Varpaisjärven asiakkaat vastaan Lapinlahden neuvolassa, voidaan kustannusanalyysissä mainitut kustannukset ja hukka välttää. Samalla voidaan tarjota vastaanottoaikoja laajemmin ja joustavammin perheiden tarpeisiin vastaten. Lapinlahden Varpaisjärven toimipisteen yhdistäminen vapauttaa terveydenhoitajan siirtymisiin työpisteiden välillä käytettävässä matka-ajassa asiakastyöhön arviolta noin 27 asiakasaikaa vuodessa Lapinlahden neuvolaan. Tarkempi kustannus- ja säästöanalyysi oheisaineistona. Lapinlahden lapsi- ja perheneuvoston esiinnnostama aikojen riittämättömyys korjaantuisi myös sillä, ettei terveydenhoitajan työaikaa mene hukkaan työpisteiden välisiin siirtymiin.\n\nLapsivaikutusten arviointi, maaseutuvaikutusten arviointi ja julkisen liikenteen selvitys\n\nLapsivaikutusten arviointi (LVA)\n\nVarpaisjärven äitiys- ja lastenneuvolan yhdistäminen Lapinlahden terveysaseman neuvolaan vahvistaa ja parantaa neuvolapalvelujen saatavuutta ja parantaa asiakastyön laatua, asiakasturvallisuutta ja lisää työntekijöiden työhyvinvointia. Matka neuvolaan osalla perheistä pitenee ja saattaa aiheuttaa haasteita taloudellisiin (polttoainekulujen nousu) ja kulkuyhteyksien mahdollisuuksien osalta. Mikäli kulkuyhteys ja liikkuminen neuvolaan on hankalaa, saattaa se vaikuttaa palvelun käyttöön jossain määrin heikentevästi, jolloin lapsen oikeus ja etu ei toteudu. Kuitenkin kokonaisarvion pohjalta Varpaisjärven neuvolapalvelujen yhdistäminen osaksi Lapinlahden neuvolaa tukisi parhaiten Varpaisjärven 0-6-vuotiaiden lasten sekä lasta odottavien etua. Vaikka neuvolan palvelupiste poistuisi Varpaisjärveltä, muut lasten ja perheiden palvelut säilyvät alueella ennallaan. Muutos ei koske kaikkia perheitä. Palvelujen keskittäminen vastaa osittain jo nykyistä asiointikäyttäytymistä. Tarkempi lapsivaikutusten arviointi oheisaineistona.\n\nMaaseutuvaikutusten arviointi (MVA)\n\nToimipisteiden yhdistäminen säilyttää neuvolapalvelut samassa kunnassa osana perhekeskusverkostoa ja pääosin vahvistaa palvelun saatavuutta, koska useamman terveydenhoitajan toimipisteessä vastaanottoaikoja on enemmän tarjolla. Muutos turvaa palvelun laadun ja voi vahvistaa perheiden verkostoitumista, mutta samalla se voi heikentää Varpaisjärven vetovoimaa ja lisätä asioinnin suuntautumista Lapinlahdelle. Riskinä on myös paikallisyhteisöön kiinnittymisen heikkeneminen.\n\nOsalle perheistä saavutettavuus voi heikentyä pidemmän matka-ajan vuoksi (matka Lapinlahden neuvolaan 22km / 20min), mikä lisää kustannuksia (alle 1-vuotiaan käynneistä arviolta 53 euroa). Toisaalta joillekin perheistä neuvolamatka voi lyhentyä.Toimipisteiden yhdistäminen voi parantaa asiakaspalvelun laatua sekä lisätä perheiden välistä verkostoitumista sekä lisätä henkilöstön työhyvinvointia, saatavuutta ja pysyvyyttä.\n\nOsa hyvinvointialueen kunnista on pinta-alaltaan laajoja kuntia, ja myös tällä hetkellä kaikissa kunnissa on raja-alueilla asuvia perheitä, joille matka neuvolaan on pitkä. Yhdenvertaisuuden näkökulmasta on huomioitava, että jo tälläkin hetkellä osalla maaseutualueilla asuvista perheistä asiointi tapahtuu neuvoloissa, jolloin edestakainen matka voi olla jopa 120 kilometriä.\n\nKokonaisarvio: Muutos ei heikennä maaseudun elinvoimaa tai kilpailukykyä, mutta korostaa liikkumisen merkitystä palvelujen saavutettavuudessa. Tarkempi maaseutuvaikutusten arviointi oheisaineistona.\n\nYhteenvetona Varpaisjärven asuinalueelta on osittain toimiva joukkoliikenne Lapinlahdelle, mutta tämä ei palvele lapsiperheitä niin, että matkat molempiin suuntiin voitaisiin hoitaa julkisella liikenteellä. Odotus- ja matka-aika tulee kohtuuttoman pitkäksi. Lapsiperheissä auton omistaminen on yleensä vielä yleisempää kuin keskimäärin, koska liikkumistarpeet ovat suuremmat (päiväkoti, koulu, harrastukset), asuminen usein väljempää tai kauempana palveluista. Valtaosalla lapsiperheistä on auto (usein jopa useampi), vaikka tarkka prosentti vaihtelee alueittain (Tilastokeskus). Julkisen liikenteen selvitys oheisaineistona.\n\nNeuvolan ja kouluterveydenhuollon yhdistämismahdollisuudet\n\nNeuvolatyön laadun ja tarvittavan osaamisen turvaamiseksi riittävä asiakasmäärä on keskeinen edellytys. Neuvolan tehtävänä on tunnistaa lapsen mahdolliset kehitysviiveet ja muut poikkeamat mahdollisimman varhain, tarjota kohdennettua tukea viiveettä sekä tarvittaessa ohjata jatkotutkimuksiin ja -palveluihin.\n\nSuosituksen mukaan terveydenhoitajalla tulisi olla 280 lastenneuvola-asiakasta, mikäli työ painottuu pelkästään lastenneuvolaan, eikä sijaisia ole. Jos terveydenhoitaja työskentelee sekä äitiys- että lastenneuvolassa, lapsiasiakkaiden määrän tulisi olla 140-160 laadun ja osaamisen varmistamiseksi. Äitiysneuvolassa terveydenhoitajalla tulisi olla 76 raskaana olevaa, jos terveydenhoitaja työskentelee pelkästään äitiysneuvolassa ja 38 raskaana olevaa, jos tehtävänä on yhdistelmäneuvola. Varpaisjärven asiakasmäärä jää näihin suosituksiin nähden pieneksi, minkä vuoksi on perustelua, että palvelu yhdistetään kokonaisuudessaan muihin neuvoloihin. Kouluterveydenhuollossa suositeltu mitoitus on 460 oppilasta terveydenhoitajaa kohden, jotta laatu ja ammatillinen osaaminen voidaan turvata. Varpaisjärven koulussa oppilaita on 162.\n\nTerveydenhoitajan työn eri osa-alueet (neuvola, koulu- ja opiskeluterveydenhuolto) edellyttävät kukin omaa erityisosaamistaan ja vastuullista asiantuntijuutta. Terveydenhoitajat ovat ennaltaehkäisevän työn keskeisiä asiantuntijoita. Neuvolatyössä korostuu erityisesti lapsen terveyden ja ikäkausikehityksen syvällinen tuntemus, perheiden tukeminen ja monialainen yhteistyö. Terveydenhoitaja on usein ensimmäinen ammattilainen, joka havaitsee lapsen mahdolliset kehitysviiveet, ja jonka tulee osata arvioida poikkeamia. Työssään terveydenhoitaja hyödyntää erilaisia arviointi- ja seulontamenetelmiä.\n\nVarpaisjärven lastenneuvolan ja koulun asiakasmäärien yhdistäminen eivät muodostu sellaisiksi, että se olisi laadun näkökulmasta realistista. Myös henkilöstön työhyvinvoinnin kannalta on tärkeää, ettei yksittäiselle työntekijälle kasaannu liikaa vaativia erityisosaamista edellyttäviä työtehtäviä.\n\nLiikkuvien yhdistelmäpalvelujen järjestämisen mahdollisuudet ja kustannukset\n\nLiikkuvien yhdistelmäpalveluiden järjestämismahdollisuuksia ja kustannuksia on tarkasteltu alustavasti. Käytettävissä olevan aikataulun puitteissa luotettavan kustannusarvion laatiminen ei ole mahdollista. Liikkuvien palveluiden kustannusrakenteeseen vaikuttavat merkittävästi useat vielä avoinna olevat tekijät, kuten palvelun toteutustapa, ajoneuvoratkaisut, henkilöstörakenne sekä toiminnan laajuus ja säännöllisyys. Keskeinen kustannuksiin vaikuttava kysymys on myös se, kuka vastaisi liikkuvan yksikön kuljettamisesta, ja millaista osaamista tehtävä edellyttäisi. Näihin liittyvät henkilöstö- ja koulutusratkaisut vaikuttavat olennaisesti kokonaiskustannuksiin.\n\nTällä hetkellä hyvinvointialue ei tarjoa liikkuvia neuvolapalveluja. Karkean arvion mukaan liikkuvan neuvolan perustaminen, sisältäen vastaanottokäyttöön soveltuvan ajoneuvon, tarvittavan välineistön ja tietotekniset ratkaisut, olisi noin 200 euroa. Tämän lisäksi syntyy jatkuvia käyttökustannuksia, kuten henkilöstö-, polttoaine-, huolto- ja vakuutuskuluja.\n\nLiikkuvien palveluiden tuottaminen edellyttää laajempaa palvelurakenteellista tarkastelua ja linjauksia esimerkiksi työnjaosta, palveluiden sisällöstä sekä toiminnan organisoinnista. Tällaiset linjaukset eivät ole yksinomaan palvelutuotannon tasolla ratkaistavissa, vaan edellyttää strategisen tason päätöksentekoa. Edellä mainituista syistä liikkuvien palveluiden kustannusten tarkempi arviointi vaatisi erillisen, perusteellisemman selvityksen, jossa määritellään palvelun toteutusmalli, resurssi ja vastuu.\n\nLapinlahden lapsi- ja perheneuvosto on tehnyt 22.5.2026 kirjelmän hyvinvointialueelle, joka on otettu huomioon valmistelussa.\n\nPevamltk 12.05.2026 § 56\n\nValmistelija(t)\nLasten ja nuorten terveyspalvelujen päällikkö Sanna Niinimäki, palveluyksikköjohtaja Hanna-Mari Tanninen\n\npalvelualuejohtaja Minna Pitkänen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Esittelijä teki kokouksessa muutetun päätösehdotuksen:\n\nPerhe- ja vammaispalveluiden lautakunta esittää Lapinlahden Varpaisjärven äitiys- ja lastenneuvolapalvelujen yhdistämistä Lapinlahden neuvolaan aluehallitukselle ja edelleen hyvinvointialueen aluevaltuustolle päätettäväksi.\n\nJuuso Niiranen teki vastaesityksen:\n\nViranhaltijan esitys hylätään ja vastaesitys hyväksytään. Suunnitelma keskittää Varpaisjärven neuvolapalvelut Lapinlahdelle uhkaa heikentää palveluiden saavutettavuutta ja lisätä alueellista eriarvoisuutta. Esitän, että Varpaisjärven äitiys- ja perheneuvola jatkaa entisellään. Neuvolatoiminnan ydin on varhainen puuttuminen ja ennaltaehkäisy, jotka toteutuvat parhaiten lähellä perheiden arkea. Paikallisen toimipisteen säilyttäminen ei ole ainoastaan mukavuuskysymys, vaan strateginen valinta, jolla torjutaan raskaampien ja kalliimpien erityispalveluiden tarvetta tulevaisuudessa. Lähipalvelu varmistaa, että kynnys hakea tukea pysyy matalana myös niille perheille, joilla on haasteita liikkumisen tai talouden kanssa. Pitkät asiointimatkat pienten lasten kanssa kuormittavat perheiden jaksamista ja lisäävät matkakustannuksia. Paikallinen neuvola on myös merkittävä vetovoimatekijä, joka pitää Varpaisjärven houkuttelevana asuinpaikkana nuorille perheille ja ylläpitää kylän elinvoimaa. Palveluverkkoa tarkasteltaessa on huomioitava, että keskittämisestä saatavat välittömät tilasäästöt voivat kääntyä pitkäaikaisiksi menonlisäyksiksi, jos perheiden ongelmat jäävät etäisyyden vuoksi havaitsematta ajoissa. Varpaisjärven äitiys- ja perheneuvolan säilyttäminen on investointi lasten turvalliseen kasvuun ja koko hyvinvointialueen sosiaaliseen kestävyyteen.\n\nTiia Eskelinen ja Jari Saario kannattivat esitystä.\n\nMinna Back-Hytönen teki vastaesityksen:\n\nKeskustan lautakuntaryhmä esittää palautusta valmisteluun Oravikosken, Timolan, Vehmersalmen ja Varpaisjärven neuvoloiden osalta. Valmistelussa selvitetään lautakunnalle päätöksenteon tueksi: 1. laajemmat kustannus- ja säästöanalyysit 2. tehdään lapsi- ja maaseutuvaikutusten arviointi, lisäksi selvitetään perheiden mahdollisuudet päästä palveluihin julkisella liikenteellä 3. selvitetään mahdollisuudet yhdistää neuvola ja kouluterveydenhuollon vastaanottopäiviä, yhdistelmätehtäviä terveydenhoitajille 4. Selvitetään liikkuvien yhdistelmäpalveluiden järjestämisen mahdollisuudet ja kustannukset alueilla.\n\nJukka Muukka, Juuso Niiranen, Antti Valta ja Jari Saario kannattivat esitystä.\n\nPuheenjohtaja totesi, että koska asiasta on tehty pohjaesityksestä poikkeava vastaesitys ja esitys asian palauttamisesta uudelleen valmisteluun, suoritetaan ensin äänestys Minna Back-Hytösen esityksestä asian palauttamisesta uudelleen valmisteluun.\n\nÄänestyksessä JAA on pohjaesitys ja EI Minna Back-Hytösen vastaesitys.\n\nÄänestyksessä annettiin ääniä seuraavasti:\n\nJAA-ääniä: 1\n\nEI-ääniä: 8\n\nJAA-ääniä antoivat: Paula Korhonen\n\nEI-ääniä antoivat: Minna Back-Hytönen, Tuula Savolainen, Jukka Muukka, Antti Valta, Juuso Niiranen, Kari Riihola, Jari Saario ja Tiia Eskelinen\n\nKoska asia palautuu valmisteluun, Juuso Niirasen vastaehdotuksesta ei äänestetty.\n\nPäätökseksi tuli Minna Back-Hytösen vastaesitys.\n\nÄänestyspöytäkirja on pöytäkirjan liitteenä."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "perhe- ja vammaispalveluiden toimialajohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Perhe- ja vammaispalveluiden lautakunta päättää, että Lapinlahden Varpaisjärven äitiys- ja lastenneuvolapalvelut yhdistetään Lapinlahden neuvolan toimipisteeseen 1.8.2026 alkaen.\n\nEnnakkovaikutusten arviointi\n\nLapinlahden Varpaisjärven äitiys- ja lastenneuvolapalvelujen siirtäminen Lapinlahden neuvolaan pidentää osalla perheistä asiointimatkaa, mutta palvelujen kokonaisuus on jo osittain keskitetty, mikä vähentää muutoksen vaikutusta arkeen. Keskittäminen parantaa palvelujen jatkuvuutta, saatavuutta ja laatua sekä vahvistaa henkilöstön kollegiaalista tukea ja työhyvinvointia. Samalla resurssien käyttö tehostuu ja palvelut yhdenmukaistuvat. Kokonaisuutena muutos tukee palvelujen tarkoituksenmukaista ja kustannustehokasta järjestämistä.\n\nEnnakkovaikutusten arviointi on kuvattu tarkemmin oheisaineistona olevassa erillisessä liitteessä.\n\nToimivallan peruste\nHallintosääntö 41 §, lautakunnan yleiset tehtävät kohta 2\n\nHallintosääntö 41 §, lautakunnan erityistehtävät kohta 1, 2 ja 4\n\nLiitteet ja oheisaineisto\n\nEsityslistan oheisaineistona:\n\nEnnakkovaikutusten arviointi\n\nSiirtoesitys (Power point -esitys)\n\nValmistelu\nLapinlahden Varpaisjärven lastenneuvolapalveluiden asiakasmäärä on tällä hetkellä 62 lasta (0-6 vuotiaita). Äitiysneuvolan asiakkaat asioivat jo Lapinlahden neuvolan toimipisteessä, jossa myös äitiysneuvolan lääkäripalvelut ovat. Lastenneuvolapalvelut on tuotettu siten, että terveydenhoitaja on käynyt Lapinlahden terveysaseman toimipisteeltä Varpaisjärven toimipisteessä kerran viikossa. Lastenneuvolan lääkäripalvelut on toteutettu Varpaisjärven neuvolan toimipisteessä.\n\nLapinlahden Varpaisjärven neuvolan lähin toinen neuvolan toimipiste on Lapinlahden neuvola (etäisyys 22 kilometriä).\n\nYhden työntekijän toimipisteeseen liittyy useita haavoittuvuuksia:\n\nasiakasturvallisuuteen ja työhyvinvointiin liittyvät riskit\n\npalvelun keskeytyminen äkillisten poissaolojen vuoksi ja\n\ntyöntekijän kuormittuminen ja kollegiaalisen tuen puute.\n\nSuurempaan toimipisteeseen siirtyminen mahdollistaa asiakasaikojen riittävyyden ja kohdennetun tuen oikea-aikaisuuden myös henkilöstöpoissaolojen aikana.\n\nToiminnan keskittämisellä saavutetaan kustannussäästöjä erityisesti:\n\nlääkinnällisten laitteiden hankinnoissa\n\nrokotteiden varastoinnissa ja logistiikassa\n\nhoitotarviketilausten keskittämisessä ja päällekkäisten toimintojen vähenemisessä ja\n\nhenkilöstön virantoimitusmatkojen ja tilavuokrien vähenemisellä.\n\nNeuvolatoimintaa ohjaava asetus (93/2026) ei määrittele neuvolapalvelujen sijaintia kunnassa. Lapinlahden Varpaisjärven neuvolapalvelujen keskittäminen Lapinlahden neuvolaan turvaa palvelut asiakkaalle edelleen saman kunnan sisällä toteutuvaksi.\n\nLapinlahden Varpaisjärven toimipisteen äitiys- ja lastenneuvolapalvelujen siirtämistä Lapinlahden terveysasemalla sijaitsevaan neuvolaan esitetään toteutettavaksi 1.8.2026 alkaen. Siirtoesitys pohjautuu perhe- ja vammaispalvelujen R3 uudistuksen toimeenpanosuunnitelmaan ja palveluverkon uudistamiseen.\n\nTavoitteena on turvata Lapinlahden Varpaisjärven alueen lasta odottaville ja alle kouluikäisten lasten perheille tasavertaiset, laadukkaat ja jatkuvat äitiys- ja lastenneuvolapalvelut, vahvistaa henkilöstön työhyvinvointia sekä parantaa asiakas- ja työturvallisuutta."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "217",
+   "title": "Aluevaltuuston 4.5.2026 täytäntöönpanot",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261073-12",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261073-12.PDF",
+   "diary_number": "93/00.01.02.00/2022",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää, että aluevaltuuston 4.5.2026 tekemiä päätöksiä § 13-26 ei ole tehty virheellisessä järjestyksessä eivätkä ne mene valtuuston toimivaltaa ulommaksi tai ei ole muutoin lainvastaisia sekä laittaa ne täytäntöön kokouksessa todetun mukaisesti ja hyväksyy tehdyt täytäntöönpanotoimet.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- aluevaltuuston 4.5.2026 päätökset § 13-26\n\nValmistelu\nHyvinvointialueesta annetun lain 43 §:n mukaan aluehallituksen tulee vastata aluevaltuuston päätösten valmistelusta, täytäntöönpanosta ja laillisuuden valvonnasta.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää, että aluevaltuuston 4.5.2026 tekemiä päätöksiä § 13-26 ei ole tehty virheellisessä järjestyksessä eivätkä ne mene valtuuston toimivaltaa ulommaksi tai ei ole muutoin lainvastaisia sekä laittaa ne täytäntöön kokouksessa todetun mukaisesti ja hyväksyy tehdyt täytäntöönpanotoimet.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\n- aluevaltuuston 4.5.2026 päätökset § 13-26\n\nValmistelu\nHyvinvointialueesta annetun lain 43 §:n mukaan aluehallituksen tulee vastata aluevaltuuston päätösten valmistelusta, täytäntöönpanosta ja laillisuuden valvonnasta."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Aluevaltuusto 4.5.2026 päätökset",
+     "url": "https://pshva.oncloudos.com/kokous/20261073-12-268159.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "218",
+   "title": "Aluevaltuuston 15.6.2026 kokouksen täytäntöönpano",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261073-13",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261073-13.PDF",
+   "diary_number": "93/00.01.02.00/2022",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää, että aluevaltuuston 15.6.2026 tekemiä päätöksiä § 27-42 ei ole tehty virheellisessä järjestyksessä eivätkä ne mene valtuuston toimivaltaa ulommaksi tai ei ole muutoin lainvastaisia sekä laittaa ne täytäntöön kokouksessa todetun mukaisesti ja hyväksyy tehdyt täytäntöönpanotoimet.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nValmistelu\nHyvinvointialueesta annetun lain 43 §:n mukaan aluehallituksen tulee vastata aluevaltuuston päätösten valmistelusta, täytäntöönpanosta ja laillisuuden valvonnasta.",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää, että aluevaltuuston 15.6.2026 tekemiä päätöksiä § 27-42 ei ole tehty virheellisessä järjestyksessä eivätkä ne mene valtuuston toimivaltaa ulommaksi tai ei ole muutoin lainvastaisia sekä laittaa ne täytäntöön kokouksessa todetun mukaisesti ja hyväksyy tehdyt täytäntöönpanotoimet.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nValmistelu\nHyvinvointialueesta annetun lain 43 §:n mukaan aluehallituksen tulee vastata aluevaltuuston päätösten valmistelusta, täytäntöönpanosta ja laillisuuden valvonnasta."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "219",
+   "title": "Oikaisuvaatimus, Hyvinvointialueen asumispalveluyksiköiden asukkaiden vuokrien yhtenäistäminen, Kuopion Hoiva ry",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261073-14",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261073-14.PDF",
+   "diary_number": "5318/02.07.00/2025",
+   "preparer": null,
+   "presenter": "hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus päättää hylätä oikaisuvaatimuksen asiaselosteessa kuvatuin perustein.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nOikaisuvaatimus\n\nSirkku Lappalainen / Kuopion Hoiva ry (”oikaisuvaatimuksen tekijä ”) on toimittanut Pohjois-Savon hyvinvointialueelle 3.6.2026 saapuneen oikaisuvaatimuksen, joka koskee aluehallituksen 18.5. 2026 tekemää päätöstä asumispalveluyksiköiden asukkaiden vuokrien yhtenäistämisestä.\n\nAluehallituksen 18.5.2026 § 162 tekemällä päätöksellä on päätetty:\n\nAsukasvuokrien yhtenäistäminen toteutetaan kustannusperusteisella mallilla huomioiden asuntoihin liittyvät eroavaisuudet esittelytekstin mukaisesti\n\nOlemassa olevien sopimusten yhtenäistäminen toteutetaan vuoden 2027 alusta lähtien. Vuokrankorotukset porrastetaan suurimpien korotustarpeiden (korotus on yli 50 %) osalta siten, että vuosittainen korotus voi maksimissaan olla 50 % kerrallaan, laskettuna kulloisenkin korotuksen hetkellä olevasta vuokrasta\n\nUusissa sopimuksissa käytetään uusia ehtoja heti päätöksenteon jälkeen\n\nOikaisuvaatimus on vastaanotettu oikaisuvaatimuksen tekemiselle säädetyn määräajan kuluessa.\n\nOikaisuvaatimuksen tekijä on vaatinut aluehallituksen päätöksen kumoamista.\n\nOikaisuvaatimuksen tekijä on perustellut vaatimuksiaan seuraavasti:\n\nPuhtaasti kustannusperusteisella mallilla toteutettu asukasvuokrien yhtenäistäminen asettaa vammaiset henkilöt epäyhdenvertaiseen asemaan suhteessa alueen ja asuinkuntansa muihin asukkaisiin eikä ota huomioon alueen vuokratasoa ja kuntakohtaista keskineliöhintaa. Vuokranmäärityksessä tulisi todellisten kustannusten ohella huomioida myös saman alueen tavallisten vuokra-asuntojen vuokrien keskimääräinen taso (huomioiden myös asuinkohteiden kunto, kuten päätetyssä mallissa).\n\nPäätös jättää paljon epäselvyyttä vuokranmäärityksen perusteisiin. Vuokran muodostumiseen vaikuttavat, henkilökohtaisen huoneiston pinta-alan lisäksi sisällytetyt pinta-alaosuudet yhteisistä tiloista pitää avata. Saamiemme tietojen mukaan vuokriin jyvitettyjen yhteisten tilojen osuus on merkittävä ja jopa moninkertainen asukkaan käytössä olevan huoneiston neliömäärään nähden. Vain näin paitsi asiakkaat myös päätöksentekijät voivat arvioida vuokrien muodostumista ja niiden kohtuullisuutta. Vaadimme myös, että hyvinvointialue avaa vuokrien korotusperusteet. Tämä on erityisen tärkeää ARA-rahoitteisten kohteiden osalta, jotta voidaan arvioida, ovatko kaikki kustannukset omakustannevuokraan omakustanneperiaatteen mukaisesti hyväksyttäviä kustannuksia. Vammaispalveluista saa periä vain todellisiin kustannuksiin perustuvia kohtuullisia asiakasmaksuja ja tätä periaatetta tulisi noudattaa myös määritettäessä asumisyksikössä sijaitsevan asunnon vuokraa, koska vuokra täytyy tosiasiassa maksaa, jotta asukas voi saada välttämättä tarvitsemansa asumisen tuen palvelun.\n\nPäätöksen mukainen vuosittaisten korotusten enimmäismäärä on merkittävästi hyvän vuokratavan ohjeen mukaista suositusta suurempi (https://vuokranantajat.fi/wpcontent/uploads/2019/11/Hyv%C3%A4-vuokratapa-2018.pdf). Pääsääntöisesti on katsottu, että asuinhuoneiston vuokran maksimikorotus per vuosi on 15 % pois lukien tilanteet, joissa tehdään vuokrattavan kohteen vuokra-arvoa merkittävästi kohottavia korjauksia. Tietojemme mukaan osa hyvinvointialueista on hyväksynyt enimmäisvuosikorotukseksi 15 %. Katsommekin, että päätöksen mukainen, jopa 50 % vuosikorotus on kohtuuton, eikä vastaa alan ohjeistuksia ja vuokramarkkinoiden vakiintuneita käytäntöjä.\n\nPäätös ja sen perustelut\n\nVaatimuksen perusteluista voidaan todeta seuraavaa:\n\nOikaisuvaatimuksen mukaan puhtaasti kustannusperusteinen malli asettaisi vammaiset henkilöt epäyhdenvertaiseen asemaan suhteessa alueen ja asuinkuntansa muihin asiakkaisiin.\n\nKustannusperusteinen malli huomioiden asuntokohtaiset eroavaisuudet on kaikille hyvinvointialueen asumisyksiköille ja asukkaile yhdenvertainen. Kustannusperusteinen malli perustuu todellisiin kiinteistökustannuksiin ja ottaa siten huomioon rakennuksen iän, kunnon, tehdyt investoinnit ja sijainnin. Kustannusperusteinen malli rajoittuu KELA:n eläkkeensaajan asumistuen enimmäismääriin, jotka ovat Kuopiossa 712 €/kk ja muualla Pohjois-Savossa 624 €/kk. Mikäli kiinteistökustannukset ovat suuremmat kuin KELA:n eläkkeensaajan asumistuen enimmäismäärät, jäävät kustannukset hyvinvointialueen katettaviksi.\n\nOikaisuvaatimuksen mukaan päätös jättää paljon epäselvyyttä vuokranmääritysperusteisiin kuten esimerkiksi sen, millä perusteilla yhteisten tilojen kustannukset jyvitetään asukasvuokriin.\n\nVuokranmääritys perustuu sekä asunnon neliöihin sekä kaikille tasaisesti jaettuun osuuteen yhteisistä tiloista. Näiden perusteella muodostuu vuokra-ala ja sitä kautta vuokran määrä. Asumisyksiköissä yhteiset tilat jyvitetään tasaisesti samanlaajuisina kaikille asukkaille. Joissain asumisyksiköissä yhteisistä tiloista aiheutuva pinta-ala voi olla suurempi kuin asuinhuoneen pinta-ala. Jyvitettyjen yleisten tilojen neliökustannus on yhtä suuri kuin asuinhuoneistojen neliökustannus. ARA-rahoitteisissa kohteissa noudatetaan ARA -säädösten mukaista laskentaperustetta yleisten tilojen osalta.\n\nOikaisuvaatimuksen mukaan päätöksen mukainen vuosittaisten korotusten enimmäismäärä on merkittävästi hyvän vuokratavan ohjeen mukaista suositusta suurempi. Nykyisellään asiakkaiden vuokrat ja vuokrasopimusten ehdot eivät ole yhdenvertaisia, ja vuokrataso on jäänyt jälkeen kiinteistöjen kustannuskehityksestä. Joidenkin asiakkaiden kohdalla sopimuksen mukaiset vuokrankorotukset ovat jääneet tekemättä vuosien varrella, jonka johdosta peritty vuokra on jäänyt liian alhaiseksi. Tämän johdosta asumisyksiköiden asukkaiden vuokrat eivät ole tällä hetkellä yhdenvertaiset. Yhtenäisten vuokraperusteiden johdosta kaikkien asukkaiden vuokrat eivät nouse ja voivat osalla jopa laskea. Kokonaisuutena vuokrat nousevat päätösten mukaisten korotusten jälkeen noin 10 %.\n\nYhteenveto\n\nOikaisuvaatimus tulee hylätä perustettomana.",
+   "decision": "Juha Pitkänen esitti, että:\n\nAluehallitus yhtyy oikaisuvaatimukseen ja kumoaa tekemänsä päätöksen.\n\nPuheenjohtaja totesi, että esitystä ei ole kannatettu ja se raukeaa kannattamattomana.\n\nPäätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelija(t)\nPetri Pyy, Janne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Juha Pitkänen esitti, että:\n\nAluehallitus yhtyy oikaisuvaatimukseen ja kumoaa tekemänsä päätöksen.\n\nPuheenjohtaja totesi, että esitystä ei ole kannatettu ja se raukeaa kannattamattomana.\n\nPäätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus päättää hylätä oikaisuvaatimuksen asiaselosteessa kuvatuin perustein.\n\nEnnakkovaikutusten arviointi\n\nEi ennakkovaikutusten arvioinnin piirissä.\n\nToimivallan peruste\nHallintosääntö § 36\n\nLiitteet ja oheisaineisto\n\nEsityslistan liitteenä:\n\nEsityslistan oheisaineistona:\n\nValmistelu\nOikaisuvaatimus\n\nSirkku Lappalainen / Kuopion Hoiva ry (”oikaisuvaatimuksen tekijä ”) on toimittanut Pohjois-Savon hyvinvointialueelle 3.6.2026 saapuneen oikaisuvaatimuksen, joka koskee aluehallituksen 18.5. 2026 tekemää päätöstä asumispalveluyksiköiden asukkaiden vuokrien yhtenäistämisestä.\n\nAluehallituksen 18.5.2026 § 162 tekemällä päätöksellä on päätetty:\n\nAsukasvuokrien yhtenäistäminen toteutetaan kustannusperusteisella mallilla huomioiden asuntoihin liittyvät eroavaisuudet esittelytekstin mukaisesti\n\nOlemassa olevien sopimusten yhtenäistäminen toteutetaan vuoden 2027 alusta lähtien. Vuokrankorotukset porrastetaan suurimpien korotustarpeiden (korotus on yli 50 %) osalta siten, että vuosittainen korotus voi maksimissaan olla 50 % kerrallaan, laskettuna kulloisenkin korotuksen hetkellä olevasta vuokrasta\n\nUusissa sopimuksissa käytetään uusia ehtoja heti päätöksenteon jälkeen\n\nOikaisuvaatimus on vastaanotettu oikaisuvaatimuksen tekemiselle säädetyn määräajan kuluessa.\n\nOikaisuvaatimuksen tekijä on vaatinut aluehallituksen päätöksen kumoamista.\n\nOikaisuvaatimuksen tekijä on perustellut vaatimuksiaan seuraavasti:\n\nPuhtaasti kustannusperusteisella mallilla toteutettu asukasvuokrien yhtenäistäminen asettaa vammaiset henkilöt epäyhdenvertaiseen asemaan suhteessa alueen ja asuinkuntansa muihin asukkaisiin eikä ota huomioon alueen vuokratasoa ja kuntakohtaista keskineliöhintaa. Vuokranmäärityksessä tulisi todellisten kustannusten ohella huomioida myös saman alueen tavallisten vuokra-asuntojen vuokrien keskimääräinen taso (huomioiden myös asuinkohteiden kunto, kuten päätetyssä mallissa).\n\nPäätös jättää paljon epäselvyyttä vuokranmäärityksen perusteisiin. Vuokran muodostumiseen vaikuttavat, henkilökohtaisen huoneiston pinta-alan lisäksi sisällytetyt pinta-alaosuudet yhteisistä tiloista pitää avata. Saamiemme tietojen mukaan vuokriin jyvitettyjen yhteisten tilojen osuus on merkittävä ja jopa moninkertainen asukkaan käytössä olevan huoneiston neliömäärään nähden. Vain näin paitsi asiakkaat myös päätöksentekijät voivat arvioida vuokrien muodostumista ja niiden kohtuullisuutta. Vaadimme myös, että hyvinvointialue avaa vuokrien korotusperusteet. Tämä on erityisen tärkeää ARA-rahoitteisten kohteiden osalta, jotta voidaan arvioida, ovatko kaikki kustannukset omakustannevuokraan omakustanneperiaatteen mukaisesti hyväksyttäviä kustannuksia. Vammaispalveluista saa periä vain todellisiin kustannuksiin perustuvia kohtuullisia asiakasmaksuja ja tätä periaatetta tulisi noudattaa myös määritettäessä asumisyksikössä sijaitsevan asunnon vuokraa, koska vuokra täytyy tosiasiassa maksaa, jotta asukas voi saada välttämättä tarvitsemansa asumisen tuen palvelun.\n\nPäätöksen mukainen vuosittaisten korotusten enimmäismäärä on merkittävästi hyvän vuokratavan ohjeen mukaista suositusta suurempi (https://vuokranantajat.fi/wpcontent/uploads/2019/11/Hyv%C3%A4-vuokratapa-2018.pdf). Pääsääntöisesti on katsottu, että asuinhuoneiston vuokran maksimikorotus per vuosi on 15 % pois lukien tilanteet, joissa tehdään vuokrattavan kohteen vuokra-arvoa merkittävästi kohottavia korjauksia. Tietojemme mukaan osa hyvinvointialueista on hyväksynyt enimmäisvuosikorotukseksi 15 %. Katsommekin, että päätöksen mukainen, jopa 50 % vuosikorotus on kohtuuton, eikä vastaa alan ohjeistuksia ja vuokramarkkinoiden vakiintuneita käytäntöjä.\n\nPäätös ja sen perustelut\n\nVaatimuksen perusteluista voidaan todeta seuraavaa:\n\nOikaisuvaatimuksen mukaan puhtaasti kustannusperusteinen malli asettaisi vammaiset henkilöt epäyhdenvertaiseen asemaan suhteessa alueen ja asuinkuntansa muihin asiakkaisiin.\n\nKustannusperusteinen malli huomioiden asuntokohtaiset eroavaisuudet on kaikille hyvinvointialueen asumisyksiköille ja asukkaile yhdenvertainen. Kustannusperusteinen malli perustuu todellisiin kiinteistökustannuksiin ja ottaa siten huomioon rakennuksen iän, kunnon, tehdyt investoinnit ja sijainnin. Kustannusperusteinen malli rajoittuu KELA:n eläkkeensaajan asumistuen enimmäismääriin, jotka ovat Kuopiossa 712 €/kk ja muualla Pohjois-Savossa 624 €/kk. Mikäli kiinteistökustannukset ovat suuremmat kuin KELA:n eläkkeensaajan asumistuen enimmäismäärät, jäävät kustannukset hyvinvointialueen katettaviksi.\n\nOikaisuvaatimuksen mukaan päätös jättää paljon epäselvyyttä vuokranmääritysperusteisiin kuten esimerkiksi sen, millä perusteilla yhteisten tilojen kustannukset jyvitetään asukasvuokriin.\n\nVuokranmääritys perustuu sekä asunnon neliöihin sekä kaikille tasaisesti jaettuun osuuteen yhteisistä tiloista. Näiden perusteella muodostuu vuokra-ala ja sitä kautta vuokran määrä. Asumisyksiköissä yhteiset tilat jyvitetään tasaisesti samanlaajuisina kaikille asukkaille. Joissain asumisyksiköissä yhteisistä tiloista aiheutuva pinta-ala voi olla suurempi kuin asuinhuoneen pinta-ala. Jyvitettyjen yleisten tilojen neliökustannus on yhtä suuri kuin asuinhuoneistojen neliökustannus. ARA-rahoitteisissa kohteissa noudatetaan ARA -säädösten mukaista laskentaperustetta yleisten tilojen osalta.\n\nOikaisuvaatimuksen mukaan päätöksen mukainen vuosittaisten korotusten enimmäismäärä on merkittävästi hyvän vuokratavan ohjeen mukaista suositusta suurempi. Nykyisellään asiakkaiden vuokrat ja vuokrasopimusten ehdot eivät ole yhdenvertaisia, ja vuokrataso on jäänyt jälkeen kiinteistöjen kustannuskehityksestä. Joidenkin asiakkaiden kohdalla sopimuksen mukaiset vuokrankorotukset ovat jääneet tekemättä vuosien varrella, jonka johdosta peritty vuokra on jäänyt liian alhaiseksi. Tämän johdosta asumisyksiköiden asukkaiden vuokrat eivät ole tällä hetkellä yhdenvertaiset. Yhtenäisten vuokraperusteiden johdosta kaikkien asukkaiden vuokrat eivät nouse ja voivat osalla jopa laskea. Kokonaisuutena vuokrat nousevat päätösten mukaisten korotusten jälkeen noin 10 %.\n\nYhteenveto\n\nOikaisuvaatimus tulee hylätä perustettomana."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "220",
+   "title": "Viranhaltijapäätösten tarkastaminen 26.5.2026-9.6.2026",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261073-15",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261073-15.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Toimielimen puheenjohtaja",
+   "proposal": "Aluehallitus ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Aluehallitus hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 57 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava aluehallitukselle niistä päätöksistä, jotka voidaan ottaa aluehallituksen käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava aluehallituksen alaisten viranhaltijoiden osalta aluehallitukselle.\n\nAluehallituksen alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa aluehallituksen puheenjohtajalle ja hyvinvointialuejohtajalle.\n\nAluehallitukselle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 26.5.2026-9.6.2026",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Viranhaltijapäätösten tarkastaminen 26.5.2026-9.6.2026"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Toimielimen puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus ei käytä otto-oikeutta viranhaltijoiden päätöksiin. Aluehallitus hyväksyy viranhaltijapöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nHyvinvointialueen hallintosäännön 57 §:n mukaan asia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nToimielimen on neljän päivän kuluessa pöytäkirjan tarkastamisesta ilmoitettava aluehallitukselle niistä päätöksistä, jotka voidaan ottaa aluehallituksen käsiteltäväksi.\n\nViranhaltijapäätösten osalta viranhaltijan on neljän päivän kuluessa päätöksen allekirjoittamisesta ilmoitettava aluehallituksen alaisten viranhaltijoiden osalta aluehallitukselle.\n\nAluehallituksen alaisten viranhaltijoiden viranhaltijapäätösluettelot toimitetaan kaksi kertaa viikossa aluehallituksen puheenjohtajalle ja hyvinvointialuejohtajalle.\n\nAluehallitukselle ei ilmoiteta eikä sillä ole otto-oikeutta henkilöstöpäätöksiin, jotka koskevat henkilöstöasioita, jotka on mainittu hallintosäännön luvussa ”Toimivalta henkilöstöasioissa”.\n\nEsityslistan lisäaineistona jaetaan:\n\n- viranhaltijapäätösluettelo ajalta 26.5.2026-9.6.2026"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Viranhaltijapäätösluettelo 26.5-10.6.2026 otsikot",
+     "url": "https://pshva.oncloudos.com/kokous/20261073-15-268145.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "221",
+   "title": "Lautakuntien ja jaostojen päätösten tarkistaminen",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261073-16",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261073-16.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Toimielimen puheenjohtaja",
+   "proposal": "Aluehallitus ei käytä otto-oikeutta toimielinten päätöksiin. Aluehallitus hyväksyy pöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nPohjois-Savon hyvinvointialueen hallintosäännössä § 57-59 on määritelty otto-oikeuden käytöstä seuraavaa:\n\nAsian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nAluehallituksella ei ole otto-oikeutta hyvinvointialueiden yhteisen toimielimen tekemiin päätöksiin.\n\nAsia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nYlemmän toimielimen käsiteltäväksi ei kuitenkaan saa ottaa:\n\n1) lain tai asetuksen mukaisia lupa-, ilmoitus- tai valvontamenettelyä koskevia asioita\n\n2) yksilöön kohdistuvia terveydenhuollon tai sosiaalitoimen asioita\n\n3) hyvinvointialuelain 54 §:ssä tarkoitetulle hyvinvointialueiden yhteiselle toimielimelle siirrettyjä asioita, jos asianomaiset hyvinvointialueet niin sopiva\n\nAsia voidaan hyvinvointialuelain 97 §:n mukaisesti ottaa lautakunnan käsiteltäväksi, jollei ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nAsian ottamisesta lautakunnan käsiteltäväksi voi päättää lautakunta, lautakunnan puheenjohtaja ja lautakunnan esittelijä.\n\nAluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan. Ilmoitus tehdään sähköisesti aluehallituksen puheenjohtajalle ja esittelijälle.\n\nPäätökset niissä asioissa, joista ei tarvitse ilmoittaa, voidaan otto-oikeuden estämättä panna täytäntöön, jollei yksittäistapauksessa ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nEsityslistan lisäaineistona jaetaan pöytäkirjat:\n\n- Ikäihmisten ja hoivapalveluiden lautakunta 21.5.2026\n\n- Perhe- ja vammaispalveluiden lautakunta 8.6.2026\n\n- Yleisten palveluiden lautakunta 27.5.2026\n\n- Kokonaisturvallisuuslautakunta\n\n- Asiakaskokemusjaosto\n\n- Tulevaisuus- ja strategiajaosto 22.5.2026\n\n- Omistajaohjaus- ja talousjaosto",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Lautakuntien ja jaostojen päätösten tarkistaminen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Toimielimen puheenjohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus ei käytä otto-oikeutta toimielinten päätöksiin. Aluehallitus hyväksyy pöytäkirjat ja merkitsee tietoon saatetuksi.\n\nValmistelu\nPohjois-Savon hyvinvointialueen hallintosäännössä § 57-59 on määritelty otto-oikeuden käytöstä seuraavaa:\n\nAsian ottamisesta aluehallituksen käsiteltäväksi voi päättää aluehallitus, aluehallituksen puheenjohtaja ja hyvinvointialuejohtaja.\n\nAluehallituksella ei ole otto-oikeutta hyvinvointialueiden yhteisen toimielimen tekemiin päätöksiin.\n\nAsia on otettava ylemmän toimielimen käsiteltäväksi sen ajan kuluessa, jossa hyvinvointialuelain 139 §:ssä tarkoitettu oikaisuvaatimus päätöksestä on tehtävä.\n\nYlemmän toimielimen käsiteltäväksi ei kuitenkaan saa ottaa:\n\n1) lain tai asetuksen mukaisia lupa-, ilmoitus- tai valvontamenettelyä koskevia asioita\n\n2) yksilöön kohdistuvia terveydenhuollon tai sosiaalitoimen asioita\n\n3) hyvinvointialuelain 54 §:ssä tarkoitetulle hyvinvointialueiden yhteiselle toimielimelle siirrettyjä asioita, jos asianomaiset hyvinvointialueet niin sopiva\n\nAsia voidaan hyvinvointialuelain 97 §:n mukaisesti ottaa lautakunnan käsiteltäväksi, jollei ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nAsian ottamisesta lautakunnan käsiteltäväksi voi päättää lautakunta, lautakunnan puheenjohtaja ja lautakunnan esittelijä.\n\nAluehallituksen alaisen viranomaisen on ilmoitettava aluehallitukselle tekemistään ottokelpoisista päätöksistä lukuun ottamatta sellaisia asioita tai asiaryhmiä, joista aluehallitus on päättänyt, ettei se käytä otto-oikeuttaan. Ilmoitus tehdään sähköisesti aluehallituksen puheenjohtajalle ja esittelijälle.\n\nPäätökset niissä asioissa, joista ei tarvitse ilmoittaa, voidaan otto-oikeuden estämättä panna täytäntöön, jollei yksittäistapauksessa ole ilmoitettu asian ottamisesta aluehallituksen käsiteltäväksi.\n\nEsityslistan lisäaineistona jaetaan pöytäkirjat:\n\n- Ikäihmisten ja hoivapalveluiden lautakunta 21.5.2026\n\n- Perhe- ja vammaispalveluiden lautakunta 8.6.2026\n\n- Yleisten palveluiden lautakunta 27.5.2026\n\n- Kokonaisturvallisuuslautakunta\n\n- Asiakaskokemusjaosto\n\n- Tulevaisuus- ja strategiajaosto 22.5.2026\n\n- Omistajaohjaus- ja talousjaosto"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "222",
+   "title": "Aluehallitukselle tiedoksi annettavat lausuntopyynnöt ja lausunnot",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261073-17",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261073-17.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": "Hyvinvointialuejohtaja",
+   "proposal": "Aluehallitus merkitsee saapuneet lausuntopyynnöt ja annetut lausunnot tiedoksi.\n\nToimivallan peruste\nhallintosääntö 36 §\n\nValmistelu\nAluehallituksen 2.10.2023 § 308 mukaisesti aluehallitus päättää hallintosäännön määräyksiä noudattaen, että merkittävät lausunnot esim. hyvinvointialueiden rahoitukseen, lainsäädäntöön liittyvät ja niihin rinnasteiset lausunnot antaa aluehallitus. Lausunnon merkittävyys arvioidaan asian valmistelussa.\n\nPohjois-Savon hyvinvointialueen hallintosäännön määräykset lausuntojen antamisesta antavat mahdollisuuden viranhaltijoille antaa lausuntoja tietyissä rajoissa. Mikäli annettavat lausunnot eivät ole viranhaltijoiden toimivallassa, antaa niistä lausunnot aluehallitus.\n\nLausuntopyyntöihin vastaamiselle annettu määräaika on yleensä niin lyhyt, ettei lausuntojen käsittely aluehallituksessa ole mahdollista.\n\nSaapuneet lausuntopyynnöt:\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta sosiaali- ja terveysministeriön asetukseksi rokotuksista annetun sosiaali- ja terveysministeriön asetuksen muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laiksi lääkkeiden velvoitevarastoinnista annetun lain muuttamisesta sekä valtioneuvoston asetukseksi lääkkeiden velvoitevarastoinnista annetun valtioneuvoston asetuksen muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta valtioneuvoston asetukseksi sairaankuljetuksen kustannusten korvaustaksasta annetun valtioneuvoston asetuksen muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi laiksi ihmisessä käytettäväksi tarkoitettujen ihmisperäisten aineiden käytöstä (SoHO-asetuksen täytäntöönpano)\n\n- Valtiovarainministeriön lausuntopyyntö valtion yhteisten tieto- ja viestintäteknisten palvelujen järjestämisen tavoitetila\n\n- Sisäministeriön lausuntopyyntö, hallituksen esitys eduskunnalle laeiksi pelastuslain, ajoneuvolain 30 §:n ja autoverolain 14 §:n muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö, Luonnos hallituksen esitykseksi laeiksi huumausainelain ja sähköisestä lääkemääräyksestä annetun lain 3 §:n muuttamisesta\n\n- Oikeusministeriön lausuntopyyntö, Naisiin kohdistuvan väkivallan ja perheväkivallan torjumisesta annetun direktiivin (NKV-direktiivi) täytäntöönpano; työryhmän mietintö\n\n- Työ- ja elinkeinoministeriön lausuntopyyntö, luonnoksesta hallituksen esitykseksi työvoimapalveluiden järjestämisestä annetun lain ja työttömyysturvalain muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta hallituksen esitykseksi laiksi sosiaali- ja terveydenhuollon järjestämisestä annetun lain muuttamisesta (DigiFinland Oy)\n\nAnnetut lausunnot:\n\n- Pohjois-Savon hyvinvointialueen lausunto, hallituksen esitys eduskunnalle laeiksi hyvinvointialueiden rahoituksesta annetun lain ja saariston kehityksen edistämisestä annetun lain muuttamisesta\n\n- Pohjois-Savon hyvinvointialueen lausunto luonnoksesta hallituksen esitykseksi eduskunnalle apteekkitoiminnan kehittämistä koskevaksi lainsäädännöksi\n\n- Lausunto STM:lle luonnoksesta hallituksen esitykseksi laiksi opioidiyliannostusten vastalääkkeistä sekä laiksi lääkelain muuttamisesta",
+   "decision": "Päätösehdotus hyväksyttiin.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Aluehallitukselle tiedoksi annettavat lausuntopyynnöt ja lausunnot\n\nValmistelija(t)\nJanne Niemeläinen"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Päätösehdotus hyväksyttiin."
+    },
+    {
+     "heading": "Esittelijä",
+     "text": "Hyvinvointialuejohtaja"
+    },
+    {
+     "heading": "Päätösehdotus",
+     "text": "Aluehallitus merkitsee saapuneet lausuntopyynnöt ja annetut lausunnot tiedoksi.\n\nToimivallan peruste\nhallintosääntö 36 §\n\nValmistelu\nAluehallituksen 2.10.2023 § 308 mukaisesti aluehallitus päättää hallintosäännön määräyksiä noudattaen, että merkittävät lausunnot esim. hyvinvointialueiden rahoitukseen, lainsäädäntöön liittyvät ja niihin rinnasteiset lausunnot antaa aluehallitus. Lausunnon merkittävyys arvioidaan asian valmistelussa.\n\nPohjois-Savon hyvinvointialueen hallintosäännön määräykset lausuntojen antamisesta antavat mahdollisuuden viranhaltijoille antaa lausuntoja tietyissä rajoissa. Mikäli annettavat lausunnot eivät ole viranhaltijoiden toimivallassa, antaa niistä lausunnot aluehallitus.\n\nLausuntopyyntöihin vastaamiselle annettu määräaika on yleensä niin lyhyt, ettei lausuntojen käsittely aluehallituksessa ole mahdollista.\n\nSaapuneet lausuntopyynnöt:\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta sosiaali- ja terveysministeriön asetukseksi rokotuksista annetun sosiaali- ja terveysministeriön asetuksen muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laiksi lääkkeiden velvoitevarastoinnista annetun lain muuttamisesta sekä valtioneuvoston asetukseksi lääkkeiden velvoitevarastoinnista annetun valtioneuvoston asetuksen muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta valtioneuvoston asetukseksi sairaankuljetuksen kustannusten korvaustaksasta annetun valtioneuvoston asetuksen muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi laiksi ihmisessä käytettäväksi tarkoitettujen ihmisperäisten aineiden käytöstä (SoHO-asetuksen täytäntöönpano)\n\n- Valtiovarainministeriön lausuntopyyntö valtion yhteisten tieto- ja viestintäteknisten palvelujen järjestämisen tavoitetila\n\n- Sisäministeriön lausuntopyyntö, hallituksen esitys eduskunnalle laeiksi pelastuslain, ajoneuvolain 30 §:n ja autoverolain 14 §:n muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö, Luonnos hallituksen esitykseksi laeiksi huumausainelain ja sähköisestä lääkemääräyksestä annetun lain 3 §:n muuttamisesta\n\n- Oikeusministeriön lausuntopyyntö, Naisiin kohdistuvan väkivallan ja perheväkivallan torjumisesta annetun direktiivin (NKV-direktiivi) täytäntöönpano; työryhmän mietintö\n\n- Työ- ja elinkeinoministeriön lausuntopyyntö, luonnoksesta hallituksen esitykseksi työvoimapalveluiden järjestämisestä annetun lain ja työttömyysturvalain muuttamisesta\n\n- Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta hallituksen esitykseksi laiksi sosiaali- ja terveydenhuollon järjestämisestä annetun lain muuttamisesta (DigiFinland Oy)\n\nAnnetut lausunnot:\n\n- Pohjois-Savon hyvinvointialueen lausunto, hallituksen esitys eduskunnalle laeiksi hyvinvointialueiden rahoituksesta annetun lain ja saariston kehityksen edistämisestä annetun lain muuttamisesta\n\n- Pohjois-Savon hyvinvointialueen lausunto luonnoksesta hallituksen esitykseksi eduskunnalle apteekkitoiminnan kehittämistä koskevaksi lainsäädännöksi\n\n- Lausunto STM:lle luonnoksesta hallituksen esitykseksi laiksi opioidiyliannostusten vastalääkkeistä sekä laiksi lääkelain muuttamisesta"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Oheismateriaali 1 Pohjois-Savon hyvinvointialueen lausunto HE 56⁄2026 vp hallituksen esitys laeiksi hyvinvointialueiden rahoituksesta annetun lain ja saariston kehityksen edistämisestä annetun lain muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/20261073-17-265389.PDF"
+    },
+    {
+     "title": "Oheismateriaali 2 Pohjois-Savon hyvinvointialueen lausunto luonnoksesta hallituksen esitykseksi eduskunnalle apteekkitoiminnan kehittämistä koskevaksi lainsäädännöksi",
+     "url": "https://pshva.oncloudos.com/kokous/20261073-17-264625.PDF"
+    },
+    {
+     "title": "Oheismateriaali 3 Lausunto STM:lle luonnoksesta hallituksen esitykseksi laiksi opioidiyliannostusten vastalääkkeistä sekä laiksi lääkelain muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/20261073-17-265750.PDF"
+    },
+    {
+     "title": "Oheismateriaali 4 Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta sosiaali- ja terveysministeriön asetukseksi rokotuksista annetun sosiaali- ja terveysministeriön asetuksen muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/20261073-17-266476.PDF"
+    },
+    {
+     "title": "Oheismateriaali 5 Lausuntopyyntö luonnoksesta hallituksen esitykseksi eduskunnalle laiksi lääkkeiden velvoitevarastoinnista annetun lain muuttamisesta sekä valtioneuvoston asetukseksi lääkkeiden velvoitevarastoinnista annetun valtioneuvoston asetuksen muuttamisesta, STM",
+     "url": "https://pshva.oncloudos.com/kokous/20261073-17-266435.PDF"
+    },
+    {
+     "title": "Oheismateriaali 6 Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta valtioneuvoston asetukseksi sairaankuljetuksen kustannusten korvaustaksasta annetun valtioneuvoston asetuksen muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/20261073-17-266458.PDF"
+    },
+    {
+     "title": "Oheismateriaali 7 Sosiaali- ja terveysministeriön lausuntopyyntö luonnoksesta hallituksen esitykseksi laiksi ihmisessä käytettäväksi tarkoitettujen ihmisperäisten aineiden käytöstä (SoHO-asetuksen täytäntöönpano)",
+     "url": "https://pshva.oncloudos.com/kokous/20261073-17-265417.PDF"
+    },
+    {
+     "title": "Oheismateriaali 8 Valtiovarainministeriön lausuntopyyntö 5.6.2026, valtion yhteisten tieto- ja viestintäteknisten palvelujen järjestämisen tavoitetila",
+     "url": "https://pshva.oncloudos.com/kokous/20261073-17-267263.PDF"
+    },
+    {
+     "title": "Oheismateriaali 9 Sisäministeriön lausuntopyyntö, hallituksen esitys eduskunnalle laeiksi pelastuslain, ajoneuvolain 30 §:n ja autoverolain 14 §:n muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/20261073-17-267285.PDF"
+    },
+    {
+     "title": "Oheismateriaali 10 Sosiaali- ja terveysministeriön lausuntopyyntö, Luonnos hallituksen esitykseksi laeiksi huumausainelain ja sähköisestä lääkemääräyksestä annetun lain 3 §_n muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/20261073-17-267557.PDF"
+    },
+    {
+     "title": "Oheismateriaali 11 Lausunto Sosiaali- ja terveysministeriön luonnoksesta valtioneuvoston asetukseksi sairaankuljetuksen kustannusten korvaustaksasta annetun valtioneuvoston asetuksen muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/20261073-17-266745.PDF"
+    },
+    {
+     "title": "Oheismateriaali 12 Oikeusministeriön lausuntopyyntö, Naisiin kohdistuvan väkivallan ja perheväkivallan torjumisesta annetun direktiivin (NKV-direktiivi) täytäntöönpano; työryhmän mietintö",
+     "url": "https://pshva.oncloudos.com/kokous/20261073-17-268376.PDF"
+    },
+    {
+     "title": "Oheismateriaali 13 Työ- ja elinkeinoministeriön lausuntopyyntö, luonnoksesta hallituksen esitykseksi työvoimapalveluiden järjestämisestä annetun lain ja työttömyysturvalain muuttamisesta",
+     "url": "https://pshva.oncloudos.com/kokous/20261073-17-268399.PDF"
+    },
+    {
+     "title": "Oheismateriaali 14 Sosiaali- ja terveysministeriön lausuntopyyntö, luonnoksesta hallituksen esitykseksi laiksi sosiaali- ja terveydenhuollon järjestämisestä annetun lain muuttamisesta (DigiFinland Oy)",
+     "url": "https://pshva.oncloudos.com/kokous/20261073-17-268455.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "223",
+   "title": "Muut asiat",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261073-18",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261073-18.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Aluehallitus merkitsee tiedoksi.\n\nH23 verkoston terveiset ja hyvinvointialueiden yhteiset ajankohtaiset asiat, Marko Korhonen",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Muut asiat"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Aluehallitus merkitsee tiedoksi.\n\nH23 verkoston terveiset ja hyvinvointialueiden yhteiset ajankohtaiset asiat, Marko Korhonen"
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "224",
+   "title": "Oikaisuvaatimus potilasrekisteritietojen korjaukseen (JulkL 24 §, kohta 25)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261073-19",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261073-19.PDF",
+   "diary_number": "2587/06.03.03/2024",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Valmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "225",
+   "title": "Oikaisuvaatimus, kadonneet vaatteet ja liinavaatteet (JulkL 24 §, kohta 25)",
+   "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20261073-20",
+   "pdf_url": "https://pshva.oncloudos.com/kokous/20261073-20.PDF",
+   "diary_number": "2089/03.06.02/2025",
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": null,
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Puheenjohtaja päätti kokouksen klo 20.49.\n\nValmistelu\nAsian salassapidon vuoksi päätösehdotus, päätös ja asian käsittelyyn liittyvät liitteet jaetaan aluehallitukselle ja säilytetään asianhallintajärjestelmässä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Raatikainen Riitta",
+   "role": "aluehallituksen puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Hedman Pia",
+   "role": "aluehallituksen 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Rossi Markku",
+   "role": "aluehallituksen 2. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Kanniainen Aino",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Lötjönen Vesa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Miettinen Heikki",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Pitkänen Juha",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Rautiainen Merja",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Suna Sassa",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Taipale Pekka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Vornanen Ahti-Pekka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Väätäinen Tuula",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Åhman Kati",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Kokki Hannu",
+   "role": "aluevaltuuston puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Pellikka Minna",
+   "role": "aluevaltuuston 1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Korhonen Marko",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Antikainen Mari",
+   "role": "henkilöstöjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Hedman Antti",
+   "role": "vastaava lääkäri",
+   "group": "other"
+  },
+  {
+   "name": "Janhonen Kari",
+   "role": "talousjohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Jestola Eija",
+   "role": "toimilinjajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kantanen Kati",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Koponen Jukka",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Korhonen Mikko",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Lampi Jussi",
+   "role": "strategiajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Mykkänen Minna",
+   "role": "johtaja ylihoitaja",
+   "group": "other"
+  },
+  {
+   "name": "Pekkarinen Tuomo",
+   "role": "tietohallintojohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Remes Sami",
+   "role": "toimilinjajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Saarinen Jari",
+   "role": "toimialajohtaja",
+   "group": "other"
+  },
+  {
+   "name": "Kauppinen Virpi",
+   "role": "tekninen sihteeri",
+   "group": "other"
+  },
+  {
+   "name": "Räsänen Henna",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Ryynänen Anu",
+   "role": "asiantuntija",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://pshva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20261073",
+  "fetched_at": "2026-10-14T17:59:09+00:00",
+  "content_hash": "bbaf8d98793ff526",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T17:59:09+00:00"
+ }
+}

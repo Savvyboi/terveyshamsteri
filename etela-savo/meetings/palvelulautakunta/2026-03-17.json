@@ -1,0 +1,334 @@
+{
+ "id": "palvelulautakunta/2026-03-17",
+ "region": "etela-savo",
+ "body_id": "palvelulautakunta",
+ "body_name": "Palvelulautakunta",
+ "date": "2026-03-17",
+ "stage": "minutes",
+ "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026362",
+ "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026362.PDF",
+ "time": "15:00 - 17:00",
+ "place": null,
+ "language": "fi",
+ "items": [
+  {
+   "number": "7",
+   "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026362-1",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026362-1.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": null,
+   "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Kokouskutsun antaa puheenjohtaja tai hänen estyneenä ollessaan varapuheenjohtaja.\n\nKokouskutsussa on ilmoitettava kokouksen aika ja paikka sekä käsiteltävät asiat. Kokouskutsu lähetetään vähintään neljä päivää ennen kokousta. Kirjallinen kutsu on toimitettu jäsenille sähköpostitse 13.3.2026.\n\nEsityslista, joka sisältää selostuksen käsiteltävistä asioista ja ehdotukset toimielimen päätöksiksi, lähetetään kokouskutsun yhteydessä, jollei erityiset syyt ole esteenä.\n\nKokouskutsu lähetetään jäsenille ja muille, joilla on läsnäolo-oikeus tai -velvollisuus toimielimen päättämällä tavalla.\n\nKokouskutsu, esityslista, liitteet ja oheismateriaali lähetetään ensisijaisesti sähköisesti. Tällöin valmistelutoimielin tai sen nimeämä viranhaltija vastaa siitä, että tähän tarvittavat tekniset laitteet, järjestelmät ja tietoliikenneyhteydet ovat käytettävissä. Salassa pidettäviä tietoja voidaan lähettää vain suojatulla yhteydellä.\n\nTodetaan läsnäolijat sähköisessä kokoushallintajärjestelmässä. Kokous on päätösvaltainen kun yli puolet jäsenistä on läsnä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Kokous todettiin lailliseksi ja päätösvaltaiseksi."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "8",
+   "title": "Pöytäkirjantarkastajien valinta",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026362-2",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026362-2.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Tämän kokouksen pöytäkirjantarkastajiksi valitaan Tapio Honkamaa ja Essi Häyrinen sekä varalle Pekka Kilpeläinen ja Sampsa Kokko. Pöytäkirja tarkastetaan sähköisesti 20.3.2026 ja se on nähtävänä hyvinvointialueen yleisessä tietoverkossa seuraavana arkipäivänä.",
+   "decision": "Tämän kokouksen pöytäkirjantarkastajiksi valittiin Tapio Honkamaa ja Essi Häyrinen sekä varalle Marja Riitta Linnaranta ja Pyry Männistö. Pöytäkirja tarkastetaan sähköisesti 20.3.2026 ja se on nähtävänä hyvinvointialueen yleisessä tietoverkossa seuraavana arkipäivänä.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Toimielin valitsee pöytäkirjantarkastajiksi kaksi toimielimen jäsentä ja varalle kaksi jäsentä aakkosjärjestyksessä."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Tämän kokouksen pöytäkirjantarkastajiksi valitaan Tapio Honkamaa ja Essi Häyrinen sekä varalle Pekka Kilpeläinen ja Sampsa Kokko. Pöytäkirja tarkastetaan sähköisesti 20.3.2026 ja se on nähtävänä hyvinvointialueen yleisessä tietoverkossa seuraavana arkipäivänä."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Tämän kokouksen pöytäkirjantarkastajiksi valittiin Tapio Honkamaa ja Essi Häyrinen sekä varalle Marja Riitta Linnaranta ja Pyry Männistö. Pöytäkirja tarkastetaan sähköisesti 20.3.2026 ja se on nähtävänä hyvinvointialueen yleisessä tietoverkossa seuraavana arkipäivänä."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "9",
+   "title": "Työjärjestyksen hyväksyminen",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026362-3",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026362-3.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Hyväksytään esityslistan mukainen työjärjestys.",
+   "decision": "Hyväksyttiin esityslistan mukainen työjärjestys.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "",
+     "text": "Työjärjestyksen hyväksyminen\n\nAsiat käsitellään esityslistan mukaisessa järjestyksessä, ellei työjärjestystä päätetä muuttaa."
+    },
+    {
+     "heading": "Esitys",
+     "text": "Hyväksytään esityslistan mukainen työjärjestys."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Hyväksyttiin esityslistan mukainen työjärjestys."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "10",
+   "title": "Valtuustokauden alueellisen hyvinvointikertomuksen hyväksyminen",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026362-4",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026362-4.PDF",
+   "diary_number": "1495/00.01.02.02/2026",
+   "preparer": "Tieto- ja kehittämispäällikkö Mari Teittinen; Laki sosiaali- ja terveydenhuollon järjestämisestä 7§ edellyttää hyvinvointialuetta seuraamaan asukkaiden elinoloja, hyvinvointia ja terveyttä sekä niihin vaikuttavia tekijöitä väestöryhmittäin. Hyvinvointialueen on raportoitava asukkaiden hyvinvoinnista",
+   "presenter": null,
+   "proposal": "Palvelulautakunta hyväksyy osaltaan alueellisen hyvinvointikertomuksen 2026 ja esittää sen hyväksymistä aluehallitukselle ja edelleen aluevaltuustolle.",
+   "decision": "Palvelulautakunta hyväksyi osaltaan alueellisen hyvinvointikertomuksen 2026 ja esitti sen hyväksymistä aluehallitukselle ja edelleen aluevaltuustolle.",
+   "discussion": "Merkitään, että hyvinvointikoordinaattori Terho Korhonen ja tieto- ja kehittämispäällikkö Mari Teittinen esittelivät alueellista hyvinvointikertomusta 2026 kokouksessa ja vastailivat jäsenten esittämiin kysymyksiin.",
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Tieto- ja kehittämispäällikkö Mari Teittinen\n\nLaki sosiaali- ja terveydenhuollon järjestämisestä 7§ edellyttää hyvinvointialuetta seuraamaan asukkaiden elinoloja, hyvinvointia ja terveyttä sekä niihin vaikuttavia tekijöitä väestöryhmittäin. Hyvinvointialueen on raportoitava asukkaiden hyvinvoinnista ja terveydestä, niihin vaikuttavista tekijöistä sekä toteutetuista toimenpiteistä aluevaltuustolle vuosittain.\n\nAlueellinen hyvinvointikertomus on raportti asukkaiden hyvinvoinnista ja terveydestä sekä seuraa Etelä-Savon alueellisen hyvinvointisuunnitelman 2026-2029 toimenpiteiden toteutumista keväällä 2026. Hyvinvointikertomuksessa raportoidaan lisäksi hyvinvointialueen rahoitukseen vaikuttavan hyte-kertoimen prosessi- ja tulosmittaritiedot sekä vuoden 2025 hyte-neuvottelujen yhteenveto.\n\nHyvinvointikertomus kerää tietoja asukkaiden hyvinvoinnista ja ne raportoidaan 12/2025 aluevaltuuston hyväksymän laaja-alaisen hyte-suunnitelman neljän painopisteen kautta 1) Mielen hyvinvoinnin vahvistaminen ja riippuvuuksien ehkäisy, 2) Hyvinvointia tukevien elintapojen ja toimintakyvyn edistäminen, 3) Turvallisen arjen tukeminen ja 4) Osallisuuden vahvistaminen.\n\nHyvinvointikertomuksen on valmistellut hyvinvointialueen hyte-työryhmä hyvinvointikoordinaattorin johdolla. Eloisan johtoryhmä on hyväksynyt osaltaan laaja-alaisen hyvinvointikertomuksen 6.3.2026."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 10.3 § kohta 5"
+    },
+    {
+     "heading": "Esitys",
+     "text": "Palvelulautakunta hyväksyy osaltaan alueellisen hyvinvointikertomuksen 2026 ja esittää sen hyväksymistä aluehallitukselle ja edelleen aluevaltuustolle."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Merkitään, että hyvinvointikoordinaattori Terho Korhonen ja tieto- ja kehittämispäällikkö Mari Teittinen esittelivät alueellista hyvinvointikertomusta 2026 kokouksessa ja vastailivat jäsenten esittämiin kysymyksiin."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Palvelulautakunta hyväksyi osaltaan alueellisen hyvinvointikertomuksen 2026 ja esitti sen hyväksymistä aluehallitukselle ja edelleen aluevaltuustolle."
+    },
+    {
+     "heading": "Tiedoksi",
+     "text": "Aluehallitus"
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Etelä-Savon alueellinen hyvinvointikertomus 2026",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026362-4-164151.PDF"
+    },
+    {
+     "title": "Hyvinvointisuunnitelman toimenpiteiden raportointi helmikuu 2026",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026362-4-164152.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "11",
+   "title": "Palvelulautakunnan kokousaikataulu kevät- ja syyskausi 2026",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026362-5",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026362-5.PDF",
+   "diary_number": "6163/00.01.02.02/2025",
+   "preparer": "Konsernipalvelujen toimialajohtaja Sami Sipilä; Palvelulautakunnan kokouksessa 25.11.2025 §:ssä 15 käytiin keskustelua palvelulautakunnan roolista talouden ja toiminnan seurannassa sekä talousarviovalmistelussa. Johtavien viranhaltijoiden kesken käytyjen keskustelujen pohjalta esitetään, että palvel",
+   "presenter": null,
+   "proposal": "Palvelulautakunta päättää kokoontua kevät- ja syyskaudella 2026 seuraavasti:\n\n- maanantai 25.5 klo 09:00 (seminaari)\n\n- torstai 15.10 klo 09:00 (etäkokous)\n\n- torstai 12.11 klo 09:00 (etäkokous)",
+   "decision": "Palvelulautakunta päätti kokoontua kevät- ja syyskaudella 2026 seuraavasti:\n\n- maanantai 25.5 klo 09:00 (seminaari)\n\n- torstai 15.10 klo 09:00 (etäkokous)\n\n- torstai 12.11 klo 09:00 (etäkokous)\n\nSyyskauden kokousaikoihin voi tulla muutoksia käsiteltävien asioiden aikataulujen tarkentuessa.",
+   "discussion": null,
+   "sections": [
+    {
+     "heading": "Valmistelija",
+     "text": "Konsernipalvelujen toimialajohtaja Sami Sipilä\n\nPalvelulautakunnan kokouksessa 25.11.2025 §:ssä 15 käytiin keskustelua palvelulautakunnan roolista talouden ja toiminnan seurannassa sekä talousarviovalmistelussa. Johtavien viranhaltijoiden kesken käytyjen keskustelujen pohjalta esitetään, että palvelulautakunta olisi aktiivisesti mukana jo talousarvioraamin valmistelussa sekä lautakunta lausuisi myös talousarviosta ennen aluehallituksen esitystä aluevaltuustolle.\n\nTalousarvioraami käsitellään kesäkuussa aluehallituksessa. Tarkoituksena on, että palvelulautakunta käsittelee talousarvioraamia toukokuussa seminaaripäivässä. Seminaarissa on tarkoitus hyödyntää arvoverkkoa ja käydä arvoverkon tietojen pohjalta arvo- sekä painopistekeskustelua, jota toimialat voivat hyödyntää talousarvioraamin valmistelussa. Seminaarin pitopaikka tiedotetaan myöhemmin.\n\nHallintosäännössä määritellyt tehtävät huomioiden palvelulautakunnan tulee kokoontua syyskaudella pari kertaa. Yhteisöavustuksien haku vuodelle 2027 on tarkoituksenmukaista avata viime vuoden tapaan lokakuussa. Aluehallitus käsittelee talousarviota marraskuussa. Palvelulautakunta antaa lausuntonsa talousarviosta aluehallitukselle sen jälkeen, kun aluehallitus on käsitellyt asiaa ensimmäisen kerran. Palvelulautakunnan lausunto on aluehallituksessa käsittelyssä, kun aluehallitus tekee päätöksen talousarvion esittämisestä aluevaltuustolle."
+    },
+    {
+     "heading": "Toimivalta",
+     "text": "Hallintosääntö 128.1 §"
+    },
+    {
+     "heading": "Esitys",
+     "text": "Palvelulautakunta päättää kokoontua kevät- ja syyskaudella 2026 seuraavasti:\n\n- maanantai 25.5 klo 09:00 (seminaari)\n\n- torstai 15.10 klo 09:00 (etäkokous)\n\n- torstai 12.11 klo 09:00 (etäkokous)"
+    },
+    {
+     "heading": "Päätös",
+     "text": "Palvelulautakunta päätti kokoontua kevät- ja syyskaudella 2026 seuraavasti:\n\n- maanantai 25.5 klo 09:00 (seminaari)\n\n- torstai 15.10 klo 09:00 (etäkokous)\n\n- torstai 12.11 klo 09:00 (etäkokous)\n\nSyyskauden kokousaikoihin voi tulla muutoksia käsiteltävien asioiden aikataulujen tarkentuessa."
+    }
+   ],
+   "attachments": [],
+   "votes": [],
+   "redacted": false
+  },
+  {
+   "number": "12",
+   "title": "Konsernipalvelujen toimialajohtajan esiin nostamat ajankohtaiset asiat ja jäsenten esittämät kysymykset",
+   "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2026362-6",
+   "pdf_url": "https://etela-savonhva.oncloudos.com/kokous/2026362-6.PDF",
+   "diary_number": null,
+   "preparer": null,
+   "presenter": null,
+   "proposal": "Palvelulautakunta merkitsee konsernipalvelujen toimialajohtajan esiin nostamat ajankohtaiset asiat ja jäsenten esittämät kysymykset tiedoksi.",
+   "decision": "Palvelulautakunta merkitsi konsernipalvelujen toimialajohtajan esiin nostamat ajankohtaiset asiat ja jäsenten esittämät kysymykset tiedoksi.",
+   "discussion": "Merkitään, että analyytikko Patrik Hujanen liittyi kokoukseen kello 15:58. Patrik Hujanen esitteli kokouksessa Palse.fi-portaalia ja vastaili jäsenten esittämiin kysymyksiin. Esitys liitetään pöytäkirjan liitteeksi.\n\nTieto- ja kehittämispäällikkö Mari Teittinen esitteli kokouksessa kumppanuusstrategian tilannetta ja Etelä-Savon lasten ja nuorten preventiivistä yhteistoimintamallia sekä vastaili jäsenten esittämiin kysymyksiin.\n\nKonsernipalvelujen toimialajohtaja Sami Sipilä piti kokouksessa talouskatsauksen ja vastaili jäsenten esittämiin kysymyksiin.\n\nMerkitään, että seuraavat henkilöt poistuivat kokouksesta pykälän käsittelyn aikana:\n\n- hyvinvointikoordinaattori Terho Korhonen kello 16:08\n\n- Essi Häyrinen kello 16:26\n\n- analyytikko Patrik Hujanen kello 16:34\n\nEssi Häyrinen oli valittu kokouksen pöytäkirjantarkastajaksi. Tämän pykälän osalta hänen tilallaan pöytäkirjan tarkastaa varalle valittu Marja Riitta Linnaranta.",
+   "sections": [
+    {
+     "heading": "",
+     "text": "Konsernipalvelujen toimialajohtajan esiin nostamat ajankohtaiset asiat ja jäsenten esittämät kysymykset\n\nKonsernipalvelujen toimialajohtajan tilannekatsaus ajankohtaisiin asioihin.\n\n- Talouskatsaus\n\n- Kumppanuusstrategia\n\n- Yritysyhteistyö"
+    },
+    {
+     "heading": "Esitys",
+     "text": "Palvelulautakunta merkitsee konsernipalvelujen toimialajohtajan esiin nostamat ajankohtaiset asiat ja jäsenten esittämät kysymykset tiedoksi."
+    },
+    {
+     "heading": "Käsittely",
+     "text": "Merkitään, että analyytikko Patrik Hujanen liittyi kokoukseen kello 15:58. Patrik Hujanen esitteli kokouksessa Palse.fi-portaalia ja vastaili jäsenten esittämiin kysymyksiin. Esitys liitetään pöytäkirjan liitteeksi.\n\nTieto- ja kehittämispäällikkö Mari Teittinen esitteli kokouksessa kumppanuusstrategian tilannetta ja Etelä-Savon lasten ja nuorten preventiivistä yhteistoimintamallia sekä vastaili jäsenten esittämiin kysymyksiin.\n\nKonsernipalvelujen toimialajohtaja Sami Sipilä piti kokouksessa talouskatsauksen ja vastaili jäsenten esittämiin kysymyksiin.\n\nMerkitään, että seuraavat henkilöt poistuivat kokouksesta pykälän käsittelyn aikana:\n\n- hyvinvointikoordinaattori Terho Korhonen kello 16:08\n\n- Essi Häyrinen kello 16:26\n\n- analyytikko Patrik Hujanen kello 16:34\n\nEssi Häyrinen oli valittu kokouksen pöytäkirjantarkastajaksi. Tämän pykälän osalta hänen tilallaan pöytäkirjan tarkastaa varalle valittu Marja Riitta Linnaranta."
+    },
+    {
+     "heading": "Päätös",
+     "text": "Palvelulautakunta merkitsi konsernipalvelujen toimialajohtajan esiin nostamat ajankohtaiset asiat ja jäsenten esittämät kysymykset tiedoksi."
+    }
+   ],
+   "attachments": [
+    {
+     "title": "Itsemaksettavat palvelut Palse.fi Palvelulautakunta 17.3",
+     "url": "https://etela-savonhva.oncloudos.com/kokous/2026362-6-166739.PDF"
+    }
+   ],
+   "votes": [],
+   "redacted": false
+  }
+ ],
+ "participants": [
+  {
+   "name": "Anunti-Virta Mirja",
+   "role": "puheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Olkkonen Kirsi",
+   "role": "1. varapuheenjohtaja",
+   "group": "member"
+  },
+  {
+   "name": "Honkamaa Tapio",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Häyrinen Essi",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Linnaranta Marja Riitta",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Männistö Pyry",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Peni Riikka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Puntanen Anne",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Sistonen Eero",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Turunen Pekka",
+   "role": "jäsen",
+   "group": "member"
+  },
+  {
+   "name": "Anna-Maria Kovanen",
+   "role": "henkilökohtainen varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Valjakka Markku",
+   "role": "henkilökohtainen varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Piisilä Sami",
+   "role": "henkilökohtainen varajäsen",
+   "group": "member"
+  },
+  {
+   "name": "Korhonen Hannu",
+   "role": "vanhusneuvoston edustaja",
+   "group": "other"
+  },
+  {
+   "name": "Kauppinen Siiri",
+   "role": "nuorisovaltuuston edustaja",
+   "group": "other"
+  },
+  {
+   "name": "Vironen Jouni",
+   "role": "hallituksen edustaja",
+   "group": "other"
+  },
+  {
+   "name": "Sipilä Sami",
+   "role": "esittelijä",
+   "group": "other"
+  },
+  {
+   "name": "Teittinen Mari",
+   "role": "tieto- ja kehittämispäällikkö",
+   "group": "other"
+  },
+  {
+   "name": "Pulli Jukka",
+   "role": "pöytäkirjanpitäjä",
+   "group": "other"
+  },
+  {
+   "name": "Korhonen Terho",
+   "role": "hyvinvointikoordinaattori",
+   "group": "other"
+  },
+  {
+   "name": "Hujanen Patrik",
+   "role": "analyytikko",
+   "group": "other"
+  }
+ ],
+ "provenance": {
+  "source_url": "https://etela-savonhva.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2026362",
+  "fetched_at": "2026-10-14T16:54:06+00:00",
+  "content_hash": "fcd3d52cdb0c53c0",
+  "parser_version": "0.1.0",
+  "platform": "dynasty",
+  "first_seen": "2026-10-14T16:54:06+00:00"
+ }
+}

@@ -1,0 +1,93 @@
+[
+ {
+  "id": "aluehallitus",
+  "name": "Aluehallitus",
+  "type": "board",
+  "url": "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluehallitus",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaalilautakunta",
+  "name": "Aluevaalilautakunta",
+  "type": "committee",
+  "url": "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluevaalilautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "aluevaltuusto",
+  "name": "Aluevaltuusto",
+  "type": "council",
+  "url": "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Aluevaltuusto",
+  "language": "fi"
+ },
+ {
+  "id": "hyvinvoinnin-ja-osallisuuden-edistamisen-lautakunta",
+  "name": "Hyvinvoinnin ja osallisuuden edistämisen lautakunta",
+  "type": "committee",
+  "url": "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Hyvinvoinnin_ja_osallisuuden_edistaumlmisen_lautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "nuorisovaltuusto",
+  "name": "Nuorisovaltuusto",
+  "type": "advisory",
+  "url": "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Nuorisovaltuusto",
+  "language": "fi"
+ },
+ {
+  "id": "pohjois-suomen-yhteistyoalueen-tutkimustoimikunta",
+  "name": "Pohjois-Suomen yhteistyöalueen tutkimustoimikunta",
+  "type": "other",
+  "url": "https://pohde.cloudnc.fi/fi-FI/Toimielimet/PohjoisSuomen_yhteistyoumlalueen_tutkimustoimikunta",
+  "language": "fi"
+ },
+ {
+  "id": "tarkastuslautakunta",
+  "name": "Tarkastuslautakunta",
+  "type": "committee",
+  "url": "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tarkastuslautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "tulevaisuuslautakunta",
+  "name": "Tulevaisuuslautakunta",
+  "type": "committee",
+  "url": "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Tulevaisuuslautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "turvallisuus-ja-valmiuslautakunta",
+  "name": "Turvallisuus- ja valmiuslautakunta",
+  "type": "committee",
+  "url": "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Turvallisuus_ja_valmiuslautakunta",
+  "language": "fi"
+ },
+ {
+  "id": "vammaisneuvosto",
+  "name": "Vammaisneuvosto",
+  "type": "advisory",
+  "url": "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Vammaisneuvosto",
+  "language": "fi"
+ },
+ {
+  "id": "vanhusneuvosto",
+  "name": "Vanhusneuvosto",
+  "type": "advisory",
+  "url": "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Vanhusneuvosto",
+  "language": "fi"
+ },
+ {
+  "id": "yhteisen-tietohallinnon-johtokunta",
+  "name": "Yhteisen tietohallinnon johtokunta",
+  "type": "other",
+  "url": "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Yhteisen_tietohallinnon_johtokunta",
+  "language": "fi"
+ },
+ {
+  "id": "yhteisen-tietohallinnon-neuvottelukunta",
+  "name": "Yhteisen tietohallinnon neuvottelukunta",
+  "type": "advisory",
+  "url": "https://pohde.cloudnc.fi/fi-FI/Toimielimet/Yhteisen_tietohallinnon_neuvottelukunta",
+  "language": "fi"
+ }
+]

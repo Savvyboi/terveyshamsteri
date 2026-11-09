@@ -1,0 +1,116 @@
+{
+ "KOK": {
+  "fi": "Kansallinen Kokoomus",
+  "sv": "Samlingspartiet",
+  "en": "National Coalition Party",
+  "color": "#006288"
+ },
+ "SDP": {
+  "fi": "Suomen Sosialidemokraattinen Puolue",
+  "sv": "Finlands Socialdemokratiska Parti",
+  "en": "Social Democratic Party",
+  "color": "#e11931"
+ },
+ "PS": {
+  "fi": "Perussuomalaiset",
+  "sv": "Sannfinländarna",
+  "en": "Finns Party",
+  "color": "#c9a400"
+ },
+ "KESK": {
+  "fi": "Suomen Keskusta",
+  "sv": "Centern i Finland",
+  "en": "Centre Party",
+  "color": "#01954b"
+ },
+ "VIHR": {
+  "fi": "Vihreä liitto",
+  "sv": "Gröna förbundet",
+  "en": "Green League",
+  "color": "#4f9b17"
+ },
+ "VAS": {
+  "fi": "Vasemmistoliitto",
+  "sv": "Vänsterförbundet",
+  "en": "Left Alliance",
+  "color": "#c8004f"
+ },
+ "RKP": {
+  "fi": "Suomen ruotsalainen kansanpuolue",
+  "sv": "Svenska folkpartiet i Finland",
+  "en": "Swedish People’s Party",
+  "color": "#d49a00"
+ },
+ "KD": {
+  "fi": "Suomen Kristillisdemokraatit",
+  "sv": "Kristdemokraterna i Finland",
+  "en": "Christian Democrats",
+  "color": "#18359b"
+ },
+ "LIIKE": {
+  "fi": "Liike Nyt",
+  "sv": "Liike Nyt",
+  "en": "Movement Now",
+  "color": "#b5006a"
+ },
+ "LIBE": {
+  "fi": "Liberaalipuolue – Vapaus valita",
+  "sv": "Liberalpartiet – Valfrihet",
+  "en": "Liberal Party",
+  "color": "#2a9fd6"
+ },
+ "SKP": {
+  "fi": "Suomen Kommunistinen Puolue",
+  "sv": "Finlands Kommunistiska Parti",
+  "en": "Communist Party of Finland",
+  "color": "#8b0000"
+ },
+ "EOP": {
+  "fi": "Eläinoikeuspuolue",
+  "sv": "Djurrättspartiet",
+  "en": "Animal Justice Party",
+  "color": "#5a7d2a"
+ },
+ "PIR": {
+  "fi": "Piraattipuolue",
+  "sv": "Piratpartiet",
+  "en": "Pirate Party",
+  "color": "#5b2c83"
+ },
+ "KRIP": {
+  "fi": "Kristallipuolue",
+  "sv": "Kristallpartiet",
+  "en": "Crystal Party",
+  "color": "#5d7fa3"
+ },
+ "VKK": {
+  "fi": "Vapauden liitto",
+  "sv": "Frihetsförbundet",
+  "en": "Freedom Alliance",
+  "color": "#6d6d6d"
+ },
+ "KP": {
+  "fi": "Kansalaispuolue",
+  "sv": "Medborgarpartiet",
+  "en": "Citizens’ Party",
+  "color": "#6d6d6d"
+ },
+ "SKE": {
+  "fi": "Suomen Kansa Ensin",
+  "sv": "Suomen Kansa Ensin",
+  "en": "Finnish People First",
+  "color": "#6d6d6d"
+ },
+ "VL": {
+  "fi": "Valta kuuluu kansalle",
+  "sv": "Valta kuuluu kansalle",
+  "en": "Power Belongs to the People",
+  "color": "#6d6d6d"
+ },
+ "KTP": {
+  "fi": "Kommunistinen Työväenpuolue",
+  "sv": "Kommunistiska arbetarpartiet",
+  "en": "Communist Workers’ Party",
+  "color": "#6d6d6d"
+ }
+}
