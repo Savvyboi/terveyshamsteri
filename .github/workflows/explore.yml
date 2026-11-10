@@ -9,4 +9,5 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+      - run: pip install pypdf==5.1.0
       - run: timeout 400 python -u .github/explore/explore.py
