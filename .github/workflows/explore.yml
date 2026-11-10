@@ -1,0 +1,12 @@
+name: Explore (temporary)
+on:
+  push:
+    branches: [claude/project-thread-75llmi]
+    paths: [".github/explore/**", ".github/workflows/explore.yml"]
+jobs:
+  explore:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests
+      - run: python .github/explore/explore.py $(cat .github/explore/urls.txt)
