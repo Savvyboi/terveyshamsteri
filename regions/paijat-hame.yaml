@@ -14,5 +14,7 @@ source_status: confirmed   # confirmed | inferred | unknown
 epochs:
   - platform: tweb
     base_url: https://phhyky-julkaisu.tweb.fi
+    gentle: true      # robots.txt disallows crawlers; fetched slowly if ever reachable
 notes:
-  fi: "Pilottialue (Tweb). Palvelun robots.txt estää automaattisen haun; tarvitaan alueen lupa tai tiedostovienti."
+  fi: "Pöytäkirjat julkaistaan Tweb-palvelussa, joka ei vastaa GitHubin palvelimilta tuleviin yhteyksiin (tarkistettu 10.11.2026). Haku käynnistyy, kun yhteys toimii tai alue avaa sen."
+  sv: "Protokollen publiceras i Tweb, som inte svarar på anslutningar från GitHubs servrar (kontrollerat 10.11.2026). Hämtningen startar när anslutningen fungerar eller området öppnar den."

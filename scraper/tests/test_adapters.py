@@ -220,7 +220,7 @@ def test_region_configs_load():
     from terveyshamsteri.config import load_regions
     regions = load_regions(Path(__file__).resolve().parents[2] / "regions")
     assert len(regions) == 21
-    unimplemented = {"mfiles"}   # documented sources we have no adapter for (robots.txt forbids)
+    unimplemented: set[str] = set()   # documented sources we have no adapter for
     for r in regions.values():
         assert r["name"]["fi"] and r["name"]["sv"]
         for e in r.get("epochs", []):

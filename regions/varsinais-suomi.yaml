@@ -12,7 +12,8 @@ since: 2025-06-01   # start of the current council term
 language: fi
 source_status: confirmed   # confirmed | inferred | unknown
 epochs:
-  # Varha's own Tweb (varha-julkaisu.triplancloud.fi) disallows all robots, so minutes come
+  # Varha's own Tweb (varha-julkaisu.triplancloud.fi) disallows all robots and does not answer
+  # connections from GitHub's servers (checked 10.11.2026), so minutes come
   # from the press releases Varha sends to STT Info with the minutes PDF attached.
   - platform: sttinfo
     base_url: https://www.sttinfo.fi
@@ -20,5 +21,5 @@ epochs:
     newsroom_url: https://www.sttinfo.fi/uutishuone/69820130/varsinais-suomen-hyvinvointialue-varha
     publisher_id: 69820130
 notes:
-  fi: "Varhan oma julkaisupalvelu (Tweb) estää robotit, joten pöytäkirjat haetaan Varhan STT Info -tiedotteiden liitteistä. Mukana ovat vain ne kokoukset, joiden pöytäkirja on julkaistu tiedotteena (lähinnä aluehallitus), ja ne ovat tarkastamattomia versioita."
-  sv: "Varhas egen publiceringstjänst (Tweb) förbjuder robotar, så protokollen hämtas från bilagorna till Varhas pressmeddelanden på STT Info. Med är bara möten vars protokoll publicerats som pressmeddelande (främst välfärdsområdesstyrelsen), och de är ojusterade versioner."
+  fi: "Varhan oma julkaisupalvelu (Tweb) ei vastaa GitHubin palvelimilta tuleviin yhteyksiin, joten pöytäkirjat haetaan Varhan STT Info -tiedotteiden liitteistä. Mukana ovat vain ne kokoukset, joiden pöytäkirja on julkaistu tiedotteena (lähinnä aluehallitus), ja ne ovat tarkastamattomia versioita."
+  sv: "Varhas egen publiceringstjänst (Tweb) svarar inte på anslutningar från GitHubs servrar, så protokollen hämtas från bilagorna till Varhas pressmeddelanden på STT Info. Med är bara möten vars protokoll publicerats som pressmeddelande (främst välfärdsområdesstyrelsen), och de är ojusterade versioner."
