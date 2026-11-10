@@ -20,7 +20,7 @@ from urllib.parse import urljoin, urlsplit
 
 from ..http import HostBackedOff
 from ..models import Attachment, Body, Item, Meeting, MeetingRef, Participant
-from ..text import body_type, parse_fi_date, slugify, soup
+from ..text import body_type, heading_kind, parse_fi_date, slugify, soup
 from .base import Adapter, fill_item_from_text, role_group
 from .sttinfo import pdf_text
 
@@ -139,6 +139,8 @@ class MFilesAdapter(Adapter):
             if dno:
                 item.diary_number = dno.group(1)
             fill_item_from_text(item, text)
+            if item.preparer and heading_kind(item.preparer.split(";")[0]):
+                item.preparer = None   # an empty 'Valmistelijat' heading followed by the next one
             if item.preparer:  # PDF lines wrap mid-phrase
                 item.preparer = re.sub(r"\s+", " ", item.preparer).strip()[:300]
 
@@ -171,12 +173,22 @@ def item_text(text: str, item: Item) -> str:
     'Valmistelijat puh.' read as a plain preparer heading."""
     lines = [ln.rstrip() for ln in text.replace("\xa0", " ").split("\n")]
     out: list[str] = []
+    skip_next = False
     for ln in lines:
         s = ln.strip()
+        if skip_next:          # the body named under 'Tämän kokouksen käsittely:'
+            skip_next = False
+            continue
+        if re.match(r"^Tämän kokouksen käsittely:?$", s):
+            skip_next = True
+            continue
+        if re.match(r"^Aiempi käsittely:", s):
+            # An earlier body's handling starts; a heading keeps it out of the preparer list.
+            out += ["Asian tausta", s]
+            continue
         if _PAGE_HEADER.match(ln) or re.match(r"^\(Yhteydenotot\b.*\)$", s) or s in ("puh.", "tfn"):
             continue
         s = re.sub(r"^(Valmistelijat?|Beredare)\s+(?:puh|tfn)\.?$", r"\1", s)
-        s = re.sub(r"^Tämän kokouksen käsittely:?$", "", s)
         out.append(s)
     while out and not out[0]:
         out.pop(0)
@@ -194,14 +206,13 @@ def item_text(text: str, item: Item) -> str:
     return body.strip()
 
 
-_PRESENTER = re.compile(r"^(?:\w+(?:-\w+)?\s){0,2}\w*(?:johtaja|hal+it+us|lautakunta|valtuusto|päällikkö|"
+_PRESENTER = re.compile(r"^(?=[A-ZÅÄÖ])(?:\w+(?:-\w+)?\s){0,2}\w*(?:johtaja|hal+it+us|lautakunta|valtuusto|päällikkö|"
                         r"ylilääkäri|jaosto|direktör|styrelse|nämnd)$", re.IGNORECASE)
 
 
 def _mark_proposals(lines: list[str]) -> list[str]:
     """M-Files prints a proposal under the presenter's title alone ('Hyvinvointialuejohtaja'),
     without an 'Esitys' heading. Put the headings back so the proposal is found."""
-    from ..text import heading_kind
     out = list(lines)
     decisions = [i for i, ln in enumerate(out) if heading_kind(ln) == "decision"]
     for p in reversed(decisions):
@@ -259,7 +270,9 @@ def front_matter(text: str, meeting: Meeting) -> Meeting:
             continue
         p = re.match(rf"^({_NAME}\s+{_NAME})(?:\s+(.*))?$", ln)
         if p and (p.group(2) is None or p.group(2)[:1].isupper() or p.group(2)[:1].isdigit()):
-            role = re.sub(r"\s*(?:Saapui|Poistui)\b.*$", "", p.group(2) or "").strip(" ,")
+            # The 'Lisätieto' column: arrival and leaving times, remote attendance
+            role = re.sub(r"\s*(?:Saapui|Poistui|Teams|Etänä|Etäyhteydellä)\b.*$", "", p.group(2) or "",
+                          flags=re.IGNORECASE).strip(" ,")
             out.append(Participant(name=p.group(1), role=role, group=group))
         elif out and ln[:1].islower():  # a role wrapped onto the next line
             out[-1].role = f"{out[-1].role} {ln}".strip()

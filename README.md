@@ -1,7 +1,7 @@
 # Terveyshamsteri
 
 Finnish wellbeing services counties (hyvinvointialueet) publish their agendas and minutes in
-three different vendor systems. Terveyshamsteri scrapes them once a week and publishes a
+several different vendor systems. Terveyshamsteri scrapes them once a week and publishes a
 searchable, bilingual (Finnish and Swedish) static site on GitHub Pages, so that citizens,
 researchers and journalists can see what was decided, who voted how, and where every claim
 came from.
@@ -11,7 +11,7 @@ came from.
 ```
 regions/*.yaml            one config per region: platform, URLs, source epochs, language
 scraper/                  Python: adapters per platform -> normalized JSON
-  terveyshamsteri/adapters/{dynasty,cloudnc,tweb}.py
+  terveyshamsteri/adapters/{dynasty,cloudnc,mfiles,sttinfo,tweb}.py
 .github/workflows/
   scrape.yml              Sunday night: scrape each enabled region, push to the `data` branch, deploy
   deploy.yml              build the Astro site + Pagefind index and publish to GitHub Pages
@@ -43,12 +43,27 @@ within a time budget; anything left over continues the next week.
 |---|---|---|
 | Keski-Suomi, Kanta-Häme, Etelä-Savo, Pohjois-Savo, Pohjois-Karjala, Keski-Pohjanmaa, Pohjanmaa, Länsi-Uusimaa | Dynasty | enabled |
 | Pirkanmaa, Itä-Uusimaa, Keski-Uusimaa, Vantaa–Kerava, Kainuu, Pohjois-Pohjanmaa, Satakunta | CloudNC | enabled |
-| Päijät-Häme, Lappi, Varsinais-Suomi | Tweb | not supported: the Päijät-Häme and Lappi hosts disallow crawlers in robots.txt |
-| Etelä-Pohjanmaa, Etelä-Karjala, Kymenlaakso | own site / unknown | not yet supported |
+| Etelä-Karjala | M-Files | enabled, fetched gently (robots.txt disallows crawlers) |
+| Varsinais-Suomi | STT Info press releases | enabled: board minutes only, as Varha's own Tweb is unreachable |
+| Päijät-Häme, Lappi, Etelä-Pohjanmaa, Kymenlaakso | Tweb | unreachable from GitHub's servers (checked 10.11.2026) |
 
-Dynasty and CloudNC regions should work by flipping `enabled: true` once their hosts are
-confirmed (see `source_status` in each YAML). Tweb needs the region's permission or a bulk
-export, and Etelä-Pohjanmaa needs a PDF adapter.
+The Tweb hosts time out or are turned away by a firewall when contacted from GitHub Actions,
+whatever the User-Agent, so they need the county to open access, or a scraper run from a Finnish
+network (a self-hosted runner). Their configs are ready (`gentle: true`); a Tweb adapter still
+has to be written once a host can be reached.
+
+## Hosts that disallow crawlers
+
+Minutes are public documents that a county must publish (Hyvinvointialuelaki 145 §). Where a
+host's robots.txt turns all crawlers away, the region's epoch can say `gentle: true`. Those hosts
+are still fetched, but:
+
+- at most one request every 5 seconds (or the robots.txt Crawl-delay, if longer), one at a time,
+  once a week, and only new meetings or meetings from the last 60 days;
+- with an honest User-Agent that links to this repository;
+- honouring `Retry-After`, slowing down on 429/503, and stopping for the week after three
+  failures in a row or when asked to wait more than five minutes;
+- `status.json` lists the hosts fetched this way under `robots_ignored`.
 
 ## Privacy rules built in
 

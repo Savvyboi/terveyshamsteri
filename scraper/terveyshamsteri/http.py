@@ -2,7 +2,7 @@
 
 robots.txt is honoured by default. A few counties publish their minutes on hosts whose
 robots.txt turns all crawlers away, although the minutes are public documents that the
-counties must publish (Hyvinvointialuelaki 145 §, Kuntalaki 140 §). For those hosts a region
+counties must publish (Hyvinvointialuelaki 145 §). For those hosts a region
 config can list `gentle_hosts`: we still read robots.txt and keep to its Crawl-delay, but fetch
 anyway, much more slowly than elsewhere, one request at a time, and stop for the week as soon
 as the host shows any sign of strain."""

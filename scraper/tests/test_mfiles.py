@@ -89,6 +89,8 @@ def test_mfiles_region(tmp_path, monkeypatch):
     # The council's own proposal, under the presenter line 'Aluehalllitus' (sic), not the board's
     assert it["proposal"].startswith("Aluevaltuusto päättää merkitä"), it["proposal"]
     assert it["preparer"] == "Heino Kaisa"
+    assert not any(sec["text"].endswith("Aluevaltuusto") for sec in it["sections"])
+    assert "Aiempi käsittely: Aluehallitus §78" in [sec["text"].split("\n")[0] for sec in it["sections"]]
     assert it["votes"][0]["counts"]["jaa"] == 56 and it["votes"][0]["counts"]["ei"] == 2
     full = json.dumps(it, ensure_ascii=False)
     assert "040 627 5521" not in full and "Yhteydenotot" not in full

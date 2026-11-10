@@ -42,10 +42,10 @@ def parse_fi_date(s: str) -> str | None:
 
 # Order matters: the first match wins.
 _BODY_TYPES = [
-    ("council", r"valtuusto$|fullmäktige"),
+    ("council", r"valtuusto(?: \d{4}\s*[-–]\s*\d{4})?$|fullmäktige"),
     ("board", r"aluehallitus|hallitus$|styrelse"),
     ("section", r"jaosto|sektion"),
-    ("committee", r"lautakunta|valiokunta|nämnd|utskott"),
+    ("committee", r"lautakunta|valiokunta|johtokunta|nämnd|utskott|direktion"),
     ("advisory", r"neuvosto|vaikuttamistoimielin|neuvottelukunta|råd"),
 ]
 
