@@ -6,7 +6,9 @@ on:
 jobs:
   explore:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - run: pip install requests
-      - run: python .github/explore/explore.py $(cat .github/explore/urls.txt)
+      - run: |
+          for u in $(cat .github/explore/urls.txt); do timeout 120 python -u .github/explore/explore.py "$u" || echo "TIMEOUT/FAIL $u"; done

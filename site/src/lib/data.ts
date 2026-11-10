@@ -160,7 +160,8 @@ export const meetingSlug = (m: Meeting) => m.id.split('/').slice(1).join('/');
 export function url(...parts: string[]): string {
   const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   const p = parts.filter(Boolean).join('/');
-  return `${base}/${p}${p ? '/' : ''}`;
+  // Pages end in a slash; files (data/x.json, rss.xml) do not.
+  return `${base}/${p}${p && !/\.\w+$/.test(p) ? '/' : ''}`;
 }
 
 export const meetingUrl = (m: Meeting) => url(m.region, m.body_id, meetingSlug(m));
