@@ -1,27 +1,33 @@
-"""Temporary: look at the structure of Tweb / M-Files sites (a few pages each, slowly)."""
+"""Temporary: look at the structure of the M-Files meeting site (a few pages, slowly)."""
 import re, sys, time, requests
-from urllib.parse import urljoin, urlsplit
-UA = "terveyshamsteri/0.1 (civic archive of wellbeing services county decisions; +https://github.com/Savvyboi/terveyshamsteri)"
+from urllib.parse import urljoin
+UA = "terveyshamsteri/0.2 (civic archive of wellbeing services county decisions; +https://github.com/Savvyboi/terveyshamsteri)"
 s = requests.Session(); s.headers["User-Agent"] = UA
-def get(u):
-    time.sleep(2)
+def show(u, full=20000, pat=None):
+    time.sleep(3)
     try:
         r = s.get(u, timeout=40)
-        if not r.encoding or r.encoding.lower() == "iso-8859-1":
-            r.encoding = r.apparent_encoding
-        return r
     except Exception as e:
-        print("ERR", u, e); return None
-def show(u, full=8000):
-    r = get(u)
-    print(f"\n######## {u} -> {getattr(r,'status_code',None)} {r.headers.get('content-type') if r is not None else ''} final={getattr(r,'url',None)}")
-    if r is None: return None, []
+        print("ERR", u, e); return None, []
+    if not r.encoding or r.encoding.lower() == "iso-8859-1":
+        r.encoding = r.apparent_encoding
+    print(f"\n######## {u} -> {r.status_code} {r.headers.get('content-type')} len={len(r.content)} final={r.url}")
     t = r.text
-    print(t[:full])
-    links = [urljoin(r.url, h) for h in re.findall(r'(?:href|src)\s*=\s*["\']([^"\']+)', t, re.I)]
-    print("LINKS:", len(links)); [print("  ", l) for l in links[:80]]
+    if "html" in (r.headers.get("content-type") or ""):
+        body = t.split("<body", 1)[-1]
+        body = re.sub(r"<script.*?</script>", "", body, flags=re.S)
+        body = re.sub(r"\n\s*\n+", "\n", body)
+        print(body[:full])
+    links = [urljoin(r.url, h) for h in re.findall(r'href\s*=\s*["\']([^"\']+)', t, re.I)]
     return t, links
-for start in sys.argv[1:]:
-    parts = urlsplit(start)
-    show(f"{parts.scheme}://{parts.netloc}/robots.txt", 2000)
-    show(start)
+B = "https://mfiles.ekhva.fi/Kokoukset/ekhva"
+t, links = show(f"{B}/21")              # aluevaltuusto: list of meetings
+t, links = show(f"{B}/21/393")          # one meeting
+items = [l for l in links if re.search(r"/Kokoukset/ekhva/21/393/.+", l)]
+print("ITEM LINKS", items[:40])
+for l in items[:2]:
+    show(l, 15000)
+other = [l for l in links if "ekhva/21/393" not in l and "Kokoukset" in l]
+print("OTHER", other[:40])
+show("https://lapha-julkaisu.tweb.fi/robots.txt", 2000)
+show("https://lapinhva-julkaisu.triplancloud.fi/", 2000)

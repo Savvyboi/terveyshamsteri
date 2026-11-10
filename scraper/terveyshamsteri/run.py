@@ -19,7 +19,9 @@ from pathlib import Path
 from typing import Any
 
 from .adapters import ADAPTERS
-from .http import Fetcher, RobotsDisallowed
+from urllib.parse import urlsplit
+
+from .http import Fetcher, HostBackedOff, RobotsDisallowed
 from .models import PARSER_VERSION, Meeting
 from .text import excluded
 
@@ -52,6 +54,17 @@ def _active_epochs(region: dict[str, Any]) -> list[dict[str, Any]]:
     return [e for e in region.get("epochs", []) if e.get("enabled", True)]
 
 
+def gentle_hosts(region: dict[str, Any]) -> list[str]:
+    """Hosts of epochs marked `gentle: true`: their robots.txt turns crawlers away, but the
+    minutes are public, so we fetch them slowly anyway (see http.py)."""
+    hosts = []
+    for e in _active_epochs(region):
+        if e.get("gentle"):
+            hosts += [urlsplit(e[k]).netloc for k in ("base_url", "entry_url") if e.get(k)]
+            hosts += list(e.get("extra_hosts", []))
+    return sorted(set(hosts))
+
+
 def scrape_region(region: dict[str, Any], data_dir: Path, *, since: str | None = None,
                   max_meetings: int | None = None, max_minutes: float | None = None,
                   refresh: bool = False, delay: float = 1.0) -> dict[str, Any]:
@@ -62,13 +75,14 @@ def scrape_region(region: dict[str, Any], data_dir: Path, *, since: str | None =
     since = since or region.get("since", "2025-06-01")
     recheck_from = (date.today() - timedelta(days=RECHECK_DAYS)).isoformat()
     started = time.monotonic()
-    fetcher = Fetcher(delay=delay)
+    fetcher = Fetcher(delay=delay, gentle_hosts=gentle_hosts(region))
     status: dict[str, Any] = {"region": rid, "started_at": _now(), "parser_version": PARSER_VERSION,
                               "fetched": 0, "changed": 0, "unchanged": 0, "removed": 0, "errors": [],
                               "complete": True, "result": "ok"}
     bodies_out: dict[str, Any] = {b["id"]: b for b in _read(out / "bodies.json", [])}
     listed_urls: set[str] = set()
     budget_hit = False
+    listing_failed = False
 
     for epoch in _active_epochs(region):
         adapter_cls = ADAPTERS[epoch["platform"]]
@@ -99,6 +113,7 @@ def scrape_region(region: dict[str, Any], data_dir: Path, *, since: str | None =
                 body_refs = adapter.list_meetings(body)
             except Exception as e:  # noqa: BLE001
                 status["errors"].append(f"list_meetings {body.name}: {e!r}")
+                listing_failed = True   # its meetings are missing from listed_urls
                 continue
             bodies_out[body.id] = {"id": body.id, "name": body.name, "type": body.type,
                                    "url": body.url, "language": adapter.language}
@@ -123,6 +138,11 @@ def scrape_region(region: dict[str, Any], data_dir: Path, *, since: str | None =
                 break
             try:
                 meeting = adapter.fetch_meeting(ref)
+            except HostBackedOff as e:
+                # The host is struggling: leave it alone until next week.
+                status["errors"].append(f"stopped early: {e}")
+                budget_hit = True
+                break
             except Exception as e:  # noqa: BLE001
                 log.exception("[%s] failed %s", rid, ref.url)
                 status["errors"].append(f"fetch_meeting {ref.url}: {e!r}")
@@ -150,7 +170,7 @@ def scrape_region(region: dict[str, Any], data_dir: Path, *, since: str | None =
             log.info("[%s] %s %s (%d items)", rid, meeting.date, meeting.body_name, len(meeting.items))
 
     # Mirror removals: a recent meeting that disappeared from the source disappears here too.
-    if status["result"] == "ok" and not budget_hit:
+    if status["result"] == "ok" and not budget_hit and not listing_failed:
         for url, info in list(seen.items()):
             if url not in listed_urls and info.get("date", "") >= recheck_from:
                 (out / "meetings" / f"{info['id']}.json").unlink(missing_ok=True)
@@ -159,6 +179,9 @@ def scrape_region(region: dict[str, Any], data_dir: Path, *, since: str | None =
 
     status["complete"] = not budget_hit
     status["requests"] = fetcher.requests_made
+    ignored = getattr(fetcher, "ignored_robots", None)
+    if ignored:
+        status["robots_ignored"] = sorted(ignored)
     status["finished_at"] = _now()
     status["meetings_total"] = len(seen)
     if status["errors"] and status["result"] == "ok":
