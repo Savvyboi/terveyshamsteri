@@ -93,7 +93,7 @@ def test_mfiles_region(tmp_path, monkeypatch):
     assert "Aiempi käsittely: Aluehallitus §78" in [sec["text"].split("\n")[0] for sec in it["sections"]]
     assert it["votes"][0]["counts"]["jaa"] == 56 and it["votes"][0]["counts"]["ei"] == 2
     full = json.dumps(it, ensure_ascii=False)
-    assert "040 627 5521" not in full and "Yhteydenotot" not in full
+    assert "040 123 4567" not in full and "Yhteydenotot" not in full
 
     assert status["result"] == "partial"     # the board's list failed, so nothing is removed
     assert status["removed"] == 0
