@@ -1,33 +1,23 @@
-"""Temporary: look at the structure of the M-Files meeting site (a few pages, slowly)."""
-import re, sys, time, requests
+"""Temporary: look at M-Files item pages (a few pages, slowly)."""
+import re, time, requests
 from urllib.parse import urljoin
 UA = "terveyshamsteri/0.2 (civic archive of wellbeing services county decisions; +https://github.com/Savvyboi/terveyshamsteri)"
 s = requests.Session(); s.headers["User-Agent"] = UA
-def show(u, full=20000, pat=None):
+def show(u, full=20000):
     time.sleep(3)
-    try:
-        r = s.get(u, timeout=40)
-    except Exception as e:
-        print("ERR", u, e); return None, []
+    r = s.get(u, timeout=40)
     if not r.encoding or r.encoding.lower() == "iso-8859-1":
         r.encoding = r.apparent_encoding
-    print(f"\n######## {u} -> {r.status_code} {r.headers.get('content-type')} len={len(r.content)} final={r.url}")
-    t = r.text
-    if "html" in (r.headers.get("content-type") or ""):
-        body = t.split("<body", 1)[-1]
-        body = re.sub(r"<script.*?</script>", "", body, flags=re.S)
-        body = re.sub(r"\n\s*\n+", "\n", body)
-        print(body[:full])
-    links = [urljoin(r.url, h) for h in re.findall(r'href\s*=\s*["\']([^"\']+)', t, re.I)]
-    return t, links
+    print(f"\n######## {u} -> {r.status_code} {r.headers.get('content-type')} len={len(r.content)} enc={r.encoding}")
+    print(r.text[:full])
+    return r.text
 B = "https://mfiles.ekhva.fi/Kokoukset/ekhva"
-t, links = show(f"{B}/21")              # aluevaltuusto: list of meetings
-t, links = show(f"{B}/21/393")          # one meeting
-items = [l for l in links if re.search(r"/Kokoukset/ekhva/21/393/.+", l)]
-print("ITEM LINKS", items[:40])
-for l in items[:2]:
-    show(l, 15000)
-other = [l for l in links if "ekhva/21/393" not in l and "Kokoukset" in l]
-print("OTHER", other[:40])
-show("https://lapha-julkaisu.tweb.fi/robots.txt", 2000)
-show("https://lapinhva-julkaisu.triplancloud.fi/", 2000)
+t = show(f"{B}/21/356", 6000)
+docs = re.findall(r'href="/Kokoukset/ekhva/21/356/(\d+)/view/(\d+)">\s*(\d+)\s', t)
+print("DOCS", docs)
+for _, doc, num in docs[:1]:
+    show(f"{B}/html/{doc}", 25000)
+# the item whose vote is in an attachment
+m = re.search(r'/21/356/4154/view/(\d+)">\s*\d', t)
+if m: show(f"{B}/html/{m.group(1)}", 30000)
+show(f"{B}/22", 3000)
