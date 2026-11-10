@@ -12,12 +12,7 @@ def show(u, full=20000):
     print(r.text[:full])
     return r.text
 B = "https://mfiles.ekhva.fi/Kokoukset/ekhva"
-t = show(f"{B}/21/356", 6000)
-docs = re.findall(r'href="/Kokoukset/ekhva/21/356/(\d+)/view/(\d+)">\s*(\d+)\s', t)
-print("DOCS", docs)
-for _, doc, num in docs[:1]:
-    show(f"{B}/html/{doc}", 25000)
-# the item whose vote is in an attachment
-m = re.search(r'/21/356/4154/view/(\d+)">\s*\d', t)
-if m: show(f"{B}/html/{m.group(1)}", 30000)
-show(f"{B}/22", 3000)
+show(f"{B}/html/358784", 40000)
+show(f"{B}/html/358780", 15000)
+show(f"{B}/21/356/4154/view/365454", 3000)
+show(f"{B}/22/391/5514/view/451531", 3000)
