@@ -1,0 +1,149 @@
+name: Local scrape (Finland)
+
+# Some counties' Tweb servers do not answer GitHub's servers at all. This workflow runs on a
+# self-hosted runner on a computer in Finland (labels: self-hosted, terveyshamsteri-fi) and
+# scrapes the regions marked `runner: local`. Results go to the data-local branch, which the
+# Weekly scrape merges into the data branch when it publishes.
+#
+# Only this workflow targets the runner, and only on schedule or by hand, so pull requests
+# never run code on that computer. Set the repository variable LOCAL_RUNNER to "true" once
+# the runner is installed; until then the scheduled run is skipped.
+
+on:
+  schedule:
+    - cron: "0 17 * * 0"   # Sunday 17:00 UTC, a few hours before the Weekly scrape
+  workflow_dispatch:
+    inputs:
+      region:
+        description: "Only this region id (empty = all regions with runner: local)"
+        required: false
+      max_minutes:
+        description: "Time budget per region in minutes (a long backfill continues next run)"
+        default: "75"
+      refresh:
+        description: "Refetch every meeting, not only new and recent ones"
+        type: boolean
+        default: false
+      publish:
+        description: "Publish to the site right after (runs the Weekly scrape)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: scrape-local
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    if: vars.LOCAL_RUNNER == 'true' || github.event_name == 'workflow_dispatch'
+    runs-on: [self-hosted, terveyshamsteri-fi]
+    timeout-minutes: 340
+    defaults:
+      run:
+        shell: powershell
+    env:
+      PYTHON: ${{ vars.LOCAL_PYTHON || 'python' }}
+      PYTHONUTF8: "1"
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        run: |
+          $ErrorActionPreference = 'Stop'
+          & $env:PYTHON -m venv .venv
+          .\.venv\Scripts\python -m pip install --quiet -r scraper\requirements.txt
+          if ($LASTEXITCODE -ne 0) { exit 1 }
+
+      - name: Check out previous data
+        # Start from the published data, then lay the newest local results on top.
+        run: |
+          $ErrorActionPreference = 'Continue'
+          New-Item -ItemType Directory -Force data | Out-Null
+          foreach ($branch in 'data', 'data-local') {
+            git ls-remote --exit-code --heads origin $branch | Out-Null
+            if ($LASTEXITCODE -ne 0) { continue }
+            git fetch --quiet --depth 1 origin $branch
+            Remove-Item -Recurse -Force "prev-$branch" -ErrorAction SilentlyContinue
+            git worktree prune
+            git worktree add --quiet "prev-$branch" FETCH_HEAD
+            Get-ChildItem "prev-$branch" -Directory | ForEach-Object {
+              Remove-Item -Recurse -Force "data\$($_.Name)" -ErrorAction SilentlyContinue
+              Copy-Item -Recurse $_.FullName "data\$($_.Name)"
+            }
+          }
+          exit 0
+
+      - name: Scrape
+        working-directory: scraper
+        env:
+          REGION: ${{ inputs.region }}
+          MAX_MINUTES: ${{ inputs.max_minutes || '75' }}
+          REFRESH: ${{ inputs.refresh && '--refresh' || '' }}
+        run: |
+          $ErrorActionPreference = 'Continue'   # Python logs to stderr; that is not an error
+          $py = '..\.venv\Scripts\python'
+          $regions = & $py -m terveyshamsteri regions --runner local | ConvertFrom-Json
+          if ($env:REGION) { $regions = @($regions | Where-Object { $_ -eq $env:REGION }) }
+          if (-not $regions) { Write-Output "::warning::No local region matches '$env:REGION'"; exit 0 }
+          $failed = 0
+          foreach ($r in $regions) {
+            Write-Output "::group::$r"
+            $extra = @(); if ($env:REFRESH) { $extra += '--refresh' }
+            & $py -m terveyshamsteri scrape $r --data ..\data --max-minutes $env:MAX_MINUTES @extra
+            if ($LASTEXITCODE -ne 0) { $failed++ }
+            Write-Output "::endgroup::"
+          }
+          Add-Content -Encoding ascii $env:GITHUB_ENV "regions=$($regions -join ' ')"
+          if ($failed -gt 0) { Write-Output "::warning::$failed region(s) failed; their status.json says why" }
+          exit 0
+
+      - name: Push data-local branch
+        # One commit, force-pushed: like the data branch, it must not keep text that a county
+        # has since removed from its minutes.
+        if: always() && env.regions != ''
+        env:
+          TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          $ErrorActionPreference = 'Continue'
+          Remove-Item -Recurse -Force out -ErrorAction SilentlyContinue
+          New-Item -ItemType Directory out | Out-Null
+          # Keep every local region, also those not scraped this time.
+          Push-Location scraper
+          $all = ..\.venv\Scripts\python -m terveyshamsteri regions --runner local | ConvertFrom-Json
+          Pop-Location
+          foreach ($r in $all) {
+            if (Test-Path "data\$r\status.json") { Copy-Item -Recurse "data\$r" "out\$r" }
+          }
+          Set-Location out
+          git init --quiet -b data-local
+          git config user.name "terveyshamsteri-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config core.autocrlf false
+          git add -A
+          git commit --quiet -m "Local scrape $(Get-Date -Format yyyy-MM-dd)"
+          if ($LASTEXITCODE -ne 0) { exit 1 }
+          git push --quiet --force "https://x-access-token:$env:TOKEN@github.com/$env:REPO.git" data-local
+          if ($LASTEXITCODE -ne 0) { exit 1 }
+
+      - name: Publish
+        if: success() && github.event_name == 'workflow_dispatch' && inputs.publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        # Asking the Weekly scrape for a local region skips its scraping and just publishes.
+        run: |
+          $first = ($env:regions -split ' ')[0]
+          $body = @{ ref = '${{ github.ref_name }}'; inputs = @{ region = $first } } | ConvertTo-Json
+          Invoke-RestMethod -Method Post -Uri "https://api.github.com/repos/${{ github.repository }}/actions/workflows/scrape.yml/dispatches" `
+            -Headers @{ Authorization = "Bearer $env:GH_TOKEN"; Accept = 'application/vnd.github+json' } -Body $body -ContentType 'application/json'
+
+      - name: Clean up
+        if: always()
+        run: |
+          git worktree prune
+          Remove-Item -Recurse -Force data, out, prev-data, prev-data-local -ErrorAction SilentlyContinue
+          exit 0

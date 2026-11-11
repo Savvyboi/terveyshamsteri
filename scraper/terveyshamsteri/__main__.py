@@ -1,6 +1,6 @@
 """Command line entry point.
 
-  python -m terveyshamsteri regions                 # JSON list of enabled region ids (CI matrix)
+  python -m terveyshamsteri regions [--runner local] # JSON list of enabled region ids (CI matrix)
   python -m terveyshamsteri scrape pirkanmaa --data ../data [--max-meetings 5]
   python -m terveyshamsteri index --data ../data     # write regions.json + status.json
   python -m terveyshamsteri reextract --data ../data # re-derive decisions and votes of stored meetings
@@ -28,7 +28,9 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--regions-dir", type=Path, default=Path(__file__).resolve().parents[2] / "regions")
     sub = ap.add_subparsers(dest="cmd", required=True)
 
-    sub.add_parser("regions", help="print enabled region ids as JSON")
+    rg = sub.add_parser("regions", help="print enabled region ids as JSON")
+    rg.add_argument("--runner", choices=("cloud", "local"), default="cloud",
+                    help="cloud: regions GitHub's servers can reach; local: regions with `runner: local`")
 
     sc = sub.add_parser("scrape", help="scrape one region")
     sc.add_argument("region")
@@ -59,7 +61,8 @@ def main(argv: list[str] | None = None) -> int:
     regions = load_regions(args.regions_dir)
 
     if args.cmd == "regions":
-        print(json.dumps([r["id"] for r in regions.values() if r.get("enabled")]))
+        print(json.dumps([r["id"] for r in regions.values()
+                          if r.get("enabled") and r.get("runner", "cloud") == args.runner]))
         return 0
     if args.cmd == "scrape":
         status = scrape_region(regions[args.region], args.data, since=args.since,

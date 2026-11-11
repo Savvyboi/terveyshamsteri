@@ -7,15 +7,16 @@ short:
   fi: Kymenlaakso
   sv: Kymmenedalen
 homepage: https://kymenhva.fi
-enabled: false
+enabled: true
+runner: local   # Tweb does not answer GitHub's servers; see scrape-local.yml
 since: 2025-06-01   # start of the current council term
 language: fi
 source_status: confirmed   # confirmed | inferred | unknown
 epochs:
   - platform: tweb
     base_url: https://julkaisut.kymenhva.fi:8443
-    gentle: true      # robots.txt disallows crawlers; fetched slowly if ever reachable
+    gentle: true      # robots.txt disallows crawlers; fetched slowly
     entry_url: https://julkaisut.kymenhva.fi:8443/ktwebscr/epj_tek_tweb.htm
 notes:
-  fi: "Pöytäkirjat julkaistaan Tweb-palvelussa, joka ei vastaa GitHubin palvelimilta tuleviin yhteyksiin (tarkistettu 15.10.2026 ja 10.11.2026)."
-  sv: "Protokollen publiceras i Tweb, som inte svarar på anslutningar från GitHubs servrar (kontrollerat 15.10.2026 och 10.11.2026)."
+  fi: "Pöytäkirjat julkaistaan Tweb-palvelussa, joka ei vastaa GitHubin palvelimille. Siksi ne haetaan kerran viikossa Suomessa olevalta tietokoneelta, hitaasti ja yksi sivu kerrallaan."
+  sv: "Protokollen publiceras i Tweb, som inte svarar GitHubs servrar. Därför hämtas de en gång i veckan från en dator i Finland, långsamt och en sida i taget."

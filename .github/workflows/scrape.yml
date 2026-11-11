@@ -38,15 +38,22 @@ jobs:
       - run: pip install -r scraper/requirements.txt
       - id: r
         working-directory: scraper
+        # Regions with `runner: local` are scraped on the computer in Finland (scrape-local.yml),
+        # never here. Asking for one of them by name just republishes its latest local data.
+        env:
+          REGION: ${{ inputs.region }}
         run: |
-          if [ -n "${{ inputs.region }}" ]; then
-            echo "regions=[\"${{ inputs.region }}\"]" >> "$GITHUB_OUTPUT"
+          all=$(python -m terveyshamsteri regions)
+          if [ -n "$REGION" ]; then
+            regions=$(python -c 'import json,sys; print(json.dumps([r for r in json.loads(sys.argv[1]) if r == sys.argv[2]]))' "$all" "$REGION")
           else
-            echo "regions=$(python -m terveyshamsteri regions)" >> "$GITHUB_OUTPUT"
+            regions=$all
           fi
+          echo "regions=$regions" >> "$GITHUB_OUTPUT"
 
   scrape:
     needs: plan
+    if: needs.plan.outputs.regions != '[]'
     runs-on: ubuntu-latest
     timeout-minutes: 340
     strategy:
@@ -157,6 +164,20 @@ jobs:
             git worktree add data FETCH_HEAD
           else
             mkdir data
+          fi
+      - name: Add regions scraped on the computer in Finland
+        # scrape-local.yml keeps its latest results on the data-local branch.
+        run: |
+          if git ls-remote --exit-code --heads origin data-local >/dev/null; then
+            git fetch --depth 1 origin data-local
+            git worktree add data-local FETCH_HEAD
+            for dir in data-local/*/; do
+              region=$(basename "$dir")
+              [ -f "$dir/status.json" ] || continue
+              rm -rf "data/$region"
+              cp -r "$dir" "data/$region"
+              echo "added $region from data-local"
+            done
           fi
       - uses: actions/download-artifact@v4
         with:
