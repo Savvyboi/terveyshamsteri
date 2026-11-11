@@ -14,7 +14,8 @@ source_status: confirmed   # confirmed | inferred | unknown
 epochs:
   - platform: tweb
     base_url: https://julkaisut.kymenhva.fi:8443
+    gentle: true      # robots.txt disallows crawlers; fetched slowly if ever reachable
     entry_url: https://julkaisut.kymenhva.fi:8443/ktwebscr/epj_tek_tweb.htm
 notes:
-  fi: "Pöytäkirjat julkaistaan Tweb-palvelussa, joka ei vastaa GitHubin palvelimilta tuleviin yhteyksiin (tarkistettu 15.10.2026)."
-  sv: "Protokollen publiceras i Tweb, som inte svarar på anslutningar från GitHubs servrar (kontrollerat 15.10.2026)."
+  fi: "Pöytäkirjat julkaistaan Tweb-palvelussa, joka ei vastaa GitHubin palvelimilta tuleviin yhteyksiin (tarkistettu 15.10.2026 ja 10.11.2026)."
+  sv: "Protokollen publiceras i Tweb, som inte svarar på anslutningar från GitHubs servrar (kontrollerat 15.10.2026 och 10.11.2026)."

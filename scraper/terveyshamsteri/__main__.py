@@ -75,7 +75,14 @@ def main(argv: list[str] | None = None) -> int:
         print(json.dumps(results, ensure_ascii=False, indent=1))
         return 0 if any(not v.startswith("error") for v in results.values()) else 1
     if args.cmd == "finances":
-        results = fetch_finances(args.data, regions=args.region)
+        try:
+            results = fetch_finances(args.data, regions=args.region)
+        except Exception as e:  # noqa: BLE001 - the State Treasury API is sometimes unreachable
+            # The files from the previous run stay in place, so the site keeps last week's
+            # figures. Warn instead of failing the whole weekly run.
+            logging.exception("finances failed")
+            print(f"::warning title=Finances not updated::{e!r}")
+            results = {"finances": f"kept previous data: {e!r}"}
         try:
             pop = fetch_population(args.data)
             results["population"] = f"ok ({len(pop['regions'])} counties)"

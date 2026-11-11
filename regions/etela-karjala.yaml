@@ -7,14 +7,20 @@ short:
   fi: Etelä-Karjala
   sv: Södra Karelen
 homepage: https://ekhva.fi
-enabled: false
+enabled: true
 since: 2025-06-01   # start of the current council term
 language: fi
 source_status: confirmed   # confirmed | inferred | unknown
+exclude_bodies:             # officials' and expert groups, not elected bodies
+  - johtoryhmä
+  - asiantuntijaryhmä
 epochs:
   - platform: mfiles
     base_url: https://mfiles.ekhva.fi
-    entry_url: https://mfiles.ekhva.fi/kokoukset/ekhva/
+    entry_url: https://mfiles.ekhva.fi/Kokoukset/ekhva/
+    # robots.txt disallows all crawlers, but the minutes are public documents the county must
+    # publish. Fetched slowly with an identifying User-Agent (see scraper/terveyshamsteri/http.py).
+    gentle: true
 notes:
-  fi: "Esityslistat ja pöytäkirjat julkaistaan M-Files-kokouspalvelussa, jonka robots.txt estää kaiken automaattisen haun (tarkistettu 15.10.2026). Tarvitaan alueen lupa tai tiedostovienti."
-  sv: "Föredragningslistor och protokoll publiceras i M-Files mötestjänst, vars robots.txt förbjuder all automatisk hämtning (kontrollerat 15.10.2026). Det behövs tillstånd från området eller en filexport."
+  fi: "Esityslistat ja pöytäkirjat haetaan M-Files-kokouspalvelusta. Palvelun robots.txt kieltää automaattisen haun, mutta pöytäkirjat ovat julkisia asiakirjoja, joten haemme ne hitaasti ja harvakseltaan (enintään yksi pyyntö viidessä sekunnissa, kerran viikossa). Asiakohtien teksti luetaan PDF-tiedostoista, joten muotoilu voi poiketa alkuperäisestä."
+  sv: "Föredragningslistor och protokoll hämtas från M-Files mötestjänst. Tjänstens robots.txt förbjuder automatisk hämtning, men protokollen är offentliga handlingar, så vi hämtar dem långsamt och sällan (högst en förfrågan var femte sekund, en gång i veckan). Ärendenas text läses ur PDF-filer, så formateringen kan avvika från originalet."

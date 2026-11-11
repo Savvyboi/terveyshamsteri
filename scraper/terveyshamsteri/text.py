@@ -42,10 +42,10 @@ def parse_fi_date(s: str) -> str | None:
 
 # Order matters: the first match wins.
 _BODY_TYPES = [
-    ("council", r"valtuusto$|fullmäktige"),
+    ("council", r"valtuusto(?: \d{4}\s*[-–]\s*\d{4})?$|fullmäktige"),
     ("board", r"aluehallitus|hallitus$|styrelse"),
     ("section", r"jaosto|sektion"),
-    ("committee", r"lautakunta|valiokunta|nämnd|utskott"),
+    ("committee", r"lautakunta|valiokunta|johtokunta|nämnd|utskott|direktion"),
     ("advisory", r"neuvosto|vaikuttamistoimielin|neuvottelukunta|råd"),
 ]
 
@@ -255,9 +255,9 @@ _PAIR_NUM_FIRST = re.compile(
     r"(?:\s*-?\s*ään\w*|\s*-?\s*röst\w*)?\b",
     re.IGNORECASE,
 )
-# "JAA 42", "JAA ääniä oli 8"
+# "JAA 42", "JAA ääniä oli 8", "JAA-ääniä annettiin 56"
 _PAIR_LABEL_FIRST = re.compile(
-    r"\b(" + "|".join(_LABELS.values()) + r")(?:\s*-?\s*ään\w*|\s*-?\s*röst\w*)?\s*(?:oli\s*)?[:=]?\s*(\d{1,3})\b",
+    r"\b(" + "|".join(_LABELS.values()) + r")(?:\s*-?\s*ään\w*|\s*-?\s*röst\w*)?\s*(?:oli\s*|annettiin\s*)?[:=]?\s*(\d{1,3})\b",
     re.IGNORECASE,
 )
 _VOTE_CUE = re.compile(r"äänest|omröst|röstning|JAA|NEJ", re.IGNORECASE)

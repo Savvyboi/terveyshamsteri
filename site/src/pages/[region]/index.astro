@@ -35,6 +35,7 @@ const hasInitiatives = initiatives().some((g) => g.region === r.id);
       <span><b>{items}</b> <T k="itemsCount" /></span>
       <span><b>{allVotes.length}</b> <T k="votesCount" /></span>
     </p>
+    {meetings.length > 0 && r.notes?.fi && <p class="note"><L fi={r.notes.fi} sv={r.notes.sv} /></p>}
     <div class="actions">
       <a class="btn small" href={`${url('haku')}?region=${encodeURIComponent(r.short.fi ?? r.id)}`}><T k="search" /></a>
       <a class="btn small secondary" href={url(r.id, 'valtuutetut')}><T k="councillors" /></a>
@@ -49,7 +50,7 @@ const hasInitiatives = initiatives().some((g) => g.region === r.id);
     <>
     <div class="card">
       <p><T k="noData" /></p>
-      {r.notes?.fi && <p class="note">{r.notes.fi}</p>}
+      {r.notes?.fi && <p class="note"><L fi={r.notes.fi} sv={r.notes.sv} /></p>}
       {r.status?.errors?.length ? <p class="note">{r.status.errors[0]}</p> : null}
     </div>
     {election && (

@@ -193,7 +193,7 @@ def fetch_finances(data_dir: Path, regions: list[str] | None = None, fetcher: Fe
                    since: int = 2023) -> dict[str, str]:
     """Write data/finances/{region}.json for each county. Reports already on disk with the
     same approval time are not fetched again."""
-    fetcher = fetcher or Fetcher(delay=1.0, timeout=180)
+    fetcher = fetcher or Fetcher(delay=1.0, timeout=(30, 180))
     out_dir = data_dir / "finances"
     out_dir.mkdir(parents=True, exist_ok=True)
     listing = _items(fetcher.get(f"{REST}/aineistot").json())

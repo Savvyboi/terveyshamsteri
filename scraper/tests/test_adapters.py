@@ -112,6 +112,20 @@ def test_dynasty_incremental_rerun_is_stable(tmp_path, patch_fetcher):
     assert status["changed"] == 0
 
 
+def test_failed_listing_does_not_remove_meetings(tmp_path, patch_fetcher, monkeypatch):
+    """A body whose meeting list fails to load must not lose its recent meetings."""
+    import terveyshamsteri.run as run
+    monkeypatch.setattr(run, "RECHECK_DAYS", 100000)    # every fixture meeting counts as recent
+    patch_fetcher(DYNASTY_ROUTES)
+    scrape_region(DYNASTY_REGION, tmp_path)
+    path = tmp_path / "esimerkki/meetings/aluevaltuusto/2026-09-29.json"
+    assert path.exists()
+    patch_fetcher({k: v for k, v in DYNASTY_ROUTES.items() if k != "page=meetings&id=7"})
+    status = scrape_region(DYNASTY_REGION, tmp_path)
+    assert status["removed"] == 0 and status["result"] == "partial"
+    assert path.exists()
+
+
 CNC = "https://esim.cloudnc.fi"
 CLOUDNC_REGION = {"id": "esim2", "since": "2025-06-01",
                   "epochs": [{"platform": "cloudnc", "base_url": CNC}]}
@@ -206,7 +220,7 @@ def test_region_configs_load():
     from terveyshamsteri.config import load_regions
     regions = load_regions(Path(__file__).resolve().parents[2] / "regions")
     assert len(regions) == 21
-    unimplemented = {"mfiles"}   # documented sources we have no adapter for (robots.txt forbids)
+    unimplemented: set[str] = set()   # documented sources we have no adapter for
     for r in regions.values():
         assert r["name"]["fi"] and r["name"]["sv"]
         for e in r.get("epochs", []):

@@ -14,7 +14,8 @@ source_status: confirmed   # confirmed | inferred | unknown
 epochs:
   - platform: tweb
     base_url: https://hyvaep-julkaisu.tweb.fi
+    gentle: true      # robots.txt disallows crawlers; fetched slowly if ever reachable
     entry_url: https://hyvaep-julkaisu.tweb.fi/ktwebscr/epj_tek_tweb.htm
 notes:
-  fi: "Pöytäkirjat julkaistaan Tweb-palvelussa, jonka robots.txt estää kaiken automaattisen haun (tarkistettu 15.10.2026). Tarvitaan alueen lupa tai tiedostovienti."
-  sv: "Protokollen publiceras i Tweb, vars robots.txt förbjuder all automatisk hämtning (kontrollerat 15.10.2026). Det behövs tillstånd från området eller en filexport."
+  fi: "Pöytäkirjat julkaistaan Tweb-palvelussa, jonka robots.txt kieltää automaattisen haun ja joka ei vastaa GitHubin palvelimilta tuleviin yhteyksiin (tarkistettu 10.11.2026)."
+  sv: "Protokollen publiceras i Tweb, vars robots.txt förbjuder automatisk hämtning och som inte svarar på anslutningar från GitHubs servrar (kontrollerat 10.11.2026)."
