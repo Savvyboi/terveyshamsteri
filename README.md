@@ -76,16 +76,17 @@ computer is off, the site keeps the last local results.
 
 Setting up the runner (once):
 
-1. Repository settings → Actions → Runners → New self-hosted runner → Windows x64. Follow the
-   download and `config.cmd` steps, and add the label `terveyshamsteri-fi` when asked.
-   Answer yes to running it as a service and give your own Windows account, so it can use your
-   Python install.
+1. Repository settings → Actions → Runners → New self-hosted runner → Windows x64. Download and
+   unpack it to `C:\actions-runner`, then in an administrator PowerShell there run
+   `.\config.cmd --url https://github.com/Savvyboi/terveyshamsteri --token <token from that page>
+   --name savvas-pc --labels terveyshamsteri-fi --work _work --runasservice --unattended`.
+   The service starts with Windows, so nobody needs to be logged in. The workflow brings its own
+   Python (via uv), so nothing else needs installing.
 2. Repository settings → Actions → General → "Fork pull request workflows from outside
    collaborators": choose **Require approval for all outside collaborators**, so no one else's
    pull request can run code on that computer.
 3. Repository settings → Secrets and variables → Actions → Variables: set `LOCAL_RUNNER` to
-   `true`, and `LOCAL_PYTHON` to the full path of `python.exe` if Python is not on the
-   account's PATH.
+   `true`, so the Sunday run is scheduled.
 4. Actions → Local scrape (Finland) → Run workflow, to try it.
 
 ## Privacy rules built in
