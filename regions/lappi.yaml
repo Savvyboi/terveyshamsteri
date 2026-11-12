@@ -7,19 +7,20 @@ short:
   fi: Lappi
   sv: Lappland
 homepage: https://lapha.fi
-enabled: false
+enabled: true
+runner: local   # Tweb does not answer GitHub's servers; see scrape-local.yml
 since: 2025-06-01   # start of the current council term
 language: fi
 source_status: confirmed   # confirmed | inferred | unknown
 epochs:
   - platform: tweb
     base_url: https://lapinhva-julkaisu.triplancloud.fi
-    gentle: true      # robots.txt disallows crawlers; fetched slowly if ever reachable
+    gentle: true      # robots.txt disallows crawlers; fetched slowly
     valid_from: 2026-01-01
   - platform: tweb
     base_url: https://lapha-julkaisu.tweb.fi
-    gentle: true      # robots.txt disallows crawlers; fetched slowly if ever reachable
+    gentle: true      # robots.txt disallows crawlers; fetched slowly
     valid_to: 2025-12-31
 notes:
-  fi: "Pöytäkirjat julkaistaan Tweb-palvelussa (ennen vuotta 2026 osoitteessa lapha-julkaisu.tweb.fi). Palvelun palomuuri hylkää GitHubin palvelimilta tulevat pyynnöt (tarkistettu 10.11.2026)."
-  sv: "Protokollen publiceras i Tweb (före 2026 på lapha-julkaisu.tweb.fi). Tjänstens brandvägg avvisar förfrågningar från GitHubs servrar (kontrollerat 10.11.2026)."
+  fi: "Pöytäkirjat julkaistaan Tweb-palvelussa, joka ei vastaa GitHubin palvelimille. Siksi ne haetaan kerran viikossa Suomessa olevalta tietokoneelta, hitaasti ja yksi sivu kerrallaan."
+  sv: "Protokollen publiceras i Tweb, som inte svarar GitHubs servrar. Därför hämtas de en gång i veckan från en dator i Finland, långsamt och en sida i taget."

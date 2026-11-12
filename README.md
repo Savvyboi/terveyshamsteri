@@ -45,7 +45,7 @@ within a time budget; anything left over continues the next week.
 | Pirkanmaa, Itä-Uusimaa, Keski-Uusimaa, Vantaa–Kerava, Kainuu, Pohjois-Pohjanmaa, Satakunta | CloudNC | enabled |
 | Etelä-Karjala | M-Files | enabled, fetched gently (robots.txt disallows crawlers) |
 | Varsinais-Suomi | STT Info press releases | enabled: board minutes only, as Varha's own Tweb is unreachable |
-| Päijät-Häme, Lappi, Etelä-Pohjanmaa, Kymenlaakso | Tweb | unreachable from GitHub's servers (checked 10.11.2026) |
+| Päijät-Häme, Lappi, Etelä-Pohjanmaa, Kymenlaakso | Tweb | scraped weekly from a computer in Finland (see below) |
 
 The Tweb hosts time out or are turned away by a firewall when contacted from GitHub Actions,
 whatever the User-Agent, so they need the county to open access, or a scraper run from a Finnish
@@ -64,6 +64,30 @@ are still fetched, but:
 - honouring `Retry-After`, slowing down on 429/503, and stopping for the week after three
   failures in a row or when asked to wait more than five minutes;
 - `status.json` lists the hosts fetched this way under `robots_ignored`.
+
+## Counties scraped from a computer in Finland
+
+Some Tweb servers (Päijät-Häme, Lappi, Etelä-Pohjanmaa, Kymenlaakso) do not answer GitHub's
+servers at all. Their configs say `runner: local`, so the Weekly scrape skips them and
+`.github/workflows/scrape-local.yml` scrapes them instead, on a self-hosted runner on a Windows
+computer in Finland, every Sunday at 17:00 UTC. It pushes its results to the `data-local` branch
+(one commit, force-pushed), and the Weekly scrape copies them into `data` when it publishes. If the
+computer is off, the site keeps the last local results.
+
+Setting up the runner (once):
+
+1. Repository settings → Actions → Runners → New self-hosted runner → Windows x64. Download and
+   unpack it to `C:\actions-runner`, then in an administrator PowerShell there run
+   `.\config.cmd --url https://github.com/Savvyboi/terveyshamsteri --token <token from that page>
+   --name savvas-pc --labels terveyshamsteri-fi --work _work --runasservice --unattended`.
+   The service starts with Windows, so nobody needs to be logged in. The workflow brings its own
+   Python (via uv), so nothing else needs installing.
+2. Repository settings → Actions → General → "Fork pull request workflows from outside
+   collaborators": choose **Require approval for all outside collaborators**, so no one else's
+   pull request can run code on that computer.
+3. Repository settings → Secrets and variables → Actions → Variables: set `LOCAL_RUNNER` to
+   `true`, so the Sunday run is scheduled.
+4. Actions → Local scrape (Finland) → Run workflow, to try it.
 
 ## Privacy rules built in
 
